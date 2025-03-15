@@ -313,7 +313,7 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T16:22:59",
+    "calculated_at": "2025-03-14T21:57:38",
     "ai_confidence": 32.0,
     "ai_mentions": 100.0,
     "ai_alignment": 25.0,
@@ -321,7 +321,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses engagement and organisational effectiveness, which are relevant to Lean Thinking principles, particularly in terms of value creation and decentralisation. However, it lacks direct references to Lean concepts such as waste identification, continuous improvement, or specific Lean tools. The focus is more on engagement and leadership rather than on Lean methodologies, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -334,7 +334,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-11T17:35:41",
+    "calculated_at": "2025-03-14T21:57:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -342,7 +342,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses engagement and decentralisation, which are related to transparency and accountability, but does not explicitly focus on these principles. While it touches on the importance of clear communication and shared vision, it lacks a detailed exploration of accountability mechanisms or transparency practices within Agile teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -427,11 +427,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T17:44:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:00:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of engagement, decentralisation, and principles in maximising organisational value, which aligns closely with Agile values of collaboration and self-organisation.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of engagement, decentralisation, and principles over rules, which aligns with Agile values of collaboration and self-organisation. However, it does not explicitly mention Agile methodologies or the Agile Manifesto, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -472,21 +475,27 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T17:44:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of engagement and decentralisation in organisations, highlighting how traditional management practices can inhibit value delivery. It focuses on cultural principles that foster engagement and the need for leaders to enable their teams, aligning closely with the themes of organisational culture in Agile environments.",
+    "calculated_at": "2025-03-14T15:21:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the importance of engagement within teams and how it relates to organisational culture. It discusses decentralisation, democratisation, and fostering a culture of care, all of which are key elements that influence organisational culture. The depth of discussion is substantial, providing insights into how leadership can shape culture and the impact of engagement on team dynamics. Overall, the content aligns well with the core themes of the category, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T17:44:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:57:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which aligns with principles of Agile transformation, but it primarily focuses on individual and team-level practices rather than large-scale Agile frameworks or strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses engagement and decentralisation, which are relevant to Agile principles, but it primarily focuses on team-level practices and individual empowerment rather than large-scale Agile frameworks or enterprise-level strategies. While it touches on themes of collaboration and organisational structure, it lacks explicit references to scaling Agile methodologies or frameworks, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -508,20 +517,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T17:44:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of engaging people in organisations to maximise value, which relates to fostering a culture of innovation. However, it primarily focuses on engagement and management practices rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:57:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of engagement and decentralisation in fostering innovation within teams, which aligns with the core themes of the Ability to Innovate category. However, it lacks explicit references to Evidence-Based Management and specific frameworks for measuring innovation capabilities. The depth of discussion on enabling teams and creating a culture of care contributes positively, but the overall focus remains more on engagement than on direct innovation practices.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T17:44:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:57:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of engagement and principles in Agile teams, aligning closely with Agile transformation strategies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses engagement and decentralisation, which are relevant to Agile principles, but it lacks explicit references to Agile frameworks or methodologies. The focus on leadership and cultural shifts aligns with Agile transformation themes, but the depth of discussion on specific Agile practices is limited.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -535,12 +550,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T17:44:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:57:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engaging people to maximize value, which aligns with Lean principles, but it primarily focuses on engagement and organizational structure rather than specific Lean practices or waste reduction.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses engagement and organisational effectiveness, which are relevant to Lean Principles, particularly in terms of value maximisation and decentralisation. However, it lacks direct references to Lean concepts such as waste reduction or specific Lean tools. The focus is more on engagement strategies rather than Lean methodologies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -553,12 +571,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T17:44:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:57:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which relates to fostering a culture of adaptability and continuous improvement, but it primarily focuses on engagement rather than resilience or change management.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses engagement and its importance in organisational effectiveness, which indirectly relates to resilience and adaptability. However, it lacks explicit discussions on change management practices or frameworks for organisational resilience. The focus is more on engagement strategies rather than on resilience as a primary theme.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -598,12 +619,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T17:44:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:57:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of engagement in Agile teams, which could relate to presentations or workshops on Agile methodologies, but it does not explicitly reference a specific event or presentation.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses engagement in Agile teams but does not reference any specific events, presentations, or discussions. While it aligns conceptually with themes of Agile methodologies, it lacks direct mentions of events or structured learning experiences, which are crucial for this category.",
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -634,21 +658,27 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T17:44:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:57:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engagement and restructuring organizations to maximize value, which aligns with the theme of fostering an agile culture. However, it primarily focuses on individual and team-level engagement rather than explicitly addressing scaling agility across multiple teams or the organisation as a whole.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses engagement and decentralisation, which are relevant to scaling agility, but it primarily focuses on team-level practices and individual empowerment rather than organisational-level strategies or frameworks for scaling agility. While it touches on concepts like shared vision and autonomy, it lacks explicit references to scaling frameworks or the broader organisational implications of agility.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T17:44:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:57:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement and organizational structure in a general sense, but it also touches on principles relevant to Agile methodologies, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement in teams and organisational effectiveness, which aligns with broader themes of business agility. However, it does not reference specific Agile frameworks or methodologies, making it somewhat relevant to the Miscellaneous category. The discussion is detailed but primarily focuses on engagement rather than Agile principles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -688,21 +718,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T17:44:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:57:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of engagement and restructuring organisations to maximise value, which aligns with change management principles, but it primarily focuses on engagement rather than a comprehensive change management strategy.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses engagement and empowerment within teams, which aligns with change management principles, particularly in fostering a culture of adaptability and resilience. However, it lacks explicit references to change management strategies or practices, and while it touches on decentralisation and autonomy, it does not delve deeply into the mechanisms of managing change or the role of leadership in transformation.",
     "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T17:44:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which relates to team dynamics and collaboration, but it primarily focuses on broader organisational principles rather than specific team collaboration techniques or Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:58:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses engagement within Agile teams, emphasising decentralisation, democratisation, and creating a shared vision, which aligns with team collaboration principles. However, it lacks direct mentions of specific Agile frameworks and does not delve deeply into practical techniques for improving team dynamics or communication.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -733,38 +769,50 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T17:44:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engagement and principles in maximizing organizational value, which relates to fostering a culture of innovation and continuous learning. However, it primarily focuses on management practices rather than specific methodologies or processes of discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses engagement and its importance in fostering innovation and team effectiveness, which aligns with the themes of discovery and learning. However, while it touches on concepts like decentralisation and autonomy, it lacks explicit discussions on methodologies or frameworks that directly support continuous learning and experimentation. The focus is more on engagement strategies rather than the processes of learning and discovery, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T17:45:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:58:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of engagement and decentralisation in organisations, aligning closely with self-organisation principles.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses self-organisation principles such as decentralisation and autonomy, which are central to the category. It highlights the importance of engagement and creating a culture that empowers individuals, aligning well with self-organisation themes. The depth of discussion is substantial, providing insights into how leaders can foster an environment conducive to self-organisation. However, while it touches on self-organisation, it also broadly addresses engagement and organisational effectiveness, which slightly dilutes the primary focus.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:45:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:58:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of engagement and principles in maximizing value delivery within organizations, aligning with themes of the Agile Product Operating Model, but it does not focus specifically on Agile methodologies or product-centric development.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses engagement and organisational effectiveness, which are relevant to the Agile Product Operating Model. However, it lacks direct references to product-centric development and specific Agile methodologies. While it touches on decentralisation and team autonomy, which align with Agile principles, the focus is more on engagement strategies than on the operational model itself.",
     "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T17:45:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:58:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of engaging employees to maximise organisational value, focusing on decentralisation, principles of engagement, and the need for employees to care about the organisation's success.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of engagement in organisations, focusing on decentralisation, democratisation, and fostering a culture of care, which aligns closely with the core themes of employee engagement. It provides substantial detail on how these concepts can enhance motivation and commitment among team members, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -778,20 +826,26 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T17:45:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging teams and decentralising management to maximise value, which aligns with the principles of Agile methodologies. However, it does not explicitly focus on market adaptability as a primary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses engagement and decentralisation, which are relevant to market adaptability, but it lacks a direct focus on Agile methodologies, DevOps practices, or Lean principles. While it touches on themes of empowerment and innovation, it does not provide substantial detail on how these concepts specifically enhance an organisation's ability to respond to market changes.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T17:45:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:58:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of engagement and restructuring within organisations, which aligns with systems thinking principles and organisational dynamics. However, it primarily focuses on engagement and management practices rather than a comprehensive exploration of organisational physics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses engagement and its impact on organisational effectiveness, which aligns with systems thinking principles. It mentions decentralisation and democratisation, reflecting on how organisational structure affects performance. However, while it touches on these themes, the primary focus is on engagement rather than a comprehensive exploration of organisational dynamics or systems thinking, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -814,11 +868,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T17:45:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging team members and decentralising decision-making to maximise organisational value, which aligns with collaborative decision-making principles. However, it primarily focuses on engagement and organisational structure rather than structured, evidence-based methodologies for decision-making.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of engagement and decentralisation in decision-making processes, which aligns with the category's focus on structured, evidence-based methodologies. However, it primarily emphasises engagement and cultural aspects rather than providing detailed frameworks or empirical evidence for decision-making, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
@@ -832,21 +889,27 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T17:45:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement and the need for a supportive environment that allows individuals to leverage their skills, which relates to psychological safety, but it primarily focuses on organizational structure and management practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses engagement and organisational effectiveness, touching on themes like decentralisation and autonomy, which are related to psychological safety. However, it does not explicitly mention psychological safety or delve deeply into its specific principles or strategies. The focus is more on engagement and leadership practices rather than creating a psychologically safe environment.",
     "level": "Tertiary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T17:45:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement and value delivery in organizations, which aligns with Lean principles, but it primarily focuses on organisational structure and management practices rather than specific Lean Product Development techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement and organisational effectiveness within agile teams, which indirectly relates to Lean principles. However, it lacks direct mentions of Lean Product Development concepts and does not delve into specific techniques for waste reduction or customer feedback integration, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -868,38 +931,50 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T17:45:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which relates to sensemaking in terms of enabling teams to interpret their roles and contributions effectively. However, it primarily focuses on engagement and management practices rather than a direct exploration of sensemaking principles or frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of engagement in organisations, which aligns with sensemaking principles by emphasising decentralisation, democratisation, and fostering a culture of care. It touches on how these elements can help teams navigate complexity and make informed decisions. However, while it mentions concepts related to sensemaking, it does not delve deeply into frameworks or specific techniques for interpreting complex situations, which limits its depth of discussion.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T17:45:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engagement and decentralisation in Agile teams, which aligns with strategic approaches to optimise delivery and enhance team performance. However, it primarily focuses on engagement rather than a comprehensive strategic framework.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of engagement in Agile teams, which aligns with strategic approaches to optimise delivery and enhance team performance. It mentions decentralisation, democratisation, and fostering a culture of care, all of which are relevant to strategic alignment and leadership in Agile environments. However, while it touches on strategic concepts, it lacks a detailed exploration of specific Agile frameworks or metrics, which slightly lowers the depth of discussion.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T17:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses engagement and decentralisation in organisations, which relates to operational efficiency, but it primarily focuses on principles and management practices rather than specific operational techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses engagement and its importance in organisational effectiveness, which indirectly relates to operational practices. However, it lacks direct mentions of specific operational techniques or methodologies like Agile, DevOps, or Lean. While it touches on decentralisation and autonomy, which can enhance operational efficiency, the focus is more on engagement and culture rather than concrete operational strategies or metrics.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T17:45:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:58:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of engagement, decentralisation, and principles in maximising organisational value, which aligns closely with Agile Philosophy's focus on collaboration, adaptability, and value delivery.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which aligns with Agile principles of collaboration and value delivery. However, it does not explicitly mention Agile methodologies or the Agile Manifesto, leading to a lower direct mention score. The depth of discussion on Agile-related concepts is moderate, focusing on cultural shifts and team dynamics, but lacks specific references to Agile frameworks.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -913,12 +988,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T17:45:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging individuals within organizations and decentralizing management practices, which aligns with coaching principles. However, it primarily focuses on organizational structure and engagement rather than specific coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which aligns with coaching principles. However, it lacks direct mentions of coaching techniques or frameworks, and the depth of discussion on coaching as a practice is limited.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -931,11 +1009,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T17:45:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engagement and principles in maximizing organizational value, which relates to fostering a growth mindset and team improvement, but it primarily focuses on engagement rather than continuous learning practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses engagement and empowerment within teams, which aligns with the principles of Continuous Learning, particularly in fostering a growth mindset and encouraging autonomy. However, it lacks explicit mentions of Continuous Learning practices and does not delve deeply into specific techniques or frameworks that support ongoing education and skill development.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -967,29 +1048,38 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T17:45:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of engagement and principles in maximizing organizational value, which aligns with Agile philosophies, but it does not focus specifically on Agile product management practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which aligns with Agile principles of collaboration and empowerment. However, it lacks direct mentions of Agile product management practices, such as the role of the Product Owner or specific techniques for backlog prioritisation. The depth of discussion on engagement strategies is substantial, but it does not delve deeply into Agile methodologies or product management specifics.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T17:45:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for a holistic approach to organisational structure and engagement, which aligns with Systems Thinking principles, but it primarily focuses on engagement and management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses engagement and decentralisation in organisations, which aligns with Systems Thinking principles of interconnectedness and holistic analysis. However, it primarily focuses on engagement strategies rather than explicitly addressing Systems Thinking concepts like feedback loops or system dynamics. The depth of discussion on Systems Thinking is limited, as it does not explore specific tools or frameworks associated with the category.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T17:45:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of engaging people to maximize value delivery, which aligns with Value Stream Management principles, but it primarily focuses on engagement and organizational structure rather than specific value stream techniques or metrics.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses engagement and organisational effectiveness, which are related to value delivery but does not explicitly mention Value Stream Management or its core principles. While it touches on themes of decentralisation and creating a shared vision, it lacks detailed exploration of value stream mapping, waste elimination, or specific metrics related to value stream performance.",
     "level": "Tertiary"
   },
   "Scaling Scrum": {
@@ -1003,11 +1093,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T17:45:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:58:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the interplay between organisational structure and employee engagement, emphasising the need for decentralisation and principles over traditional management practices, which aligns well with sociotechnical systems.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of engagement within organisations, which aligns with sociotechnical systems by addressing the interplay between social aspects (engagement, culture, autonomy) and technical practices (decision-making structures). It explicitly mentions decentralisation and democratisation, which are key themes in sociotechnical discussions. However, while it touches on these concepts, the depth of exploration into how these elements influence software delivery and team effectiveness could be more pronounced, leading to a slightly lower score in depth.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1021,12 +1114,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T17:46:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engagement and principles over traditional management practices, which aligns with the themes of transparency and adaptation in Agile methodologies, but it does not focus primarily on empirical process control.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses engagement and decentralisation in Agile teams, which aligns with some principles of empirical process control, such as fostering transparency and adaptation. However, it lacks direct mentions of empirical process control and does not delve deeply into inspection or evidence-based decision-making, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1435,7 +1531,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:17:43",
+    "calculated_at": "2025-03-14T21:57:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1443,6 +1539,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of engagement and decentralisation in organisations, which aligns with some Agile principles, but it does not explicitly mention Scrum roles, events, or artifacts. The focus is more on general Agile practices rather than specific Scrum methodologies, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

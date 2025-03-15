@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/installing-visual-studio-2008-beta-2-on-xp
 tags:
 - Miscellaneous
-- Windows
-- Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

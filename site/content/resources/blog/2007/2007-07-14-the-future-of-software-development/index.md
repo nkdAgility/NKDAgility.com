@@ -8,7 +8,7 @@ ResourceImportId: 371
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-14
-weight: 495
+weight: 575
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Pragmatic Thinking
-- People and Process
-- Product Delivery
-- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

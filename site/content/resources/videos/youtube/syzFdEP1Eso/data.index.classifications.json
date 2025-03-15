@@ -85,7 +85,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:21:38",
+    "calculated_at": "2025-03-14T21:02:22",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -93,7 +93,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the concept of 'Definition of Done' within the context of Scrum, which is a project management framework rather than a direct discussion on product management. While it touches on quality assurance and customer satisfaction, it lacks a broader strategic focus on product management methodologies or frameworks. The analogy used is engaging but does not delve deeply into the strategic alignment of customer needs and business objectives, which are core to product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -133,12 +133,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' in the context of Scrum, which is a key aspect of ensuring software quality and functionality. However, it primarily uses an analogy related to baking, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:02:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) in the context of Scrum and software development, highlighting its importance in ensuring quality and functionality. It provides detailed examples of criteria that contribute to working software, aligning well with the category's core themes. The depth of discussion is significant, as it covers practical advice and implications for quality assurance and customer satisfaction, making it a strong fit for the Working Software category.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -301,12 +304,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a 'definition of done' in ensuring product quality, which indirectly relates to customer satisfaction by emphasising the need for happy and successful customers. However, the primary focus is on Scrum roles and events rather than customer satisfaction itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:02:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Definition of Done in Scrum and its importance in ensuring product quality, which indirectly relates to customer satisfaction. It mentions customer satisfaction as a benefit of delivering high-quality products, but the primary focus is on the Definition of Done itself rather than a comprehensive exploration of customer satisfaction principles or practices.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -361,7 +367,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T15:04:34",
+    "calculated_at": "2025-03-14T21:02:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -369,7 +375,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the concept of 'Definition of Done' in the context of Scrum, which touches on quality assurance and standards in software development. However, it primarily focuses on the analogy of baking rather than providing in-depth insights into engineering practices or methodologies. While it mentions quality and acceptance criteria, it lacks a comprehensive exploration of engineering excellence principles, best practices, or continuous improvement processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -391,12 +397,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' within the context of Scrum, which relates to Agile principles of quality and customer satisfaction. However, it primarily focuses on Scrum practices rather than the underlying Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the Definition of Done within the context of Scrum, which is a specific Agile framework. While it touches on quality assurance and team alignment, it does not explicitly address the core Agile values or principles, such as customer collaboration or responding to change. The focus is more on practical application rather than a deep exploration of Agile's foundational beliefs.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -445,11 +454,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' in Scrum, which relates to quality assurance and acceptance criteria, but it primarily focuses on the analogy of baking rather than the principles of empirical process control.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Definition of Done in Scrum, which relates to quality assurance and team alignment, key aspects of empirical process control. However, it lacks direct references to empirical process control principles and does not delve deeply into the broader implications of transparency, inspection, and adaptation. The focus is more on practical advice for defining DoD rather than a comprehensive exploration of empirical process control.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -529,11 +541,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the 'Definition of Done', which is related to ensuring quality in increments of software delivery, but it primarily focuses on the concept of quality assurance rather than the delivery of increments themselves.",
+    "calculated_at": "2025-03-14T21:02:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 43.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in detail, which is crucial for ensuring the quality of increments in Scrum. However, while it touches on the importance of delivering quality software, it primarily focuses on the DoD rather than the broader concept of increments themselves. The relationship between DoD and increments is implied but not explicitly explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -670,12 +685,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the 'Definition of Done' in the context of Scrum, which relates to team performance and quality assurance. However, it primarily focuses on the concept itself rather than broader team dynamics or collaboration strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:02:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in Scrum, which directly relates to team performance by ensuring quality and alignment within the team. It mentions team alignment and collaboration in defining the DoD, which is crucial for effective teamwork. However, while it touches on team dynamics, the focus is more on the DoD itself rather than broader team performance strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -724,11 +742,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' within the context of Scrum, which is a framework for Agile transformation. While it primarily focuses on the specifics of Scrum practices, it does touch on Agile principles and the importance of quality in delivering products, making Agile a significant theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Definition of Done within the context of Scrum, which is a key Agile framework. While it does not explicitly mention Agile transformation, it aligns with Agile principles by emphasising quality, team alignment, and continuous improvement. The depth of discussion on the Definition of Done provides practical advice that supports Agile practices, but it lacks a broader focus on organisational transformation or change management strategies.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -769,21 +790,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' within the context of Scrum, making it a significant theme, but it also includes a broader analogy that may detract from a strict focus on Scrum product development.",
-    "level": "Tertiary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the Definition of Done within the context of Scrum, highlighting its importance for quality assurance and team alignment. It provides detailed examples and practical advice on how to define and apply the DoD in both software development and a bakery analogy, demonstrating a strong alignment with Scrum principles and practices.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' in Scrum, which relates to quality assurance and operational efficiency in Agile practices. However, it primarily focuses on the analogy of baking rather than providing direct strategies or techniques for operational improvement.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done in Scrum, which is a key operational practice that ensures quality and consistency in deliverables. While it does not explicitly mention operational efficiency or metrics, it aligns with the principles of quality assurance and continuous improvement, which are essential in Agile methodologies. The depth of discussion is moderate, providing practical advice and examples, but it lacks a broader focus on operational practices beyond the context of Scrum.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -871,12 +898,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:18:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' within the context of Scrum, which is a key aspect of Agile Planning. However, it primarily focuses on the definition itself rather than broader Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done within the context of Scrum, which is a key aspect of Agile methodologies. While it does not explicitly mention Agile Planning, it aligns with Agile principles by emphasising quality assurance, team alignment, and iterative improvement. However, the focus is more on the Definition of Done rather than broader Agile Planning strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -973,7 +1003,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:33:00",
+    "calculated_at": "2025-03-14T21:02:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -981,7 +1011,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the Definition of Done within the Scrum framework, which is a specific Agile practice rather than a discussion of Agile philosophy as a whole. While it touches on quality assurance and team alignment, it lacks a broader exploration of Agile principles such as customer collaboration and adaptability. The discussion is more technical and practical, making it secondary to the Agile Philosophy category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1003,7 +1033,7 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-03-13T15:10:30",
+    "calculated_at": "2025-03-14T21:02:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1011,7 +1041,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the Definition of Done in the context of Scrum and software development, which is related to acceptance criteria. However, it does not explicitly focus on Acceptance Test Driven Development (ATDD) or its collaborative nature. The discussion is more about quality assurance and general practices rather than the specific principles and techniques of ATDD.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -1123,12 +1153,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' in the context of Scrum, which is a key aspect of Agile methodologies and product delivery. However, the primary focus is on the analogy of baking rather than the direct practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the Definition of Done within the context of Scrum, linking it to quality assurance and customer satisfaction, which are core aspects of product delivery. It provides detailed examples and practical advice on how to implement a Definition of Done, demonstrating a strong alignment with the methodologies and practices involved in delivering usable software products. The depth of discussion is significant, covering various aspects of quality and team alignment, which are crucial for effective product delivery.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1180,12 +1213,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' within the context of Scrum, which is a methodology related to Agile practices. While it provides insights into quality assurance in software development, it does not delve deeply into specific tools or practical techniques for implementation.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Definition of Done in Scrum, which is a practical technique relevant to Agile methodologies. It provides insights into how to create and apply a Definition of Done, linking it to quality assurance in software development. However, while it touches on practical application, it lacks detailed exploration of specific tools or methodologies beyond Scrum, which limits its depth in the context of tooling.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1261,12 +1297,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' in Scrum, which relates to ensuring quality and customer satisfaction, but it primarily focuses on the analogy of baking rather than directly addressing value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Definition of Done in Scrum, which is crucial for ensuring quality and customer satisfaction. It aligns with value delivery principles by emphasising quality assurance, customer satisfaction, and team alignment. However, while it touches on these aspects, the focus is more on the concept of DoD rather than broader value delivery strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1279,12 +1318,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:02:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' within the context of Scrum, which is a key Agile methodology. While it touches on quality and customer satisfaction, the primary focus is on Scrum roles and events rather than broader organisational agility strategies or cultural shifts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Scrum, which is a specific Agile practice. While it touches on quality assurance and team alignment, it lacks a broader discussion on organisational agility principles, such as leadership roles or cultural shifts. The content does not explicitly mention organisational agility or its key topics, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",

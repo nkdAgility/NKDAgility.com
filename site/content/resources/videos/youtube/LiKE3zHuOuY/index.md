@@ -26,8 +26,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Developers
 - Software Development
+- Software Developers
 resourceTypes:
 - video
 categories:

@@ -27,7 +27,6 @@ categories:
 - Social Technologies
 tags:
 - Value Delivery
-- Agile Product Operating Model
 - Product Backlog
 - Agile Product Management
 - Product Delivery

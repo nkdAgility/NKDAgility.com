@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which is related to Agile methodologies, particularly Scrum. However, the primary focus is on technical aspects of the upgrade process rather than on Agile product management principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on technical aspects of upgrading a process template in TFS, with limited discussion on Agile principles or product management strategies. While it mentions Scrum and touches on Agile tools, it lacks depth in discussing the role of the Product Owner, backlog prioritisation, or stakeholder engagement, which are key topics in Agile Product Management.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -214,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading a process template in TFS, which relates to engineering practices and methodologies, but the primary focus is on the upgrade process rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS, which is a technical task. However, it lacks a direct discussion on broader engineering practices or methodologies that enhance agility, such as TDD or CI/CD. While it touches on aspects of Agile and customisation, these are not explored in depth or connected to the principles of technical excellence. The content is more operational than strategic, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -241,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading to a specific Scrum process template in TFS, which relates to Agile methodologies and practices in product delivery, but it primarily focuses on technical steps rather than broader product delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which is relevant to product delivery methodologies, particularly in the context of Agile practices. It mentions the importance of customising templates and the implications of upgrading processes, which aligns with the iterative development and planning aspects of product delivery. However, while it touches on relevant topics, the depth of discussion is more focused on technical steps rather than broader product delivery strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -355,12 +364,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading a process template in Team Foundation Server, which relates to the management of software applications, but primarily focuses on Scrum and TFS features rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on upgrading a specific process template within Team Foundation Server (TFS) and discusses steps related to that process. While it touches on aspects of application management, such as customisation and deployment, it lacks a comprehensive discussion on the broader themes of Application Lifecycle Management, such as governance, compliance, and risk management. The content is more technical and specific to a tool rather than addressing the lifecycle of applications in a holistic manner.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,12 +394,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading a process template in TFS 2013 and customizations related to Agile practices, but it primarily focuses on procedural steps and user experience rather than deeper software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on upgrading a specific process template in Team Foundation Server, which is more aligned with project management and tool usage rather than the core principles of software craftsmanship. While it does touch on aspects of technical practices, such as customisation and configuration, it lacks a deeper exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -463,12 +478,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which relates to Agile methodologies and practices, especially within the context of Scrum. However, the primary focus is more on technical aspects of the upgrade rather than broader Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which is related to Agile methodologies. However, it primarily focuses on technical steps for upgrading and customising the process template rather than exploring Agile Planning principles or practices in depth. While there are mentions of Agile concepts, the discussion lacks a strong emphasis on Agile Planning strategies, techniques, or best practices.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -502,12 +520,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the Visual Studio Scrum 3.0 process template, indicating a relevance to Scrum practices, but primarily focuses on technical upgrade instructions rather than team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading the Visual Studio Scrum 3.0 process template in TFS 2013, with limited discussion on Scrum Team dynamics or roles. While it mentions 'Scrum' in the context of the process template, it does not delve into the collaboration, communication, or team dynamics that are central to the Scrum Team category. The discussion lacks depth regarding team roles, practices, or continuous improvement, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -538,12 +559,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which relates to Scrum methodologies and practices within Agile frameworks, but does not comprehensively cover broader topics of Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on upgrading a specific Scrum process template within Team Foundation Server, which is a technical task rather than a discussion on Agile transformation principles. While it mentions Scrum and touches on aspects of Agile practices, it lacks a broader discussion on Agile transformation strategies, change management, or leadership roles. The depth of discussion is moderate, providing steps for upgrading but not exploring the implications or methodologies of Agile transformation in a comprehensive manner.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -625,12 +649,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Visual Studio Scrum 3.0 process template, which is related to the Scrum framework, but primarily focuses on technical implementation in TFS rather than the core principles and practices of Scrum.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which is related to Scrum but primarily focuses on technical implementation rather than the core principles, roles, and practices of Scrum. While it mentions Scrum in the context of a process template, it lacks in-depth exploration of Scrum roles, events, or values, and does not provide substantial theoretical or practical insights into Scrum as outlined in the Scrum Guide.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -661,12 +688,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses upgrading the Visual Studio Scrum 3.0 process template in Team Foundation Server (TFS), which is related to Azure Boards; however, it leans more towards the upgrading process rather than the functionalities and best practices of Azure Boards themselves.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses upgrading the Visual Studio Scrum 3.0 process template in Team Foundation Server (TFS) rather than focusing on Azure Boards specifically. While it touches on Agile methodologies and mentions some relevant concepts, it does not delve deeply into Azure Boards' functionalities, best practices, or specific features. The discussion is more about TFS and process templates, which are related but not strictly within the Azure Boards category.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -826,12 +856,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:15",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses upgrading to Visual Studio Scrum 3.0, which relates to the Scrum process templates and Agile methodologies. However, the main focus is more technical about TFS tools rather than Scrum principles and practices themselves.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which is relevant to Scrum practices. However, it primarily focuses on technical aspects of the upgrade process rather than the broader principles of Scrum product development. While it mentions Scrum and its templates, it lacks in-depth discussions on Scrum roles, sprint processes, or customer feedback integration, which are key themes of the category.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -880,20 +913,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses upgrading the Visual Studio Scrum process template, which ties into working software practices, yet it is focused more on the technical aspects of the upgrade process rather than broader discussions on delivering high-quality, functional software.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the technical process of upgrading to a specific Scrum process template in TFS, which is a practical aspect of working software. However, it lacks a broader discussion on the characteristics of working software, customer value, or best practices for ensuring software quality. While it touches on the importance of using the latest tools and templates, it does not delve deeply into how these upgrades contribute to delivering functional software that meets user needs.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:06:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses upgrading the Visual Studio Scrum 3.0 Process Template related to Team Foundation Server, which connects to Agile tools but focuses more on the technical aspects and customization rather than the broader themes of Agile planning tools.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses upgrading to the Visual Studio Scrum 3.0 process template, which is related to Agile methodologies. However, it primarily focuses on the technical aspects of the upgrade process rather than exploring Agile Planning Tools in depth. While there are mentions of Agile concepts and tools, the discussion lacks a comprehensive overview of Agile Planning Tools, their benefits, and strategies for effective planning, which are key topics for this category.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -970,12 +1009,12 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:56",
+    "calculated_at": "2025-03-15T05:05:39",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content discusses upgrading the Visual Studio Scrum process template, which relates to version control and managing updates, but the primary focus is more on the upgrade process itself rather than broader release management strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1069,12 +1108,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:04:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:05:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed process for upgrading and configuring the Visual Studio Scrum 3.0 process template in Team Foundation Server 2013, including steps and technical considerations that align closely with system configuration practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the process of upgrading the Visual Studio Scrum 3.0 Process Template in Team Foundation Server 2013, which involves specific steps for configuration and customisation. It mentions the need for administrative access, the use of tools like WitAdmin.exe, and the importance of testing configurations, aligning well with system configuration practices. However, the focus is more on the upgrade process rather than broader system configuration principles, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1177,11 +1219,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of upgrading the Visual Studio Scrum 3.0 process template in TFS, which involves identifying and addressing potential issues that may arise during the upgrade, such as customizations and compatibility. However, the primary focus is on the upgrade process rather than strictly troubleshooting.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on upgrading the Visual Studio Scrum process template and does not explicitly discuss troubleshooting techniques or methodologies. While it touches on potential issues related to the upgrade process, such as the need for customisation and testing, these points are not explored in depth. The content lacks a systematic approach to diagnosing and resolving technical issues, which is essential for a strong alignment with the Troubleshooting category.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1288,21 +1333,24 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T19:04:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:05:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on upgrading and implementing the Visual Studio Scrum 3.0 Process Template, which is directly related to the Scrum Agile framework.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on upgrading the Visual Studio Scrum 3.0 process template, which is a specific Agile framework. It discusses the steps involved in the upgrade process, the importance of customisations, and the implications of using different templates. While it does not delve deeply into the principles of Agile or provide a comparative analysis of frameworks, it does align with the core themes of Agile frameworks by discussing Scrum specifically. The depth of discussion is substantial, providing detailed instructions and considerations for implementation, which supports a higher confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:56",
+    "calculated_at": "2025-03-15T05:05:39",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content heavily focuses on technical details related to upgrading software tools and templates, with minimal emphasis on strategic aspects of Agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",

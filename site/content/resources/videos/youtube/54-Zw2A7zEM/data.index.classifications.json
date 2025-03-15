@@ -40,7 +40,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:07:08",
+    "calculated_at": "2025-03-14T23:16:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -48,11 +48,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of an Agile coach, which touches on leadership in Agile contexts. However, it primarily focuses on the technical expertise and experience of the coach rather than explicitly addressing leadership strategies or practices. While there is some alignment with leadership themes, the depth of discussion is more about the individual's experience than on fostering organisational agility or inspiring teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:44:50",
+    "calculated_at": "2025-03-14T23:16:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -60,7 +60,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of an Agile coach and their experience in implementing Agile practices, which touches on the principles of business agility. However, it primarily focuses on the comparison between a Scrum Master and an Agile coach rather than exploring broader themes of business agility, such as organisational adaptability or leadership roles in promoting agility. The depth of discussion is moderate, but it lacks a comprehensive exploration of business agility as a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -73,7 +73,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T12:07:14",
+    "calculated_at": "2025-03-14T23:16:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -81,7 +81,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions Scrum in the context of comparing a Scrum Master to an Agile Coach, but it lacks a detailed exploration of Scrum principles, roles, or practices. While it touches on the experience and knowledge required for effective Scrum implementation, it does not delve into the core themes of the Professional Scrum category, such as the Scrum framework, artifacts, or values. The discussion is more focused on the broader role of an Agile Coach rather than a specific examination of Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -244,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T10:10:44",
+    "calculated_at": "2025-03-14T23:16:07",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -252,7 +252,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of an Agile coach and their experience in implementing Agile practices, which relates to product delivery methodologies. However, it lacks direct mentions of specific product delivery processes or practices, making it more of a secondary discussion rather than a primary focus on product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -307,7 +307,7 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T16:27:53",
+    "calculated_at": "2025-03-14T23:16:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -315,7 +315,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, with a focus on Agile practices rather than Lean Thinking principles. While it briefly mentions 'lean Agile' in the context of the Agile Coach's experience, it does not delve into Lean principles such as waste minimisation, value stream mapping, or continuous improvement. The discussion lacks depth in Lean concepts, leading to a low confidence score for alignment with Lean Thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -355,7 +355,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T17:40:37",
+    "calculated_at": "2025-03-14T23:16:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -363,7 +363,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the roles of Scrum Masters and Agile Coaches, which are more aligned with team-level practices rather than the broader organisational context of Enterprise Agility. While it touches on the importance of guiding organisations and embedding Agile practices, it lacks a comprehensive discussion on organisational structures, frameworks, or strategies that support enterprise-level agility. Therefore, the confidence score reflects a low alignment with the core themes of Enterprise Agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -397,7 +397,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:48:09",
+    "calculated_at": "2025-03-14T23:16:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -405,16 +405,19 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses the differences between a Scrum Master and an Agile Coach, which indirectly relates to the Scrum Master role. However, the primary focus is on the Agile Coach, with only brief mentions of the Scrum Master. The alignment with core themes is moderate, as it touches on knowledge and experience relevant to both roles, but lacks depth in discussing specific Scrum Master responsibilities or practices. Overall, while the Scrum Master is mentioned, the content does not provide substantial insights into the role itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T21:25:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the role of an Agile coach, which relates to Agile Planning, but it primarily focuses on the comparison between a Scrum Master and an Agile Coach rather than on Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, which are related to Agile practices but does not focus specifically on Agile Planning methodologies or techniques. While it touches on the importance of embedding Agile practices, it lacks direct discussions on planning strategies, user stories, or iterative processes that are central to Agile Planning.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -508,12 +511,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T21:25:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles and experiences of Agile coaches and Scrum Masters, which relates to Agile practices and transformation, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the roles of Scrum Masters and Agile Coaches, which are integral to Agile transformation. It discusses the depth of knowledge and experience required for these roles, aligning with the principles of Agile transformation. However, while it touches on the importance of embedding Agile practices within organisations, it lacks detailed exploration of broader Agile transformation strategies, frameworks, or change management, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -526,12 +532,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T21:25:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Lean as part of a broader discussion on Agile practices, but it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:16:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, focusing on their differences and experiences within Agile frameworks. While it briefly mentions 'lean Agile' in the context of the Agile Coach's knowledge, it does not delve into Lean Principles or their core concepts such as waste reduction or continuous improvement. The discussion lacks depth regarding Lean practices, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -616,11 +625,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T21:25:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master in comparison to an Agile Coach, which is a significant aspect of Scrum Team dynamics, but it does not focus primarily on Scrum Team collaboration or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the differences between a Scrum Master and an Agile Coach, which touches on roles within the Scrum framework. However, it lacks a comprehensive exploration of team dynamics, collaboration, and other key aspects of a Scrum Team. While it mentions the Scrum Master role, it does not delve into the broader context of Scrum Team effectiveness or collaboration, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -688,12 +700,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T21:25:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, which relates to team dynamics and collaboration, but it primarily focuses on individual expertise rather than collective team collaboration.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, which are relevant to team dynamics and collaboration within Agile frameworks. However, it primarily focuses on the distinctions between these roles rather than exploring techniques for improving team communication or fostering a culture of trust. While there are mentions of experience and guiding organisations, the depth of discussion does not fully align with the core themes of team collaboration, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -769,12 +784,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T21:26:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the role of an Agile coach, which are relevant to market adaptability, but the primary focus is on the comparison between a Scrum Master and an Agile Coach rather than on strategies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, focusing on their knowledge and experience rather than directly addressing market adaptability. While it touches on Agile practices, it lacks explicit discussions on how these roles contribute to an organisation's ability to respond to market changes or competitive pressures. The depth of discussion is moderate, but it does not provide specific strategies or methodologies related to market adaptability.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -841,11 +859,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T21:26:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the differences between a Scrum Master and an Agile Coach, highlighting the experience and knowledge that contribute to effective mentoring in Agile environments. However, it primarily focuses on the roles rather than providing direct guidance or techniques for mentoring.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, highlighting their experiences and knowledge. However, it primarily focuses on the distinctions between these roles rather than providing direct guidance or coaching techniques related to mentoring. While there are elements of mentoring implied in the discussion of guiding organisations, the content lacks explicit references to mentoring practices or strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -868,30 +889,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T21:26:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, which relates to the development of strategic approaches within Agile frameworks, but it primarily focuses on the differences in experience and knowledge rather than strategic alignment or execution.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, which are relevant to Agile practices but does not explicitly focus on strategic approaches or the development of strategies within Agile frameworks. While it touches on the importance of experience and knowledge in guiding organisations, it lacks a direct discussion on strategic alignment, optimisation of delivery processes, or the integration of Lean principles. Therefore, while there is some alignment with the category, it is not the primary focus.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T21:26:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the experience and knowledge of an Agile coach in implementing Agile practices, which relates to operational efficiency, but it primarily focuses on the comparison between a Scrum Master and an Agile Coach rather than specific operational practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, focusing on their knowledge and experience rather than specific operational practices or methodologies aimed at enhancing efficiency. While it touches on Agile practices, it lacks detailed discussion on process optimisation, metrics, or strategies for continuous improvement, which are central to the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T21:26:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, highlighting their experience and knowledge in Agile practices, which relates to the Agile Philosophy but is primarily focused on specific roles within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, focusing on their distinctions and experiences rather than the broader Agile Philosophy. While it touches on the importance of embedding Agile practices, it lacks direct references to the Agile Manifesto or its principles, which are central to the philosophy. The discussion is more about specific roles within Agile frameworks rather than the underlying mindset or ethos of Agile.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -904,11 +934,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T21:26:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach in relation to a Scrum Master, highlighting experience and knowledge in coaching practices, but it primarily focuses on the differences in roles rather than coaching techniques or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, highlighting the coaching aspect of guiding organisations and individuals. However, while it touches on coaching principles, it primarily focuses on distinguishing between the two roles rather than delving deeply into coaching techniques or practices. The mention of guiding organisations aligns with coaching, but the overall depth and focus on coaching as a practice is moderate.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -958,11 +991,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T21:26:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the role of an Agile coach, which relates to Agile methodologies, but it does not focus specifically on product management aspects such as product value maximisation or the role of the Product Owner.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, which are related to Agile practices but do not directly address Agile Product Management. While there are mentions of Agile principles and practices, the focus is more on the distinctions between roles rather than on product management strategies, customer alignment, or backlog prioritisation. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -994,12 +1030,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T21:26:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach in organisations, touching on the interplay between Agile practices and organisational effectiveness, but it primarily focuses on the differences between Scrum Masters and Agile coaches rather than a broader sociotechnical systems perspective.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, focusing on their individual experiences and knowledge rather than the interplay between technology and organisational structures. While it touches on organisational dynamics, it lacks a comprehensive exploration of sociotechnical systems and their impact on software delivery.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1030,11 +1069,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T21:26:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the experience and practical knowledge of an Agile coach, which aligns with pragmatic thinking in Agile contexts, but it primarily focuses on the comparison between a Scrum Master and an Agile Coach rather than practical problem-solving strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, highlighting their practical experiences and the importance of real-world application in Agile environments. While it does not explicitly mention 'Pragmatic Thinking,' it aligns with the category's themes of practical problem-solving and navigating complexities in Agile contexts. The depth of discussion on the experiences and insights of Agile Coaches contributes to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lead Time": {
@@ -1102,12 +1144,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T21:26:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the roles within Scrum, which are significant aspects of software development methodologies, but it primarily focuses on the comparison between a Scrum Master and an Agile Coach rather than detailing software development processes or practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches within the Agile framework, which is a key aspect of software development methodologies. It explicitly mentions Agile practices and their implementation in organisations, aligning well with the core themes of the Software Development category. However, while it provides a decent level of detail about the roles and their significance, it lacks in-depth exploration of specific methodologies or practices, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1246,12 +1291,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T21:27:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach, which relates to leadership in Agile contexts, but primarily focuses on the technical expertise and experience rather than leadership practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, which are relevant to Agile Leadership. However, it primarily focuses on the distinctions between these roles rather than explicitly addressing leadership practices or strategies. While there are mentions of guiding organisations and embedding Agile practices, the depth of discussion on leadership aspects is moderate, leading to a confidence score that reflects a significant but not primary focus on Agile Leadership.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1336,12 +1384,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T21:27:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach in implementing Agile practices within organisations, which relates to organisational change, but primarily focuses on the differences between Scrum Masters and Agile coaches rather than on broader organisational change strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:16:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, focusing on their knowledge and experience rather than on organisational change strategies or methodologies. While it touches on the idea of guiding organisations and embedding Agile practices, it lacks a direct discussion of frameworks or principles of organisational change, which diminishes its relevance to the category.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1354,11 +1405,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T21:27:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach in implementing Agile practices within organisations, which aligns with the theme of Agile strategy, but it primarily focuses on the comparison between a Scrum Master and an Agile Coach rather than a broader strategic discussion.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, which are relevant to Agile methodologies. However, it primarily focuses on the distinctions between these roles rather than a broader Agile strategy. While there are mentions of guiding organisations and embedding Agile practices, the discussion lacks a comprehensive exploration of strategic alignment, continuous value delivery, or adaptability in business environments, which are key themes of Agile Strategy.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -1381,12 +1435,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T21:27:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach in implementing Agile practices within organisations, which aligns with the theme of organisational agility, but it primarily focuses on the comparison between a Scrum Master and an Agile Coach rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:16:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Agile Coaches, which are relevant to Agile methodologies. However, it primarily focuses on the distinctions between these roles rather than exploring broader organisational agility strategies or practices. While there are mentions of guiding organisations and embedding Agile practices, the depth of discussion is more about individual roles than the organisational frameworks or cultural shifts necessary for agility.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

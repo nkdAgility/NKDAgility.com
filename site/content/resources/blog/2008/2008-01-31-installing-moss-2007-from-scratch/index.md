@@ -24,6 +24,8 @@ aliasesArchive:
 - /resources/blog/installing-moss-2007-from-scratch
 tags:
 - Install and Configuration
+- System Configuration
+- Windows
 categories: []
 preview: nakedalm-logo-128-link-7-7.png
 

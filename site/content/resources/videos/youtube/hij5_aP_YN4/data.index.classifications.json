@@ -274,12 +274,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses agile coaching and the importance of community in agile practices, but it does not delve deeply into specific agile methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of community in Agile coaching, emphasising the importance of feedback, diverse perspectives, and continuous improvement, which are core Agile principles. It mentions Scrum and the need for Agile coaches to evolve, aligning well with Agile Project Management themes. However, while it touches on these topics, it does not delve deeply into specific Agile frameworks or methodologies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -337,12 +340,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the importance of community in coaching, emphasizing challenges to one's own ideas and growth as a coach, which aligns with the principles of coaching.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T20:57:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the role of community in Agile coaching, emphasising the importance of feedback, diverse perspectives, and continuous growth, which are core themes of coaching. It provides detailed insights into how these elements contribute to personal and professional development as a coach, aligning well with the coaching category. The depth of discussion is significant, covering various aspects of coaching practices and the value of community, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -478,12 +484,15 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of being challenged within a community, which indirectly relates to psychological safety, but the primary focus is on being part of a community for agile coaching.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of feedback, diverse perspectives, and community support, which are all elements that contribute to psychological safety. It highlights how challenging discussions and critical feedback can foster personal growth and improve coaching effectiveness. However, while it touches on aspects of psychological safety, the primary focus is on community and personal development rather than explicitly on creating a psychologically safe environment within teams. Therefore, the confidence score reflects a strong but not exclusive alignment with the category.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -622,7 +631,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:07:58",
+    "calculated_at": "2025-03-14T20:57:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -630,7 +639,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of community and challenging ideas in the context of agile coaching, which is tangentially related to the role of a Scrum Master. However, it lacks direct mentions of Scrum Master responsibilities, specific Scrum practices, or detailed insights into team dynamics, which are crucial for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -937,12 +946,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of being part of a challenging community, which can relate to team dynamics and motivation within agile contexts. However, it primarily focuses on the individual's role and experiences as an agile coach rather than elaborating on team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of community and feedback in the context of Agile coaching, which indirectly relates to team motivation. It highlights how diverse perspectives and constructive criticism can enhance personal growth and, by extension, team performance. However, the primary focus is on individual development rather than explicit team dynamics or motivation strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1000,11 +1012,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of community and collaboration in agile coaching, which is relevant to product delivery, but the primary focus is on personal growth and coaching rather than direct methodologies or practices of product delivery.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of community and feedback in Agile coaching, which indirectly relates to product delivery by emphasising continuous improvement and customer value. However, it primarily focuses on personal growth and coaching rather than the end-to-end process of delivering software products. While it mentions Agile principles and the importance of adapting to customer needs, it lacks detailed discussions on methodologies, testing, deployment, or cross-functional team dynamics that are central to product delivery.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1030,12 +1045,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile coaching and mentions agile, scrum, and DevOps, which are relevant to software development methodologies. However, the central focus is on community and personal growth rather than direct software development practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:57:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on Agile coaching, which is a key aspect of software development methodologies. It discusses the importance of community, feedback, and continuous improvement, all of which are integral to Agile practices. While it does not delve deeply into specific coding practices or technical details, it aligns well with the core themes of software development, particularly in the context of Agile frameworks. The depth of discussion on personal growth and community engagement in Agile coaching adds to its relevance, though it could benefit from more technical specifics.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1057,21 +1075,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions principles of effective coaching in Agile contexts, which relates to team dynamics and collaboration, but it does not primarily focus on team performance strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of community and feedback in the context of Agile coaching, which indirectly relates to team performance. It highlights how diverse perspectives and peer reviews can enhance a coach's effectiveness, ultimately benefiting the teams they work with. However, while it touches on themes of growth and collaboration, it does not delve deeply into specific team dynamics or Agile practices, which limits its alignment with the core themes of the 'Team Performance' category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on the importance of being part of a community to deliver value to customers, suggesting a secondary theme of value delivery through collaboration and feedback, but it primarily focuses on the role of community in personal development as an agile coach.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of community and feedback in the context of Agile coaching, which aligns with the principles of continuous improvement and delivering value to customers. It explicitly mentions the need to adapt and evolve to meet customer needs, which is a core theme of value delivery. However, while it touches on these concepts, the primary focus is more on personal growth and community rather than on specific strategies or methodologies for value delivery, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1111,12 +1135,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content emphasizes the importance of community and challenging each other's ideas, which aligns with collaborative aspects of Agile values. However, it also leans towards coaching and personal effectiveness rather than directly discussing Agile principles or values in depth.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:57:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of community and feedback in the context of Agile coaching, which aligns with Agile principles such as continuous improvement and customer focus. However, it primarily focuses on the role of community rather than explicitly detailing Agile values or principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1210,12 +1237,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of community in the context of becoming an agile coach and touches on agile concepts, but is more focused on personal development than on specific Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:57:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of community in Agile coaching and touches on Agile principles, particularly continuous improvement. However, it primarily focuses on personal growth and community dynamics rather than a detailed exploration of specific Agile frameworks or their comparative analysis. While Agile concepts are present, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1285,12 +1315,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:57:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of community and challenging ideas in the context of becoming an effective agile coach, which touches on elements of culture and collaboration but is primarily focused on personal development and coaching rather than organisational culture as a central theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of community and feedback in the context of Agile coaching, which indirectly relates to organisational culture. It highlights how diverse perspectives and critical feedback can foster personal and professional growth, aligning with cultural elements that support Agile practices. However, the primary focus is on individual development rather than a comprehensive exploration of organisational culture itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1312,21 +1345,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the role of community and personal growth in becoming an effective agile coach, which is relevant to Agile transformation but is more about personal development and community engagement than direct Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of community and feedback in the context of Agile coaching, which aligns with Agile transformation principles. However, it primarily focuses on personal growth and community dynamics rather than specific Agile transformation strategies or methodologies. While it touches on continuous improvement and the importance of diverse perspectives, it lacks detailed exploration of frameworks or change management strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:57:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a community in supporting Agile coaching, which aligns with Agile principles. However, it primarily focuses on the individual experience of becoming a coach rather than a strategic implementation of Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of community and feedback in the growth of an Agile coach, which indirectly relates to Agile Strategy. However, it primarily focuses on personal development and coaching practices rather than strategic alignment or organisational vision. While it touches on continuous improvement and customer value, it lacks a comprehensive exploration of Agile methodologies at a strategic level.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1357,12 +1396,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:35:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:18:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of community and challenge in becoming an effective agile coach, which relates to the principles of organisational agility but is more focused on personal development within an agile context rather than the broader organisational strategies and practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of community and feedback in the context of Agile coaching, which aligns with the principles of organisational agility. It highlights the need for continuous improvement and adaptability, key themes in the category. However, while it touches on these concepts, the primary focus is on personal growth and coaching rather than broader organisational strategies, which slightly limits its depth in discussing organisational agility as a whole.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1432,7 +1474,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:14:45",
+    "calculated_at": "2025-03-14T20:57:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1440,6 +1482,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile coaching but does not delve into specific Scrum roles, events, or principles. While it touches on the importance of community and collaboration, which are relevant to Scrum, the discussion lacks depth and focus on Scrum itself, making it a secondary topic rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

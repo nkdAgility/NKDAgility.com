@@ -29,14 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Transformation
+- Team Performance
+- Pragmatic Thinking
+- Software Development
+- Agile Values and Principles
+- Team Collaboration
 - People and Process
-- Agile Product Management
-- Agile Leadership
-- Self Organisation
 - Agile Product Operating Model
-- Agile Project Management
-- Product Owner
-- Scrum Team
+- Agile Product Management
+- Agile Planning
 resourceTypes:
 - video
 categories:

@@ -124,11 +124,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses strategies and tools that enhance collaboration and efficiency in software development, which relates to the delivery of functional software. However, it primarily focuses on engineering practices and tools rather than directly addressing working software itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the One Engineering System and its role in enhancing collaboration and efficiency in software development, which aligns with the concept of working software. However, it primarily focuses on tools and practices rather than directly addressing the delivery of functional software or customer needs. The mention of Azure DevOps tools indicates a secondary focus on working software, but lacks depth in discussing software quality, customer feedback, or iterative development.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
@@ -292,12 +295,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:22",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for enhancing collaboration and efficiency within software development teams, which aligns with team performance. However, it primarily focuses on tools and practices rather than specific agile methodologies or team dynamics.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses strategies for enhancing collaboration and efficiency within software development teams, which aligns with the core themes of Team Performance. It mentions the importance of standardizing tools to reduce friction and streamline workflows, which is relevant to team dynamics and productivity. However, while it touches on communication and processes, it lacks detailed exploration of Agile ceremonies, leadership roles, or conflict resolution strategies, which limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -310,11 +316,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Azure Boards as a tool for agile planning, which is a significant aspect of Agile Planning Tools, but the primary focus is on unifying engineering tools and practices rather than solely on Agile planning methodologies.",
+    "final_score": 59.0,
+    "reasoning": "The content mentions Azure Boards as a tool for agile planning, which aligns with the category. However, the primary focus is on the broader strategy of unifying engineering tools rather than a detailed exploration of Agile Planning Tools specifically. The discussion lacks depth in terms of techniques for backlog management or specific Agile methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -337,11 +346,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:10",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Azure Repos as part of a broader discussion on engineering tools and practices, making it a major but secondary theme.",
+    "final_score": 52.0,
+    "reasoning": "The content mentions Azure Repos as part of a broader discussion on the One Engineering System and its integration with Azure DevOps services. While Azure Repos is explicitly mentioned, the focus is more on the overall strategy of unifying engineering tools rather than a deep dive into Azure Repos functionalities or best practices. The discussion lacks detailed exploration of specific Azure Repos features, such as branching strategies or pull requests, which diminishes the depth of discussion. Therefore, while there is a relevant mention, the content does not primarily focus on Azure Repos.",
     "level": "Tertiary"
   },
   "Definition of Done": {
@@ -364,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of engineering tools and practices, which aligns with the principles of technical mastery, but it primarily focuses on the One Engineering System strategy rather than deep technical practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in unifying engineering tools and practices, which aligns with the principles of software craftsmanship and engineering excellence. It mentions specific tools like Azure DevOps and their impact on workflows, indicating a focus on best practices and continuous integration. However, while it touches on collaboration and efficiency, it lacks a deeper exploration of software design principles or clean code practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -427,11 +442,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure Repos for version control as part of a broader strategy for unifying engineering tools and practices, making version control a significant but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Azure Repos as a version control tool, which is a direct mention of modern source control. However, the primary focus is on the broader strategy of unifying engineering tools and practices rather than delving deeply into version control methodologies or best practices. While it touches on continuous integration and deployment, the depth of discussion on source control itself is limited, making it a secondary aspect of the overall content.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -508,12 +526,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile planning tools like Azure Boards, which is relevant to Agile Planning, but the primary focus is on unifying engineering tools and practices rather than on Agile Planning methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions agile planning in the context of Azure Boards but does not delve deeply into Agile principles or methodologies. While it discusses tools that can support Agile practices, it lacks a focused exploration of Agile Planning concepts such as user stories, backlogs, or iterative planning. The discussion is more about tool standardization and workflow efficiency rather than the core themes of Agile Planning.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -547,11 +568,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unification of engineering tools and practices to enhance collaboration and efficiency, which aligns with the theme of digital transformation. However, it primarily focuses on specific tools and practices rather than broader strategic adoption or integration of digital technologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) as a strategy for unifying engineering tools and practices, which aligns with the themes of enhancing operational efficiency and fostering collaboration. However, while it mentions the use of digital tools like Azure DevOps, it lacks a broader discussion on the strategic adoption of these technologies for overall business transformation. The focus is more on specific tools and practices rather than a comprehensive digital transformation strategy.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -673,7 +697,7 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-13T15:00:03",
+    "calculated_at": "2025-03-14T17:35:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -681,7 +705,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a strategy aimed at unifying engineering tools and practices, which aligns with the concept of enhancing business agility. However, it primarily focuses on operational tactics and specific tools rather than articulating long-term strategic goals. While there are mentions of improving collaboration and efficiency, the discussion lacks depth in terms of defining or measuring strategic objectives, which diminishes its alignment with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -712,11 +736,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Azure Pipelines as part of a broader discussion on unifying engineering tools and practices, making it a significant but secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content mentions Azure Pipelines as part of a broader discussion on the One Engineering System and the integration of various Azure DevOps tools. While Azure Pipelines is included, it is not the primary focus of the content, which centres more on the overall strategy of unifying engineering tools and practices. The discussion lacks depth specifically on Azure Pipelines, such as detailed configurations, CI/CD practices, or deployment strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -751,11 +778,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:05",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Azure Boards as part of a broader discussion on unifying engineering tools and practices, making it a significant but secondary theme.",
+    "final_score": 44.0,
+    "reasoning": "The content mentions Azure Boards as part of a broader discussion on engineering tools and practices, but it does not focus specifically on Azure Boards or delve into its functionalities, best practices, or Agile project management aspects. While it acknowledges Azure Boards as a tool for agile planning and work item tracking, the discussion lacks depth and does not explore the key topics outlined for the Azure Boards category.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -805,11 +835,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and practices that can enhance collaboration and efficiency in software development, which relates to release management, but the primary focus is on unifying engineering tools rather than specifically on release processes.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the One Engineering System and its role in enhancing collaboration and efficiency within software development, touching on tools like Azure DevOps for CI/CD. However, while it mentions aspects of release management, such as version control and continuous integration, it lacks a focused discussion on the broader strategies and practices of release management, making it more of a general overview of engineering practices rather than a dedicated exploration of release management.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -841,7 +874,7 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T16:31:00",
+    "calculated_at": "2025-03-14T17:35:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -849,7 +882,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the One Engineering System and mentions Azure Pipelines, which relates to continuous integration and deployment. However, the primary focus is on unifying engineering tools and practices rather than explicitly addressing the principles and methodologies of Continuous Delivery. The discussion lacks depth in terms of Continuous Delivery practices and does not provide detailed insights into maintaining a production-ready state or deployment risk management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -895,12 +928,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:36:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the unification of engineering tools and practices to enhance collaboration and efficiency, which aligns with the principles of Engineering Practices. However, it primarily focuses on tool adoption rather than core Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in unifying engineering tools and practices, which aligns with the core themes of collaboration and efficiency in software development. However, while it mentions specific tools and their benefits, it lacks a deeper exploration of fundamental engineering practices such as clean code, TDD, or CI/CD. The focus is more on tool adoption rather than the underlying principles of Agile engineering practices.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -940,12 +976,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a strategy for unifying engineering tools and practices, which aligns with Agile principles of collaboration and efficiency. However, it primarily focuses on tool implementation rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a strategy for unifying engineering tools and practices, which aligns with the Agile Strategy category's focus on organisational vision and execution. However, it primarily centres on tool adoption and workflow efficiency rather than explicitly addressing Agile principles or methodologies. The mention of Azure DevOps services indicates a connection to Agile practices, but the depth of discussion lacks a comprehensive exploration of Agile strategy implementation or leadership roles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -967,12 +1006,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses agile planning and work item tracking using Azure Boards, which relates to agile methodologies, but the primary focus is on unifying engineering tools and practices rather than on agile project management principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the One Engineering System and its role in enhancing collaboration and efficiency within software development teams, which indirectly relates to agile principles. However, it primarily focuses on tools and practices rather than explicitly addressing agile methodologies or principles. The mention of Azure Boards for agile planning suggests some alignment, but the overall discussion lacks depth in agile concepts and frameworks.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1054,7 +1096,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-13T16:22:51",
+    "calculated_at": "2025-03-14T17:35:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1062,7 +1104,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the One Engineering System (1ES) and its role in enhancing collaboration and efficiency within software development teams. While it mentions tools and practices that can contribute to agile methodologies, the focus remains primarily on team-level practices rather than addressing broader organisational agility. The discussion lacks explicit references to organisational structures, leadership roles, or cultural aspects of enterprise agility, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1105,12 +1147,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enhancing efficiency within software development teams and streamlining workflows, which relates to flow efficiency. However, it primarily focuses on the One Engineering System and the use of specific tools rather than directly addressing flow efficiency principles or techniques.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in enhancing collaboration and efficiency within software development teams. While it mentions streamlining workflows and improving communication, it does not explicitly focus on flow efficiency principles or techniques for optimising throughput. The discussion is more about tool integration and standardisation rather than directly addressing flow efficiency metrics or strategies. Therefore, while there is some alignment with the category, it is not the primary focus.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1123,12 +1168,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the One Engineering System and its role in enhancing collaboration and efficiency within software development teams, which relates to product delivery practices. However, the primary focus is on tools and workflows rather than the end-to-end process of delivering usable software products.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in enhancing collaboration and efficiency within software development teams, which aligns with the core themes of product delivery. It mentions specific tools like Azure DevOps that facilitate agile planning and continuous integration, indicating a focus on methodologies and practices relevant to product delivery. However, while it touches on important aspects, the discussion lacks depth in terms of specific strategies for deployment and quality assurance, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1198,12 +1246,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unification of engineering tools and practices, which can enhance collaboration and efficiency, indirectly supporting market adaptability through improved workflows and communication. However, it primarily focuses on the implementation of specific tools rather than directly addressing strategies for responding to market shifts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in enhancing collaboration and efficiency within software development teams. While it mentions the use of Azure DevOps tools, which aligns with Agile and DevOps practices, the primary focus is on standardising tools rather than directly addressing market adaptability strategies. The discussion lacks explicit references to how these practices enable swift responses to market shifts or competitive pressures, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1252,7 +1303,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T16:09:00",
+    "calculated_at": "2025-03-14T17:35:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1260,7 +1311,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the One Engineering System (1ES) and its role in enhancing collaboration and efficiency within software development teams. While it mentions agile tools like Azure Boards and Azure Pipelines, which are relevant to agile practices, the primary focus is on tool standardization and workflow adaptation rather than on broader principles of business agility. The discussion lacks depth in exploring how these practices contribute to organisational adaptability or innovation, which are core themes of business agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1273,11 +1324,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for enhancing collaboration and efficiency within software development teams, which aligns with value delivery principles, but it primarily focuses on the implementation of engineering tools rather than directly addressing value delivery methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in enhancing collaboration and efficiency within software development teams. While it mentions tools and practices that can contribute to value delivery, such as Azure DevOps for continuous integration and deployment, the primary focus is on tool standardisation and workflow adaptation rather than on delivering customer value directly. The discussion lacks depth in terms of specific strategies for measuring or maximising customer value, and it does not explicitly address Agile or Lean principles. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1294,11 +1348,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:08:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for enhancing collaboration and efficiency within software development teams, which aligns with the principles of organisational agility. However, it primarily focuses on the implementation of specific tools rather than broader agile methodologies or cultural shifts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a strategy aimed at enhancing collaboration and efficiency within software development teams, which aligns with the principles of organisational agility. However, it primarily focuses on the implementation of specific tools and practices rather than broader agile methodologies or cultural shifts. The mention of Azure DevOps services indicates a practical approach to agility but lacks depth in discussing leadership roles, cross-functional teams, or continuous improvement strategies.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1312,20 +1369,26 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of collaboration and communication within software development teams, which aligns with the category. However, it primarily focuses on tools and practices rather than the human factors and processes involved.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its impact on collaboration and efficiency within software development teams, which aligns with the category's focus on team dynamics and communication. However, the primary emphasis is on tools and practices rather than the human factors or processes involved, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:35:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of engineering tools and practices to enhance collaboration and efficiency within software development teams, which aligns with the sociotechnical systems theme. However, the primary focus is on technical tools rather than a deeper exploration of the interplay between social and technical aspects.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its focus on unifying engineering tools and practices to enhance collaboration and efficiency. While it mentions the importance of communication and adapting workflows to tools, it primarily centres on technical tools and practices without a strong emphasis on the organisational context or the interplay between social and technical systems. The discussion lacks depth in exploring how these tools influence team dynamics or organisational culture, which are key aspects of sociotechnical systems.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1348,11 +1411,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:48:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses tools and practices that enhance collaboration and efficiency within software development, which relates to the application lifecycle, but it primarily focuses on the One Engineering System and does not delve deeply into the stages of the application lifecycle or governance.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the One Engineering System and its role in enhancing collaboration and efficiency within software development teams, which touches on aspects of application lifecycle management. However, it primarily focuses on the tools and practices for software development rather than the entire lifecycle of applications. While it mentions tools like Azure DevOps that can support ALM, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or metrics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -1375,11 +1441,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:09:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:36:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses standardization of tools and practices to enhance collaboration and efficiency in software development, which aligns with platform engineering principles, but it primarily focuses on the One Engineering System rather than internal developer platforms specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in standardizing tools and practices to enhance collaboration and efficiency in software development. While it touches on themes relevant to platform engineering, such as standardization and improving workflows, it primarily focuses on specific tools and practices rather than the broader principles of platform engineering or Internal Developer Platforms (IDPs). The discussion lacks depth in exploring how these practices specifically enhance developer productivity or automate the application lifecycle, which are core aspects of platform engineering.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1393,12 +1462,15 @@
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:09:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T17:36:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 40,
-    "final_score": 76.0,
-    "reasoning": "Content primarily discusses the One Engineering System (1ES) framework, its purpose, and the integration of tools and practices to enhance collaboration and efficiency in software development.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the One Engineering System (1ES) and its purpose of unifying engineering tools and practices. It aligns well with the core themes of the category, such as enhancing collaboration and efficiency, and provides specific examples of tools like Azure DevOps that support the implementation of 1ES. The depth of discussion is substantial, covering the importance of adapting workflows to tool capabilities and the need for team training, which reflects a comprehensive understanding of the framework's impact on software development.",
+    "level": "Primary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1450,7 +1522,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:42:14",
+    "calculated_at": "2025-03-14T17:35:00",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1458,6 +1530,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses engineering tools and practices aimed at enhancing collaboration and efficiency in software development, which is somewhat related to Scrum principles. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve into the Scrum framework or its core themes. The focus is more on tool adoption and workflow standardisation rather than Scrum-specific practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

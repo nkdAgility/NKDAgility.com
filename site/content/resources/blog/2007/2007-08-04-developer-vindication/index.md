@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/developer-vindication
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Personal
+tags: []
 
 ---
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...

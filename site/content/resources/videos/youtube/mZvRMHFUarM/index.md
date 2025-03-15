@@ -29,10 +29,12 @@ tags:
 - Forecasting
 - Software Development
 - Pragmatic Thinking
+- Agile Project Management
 - Decision Theory
 - People and Process
 - Agile Philosophy
 - Software Developers
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

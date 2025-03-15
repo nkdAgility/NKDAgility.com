@@ -40,7 +40,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T18:13:59",
+    "calculated_at": "2025-03-15T07:23:00",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses the implementation of a Unity container in a software application, which relates to code quality and design patterns. However, while it touches on aspects of code structure and modular design, it lacks a deeper exploration of complexity theory or its implications on software architecture. The discussion is more focused on practical coding examples rather than theoretical insights, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -745,7 +745,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:45:32",
+    "calculated_at": "2025-03-15T07:23:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -753,7 +753,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the integration of the Unity Application Block and demonstrates coding practices, but it lacks a strong focus on broader engineering excellence principles such as quality assurance, coding standards, or continuous improvement. While it touches on refactoring and the use of design patterns, it does not delve deeply into best practices or metrics for assessing engineering performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -874,7 +874,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T17:03:16",
+    "calculated_at": "2025-03-15T07:23:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -882,7 +882,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in a software project. While it discusses aspects of software development, it lacks a direct focus on the delivery of functional, high-quality software that meets customer needs. The discussion is more about coding practices and specific implementations rather than the broader principles of working software in Agile or Scrum contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1066,7 +1066,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:12:38",
+    "calculated_at": "2025-03-15T07:23:00",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
@@ -1074,7 +1074,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the integration of the Unity Application Block and the creation of a singleton instance of a UnityContainer, which relates to system configuration. However, the focus is primarily on coding practices and examples rather than on broader system configuration methodologies or best practices. While there are mentions of configuration (e.g., initialising from a config file), the depth of discussion on system configuration principles is limited, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1123,7 +1123,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T12:09:04",
+    "calculated_at": "2025-03-15T07:23:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1131,7 +1131,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the integration of the Unity Application Block within a .NET context, specifically focusing on Visual Studio and VB.NET. While it mentions the 'My' namespace, which is specific to Windows applications, the overall discussion is more centred on software development practices rather than Windows operating system management or troubleshooting. The content lacks a direct focus on Windows installation, configuration, or updates, leading to a lower confidence score in alignment with the Windows category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1225,7 +1225,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T18:54:27",
+    "calculated_at": "2025-03-15T07:23:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1233,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a specific implementation of the Unity Application Block in a coding context, which is relevant to software development. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or broader engineering practices. While it does provide some technical depth regarding the use of the Unity framework, it does not engage with the key themes outlined for the Software Developers category, such as team dynamics, collaboration, or best practices in Agile development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,12 +1246,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:23:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses implementation details and techniques related to the Unity Application Block and code structure, which loosely connect to software engineering practices. However, it primarily focuses on specific code examples rather than broader Agile engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of a Unity Container in a software application, which touches on aspects of clean code and refactoring. However, it lacks a direct focus on Agile engineering practices, such as TDD or CI/CD, and does not provide a comprehensive exploration of the principles outlined in the category. The discussion is more technical and implementation-oriented rather than a broader discussion on engineering methodologies.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

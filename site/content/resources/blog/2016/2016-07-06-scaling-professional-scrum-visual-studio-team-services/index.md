@@ -8,7 +8,7 @@ ResourceImportId: 11563
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-07-06
-weight: 495
+weight: 440
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Scaling Scrum
+- Practical Techniques and Tooling
 - Software Development
 - Scaled Agile
-- Large Scale Agility
-- News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
-- Scaling Agility
+- Agile Project Management
 - Scrum Product Development
+- Professional Scrum
+- Large Scale Agility
+- Scaling Agility
 categories:
 - Scrum
 - Social Technologies

@@ -55,12 +55,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to quality, value creation, and continuous improvement, which align with Lean principles, but it primarily focuses on engineering excellence and technical leadership rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:07:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses aspects of quality, continuous improvement, and value creation, which align with Lean principles. However, it primarily focuses on 'naked agility' and technical leadership rather than explicitly addressing Lean Product Development concepts. The mention of shifting left and addressing technical debt hints at Lean thinking but lacks depth in discussing waste reduction or customer feedback integration, which are core to Lean Product Development.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -73,12 +76,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses test automation as part of a broader conversation about shifting left and improving engineering practices, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions test automation within the context of a broader discussion on quality and engineering practices. While it touches on continuous integration and delivery, which are relevant to test automation, the primary focus is on general quality management and engineering excellence rather than specific test automation principles, frameworks, or best practices.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -139,11 +145,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of engineering excellence and quality, which are related to innovation capabilities, but the primary focus is on technical practices and team dynamics rather than directly measuring or enhancing the ability to innovate.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses aspects of quality and engineering excellence, which are related to innovation but does not explicitly focus on the Ability to Innovate as defined. While it mentions fostering a culture of quality and continuous improvement, it lacks a direct emphasis on Evidence-Based Management or specific frameworks for measuring innovation capabilities. The discussion is more about practices and principles rather than a structured approach to innovation.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -271,12 +280,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous delivery as part of a broader conversation about engineering excellence and shifting left, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Continuous Integration and Delivery, which are key components of Continuous Delivery, but it primarily focuses on broader themes of quality, technical leadership, and agile practices. While there are relevant mentions, the overall emphasis is not strictly on Continuous Delivery principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -322,11 +334,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to value creation and quality, which align with Lean principles, but it primarily focuses on engineering excellence and technical leadership rather than Lean practices specifically.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses concepts related to quality, continuous improvement, and value creation, which are aligned with Lean Principles. However, it primarily focuses on agile practices and technical leadership rather than explicitly addressing Lean methodologies or tools. The mention of 'value creation' and 'continuous improvement' indicates some alignment, but the depth of discussion on Lean-specific practices is limited.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -340,21 +355,27 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to quality, transparency, and value creation, which align with Agile principles, but it primarily focuses on engineering practices and technical leadership rather than the core Agile values and principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses concepts related to quality, collaboration, and value creation, which align with Agile principles. However, it primarily focuses on engineering practices and does not explicitly mention Agile values or principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of quality and the importance of shifting left, which includes test automation as part of a broader conversation about engineering excellence. However, it does not focus primarily on automated testing principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of quality and continuous integration and delivery, which are relevant to automated testing. However, it lacks direct mentions of automated testing practices, tools, or methodologies, and does not delve deeply into the specifics of automated testing frameworks or strategies. The focus is more on general quality and engineering excellence rather than on automated testing as a primary topic.",
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -433,11 +454,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of engineering excellence and value creation, which are relevant to Agile principles, but it primarily focuses on technical practices and does not clearly align with strategic discussions on Agile methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of 'naked agility' and its role in fostering engineering excellence and leadership, which aligns with Agile principles. It touches on continuous value creation and the importance of quality, but lacks a direct focus on strategic planning or broader organisational alignment with Agile methodologies. The depth of discussion on Agile practices is moderate, but it does not fully explore the strategic implications of Agile implementation.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
@@ -451,21 +475,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of engineering excellence and technical leadership that align with Agile principles, such as shifting left and building a culture of quality. However, it does not primarily focus on Agile transformation methodologies or frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses concepts related to Agile transformation, such as fostering a culture of quality and continuous improvement, which aligns with Agile principles. However, it lacks explicit references to Agile frameworks or methodologies, and while it touches on relevant themes, it does not delve deeply into Agile-specific practices or change management strategies.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to engineering excellence and technical leadership, which are relevant to operational practices. However, it primarily focuses on broader themes of quality and value creation rather than specific operational efficiency techniques or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:06:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses several operational practices such as continuous integration and delivery, addressing technical debt, and fostering a culture of quality, which are all relevant to enhancing operational efficiency. However, while it touches on these topics, the primary focus is more on the philosophical aspects of agility and leadership rather than specific operational techniques or metrics. This results in a strong alignment with the category but lacks the depth of practical application that would elevate the score further.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -478,12 +508,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of quality, technical debt, and value creation, which are relevant to working software, but it primarily focuses on broader themes of engineering excellence and organisational culture.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:07:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of quality in software development and the concept of 'naked agility' as a means to enhance engineering practices. It touches on key aspects such as continuous integration, user experience, and addressing technical debt, which are relevant to working software. However, while it aligns with the themes of delivering functional software and creating value for customers, it lacks direct mentions of working software as a primary focus. The depth of discussion is moderate, providing insights but not extensive examples or case studies specifically related to working software.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -649,7 +682,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T16:05:48",
+    "calculated_at": "2025-03-14T17:06:33",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -657,7 +690,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses principles related to quality and continuous integration and delivery, which are relevant to frequent releases. However, it does not explicitly focus on the practice of frequent releases or provide in-depth strategies or metrics related to release frequency. The primary emphasis is on quality and engineering excellence rather than the release process itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -739,12 +772,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of being transparent and open about problems and mistakes, which aligns with the theme of transparency in Agile processes. However, the primary focus is on engineering excellence and technical leadership, making transparency a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:07:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses transparency in the context of acknowledging mistakes and building a culture of trust and accountability. While it does not focus solely on transparency, it aligns well with the core themes of the category, particularly in relation to fostering an environment of openness within Agile practices. The depth of discussion on transparency is moderate, as it is one of several themes explored, but it is presented as a crucial element in creating a culture of quality.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -811,11 +847,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of engineering excellence and technical leadership, which are related to improving operational efficiency and fostering innovation. However, it primarily focuses on agile practices and technical debt management rather than a comprehensive digital transformation strategy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of agility and quality in engineering, which are relevant to digital transformation, but it lacks a direct focus on the strategic adoption of digital technologies. While it touches on concepts like continuous integration and delivery, which can enhance operational efficiency, it does not explicitly address broader digital transformation strategies or case studies. The discussion is more centred on engineering practices rather than the overarching theme of digital transformation.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -904,12 +943,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:46:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of building a culture of quality and engineering excellence within an organisation, which aligns with aspects of organisational culture. However, the primary focus is on technical practices and processes rather than a deep exploration of cultural elements.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of fostering a culture of quality and transparency, which aligns with the themes of organisational culture. It mentions the role of leadership in shaping this culture and emphasises the need for collaboration and continuous improvement. However, the primary focus is on technical practices and quality management rather than a deep exploration of cultural dimensions, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -931,12 +973,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of organisational culture and the importance of building a culture of quality and engineering excellence, which aligns with systems thinking principles. However, it primarily focuses on technical practices and processes rather than a comprehensive exploration of organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of organisational dynamics, such as fostering a culture of quality and collaboration, which aligns with the principles of systems thinking. However, it primarily focuses on engineering practices and technical leadership rather than explicitly addressing systems thinking or organisational physics. The mention of 'shifting left' and integrating various components does touch on systems thinking, but the overall depth and direct references to organisational physics concepts are limited.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1093,39 +1138,51 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to Agile methodologies and the importance of building capabilities within teams, which are relevant to market adaptability. However, the primary focus is on engineering excellence and technical leadership rather than directly addressing market responsiveness or competitive pressures.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of agility and quality in engineering, which are relevant to market adaptability. However, it primarily focuses on quality management and technical debt rather than explicitly addressing strategies for responding to market shifts or competitive pressures. While there are mentions of continuous integration and collaboration, the overall emphasis is more on internal processes than on market adaptability principles.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of building a culture of quality and engineering excellence within an organisation, which touches on the interplay between social aspects (team dynamics, culture) and technical practices (shifting left, managing technical debt). However, the primary focus is on technical leadership and engineering practices rather than a comprehensive exploration of sociotechnical systems.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of engineering excellence and quality within an organisation, touching on themes like team dynamics and collaboration. However, it primarily focuses on technical practices and quality management without a strong emphasis on the interplay between social and technical systems. While there are mentions of fostering a culture of quality and collaboration, the discussion lacks depth in exploring how these elements influence software delivery and organisational effectiveness.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of being transparent and open about problems and mistakes, which aligns with the principles of accountability. However, the primary focus is on engineering excellence and technical leadership, making transparency a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:06:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses transparency in the context of acknowledging technical debt and fostering a culture of trust and accountability. While it touches on the importance of transparency, it primarily focuses on engineering excellence and quality rather than delving deeply into the principles of transparency and accountability within Agile teams. The discussion is relevant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:07:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agility in the context of engineering excellence and technical leadership, touching on themes like shifting left and building a culture of quality, which are relevant to organisational agility. However, it primarily focuses on technical practices rather than broader organisational strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of 'naked agility' and its role in fostering engineering excellence and leadership, which aligns with the principles of organisational agility. It touches on themes such as continuous improvement, quality, and collaboration, which are relevant to agility. However, the discussion is more focused on technical practices and quality management rather than explicitly addressing organisational agility strategies or frameworks. The depth of discussion on agility principles is moderate, but it lacks a comprehensive exploration of how these practices fit into broader organisational agility concepts.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1279,12 +1336,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to Agile practices, such as shifting left and continuous integration/delivery, but primarily focuses on broader themes of engineering excellence and organisational culture rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses several practical techniques such as Continuous Integration and Delivery, and the importance of shifting left in the development lifecycle, which aligns with the category's focus on tooling and methodologies. However, while it touches on these topics, the primary focus is more on the philosophy of quality and leadership rather than a detailed exploration of specific tools or frameworks. The depth of discussion on practical techniques is moderate, providing some actionable insights but lacking comprehensive detail on specific tools or case studies.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1306,11 +1366,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of engineering excellence and technical leadership, which are related to fostering a culture of agility and continuous improvement. However, it primarily focuses on technical practices and team-level improvements rather than broader organisational agility.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses concepts related to quality, collaboration, and continuous improvement, which are relevant to enterprise agility. However, it primarily focuses on engineering practices and technical leadership without explicitly addressing broader organisational agility frameworks or structures. The mention of 'naked agility' suggests an agile mindset, but the lack of direct references to enterprise-level agility practices limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -1327,12 +1390,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of engineering excellence and quality management, which are relevant to the application lifecycle, but it primarily focuses on broader themes of agility and technical leadership rather than specifically on the stages or practices of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of quality and continuous improvement in software development, which are relevant to Application Lifecycle Management. However, it primarily focuses on engineering excellence and agile practices without explicitly addressing the full lifecycle stages or governance aspects of ALM. The mention of 'shifting left' and addressing technical debt aligns with ALM principles, but the overall discussion lacks depth in covering the entire lifecycle and specific tools or methodologies related to ALM.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1345,20 +1411,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of quality, continuous integration, and delivery, which are relevant to product delivery, but it primarily focuses on engineering excellence and technical leadership rather than the end-to-end process of delivering usable software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:07:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses several key aspects of product delivery, including the importance of quality, continuous integration and delivery, and the need for collaboration and ownership within teams. It aligns well with the core themes of the category, particularly in addressing quality assurance and the integration of various practices throughout the development lifecycle. However, while it touches on relevant topics, it does not delve deeply into specific methodologies or metrics, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:06:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of engineering excellence and the importance of building skills and capabilities within teams, which aligns with the theme of continuous learning. However, the primary focus is on technical leadership and quality management rather than explicit methodologies for discovery and learning.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of quality and continuous improvement, which aligns with the themes of discovery and learning. It mentions fostering a culture of quality and transparency, which are key aspects of learning from both successes and failures. However, the primary focus is on technical practices and quality management rather than explicit methodologies for discovery and learning, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -1408,12 +1480,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:00:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agility and value creation, but primarily focuses on engineering excellence and technical leadership rather than the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:07:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses aspects of agility and quality in engineering but does not explicitly focus on the Agile Product Operating Model. While it touches on value creation and collaboration, which are relevant to the model, the primary emphasis is on technical practices and quality management rather than a holistic product-centric approach. The discussion lacks depth in terms of Agile principles and frameworks, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1459,7 +1534,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:39:57",
+    "calculated_at": "2025-03-14T17:06:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1467,6 +1542,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses concepts related to agility and engineering excellence but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it touches on themes of continuous improvement and team dynamics, which are relevant to Scrum, the primary focus is on broader agile practices and technical leadership rather than the Scrum framework itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

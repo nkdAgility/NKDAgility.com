@@ -166,7 +166,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T14:58:48",
+    "calculated_at": "2025-03-15T06:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -174,7 +174,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the creation of teams within the context of Scrum, which aligns with the category's focus on team dynamics. However, it lacks a detailed discussion on the interplay between human behaviour and structured methodologies, and does not delve into the processes or strategies for improving collaboration or communication within teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -496,7 +496,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T15:06:35",
+    "calculated_at": "2025-03-15T06:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -504,7 +504,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions the creation of teams within the context of Visual Studio, which relates to the concept of Scrum teams. However, it lacks detailed discussion on roles, collaboration techniques, or team dynamics, which are essential for a high-performing Scrum Team. The focus is more on the tool rather than the Scrum framework itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -535,7 +535,7 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-11T12:02:11",
+    "calculated_at": "2025-03-15T06:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -543,7 +543,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum, which is a framework relevant to Agile transformation, but it lacks a comprehensive discussion on Agile principles, methodologies, or transformation strategies. The focus is more on the features of Visual Studio and team creation rather than on the broader context of Agile transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -592,16 +592,19 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:19:17",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is related to software development practices, but also focuses heavily on Visual Studio and TFS without a deep exploration of Scrum methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions Scrum and its integration with Visual Studio, which aligns with software development practices. However, the discussion lacks depth and detail on Scrum methodologies or software development processes, focusing more on personal experiences and features of the tool rather than a comprehensive exploration of software development principles.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-10T18:46:58",
+    "calculated_at": "2025-03-15T06:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -609,7 +612,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum and the creation of teams, which aligns with agile principles. However, it lacks depth and does not explore key topics such as Scrum roles, ceremonies, or iterative development strategies. The focus is more on the tool (Visual Studio) rather than the agile methodology itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -1018,7 +1021,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T12:59:25",
+    "calculated_at": "2025-03-15T06:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1026,7 +1029,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the creation of teams within the context of Scrum, which aligns with the category of Team Collaboration. However, it lacks a detailed discussion on techniques for improving communication, shared ownership, or fostering trust within teams. The focus is more on the features of a tool rather than the dynamics of teamwork, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1219,7 +1222,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T15:26:53",
+    "calculated_at": "2025-03-15T06:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1227,7 +1230,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum and team creation within the context of Visual Studio, which relates to software development practices. However, it lacks a detailed exploration of Agile methodologies or DevOps principles, and does not provide substantial insights into the role of software developers in these frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1285,7 +1288,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T16:56:40",
+    "calculated_at": "2025-03-15T06:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1293,7 +1296,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum in the context of creating a Scrum team identity, but it lacks a comprehensive discussion of Agile frameworks. The focus is more on the tools and features of Visual Studio rather than an exploration of Scrum's principles or its application in enhancing organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",

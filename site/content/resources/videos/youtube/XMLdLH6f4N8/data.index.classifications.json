@@ -31,7 +31,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:33:03",
+    "calculated_at": "2025-03-15T03:42:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of a common framework and communication in a team setting, which touches on leadership aspects such as fostering collaboration and addressing team dynamics. However, it lacks explicit discussions on leadership strategies or frameworks, and the focus is more on team processes than on leadership practices themselves.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -109,7 +109,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T12:33:07",
+    "calculated_at": "2025-03-15T03:42:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -117,7 +117,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content provides a personal account of experiences related to a framework that has improved team dynamics, suggesting a connection to a presentation or workshop. However, it lacks explicit mentions of specific events or structured discussions typical of the category. The alignment with the themes of collaboration and Agile practices is present, but the depth of discussion is more anecdotal than formal, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -301,11 +301,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of a Scrum Master, which is relevant to Agile methodologies within the Software Development category, but the primary focus seems to be on training and cultural fit rather than software development practices themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses organisational change and team dynamics, which are relevant to software development practices, particularly in Agile methodologies. However, it lacks direct references to specific software development techniques or frameworks, focusing more on general team collaboration and communication rather than detailed software engineering practices. The mention of a 'common framework' and 'structured communication channels' hints at Agile principles, but the overall depth and specificity regarding software development are limited.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -490,12 +493,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the importance of a trainer fitting with the organisational culture, which aligns with the theme of organisational culture, but does not delve deeply into the broader implications or strategies related to it.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:42:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the impact of organisational change on team dynamics and highlights the importance of a common framework, shared vision, and structured communication, all of which are key elements of organisational culture. It explicitly mentions fostering trust and engagement, which aligns well with the category's focus on cultural dimensions that support Agile practices. The depth of discussion is significant, providing insights into how these cultural aspects can lead to improved collaboration and productivity, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -517,7 +523,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-07T14:32:40",
+    "calculated_at": "2025-03-15T03:42:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -525,16 +531,19 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions the role of a Scrum Master and discusses aspects of team dynamics and communication, which are relevant to the Scrum Master role. However, it lacks specific details about Scrum practices, ceremonies, or the responsibilities of a Scrum Master, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions training for a large group and hints at cultural fit, which aligns with scaling Agile, but primarily focuses on an individual perspective of the Scrum Master role.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:42:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of a common framework and structured communication within teams, which aligns with some principles of Large Scale Agility. However, it primarily focuses on team-level dynamics and individual experiences rather than enterprise-level scaling strategies or frameworks. The mention of a common framework and structured approaches hints at larger organisational change, but lacks explicit references to scaling Agile methodologies or frameworks like SAFe or LeSS. Overall, while there are relevant themes, the content does not sufficiently address the core aspects of Large Scale Agility.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -820,7 +829,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-10T18:29:37",
+    "calculated_at": "2025-03-15T03:42:46",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -828,7 +837,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses the importance of a common framework and communication in a team setting, which aligns with agile principles. However, it lacks explicit mentions of agile methodologies like Scrum or Kanban, and the depth of discussion on agile practices is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1420,7 +1429,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:33:39",
+    "calculated_at": "2025-03-15T03:42:46",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -1428,6 +1437,6 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses a common framework for collaboration and mentions concepts like a backlog and team dynamics, which are relevant to Scrum. However, it lacks explicit references to Scrum roles, events, or detailed practices, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

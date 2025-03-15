@@ -27,6 +27,8 @@ duration: 291
 isShort: false
 tags:
 - People and Process
+- Continuous Learning
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -1,7 +1,7 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T14:52:11",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum and the importance of professionalism in teams, which aligns with Agile principles. However, it lacks a detailed discussion on Agile Product Management practices, such as the role of the Product Owner or backlog prioritisation. The focus is more on team professionalism rather than specific Agile product management methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -244,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:41:53",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -252,7 +252,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the importance of professionalism in software teams, which is tangentially related to product delivery. However, it lacks explicit discussions on methodologies, practices, or detailed insights into the product delivery process. The focus is more on team professionalism rather than the end-to-end delivery of software products.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -274,7 +274,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-11T10:21:21",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 42.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
@@ -282,7 +282,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content mentions 'Scrum Tapas' as a series of videos related to Scrum, which aligns with the category of discussing products pertinent to Agile methodologies. However, the focus is more on the importance of professionalism in teams rather than a detailed review or analysis of the videos themselves. The discussion lacks depth regarding the specific methodologies or frameworks presented in the videos, and it does not provide a thorough exploration of how these resources enhance understanding of Agile principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -349,12 +349,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and mentions an upcoming talk at a conference, indicating a connection to industry events, but primarily focuses on the importance of professionalism in teams rather than providing news or reviews.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Scrum and references a talk at an event, which aligns with industry discussions. However, it primarily focuses on personal opinions about team professionalism without providing substantial news or reviews related to Agile or DevOps. The depth of discussion is limited, lacking detailed insights or evaluations that would typically characterise content in this category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -538,12 +541,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum principles and the importance of professionalism in teams, which relates to Agile transformation, but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Scrum and the importance of professionalism in teams, which aligns with Agile principles. However, it lacks a comprehensive discussion on Agile transformation strategies, methodologies, or change management, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -565,7 +571,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T18:29:52",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -573,7 +579,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the importance of professionalism in teams, which aligns with the concept of team performance. However, it lacks detailed discussion on specific strategies, practices, or methodologies that enhance team dynamics or productivity. The reference to Scrum Tapas and a talk on building teams suggests a connection to Agile principles, but the overall focus is more on general professionalism rather than a deep dive into team performance metrics or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -595,34 +601,43 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:45:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of professionalism in software teams and references Scrum, which is a key Agile framework in software development. However, the focus is more on team dynamics and professionalism rather than specific software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of professionalism in software teams, which aligns with the Software Development category. It mentions Scrum, a key Agile framework, indicating a focus on methodologies. However, the discussion lacks depth and specific practices related to software development, making it more of a general opinion piece rather than a detailed exploration of software engineering practices.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:45:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of professionalism in software teams and references Scrum, indicating a secondary theme related to Agile Project Management.",
+    "final_score": 60.0,
+    "reasoning": "The content briefly mentions Scrum and the importance of professionalism in teams, which aligns with agile principles. However, it lacks detailed discussion on agile methodologies, frameworks, or specific practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of professionalism in teams and references values and principles, but it primarily focuses on Scrum and team dynamics rather than the core Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions 'values and principals' but does not elaborate on Agile's core values or principles. The focus is primarily on professionalism in teams, which is more related to team dynamics than the foundational beliefs of Agile. There is no detailed discussion of Agile principles or the Agile Manifesto, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T17:54:08",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -630,7 +645,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions the importance of professionalism in teams and references Scrum Tapas, but lacks a detailed exploration of Scrum principles, roles, or practices. While it touches on the need for adherence to values and principles, it does not provide substantial depth or direct discussion of Scrum's core elements, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -652,12 +667,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:45:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of professionalism in teams, which relates to the Scrum Values of commitment and respect, but it primarily focuses on the need for professional teams rather than directly addressing the Scrum Values themselves.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions the importance of following values and principles but does not explicitly discuss any of the Scrum Values such as Commitment, Courage, Focus, Openness, or Respect. The focus is more on professionalism and the distinction between amateur and professional teams rather than a deep exploration of Scrum Values. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the category.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -715,12 +733,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions 'Building big teams with Nexus', which relates to scaling Scrum, but the primary focus is on professionalism in software teams.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the concept of building big teams with Nexus, which is a framework for scaling Scrum. However, the primary focus is on the importance of professionalism in teams rather than on scaling practices or frameworks. The discussion lacks depth and does not explore the core themes of scaling Scrum in detail.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -742,7 +763,7 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-03-13T17:01:06",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -750,11 +771,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the concept of building big teams with Nexus, which is a framework for scaling agility. However, the primary focus is on the importance of professionalism within teams and does not delve into broader strategies or practices for scaling agility across an organisation. The discussion lacks depth and does not cover key topics such as leadership roles, cross-functional collaboration, or organisational structure, which are essential for a comprehensive understanding of scaling agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:33:16",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -762,7 +783,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the importance of professionalism and adherence to engineering excellence, but it primarily focuses on the concept of professional teams versus amateur teams without delving deeply into specific engineering practices or methodologies. While there is some alignment with the principles of software craftsmanship, the discussion lacks depth and detail on best practices, CI/CD, or technical debt management, which are crucial for a higher confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -838,12 +859,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:45:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions 'Building big teams with Nexus', which relates to scaling Agile, but the primary focus is on professionalism in software teams and Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the concept of building big teams with Nexus, which is a framework for scaling Agile. However, the primary focus is on the importance of professionalism within teams and does not delve into the broader themes of Scaled Agile practices, frameworks, or enterprise-level strategies. The discussion lacks depth and does not provide substantial insights into coordination among multiple teams or the challenges of scaling Agile.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1027,7 +1051,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T14:39:14",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1035,7 +1059,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of professionalism within teams, which is a component of team collaboration. However, it lacks a detailed exploration of techniques or strategies for improving team dynamics, communication, or shared ownership. The mention of Scrum Tapas and a talk on building big teams with Nexus suggests some relevance to team collaboration, but the overall focus is more on professionalism and the critique of amateur teams rather than a comprehensive discussion on collaboration within Agile frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1147,12 +1171,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions 'Building big teams with Nexus', which relates to scaling Agile, but the primary focus is on professionalism within teams and Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions 'Building big teams with Nexus', which is a framework for scaling Agile, indicating some relevance to the category. However, the primary focus is on the importance of professionalism within teams, which aligns more with team-level practices rather than large-scale Agile principles. The discussion lacks depth on enterprise-level strategies or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1228,7 +1255,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T12:33:33",
+    "calculated_at": "2025-03-15T03:44:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1236,7 +1263,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of professionalism in software teams, which aligns with the broader themes of Agile methodologies and team dynamics. However, it lacks direct discussion of specific Agile practices or DevOps principles, and the depth of exploration into the role of software developers is limited. The mention of Scrum Tapas suggests a connection to Agile, but it does not provide substantial insights into how developers can leverage these methodologies for productivity or collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1294,11 +1321,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:55",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its principles, but the primary focus is on professionalism in teams rather than a comprehensive exploration of Agile frameworks.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the importance of professionalism in software teams, which indirectly relates to Agile principles, particularly within the Scrum framework. However, it lacks a detailed exploration of Agile frameworks themselves, focusing more on the need for professional teams rather than a comprehensive analysis of Scrum or other Agile methodologies. The mention of 'Scrum Tapas' and a talk on 'Building big teams with Nexus' indicates some relevance, but the overall depth and direct discussion of Agile frameworks are limited.",
     "level": "Tertiary"
   },
   "Agile Strategy": {

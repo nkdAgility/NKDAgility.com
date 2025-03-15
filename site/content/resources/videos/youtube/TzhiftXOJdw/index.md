@@ -2,7 +2,7 @@
 title: What more needs to happen before traditional organisations consider Agile?
 description: Discover why traditional organisations hesitate to adopt Agile in a complex world. Join Martin Hinshelwood for insights on evolving project management.
 date: 2023-07-06T07:08:30Z
-weight: 775
+weight: 810
 ResourceId: TzhiftXOJdw
 ResourceType: videos
 ResourceImport: true
@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Change
 - Organisational Culture
-- Organisational Agility
-- People and Process
-- Market Adaptability
-- Business Agility
-- Sociotechnical Systems
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
+- Organisational Agility
+- People and Process
+- Market Adaptability
 - Change Management
+- Business Agility
 resourceTypes:
 - video
 categories:

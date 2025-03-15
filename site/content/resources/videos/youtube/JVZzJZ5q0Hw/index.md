@@ -2,7 +2,7 @@
 title: What is a sprint goal?
 description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
 date: 2023-05-25T14:00:20Z
-weight: 775
+weight: 855
 ResourceId: JVZzJZ5q0Hw
 ResourceType: videos
 ResourceImport: true
@@ -32,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Scrum Product Development
 - Agile Product Management
 - Agile Project Management
 - Professional Scrum
 - Software Development
-- Agile Planning
-- Scrum Product Development
 - Product Delivery
 - Agile Frameworks
-- Backlog Refinement
+- Product Backlog
+- Agile Planning
 resourceTypes:
 - video
 categories:

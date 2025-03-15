@@ -33,10 +33,7 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Azure Repos
-- Continuous Integration
 - Pragmatic Thinking
-- Technical Excellence
-- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

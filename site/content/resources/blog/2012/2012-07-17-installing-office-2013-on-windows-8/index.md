@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/installing-office-2013-on-windows-8
 tags:
 - Windows
-- Install and Configuration
 categories: []
 preview: metro-office-128-link-7-7.png
 

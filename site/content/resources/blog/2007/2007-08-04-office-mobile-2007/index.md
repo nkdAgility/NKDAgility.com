@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/office-mobile-2007
 - /office-mobile-2007
 - /resources/blog/office-mobile-2007
-tags:
-- Windows
+tags: []
 categories: []
 preview: metro-office-128-link-1-1.png
 

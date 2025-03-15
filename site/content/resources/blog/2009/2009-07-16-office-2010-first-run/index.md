@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/office-2010-first-run
 - /office-2010-first-run
 - /resources/blog/office-2010-first-run
-tags:
-- Windows
+tags: []
 preview: metro-office-128-link-6-1.png
 categories: []
 

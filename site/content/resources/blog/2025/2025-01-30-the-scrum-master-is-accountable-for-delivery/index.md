@@ -5,7 +5,7 @@ ResourceId: yMnia2DLI6q
 ResourceType: blog
 ResourceImport: false
 date: 2025-01-30
-weight: 250
+weight: 275
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -28,16 +28,16 @@ aliasesArchive:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
 tags:
-- Accountability
 - Increment
+- Accountability
 - Scrum Product Development
-- Software Development
-- Agile Frameworks
-- Agile Project Management
-- Professional Scrum
 - Scrum Master
+- Software Development
 - Product Delivery
 - Scrum Team
+- Value Delivery
+- Working Software
+- Professional Scrum
 categories:
 - Scrum
 - Social Technologies

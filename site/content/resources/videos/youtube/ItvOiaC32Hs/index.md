@@ -25,11 +25,15 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Team Collaboration
+- Agile Project Management
 - Agile Strategy
+- Organisational Agility
+- Team Performance
+- Software Development
 - Agile Product Management
-- Sociotechnical Systems
-- Strategy
 - Agile Leadership
+- Agile Planning
 - People and Process
 sitemap:
   filename: sitemap.xml

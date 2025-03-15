@@ -25,8 +25,12 @@ preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
+- Team Performance
 - Team Motivation
 - People and Process
+- Team Collaboration
+- Organisational Culture
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

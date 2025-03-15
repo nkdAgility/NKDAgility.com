@@ -2,7 +2,7 @@
 title: What is the Sprint Review workshop and how will it help organisations?
 description: Discover how NKD Agility's Sprint Review workshops empower scrum teams to excel in showcasing their work and enhancing stakeholder engagement.
 date: 2023-06-30T07:00:18Z
-weight: 775
+weight: 700
 ResourceId: uYm_wb1sHJE
 ResourceType: videos
 ResourceImport: true
@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Events and Presentations
+- Scrum Product Development
 - Sprint Review
 - Agile Project Management
-- Scrum Product Development
-- Agile Product Management
+- Software Development
+- Events and Presentations
+- Agile Planning
+- Team Performance
 - Pragmatic Thinking
-- Scrum Master
+- Agile Product Management
 - Agile Frameworks
-- People and Process
 resourceTypes:
 - video
 categories:

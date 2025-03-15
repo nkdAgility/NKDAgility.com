@@ -27,6 +27,8 @@ duration: 40
 isShort: true
 tags:
 - Technical Leadership
+- Discovery and Learning
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

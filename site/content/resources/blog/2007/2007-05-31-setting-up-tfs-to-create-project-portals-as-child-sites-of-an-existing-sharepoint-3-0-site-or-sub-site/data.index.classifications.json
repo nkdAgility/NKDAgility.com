@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:27",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of TFS with SharePoint, which relates to application lifecycle management, but it primarily focuses on technical implementation rather than the broader methodologies or practices of ALM.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses integrating TFS with SharePoint, which relates to application lifecycle management, but it does not explicitly cover the stages of the application lifecycle or best practices in detail. The mention of ALM tags indicates some relevance, but the primary focus is on technical implementation rather than a comprehensive discussion of ALM principles.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -325,7 +328,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T12:17:27",
+    "calculated_at": "2025-03-15T07:46:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -333,7 +336,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the integration of TFS with SharePoint, which touches on technical practices but lacks a strong focus on the principles of Technical Excellence. While it mentions testing and project management aspects, it does not delve deeply into methodologies like TDD or CI/CD, nor does it explore modular architecture or emergent design principles. The discussion is more operational and practical rather than a thorough examination of engineering practices that enhance agility and quality.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -583,7 +586,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:52:28",
+    "calculated_at": "2025-03-15T07:46:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -591,16 +594,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the integration of TFS with SharePoint, which is relevant to software development practices. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more technical than thematic. While it mentions project management tools, it does not delve into best practices or the role of developers in Agile contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with SharePoint, which is relevant to software development practices, but it primarily focuses on implementation details rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with SharePoint, which relates to software development practices, particularly in project management and collaboration. However, while it mentions TFS and project portals, the discussion lacks depth in software development methodologies or best practices, focusing more on implementation details rather than broader software engineering concepts.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -964,12 +970,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of TFS with SharePoint and touches on technical procedures, but it primarily focuses on specific implementation details rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the integration of TFS with SharePoint, which touches on technical practices but lacks a strong focus on software craftsmanship or engineering principles. While there are mentions of testing and project setup, the discussion is more about implementation than mastery of technical methodologies.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,12 +1108,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with SharePoint and mentions permissions, which could imply a Windows environment involvement, but the primary focus is on TFS and SharePoint rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses integrating Team Foundation Server (TFS) with SharePoint, which is related to Windows environments, but it does not focus primarily on Windows itself. While there are mentions of permissions and server updates, the discussion is more about TFS and SharePoint integration rather than Windows-specific topics like installation, configuration, or troubleshooting of the Windows operating system. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1117,11 +1129,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses potential issues and testing related to setting up TFS and SharePoint integration, which indicates a troubleshooting context, but it is not the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the process of setting up TFS with SharePoint and mentions potential issues (like permissions and the need for a hotfix) that could arise during this integration. While it does not explicitly focus on troubleshooting techniques, it does touch on the identification of potential problems and the author's approach to resolving them, which aligns with the core themes of troubleshooting. However, the depth of discussion on systematic problem-solving is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -1408,7 +1423,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:20:58",
+    "calculated_at": "2025-03-15T07:46:25",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1431,6 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses the integration of TFS with SharePoint and does not explicitly mention Scrum principles, roles, or events. While it touches on project management aspects, it lacks a direct focus on Scrum, making it only tangentially related to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

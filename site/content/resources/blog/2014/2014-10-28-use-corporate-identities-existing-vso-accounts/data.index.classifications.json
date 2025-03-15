@@ -22,7 +22,7 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-11T16:44:28",
+    "calculated_at": "2025-03-15T04:15:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -30,7 +30,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, focusing on authentication and account management. While it touches on aspects of developer productivity and internal systems, it lacks a direct focus on the principles of Platform Engineering, such as the design and construction of Internal Developer Platforms (IDPs). The discussion is more about user account management rather than enhancing developer efficiency or optimising the application lifecycle, which are core themes of Platform Engineering.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -127,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:42:57",
+    "calculated_at": "2025-03-15T04:15:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -135,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, which touches on aspects of DevOps such as identity management and seamless integration. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts, making it more of a technical guide rather than a comprehensive exploration of DevOps as a category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -493,12 +493,12 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:46",
+    "calculated_at": "2025-03-15T04:15:31",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the configuration of Active Directory and linking accounts, which is more focused on technical setup rather than operational efficiency or practices within Agile, DevOps, or Lean frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -793,7 +793,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T14:54:39",
+    "calculated_at": "2025-03-15T04:15:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -801,7 +801,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses practical steps for configuring Active Directory and linking accounts, which aligns with pragmatic problem-solving in a technical context. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the complexities of project management or decision-making processes. The focus is primarily on technical configuration rather than strategic application of pragmatic thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1039,7 +1039,7 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-11T17:56:20",
+    "calculated_at": "2025-03-15T04:15:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1047,7 +1047,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online and Azure, which touches on aspects of digital transformation, particularly in terms of enhancing operational efficiency through seamless Single-Sign-On (SSO). However, the focus is primarily on technical configuration rather than strategic adoption or broader organisational change. While it mentions the benefits of SSO, it lacks a comprehensive exploration of digital transformation strategies, case studies, or the impact of emerging technologies on business operations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",

@@ -58,11 +58,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and touches on aspects of professionalism and team effectiveness, which are relevant to coaching. However, it primarily focuses on the distinction between newbie and professional Scrum Masters rather than on coaching techniques or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which indirectly relates to coaching by emphasising the importance of enhancing team effectiveness and fostering a professional approach. However, it primarily focuses on the distinction between 'newbie' and 'professional' Scrum Masters rather than on coaching techniques or practices. While there are mentions of accountability and team dynamics, the depth of discussion on coaching principles is limited.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -292,11 +295,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:50:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and touches on aspects of team effectiveness and collaboration, but primarily focuses on the distinction between newbie and professional Scrum Masters rather than broader team collaboration techniques.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which is relevant to team collaboration within Agile frameworks. However, it primarily focuses on the distinction between 'newbie' and 'professional' Scrum Masters rather than directly addressing techniques for improving team communication or collaboration. While it touches on the importance of the Scrum Master's role in enhancing team effectiveness, it lacks depth in exploring broader team dynamics or shared ownership, which are key themes in the Team Collaboration category.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -385,12 +391,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:50:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a Scrum Master within the context of Agile methodology, touching on professionalism and team effectiveness, but primarily focuses on Scrum rather than the underlying Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master, which is a specific Agile framework rather than the underlying Agile values and principles. While it touches on professionalism and team effectiveness, it does not explicitly address the core values of the Agile Manifesto or the twelve principles of Agile software development. The focus is more on the role and responsibilities within Scrum, leading to a lower confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -475,12 +484,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:52",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master within the Agile framework, which is relevant to software developers, but it primarily focuses on the Scrum Master role rather than the broader context of software development practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master, which is relevant to Agile methodologies, but it does not focus on software developers specifically. While it touches on Agile principles and the importance of professionalism in the Scrum role, it lacks direct references to software development practices or the integration of DevOps. The discussion is more about the Scrum Master role than the developers themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -565,12 +577,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and the importance of professionalism in Agile contexts, but it primarily focuses on definitions and misconceptions rather than practical problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of a Scrum Master and challenges the distinction between 'newbie' and 'professional' Scrum Masters. While it touches on practical aspects of the role and the importance of professionalism, it lacks a deeper exploration of pragmatic problem-solving strategies or real-world applications of Agile principles. The focus is more on definitions and perceptions rather than on practical techniques or case studies that would align more closely with the category of Pragmatic Thinking.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -604,12 +619,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and the importance of professionalism within Agile methodologies, which aligns with Agile principles. However, it primarily focuses on the distinctions between 'newbie' and 'professional' Scrum Masters rather than broader Agile strategy topics.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master, focusing on the distinction between 'newbie' and 'professional' Scrum Masters. While it touches on Agile principles, it lacks a direct discussion on Agile strategy as defined in the category. The content does not delve into strategic planning, organisational vision alignment, or broader Agile methodologies, which are key aspects of Agile Strategy. Therefore, while there are relevant mentions of Agile concepts, the overall focus remains on the Scrum Master role rather than on strategic implementation or organisational alignment.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -649,21 +667,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:50:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and the importance of professionalism in enhancing team effectiveness, which relates to team dynamics and motivation, but it primarily focuses on the distinctions between newbie and professional Scrum Masters.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, focusing on the distinction between 'newbie' and 'professional' Scrum Masters. While it touches on aspects of professionalism and accountability, it lacks a direct focus on team motivation strategies or practices. The discussion is more about the role itself rather than how it impacts team dynamics or motivation, leading to a low confidence score in the 'Team Motivation' category.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and their impact on team effectiveness, which aligns with team performance themes, but it primarily focuses on the distinction between newbie and professional Scrum Masters rather than broader team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of professionalism in enhancing team effectiveness, which aligns with the core themes of team performance. It mentions the Scrum Master’s responsibilities in fostering team productivity and eliminating ineffective practices, directly relating to team dynamics and collaboration. However, while it touches on relevant aspects, it does not delve deeply into specific strategies or metrics for measuring team performance, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -712,12 +736,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:50:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is a key aspect of Agile practices, but it primarily focuses on the distinction between 'newbie' and 'professional' Scrum Masters rather than broader Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master, which is a specific aspect of Agile practices. While it touches on Agile principles and the importance of professionalism in the role, it does not delve deeply into broader Agile transformation strategies or methodologies. The focus is more on the individual role rather than organisational transformation, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -757,21 +784,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is a significant aspect of Scrum practices, but it does not focus primarily on product development or Scrum methodologies in detail.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master, touching on the importance of professionalism in this position. While it does mention Scrum principles, it lacks a direct focus on product development processes, such as Sprint planning or the Product Backlog. The discussion is more about the perception of the Scrum Master role rather than the application of Scrum in product development, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and touches on enhancing team effectiveness, which aligns with operational practices in Agile. However, it primarily focuses on the distinction between newbie and professional Scrum Masters rather than specific operational techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of a Scrum Master and touches on the importance of professionalism in this role, which aligns with operational practices in Agile. However, it primarily focuses on the distinction between 'newbie' and 'professional' Scrum Masters rather than providing concrete techniques or strategies for operational efficiency. The discussion lacks depth in terms of specific operational practices or methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -862,16 +895,19 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is relevant to Agile methodologies and planning, but it primarily focuses on the distinction between newbie and professional Scrum Masters rather than on Agile Planning principles or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which is relevant to Agile Planning, particularly in the context of Scrum. However, it primarily focuses on the distinction between 'newbie' and 'professional' Scrum Masters rather than on Agile Planning methodologies or practices. While it touches on aspects of team effectiveness and accountability, it lacks a comprehensive exploration of Agile Planning principles, techniques, or strategies. Therefore, while there is some alignment, the depth and direct mentions are limited.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-11T11:39:21",
+    "calculated_at": "2025-03-15T00:49:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -879,7 +915,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the differences between newbie and seasoned Scrum Masters, touching on the importance of experience and understanding team dynamics. However, it lacks a direct focus on accountability as a primary theme. While it mentions concepts related to team ownership and the role of Scrum Masters in guiding teams, it does not explicitly address accountability or provide strategies for fostering a culture of accountability. The discussion is more centred on the roles and practices of Scrum Masters rather than the accountability framework within Agile teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1033,12 +1069,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:50:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and touches on the importance of professionalism and effectiveness, which are relevant to continuous learning. However, the primary focus is on the distinction between newbie and professional Scrum Masters rather than a deep exploration of continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a Scrum Master and touches on professionalism and effectiveness, which are relevant to Continuous Learning. However, it primarily focuses on the distinction between newbie and professional Scrum Masters rather than exploring growth mindset principles or knowledge sharing practices in depth. The mention of improving together and building Agile organisations hints at a continuous learning aspect, but it lacks substantial detail on the key topics outlined in the category.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1114,21 +1153,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master within the Agile framework, which is relevant to product delivery methodologies, but it primarily focuses on the distinction between newbie and professional Scrum Masters rather than the broader aspects of product delivery.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which is integral to Agile methodologies and product delivery. It touches on the importance of professionalism in the role and how it contributes to team effectiveness and product value. However, it lacks a broader discussion on the end-to-end product delivery process, focusing more on the Scrum Master role rather than the overall methodologies and practices involved in delivering software products.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:50:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master, which is relevant to Agile methodologies, but it primarily focuses on the distinction between newbie and professional Scrum Masters rather than broader Agile product management practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Agile framework, which is relevant to Agile Product Management. However, it lacks a direct focus on product management practices, such as backlog prioritisation or stakeholder engagement. While it touches on the importance of professionalism and team effectiveness, it does not delve deeply into how these aspects contribute to maximising product value or aligning with customer needs.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1168,12 +1213,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and touches on Agile methodology, but it primarily focuses on the conceptual understanding of the role rather than practical techniques or tooling.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles and perceptions of Scrum Masters rather than practical techniques or tooling. While it touches on the importance of professionalism in the Scrum role, it lacks specific discussions on tools, methodologies, or frameworks that enhance Agile practices. The focus is more on philosophical interpretations rather than actionable insights or techniques.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1249,12 +1297,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:49:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and its importance in delivering value to the team and organisation, but it primarily focuses on the distinction between newbie and professional Scrum Masters rather than on broader value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of professionalism in delivering value to the team and organisation. However, it primarily focuses on the distinction between 'newbie' and 'professional' Scrum Masters rather than on broader strategies or methodologies for value delivery. While it touches on the significance of enhancing team effectiveness, it lacks detailed exploration of value delivery principles or practices.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1267,11 +1318,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:31:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master within Agile methodologies, which is a significant aspect of organisational agility, but it primarily focuses on the distinction between newbie and professional Scrum Masters rather than broader organisational agility strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which is a key position in Agile methodologies, and touches on the importance of professionalism in this role. However, while it mentions Agile principles and the Scrum framework, it does not delve deeply into broader organisational agility strategies or cultural shifts. The focus is primarily on the Scrum Master role rather than on organisational agility as a whole, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {

@@ -26,6 +26,7 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Code and Complexity
+- Automated Testing
 - Test Automation
 - Engineering Practices
 sitemap:

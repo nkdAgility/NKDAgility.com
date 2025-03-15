@@ -27,13 +27,11 @@ tags:
 - Experimentation
 - Discovery and Learning
 - Hypothesis Driven Development
-- Continuous Learning
-- Product Discovery
 - Product Validation
 - Metrics and Learning
-- Lean Startup
-- MVP
+- Product Discovery
 - Decision Making
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

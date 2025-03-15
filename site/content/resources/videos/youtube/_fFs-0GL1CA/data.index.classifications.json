@@ -40,7 +40,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:19:42",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the value of Agile certifications and the importance of understanding Scrum principles for career advancement. While it touches on Scrum and its relevance to product management, the focus is more on personal career development and certification rather than the strategic aspects of product management itself. The discussion lacks depth in terms of product management methodologies and frameworks, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -61,7 +61,7 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-11T11:40:40",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -69,7 +69,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions the Product Owner learning path but primarily focuses on the value of Agile certifications and general Scrum principles. It does not delve deeply into the specific responsibilities or practices of a Product Owner, making it a secondary topic rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -310,11 +310,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:16:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile certifications, Scrum team roles, and the importance of validated learning in software development careers, particularly in the context of Scrum methodology.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the value of Agile certifications and their role in career advancement within the context of Scrum and Agile methodologies. While it touches on relevant themes such as validated learning and the importance of knowledge versus skills, the focus is more on personal experiences and opinions rather than a detailed exploration of software development practices. The discussion of Scrum roles and the certification process aligns with the category, but the overall depth and breadth of software development methodologies are not extensively covered.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -328,30 +331,39 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:17:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding Scrum and Agile methodologies in the context of pursuing certifications, which is a secondary theme related to Agile Planning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile certifications and their importance in validating knowledge, but it does not focus on Agile Planning methodologies or practices. While it touches on Scrum principles, it primarily centres on the value of certifications rather than the planning aspects of Agile. Therefore, it has limited direct mentions and conceptual alignment with Agile Planning, but it does provide some depth in discussing the role of certifications in the Agile landscape.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile certifications, specifically focusing on Scrum, and how it relates to career advancement. While there is a significant emphasis on professional development and validation of skills in a scrum context, the content does not primarily address the broader strategic implications of Agile methodologies within an organization’s vision or adaptability.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the value of Agile certifications and their role in career advancement, which is somewhat related to Agile principles. However, it lacks a direct focus on Agile strategy as defined in the category. While it touches on the importance of validated learning and continuous improvement, it does not delve into strategic planning or organisational alignment with Agile methodologies. The discussion is more centred on personal development and certification rather than broader Agile strategy implementation.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding Scrum principles and obtaining certifications, which indirectly relates to team effectiveness within Scrum teams. However, the main focus is on career advancement rather than directly on team performance practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:16:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile certifications and their role in validating knowledge for Scrum team members, which is somewhat related to team performance. However, it primarily focuses on individual career advancement rather than team dynamics, collaboration, or methodologies aimed at maximising team effectiveness. The discussion lacks depth in exploring how these certifications impact team performance or dynamics, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -427,12 +439,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile certifications and the importance of validated learning, which aligns with the principles of continuous learning and personal development. However, the primary focus is on certification paths and career advancement rather than a direct exploration of continuous learning practices within team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:16:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of certifications as a means of validating knowledge and skills, which aligns with the principles of continuous learning. It highlights the significance of feedback and growth through validated learning, which is a core aspect of continuous improvement. The depth of discussion on how certifications can facilitate ongoing education and the emphasis on a growth mindset contribute to a strong alignment with the category. However, while continuous learning is a prominent theme, the focus on certifications may slightly detract from a broader exploration of continuous learning practices.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -472,12 +487,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum certifications relevant to software developers, which suggests an understanding of their role within Agile frameworks, but it may also drift into broader career development topics.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Agile certifications and their role in validating knowledge for software developers, particularly in Scrum contexts. While it touches on relevant themes such as continuous learning and the significance of certifications, it lacks a deep exploration of Agile methodologies or DevOps practices. The focus is more on the certification process rather than the broader implications for software developers in Agile environments.",
+    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -526,11 +544,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:35",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the importance of understanding Scrum and the Scrum Guide for individuals working on Scrum teams, which is relevant but not focused primarily on the role of the Scrum Master.",
+    "final_score": 44.0,
+    "reasoning": "The content discusses the importance of certifications related to Scrum, particularly the Professional Scrum Master I (PSM1) certification, which is relevant to the role of a Scrum Master. However, the focus is more on the value of certifications in general rather than on the specific responsibilities and practices of a Scrum Master. While there are mentions of Scrum and its principles, the depth of discussion on the Scrum Master role itself is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -544,16 +565,16 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:22:25",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the importance of certifications and validated learning in career advancement, rather than focusing on value delivery practices or methodologies in Agile, Scrum, or DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T17:47:20",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -561,7 +582,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of certifications in Agile and Scrum, which is tangentially related to technical leadership but does not focus on guiding teams or fostering collaboration. While it touches on continuous learning and professional development, it lacks depth in discussing how these elements contribute to effective technical leadership or agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -628,11 +649,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T01:17:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of certifications in Agile and Scrum practices, highlighting how validated learning and understanding are crucial for team roles, particularly in Scrum environments. While the primary focus is on career development through certifications, it also covers the collaboration and learning aspects relevant to teams, making it a significant secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of Agile certifications in relation to career advancement, which ties into the human factors of team dynamics and professional development. It highlights the role of validated learning and feedback in enhancing skills, aligning well with the category's focus on human behaviour and structured methodologies. However, while it touches on these themes, the discussion is more centred on certifications and personal growth rather than broader team dynamics or process methodologies, which slightly limits its depth in the context of 'People and Process'.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -646,12 +670,12 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:22:25",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "While the content discusses aspects of Agile certifications and their relevance for career advancement, it does not focus primarily on business agility principles or practices. Instead, it centers on personal professional development within the Scrum framework without addressing how these certifications contribute to broader organizational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -709,7 +733,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T16:34:55",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -717,7 +741,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the value of Agile certifications and their role in career advancement, which is tangentially related to Agile principles but does not focus on leadership roles or practices within Agile contexts. While it touches on continuous learning, it lacks a direct emphasis on the leadership aspects of Agile, such as empowering teams or fostering a culture of trust and collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -739,12 +763,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:17:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements related to Scrum and validated learning, but primarily focuses on career advancement through certifications rather than the core principles of empirical process control.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile certifications and their role in validating knowledge, which is somewhat related to empirical process control through the concept of validated learning. However, it primarily focuses on the value of certifications rather than the core principles of empirical process control, such as transparency, inspection, and adaptation. The discussion lacks depth in these areas and does not provide substantial insights into empirical process control practices or case studies.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -757,12 +784,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of having knowledge and skills to effectively work on a Scrum team, which relates to team collaboration. However, the primary focus is on Agile certifications and their role in career advancement, rather than on the dynamics of teamwork and collaboration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the value of Agile certifications and their role in career advancement rather than on team collaboration dynamics. While it briefly touches on Scrum teams and the importance of validated learning, it does not delve deeply into techniques for improving team communication or fostering a culture of trust, which are key topics in the Team Collaboration category. The discussion is more centred on individual qualifications and career paths rather than collective team performance or collaboration.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -829,11 +859,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T01:17:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "While the primary focus is on the value of Agile certifications for career advancement, there is significant discussion about Scrum, the Scrum Guide, and how Scrum roles contribute to team effectiveness. Agile principles are mentioned, suggesting that the content is largely centered on Agile methodologies in a professional context.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile and Scrum certifications, highlighting their importance in validating knowledge and skills within Agile frameworks. It mentions the Scrum Guide and the role of certifications as a litmus test for employers, which aligns with Agile principles. However, the focus is more on the value of certifications rather than a comprehensive exploration of Agile project management methodologies, which slightly limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -856,11 +889,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T01:16:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the value of the Scrum Guide and the importance of related certifications in advancing career paths within Agile and Scrum frameworks. It references books and additional materials provided by Scrum.org, indicating a significant focus on learning resources but is primarily centered on career development and certification rather than a deep dive into products or literature.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of Agile certifications and their role in career advancement, which indirectly relates to products (certifications) and resources (books and courses). However, it primarily focuses on personal experiences and opinions rather than providing detailed reviews or analyses of specific products or literature. The mention of recommended books and resources adds some depth, but the overall emphasis is more on the value of certifications than on the products themselves.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -883,12 +919,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Agile certifications and career advancement, it includes personal reflections on the speaker's experiences with obtaining qualifications and insights on their value in the professional world. However, the focus remains more on general career advice than strictly personal experiences.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the author's personal reflections and experiences regarding Agile certifications and their impact on career advancement. It includes anecdotes about the author's journey and insights into the value of certifications, which aligns well with the Personal category. However, while it discusses personal experiences, it also delves into technical aspects of certifications and their role in the job market, which slightly detracts from the personal focus.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -919,11 +958,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of certifications related to Agile roles, specifically mentioning the Scrum Guide and preparing for Scrum roles, which aligns with Agile Product Management themes. However, it primarily focuses on career advancement and learning paths rather than deep Agile product management practices.",
+    "calculated_at": "2025-03-15T01:17:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile and Scrum certifications, which are relevant to Agile Product Management, but it primarily focuses on the value of certifications rather than the core practices and methodologies of Agile product management. While it touches on the importance of knowledge and skills in a Scrum context, it lacks a detailed exploration of Agile principles applied to product management, such as backlog prioritisation or stakeholder engagement.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -955,7 +997,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:45:21",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -963,7 +1005,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Scrum certifications and their relevance to Scrum teams, but it primarily focuses on the value of certifications rather than the dynamics, roles, or collaboration within a Scrum team. While there are mentions of Scrum and its principles, the depth of discussion on team dynamics and collaboration is minimal, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1012,7 +1054,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T16:54:36",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1020,16 +1062,19 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily discusses the value of Agile certifications and their role in career advancement, which is more focused on practical applications rather than the underlying Agile philosophy. While it touches on concepts like validated learning and continuous improvement, these are framed within the context of certification rather than a broader discussion of Agile principles. The Agile philosophy itself is not a primary focus, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum and its certification process, which are relevant to Agile methodologies—a key topic under product delivery. However, the primary focus is on career advancement and validation of knowledge rather than on the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:16:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile certifications and their relevance to career advancement, which indirectly relates to product delivery by emphasising the importance of knowledge and skills in Agile methodologies. However, it primarily focuses on personal career development rather than the end-to-end process of delivering software products. While there are mentions of Scrum and validated learning, the depth of discussion on product delivery practices is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1042,12 +1087,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile certifications and their relevance to career advancement within Scrum teams, reflecting on the implications of validated learning. While it touches on Agile methodologies, it primarily focuses on professional development rather than broader organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:16:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of Agile certifications and their role in validating knowledge and skills, which indirectly relates to organisational agility. However, it primarily focuses on individual career advancement rather than organisational strategies or practices that enhance agility. While there are mentions of Scrum and continuous learning, the depth of discussion does not fully align with the core themes of organisational agility, such as leadership roles or cross-functional teams.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1108,12 +1156,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses Agile certifications and their importance in career advancement, it primarily focuses on the broader implications of certification rather than specific practical techniques or tooling related to Agile methodologies. There is mention of the Scrum Guide and assessment practices, but they are secondary to the main topic of career development.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile certifications and their role in validating knowledge, which is relevant to the category. However, it primarily focuses on the value of certifications rather than practical techniques or tooling. While it touches on Scrum and the importance of validated learning, it lacks detailed exploration of specific tools or methodologies that enhance Agile practices. Therefore, while there is some alignment, the depth and direct mentions are limited.",
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1162,20 +1213,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses Agile certifications, Scrum roles, and the importance of knowledge in an Agile context, but it does not focus specifically on the Agile Product Operating Model as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:17:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the value of Agile certifications and their role in career advancement rather than focusing on the Agile Product Operating Model itself. While it touches on Agile and Scrum principles, it does not delve into product-centric development, value delivery, or the operational model's key topics. The discussion is more about personal career growth and validation of knowledge through certifications, which is a secondary aspect of Agile methodologies.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T01:16:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of validated learning and knowledge acquisition in the context of Agile certifications and Scrum, highlighting learning paths and the significance of understanding and applying knowledge in career development.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of certifications in validating knowledge and skills, which aligns with the theme of continuous learning. It highlights the concept of validated learning and feedback loops, particularly through the assessment process provided by Scrum.org. The emphasis on differentiating between knowledge and skills, as well as the encouragement of ongoing education and resource exploration, supports the core themes of discovery and learning. However, the primary focus is on certifications rather than broader methodologies or processes, which slightly limits the depth of discussion in relation to the category.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -1216,12 +1273,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical implications of obtaining Agile certifications and how they validate knowledge and skills relevant to working on Scrum teams. While it primarily focuses on the value of certifications, it does touch upon real-world applications and the importance of understanding Scrum principles, making it relevant to pragmatic thinking in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of certifications in Agile and Scrum, highlighting practical applications of knowledge versus skills. It touches on validated learning and continuous improvement, which align with pragmatic thinking. However, the focus is more on the value of certifications rather than on specific problem-solving strategies or real-world applications of Agile principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1288,12 +1348,12 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:22:25",
+    "calculated_at": "2025-03-15T01:16:20",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "While the content mentions Scrum and certifications related to Agile, it primarily discusses the value of certifications and professional development rather than explicitly focusing on Agile values and principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1396,12 +1456,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:16:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding and applying Scrum principles, which are part of operational practices. However, the primary focus is on career advancement and certifications rather than directly on enhancing operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the value of Agile certifications and their role in career advancement rather than focusing on operational practices that enhance efficiency within Agile, DevOps, or Lean frameworks. While it touches on concepts like validated learning and the importance of skills over knowledge, these discussions are not deeply tied to operational efficiency or practical methodologies. The content lacks a strong emphasis on process optimisation, continuous improvement, or specific operational strategies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

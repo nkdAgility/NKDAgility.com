@@ -1,21 +1,27 @@
 {
   "AI": {
     "category": "AI",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automation in engineering and DevOps, with a specific mention of a Twitter sentiment bot that monitors product feedback, which relates to AI. However, the primary focus is on automation and engineering practices rather than a deep exploration of AI's role in Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses automation extensively, particularly in the context of software development and DevOps practices. However, it does not explicitly mention AI or its integration into these processes. While there is a conceptual alignment with the themes of enhancing processes and decision-making, the lack of direct references to AI and its applications results in a lower confidence score.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team confidence and collaboration in the context of automation and continuous delivery, which aligns with team dynamics and shared ownership. However, the primary focus is on technical processes and improvements rather than direct team collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses automation in development processes, which indirectly relates to team collaboration by highlighting how empowering developers and improving internal processes can foster a sense of capability within teams. However, the primary focus is on automation and technical improvements rather than explicit team dynamics or collaboration techniques. While there are mentions of team empowerment and trust, these are secondary to the main theme of automation, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -61,21 +67,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation, reducing cycle time, and improving feedback loops, which are relevant to Lean principles. However, it primarily focuses on engineering practices and confidence in product delivery rather than a comprehensive discussion on Lean Product Development.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses automation and its role in improving development processes, which aligns with Lean principles of efficiency and reducing waste. However, it primarily focuses on automation rather than explicitly addressing Lean Product Development concepts such as waste elimination or customer feedback integration. The depth of discussion on Lean-specific topics is limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and the importance of unit tests, which are relevant to TDD principles. However, the primary focus is on automation in general and improving deployment processes rather than a dedicated exploration of TDD practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:42:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses automation in software development, including automated testing, but does not explicitly mention Test Driven Development (TDD) or its core principles such as the Red-Green-Refactor cycle. While it touches on the importance of automated testing and improving code quality, it lacks a focused discussion on writing tests before code implementation, which is central to TDD. The depth of discussion on TDD practices is minimal, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -148,11 +160,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation and continuous delivery practices that enhance engineering capabilities, which are related to innovation. However, the primary focus is on technical processes rather than a direct exploration of the Ability to Innovate as a central theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses automation in development processes, which indirectly relates to innovation by improving efficiency and quality. However, it lacks a direct focus on the Ability to Innovate category, as it primarily centres on automation practices rather than explicitly measuring or enhancing innovation capabilities. While there are mentions of improving processes and fostering confidence, the discussion does not delve deeply into frameworks, metrics, or Evidence-Based Management principles that are central to the category.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -193,12 +208,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automation and reducing cycle time in engineering teams, which indirectly relates to team performance. However, the primary focus is on technical processes rather than team dynamics or collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses automation in development processes, which indirectly relates to team performance by highlighting how automation can enhance team efficiency and confidence. However, it lacks direct discussions on team dynamics, collaboration, or Agile methodologies, which are central to the 'Team Performance' category. The focus is more on technical practices rather than team-centric strategies or metrics.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -265,12 +283,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of ownership and responsibility within engineering teams, particularly in the context of improving processes and building confidence. However, it primarily focuses on automation and technical improvements rather than a direct exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of owning up to mistakes and fostering a sense of capability within the team, which aligns with accountability principles. However, the primary focus is on automation and technical processes rather than on accountability as a core theme. The discussion lacks depth in exploring accountability in team dynamics or ownership, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -295,12 +316,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of building customer confidence and improving product quality, which are related to customer satisfaction. However, the primary focus is on engineering practices and automation rather than customer satisfaction strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses automation and its impact on development processes, with a brief mention of enhancing customer confidence. However, the primary focus is on technical implementation and internal processes rather than directly addressing customer satisfaction principles or practices. While there are references to customer confidence and engagement, they are secondary to the main topic of automation and technical improvements.",
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -442,21 +466,27 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of feedback loops in the context of improving product quality and customer confidence, particularly through automation and telemetry. However, the primary focus is on engineering practices rather than explicitly on customer feedback mechanisms.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses automation and its impact on development processes, with a brief mention of feedback loops in the context of telemetry data. However, the primary focus is on automation rather than the mechanisms of collecting and utilising customer feedback. While there are references to improving customer confidence and addressing issues, the content does not delve deeply into customer feedback integration practices or strategies, which are central to the category.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and engineering practices that support Agile principles, such as reducing cycle time and improving confidence in delivery. However, it primarily focuses on technical practices rather than a strategic discussion on Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:42:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses automation in the development process, focusing on technical practices rather than strategic alignment with Agile principles. While it touches on aspects like reducing cycle time and improving quality, it lacks a direct connection to Agile strategy concepts such as organisational vision alignment or leadership roles in fostering an Agile culture. The discussion is more about operational efficiency than strategic implementation of Agile methodologies.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -508,12 +538,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation, testing infrastructure, and confidence in deployment processes, which are relevant to Site Reliability Engineering principles. However, it primarily focuses on general engineering practices and does not explicitly address SRE concepts such as SLOs, SLIs, or incident response.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses automation in the development process, which is a broader software engineering topic rather than focusing specifically on Site Reliability Engineering (SRE). While it touches on aspects like automated testing and deployment, which are relevant to SRE, it lacks explicit discussions on SRE principles, incident response, SLOs, SLIs, or the integration of development and operations. The depth of discussion on automation is significant, but it does not sufficiently align with the core themes of SRE, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -571,11 +604,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T15:20:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T14:46:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses automation in software development, specifically mentioning Azure DevOps and its impact on deployment and testing processes. While it primarily focuses on engineering practices and confidence in product delivery, Azure Pipelines is a significant theme throughout the discussion, making it a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses automation in the context of software development, with specific references to Azure DevOps and its practices. However, while it touches on automated testing and deployment, it lacks a focused discussion on Azure Pipelines specifically. The mention of Azure DevOps is relevant, but the content does not delve deeply into the configuration or management of pipelines, nor does it provide detailed insights into CI/CD practices using Azure Pipelines. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -661,11 +697,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T15:20:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in the context of frequent software releases, detailing how the Azure DevOps team transitioned from infrequent to more frequent deployments. It highlights principles of continuous delivery, the role of automation in reducing cycle times, and the impact on user confidence, aligning closely with the key topics of the Frequent Releases category.",
+    "calculated_at": "2025-03-14T15:05:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses automation as a key enabler for frequent releases, particularly through automated deployment and testing. It highlights the Azure DevOps team's transition from biannual to weekly releases, which directly aligns with the principles of frequent releases. However, while the topic of frequent releases is present, it is not the primary focus, as the content primarily centres on automation and quality improvement rather than the broader strategies and metrics associated with frequent releases.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -688,12 +727,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of reducing cycle time and improving testing infrastructure, which indirectly relates to Lead Time. However, the primary focus is on automation and engineering practices rather than a direct discussion on Lead Time itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation and its impact on development processes, which indirectly relates to Lead Time by mentioning cycle time and the importance of reducing feedback loops. However, it does not explicitly focus on Lead Time as a primary metric or provide detailed strategies for measuring or optimising it. The discussion is more centred on automation and quality rather than a direct exploration of Lead Time.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -733,11 +775,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T15:20:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:41:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of automation, testing infrastructure, and technical debt management in software engineering, which aligns closely with the principles of technical mastery and software craftsmanship.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses automation in software development, focusing on automated testing, deployment, and validation, which are key practices in software craftsmanship. It also addresses technical debt management and the importance of quality, aligning well with the principles of Technical Mastery. The depth of discussion is significant, providing detailed examples and strategies, particularly regarding the Azure DevOps team's transformation. Overall, the content is highly relevant to the category, with a strong emphasis on technical practices.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -760,21 +805,27 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T15:20:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:41:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the reduction of cycle time in the context of improving engineering processes and automation, making it a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Cycle Time explicitly, particularly in the context of the Azure DevOps team's efforts to reduce their cycle time from idea to deployment. It aligns well with the core themes of the category by detailing the importance of Cycle Time in improving workflow efficiency and team performance. The depth of discussion is significant, as it provides specific examples of how the team transformed their testing strategy to achieve a substantial reduction in feedback loops, which directly relates to Cycle Time. However, the primary focus is on automation rather than Cycle Time itself, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T15:20:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:41:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of automation and feedback loops in improving engineering processes, which aligns with the principles of Continuous Learning. It highlights the need for a growth mindset, learning from failures, and enhancing team performance through iterative improvements, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses automation and its role in improving development processes, which indirectly supports continuous learning through feedback loops and iterative improvements. However, it lacks explicit discussions on growth mindset, knowledge sharing, or team dynamics, which are core to the Continuous Learning category. The focus is more on technical practices rather than the principles of continuous learning.",
+    "level": "Tertiary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -808,11 +859,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-12T15:20:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:41:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the automation of engineering processes and the impact of these changes on business agility and customer confidence, which aligns closely with the principles of digital transformation.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automation in the development process, which is a component of digital transformation, but it primarily focuses on technical practices rather than strategic adoption of digital technologies for broader business transformation. While it mentions the importance of automation and its impact on development efficiency, it lacks a comprehensive exploration of how these practices contribute to overall business agility or cultural change within the organisation. The examples provided, such as the Azure DevOps team's transition, illustrate specific instances of automation but do not delve into the strategic implications or broader organisational transformation, which are key aspects of digital transformation.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -826,11 +880,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T15:20:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:41:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the management of technical debt within the context of improving engineering processes and automation. It highlights the challenges faced by the Azure DevOps team due to technical debt, the strategies they employed to address it, and the impact on their development velocity and product quality.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses technical debt in the context of the Azure DevOps team's challenges with poor-quality code and a problematic testing infrastructure. It highlights the need to confront technical debt and provides a specific example of how they transformed their testing strategy to improve efficiency. However, while technical debt is a significant part of the discussion, the primary focus of the content is on automation and its benefits, which somewhat dilutes the emphasis on technical debt management. Therefore, while there is a strong mention and relevant alignment, the overall depth of discussion on technical debt is not as comprehensive as it could be.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -907,12 +964,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and continuous deployment practices, which are relevant to modern source control methodologies. However, the primary focus is on engineering excellence and confidence-building rather than specific version control practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses automation in the development process, focusing on automated testing, deployment, and validation. While it touches on aspects relevant to modern source control, such as continuous deployment and the importance of quality, it does not explicitly address version control systems, branching strategies, or collaboration workflows. Therefore, the primary focus is not on modern source control, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -934,12 +994,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of automation and feedback loops in product development, which relates to validating product ideas through user engagement. However, the primary focus is on engineering practices and technical improvements rather than direct user testing or validation methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:43:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses automation in the development process, which indirectly relates to product validation through automated testing and feedback loops. However, it primarily focuses on internal processes and technical debt rather than directly validating product ideas with user engagement. While there are mentions of validating assumptions and improving customer confidence, the core themes of user testing, market fit, and direct user feedback are not the primary focus.",
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -952,12 +1015,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation, continuous deployment, and feedback loops, which are relevant to release management, but it primarily focuses on engineering practices and confidence-building rather than a structured discussion on release management processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:43:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses automation in the context of software development, particularly focusing on automated testing, deployment, and validation, which are crucial aspects of release management. It highlights the importance of reducing cycle time and improving feedback loops, aligning well with the core themes of release management. However, while it touches on these topics, it does not explicitly frame them within a broader release management strategy, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -997,11 +1063,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T15:21:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:42:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automation in engineering practices, including automated testing, deployment, and the importance of reducing cycle time, which aligns closely with key topics in Engineering Practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on automation within the development process, which is a key aspect of Engineering Practices. It discusses automated testing, deployment, and validation, aligning well with the principles of CI/CD and the importance of clean code. The depth of discussion is substantial, providing specific examples and strategies that enhance understanding of these practices. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1015,11 +1084,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of automated testing and the transition from long-running functional tests to short unit tests, which aligns with Test First Development principles. However, the primary focus is on automation and engineering processes rather than explicitly on Test First Development or TDD.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses automated testing and its importance in the development process, which aligns with the principles of Test First Development. However, it primarily focuses on automation in general rather than explicitly advocating for writing tests before code, which is a core tenet of Test First Development. The depth of discussion on TDD principles is limited, and while it mentions the benefits of automated testing, it does not delve deeply into the specific practices of Test First Development or provide case studies related to TDD.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
@@ -1033,11 +1105,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T16:31:51",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T16:42:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses automation strategies and their impact on operational efficiency within engineering teams, particularly in the context of continuous delivery and reducing cycle times. It provides practical examples of process optimisation and the importance of metrics in improving operational practices.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of automation in enhancing operational efficiency, particularly within the context of Agile and DevOps practices. It directly mentions key operational practices such as automated testing, deployment, and validation, which are crucial for streamlining processes and reducing bottlenecks. The depth of discussion is significant, providing detailed examples of how automation transformed the Azure DevOps team's workflow, thereby aligning closely with the core themes of operational practices. The focus on continuous delivery and quality improvement further solidifies its relevance to the category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1096,12 +1171,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interplay between automation, team dynamics, and the impact of organisational practices on software delivery, but it primarily focuses on technical improvements rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on automation in software development, discussing technical practices such as automated testing and deployment. While it touches on team dynamics and the importance of quality, it lacks a direct exploration of the interplay between social and technical systems, which is central to the Sociotechnical Systems category. The discussion is more technical than sociotechnical, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1114,21 +1192,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and continuous delivery practices that contribute to organisational agility, but it primarily focuses on technical aspects rather than broader organisational strategies or cultural shifts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses automation as a means to enhance development processes, which indirectly relates to organisational agility by improving responsiveness and adaptability. However, it primarily focuses on technical practices rather than broader organisational strategies or cultural shifts. While it mentions the importance of empowering developers and building customer confidence, these points are not deeply explored in the context of agility principles. The discussion lacks a comprehensive examination of agile methodologies or leadership roles in fostering agility, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of interconnectedness in complex systems, particularly in the context of engineering and automation. It touches on feedback loops and the need for holistic approaches to improve processes, which aligns with Systems Thinking principles. However, the primary focus is on automation and engineering practices rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on automation in development processes, discussing practices like automated testing and deployment. While it touches on concepts like feedback loops and team empowerment, it does not explicitly address Systems Thinking principles or techniques. The discussion lacks depth in exploring interconnectedness or holistic analysis, which are central to Systems Thinking. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1240,12 +1324,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and continuous improvement in engineering processes, which aligns with Lean principles. However, it primarily focuses on automation and deployment practices rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation and its role in improving development processes, which aligns with Lean principles of efficiency and continuous improvement. However, it primarily focuses on automation and technical debt rather than explicitly addressing Lean methodologies or waste reduction. While there are mentions of improving processes and reducing cycle time, the discussion lacks depth in Lean-specific tools and concepts, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1309,29 +1396,38 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:42:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and engineering practices that contribute to improving confidence and responsiveness in product delivery, which aligns with themes of enterprise agility. However, it primarily focuses on technical practices rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on automation within development processes, which is a team-level practice rather than an organisational-level discussion. While it touches on aspects of continuous delivery and improving processes, it lacks a broader context of enterprise agility, such as organisational structures, leadership roles, or cultural shifts necessary for agility at scale. The mention of Azure DevOps provides a case study, but it does not sufficiently explore the implications for enterprise agility as defined in the category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and continuous delivery, which are important for enhancing responsiveness and adaptability in engineering teams. However, the primary focus is on technical practices rather than the broader principles and strategies of business agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses automation in the development process, which indirectly relates to business agility by highlighting the importance of rapid iteration and responsiveness to change. However, it primarily focuses on technical practices rather than the broader principles of business agility, such as leadership roles or cultural aspects. While there are mentions of improving processes and customer confidence, the depth of discussion on business agility principles is limited.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of automation, testing, and deployment processes that are relevant to the application lifecycle, but it primarily focuses on engineering practices and confidence-building rather than a comprehensive view of Application Lifecycle Management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses automation in the development process, which is relevant to Application Lifecycle Management, particularly in the context of deployment and maintenance. However, it primarily focuses on automation techniques rather than the broader lifecycle stages or governance practices. While it touches on aspects like automated testing and deployment, it lacks a comprehensive exploration of the entire application lifecycle, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Organisational Psychology": {
@@ -1459,7 +1555,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:38:57",
+    "calculated_at": "2025-03-14T16:41:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1467,6 +1563,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses automation and continuous delivery in software development, which are relevant to Agile practices but does not explicitly mention Scrum roles, events, or artifacts. While it touches on themes of iterative improvement and team confidence, it lacks a direct focus on Scrum principles or frameworks, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

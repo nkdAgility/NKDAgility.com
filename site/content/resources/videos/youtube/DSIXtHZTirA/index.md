@@ -2,7 +2,7 @@
 title: 'NKD Agility: Your partner in developing engineering excellence'
 description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
 date: 2024-11-23T07:00:12Z
-weight: 375
+weight: 265
 ResourceId: DSIXtHZTirA
 ResourceType: videos
 ResourceImport: true
@@ -28,13 +28,13 @@ tags:
 - Working Software
 - Product Delivery
 - Software Development
-- Technical Excellence
-- Deployment Strategies
-- Azure DevOps
-- Release Management
 - Technical Mastery
+- Technical Excellence
+- Azure DevOps
 - Customer Satisfaction
 - Engineering Practices
+- Practical Techniques and Tooling
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,10 +29,11 @@ tags:
 - Products and Books
 - Software Developers
 - Software Development
+- Agile Project Management
 - Product Delivery
-- One Engineering System (1ES)
+- Operational Practices
 - Pragmatic Thinking
-- Azure Boards
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

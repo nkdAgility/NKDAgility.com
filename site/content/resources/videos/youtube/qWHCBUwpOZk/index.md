@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Flow Efficiency
-- Software Development
 - Operational Practices
+- Software Development
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management

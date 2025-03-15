@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/tfs-event-handler-revisited
 - /tfs-event-handler-revisited
 - /resources/blog/tfs-event-handler-revisited
-tags:
-- Software Development
-- Troubleshooting
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

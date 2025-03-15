@@ -32,8 +32,10 @@ sitemap:
 tags:
 - Agile Frameworks
 - Agile Project Management
+- Software Development
 - Transparency
 - Operational Practices
+- Lean Principles
 resourceTypes:
 - video
 categories:

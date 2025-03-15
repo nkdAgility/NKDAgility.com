@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the mechanics of Team Foundation Server and proposes a solution for managing check-in policies, which relates to enhancing developer productivity and optimising internal processes, but it is primarily focused on specific tools and personal experiences rather than a broader discussion on platform engineering.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and the potential for a more streamlined policy management system, which touches on aspects of developer productivity and internal tooling. However, it lacks a direct focus on the principles of Platform Engineering, such as Internal Developer Platforms (IDPs) or automation in the application lifecycle. The discussion is more about specific tools and personal experiences rather than a comprehensive exploration of platform engineering concepts.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -40,12 +43,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the mechanics of Team Foundation Server check-in policies and proposes a solution involving the Dynamic Language Runtime, which touches on code quality and complexity management, but is primarily focused on specific implementation details rather than a broader discussion of code and complexity principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the mechanics of Team Foundation Server (TFS) check-in policies and proposes a solution using the Dynamic Language Runtime (DLR). While it touches on aspects of software development, such as policy management and the KISS principle, it lacks a direct focus on the interplay between code quality and complexity. The discussion is more about practical implementation rather than exploring complexity theory or best practices in coding and architecture. Therefore, while there are mentions of relevant topics, the overall alignment and depth of discussion do not strongly support the category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -76,12 +82,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the mechanics of Team Foundation Server check-in policies and mentions the need for a single installation that allows for policy selection, indicating a focus on configuration. However, it primarily revolves around personal experiences and future plans rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges of installing and managing Team Foundation Server (TFS) check-in policies, which relates to installation and configuration. However, it primarily focuses on the author's frustrations and ideas for improvement rather than providing clear, actionable installation or configuration instructions. While there are mentions of web services and tools like WCF and WPF, the depth of technical detail on installation procedures or configuration best practices is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -211,7 +220,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:53:35",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -219,7 +228,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the limitations of Team Foundation Server (TFS) check-in policies and proposes a solution using the Dynamic Language Runtime (DLR). While it touches on technical aspects and methodologies related to software development, such as the KISS principle and the use of web services, it lacks a comprehensive exploration of core themes like Test-Driven Development, CI/CD practices, or modular architecture. The focus is more on personal experiences and proposed solutions rather than a structured discussion on technical excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -286,7 +295,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:08:24",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -294,7 +303,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Team Foundation Server (TFS), which is part of Azure DevOps, but it primarily focuses on personal frustrations and proposed solutions rather than providing a structured overview or best practices related to Azure DevOps. While there are mentions of TFS and its policies, the discussion lacks depth in terms of Azure DevOps functionalities and methodologies, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -352,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its check-in policies, which are related to application lifecycle management, but the primary focus is on the mechanics and limitations of TFS rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and the Dynamic Language Runtime (DLR) in the context of developing policies for software applications. While it touches on aspects of application lifecycle management, such as policy management and development tools, it lacks a comprehensive discussion of the entire application lifecycle stages or best practices. The mention of ALM is brief and does not delve into governance, compliance, or integration with Agile/DevOps principles, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -379,11 +391,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T07:21:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses specific technical implementations related to Team Foundation Server, Dynamic Language Runtime, and various web technologies. While it touches on technical aspects and principles, it is primarily focused on an individual's experience and challenges rather than the broader principles of software craftsmanship.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the mechanics of Team Foundation Server (TFS) check-in policies and proposes a solution using the Dynamic Language Runtime (DLR). While it touches on technical aspects and methodologies, such as the KISS principle and mentions specific technologies (WCF, WPF, ASP.NET MVC), the primary focus is on personal frustrations and proposed ideas rather than a deep exploration of best practices or principles of software craftsmanship. The discussion lacks depth in terms of established methodologies or practices that contribute to high-quality software development.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -487,12 +502,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the mechanics of Team Foundation Server and proposes a solution that could improve operational efficiency through consolidation of policies, aligning with the theme of process optimization.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the mechanics of Team Foundation Server (TFS) check-in policies and suggests a potential improvement through the use of the Dynamic Language Runtime (DLR). While it touches on operational practices related to policy management, the focus is more on personal frustrations and proposed solutions rather than structured techniques or strategies for enhancing operational efficiency. The discussion lacks depth in terms of established methodologies like Agile or DevOps, and does not provide concrete examples of process optimisation or continuous improvement strategies.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -625,7 +643,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T18:13:39",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -633,7 +651,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Team Foundation Server (TFS) and its check-in policies, which are related to version control practices. However, the focus is more on the mechanics and limitations of TFS rather than on broader best practices or methodologies in modern source control. While it mentions version control, it does not delve deeply into strategies or collaborative workflows, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -745,7 +763,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:43:08",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -753,7 +771,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the mechanics of Team Foundation Server (TFS) check-in policies and proposes a solution using the Dynamic Language Runtime (DLR). While it touches on aspects of software development and mentions principles like KISS, it lacks a strong focus on broader engineering excellence themes such as coding standards, quality assurance, or continuous improvement practices. The discussion is more about personal frustrations and proposed solutions rather than a comprehensive exploration of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -814,7 +832,7 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-11T17:02:44",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -822,7 +840,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses potential improvements to Team Foundation Server check-in policies and suggests innovative solutions using the Dynamic Language Runtime. However, it lacks a structured approach to measuring or enhancing innovation capabilities, and does not reference Evidence-Based Management principles or frameworks for innovation. The focus is more on personal experiences and technical challenges rather than a comprehensive exploration of the Ability to Innovate.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -880,12 +898,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses technical aspects of software development and integration with Team Foundation Server, touching upon policies and web services, which are related to delivering functional software. However, it is primarily focused on a specific implementation rather than a general discussion of working software or Agile principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the mechanics of Team Foundation Server (TFS) and proposes a solution involving the Dynamic Language Runtime (DLR) for policy management. While it touches on software development practices, it lacks a direct focus on delivering functional software that meets user needs. The discussion is more about technical challenges and potential solutions rather than the characteristics or best practices of working software as defined in Agile and Scrum frameworks.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1069,7 +1090,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:12:03",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1077,7 +1098,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges and potential solutions related to Team Foundation Server (TFS) check-in policies, which touches on aspects of system configuration. However, it primarily focuses on the development of a web service and editor rather than the configuration of systems themselves. While there are mentions of policies and a desire for a more manageable configuration, the depth of discussion on best practices or methodologies for system configuration is limited. Overall, the content aligns with the category but does not delve deeply into the technical aspects of system configuration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1126,11 +1147,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses tools and processes related to Windows development environments, specifically mentioning Visual Studio and WCF, which are used in Windows programming. However, the primary focus is more on Team Foundation Server and development processes rather than on Windows operating system specifics.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its integration with the Dynamic Language Runtime (DLR), which are related to the Windows environment, particularly in the context of Visual Studio. However, the primary focus is on TFS policies and web services rather than on Windows itself. While there are mentions of Visual Studio 2010 and WCF, the discussion lacks depth in terms of Windows-specific installation, configuration, or troubleshooting, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1225,7 +1249,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T15:06:24",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1233,7 +1257,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the mechanics of Team Foundation Server (TFS) and proposes improvements related to developer policies, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is more focused on technical implementation rather than the broader role of software developers within Agile frameworks. While it touches on tools and practices that could be relevant, it does not delve deeply into the core themes of collaboration, team dynamics, or best practices in Agile development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,12 +1270,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical solutions related to Team Foundation Server check-in policies and the implementation of web services, which are relevant to engineering practices but primarily focuses on a specific integration challenge rather than core Agile engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the mechanics of Team Foundation Server (TFS) check-in policies and proposes a solution using the Dynamic Language Runtime (DLR). While it touches on aspects of software development, such as policy management and web services, it lacks a direct focus on core engineering practices like clean code, TDD, or CI/CD. The discussion is more about tooling and personal experiences rather than established engineering methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1309,12 +1336,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) check-in policies, which have relevance to Azure Repos but does not focus primarily on Azure Repos itself, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) policies, which are related to Azure Repos, but it does not explicitly mention Azure Repos itself. The focus is more on the mechanics of TFS check-in policies rather than the broader functionalities and best practices of Azure Repos. While there is some conceptual alignment regarding version control, the depth of discussion is limited to personal experiences and proposed solutions without delving into Azure Repos' specific features or practices.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1417,7 +1447,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:53:42",
+    "calculated_at": "2025-03-15T07:21:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1425,6 +1455,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its check-in policies, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management concepts, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical implementation rather than Scrum practices, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

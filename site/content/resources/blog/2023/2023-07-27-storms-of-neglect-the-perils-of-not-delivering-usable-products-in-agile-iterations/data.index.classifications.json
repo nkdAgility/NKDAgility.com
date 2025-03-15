@@ -142,12 +142,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to decision-making processes regarding product development and stakeholder management. However, the primary focus is on the consequences of neglecting this practice rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to decision-making by highlighting the consequences of neglecting this principle. However, it primarily focuses on the negative outcomes of not delivering usable products rather than providing structured, evidence-based methodologies for decision-making. The discussion lacks explicit references to decision-making frameworks or empirical evidence, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -169,11 +172,14 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with Lean principles of minimising waste and maximising learning. However, the primary focus is on Agile practices rather than Lean Product Development specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with Lean principles of minimising waste and maximising value. However, it primarily focuses on Agile practices rather than Lean Product Development specifically. While it touches on concepts like trust, technical debt, and adaptability, it lacks a detailed exploration of Lean techniques or frameworks, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
@@ -187,12 +193,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products and the consequences of neglecting this, which indirectly relates to customer feedback loops. However, the primary focus is on the implications of not delivering usable products rather than on the mechanisms of collecting and utilising customer feedback.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to customer feedback loops. It highlights the consequences of neglecting usability, such as erosion of trust and misaligned expectations, which can be linked to the need for customer feedback. However, the primary focus is on the implications of not delivering usable products rather than on the mechanisms of collecting and integrating customer feedback into the development process. The mention of 'feedback drought' suggests an awareness of the need for feedback, but it lacks detailed exploration of feedback collection methods or integration strategies.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -217,11 +226,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which relates to the Definition of Done, but it primarily focuses on the consequences of neglecting this principle rather than defining or detailing the DoD itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to the Definition of Done. However, it does not explicitly define or detail the criteria that constitute a Definition of Done. The focus is more on the consequences of neglecting to deliver usable products rather than on the DoD itself. While there are mentions of trust, technical debt, and adaptability, these are not directly tied to the core principles of the Definition of Done, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -292,20 +304,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to team dynamics and stakeholder trust. However, the primary focus is on the consequences of neglecting product delivery rather than on collaboration techniques or team dynamics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to team collaboration by highlighting the erosion of trust and misaligned expectations among stakeholders. However, it primarily focuses on the consequences of neglecting product delivery rather than exploring techniques or strategies for enhancing team dynamics or collaboration. While it touches on aspects of team morale and stakeholder engagement, it lacks a direct focus on collaborative practices or shared ownership, which are central to the category of Team Collaboration.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to customer satisfaction through trust, alignment, and feedback. However, the primary focus is on the consequences of neglecting product usability rather than directly addressing customer satisfaction principles or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to customer satisfaction by highlighting the erosion of trust and misaligned expectations with stakeholders. However, it primarily focuses on the consequences of neglecting product usability rather than directly addressing customer satisfaction principles or practices. The discussion lacks depth in exploring customer feedback mechanisms or strategies for enhancing customer engagement, which are key topics in the customer satisfaction category.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
@@ -418,12 +436,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 37,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which relates to the Product Owner's role in ensuring stakeholder alignment and managing expectations. However, it primarily focuses on the consequences of neglecting this aspect rather than detailing the specific responsibilities or techniques of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with the Product Owner's responsibility to maximise product value and ensure stakeholder alignment. It mentions stakeholder trust and misaligned expectations, which are crucial aspects of the Product Owner's role. However, it lacks direct references to specific Product Owner techniques or practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -532,12 +553,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-11T18:52:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:03:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable, working products at the end of each iteration in Agile, highlighting the consequences of neglecting this principle and its impact on trust, technical debt, adaptability, and team morale.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses the importance of delivering usable, working products at the end of each iteration, which is central to the concept of Increment in Agile. It highlights the consequences of neglecting this principle, such as erosion of trust, technical debt, and misaligned expectations, all of which align closely with the core themes of the Increment category. The depth of discussion is substantial, providing detailed insights into the implications of failing to deliver increments and the importance of feedback, which further supports its relevance to the category.",
+    "level": "Primary"
   },
   "Windows": {
     "category": "Windows",
@@ -577,11 +601,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T18:52:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:25:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable products in Agile iterations, highlighting practical problem-solving strategies and real-world implications of neglecting this principle. It addresses adaptability, trust, technical debt, and stakeholder alignment, all of which are central to pragmatic thinking in Agile contexts.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the importance of delivering usable products in Agile iterations, which is a practical problem-solving strategy within the Agile framework. It highlights real-world consequences of neglecting this principle, such as erosion of trust, technical debt, and misaligned expectations, demonstrating a strong alignment with the core themes of pragmatic thinking. The depth of discussion is significant, providing detailed examples and metaphors that illustrate the challenges faced when teams fail to deliver usable products. Overall, the content effectively embodies the principles of pragmatic thinking in a practical context.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -595,11 +622,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T18:52:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:50:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of delivering usable products in agile iterations, highlighting key agile principles such as inspection, adaptation, and stakeholder trust.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of delivering usable products in agile iterations, which aligns closely with agile principles of iterative development and continuous feedback. It addresses key themes such as stakeholder trust, technical debt, adaptability, and team morale, all of which are central to agile project management. The depth of discussion is substantial, providing detailed insights into the consequences of neglecting usable products, thus reinforcing the agile philosophy. Overall, the content is a strong fit for the category.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -613,11 +643,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T18:52:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:50:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable products in Agile iterations, which aligns with Agile principles of continuous value delivery, stakeholder trust, and adaptability. It emphasises the strategic implications of neglecting this practice, making it a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with Agile principles of continuous value delivery and adaptability. However, while it touches on key themes such as trust, technical debt, and stakeholder alignment, it lacks a comprehensive exploration of Agile strategy as a whole. The focus is more on the consequences of neglecting usability rather than on strategic implementation or leadership roles in fostering an Agile culture.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -649,12 +682,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on themes of trust, adaptability, and alignment, which are relevant to sensemaking. However, the primary focus is on the consequences of neglecting product delivery rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on themes of trust, adaptability, and stakeholder alignment. However, it primarily focuses on the consequences of neglecting this practice rather than exploring sensemaking principles or frameworks. While it mentions the need for feedback and direction, it lacks a deeper exploration of sensemaking as a primary focus, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -667,12 +703,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:50:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which relates to team performance and dynamics. However, it primarily focuses on the consequences of neglecting this practice rather than providing strategies or methodologies for enhancing team collaboration and effectiveness.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which directly relates to team performance and collaboration. It highlights the erosion of trust, technical debt, and misaligned expectations, all of which are critical to team dynamics and effectiveness. The depth of discussion on how these factors impact team morale and adaptability further supports its relevance to the category. However, while it touches on Agile principles, it does not delve deeply into specific methodologies or practices for enhancing team performance, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -721,20 +760,26 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-11T18:52:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:50:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable products in Agile iterations, which aligns closely with Agile principles and practices. It addresses key themes such as trust, technical debt, adaptability, and feedback, all of which are central to Agile transformation.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of delivering usable products in Agile iterations, which aligns closely with Agile principles of inspection and adaptation. It addresses the consequences of neglecting this tenet, such as erosion of trust, technical debt, and misaligned expectations, which are critical themes in Agile transformation. The depth of discussion is substantial, providing detailed insights into the implications of not adhering to Agile practices. Overall, the content is highly relevant to the category of Agile Transformation.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-11T18:52:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:50:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the consequences of neglecting to deliver usable products, which leads to the accumulation of technical debt. While technical debt is a significant theme, the primary focus is on the broader implications of delivering usable products in Agile iterations.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the concept of technical debt, particularly in the context of neglecting to deliver usable products in Agile iterations. It highlights how failing to deliver working products leads to an accumulation of technical debt, which is described as a 'mammoth wave looming on the horizon.' This direct mention contributes significantly to the confidence score. The content aligns well with the core themes of technical debt, discussing its impact on team velocity and the long-term consequences of neglecting it. However, while the discussion is detailed, it primarily focuses on the implications of not delivering usable products rather than providing in-depth strategies for managing or measuring technical debt itself. Therefore, the depth of discussion is substantial but not exhaustive, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -766,11 +811,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T18:53:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:50:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of delivering usable products in Agile iterations, which aligns closely with Scrum principles of iterative development and stakeholder engagement.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with Scrum principles. It highlights the consequences of neglecting this aspect, such as erosion of trust and increased technical debt, which are relevant to Scrum practices. However, while it touches on key themes like stakeholder alignment and feedback, it lacks explicit references to Scrum roles, events, or detailed methodologies, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -829,21 +877,24 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in agile iterations, which relates to team dynamics and stakeholder trust, but it primarily focuses on the consequences of neglecting this principle rather than providing direct insights into technical leadership practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of delivering usable products in agile iterations, which indirectly touches on aspects of technical leadership, such as fostering team morale and aligning expectations with stakeholders. However, it lacks direct mentions of technical leadership principles, strategies for mentoring, or specific agile practices. The focus is more on the consequences of neglecting product delivery rather than on guiding teams or implementing agile methodologies, which limits its alignment with the core themes of technical leadership.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T09:08:35",
+    "calculated_at": "2025-03-14T22:50:18",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which touches on aspects of user feedback and stakeholder alignment. However, the primary focus is on the consequences of not delivering usable products rather than exploring methodologies for identifying customer needs or defining product features.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -856,29 +907,38 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T18:53:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:50:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable products in Agile iterations, which aligns closely with Agile Planning principles such as inspection, adaptation, and stakeholder alignment.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the critical importance of delivering usable products in Agile iterations, which directly ties into Agile Planning principles. It highlights the consequences of neglecting this aspect, such as erosion of trust, technical debt, and misaligned expectations, all of which are relevant to Agile methodologies. The depth of discussion is substantial, providing detailed insights into how these factors impact team dynamics and project delivery. Overall, the content aligns well with the core themes of Agile Planning, focusing on the necessity of delivering value and adapting to stakeholder needs.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which relates to accountability in terms of team commitments and ownership. However, the primary focus is on the consequences of neglecting this responsibility rather than a direct exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to accountability through the lens of team commitments and trust. However, it primarily focuses on the consequences of neglecting product delivery rather than explicitly addressing accountability as a principle. The mention of trust erosion and misaligned expectations hints at accountability but does not delve deeply into ownership or strategies for fostering a culture of accountability. Overall, while there are relevant themes, the primary focus is not on accountability itself.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:50:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with the principles of MVP. However, it primarily focuses on the consequences of neglecting usability rather than explicitly addressing MVP development or validation.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to the concept of MVP. However, it primarily focuses on the consequences of not delivering usable products rather than on the MVP concept itself. While it touches on themes of trust, adaptability, and feedback, it lacks a direct discussion on MVP strategies, core features, or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
@@ -919,21 +979,27 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on technical debt and the implications of neglecting software craftsmanship principles. However, the primary focus is on Agile practices and stakeholder management rather than deep technical mastery.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on concepts like technical debt and adaptability. However, it primarily focuses on the consequences of neglecting usability rather than providing in-depth technical practices or methodologies that contribute to software craftsmanship. While it aligns with some core themes of Technical Mastery, such as the role of technical debt, it lacks a detailed exploration of best practices or engineering principles.",
     "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:50:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products at the end of iterations, which relates to release management principles. However, it primarily focuses on Agile practices and the consequences of neglecting product delivery rather than on specific release management strategies or processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to release management. However, it primarily focuses on Agile principles and the consequences of not delivering usable products rather than the specific strategies and practices of release management. While it touches on aspects like stakeholder trust and feedback, it lacks a direct discussion on release planning, version control, or CI/CD practices, which are core to the category.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -955,11 +1021,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T18:53:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:50:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable products in Agile iterations, emphasising key Agile principles such as trust, adaptability, and continuous improvement, which align closely with the Agile Philosophy.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns closely with Agile principles such as customer collaboration, continuous improvement, and adaptability. It explicitly mentions the consequences of neglecting this tenet, such as erosion of trust and increased technical debt, which reflects a deep understanding of Agile philosophy. The discussion is rich in detail, addressing how these factors impact team morale and stakeholder expectations, thus providing a comprehensive view of the Agile mindset. Overall, the content is primarily focused on the Agile philosophy rather than specific frameworks, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1036,12 +1105,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in agile iterations, which relates to adaptability and stakeholder alignment, but primarily focuses on team-level practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of delivering usable products within agile iterations, which is more aligned with team-level practices rather than enterprise-level agility. While it touches on concepts like adaptability and stakeholder trust, it lacks a broader organisational context and does not discuss frameworks, structures, or leadership roles that support enterprise agility. The depth of discussion is significant regarding the consequences of neglecting usable products, but it does not extend to the organisational implications of agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1123,12 +1195,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on themes of feedback and adaptation, which are relevant to discovery and learning. However, the primary focus is on the consequences of neglecting this practice rather than exploring methodologies or processes that foster innovation and continuous learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly touches on the themes of learning and adaptation. However, it primarily focuses on the consequences of neglecting this practice rather than exploring methodologies or processes that foster innovation and continuous learning. While there are mentions of feedback and adaptability, the overall emphasis is more on project management and the pitfalls of not adhering to Agile principles, rather than a deep exploration of discovery and learning.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1150,12 +1225,15 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, highlighting the erosion of trust and misaligned expectations, which are related to transparency and accountability. However, the primary focus is on the consequences of neglecting product delivery rather than a direct exploration of transparency and accountability principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the erosion of trust and misaligned expectations, which are key aspects of transparency and accountability. It highlights the importance of delivering usable products to maintain stakeholder trust and alignment, directly linking these concepts to team performance. However, while it touches on accountability, it does not delve deeply into techniques for enhancing it or provide extensive examples, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -1213,11 +1291,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which relates to Agile methodologies and practices. However, it does not focus on specific products or literature, making it a secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with the core themes of Agile methodologies. However, it does not explicitly mention any specific products or books, nor does it provide detailed reviews or analyses of literature or tools. The focus is primarily on the consequences of neglecting usability in product delivery rather than on specific resources that could enhance understanding or implementation of Agile principles.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -1297,12 +1378,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:50:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on themes of trust, stakeholder alignment, and team morale, which are relevant to sociotechnical systems. However, the primary focus is on the consequences of neglecting product usability rather than a deep exploration of the interplay between social and technical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on aspects like trust, technical debt, and team morale. However, it primarily focuses on the technical aspects of product delivery without a significant exploration of the organisational structures or social dynamics that influence these outcomes. While there are mentions of stakeholder alignment and team morale, the discussion lacks depth in examining the interplay between social and technical systems, which is central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1315,21 +1399,27 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on feedback mechanisms and the implications of neglecting this practice. However, it primarily focuses on the consequences of not delivering usable products rather than on metrics or learning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to metrics and learning through the emphasis on feedback and continuous improvement. However, it primarily focuses on the consequences of neglecting usability rather than exploring metrics or data-driven decision-making in detail. While there are mentions of trust, adaptability, and feedback, the discussion lacks a strong emphasis on specific metrics or methodologies for measuring performance, which limits its alignment with the core themes of the category.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which relates to the application lifecycle, particularly in the development and deployment stages. However, it primarily focuses on Agile practices and team dynamics rather than the broader scope of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of delivering usable products in Agile iterations, which is more focused on Agile practices rather than the broader scope of Application Lifecycle Management (ALM). While it touches on aspects like stakeholder trust and technical debt, it does not explicitly address the stages of the application lifecycle or the governance and tools associated with ALM. The discussion lacks depth in terms of ALM methodologies and practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1342,12 +1432,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:50:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of delivering usable products on team morale and stakeholder trust, which are relevant to organisational psychology. However, the primary focus is on Agile methodologies and technical practices, making the psychological aspects a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, focusing on issues like trust erosion, technical debt, and team morale. While it touches on aspects of team dynamics and morale, which are relevant to organisational psychology, the primary focus is on Agile methodologies and technical practices rather than psychological principles. The mentions of morale and trust are present but do not delve deeply into psychological theories or frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1378,11 +1471,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:49:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:50:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable products in Agile iterations, which aligns closely with the principles of the Agile Product Operating Model, particularly in terms of value delivery, stakeholder trust, and continuous feedback.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns with the principles of the Agile Product Operating Model. It highlights the consequences of neglecting this aspect, such as erosion of trust, technical debt, and misaligned expectations, which are all relevant to value delivery in product teams. However, while it touches on Agile principles, it does not delve deeply into the broader aspects of the Agile Product Operating Model, such as cross-functional teams or specific metrics for success, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Beta Codex": {

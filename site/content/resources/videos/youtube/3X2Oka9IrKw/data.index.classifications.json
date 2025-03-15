@@ -1,7 +1,7 @@
 {
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-08T12:47:56",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -9,11 +9,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses themes related to agility and scaling in organisations, which are relevant to Scrum principles. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a low direct mention score. The conceptual alignment is moderate as it touches on adaptability and innovation, which are important in Scrum, but lacks depth in discussing specific Scrum practices or frameworks. Overall, while the content is related to agile methodologies, it does not focus specifically on Scrum, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-08T12:48:07",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -21,7 +21,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not explicitly mention Kanban or its principles. While it touches on themes of innovation and responsiveness, it lacks a direct focus on Kanban practices such as visualisation of work, WIP limits, or flow management. The discussion is more aligned with general Agile concepts rather than the specific methodologies and practices of Kanban.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -37,7 +37,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-08T12:48:02",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -45,11 +45,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation, which indirectly relates to engineering excellence. However, it primarily focuses on organisational agility rather than specific engineering practices, coding standards, or quality assurance, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-08T12:48:05",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -57,7 +57,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility and innovation, which are relevant to DevOps principles. However, it lacks direct mentions of DevOps practices, tools, or metrics, and does not delve into specific DevOps concepts such as CI/CD or automation. The focus is more on organisational structure and agility rather than the integration of development and operations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -97,7 +97,7 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-08T12:48:14",
+    "calculated_at": "2025-03-14T16:22:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -105,11 +105,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and agility but does not explicitly mention remote working or Agile practices in a remote context. While it touches on themes of adaptability and innovation, it lacks direct references to remote collaboration tools, team engagement strategies, or specific Agile ceremonies relevant to remote teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-08T12:48:17",
+    "calculated_at": "2025-03-14T16:22:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -117,11 +117,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation and speed, which indirectly relates to deployment frequency. However, it does not explicitly mention deployment frequency or provide strategies for optimisation, making it a secondary focus rather than a primary discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-08T12:48:19",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -129,11 +129,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of decision-making in scaling organisations, highlighting how rigid structures can hinder innovation and responsiveness. However, it lacks explicit evidence-based methodologies or frameworks for decision-making, focusing more on the philosophy of agility rather than structured decision-making practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-08T12:48:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -141,11 +141,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses general concepts of agility and scaling in teams but does not mention Azure DevOps or its specific functionalities. It focuses on organisational structure and innovation rather than the tools and practices associated with Azure DevOps.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-08T12:48:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -153,11 +153,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and agility in teams but does not explicitly mention release management or its core themes. While it touches on the importance of adaptability and avoiding bureaucracy, it lacks a direct focus on release processes, version control, or CI/CD practices, which are essential for the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-03-08T12:48:26",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -165,11 +165,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling in teams but does not explicitly mention Scrum principles, roles, or practices. While it touches on themes of innovation and adaptability, it lacks a direct focus on Scrum methodologies or product development processes, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-03-08T12:48:28",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -177,7 +177,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not explicitly mention hypothesis formulation, experimentation, or validated learning. It focuses more on the challenges of scaling and maintaining innovation rather than on empirical testing or data-driven decision-making.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -193,7 +193,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-08T12:48:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -201,7 +201,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in Agile environments and reflects on the impact of rigid structures on innovation. However, it lacks personal anecdotes or subjective insights, making it more of a general commentary on Agile practices rather than a personal reflection.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -217,7 +217,7 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-08T12:48:40",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of scaling organisations and the impact of rigid structures on innovation, which aligns with Systems Thinking principles regarding interconnectedness and holistic analysis. However, it lacks direct mentions of Systems Thinking concepts, such as feedback loops or specific techniques for mapping systems. The discussion is somewhat superficial and does not delve deeply into the methodologies or frameworks associated with Systems Thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -241,7 +241,7 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-08T12:48:45",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -249,11 +249,11 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the challenges of scaling Agile practices and the importance of maintaining adaptability and innovation. However, it does not explicitly mention AI or automation, which are critical components of the category. The focus is more on organisational structure and agility rather than the integration of AI and automation technologies within Agile frameworks. Therefore, while there is some conceptual alignment with the themes of agility, the lack of direct mentions and depth regarding AI and automation significantly lowers the confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-08T12:48:47",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -261,11 +261,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling organisations and the importance of maintaining agility, but it lacks explicit references to Evidence-Based Management principles or empirical data. While it touches on themes of adaptability and innovation, it does not provide detailed insights into data-driven decision-making or metrics, which are central to EBM.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-08T12:48:51",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -273,11 +273,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, but it lacks specific references to practical tools or methodologies that enhance Agile and DevOps practices. While it touches on the concept of adaptability and innovation, it does not provide concrete examples of techniques or frameworks, nor does it delve into the application of specific tools. Therefore, while there is some alignment with the category's themes, the lack of direct mentions and detailed discussion on practical techniques results in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-08T12:48:54",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -285,11 +285,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not explicitly mention the Product Backlog or its management. It focuses on broader themes of innovation and organisational structure rather than the specific practices and responsibilities associated with the Product Backlog in Agile frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-08T12:48:57",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -297,11 +297,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling in organisations and promotes a different approach to agility, but it does not explicitly mention any events, presentations, or discussions related to Agile or DevOps. While it touches on themes relevant to Agile methodologies, it lacks direct references to specific events or structured learning experiences, which are crucial for this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-03-08T12:48:59",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -309,11 +309,11 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not explicitly mention Value Stream Mapping or its principles. While it touches on themes of value delivery and efficiency, it lacks a direct focus on VSM, its techniques, or its integration with Lean practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-08T12:49:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -321,11 +321,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in Agile environments and the importance of maintaining adaptability and innovation. However, it lacks explicit mentions of trend analysis or specific trends within Agile, DevOps, or business agility. The discussion is more focused on organisational behaviour and philosophy rather than analysing trends or providing insights into their implications.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-08T12:49:04",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -333,11 +333,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling Agile teams and the pitfalls of rigid structures, which indirectly touches on the need for transparency and adaptability. However, it lacks explicit mentions of transparency and accountability principles, focusing instead on innovation and value delivery. The discussion is more about agility in processes rather than the core themes of transparency and accountability, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-08T12:49:06",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -345,11 +345,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling Agile practices and the importance of maintaining innovation and adaptability. However, it lacks direct mentions of specific news, updates, or reviews related to Agile methodologies or tools. The focus is more on a philosophical perspective rather than providing concrete insights or evaluations that would typically characterise the 'News and Reviews' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-08T12:49:09",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -357,11 +357,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, which aligns with the principles of technical leadership. However, it lacks direct mentions of specific technical leadership practices, such as mentoring or agile ceremonies, and does not delve deeply into the role of leaders in fostering team dynamics or continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-03-08T12:49:14",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -369,7 +369,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling within organisations, focusing on innovation and responsiveness. However, it does not explicitly mention portfolio management or its key topics such as strategic alignment, prioritisation frameworks, or metrics for measuring portfolio performance. The discussion is more about organisational agility and adaptability rather than the management of a portfolio of projects, which limits its relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -385,7 +385,7 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-08T12:49:19",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -393,11 +393,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of scaling in organisations and the importance of adaptability, which aligns with the principles of empirical process control. However, it lacks direct mentions of empirical process control concepts and does not delve deeply into specific Agile practices or frameworks, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-03-08T12:49:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -405,11 +405,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content discusses the challenges of scaling Agile teams and the importance of maintaining agility, but it does not mention the Definition of Ready or its criteria. The focus is on organisational structure and innovation rather than on backlog item readiness, which is central to the Definition of Ready.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-08T12:49:23",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -417,7 +417,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not mention AI or its applications in Agile or DevOps. The focus is on organisational structure and innovation rather than the integration of AI in these methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -433,7 +433,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-08T12:49:28",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -441,7 +441,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation and speed. However, it lacks direct mentions of specific technical practices or methodologies that enhance agility, such as TDD or CI/CD. The focus is more on organisational philosophy rather than concrete engineering practices, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -457,7 +457,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-08T12:49:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -465,11 +465,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and agility in teams but does not explicitly mention Application Lifecycle Management or its stages. While it touches on themes of innovation and adaptability, it lacks depth in discussing methodologies, tools, or practices specific to managing the application lifecycle.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-08T12:49:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -477,11 +477,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation and value delivery. While it touches on the importance of adaptability and responsiveness, it does not explicitly mention working software or provide detailed insights into software quality, functionality, or customer feedback mechanisms. The focus is more on organisational processes rather than the delivery of functional software.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-08T12:49:38",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -489,11 +489,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation, which indirectly relates to psychological safety. However, it does not explicitly mention psychological safety or provide detailed strategies for fostering it. The focus is more on agility and adaptability rather than the core themes of psychological safety, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-08T12:49:41",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -501,11 +501,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation and speed, which indirectly relates to Cycle Time. However, it does not explicitly mention Cycle Time or provide detailed insights into measuring or improving it. The focus is more on organisational agility rather than the specific metric of Cycle Time.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-08T12:49:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -513,7 +513,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of agility and adaptability in scaling organisations, which indirectly relates to customer retention by emphasising the need to deliver value and remain responsive. However, it lacks direct mentions of customer retention strategies, specific metrics, or feedback mechanisms, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -529,7 +529,7 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-03-08T12:49:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -537,7 +537,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, but it does not explicitly mention working agreements or delve into their creation, implementation, or impact on team dynamics. The focus is more on organisational structure and innovation rather than the specific norms and principles that enhance collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -553,7 +553,7 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-08T12:49:54",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -561,11 +561,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation and speed, which indirectly relates to Lead Time. However, it does not explicitly mention Lead Time or provide detailed insights into measuring or optimising it. The focus is more on organisational agility rather than the specific metric of Lead Time.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-03-08T12:49:57",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -573,7 +573,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not mention the Daily Scrum or its specific practices. It focuses on broader Agile principles without addressing the structure, roles, or practices of the Daily Scrum, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -589,7 +589,7 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-03-08T12:50:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -597,11 +597,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses general Agile principles and scaling challenges but does not mention the Sprint Review or its specific processes, roles, or best practices. It lacks direct relevance to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-08T12:50:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -609,7 +609,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of scaling teams and maintaining agility, without any explicit mention of Test Driven Development or its principles. While it touches on themes of innovation and adaptability, it does not align with the core concepts of TDD, such as the Red-Green-Refactor cycle or the importance of writing tests before code. The discussion lacks depth regarding TDD practices, making it unsuitable for this category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -625,7 +625,7 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-03-08T12:50:11",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -633,7 +633,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility and innovation, but it does not explicitly mention asynchronous development or its principles. While it touches on themes of adaptability and responsiveness, it lacks a direct focus on asynchronous collaboration, tools, or practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -649,7 +649,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-08T12:50:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -657,7 +657,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, but it does not explicitly mention any collaboration tools or their features. While it touches on themes of innovation and adaptability, it lacks a direct focus on tools that enhance communication and coordination within Agile teams, which is essential for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -685,7 +685,7 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-08T12:50:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -693,11 +693,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, but it does not explicitly mention metrics, data utilisation, or feedback mechanisms. While it touches on themes of innovation and adaptability, it lacks a direct focus on evidence-based decision-making or continuous improvement methodologies, which are central to the 'Metrics and Learning' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-08T12:50:31",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -705,11 +705,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses scaling and organisational structure but does not explicitly mention mentoring or related concepts. It focuses on innovation and agility rather than the development of skills or coaching, which are central to the mentoring category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-03-08T12:50:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -717,11 +717,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses scaling and organisational agility but does not explicitly mention forecasting or its methodologies. It focuses on the challenges of scaling and maintaining innovation rather than on empirical data or specific forecasting techniques within Agile and Scrum frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-08T12:50:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -729,11 +729,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational scaling and agility rather than Continuous Integration principles or practices. While it touches on themes of innovation and adaptability, it does not explicitly mention CI, its tools, or its practices, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-08T12:50:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -741,11 +741,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in Agile environments and the importance of maintaining agility, but it does not explicitly mention Agile Planning Tools or delve into specific methodologies, techniques, or tools that facilitate Agile planning. The focus is more on organisational adaptability rather than the tools and processes that support Agile planning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-03-08T12:50:41",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -753,11 +753,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility and innovation, which are relevant to cross-functional teams. However, it does not explicitly mention cross-functional teams or delve into their specific characteristics, benefits, or best practices. The focus is more on organisational structure and adaptability rather than the collaborative nature of cross-functional teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-08T12:50:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -765,11 +765,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses the challenges of scaling in Agile environments but does not explicitly mention backlog refinement or its related practices. It focuses more on organisational structure and innovation rather than the specific techniques and roles involved in backlog refinement.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-03-08T12:50:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -777,11 +777,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of scaling teams and the impact of bureaucracy on innovation, without any explicit mention or discussion of the Definition of Done or its related concepts. It does not align with the core themes of the Definition of Done, such as criteria for completion or quality assurance in Agile practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-08T12:50:49",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -789,7 +789,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling in teams but does not specifically mention the role of a Scrum Master or delve into Scrum practices. While it touches on themes of innovation and adaptability, it lacks direct references to Scrum ceremonies, coaching, or the responsibilities of a Scrum Master, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -805,7 +805,7 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-08T12:50:55",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -813,11 +813,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling organisations and the importance of maintaining agility, but it does not explicitly mention evidence-based practices or empirical data to support leadership decisions. While it touches on themes of innovation and adaptability, it lacks a direct connection to the principles of Evidence-Based Leadership, such as the use of metrics or case studies. The discussion is more focused on general organisational behaviour rather than on data-driven leadership strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-08T12:50:57",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -825,7 +825,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling within organisations, which touches on aspects of product strategy, particularly in terms of maintaining innovation and responsiveness. However, it lacks direct mentions of product vision, roadmapping, or customer-centric approaches, which are core to the category. The discussion is more focused on organisational dynamics and agility rather than specific product strategy methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -841,7 +841,7 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-08T12:51:03",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -849,11 +849,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational scaling and agility, with no direct mention of automated testing or its principles. While it touches on themes of innovation and adaptability, it does not align with the core topics of automated testing, such as testing methodologies, tools, or practices. The discussion lacks depth in any aspect related to automated testing.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-08T12:51:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -861,11 +861,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and maintaining innovation, which indirectly relates to product discovery by emphasising the need for adaptability and responsiveness. However, it lacks direct mentions of user research, customer feedback, or specific methodologies for identifying customer needs, which are central to the Product Discovery category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-08T12:51:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -873,11 +873,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agility and scaling in organisations, focusing on innovation and adaptability rather than the principles and practices of Site Reliability Engineering. There are no direct mentions of SRE concepts such as monitoring, incident response, or service level objectives, and the discussion lacks depth in relation to reliability engineering.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-08T12:51:10",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -885,11 +885,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in organisations and the importance of maintaining agility and innovation. However, it primarily focuses on Agile principles rather than Lean methodologies. While there are hints at value delivery and avoiding bureaucracy, the explicit mention of Lean concepts, tools, or principles is minimal. The discussion lacks depth in Lean-specific strategies or methodologies, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-08T12:51:13",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -897,7 +897,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling in Agile environments and promotes a specific approach by Naked Agility, which suggests a focus on adaptability. However, it lacks direct references to specific products or books, and while it touches on Agile principles, it does not provide detailed analysis or reviews of literature or tools relevant to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -913,7 +913,7 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-08T12:51:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -921,11 +921,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, but it does not explicitly mention any of the Scrum Values. While it touches on themes of innovation and adaptability, which can relate to the values of Courage and Focus, it lacks a direct connection to the core principles of Commitment, Openness, and Respect. The discussion is more about organisational structure and processes rather than the values that underpin Scrum, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-08T12:51:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -933,7 +933,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and the challenges associated with it, which is relevant to Scrum principles. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the specific practices or theoretical foundations of Scrum. The focus is more on general agility and organisational adaptability rather than a detailed exploration of Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -949,7 +949,7 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-08T12:51:27",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -957,7 +957,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses scaling and agility but does not explicitly mention estimation techniques or practices. It focuses on organisational structure and innovation rather than the core themes of estimation in Agile or Scrum.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -973,7 +973,7 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-08T12:51:33",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -981,11 +981,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses general themes of agility and scaling in organisations but does not mention Azure Boards or its specific functionalities. It lacks direct references to work item types, customisation, or integration with Azure DevOps services, which are crucial for alignment with the Azure Boards category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-08T12:51:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -993,11 +993,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses organisational scaling and the impact of rigid structures on innovation, which touches on themes of organisational behaviour. However, it primarily focuses on Agile methodologies and processes rather than psychological principles or theories. The mention of adaptability and responsiveness hints at psychological aspects but lacks depth in exploring motivation, engagement, or team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-08T12:51:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1005,7 +1005,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and organisational structure but does not explicitly mention key engineering practices such as clean code, TDD, or CI/CD. While it touches on themes of agility and adaptability, it lacks depth in discussing specific engineering methodologies or practices, making it only tangentially related to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1021,7 +1021,7 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-03-08T12:51:45",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1029,11 +1029,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agility and scaling in organisations without any direct mention of Acceptance Test Driven Development or its principles. While it touches on themes of innovation and adaptability, it does not align with the core topics of ATDD, such as acceptance criteria or collaboration between stakeholders, developers, and testers.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-08T12:51:47",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1041,11 +1041,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and innovation in the context of scaling organisations, but it does not explicitly mention Lean Startup principles or concepts such as MVP, Build-Measure-Learn, or validated learning. While it touches on the importance of adaptability and avoiding bureaucracy, these ideas are more aligned with general agile practices rather than the specific iterative learning process central to Lean Startup methodology.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-03-08T12:51:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1053,7 +1053,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not explicitly mention MVP or its core principles. While it touches on themes of innovation and value delivery, it lacks a direct focus on Minimum Viable Products, their development, or market validation strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1069,7 +1069,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-08T12:51:55",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1077,11 +1077,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and maintaining agility, but it does not explicitly mention frequent releases or the principles of Continuous Delivery. While it touches on themes of innovation and responsiveness, it lacks a direct focus on software delivery practices or metrics related to release frequency.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-08T12:51:59",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1089,7 +1089,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling in teams but does not explicitly mention Continuous Delivery or its core principles. While it touches on themes of innovation and adaptability, it lacks a direct focus on the practices and methodologies of Continuous Delivery, such as automation, deployment strategies, or maintaining a production-ready state. The discussion is more aligned with general agile principles rather than the specificities of Continuous Delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1129,7 +1129,7 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-08T12:52:14",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1137,11 +1137,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation and speed, which can indirectly relate to technical debt. However, it does not explicitly mention technical debt or provide strategies for managing it. The focus is more on organisational agility rather than the implications of technical debt on code quality or development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-08T12:52:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1149,7 +1149,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of scaling teams and the impact of rigid structures on innovation, which does not directly address troubleshooting or the resolution of technical issues. While it touches on organisational dynamics, it lacks specific techniques or methodologies for diagnosing or resolving problems, making it largely irrelevant to the troubleshooting category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1165,7 +1165,7 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-08T12:52:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1173,7 +1173,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility and innovation, which aligns with the broader themes of coaching in fostering adaptability and unlocking potential. However, it lacks direct mentions of coaching practices or techniques, and the depth of discussion on coaching is minimal, focusing more on organisational structure than on individual or team development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -1189,7 +1189,7 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-03-08T12:52:30",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1197,11 +1197,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agility and organisational structure rather than market share strategies or methodologies. While it touches on innovation and value delivery, it does not explicitly mention market share or related concepts such as competitive advantage, customer engagement, or market positioning.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-08T12:52:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1209,7 +1209,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, but it does not explicitly mention Scrum roles, practices, or team dynamics. While it touches on themes of innovation and adaptability, it lacks a direct focus on Scrum Team specifics, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1225,7 +1225,7 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-08T12:52:37",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1233,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in organisations and the importance of maintaining agility to deliver value. However, it does not explicitly mention customer satisfaction or related metrics. While it touches on themes of value delivery, which can indirectly relate to customer satisfaction, the primary focus is on organisational processes and innovation rather than on customer experience or satisfaction metrics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1249,7 +1249,7 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-08T12:52:42",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1257,11 +1257,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses scaling and organisational agility but does not mention Test First Development or its principles. It focuses on innovation and adaptability rather than the specifics of TDD or related practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-08T12:52:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1269,11 +1269,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses general concepts of agility and scaling in organisations but does not mention Azure Pipelines or any related topics such as CI/CD, build and release management, or YAML configurations. The focus is on organisational structure and innovation rather than specific practices or tools associated with Azure Pipelines.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-03-08T12:52:48",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1281,7 +1281,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not mention Behaviour Driven Development or its principles. It focuses on general agility and innovation rather than the specific practices and collaboration aspects of BDD.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1333,7 +1333,7 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-08T12:53:03",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1341,7 +1341,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses scaling and agility in teams, focusing on innovation and organisational structure rather than the specific principles and practices of platform engineering. While it touches on themes of efficiency and adaptability, it does not explicitly mention internal developer platforms or the core aspects of platform engineering, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1369,7 +1369,7 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-08T12:53:11",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1377,11 +1377,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not specifically address the role of the Product Owner or their responsibilities. While it touches on themes of value delivery and innovation, it lacks direct mentions of backlog management, stakeholder engagement, or prioritisation strategies that are central to the Product Owner's role.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-08T12:53:13",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1389,11 +1389,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational scaling and agility rather than specific practices or methodologies related to modern source control. While it touches on themes of innovation and adaptability, it does not explicitly mention version control systems, branching strategies, or any related practices, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-08T12:53:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1401,11 +1401,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation and speed, which indirectly relates to throughput. However, it lacks explicit mentions of throughput metrics or detailed strategies for measuring or optimising work completion rates. The focus is more on organisational adaptability rather than a direct exploration of throughput as defined in Agile and DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-08T12:53:20",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1413,7 +1413,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in organisations and the importance of maintaining agility and responsiveness, which aligns with Lean principles of minimising waste and enhancing value delivery. However, it does not explicitly mention Lean Thinking concepts or tools, nor does it delve deeply into Lean methodologies, resulting in a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1429,7 +1429,7 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-08T12:53:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1437,7 +1437,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational scaling and agility without any explicit mention of test automation or related practices. While it touches on themes of innovation and responsiveness, it does not align with the core topics of test automation, such as frameworks, CI/CD, or best practices in testing.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1453,7 +1453,7 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-08T12:53:31",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1461,7 +1461,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling Agile teams and the importance of maintaining innovation and adaptability. However, it does not explicitly mention experimentation, hypothesis testing, or any specific techniques related to validating assumptions within Agile workflows. The focus is more on organisational structure and agility rather than on systematic testing or learning from experiments, which are central to the category of Experimentation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1489,7 +1489,7 @@
   },
   "AI": {
     "category": "AI",
-    "calculated_at": "2025-03-08T12:53:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1497,11 +1497,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not mention AI or its applications in Agile or DevOps. The focus is on organisational structure and innovation rather than the integration of AI in these methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-08T12:53:42",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1509,7 +1509,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility and scaling in organisations but does not explicitly mention product validation or related methodologies. While it touches on themes of innovation and value delivery, it lacks a direct focus on user testing, market fit, or customer feedback loops, which are essential for the Product Validation category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1525,7 +1525,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-08T12:53:47",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1533,7 +1533,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and agility in teams, focusing on organisational structure and processes rather than technical practices or software craftsmanship. While it touches on the importance of adaptability and innovation, it does not delve into specific methodologies, principles, or practices that contribute to high-quality software development. Therefore, it lacks direct mentions and depth in the context of Technical Mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -1573,7 +1573,7 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-03-08T12:53:56",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1581,11 +1581,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses organisational scaling and agility but does not mention revenue per employee or related financial metrics. It focuses on innovation and adaptability rather than productivity analysis or financial efficiency.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-08T12:53:58",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1593,11 +1593,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in Agile environments and the pitfalls of rigid structures, which indirectly relates to transparency by highlighting the need for adaptability and responsiveness. However, it does not explicitly mention transparency or its importance in Agile processes, nor does it provide detailed techniques or examples related to transparency. The focus is more on agility and innovation rather than on fostering openness and visibility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-08T12:54:01",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1605,7 +1605,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational scaling and agility rather than system configuration. It does not directly mention any technical aspects of configuring systems, nor does it align with the core themes of system optimisation or configuration management. The focus is on organisational processes and innovation, which are outside the scope of system configuration.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -1645,7 +1645,7 @@
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-08T12:54:13",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1653,11 +1653,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and agility in software development but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of innovation and adaptability, it lacks a direct focus on the integration and standardisation of engineering processes that are central to 1ES. The discussion is more about general agility rather than the specific framework of 1ES.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-08T12:54:15",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1665,11 +1665,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses agility and scaling in teams but does not explicitly mention deployment strategies or methodologies related to deploying software. It focuses more on organisational structure and innovation rather than actionable insights into deployment practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-08T12:54:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1677,11 +1677,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of scaling teams and the impact of rigid structures on innovation, which does not directly relate to installation or configuration processes. There are no explicit mentions of installation procedures, configuration best practices, or troubleshooting, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-08T12:54:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1689,11 +1689,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility, but it does not explicitly mention accountability or ownership within teams. While it touches on themes of innovation and responsiveness, it lacks a direct focus on accountability as defined in the category. The discussion is more about organisational structure and process rather than the principles of accountability in Agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-08T12:54:23",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1701,7 +1701,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling in organisations and the impact of rigid structures on decision-making and innovation. However, it does not explicitly mention decision theory or its core principles. While it touches on themes of adaptability and responsiveness, which are relevant to decision-making, the focus is more on organisational processes rather than a detailed exploration of decision-making frameworks or theories.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1729,7 +1729,7 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-03-08T12:54:31",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1737,11 +1737,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling in a general sense and touches on the challenges of bureaucracy and rigidity in large organisations, which aligns with some themes of Scaling Kanban. However, it does not explicitly mention Kanban principles or practices, nor does it provide detailed strategies or examples related to Kanban. The focus is more on agility and adaptability rather than the specific application of Kanban at scale.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-08T12:54:33",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1749,7 +1749,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling Agile teams and the importance of maintaining agility and value delivery. However, it does not explicitly mention the concept of Increment or its significance in Agile frameworks. The focus is more on organisational structure and adaptability rather than the delivery of potentially shippable product increments, which is central to the Increment category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1765,7 +1765,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-08T12:54:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1773,7 +1773,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation, which touches on complexity in organisational processes. However, it does not explicitly address software code quality, best practices in coding, or the application of complexity theory in software development. The focus is more on organisational agility rather than the interplay between code and complexity, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1801,7 +1801,7 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-08T12:54:47",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1809,11 +1809,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agility and scaling in teams, focusing on innovation and organisational structure rather than the specific concepts and benefits of Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes of IDPs, such as automation, consistency, or software delivery processes.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-08T12:54:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1821,7 +1821,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and the impact of rigid structures on innovation, which indirectly relates to employee engagement. However, it lacks direct mentions of employee motivation, commitment, or specific strategies for enhancing engagement. The focus is more on organisational processes rather than the psychological and social aspects of work that contribute to employee satisfaction.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1849,7 +1849,7 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-08T12:54:58",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1857,6 +1857,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of scaling teams and maintaining agility, but it does not explicitly mention customer feedback or the mechanisms for integrating it into product development. While it touches on themes of innovation and responsiveness, it lacks a direct focus on customer feedback loops, which diminishes its relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

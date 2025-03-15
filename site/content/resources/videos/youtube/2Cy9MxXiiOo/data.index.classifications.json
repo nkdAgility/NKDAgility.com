@@ -214,7 +214,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T18:15:34",
+    "calculated_at": "2025-03-14T23:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -222,7 +222,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly discusses the concept of a Sprint goal, which is a tactical element of Agile methodology. However, it does not delve into team dynamics, collaboration, or performance metrics, which are central to the 'Team Performance' category. The mention of stakeholder feedback is relevant but does not provide sufficient depth or alignment with the broader themes of team effectiveness and collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -739,7 +739,7 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-13T16:50:00",
+    "calculated_at": "2025-03-14T23:52:28",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
@@ -747,7 +747,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is a tactical aspect of Agile methodologies. While it touches on the importance of aligning immediate tasks with broader product goals and vision, it does not delve into the broader themes of the Agile Product Operating Model, such as cross-functional teams, continuous feedback, or value delivery strategies. The focus remains on tactical execution rather than a holistic view of product-centric development, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -868,12 +868,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:10:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Sprint goals and strategic concepts, but primarily focuses on tactical aspects rather than a comprehensive strategic approach.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, highlighting its tactical nature and its role in guiding immediate team efforts towards broader product goals. While it touches on strategic elements like product vision and goals, the primary focus remains on the tactical aspects of Scrum rather than a comprehensive strategic discussion. The content does not delve deeply into strategic alignment or broader strategic practices, which limits its alignment with the Strategy category.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -958,12 +961,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:11:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is relevant to Agile methodologies and product management, but it does not delve deeply into broader Agile product management practices or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:52:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile Product Management. It discusses the tactical nature of sprint goals, their role in aligning team efforts with product vision, and the importance of stakeholder feedback, all of which are relevant to Agile principles. The depth of discussion is substantial, providing insights into how sprint goals function and their significance in the product development process.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1030,12 +1036,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:11:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint goal within the context of Agile, highlighting its tactical nature and the importance of stakeholder feedback, which aligns with pragmatic thinking in project management.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, focusing on its tactical nature and practical implications for team progress. It highlights the importance of actionable feedback and the immediate focus that a sprint goal provides, aligning well with pragmatic thinking principles. However, while it offers valuable insights, it does not delve deeply into broader problem-solving strategies or complex environments, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1057,11 +1066,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:11:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is related to Agile practices and can influence the delivery of working software, but it primarily focuses on the tactical aspect rather than the broader themes of working software delivery.",
+    "calculated_at": "2025-03-14T23:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, which is relevant to working software as it highlights the tactical aspects of achieving product goals. However, while it touches on the importance of feedback and alignment with broader objectives, it does not delve deeply into the delivery of functional software or best practices for ensuring software quality. The focus is more on the tactical nature of sprint goals rather than the overall delivery of working software.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1093,21 +1105,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:11:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Sprint goals and product vision, indicating a connection to product strategy, but primarily focuses on tactical aspects of Scrum rather than strategic planning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the tactical aspects of Scrum, specifically the concept of a sprint goal. While it briefly touches on the importance of a product vision and goal, the discussion is largely centred around immediate tasks and tactical execution rather than strategic planning or methodologies for product development. The content does not delve into broader product strategy themes such as market analysis, customer-centric approaches, or long-term vision formulation, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:11:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of Agile methodologies, particularly within Scrum. However, it does not delve deeply into broader software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile methodologies in software development. It discusses the tactical nature of sprint goals, their importance in guiding team efforts, and how they relate to broader product goals. The depth of discussion is substantial, providing insights into the practical application of sprint goals, which aligns well with the core themes of software development practices. The content is rich in detail and directly relevant to Agile practices, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1156,12 +1174,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is relevant to Agile methodologies and the role of software developers in achieving tactical objectives within a sprint. However, it does not delve deeply into broader Agile practices or the integration of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile methodologies. It directly addresses how sprint goals drive progress and their tactical importance, aligning well with the role of software developers in Agile practices. The depth of discussion is substantial, providing insights into the nature and evaluation of sprint goals, which are crucial for developers working in Agile teams. However, while it is focused on Agile, it does not delve deeply into broader DevOps principles or tools, slightly limiting its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1192,12 +1213,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:11:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is relevant to the Product Owner's role in aligning team efforts with product goals. However, it primarily focuses on the tactical aspect of Sprint goals rather than the broader responsibilities and practices of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is more focused on Scrum practices rather than the specific responsibilities and skills of a Product Owner. While it touches on stakeholder feedback, it does not delve into the Product Owner's role in backlog management or prioritisation strategies, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1291,11 +1315,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:12:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is related to Agile practices and stakeholder feedback, but it primarily focuses on tactical aspects rather than broader value delivery strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, highlighting its tactical nature and importance in guiding team efforts towards a product vision. While it does not explicitly mention value delivery, it aligns with the core themes of iterative development and customer feedback, which are essential for delivering value. However, the focus remains primarily on the tactical aspects of Scrum rather than broader value delivery strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -1327,11 +1354,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:12:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint goal, which is a key aspect of Scrum practices and directly relates to product development within a Scrum framework.",
+    "calculated_at": "2025-03-14T23:52:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content provides a thorough exploration of the concept of a sprint goal within the Scrum framework, discussing its tactical importance and how it aligns with broader product goals. It directly mentions Scrum principles and roles, demonstrating a strong alignment with the category. The depth of discussion is significant, offering insights into the nature of sprint goals and their role in product development, while also emphasising the importance of stakeholder feedback. Overall, the content is highly relevant to Scrum Product Development.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -1354,12 +1384,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:12:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Sprint goals and strategic objectives, indicating a connection to Agile principles, but primarily focuses on tactical aspects rather than broader Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:52:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the tactical aspects of a sprint goal within the Scrum framework, which is a specific Agile practice. While it touches on the connection between sprint goals and broader product vision, it lacks a comprehensive discussion on Agile strategy as a whole. The emphasis is more on tactical execution rather than strategic alignment or implementation at scale, which diminishes its relevance to the Agile Strategy category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1381,12 +1414,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:12:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:52:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is a tactical element of Agile methodologies. While it touches on aspects of organisational agility, such as stakeholder feedback, it primarily focuses on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a tactical aspect of Agile methodologies. While it touches on the importance of feedback and alignment with broader product goals, it does not delve into the broader themes of organisational agility, such as leadership roles, cultural shifts, or continuous improvement strategies. The discussion is more about the mechanics of Scrum rather than how these practices contribute to organisational adaptability and responsiveness.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

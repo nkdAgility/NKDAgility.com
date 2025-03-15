@@ -31,7 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
+- Pragmatic Thinking
+- Software Development
 - Technical Leadership
+- Agile Leadership
 resourceTypes:
 - video
 categories:

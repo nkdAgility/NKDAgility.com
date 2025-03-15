@@ -10,7 +10,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:05:52",
+    "calculated_at": "2025-03-15T06:09:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Visual Studio as a tool for exploring and maintaining project architecture, which aligns with the category's focus on practical tooling. However, it lacks detailed methodologies or frameworks related to Agile or DevOps practices, and the discussion is more about the tool's features rather than its application in enhancing team performance or collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -40,7 +40,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T12:01:23",
+    "calculated_at": "2025-03-15T06:09:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses architecture and design concepts in the context of Visual Studio, which relates to software development. However, it lacks a direct focus on the complexities of code quality or the principles of complexity theory. While it mentions maintaining project architecture and team standards, it does not delve into the relationship between code quality and complexity, nor does it provide in-depth insights into managing complexity in codebases. Therefore, the overall confidence score reflects a low alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T12:58:05",
+    "calculated_at": "2025-03-15T06:09:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses architectural concepts and tools within Visual Studio, which aligns with the principles of modular architecture and maintaining project standards. However, it lacks a direct focus on methodologies like TDD or CI/CD, and the depth of technical discussion is limited to basic concepts without exploring advanced practices or their impact on team collaboration and project success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -751,7 +751,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:24:11",
+    "calculated_at": "2025-03-15T06:09:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -759,7 +759,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses aspects of architecture and design concepts, which are relevant to engineering practices. However, it lacks a direct focus on software craftsmanship principles, coding standards, or quality assurance. While it mentions establishing team standards, it does not delve deeply into best practices or continuous improvement processes, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1024,7 +1024,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T14:57:47",
+    "calculated_at": "2025-03-15T06:09:38",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -1032,7 +1032,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions team standards and how Visual Studio aids teams in understanding and maintaining project architecture, which aligns with the category of Team Collaboration. However, the focus is primarily on the tool and its features rather than on enhancing team dynamics or collaboration techniques. The discussion lacks depth in exploring the core themes of teamwork and communication, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1414,7 +1414,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:46:20",
+    "calculated_at": "2025-03-15T06:09:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1422,6 +1422,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Visual Studio 2010 and its architectural features, with no direct mention of Scrum principles, roles, or events. While it discusses team standards and project architecture, these topics do not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

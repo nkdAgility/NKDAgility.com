@@ -26,16 +26,16 @@ categories:
 - Scrum
 preview: class-colage-2-8-8.jpg
 tags:
-- People and Process
-- Agile Project Management
-- Professional Scrum
-- Team Collaboration
-- Scrum Team
-- Practical Techniques and Tooling
-- Agile Values and Principles
-- Collaboration Tools
-- Scrum Product Development
 - Scrum Values
+- Team Collaboration
+- Collaboration Tools
+- People and Process
+- Remote Working
+- Self Organisation
+- Agile Project Management
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

@@ -26,6 +26,7 @@ duration: 50
 isShort: true
 tags:
 - Transparency
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

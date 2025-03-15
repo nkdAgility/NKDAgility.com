@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- People and Process
 - Scrum Product Development
 - Agile Project Management
+- People and Process
 - Pragmatic Thinking
 - Agile Product Management
 - Product Owner

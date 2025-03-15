@@ -22,11 +22,8 @@ aliasesArchive:
 - /blog/a-perfect-match-tfs-and-dlr
 - /a-perfect-match-tfs-and-dlr
 - /resources/blog/a-perfect-match-tfs-and-dlr
-tags:
-- Software Development
-- Practical Techniques and Tooling
-categories:
-- Engineering Excellence
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

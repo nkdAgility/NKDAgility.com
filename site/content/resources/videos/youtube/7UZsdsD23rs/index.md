@@ -26,16 +26,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - Empirical Process Control
+- Software Development
+- Agile Transformation
+- Agile Frameworks
 - Metrics and Learning
 - People and Process
-- Transparency
+- Pragmatic Thinking
+- Software Developers
 - Agile Product Management
-- Professional Scrum
-- Agile Values and Principles
-- Customer Feedback Loops
-- Scrum Product Development
-- Agile Frameworks
 resourceTypes:
 - video
 layout: video

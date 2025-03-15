@@ -58,7 +58,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T15:02:01",
+    "calculated_at": "2025-03-14T20:40:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -66,11 +66,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of involving individuals in organisational change, which aligns with personal experiences in Agile transformations. However, it lacks explicit personal anecdotes or detailed reflections, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-07T13:16:00",
+    "calculated_at": "2025-03-14T20:40:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -78,7 +78,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the importance of involving people in organisational change, which aligns with the idea of interconnectedness in Systems Thinking. However, it lacks explicit discussion of Systems Thinking principles, techniques, or frameworks, and does not delve into the complexities of organisational dynamics or decision-making processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -463,11 +463,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:56:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of engaging team members in the process of organisational change, which aligns with key topics in change management, particularly the need to involve stakeholders and adapt strategies to ensure meaningful transitions.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on engaging teams during organisational change, which is a core aspect of Change Management. It discusses the importance of shared goals, crafting narratives, and empowering participation, all of which align well with the principles of effective change management in Agile environments. The depth of discussion is substantial, providing specific strategies and insights, although it could benefit from more explicit references to Agile principles and case studies. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -490,11 +493,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of engaging team members by aligning their personal goals with organizational objectives, which is central to enhancing team motivation and involvement in change processes.",
+    "calculated_at": "2025-03-14T20:40:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses strategies for engaging teams during organisational change, focusing on shared goals, empowerment, and communication, which are all key aspects of team motivation. It provides detailed insights into fostering a culture of engagement and recognition, aligning closely with the core themes of the category.",
     "level": "Secondary"
   },
   "Professional Scrum": {
@@ -598,11 +604,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:40:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of engaging team members in the process of organisational change, highlighting how involving people in the change narrative is crucial for success. This aligns well with the discussions on strategies and methodologies for organisational change.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of engaging teams during organisational change, highlighting strategies such as shared goals, crafting a narrative, and fostering a culture of participation. It aligns well with the core themes of the category, focusing on leadership's role in driving change and techniques for overcoming resistance. The depth of discussion is substantial, providing detailed insights and actionable strategies for effective change management.",
     "level": "Secondary"
   },
   "Continuous Learning": {
@@ -679,12 +688,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:40:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging and involving team members in the context of organisational change, which aligns with Agile principles of empowerment and collaboration, albeit is more focused on engagement rather than specific Agile leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of engaging teams during organisational change, which aligns closely with Agile Leadership principles. It emphasises empowerment, shared goals, and building a culture of trust and communication, all of which are key aspects of Agile leadership. The depth of discussion is substantial, providing specific strategies for fostering engagement and participation, which are critical for effective leadership in an Agile context.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -988,11 +1000,14 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of involving employees in the organisational change process, highlighting the connection between individual goals and overall organisational goals, which aligns with themes of motivation and commitment central to employee engagement.",
+    "calculated_at": "2025-03-14T20:40:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of engaging team members during organisational change, which aligns closely with the core themes of employee engagement. It highlights strategies such as shared goals, empowerment through participation, and regular communication, all of which are essential for fostering motivation and commitment. The depth of discussion is substantial, providing actionable insights and examples that reinforce the significance of employee involvement in the change process.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1051,12 +1066,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of involving people in the organisational change process, linking their personal goals to the organisation's goals, which relates to cultural aspects of engagement and buy-in, although it does not directly address specific cultural dimensions or Agile practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:17:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on engaging teams during organisational change, which directly relates to organisational culture. It discusses the importance of shared goals, empowerment, and communication, all of which are key cultural elements that influence agility and transformation. The depth of discussion is substantial, providing strategies for fostering a culture of engagement and participation, which aligns well with the category's core themes. However, while it touches on cultural aspects, it does not delve deeply into specific Agile or DevOps practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1132,11 +1150,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:40:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content emphasizes the importance of engaging individuals in the organisational change process, which relates to understanding motivations and fostering a collective interpretation of goals, but it does not specifically address sensemaking frameworks or complexity in decision-making.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of engaging teams during organisational change, which aligns with sensemaking principles. It highlights the need for shared goals, crafting narratives, and empowering participation, all of which are crucial for interpreting complex situations. However, while it touches on these themes, it lacks a deeper exploration of frameworks or models specific to sensemaking, which slightly limits its depth.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -1213,12 +1234,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:40:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on organisational change and engagement, which relate to systems thinking and organisational dynamics, but lacks a strong focus on those principles or their applications.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of engaging teams during organisational change, which aligns with systems thinking principles by emphasising the interplay between people, culture, and processes. It mentions concepts like shared goals, empowerment, and feedback loops, which are relevant to organisational dynamics. However, while it touches on these themes, it does not delve deeply into systems thinking or provide extensive analysis of organisational structures or complexities, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1321,12 +1345,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T15:27:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:40:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engaging team members and aligning goals, which are relevant themes in coaching, but it primarily focuses on organizational change rather than specific coaching practices or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses engaging teams during organisational change, which aligns with coaching principles such as empowerment, shared goals, and fostering participation. However, it lacks direct mentions of coaching techniques or frameworks, and the depth of discussion on coaching as a practice is limited.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1393,12 +1420,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T15:27:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content emphasizes involving team members in the organisational change process which relates to collaboration, but it does not directly focus on Agile, Scrum, or DevOps principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:40:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of engaging teams during organisational change, which aligns with the themes of team collaboration. It highlights shared goals, empowerment through participation, and the significance of regular communication, all of which are crucial for effective teamwork. However, while it touches on collaboration, it does not explicitly mention Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1429,7 +1459,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:52:59",
+    "calculated_at": "2025-03-14T20:40:31",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1437,6 +1467,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the importance of involving team members in organisational change, which aligns with the Scrum principle of team collaboration. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its practices in any meaningful detail.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

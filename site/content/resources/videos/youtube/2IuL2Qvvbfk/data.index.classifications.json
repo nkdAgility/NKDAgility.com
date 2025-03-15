@@ -55,20 +55,26 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:37:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners and their contributions to Agile practices, touching on aspects of coaching in terms of enabling change and supporting team dynamics. However, the primary focus is on the contributions of specific individuals rather than a comprehensive discussion on coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles and contributions of Product Owners in Agile environments, focusing on their strategic vision and cultural impact rather than on coaching practices. While there are elements of mentoring and advocacy mentioned, the overall emphasis is on leadership and management rather than the facilitative and supportive nature of coaching. The discussion lacks depth in coaching techniques or frameworks, which diminishes its alignment with the Coaching category.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in Microsoft and their impact on organisational changes, particularly in relation to feedback loops and agile practices. However, it primarily focuses on personal experiences and anecdotes rather than a systematic application of empirical evidence to leadership decisions.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, highlighting their impact on organisational change and cultural transformation. However, it primarily focuses on anecdotal examples and personal leadership styles rather than empirical evidence or data-driven decision-making. While there are mentions of feedback loops and cultural shifts, the discussion lacks a strong emphasis on evidence-based practices or metrics that would align it more closely with the category.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -124,21 +130,27 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the contributions of product owners in enhancing agility and changing business processes at Microsoft, which aligns with themes of digital transformation. However, the primary focus is on individual contributions and experiences rather than a broader strategic discussion on digital transformation initiatives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:38:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, particularly focusing on the transformation within Microsoft led by Brian Harry and Aaron Bjork. While it highlights aspects of cultural transformation and strategic implementation of Agile practices, it does not explicitly mention digital technologies or their strategic adoption for business transformation. The discussion aligns conceptually with the themes of change management and cultural shifts but lacks depth in addressing how these practices relate to broader digital transformation initiatives. Therefore, while there is a significant focus on Agile practices, the content does not fully meet the criteria for the Digital Transformation category.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in improving software delivery processes and feedback loops, which aligns with the theme of working software, but it primarily focuses on individual contributions and organisational changes rather than the direct delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, highlighting their impact on transforming processes and feedback loops, which aligns with the principles of working software. However, it primarily focuses on individual contributions and cultural shifts rather than directly addressing the characteristics or delivery of functional software. The discussion lacks specific metrics or examples of working software, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -262,29 +274,38 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:37:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in driving innovation within Microsoft, particularly through changes in release cadence and feedback loops. While it touches on innovation practices, the primary focus is on specific individuals and their roles rather than a broader discussion on the measurement and improvement of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transformative role of Product Owners in Agile development, particularly through the examples of Brian Harry and Aaron Bjork at Microsoft. While it highlights aspects of innovation, such as shorter feedback loops and cultural shifts towards agility, it does not explicitly focus on the measurement or improvement of innovation capabilities as defined in the A2I category. The discussion is more centred on Agile practices and leadership rather than a structured analysis of innovation metrics or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in an Agile context, particularly within Microsoft, and touches on Agile principles such as feedback loops and continuous delivery. However, it primarily focuses on individual contributions rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development, with a strong focus on the transformation within Microsoft through Agile practices. It explicitly mentions Agile methodologies and principles, particularly in the context of cultural shifts and feedback loops. However, while it provides substantial insights into the impact of Agile frameworks, it does not delve deeply into a comparative analysis of different frameworks or their theoretical underpinnings, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T11:44:28",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the contributions of product owners in fostering agility within Microsoft, highlighting leadership roles and changes in organisational practices. While it primarily focuses on individual contributions and experiences, it does touch on broader themes of scaling agile practices across the organisation, making it a significant but secondary theme.",
+    "calculated_at": "2025-03-14T15:27:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of Product Owners in driving Agile transformations at Microsoft, highlighting leadership, cultural shifts, and cross-departmental collaboration. However, it primarily focuses on individual contributions rather than broader organisational strategies or frameworks for scaling agility, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Team Collaboration": {
@@ -343,16 +364,19 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T11:44:43",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the contributions of product owners in the context of Agile methodologies and DevOps practices, highlighting the importance of feedback loops and release cadences in software development. While it primarily focuses on individual contributions and experiences, it does touch on key themes relevant to software development processes.",
+    "calculated_at": "2025-03-14T23:37:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within Agile development, focusing on specific individuals and their contributions to transforming Microsoft's approach to software development. It explicitly mentions Agile methodologies, cultural shifts, and strategic implementations, which are core themes of the Software Development category. The depth of discussion is significant, providing detailed examples of how these individuals influenced Agile practices and feedback loops, aligning well with the category's focus on methodologies and best practices in software engineering.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:09:20",
+    "calculated_at": "2025-03-14T23:37:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -360,7 +384,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the contributions of product owners in a specific organisational context, focusing on their impact on product management and release cadences. While it touches on aspects of agility and feedback loops, which are relevant to engineering practices, it lacks a direct focus on software craftsmanship, coding standards, or continuous improvement processes. The discussion is more centred on project management and leadership rather than the core themes of engineering excellence, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -373,12 +397,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product management and development practices at Microsoft, particularly in relation to Azure DevOps. While it touches on the principles of DevOps and continuous delivery, it primarily focuses on the contributions of specific individuals rather than the technical aspects of Azure Pipelines itself.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development and their impact on cultural transformation within Microsoft. While it briefly mentions Azure DevOps, it does not focus on Azure Pipelines or the automation of software development processes, which are the core themes of the category. The discussion lacks specific details about pipeline configuration, CI/CD practices, or any technical aspects related to Azure Pipelines.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -409,11 +436,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T11:44:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:37:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the contributions of specific Product Owners in an organisation, highlighting their roles in improving product management and agile practices. It focuses on the responsibilities and impact of Product Owners, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners, specifically highlighting the contributions of Brian Harry and Aaron Bjork in transforming Agile practices at Microsoft. It discusses their responsibilities, strategic vision, and the cultural shifts they initiated, which are central to the Product Owner's role. The depth of discussion is substantial, providing detailed examples of how these individuals exemplified effective Product Ownership. However, while the content is rich in examples and insights, it could benefit from a more explicit connection to specific techniques for backlog management and prioritisation strategies, which would enhance its alignment with the category.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -472,11 +502,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the contributions of product owners in the context of Agile and DevOps, highlighting their role in improving feedback loops and product delivery. However, the primary focus is on product management rather than the direct role of software developers.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development rather than focusing on software developers themselves. While it touches on Agile practices and cultural shifts that may indirectly affect developers, it lacks direct discussion on developers' roles, best practices, or tools that specifically enhance their productivity and collaboration. The emphasis is more on leadership and product management rather than the developers' experiences or methodologies.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -553,56 +586,74 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in a large organisation (Microsoft) and touches on the shift towards greater agility and continuous delivery, which are relevant to scaling Agile practices. However, the primary focus is on individual contributions rather than a comprehensive discussion on scaling Agile methodologies across multiple teams.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, particularly within Microsoft, highlighting their contributions to Agile transformation. However, it primarily focuses on individual contributions and experiences rather than the broader themes of scaling Agile across multiple teams or at an enterprise level. While there are mentions of cultural shifts and leadership support, the content lacks a detailed exploration of frameworks or strategies specifically aimed at scaling Agile practices, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T11:45:18",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical contributions of product owners in Agile and DevOps contexts, highlighting real-world applications and problem-solving strategies that led to significant changes in Microsoft's product development approach.",
+    "calculated_at": "2025-03-14T23:37:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 42.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the practical contributions of Product Owners in Agile environments, particularly through the examples of Brian Harry and Aaron Bjork at Microsoft. It highlights real-world applications of Agile principles, such as shorter feedback loops and cultural transformation, which align well with the core themes of pragmatic thinking. However, while it provides substantial detail on these contributions, it does not explicitly frame the discussion within the context of pragmatic thinking, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-12T11:45:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:37:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the impact of deployment frequency on feedback loops and product development, particularly through the experiences of Brian Harry and Aaron Bjork at Microsoft. It highlights the shift from a two-year release cadence to a more agile three-week continuous cadence, emphasising the importance of optimising deployment intervals to enhance feedback and improve product delivery.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the transformation of Microsoft's release cadence from a two-year cycle to shorter cycles, which aligns with the concept of deployment frequency. It highlights the importance of reducing feedback loops and improving iteration speed, which are key aspects of deployment frequency in Agile and DevOps. However, the primary focus is on the roles of Product Owners and cultural shifts rather than a detailed exploration of deployment frequency itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T11:45:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:37:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in an agile context, highlighting contributions to agile practices and the importance of feedback loops, which aligns closely with agile project management principles.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of Product Owners within Agile development, highlighting key figures like Brian Harry and Aaron Bjork, and their contributions to Agile practices at Microsoft. It covers principles such as shorter feedback loops, cultural transformation, and the importance of collaboration, which align closely with Agile methodologies. The depth of discussion on these topics indicates a strong focus on Agile Project Management.",
     "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition to a more agile and continuous release cadence at Microsoft, which relates to Continuous Integration principles. However, the primary focus is on the roles of product owners and their contributions rather than CI practices themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:38:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners in Agile development, discussing their contributions to cultural and process changes within Microsoft. While it touches on Agile principles, it does not explicitly mention Continuous Integration or its practices, tools, or principles. The discussion is more about leadership and product management rather than the integration of code changes or CI workflows.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T11:45:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:37:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in implementing Agile methodologies at Microsoft, focusing on leadership, continuous value delivery, and the integration of Agile principles into product development strategies.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of Product Owners in driving Agile transformations within Microsoft, highlighting strategic vision, cultural shifts, and the importance of leadership in fostering an Agile environment. It aligns well with the core themes of Agile Strategy, such as the integration of Agile principles into organisational vision and the emphasis on continuous value delivery. The depth of discussion is significant, providing detailed examples and insights into how Agile methodologies were implemented at scale, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -652,12 +703,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in enhancing team dynamics and feedback loops within an agile context, but it primarily focuses on individual contributions rather than broader team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the significant contributions of Product Owners in fostering Agile practices and enhancing team dynamics at Microsoft. It highlights strategies for cultural transformation, collaboration, and the importance of leadership in supporting Agile methodologies. While it does not delve deeply into specific metrics or tools for measuring team performance, it aligns well with the core themes of team performance and collaboration within Agile frameworks.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -706,11 +760,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T11:45:49",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the contributions of product owners in leading Agile transformations at Microsoft, particularly focusing on the shift from a lengthy release cadence to a more agile approach. While it primarily centres on the experiences of specific individuals, it highlights key aspects of Agile transformation, such as leadership roles, cultural shifts, and the importance of feedback loops, making it a significant but secondary theme.",
+    "calculated_at": "2025-03-14T23:37:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of Product Owners in Agile development, particularly through the examples of Brian Harry and Aaron Bjork at Microsoft. It highlights key aspects of Agile transformation, such as cultural shifts, feedback loops, and leadership roles, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into the strategies and impacts of Agile practices within a large organisation.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -733,12 +790,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the contributions of product owners in driving organisational change towards agility at Microsoft, highlighting leadership roles and the impact of changing release cadences. However, the primary focus is on specific individuals and their actions rather than a broader discussion on organisational change methodologies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:38:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of Product Owners in driving Agile transformation within Microsoft, highlighting key figures like Brian Harry and Aaron Bjork. It addresses cultural shifts, strategic vision, and the importance of leadership in fostering an Agile environment, which aligns closely with the principles of organisational change. The depth of discussion on how these individuals influenced processes and mindsets within the organisation further supports a high confidence score. While it does touch on Agile practices, the primary focus remains on the organisational change aspect, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -760,12 +820,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the contributions of product owners in improving operational practices at Microsoft, particularly in relation to Agile and DevOps methodologies. However, the primary focus is on individual contributions rather than specific operational practices or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:38:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, particularly focusing on the contributions of Brian Harry and Aaron Bjork at Microsoft. While it highlights aspects of Agile transformation and cultural shifts, it primarily centres on individual contributions and narratives rather than specific operational practices or methodologies aimed at enhancing efficiency. The mentions of shorter feedback loops and cultural advocacy align with operational practices, but the overall focus is more on storytelling and individual impact rather than a structured discussion of operational techniques or strategies.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -823,11 +886,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T11:46:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:37:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in driving agile practices and leadership within Microsoft, highlighting the importance of technical leadership in fostering agility and continuous improvement.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, highlighting their influence on team dynamics and cultural transformation within Microsoft. While it touches on aspects of technical leadership, such as vision, strategy, and cultural advocacy, it primarily focuses on individual contributions rather than broader technical leadership principles. The depth of discussion on mentoring, coaching, and agile practices is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -859,12 +925,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of product owners and their accountability in driving changes within an organisation, particularly in the context of Agile practices at Microsoft. However, it primarily focuses on individual contributions rather than a broader discussion on accountability as a team principle.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:38:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of Product Owners and their impact on Agile practices, but it primarily focuses on individual contributions and leadership rather than the collective accountability of teams. While there are elements of ownership and cultural transformation, the discussion does not explicitly address accountability as a team principle or provide strategies for fostering a culture of accountability. The emphasis is more on individual achievements and visionary leadership rather than the dynamics of accountability within Agile teams.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -904,12 +973,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:37:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Product Owner and their contributions to Agile practices, which is a significant aspect of Scrum Teams, but it primarily focuses on individual contributions rather than team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the role of Product Owners and their impact on Agile practices within Microsoft, which aligns with the Scrum framework. However, it lacks a broader discussion on team dynamics, collaboration, and the specific roles within a Scrum Team, focusing instead on individual contributions and cultural shifts. While it touches on aspects of team collaboration and leadership, it does not delve deeply into the Scrum Team's collective dynamics or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -922,12 +994,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of release cadences and feedback loops within Microsoft, highlighting the contributions of product owners to improve release processes. However, the primary focus is on the roles of product owners and their impact on product management rather than a comprehensive discussion on release management strategies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, focusing on their impact on processes and cultural shifts within Microsoft. While it touches on aspects of release management, such as shortening feedback loops and strategic implementation, it primarily centres on Agile practices and leadership rather than the specific strategies and practices of release management. The discussion lacks explicit focus on release planning, version control, or risk management, which are core themes of the category.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1003,12 +1078,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in enhancing agility and changing organisational practices at Microsoft, which relates to strategic goals. However, the primary focus is on individual contributions and operational changes rather than explicitly defining or articulating long-term strategic objectives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:38:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of Product Owners in driving Agile transformations at Microsoft, highlighting strategic shifts and cultural changes. While it touches on elements of strategic vision and implementation, it primarily focuses on individual contributions and operational tactics rather than explicitly defining long-term strategic goals. The discussion lacks a comprehensive framework for setting or measuring strategic objectives, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1120,12 +1198,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in fostering a more agile approach to product development, highlighting the importance of feedback loops and continuous improvement. However, the primary focus is on specific individuals and their roles rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the transformative role of Product Owners in Agile development, particularly focusing on Brian Harry and Aaron Bjork's contributions to fostering a culture of agility and innovation at Microsoft. It highlights the importance of shorter feedback loops and cultural shifts, which align with the core themes of discovery and learning. However, while it touches on these aspects, the primary focus is more on the individuals' achievements and the historical context rather than a deep exploration of methodologies or processes that foster continuous learning and experimentation.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1156,11 +1237,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the contributions of product owners in implementing Agile practices and improving product delivery at Microsoft, which relates to practical techniques and tooling. However, the primary focus is on individual contributions and experiences rather than a detailed exploration of specific tools or methodologies.",
+    "calculated_at": "2025-03-14T23:38:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, highlighting specific individuals and their contributions to Agile practices at Microsoft. While it touches on Agile methodologies and cultural shifts, it lacks a direct focus on practical techniques and tooling, such as specific tools or frameworks. The discussion is more narrative-driven and does not provide in-depth insights into the application of tools or methodologies that enhance Agile practices.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1219,11 +1303,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the contributions of specific product owners in the context of Agile and DevOps practices, highlighting their impact on product management and development processes. However, it primarily focuses on personal experiences and anecdotes rather than specific products or literature, making it a secondary theme.",
+    "calculated_at": "2025-03-14T23:38:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, particularly through the examples of Brian Harry and Aaron Bjork at Microsoft. While it does not directly review or analyse specific products or books, it provides a detailed exploration of Agile practices and their implementation in a corporate context. The focus on cultural transformation and strategic vision aligns with the core themes of the category, but the lack of direct references to specific literature or tools limits the overall confidence score.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -1282,7 +1369,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T16:29:08",
+    "calculated_at": "2025-03-14T23:37:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 15,
@@ -1290,7 +1377,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the contributions of specific individuals in an organisational context rather than personal reflections or experiences. While it mentions the impact of Agile transformations, it lacks personal anecdotes or subjective insights that align with the 'Personal' category. The focus is more on the achievements of Brian Harry and Aaron Bjork rather than the author's personal experiences or challenges faced in Agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1306,12 +1393,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the contributions of product owners in the context of organisational change and the impact of leadership on software delivery processes at Microsoft, highlighting the interplay between social and technical aspects. However, the primary focus is on individual contributions rather than a broader exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, particularly focusing on the cultural and strategic shifts within Microsoft. It highlights the interplay between organisational culture and technology adoption, which aligns with the core themes of sociotechnical systems. The depth of discussion on how leadership and collaboration influence Agile practices indicates a strong alignment with the category, although it primarily centres on specific individuals rather than a broader sociotechnical framework.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1324,12 +1414,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:38:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of feedback loops and the impact of release cadences on product development, which aligns with the themes of metrics and learning. However, the primary focus is on the contributions of specific individuals rather than a systematic exploration of metrics or learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development and highlights the importance of feedback loops and cultural transformation. However, it primarily focuses on anecdotal evidence and individual contributions rather than a structured exploration of metrics and learning principles. While there are mentions of feedback cycles and cultural shifts, the depth of discussion on metrics and evidence-based decision-making is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",

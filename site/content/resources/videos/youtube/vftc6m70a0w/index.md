@@ -25,15 +25,11 @@ duration: 142
 isShort: false
 tags:
 - People and Process
-- Agile Transformation
-- Agile Values and Principles
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
-- Business Agility
-- Change Management
 - Organisational Agility
+- Organisational Change
+- Agile Transformation
 - Organisational Culture
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

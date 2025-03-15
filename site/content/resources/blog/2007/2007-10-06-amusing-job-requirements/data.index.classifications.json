@@ -283,7 +283,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T17:07:35",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
@@ -291,7 +291,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content includes personal reflections on a job specification and offers advice based on individual experiences. However, it primarily focuses on technical skills and job requirements rather than deeper personal insights related to Agile, Scrum, or DevOps methodologies. The personal anecdotes are present but not the main focus, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -331,7 +331,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T15:18:02",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -339,7 +339,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses job requirements and the unrealistic expectations placed on candidates, which touches on the human factors in hiring processes. However, it lacks a deeper exploration of team dynamics, collaboration, or structured methodologies. The advice given is practical but does not delve into the broader implications for team processes or organisational culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -352,7 +352,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-11T12:14:48",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -360,7 +360,7 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses a job specification and the absurdity of the required skills for a programming role. While it briefly mentions a book ('Joel on Software') and provides links to articles that could be relevant to job seekers and employers, the main focus is on critiquing the job requirements rather than providing a review or analysis of products or literature related to Agile or DevOps. The discussion lacks depth in terms of how these resources enhance understanding of Agile methodologies or DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -580,7 +580,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T15:15:27",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -588,16 +588,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses job requirements for software developers, highlighting the unrealistic expectations placed on them. While it touches on the role of developers, it primarily focuses on job specifications and employer advice rather than Agile or DevOps methodologies. The discussion lacks depth in terms of Agile practices or collaboration principles, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses job requirements for software development roles and offers advice for employers and job seekers, making software development a major theme although the primary focus is on job descriptions.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses job requirements for a programming role, touching on various technologies and skills relevant to software development. However, it primarily focuses on the absurdity of the job spec rather than providing a structured discussion on software development methodologies or practices. While it mentions specific programming languages and concepts, the depth of discussion is more anecdotal and critical rather than instructional or methodological, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -718,7 +721,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-10T19:01:36",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -726,7 +729,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the importance of focusing on core skills and the ability to learn additional skills, which aligns with the concept of continuous learning. However, the primary focus is on critiquing a job specification rather than exploring continuous learning principles in depth. The discussion lacks substantial detail on growth mindset, knowledge sharing, or feedback loops, which are key themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -964,12 +967,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the ridiculous breadth of skills required for a programmer role, touching on the necessity for depth in software craftsmanship. However, it primarily focuses on job requirements and employer advice rather than deep technical principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the absurdity of a job specification and the unrealistic expectations placed on candidates. While it touches on the need for depth in specific technologies, it does not delve into best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The discussion is more about job market realities than technical excellence, leading to a low confidence score in the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1234,7 +1240,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:49:37",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1242,7 +1248,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the unrealistic expectations in job specifications and provides practical advice for both employers and job seekers. While it touches on the importance of defining essential skills and the need for depth in programming knowledge, it lacks a direct focus on Agile, Scrum, or DevOps frameworks. The discussion is more about general job market realities than pragmatic problem-solving in complex environments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1255,7 +1261,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:19:10",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1263,7 +1269,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses job requirements and the unrealistic expectations placed on candidates, which indirectly touches on the principles of software craftsmanship and the importance of defining essential skills. However, it primarily focuses on the absurdity of job specifications rather than promoting high standards in software development practices or continuous improvement. The discussion lacks depth in engineering processes and does not provide substantial insights into best practices or quality assurance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

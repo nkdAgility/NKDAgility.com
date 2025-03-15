@@ -139,11 +139,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics, data interpretation, and decision-making in the context of applying a Kanban strategy, which aligns with evidence-based decision-making principles. However, the primary focus is on the course and its offerings rather than structured decision-making itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the application of Kanban, which includes elements of data-driven decision-making and continuous improvement. It mentions metrics and visualisations that aid in informed decision-making, aligning with the core themes of the category. However, the primary focus is on Kanban implementation rather than structured decision-making methodologies, which slightly reduces the overall confidence score.",
     "level": "Tertiary"
   },
   "Self Organisation": {
@@ -259,12 +262,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics, visualisations, and continuous improvement, which are relevant to the Ability to Innovate category, but the primary focus is on applying a Kanban strategy rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the application of Kanban, highlighting its role in continuous improvement and data-driven decision-making, which aligns with the core themes of the Ability to Innovate category. However, it primarily focuses on Kanban as a methodology rather than explicitly measuring or enhancing innovation capabilities within an organisation. While it mentions metrics and visualisations that support improvement, it lacks a deeper exploration of frameworks or case studies specifically related to innovation practices.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -346,12 +352,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:32:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Kanban as a strategy within the context of software development processes, but it also includes general information about the course and its offerings, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the application of Kanban, which is a key Agile methodology relevant to software development. It discusses the integration of Kanban with existing workflows, continuous improvement, and data-driven decision-making, all of which align closely with software development practices. The depth of discussion on Kanban principles and techniques indicates a strong focus on software development methodologies, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -364,11 +373,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:13:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving the flow of value through the system and mentions metrics and visualisations related to continuous improvement, which are relevant to throughput, but the primary focus is on the Kanban course rather than throughput itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Kanban and its role in optimising workflow efficiency, which aligns with the concept of throughput. However, it does not explicitly focus on throughput as a primary topic, and while it mentions metrics and continuous improvement, it lacks detailed exploration of throughput measurement techniques or specific strategies for enhancing throughput. The discussion is relevant but not comprehensive enough to fully meet the category's criteria.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -436,7 +448,7 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-10T17:58:22",
+    "calculated_at": "2025-03-14T19:31:34",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -444,7 +456,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the application of a Kanban strategy and touches on metrics and continuous improvement, which are relevant to empirical process control. However, it lacks a direct focus on the principles of transparency, inspection, and adaptation that are central to the category. The discussion is more about Kanban in general rather than a deep exploration of empirical process control within Agile frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -586,12 +598,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Kanban strategies and their application, which is a major theme in Agile Project Management, but also mentions other methodologies like Scrum and waterfall, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:32:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on the application of Kanban, which is a key framework within Agile Project Management. It discusses the principles of Kanban, its integration with existing workflows, and the benefits of continuous improvement, aligning well with agile methodologies. However, while it mentions Scrum, the emphasis is predominantly on Kanban, which slightly reduces the overall depth of discussion regarding broader agile principles. The content is informative and detailed, providing a solid overview of Kanban practices, but it does not delve deeply into other agile frameworks or the Agile Manifesto, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -604,7 +619,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T11:20:06",
+    "calculated_at": "2025-03-14T19:31:34",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -612,7 +627,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses a course on applying a 'Cang strategy', which seems to relate to Kanban principles. While it touches on continuous improvement and flow of value, it lacks a clear focus on Agile strategy as defined in the category. The mention of various methodologies (Scrum, waterfall) indicates a broader context but does not specifically align with Agile strategy discussions. The depth of discussion is moderate, focusing on practical tools and techniques rather than strategic alignment or leadership roles in fostering an Agile culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -643,12 +658,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses interpreting data and making decisions for continuous improvement, which aligns with sensemaking principles, but the primary focus is on Kanban strategies rather than sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Kanban as a workflow strategy, with some mentions of data-driven decision-making and continuous improvement. However, it lacks a direct discussion on sensemaking principles or frameworks, and does not delve deeply into the complexities of decision-making in uncertain environments. While it touches on interpreting data, it does not explore the broader implications of sensemaking within organisational contexts.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -706,21 +724,27 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and flow of value, which are relevant to Lean principles, but it primarily focuses on Kanban and its application rather than Lean as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:31:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Kanban, which is closely related to Lean principles, particularly in terms of continuous improvement and workflow optimisation. However, it primarily focuses on Kanban as a standalone methodology rather than explicitly addressing Lean principles or waste reduction. While there are mentions of continuous improvement and enhancing workflow efficiency, the depth of discussion on Lean-specific concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban strategies and their application, which is relevant to Agile transformation, but it also mentions other methodologies like Scrum and waterfall, making Agile transformation a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:31:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, which is a component of Agile practices. While it discusses the application of Kanban in workflows and touches on continuous improvement, it lacks a broader discussion on Agile transformation principles, frameworks, and change management strategies. The mention of integrating Kanban into existing systems suggests some alignment with Agile transformation, but it does not delve deeply into the cultural shifts or leadership roles necessary for a full Agile transformation.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1057,12 +1081,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:32:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of a Kanban strategy, which is a Lean tool, and touches on continuous improvement and flow of value, but primarily focuses on Kanban without a strong emphasis on Lean principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Kanban, which is a Lean tool, and highlights its role in continuous improvement and workflow efficiency. However, while it touches on Lean principles, the primary focus is on Kanban as a standalone methodology rather than a comprehensive discussion of Lean as a whole. The depth of discussion on Lean concepts is moderate, with some emphasis on value delivery and waste reduction, but it lacks extensive exploration of Lean principles beyond Kanban.",
+    "level": "Secondary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1093,12 +1120,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of a Kanban strategy and mentions improving the flow of value through the system, which aligns with flow efficiency principles. However, it primarily focuses on the course and its offerings rather than a deep exploration of flow efficiency concepts.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses Kanban as a strategy to enhance workflow efficiency, which aligns well with the principles of Flow Efficiency. It explicitly mentions identifying bottlenecks and improving flow, which are key aspects of the category. The depth of discussion includes techniques for improving workflow and the importance of metrics, contributing to a strong alignment with Flow Efficiency concepts. However, while the content is focused on Kanban, it does not delve deeply into specific metrics or case studies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1129,11 +1159,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of a strategy for continuous improvement and the importance of understanding metrics and data analysis, which are relevant to learning and discovery processes. However, the primary focus is on the Kanban course rather than on broader discovery and learning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the application of Kanban as a project management tool rather than exploring the processes of discovery and learning. While it mentions continuous improvement and data-driven decisions, which are relevant to the category, these concepts are not discussed in the context of fostering innovation or experimentation. The depth of discussion on learning methodologies is minimal, and the content lacks explicit references to the broader themes of discovery and learning as outlined in the category definition.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -1186,11 +1219,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of a strategy that could enhance continuous improvement and flow of value, which relates to market adaptability, but it primarily focuses on the Kanban course rather than directly addressing market adaptability principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the application of Kanban, which is a methodology that can enhance market adaptability through continuous improvement and data-driven decision-making. It mentions the importance of visualising workflows and optimising processes, which aligns with the principles of Agile and Lean methodologies. However, while it touches on relevant themes, it does not explicitly focus on broader market adaptability strategies or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1255,12 +1291,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:32:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of a strategy that aims to improve the flow of value through a system, which aligns with value delivery principles. However, it also includes general information about the course and its applicability to various methodologies, making value delivery a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the application of Kanban and its benefits, including enhanced workflow efficiency and greater value delivery. However, while it touches on value delivery, it primarily focuses on the Kanban methodology itself rather than explicitly detailing strategies for continuous value delivery within Agile or DevOps frameworks. The depth of discussion on value delivery is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1345,11 +1384,14 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T13:15:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving the flow of value and continuous improvement, which are relevant to Value Stream Management, but it primarily focuses on Kanban strategies and does not delve deeply into the core principles of Value Stream Management.",
+    "calculated_at": "2025-03-14T14:53:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Kanban, which is related to Value Stream Management through its focus on optimising workflow and enhancing efficiency. However, it primarily centres on Kanban principles and practices rather than explicitly addressing Value Stream Management concepts. While it mentions continuous improvement and workflow enhancement, it lacks a direct focus on value stream mapping, waste elimination, or alignment with customer value, which are core to Value Stream Management.",
     "level": "Tertiary"
   },
   "Organisational Psychology": {
@@ -1438,7 +1480,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:48:43",
+    "calculated_at": "2025-03-14T19:31:34",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -1446,6 +1488,6 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses Kanban and does not focus on Scrum principles, roles, or events. While it briefly mentions Scrum as a possible existing system, it does not delve into any Scrum-specific practices or frameworks, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

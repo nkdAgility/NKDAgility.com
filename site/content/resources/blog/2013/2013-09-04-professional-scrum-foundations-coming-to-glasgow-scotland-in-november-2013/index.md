@@ -8,7 +8,7 @@ ResourceImportId: 10094
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-04
-weight: 630
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -35,12 +35,9 @@ tags:
 - Agile Project Management
 - Professional Scrum
 - People and Process
-- Software Developers
 - Agile Frameworks
 - Products and Books
 - Events and Presentations
-- Organisational Change
-- Agile Transformation
 categories:
 - Scrum
 preview: PSF_Badges-2-2.png

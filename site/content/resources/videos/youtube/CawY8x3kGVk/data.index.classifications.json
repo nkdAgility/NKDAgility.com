@@ -49,12 +49,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:22:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the dynamics of Scrum within organisations, particularly the interplay between roles and decision-making processes, which aligns with the themes of organisational structure and culture. However, the primary focus is on Scrum methodology rather than a broader systems thinking perspective.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its application within organisations, touching on themes of autonomy, decision-making, and the misapplication of Scrum principles. However, it primarily focuses on Agile practices rather than a comprehensive exploration of systems thinking or organisational dynamics. While there are elements of organisational behaviour mentioned, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -85,7 +88,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:27:04",
+    "calculated_at": "2025-03-14T21:21:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -93,7 +96,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Scrum and the role of developers and Product Owners within that framework, which is relevant to product management. However, it primarily focuses on the misconceptions surrounding Scrum rather than providing a strategic discussion on product management methodologies or frameworks. While it touches on the importance of understanding technical debt and the role of technical experts, it lacks depth in exploring broader product management strategies or metrics for success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -133,20 +136,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the role of developers in deciding what to work on, which relates to the delivery of functional software. However, the primary focus is on misconceptions about Scrum rather than directly addressing working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum principles and the importance of autonomy for Developers, which aligns with the concept of working software. However, it primarily focuses on dispelling myths about micromanagement rather than directly addressing the delivery of functional software or customer value. While it touches on aspects of Agile and team dynamics, it lacks detailed exploration of working software characteristics, best practices, or metrics for assessing software quality.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making within Scrum teams, particularly the role of developers in deciding what work to undertake and the implications of technical debt. However, the primary focus is on Scrum practices rather than structured decision-making methodologies.",
+    "calculated_at": "2025-03-14T21:22:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses decision-making within the context of Scrum, particularly highlighting the autonomy of Developers in choosing their work and the importance of collaborative decision-making. However, while it touches on these aspects, the primary focus is on dispelling myths about micromanagement rather than providing a structured, evidence-based approach to decision-making. The depth of discussion on decision-making principles is moderate, but it lacks comprehensive exploration of frameworks or empirical evidence, which affects the overall alignment with the category.",
     "level": "Tertiary"
   },
   "Self Organisation": {
@@ -181,11 +190,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:21:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the misconceptions surrounding Scrum and how traditional top-down management approaches hinder Agile practices, indicating a significant focus on organisational culture's impact on Agile adoption.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the misapplication of Scrum principles and the importance of autonomy and trust within teams, which are cultural elements that influence Agile practices. However, while it touches on aspects of organisational culture, such as leadership's role in fostering an environment free from micromanagement, the primary focus remains on Scrum practices rather than a comprehensive exploration of organisational culture itself.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
@@ -208,12 +220,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of developers making decisions about their work in Scrum, which touches on transparency in roles and responsibilities. However, the primary focus is on the myth of micromanagement and control in Scrum rather than a comprehensive discussion on transparency itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of fostering open dialogue and trust within Scrum teams, which aligns with the principles of transparency. However, the primary focus is on dispelling the myth of micromanagement rather than a comprehensive exploration of transparency itself. While it mentions transparency in the context of decision-making and collaboration, it does not delve deeply into tools or practices that facilitate visibility of work, which limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -391,12 +406,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the principles of self-organisation and the role of developers in decision-making within Scrum, which aligns with Agile values. However, it primarily focuses on Scrum practices and misconceptions rather than a broader discussion of Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 40,
+    "final_score": 69.0,
+    "reasoning": "The content discusses the myth of micromanagement in Scrum, which indirectly relates to Agile values such as autonomy and collaboration. However, it primarily focuses on Scrum practices rather than the underlying Agile principles. While it touches on the importance of empowering developers and fostering open dialogue, the discussion is more about Scrum as a framework than a deep exploration of Agile values and principles. Therefore, while there is some alignment, the depth and direct mentions of Agile principles are limited.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -418,12 +436,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of Scrum, particularly in relation to decision-making and collaboration with developers. However, it primarily focuses on misconceptions about Scrum and the dynamics between roles rather than the specific responsibilities and practices of the Product Owner.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum principles and the role of Developers, but it only briefly mentions the Product Owner in the context of collaboration and stakeholder engagement. The primary focus is on micromanagement and Scrum practices rather than the specific responsibilities and strategies of a Product Owner.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -445,12 +466,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the importance of developer autonomy in decision-making, which relates to empirical process control. However, it primarily focuses on myths and misconceptions rather than a thorough exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the principles of Scrum and the importance of autonomy and decision-making based on empirical evidence, which aligns with the core themes of empirical process control. However, while it touches on these concepts, it primarily focuses on dispelling the myth of micromanagement rather than providing a comprehensive exploration of empirical process control itself. The discussion lacks depth in terms of specific techniques or case studies related to empirical process control, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -616,12 +640,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum principles and the misconceptions surrounding them, highlighting the importance of developer autonomy and the challenges organisations face in adopting Agile methodologies. While it touches on Agile concepts, the primary focus is on Scrum practices rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:21:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the misapplication of Scrum principles and the importance of autonomy and collaboration, which aligns with Agile Strategy themes. However, it primarily focuses on Scrum practices rather than broader strategic implications, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -652,21 +679,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:22:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the misconceptions surrounding Scrum and the importance of understanding the roles of developers in decision-making, which touches on sensemaking in organisational contexts. However, the primary focus is on Scrum practices rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and micromanagement, focusing on the misapplication of Scrum principles rather than exploring sensemaking in complex environments. While it touches on decision-making and team dynamics, it lacks a direct focus on sensemaking frameworks or the interpretation of complexity, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:22:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of developer autonomy and the impact of leadership styles on team dynamics within the context of Scrum, making team motivation a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of autonomy, collaboration, and trust within Scrum teams, which aligns with key themes of team motivation. However, while it touches on these aspects, the primary focus is on dispelling the myth of micromanagement rather than providing in-depth strategies for enhancing team motivation. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -751,21 +784,27 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles and responsibilities within Scrum, particularly focusing on the autonomy of developers and the importance of trust in their expertise, which relates to the values of respect and openness. However, the primary focus is on misconceptions about Scrum rather than a direct discussion of Scrum Values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:21:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the myth of micromanagement in Scrum and highlights the importance of autonomy, collaboration, and trust, which align with Scrum Values. However, while it touches on these values, the primary focus is on dispelling a myth rather than a direct exploration of the Scrum Values themselves. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:21:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organisations face in adopting Scrum and Agile methodologies, highlighting the need for a cultural shift in how teams are managed. However, the primary focus is on Scrum roles and practices rather than broader organisational change strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its misapplication within organisations, touching on themes of empowerment and autonomy, which are relevant to organisational change. However, it primarily focuses on Scrum practices and micromanagement rather than broader organisational change strategies or frameworks. The discussion lacks depth in terms of methodologies for implementing change or the role of leadership, which are critical to the category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -778,21 +817,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T08:40:32",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Scrum principles, particularly the roles of developers and the Product Owner, and critiques common misconceptions about Scrum practices. However, it primarily focuses on the myth of micromanagement rather than a comprehensive exploration of Scrum product development.",
+    "calculated_at": "2025-03-14T14:59:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses Scrum principles, particularly the autonomy of Developers and the importance of collaboration, which aligns with Scrum practices. However, it primarily focuses on dispelling a myth rather than providing a comprehensive exploration of Scrum product development, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the role of developers in decision-making, which relates to operational efficiency in Agile. However, it primarily focuses on myths and perspectives rather than concrete operational strategies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:21:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the misapplication of Scrum principles and the importance of autonomy and collaboration within Agile teams, which aligns with operational practices. However, it primarily focuses on dispelling a myth rather than providing concrete techniques or strategies for improving operational efficiency, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -823,12 +868,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the role of the Scrum Master in the context of Scrum practices and team dynamics, but primarily focuses on misconceptions about Scrum rather than the Scrum Master's responsibilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:21:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Scrum in relation to micromanagement, highlighting the importance of autonomy for Developers and the misapplication of Scrum principles. It aligns well with the responsibilities of a Scrum Master in fostering team empowerment and collaboration. However, while it touches on key themes relevant to the Scrum Master role, it does not delve deeply into specific Scrum Master practices or techniques, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -850,11 +898,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T08:40:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:20:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Scrum and the role of developers in decision-making, which aligns with technical leadership in guiding teams and managing technical debt.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the micromanagement myth in Scrum and emphasises the importance of empowering developers, fostering collaboration, and understanding Scrum principles. While it touches on aspects of technical leadership, such as autonomy and trust, it primarily focuses on dispelling a myth rather than providing in-depth strategies or practices related to technical leadership. The discussion lacks a comprehensive exploration of mentoring, coaching, or specific agile methodologies, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -877,21 +928,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T08:40:52",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Scrum principles and the importance of developer autonomy in Sprint planning, which aligns with Agile Planning concepts. However, it primarily critiques misconceptions about Scrum rather than focusing on Agile Planning methodologies and practices.",
+    "calculated_at": "2025-03-14T21:21:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum principles and the importance of autonomy and collaboration within Agile teams, which aligns well with Agile Planning. It addresses the misapplication of Scrum and the need for effective planning and decision-making processes, reflecting key themes of Agile Planning. However, while it provides substantial insights, it primarily focuses on dispelling a myth rather than offering a comprehensive exploration of Agile Planning methodologies, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:21:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles and responsibilities of developers in Scrum, highlighting the importance of ownership and decision-making within the team. However, it primarily focuses on the misconceptions of Scrum rather than a direct exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of autonomy and trust within Scrum teams, which aligns with the principles of accountability. However, it primarily focuses on dispelling the myth of micromanagement rather than directly addressing accountability as a core theme. While it touches on aspects of team dynamics and ownership, the depth of discussion on accountability itself is limited.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -931,21 +988,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T08:41:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:21:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities within a Scrum Team, particularly focusing on the dynamics between developers, the Product Owner, and the Scrum Master, as well as the importance of self-organisation and trust in decision-making.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the roles of Developers and the importance of autonomy and collaboration within a Scrum Team, addressing key dynamics that contribute to team effectiveness. It explores the misapplication of Scrum principles and emphasises trust and open dialogue, which are crucial for high-performing teams. The depth of discussion on these topics is substantial, making it highly relevant to the Scrum Team category.",
     "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:22:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of developers in Scrum and touches on technical debt, which are relevant to technical mastery, but the primary focus is on Scrum practices and team dynamics rather than software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and its principles, particularly focusing on the misapplication of Scrum leading to micromanagement. While it touches on the importance of Developer autonomy and technical debt, the primary focus is on Agile practices rather than deep technical mastery or software craftsmanship. The discussion lacks detailed exploration of software design, architecture, or specific engineering practices, which are central to the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -976,12 +1039,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the misconceptions surrounding Scrum and the importance of developer autonomy, which relates to Agile principles. However, it primarily focuses on Scrum as a framework rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the myth of micromanagement in Scrum, which indirectly touches on Agile principles such as autonomy, collaboration, and trust. While it primarily focuses on Scrum as a framework, it also highlights the importance of understanding Agile philosophy to avoid misapplication. The discussion is detailed and provides insights into how to foster a true Agile environment, aligning well with the core themes of Agile philosophy, but it does not explicitly reference the Agile Manifesto or its principles.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1048,21 +1114,27 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making processes within Scrum, particularly regarding who should make decisions about work in a Sprint. While it primarily focuses on Scrum roles and events, it touches on the importance of informed decision-making and the risks associated with technical debt, which aligns with decision theory principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:21:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses decision-making within the context of Scrum, particularly regarding the autonomy of Developers in choosing their work. However, it primarily focuses on Scrum practices and the myth of micromanagement rather than exploring broader decision theory concepts such as heuristics, biases, or frameworks. The mention of decision-making is present but not a primary focus, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organisations face in adopting Scrum and Agile principles, highlighting the need for a cultural shift towards trusting developers and decentralising decision-making. While it primarily focuses on Scrum practices, it touches on broader organisational implications and readiness for Agile, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:21:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the myth of micromanagement, which are team-level discussions rather than addressing enterprise-level agility. While it touches on themes of empowerment and collaboration, it lacks a broader organisational context and does not discuss frameworks, structures, or leadership roles that support enterprise agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1093,12 +1165,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:21:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of developers in Scrum and touches on technical debt, which relates to code quality and complexity. However, the primary focus is on Scrum practices rather than a deep exploration of code and complexity principles.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and micromanagement, which are not directly related to code quality or complexity. While it briefly touches on the role of Developers and mentions technical debt, these points are secondary to the main focus on Scrum practices and Agile principles. The discussion lacks depth in exploring the relationship between code quality and complexity, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1120,12 +1195,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:22:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its implementation in the context of product delivery, highlighting the roles of developers and the Product Owner, but it primarily critiques misconceptions rather than focusing on broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum, a key Agile methodology, and its implications for product delivery, particularly in relation to micromanagement. It aligns with the category by addressing the importance of autonomy, collaboration, and trust within teams, which are essential for effective product delivery. However, while it touches on relevant themes, the focus is more on dispelling myths rather than providing a comprehensive exploration of product delivery methodologies, which slightly limits its depth and overall alignment.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1168,11 +1246,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and the roles of developers and Product Owners, which relates to Agile methodologies. However, it primarily critiques misconceptions about Scrum rather than focusing on practical techniques or tooling.",
+    "calculated_at": "2025-03-14T21:21:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum principles and the myth of micromanagement, which touches on Agile practices. However, it lacks a direct focus on specific tools or methodologies that enhance Agile and DevOps practices. While it mentions the importance of autonomy and collaboration, it does not provide practical techniques or tooling insights, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1231,12 +1312,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and the challenges organisations face in adopting Agile principles, which relates to business agility. However, the primary focus is on Scrum roles and misconceptions rather than a comprehensive exploration of business agility principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, particularly in relation to micromanagement. While it touches on themes of empowerment and collaboration, which are relevant to business agility, the focus remains on Scrum as a framework rather than a broader exploration of business agility principles. The discussion lacks depth in terms of organisational adaptability and innovation strategies, which are central to the business agility category.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1249,39 +1333,51 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:21:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum principles and the role of developers in decision-making, which relates to value delivery, but it primarily focuses on misconceptions about Scrum rather than strategies for delivering value.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the misapplication of Scrum principles and the importance of autonomy and collaboration in delivering value, which aligns with the core themes of value delivery. However, it primarily focuses on dispelling a myth rather than providing a comprehensive strategy for value delivery, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:22:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of developers in decision-making and the implications of technical debt, which are relevant to technical excellence. However, the primary focus is on Scrum and Agile practices rather than specific engineering methodologies or practices that enhance technical excellence.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and its misapplication, focusing on team dynamics and Agile principles rather than technical practices or methodologies that enhance engineering excellence. While it touches on the importance of Developer autonomy and managing technical debt, these points are secondary to the broader discussion of micromanagement and Agile philosophy, which does not align closely with the core themes of Technical Excellence.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and the misconceptions surrounding its implementation in organisations, highlighting the need for a cultural shift towards Agile principles. However, the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:22:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum and its principles, particularly in relation to micromanagement, which touches on organisational agility. However, it primarily focuses on dispelling myths about Scrum rather than exploring broader strategies or frameworks for enhancing organisational agility. While it mentions the importance of autonomy and collaboration, it lacks a comprehensive exploration of agility as a cultural and structural shift within organisations.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:22:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal insights and reflections on the misconceptions surrounding Scrum and the challenges faced by developers in Agile environments, but it primarily focuses on technical aspects and critiques of Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the myth of micromanagement in Scrum, which is relevant to personal experiences and reflections on Agile practices. However, it primarily focuses on technical aspects and general principles of Scrum rather than personal anecdotes or insights. While there are mentions of empowering developers and fostering trust, the depth of personal reflection is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1363,7 +1459,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T11:56:24",
+    "calculated_at": "2025-03-14T21:21:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1371,7 +1467,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of developers in decision-making within Scrum, which touches on leadership dynamics but primarily focuses on Scrum practices and the myth of micromanagement. While it mentions the importance of trusting technical experts, it lacks a broader discussion on leadership strategies, team dynamics, or cultural change, which are central to the Leadership category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

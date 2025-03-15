@@ -199,7 +199,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-10T13:25:46",
+    "calculated_at": "2025-03-15T07:48:42",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
@@ -207,7 +207,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a personal experience at a developer event, discussing specific technologies like .NET Framework 3.0 and Windows Workflow Foundation. While it provides insights into the session and the speaker's expertise, it lacks broader industry news or reviews that would typically characterise the 'News and Reviews' category. The discussion is more anecdotal and does not delve into trends or evaluations relevant to Agile or DevOps, which diminishes its alignment with the category's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -304,7 +304,7 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-10T19:06:18",
+    "calculated_at": "2025-03-15T07:48:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -312,7 +312,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a specific event related to .NET Framework 3.0 and the insights gained from it. While there are mentions of learning and understanding new concepts, such as CardSpace and Windows Workflow Foundation, the discussion lacks a broader exploration of methodologies or processes that foster innovation and continuous learning. The content does not delve into techniques for fostering a culture of innovation or the significance of learning from failures and successes, which are key themes in the 'Discovery and Learning' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -379,7 +379,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T15:21:17",
+    "calculated_at": "2025-03-15T07:48:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -387,7 +387,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily discusses a .NET Framework event and its features, with only brief mentions of Windows-related technologies like Windows Workflow Foundation and Windows Communication Foundation. While there is some conceptual alignment with Windows as it relates to .NET development, the focus is not on the Windows operating system itself, but rather on the .NET framework and its components. The depth of discussion on Windows is limited, as it does not cover installation, configuration, or troubleshooting of the Windows OS, which are key topics in the Windows category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -517,7 +517,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T12:18:18",
+    "calculated_at": "2025-03-15T07:48:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -525,7 +525,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions attending a session and learning about .NET Framework, which aligns with the concept of continuous learning. However, it primarily focuses on specific technologies and personal experiences rather than discussing broader principles of continuous learning, such as growth mindset or knowledge sharing within teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -538,11 +538,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a developer event focused on .NET Framework 3.0, with mentions of technical aspects like CardSpace and Windows Workflow Foundation, indicating a major, but not exclusive, focus on software development topics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a session on .NET Framework 3.0, which is relevant to software development, particularly in the context of specific technologies like CardSpace and Windows Workflow Foundation. However, the focus is more on personal experiences and opinions rather than a structured discussion of software development methodologies or practices. While there are mentions of development tools and concepts, the depth of technical discussion is limited, and the primary focus is on the event rather than software engineering principles.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -718,7 +721,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T17:10:37",
+    "calculated_at": "2025-03-15T07:48:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -726,7 +729,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily recounts an event attended by the author, focusing on the insights gained from a session about .NET Framework 3.0. While it touches on specific technical topics like CardSpace and Windows Workflow Foundation, the discussion lacks depth in software craftsmanship principles and best practices. The mention of technical concepts is present but not the primary focus, leading to a lower confidence score in alignment with the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -946,7 +949,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:53:29",
+    "calculated_at": "2025-03-15T07:48:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -954,7 +957,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses a specific event related to .NET development, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about personal experiences and specific technologies rather than broader practices or principles that enhance productivity and collaboration in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",

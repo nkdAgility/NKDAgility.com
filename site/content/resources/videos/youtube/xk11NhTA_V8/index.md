@@ -26,7 +26,11 @@ duration: 72
 isShort: false
 tags:
 - Agile Leadership
+- Agile Project Management
+- Team Motivation
+- Team Performance
 - Agile Philosophy
+- Organisational Culture
 - People and Process
 sitemap:
   filename: sitemap.xml

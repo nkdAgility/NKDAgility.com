@@ -26,11 +26,16 @@ preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false
 tags:
+- Agile Project Management
+- Team Motivation
+- Agile Strategy
+- Software Development
+- Organisational Agility
 - Strategy
 - Agile Leadership
 - Agile Product Management
 - People and Process
-- Agile Philosophy
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

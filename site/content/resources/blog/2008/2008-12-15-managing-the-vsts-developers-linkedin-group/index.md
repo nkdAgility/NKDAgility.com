@@ -26,9 +26,7 @@ aliasesArchive:
 - /managing-the-“vsts-developers”-linkedin-group-
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/blog/managing-the-vsts-developers-linkedin-group
-tags:
-- Team Collaboration
-- Miscellaneous
+tags: []
 categories: []
 
 ---

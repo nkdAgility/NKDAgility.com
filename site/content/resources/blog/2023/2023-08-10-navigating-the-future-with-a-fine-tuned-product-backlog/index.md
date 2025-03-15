@@ -8,7 +8,7 @@ ResourceImportId: 49510
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-10
-weight: 775
+weight: 720
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,11 +29,11 @@ tags:
 - Backlog Refinement
 - Scrum Product Development
 - Product Backlog
+- Agile Planning
 - Agile Project Management
 - Product Delivery
 - Product Owner
 - Value Delivery
-- Software Development
 categories:
 - Scrum
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg

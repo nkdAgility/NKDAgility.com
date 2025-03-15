@@ -136,12 +136,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of Sprint Work and Refinement in Scrum, which are essential for delivering functional software. However, it primarily focuses on Scrum processes rather than directly on the delivery of working software itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the roles and processes within a Scrum team, focusing on Sprint Work and Refinement. While it touches on aspects of working software, such as delivering value and preparing for future work, it lacks a direct emphasis on the characteristics of working software itself. The discussion is more about Scrum processes than the delivery of functional software that meets customer needs, which is central to the 'Working Software' category.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -154,12 +157,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum team operations and the balance between Sprint work and Refinement, which are relevant to self-organisation principles. However, the primary focus is on managing these processes rather than explicitly exploring self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the operational aspects of Scrum, specifically the balance between Sprint Work and Refinement. While it touches on the importance of managing these tasks effectively, it lacks a direct discussion on self-organisation principles or techniques. The alignment with self-organisation is moderate, as it implies a need for team autonomy in managing their work, but does not delve into fostering a culture of trust or empowerment. The depth of discussion is limited to practical strategies without exploring the broader implications of self-organisation in Agile methodologies.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -208,12 +214,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of visualising work in Scrum, which relates to transparency, but primarily focuses on the balance between Sprint Work and Refinement.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of visualising work in Scrum, particularly through tools like Azure DevOps, which promotes transparency in tracking Sprint and Refinement work. However, while it touches on transparency, the primary focus is on the balance between different types of work rather than a comprehensive exploration of transparency itself. The discussion lacks depth in addressing the broader implications of transparency in Agile processes.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -253,12 +262,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between Sprint Work and Refinement within a Scrum Team, which relates to strategic planning and execution in Agile environments. However, the primary focus is on operational aspects rather than overarching strategic alignment or development.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the strategic management of Sprint and Refinement work within a Scrum team, discussing how to balance these two types of work to optimise team performance and enhance delivery processes. It provides detailed insights into the roles of each work type and their impact on product development, aligning well with the core themes of strategic alignment and continuous improvement in Agile environments. The depth of discussion is substantial, offering practical strategies and visualisation techniques, although it could further elaborate on metrics and KPIs for a more comprehensive strategic approach.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -379,11 +391,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:11",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps in the context of Scrum team operations, specifically mentioning its use for visualising Sprint Work and Refinement. However, the primary focus is on Scrum principles rather than Azure Pipelines specifically.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses Scrum roles and processes, focusing on Sprint work and Refinement. While it briefly mentions Azure DevOps as a tool for visualising work, it does not delve into Azure Pipelines or CI/CD practices, which are central to the category. The mention of Azure DevOps is secondary and does not provide substantial detail on Azure Pipelines specifically.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -442,12 +457,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum team dynamics and the balance between Sprint Work and Refinement, which are relevant to empirical process control principles. However, it primarily focuses on the operational aspects of Scrum rather than explicitly addressing empirical process control as a central theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum practices, particularly the balance between Sprint Work and Refinement, which aligns with empirical process control principles. However, it lacks explicit discussions on transparency, inspection, and adaptation, which are core themes of the category. The depth of discussion on managing work types provides some insight into empirical processes but does not fully explore the theoretical foundations or case studies related to empirical process control.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -577,11 +595,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T18:17:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:01:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for managing Sprint and Refinement work within a Scrum team, emphasising real-world applications and techniques for navigating complexity in Agile project management.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the practical aspects of managing Sprint and Refinement work within a Scrum team, which aligns well with pragmatic thinking. It provides clear strategies for balancing these types of work and highlights the importance of visualisation tools like Azure DevOps to enhance efficiency. However, while it touches on practical problem-solving, the depth of discussion on broader Agile principles and real-world applications could be expanded for a higher confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -595,11 +616,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T18:17:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:22:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, focusing on the balance between Sprint Work and Refinement, which are key aspects of Agile Project Management.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Scrum roles and processes, particularly focusing on Sprint Work and Refinement, which are core aspects of Agile Project Management. It provides detailed insights into how these elements interact and contribute to project success, aligning well with agile principles. The depth of discussion on balancing these types of work and the use of tools like Azure DevOps for visualisation further supports its strong alignment with the category.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -613,12 +637,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum roles and processes, which are related to Agile methodologies, but it primarily focuses on the technical aspects of managing Sprint and Refinement work rather than the broader strategic implications of Agile principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint Work and Refinement, which are tactical aspects of Agile methodologies. While it touches on the importance of managing these processes for team success, it lacks a broader discussion on Agile strategy, such as organisational vision alignment or long-term adaptability. The mention of Agile principles is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -640,11 +667,14 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of Refinement, which is related to preparing backlog items for readiness, but it primarily focuses on the balance between Sprint Work and Refinement rather than establishing a clear Definition of Ready.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of Refinement in preparing backlog items for Sprint Work, which indirectly relates to the Definition of Ready. However, it lacks explicit criteria or detailed exploration of the DoR itself, focusing more on the balance between Sprint Work and Refinement rather than establishing a clear Definition of Ready.",
     "level": "Tertiary"
   },
   "Sensemaking": {
@@ -667,11 +697,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-11T18:17:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:11:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the balance between Sprint Work and Refinement within a Scrum Team, focusing on strategies for effective team operations and productivity, which aligns well with the category of Team Performance.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the dynamics of a Scrum team, specifically discussing the balance between Sprint work and Refinement, which directly relates to team performance and collaboration. It provides detailed strategies for managing these types of work, emphasising the importance of visualisation tools like Azure DevOps to enhance team efficiency. The discussion aligns well with key topics in the Team Performance category, such as Agile ceremonies and continuous improvement practices. However, while it covers relevant aspects, it could delve deeper into metrics for measuring team performance and the role of leadership in supporting high-performing teams.",
     "level": "Secondary"
   },
   "AI": {
@@ -721,12 +754,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Scrum roles and processes, which are integral to Agile methodologies, but does not focus on broader Agile transformation strategies or cultural shifts.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint Work and Refinement. While it discusses Scrum in detail, it does not explicitly address broader Agile transformation strategies or cultural shifts. The mention of Agile principles is minimal, and the depth of discussion is centred on operational aspects rather than transformational leadership or change management.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -766,29 +802,38 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T18:17:38",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T22:11:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the roles and processes within a Scrum team, focusing on Sprint work and Refinement, which are central to Scrum product development.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the roles of Sprint Work and Refinement within a Scrum Team, highlighting their importance in product development. It provides detailed insights into how these processes contribute to managing the Product Backlog and ensuring effective workflow, which aligns closely with Scrum principles. The depth of discussion on balancing these types of work and the use of tools like Azure DevOps for visualisation further supports its strong alignment with the category.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-11T18:17:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:11:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the balance between Sprint Work and Refinement within a Scrum Team, which relates to operational efficiency in Agile practices. However, it focuses more on Scrum roles and events rather than broader operational strategies or techniques.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the operational aspects of Scrum, focusing on balancing Sprint work and Refinement, which are essential for enhancing operational efficiency within Agile frameworks. It provides practical strategies for managing these processes and highlights the importance of visualisation tools like Azure DevOps. However, while it touches on operational practices, the depth of discussion on broader operational efficiency techniques and metrics is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-11T18:17:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:11:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of Refinement within the context of Scrum, detailing its importance, activities involved, and how it relates to Sprint work. It provides insights into managing and visualising Refinement, which aligns closely with the category's focus.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the concept of Refinement within the context of Scrum, detailing its importance in preparing the Product Backlog for future Sprint Work. It aligns well with the core themes of Backlog Refinement, such as the need for clarity and readiness of backlog items. The depth of discussion includes techniques for visualising refinement work and balancing it with Sprint work, which adds to its relevance. However, while it covers the topic well, it does not delve deeply into specific techniques for prioritisation or user story definition, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -802,11 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T18:17:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:11:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the dynamics of Scrum team operations, focusing on Sprint work and Refinement, which are essential aspects of a Scrum Master's role in facilitating team processes and ensuring effective collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the roles of Sprint Work and Refinement within a Scrum Team, which are relevant to the Scrum Master’s responsibilities. However, it lacks explicit mention of the Scrum Master role and does not delve deeply into coaching, facilitation, or team dynamics, which are critical aspects of the Scrum Master’s function. The focus is more on the work types rather than the Scrum Master’s contributions to managing these processes.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -829,11 +877,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum team dynamics and the balance between Sprint work and Refinement, which are relevant to technical leadership in agile environments. However, it primarily focuses on Scrum processes rather than broader technical leadership principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on Scrum processes, specifically Sprint Work and Refinement, which are important aspects of agile methodologies. However, it lacks a direct discussion on technical leadership principles, such as mentoring, servant leadership, or team dynamics. While it touches on the importance of managing work within a Scrum framework, it does not delve into how a technical leader can influence these processes or foster collaboration among team members. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -856,11 +907,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T18:17:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:12:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the balance between Sprint Work and Refinement within a Scrum Team, which aligns closely with Agile Planning principles, including iterative planning and the importance of managing the Product Backlog.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies, specifically discussing Sprint work and Refinement, which are integral to Agile Planning. It provides a detailed analysis of how these elements interact and contribute to effective project delivery, aligning well with Agile principles. The depth of discussion on balancing these types of work and the emphasis on visualisation tools like Azure DevOps further supports its relevance to Agile Planning.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -883,11 +937,14 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Azure DevOps as a tool for visualising and managing Scrum team work, which aligns with collaboration tools. However, the primary focus is on Scrum roles and processes rather than collaboration tools themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on Scrum roles and processes, discussing Sprint Work and Refinement in detail. While it mentions Azure DevOps as a tool for visualising work, the overall emphasis is on Scrum methodology rather than on collaboration tools themselves. The mention of Azure DevOps is brief and does not explore its features or integration with Agile principles in depth, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -910,11 +967,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T18:18:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:12:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the roles and dynamics of a Scrum Team, focusing on Sprint work and Refinement, which are central to Scrum operations.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the roles and dynamics of a Scrum Team, focusing on the balance between Sprint Work and Refinement. It provides detailed insights into how these two types of work contribute to the team's effectiveness, aligning well with the core themes of collaboration and communication within a Scrum framework. The depth of discussion on visualisation techniques and the importance of managing these work types further supports a high confidence score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -973,12 +1033,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between Sprint Work and Refinement within a Scrum Team, which relates to Agile planning. However, it primarily focuses on Scrum roles and processes rather than specific Agile Planning Tools.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the roles of Sprint Work and Refinement within a Scrum Team, which are important aspects of Agile methodologies. However, while it mentions Azure DevOps as a tool for visualising work, the focus is more on the processes rather than on Agile Planning Tools themselves. The discussion lacks depth on specific Agile planning tools and their functionalities, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1081,11 +1144,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between Sprint Work and Refinement, which relates to managing workflow efficiency in a Scrum context. However, the primary focus is on Scrum roles and processes rather than directly optimising flow efficiency.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the balance between Sprint Work and Refinement, which relates to optimising workflow and managing work in progress. However, it primarily focuses on Scrum practices rather than directly addressing flow efficiency principles or techniques for eliminating bottlenecks. While it mentions visualisation and efficiency, the depth of discussion on flow efficiency metrics and strategies is limited.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -1207,12 +1273,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:09",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum team operations and mentions Azure DevOps as a tool for visualising work, but the primary focus is on Scrum methodologies rather than Azure DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses Scrum methodologies and practices, with Azure DevOps mentioned as a tool for visualising work. While it does touch on Azure DevOps functionalities, the main focus is on Scrum concepts rather than Azure DevOps itself. The mention of Azure DevOps is relevant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1375,11 +1444,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:12:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Scrum roles and events, focusing on Sprint work and Refinement, which are components of Agile methodologies. However, it does not explicitly address the broader Agile Product Operating Model or its principles, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the balance between Sprint Work and Refinement, which are important aspects of Agile methodologies. However, it lacks a broader discussion on the Agile Product Operating Model as a whole, such as product-centric development principles or strategies for maximising value delivery. While it touches on Agile concepts, it does not delve deeply into the holistic approach required for the Agile Product Operating Model, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Beta Codex": {

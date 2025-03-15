@@ -24,6 +24,7 @@ preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
+- Software Development
 - Technical Debt
 - Product Delivery
 - Value Delivery

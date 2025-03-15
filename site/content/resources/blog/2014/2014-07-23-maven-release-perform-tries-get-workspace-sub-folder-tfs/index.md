@@ -30,10 +30,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Install and Configuration
-- System Configuration
-- Release Management
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-2-2.png

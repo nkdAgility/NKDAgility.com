@@ -25,13 +25,16 @@ preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
 tags:
-- Discovery and Learning
-- Metrics and Learning
-- Agile Values and Principles
-- Decision Making
 - Experimentation
-- Agile Project Management
-- Agile Planning
+- Empirical Process Control
+- Evidence Based Leadership
+- Decision Making
+- Metrics and Learning
+- Discovery and Learning
+- Pragmatic Thinking
+- Agile Philosophy
+- Agile Values and Principles
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

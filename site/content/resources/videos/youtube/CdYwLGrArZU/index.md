@@ -29,9 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Product Owner
 - People and Process
+- Agile Product Management
 - Agile Project Management
 resourceTypes:
 - video

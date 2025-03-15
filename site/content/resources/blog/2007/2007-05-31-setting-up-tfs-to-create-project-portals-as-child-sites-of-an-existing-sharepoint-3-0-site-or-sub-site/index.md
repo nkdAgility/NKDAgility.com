@@ -28,8 +28,6 @@ aliasesArchive:
 - /resources/blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
 categories: []
 
 ---

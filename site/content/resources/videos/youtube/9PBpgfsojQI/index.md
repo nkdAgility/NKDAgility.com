@@ -31,14 +31,14 @@ sitemap:
 tags:
 - People and Process
 - Strategy
-- Product Owner
-- Agile Product Operating Model
-- Agile Project Management
-- Agile Product Management
-- Product Strategy
 - Pragmatic Thinking
-- Software Development
-- Product Delivery
+- Scrum Product Development
+- Agile Product Operating Model
+- Agile Product Management
+- Agile Frameworks
+- Agile Strategy
+- Operational Practices
+- Product Strategy
 resourceTypes:
 - video
 categories:

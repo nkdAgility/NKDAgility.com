@@ -35,11 +35,13 @@ tags:
 - Agile Project Management
 - Scrum Master
 - Technical Leadership
+- Agile Philosophy
+- Agile Transformation
 - Team Performance
 - Pragmatic Thinking
+- Agile Values and Principles
 - People and Process
-- Coaching
-- Scrum Team
+- Continuous Learning
 resourceTypes:
 - video
 categories:

@@ -157,11 +157,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:42",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a demo at NDC London, which relates to an event, but the primary focus is on creating a Build vNext definition rather than discussing the event itself.",
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions a demo at NDC London, which is an event, but the primary focus is on creating a build definition in VSO. While it touches on an event, the overall discussion is more about technical implementation rather than insights or experiences from the event itself. Therefore, it aligns partially with the category but lacks depth and a strong focus on event-related content.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -280,12 +283,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the features and configuration of the Build vNext system in TFS and VSO, which relates to software products but lacks a focus on reviews or analyses of literature or tools pertinent to Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a build definition in Microsoft's vNext build system, which is a tool rather than a product review or discussion of literature. While it does mention the product (TFS 2015) and its features, it lacks a broader discussion or analysis that aligns with the key topics of the 'Products and Books' category. The depth of discussion is significant in terms of technical detail, but it does not provide insights or recommendations that would typically be expected in a review or analysis context.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -355,12 +361,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:02:01",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the new Build vNext system announced by Microsoft, providing updates and insights into its features and functionalities, which aligns with industry news. However, it primarily focuses on a technical tutorial rather than a review or broader industry analysis.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on a technical tutorial for creating a build definition in VSO, which is more instructional than evaluative. While it mentions recent developments in Microsoft's build system, the depth of discussion is largely practical and lacks a broader analysis of trends or reviews that would typically characterise the 'News and Reviews' category. The mention of the Connect event and the new build system indicates some alignment with industry news, but the overall focus remains on how-to guidance rather than providing insights or evaluations.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -508,12 +517,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation and configuration of a Build vNext build definition, which relates to operational practices in DevOps. However, it primarily focuses on the specifics of the build system rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a build definition in the vNext build system, which is relevant to operational practices in a DevOps context. It discusses specific tasks, configurations, and options that can enhance the build process, aligning with the category's emphasis on improving operational efficiency. However, while it touches on practical applications, it lacks a broader discussion on strategies for continuous improvement or metrics for measuring operational efficiency, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -571,11 +583,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:02:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a build definition in a CI/CD context, including tasks related to running tests using the Visual Studio Test Runner, which is relevant to automated testing. However, the primary focus is on the build system and configuration rather than a comprehensive exploration of automated testing principles or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, with some mention of tasks related to testing (e.g., VSTest for running tests). However, the discussion lacks depth on automated testing principles, methodologies, or best practices, making it a secondary topic rather than a primary focus.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -646,11 +661,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T22:35:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:01:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in the context of a modern build system, which is closely related to version control practices, particularly with Git. It covers aspects of continuous integration and deployment, as well as the integration of source control with build processes.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext definition within the context of Team Foundation Server (TFS) and Visual Studio Online (VSO), which are modern source control and build systems. It explicitly mentions Git as the source repository and discusses continuous integration practices, which are key aspects of modern source control methodologies. The depth of discussion includes specific tasks, options, and configurations relevant to build definitions, indicating a strong focus on version control practices. Overall, the content aligns well with the category, providing detailed insights into modern source control systems and practices.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -709,12 +727,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:02:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a build definition and mentions Continuous Integration, which is related to frequent releases, but the primary focus is on the specifics of the build system rather than on the broader principles or practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the creation of a build definition in a new build system, which implies a focus on automation and potentially frequent releases. However, it lacks explicit discussions on continuous delivery principles, release frequency metrics, or strategies for user feedback integration. The mention of Continuous Integration (CI) is relevant but not deeply explored, leading to a low confidence score overall.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -811,11 +832,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical aspects of creating a build definition in a new system, touching on real-world applications and experiences in software development, but it primarily focuses on the technical setup rather than broader pragmatic thinking strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Build vNext definition in VSO, with some practical insights into the build process and configuration options. While it touches on real-world applications of DevOps principles, such as continuous integration and build management, it lacks a deeper exploration of pragmatic problem-solving strategies or adaptability in complex environments. The discussion is more technical than strategic, which limits its alignment with the core themes of Pragmatic Thinking.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -874,11 +898,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a build definition in a CI/CD context, including tasks related to running tests, which aligns with test automation principles. However, the primary focus is on the build system rather than test automation itself.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is related to CI/CD processes. While it briefly mentions running tests using the Visual Studio Test Runner, the overall discussion is more about build configurations and tasks rather than the principles or practices of test automation itself. Therefore, it does not fully align with the core themes of the Test Automation category.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -892,11 +919,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T22:36:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:01:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in a new build system, which is essential for delivering functional software. It touches on aspects of software quality, build processes, and continuous integration, aligning well with the principles of working software.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a build definition in the vNext build system, which is a part of the software development process. It discusses the features and configurations of the build system, which indirectly relates to working software by highlighting how to set up a functional build process. However, it lacks explicit discussions on user requirements, customer feedback, or the iterative development process, which are key themes of the 'Working Software' category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -910,11 +940,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T22:36:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:01:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext definition in the context of Continuous Integration, detailing various tasks, options, and triggers related to CI processes.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within the context of Continuous Integration, discussing various tasks, configurations, and the CI trigger. It aligns well with CI principles, detailing how to set up builds and manage them effectively. The depth of discussion is substantial, covering specific features and options available in the CI tool, which enhances the understanding of CI practices.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -982,11 +1015,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T22:36:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:01:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in a new build system, which is a key aspect of release management. It covers topics such as build tasks, continuous integration, and versioning, all of which are central to the release management process.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system, which is a crucial aspect of release management. It discusses various build tasks, configuration options, and the importance of continuous integration, all of which are relevant to release management practices. However, while it touches on these topics, it lacks a comprehensive exploration of broader release management strategies, such as risk management or coordination with stakeholders, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1009,21 +1045,27 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T22:36:50",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:01:24",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition in Azure DevOps, detailing various tasks, options, and features related to Azure Pipelines.",
+    "final_score": 83.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext definition within Azure DevOps, which is a core aspect of Azure Pipelines. It discusses the configuration of build agents, the use of various build tasks, and the integration with version control systems like Git and GitHub. The depth of discussion includes specific tasks available, configuration options, and the continuous integration trigger, all of which are directly relevant to Azure Pipelines. The content is focused on practical implementation and best practices, aligning well with the key topics outlined for the category.",
     "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a build definition and mentions Continuous Integration (CI) as a trigger, which relates to deployment frequency. However, the primary focus is on the build system and its features rather than on optimising deployment intervals or strategies for increasing deployment frequency.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, with some mention of Continuous Integration (CI) as a trigger. While it touches on aspects of build automation, it lacks a direct discussion on deployment frequency optimisation, strategies for increasing deployment frequency, or the impact of deployment frequency on Agile and DevOps practices. The depth of discussion is more about the technical setup rather than the strategic implications of deployment frequency.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1081,11 +1123,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T22:37:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:01:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, detailing the setup process, available tasks, and configuration options, which aligns closely with system configuration practices.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on creating and configuring a Build vNext definition within the context of Team Foundation Server (TFS) and Visual Studio Online (VSO). It discusses various configuration options, tasks, and settings that are essential for optimising the build process, which aligns well with the core themes of system configuration. The depth of discussion is substantial, covering specific tasks and options available in the build system, as well as considerations for performance and integration. However, while it is detailed, some sections may stray slightly into general software development practices, which could affect the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1135,21 +1180,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:02:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the creation of a Build vNext definition on VSO, which is related to Microsoft technologies and includes references to Windows Server and PowerShell. However, the primary focus is on build systems and configurations rather than directly on Windows operating system management or troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on creating a build definition using Team Foundation Server (TFS) and Visual Studio Online (VSO), which are closely tied to the Windows operating system environment. It discusses installation, configuration, and troubleshooting aspects of TFS 2015, which is a Windows-based application. The content includes specific references to Windows features, such as running Windows cmd scripts and PowerShell tasks, indicating a strong alignment with Windows-related topics. The depth of discussion is substantial, covering various build tasks and configurations, which further supports a high confidence score in the Windows category.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a build definition in a new build system, which is related to deployment processes, but it primarily focuses on the setup and configuration of build tasks rather than specific deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is more about the build process than deployment strategies. While it touches on aspects of continuous integration and mentions deployment tasks, it lacks a direct discussion of deployment methodologies such as Blue-Green Deployments or Canary Releases. The depth of discussion is limited to the configuration of build tasks rather than a comprehensive exploration of deployment strategies.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1189,11 +1240,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:02:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a Build vNext definition and mentions a specific issue encountered (PowerShell version mismatch) which indicates a troubleshooting aspect, but the primary focus is on the setup process rather than systematic problem-solving.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, with limited discussion on troubleshooting specific issues. While it mentions a PowerShell version mismatch as a problem encountered, the overall emphasis is on setup and configuration rather than systematic problem-solving or methodologies for diagnosing issues. Therefore, it does not align closely with the core themes of the Troubleshooting category.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1234,11 +1288,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T22:37:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:01:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is relevant to software developers working within Agile and DevOps frameworks. It covers tools and practices that enhance the software delivery process, aligning well with the category's focus.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within the context of Team Foundation Server (TFS) and Visual Studio Online (VSO), which directly relates to the role of software developers in implementing Continuous Integration (CI) practices. It discusses specific tasks, configurations, and the implications of using the new build system, aligning well with modern engineering practices. However, while it provides substantial detail on the build process, it lacks broader discussions on Agile methodologies or DevOps principles, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1252,12 +1309,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:02:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a build definition in a new build system, which relates to Continuous Integration practices. However, it primarily focuses on the specifics of the build system rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which relates to Continuous Integration (CI) practices. It discusses various build tasks and configurations, indicating an understanding of automation in the development process. However, while it touches on CI, it lacks a broader discussion on clean code, TDD, or other Agile engineering practices, which limits its alignment with the category. The depth of discussion is also somewhat superficial, primarily providing a walkthrough rather than a comprehensive exploration of engineering principles.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1315,11 +1375,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-14T22:37:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:01:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition within the context of Azure DevOps (formerly VSO), which is closely related to Azure Repos functionalities, particularly in terms of source control and CI/CD integration.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within the context of Azure DevOps (formerly VSO), which is closely related to Azure Repos. It discusses the integration of build definitions with source control, specifically mentioning Git as the source repository. The content aligns well with the core themes of Azure Repos, such as CI/CD processes and collaboration features. It provides detailed insights into the build system, including configuration options and available tasks, demonstrating a strong depth of discussion. However, it does not explicitly mention Azure Repos as a primary focus, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Forecasting": {

@@ -28,6 +28,10 @@ isShort: false
 tags:
 - Software Development
 - Software Developers
+- Operational Practices
+- Pragmatic Thinking
+- People and Process
+- Product Delivery
 - Value Delivery
 sitemap:
   filename: sitemap.xml

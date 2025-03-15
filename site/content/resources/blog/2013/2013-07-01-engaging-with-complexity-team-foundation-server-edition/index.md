@@ -29,8 +29,15 @@ aliasesArchive:
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
-- Windows
 - Install and Configuration
+- Software Development
+- System Configuration
+- Practical Techniques and Tooling
+- Pragmatic Thinking
+- Azure DevOps
+- Troubleshooting
+- Operational Practices
+- Code and Complexity
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png

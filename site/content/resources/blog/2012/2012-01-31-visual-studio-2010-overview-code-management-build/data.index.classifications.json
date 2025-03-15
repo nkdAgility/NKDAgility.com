@@ -40,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:31",
+    "ai_confidence": 47.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 10,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses branching, merging, and build strategies within the context of Visual Studio 2010, which relates to software development processes. However, it primarily focuses on tools and practices rather than a deep exploration of code quality and complexity theory.",
+    "final_score": 44.0,
+    "reasoning": "The content discusses branching, merging, and build strategies within the context of Visual Studio 2010, which relates to software development processes. However, while it touches on code management and quality, it lacks a deeper exploration of complexity theory or its implications on software architecture and design. The focus is more on practical tools and techniques rather than the theoretical aspects of code quality and complexity.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
@@ -76,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses build configuration and integration within Visual Studio 2010, which relates to installation and configuration processes, but it primarily focuses on branching and merging strategies rather than detailed installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the setup of build configurations and branching strategies within Visual Studio 2010, which aligns with installation and configuration processes. It provides insights into how these elements integrate within the software development cycle, indicating a focus on practical implementation. However, while it touches on configuration aspects, it lacks detailed step-by-step instructions or troubleshooting guidance, which limits its depth in the category.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -247,11 +253,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching, merging, and build processes within the context of Visual Studio 2010, which are relevant to product delivery practices, but the primary focus is on specific tools and features rather than the broader methodologies of product delivery.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses branching, merging, and build processes within the context of Visual Studio 2010, which are relevant to product delivery. However, while it touches on aspects of the software development cycle, it lacks a comprehensive exploration of methodologies, testing, and deployment strategies that are central to the Product Delivery category. The focus is more on tools and practices rather than the overarching principles of delivering software products effectively.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -292,12 +301,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of code management and build processes within Visual Studio 2010, which is related to Azure DevOps tools like Team Foundation Server. However, it primarily focuses on Visual Studio rather than Azure DevOps specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 and its features related to code management and build processes. While it touches on concepts relevant to Azure DevOps, such as branching, merging, and build configurations, it does not explicitly mention Azure DevOps or its specific services. The discussion is more focused on Visual Studio and Team Foundation Server (TFS), which are tools that can be part of the Azure DevOps ecosystem but do not directly address Azure DevOps as a suite. Therefore, the confidence score reflects a low alignment with the Azure DevOps category.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -406,12 +418,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses important aspects of branching, merging, and build processes, which are relevant to Continuous Delivery practices, but it primarily focuses on Visual Studio 2010 features rather than Continuous Delivery principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses branching, merging, and build processes within Visual Studio 2010, which are relevant to Continuous Delivery practices. However, it primarily focuses on specific tools and features rather than the broader principles and methodologies of Continuous Delivery. While there are mentions of integration and build configuration, the depth of discussion does not fully align with the core themes of Continuous Delivery, such as automation and deployment strategies.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -805,12 +820,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical strategies related to branching, merging, and build management within Visual Studio 2010, which can align with pragmatic approaches in software development. However, the primary focus is on Visual Studio tools rather than a broader discussion of Agile or Scrum methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses practical aspects of code management and build processes within Visual Studio 2010, touching on branching and merging strategies. However, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, which are central to the category of Pragmatic Thinking. While it does provide some practical insights, the discussion is more about tools and features rather than applying pragmatic problem-solving techniques in complex environments.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -886,12 +904,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:10:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses code management and build strategies, which are essential components for delivering quality software, but it primarily focuses on Visual Studio 2010 tools rather than on working software principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses branching, merging, and build processes within Visual Studio 2010, which are essential components of delivering working software. It provides insights into how these practices contribute to software quality and team collaboration. However, while it touches on relevant practices, it lacks a comprehensive exploration of how these elements directly relate to customer needs and iterative development, which are core themes of the 'Working Software' category.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -979,11 +1000,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses build configuration and branching & merging strategies, which are relevant to release management practices, but it primarily focuses on Visual Studio tools rather than release management as a central theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses branching, merging, and build processes, which are integral to release management. However, it lacks a comprehensive focus on the broader strategies and practices of release management, such as version control and risk management. While it touches on relevant topics, it does not delve deeply into the overall release management framework, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1006,12 +1030,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily focuses on build configuration and code management practices within Visual Studio 2010, which is related to Azure Pipelines but does not specifically discuss Azure Pipelines or CI/CD practices in Azure.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses build configurations and branching strategies within Visual Studio 2010, which are relevant to the software development lifecycle. However, it does not specifically mention Azure Pipelines or its features, focusing instead on Visual Studio and Team Foundation Server. While there is some alignment with CI/CD concepts, the primary focus is not on Azure Pipelines, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1033,12 +1060,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on team aspects when discussing build configurations and branching/merging strategies within Visual Studio, indicating its importance but primarily focuses on technical aspects of code management rather than collaboration dynamics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on code management and build processes within Visual Studio 2010, with some mention of team dynamics in the context of build configuration and branching strategies. However, it lacks a direct discussion on team collaboration techniques, shared ownership, or fostering a culture of trust, which are key themes in the Team Collaboration category. The depth of discussion on how these practices impact team performance is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1078,12 +1108,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses build configuration and integration with source control within Visual Studio 2010, which relates to system setup and configuration in a limited sense, making it a secondary but significant theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses code management and build processes within Visual Studio 2010, which are related to software development rather than system configuration. While there are mentions of build configuration and integration with source control, the focus is more on development practices and methodologies rather than the technical aspects of configuring systems for optimal performance and reliability. Therefore, the confidence score reflects a moderate alignment with the category, but it does not meet the criteria for a primary focus on system configuration.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1132,12 +1165,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio 2010, which is a software development tool associated with the Windows operating system. However, the primary focus is on code management and build practices rather than explicitly on Windows installation, configuration, or troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010, which is a development tool that runs on Windows, but it does not focus on the Windows operating system itself. While there are mentions of integration with source control and build configurations, the discussion lacks depth regarding Windows-specific installation, configuration, or troubleshooting. The content is more aligned with software development practices rather than the management of the Windows environment.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1186,12 +1222,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code management and build practices within Visual Studio, which could relate to troubleshooting in terms of understanding configuration and integration issues, but it primarily focuses on overview rather than direct problem identification and resolution.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on code management and build processes within Visual Studio 2010, discussing branching and merging strategies. While it touches on aspects of software development that could relate to troubleshooting, such as build configuration and integration with source control, it lacks a direct focus on diagnosing or resolving specific technical issues. The mention of a problem with video encoding is the only explicit reference to troubleshooting, but it is not explored in depth. Overall, the content does not align closely with the core themes of the Troubleshooting category.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1231,12 +1270,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:10:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses code management and build processes related to Visual Studio 2010, which are relevant to software development. However, it does not specifically address Agile or DevOps methodologies, making software development a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses branching, merging, and build strategies within the context of Visual Studio 2010, which are relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, which are central to the category. The depth of discussion on build configurations and integration with source control provides some insight into modern engineering practices, but it does not fully explore the role of software developers in Agile or DevOps contexts.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1249,12 +1291,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code management and build practices within Visual Studio, touching upon branching, merging, and build configuration, which are relevant to engineering practices, but is more focused on tools and specific processes than on broader engineering principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses branching, merging, and build strategies within the context of Visual Studio 2010, which are relevant to software engineering practices. However, it lacks a direct focus on Agile methodologies or principles such as clean code, TDD, or CI/CD. While it touches on important aspects of the software development cycle, the discussion is more about tools and features rather than the underlying engineering practices themselves.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1312,12 +1357,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching and merging practices, as well as build configurations within Visual Studio 2010, which are relevant to source control management. However, it primarily focuses on Visual Studio 2010 and Team Foundation Server (TFS) without directly emphasizing Azure Repos as the central topic.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses branching and merging strategies, which are relevant to source control management, but it primarily focuses on Visual Studio 2010 and Team Foundation Server (TFS) rather than Azure Repos specifically. While there are mentions of source control and build configurations, the discussion lacks depth in Azure Repos functionalities and best practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1420,7 +1468,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:46:27",
+    "calculated_at": "2025-03-15T06:10:03",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1428,6 +1476,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on code management and build processes within Visual Studio 2010, with no direct mention of Scrum principles, roles, events, or artifacts. While it discusses aspects of software development, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also minimal regarding Scrum, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

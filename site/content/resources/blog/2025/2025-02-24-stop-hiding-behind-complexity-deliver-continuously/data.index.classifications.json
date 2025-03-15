@@ -1,7 +1,7 @@
 {
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-04T13:00:41",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, with only a brief mention of concepts that could relate to Kanban, such as flow and continuous improvement. However, it lacks a focused discussion on Kanban principles, practices, or visualisation techniques, which are essential for a strong alignment with the Kanban category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -25,7 +25,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T14:32:27",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -33,7 +33,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses continuous delivery and organisational challenges in software development but does not explicitly mention Scrum principles, roles, or events. While it touches on themes of team dynamics and continuous improvement, it lacks a direct focus on the Scrum framework or its specific practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -109,7 +109,7 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-04T13:01:12",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -117,7 +117,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and the practices surrounding it, which are closely tied to Agile and DevOps principles. While it does touch on broader themes of organisational behaviour and investment in quality, the focus remains on specific methodologies and practices that are directly related to Agile and DevOps, thus not aligning well with the Miscellaneous category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -145,7 +145,7 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-04T13:01:25",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -153,7 +153,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on technical aspects of continuous delivery and organisational challenges rather than directly addressing team motivation or dynamics. While it touches on the need for investment and overcoming excuses, it lacks a detailed exploration of strategies for fostering team engagement, trust, or psychological safety, which are core themes of the 'Team Motivation' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -169,7 +169,7 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-04T13:02:10",
+    "calculated_at": "2025-03-14T16:22:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -177,11 +177,11 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses continuous delivery and automation extensively, particularly in the context of Microsoft Azure DevOps. However, it lacks direct references to AI technologies or their integration within Agile frameworks. While it touches on automation as a key aspect of improving delivery processes, it does not explore AI's role in enhancing Agile practices or decision-making, which is crucial for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-03-04T13:02:13",
+    "calculated_at": "2025-03-14T16:22:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -189,11 +189,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and software development practices, with no direct mention of revenue per employee or related financial metrics. While it touches on productivity and efficiency, it does not provide a focused analysis or discussion on revenue generation per employee, which is the core theme of the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-03-04T13:02:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -201,11 +201,11 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges of complexity in software development, with a focus on specific case studies like Microsoft and Starbucks. While it touches on themes of organisational change and process improvement, it does not explicitly address Scaling Scrum frameworks, coordination among multiple Scrum teams, or maintaining Scrum roles and events at scale. Therefore, it only marginally aligns with the category of Scaling Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-03-04T13:02:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -213,7 +213,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses continuous delivery and software development practices, with a focus on overcoming complexity and improving delivery speed. While it touches on themes of investment and organisational change, it does not explicitly address portfolio management concepts such as strategic alignment, prioritisation frameworks, or metrics for measuring portfolio performance. The discussion is more aligned with operational and team-level practices rather than the management of a portfolio of projects.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -229,7 +229,7 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-04T13:02:26",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -237,7 +237,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content discusses the importance of organisational investment and the need for teams to take ownership of their processes, which aligns with accountability principles. However, it primarily focuses on continuous delivery and technical practices rather than explicitly addressing accountability as a core theme. The mention of accountability is indirect and lacks depth in exploring team dynamics or ownership in an Agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -289,7 +289,7 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-03-04T13:02:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on continuous delivery and the challenges associated with software complexity, without discussing asynchronous development principles, tools, or practices. While it touches on team dynamics and the need for investment in processes, it does not align with the core themes of asynchronous collaboration or remote teamwork.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -313,7 +313,7 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-03-04T13:02:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -321,11 +321,11 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, which are relevant to Scrum principles. However, it lacks explicit references to Scrum roles, events, or the management of a Product Backlog. While it touches on iterative development and the importance of responding to customer needs, it does not focus specifically on Scrum methodologies, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-04T13:02:47",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -333,7 +333,7 @@
     "non_ai_confidence": 10,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on technical methodologies and practices related to software development and continuous delivery, with minimal reference to psychological principles or theories that influence organisational behaviour. While it touches on leadership's role in investment and team dynamics, these aspects are not explored in depth or as a primary focus, leading to a low confidence score in alignment with the category of Organisational Psychology.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -349,7 +349,7 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-03-04T13:02:52",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -357,7 +357,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with it, without explicitly addressing the Definition of Done or its criteria. While it touches on quality and process improvements, it does not provide a focused discussion on the Definition of Done as a concept within Agile or Scrum frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -373,7 +373,7 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-04T13:02:57",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -381,11 +381,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with complexity in software development. While it touches on metrics related to delivery speed and efficiency, it does not focus on estimation techniques, empirical data, or collaborative practices within Agile or Scrum frameworks. The mention of velocity is too brief and lacks depth in relation to estimation practices, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-04T13:03:00",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -393,11 +393,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses continuous delivery and the challenges teams face, which indirectly touches on team dynamics and collaboration. However, it primarily focuses on technical processes and organisational investment rather than explicit team collaboration techniques or dynamics. While there are mentions of team accountability and the importance of collective effort, the depth of discussion on collaboration practices is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-04T13:03:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -405,11 +405,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on continuous delivery and technical practices rather than explicitly discussing product strategy. While it touches on the importance of responding to market demands and customer needs, it lacks a clear exploration of methodologies or frameworks for defining a product vision or roadmap. The discussion on metrics and organisational will is relevant but does not delve deeply into strategic planning or competitive analysis.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-04T13:03:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -417,7 +417,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses Continuous Delivery and the challenges associated with software complexity, with only brief mentions of testing practices. While it touches on the importance of embedding quality throughout the development process, it lacks a focused discussion on Test First Development principles, such as writing tests before code or the specific benefits of TDD. The depth of discussion on TDD-related topics is minimal, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -433,7 +433,7 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-04T13:03:10",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -441,7 +441,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly focusing on Azure DevOps. While it touches on aspects of Agile methodologies, such as automation and metrics, it does not explicitly address Agile Planning Tools or their specific functionalities. The primary focus is on overcoming complexity in software delivery rather than on planning tools that facilitate Agile execution.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -457,7 +457,7 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-04T13:03:15",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -465,11 +465,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on continuous delivery and the technical aspects of software development, with minimal reference to mentoring or coaching. While it discusses challenges and strategies in software delivery, it does not address the role of a mentor, coaching techniques, or professional growth within Agile teams, which are essential for the 'Mentoring' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-03-04T13:03:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -477,7 +477,7 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, without explicitly addressing Behaviour Driven Development principles, practices, or collaboration among stakeholders. While it touches on aspects of software development, it does not align with the core themes of BDD, such as writing user stories or acceptance criteria, nor does it mention BDD tools or frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -517,7 +517,7 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-03-04T13:03:28",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -525,11 +525,11 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses continuous delivery and the evolution of software development practices at Microsoft, with minimal direct reference to cross-functional teams. While it touches on collaboration and the need for diverse skills, it does not delve into the specific characteristics, benefits, or management of cross-functional teams as outlined in the category definition. The focus remains on technical processes and organisational challenges rather than the dynamics of cross-functional collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-03-04T13:03:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -537,11 +537,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, with some references to market demands and customer needs. However, it primarily focuses on technical processes and organisational challenges rather than specific strategies for increasing market share or competitive advantage. While there are mentions of market forces and the importance of responding to customer needs, these are not the primary focus of the content, leading to a lower confidence score in the 'Market Share' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-03-04T13:03:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -549,7 +549,7 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on continuous delivery and the challenges associated with software complexity, without explicitly discussing the Definition of Ready or its criteria. While it touches on aspects of Agile practices, it does not provide a detailed exploration of backlog item readiness or the role of the Product Owner in defining readiness, which are key topics in the Definition of Ready category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -601,7 +601,7 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-04T13:03:51",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -609,7 +609,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, which are not directly aligned with Site Reliability Engineering principles. While it touches on automation and improving processes, it lacks a focused discussion on SRE concepts such as SLOs, SLIs, incident response, or the integration of development and operations. The depth of discussion on SRE-specific practices is minimal, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -637,7 +637,7 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-03-04T13:03:59",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -645,7 +645,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses continuous delivery and the evolution of software development practices, with only brief references to concepts that could relate to MVP, such as rapid iteration and user feedback. However, it lacks a focused discussion on the Minimum Viable Product itself, its definition, or its role in validating market assumptions, which are central to the MVP category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -673,7 +673,7 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-03-04T13:04:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -681,11 +681,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and organisational challenges rather than the Daily Scrum. There are no direct mentions of the Daily Scrum event, its structure, or its role within the Scrum framework. While it touches on Agile principles, it does not align with the core themes of the Daily Scrum, such as team alignment, communication, or addressing impediments. The discussion lacks depth regarding the Daily Scrum, making it clear that this content is not focused on the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-04T13:04:14",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -693,11 +693,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, without directly addressing the Scrum Values. While it touches on themes of investment and improvement, it lacks explicit references to commitment, courage, focus, openness, or respect as defined in the Scrum framework. The discussion is more aligned with technical practices and organisational challenges rather than the foundational principles of Scrum.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-04T13:04:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -705,11 +705,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses continuous delivery in software development, focusing on overcoming complexity and organisational challenges rather than decision-making processes in uncertain environments. While it touches on themes of investment and organisational will, it lacks a direct focus on decision theory concepts such as heuristics, biases, or frameworks for decision-making.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-04T13:04:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -717,7 +717,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software development rather than focusing on Lean Startup principles. While it touches on concepts like rapid iteration and the importance of feedback, it lacks a clear emphasis on the Lean Startup methodology, such as the Minimum Viable Product (MVP) or the Build-Measure-Learn feedback loop. The discussion is more aligned with software engineering practices than with the core themes of Lean Startup, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -769,7 +769,7 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-04T13:04:30",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -777,7 +777,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses continuous delivery and the evolution of practices within organisations like Microsoft and Starbucks, which aligns with trends in DevOps. However, it primarily focuses on specific case studies and personal opinions rather than a broader analysis of emerging trends or their implications for Agile and DevOps methodologies. While it touches on relevant metrics and practices, it lacks a comprehensive exploration of how these trends inform strategic decision-making across the industry.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -829,7 +829,7 @@
   },
   "AI": {
     "category": "AI",
-    "calculated_at": "2025-03-04T13:04:43",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -837,11 +837,11 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses continuous delivery and DevOps practices without any explicit mention of AI or its integration within Agile methodologies. While it touches on automation and process improvement, it does not explore how AI can enhance these areas, which is a key focus of the AI category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-03-04T13:04:45",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -849,11 +849,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly in the context of Microsoft Azure DevOps. While it touches on themes relevant to Agile practices, such as automation and iterative improvement, it does not explicitly address scaling Agile methodologies across multiple teams or at an enterprise level. The focus is more on individual practices and the transformation of a single organisation rather than the broader coordination and collaboration required in scaled Agile frameworks. Therefore, while there are relevant elements, the primary focus is not on Scaled Agile as defined.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-04T13:04:48",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -861,7 +861,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous delivery and the evolution of development practices at Microsoft, mentioning Azure DevOps as a tool. However, it primarily focuses on overcoming complexity and improving delivery processes rather than on collaboration tools specifically designed to enhance communication and coordination within Agile teams. While there are references to team dynamics and metrics that could relate to collaboration, the main emphasis is on technical practices and organisational challenges, which do not align closely with the core themes of collaboration tools.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -877,7 +877,7 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-03-04T13:04:56",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -885,7 +885,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous delivery and the importance of metrics in software development, which indirectly relates to forecasting in terms of predicting delivery timelines and optimising processes. However, it lacks a direct focus on forecasting methodologies within Agile and Scrum frameworks, making it a secondary theme rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -901,7 +901,7 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-04T13:05:01",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -909,7 +909,7 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Continuous Delivery (CD) and the challenges associated with software complexity, rather than focusing on Test Driven Development (TDD) principles or practices. While there are mentions of testing and quality, they do not specifically relate to the TDD cycle or its methodologies, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -925,7 +925,7 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-04T13:05:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -933,11 +933,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical processes and methodologies related to continuous delivery in software development, with minimal reference to employee engagement or the human aspects of motivation and commitment. While it briefly touches on the impact of leadership and team dynamics, these points are not explored in depth or as a primary focus, leading to a low confidence score for alignment with the Employee Engagement category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-04T13:05:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -945,11 +945,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, with only a brief mention of team dynamics and pressures. It lacks a focused discussion on psychological safety, strategies to foster it, or its impact on team performance and innovation.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-04T13:05:14",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -957,11 +957,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the importance of responding to customer needs, which aligns with product validation principles. However, it primarily focuses on overcoming complexity and improving delivery processes rather than directly validating product ideas through user engagement or feedback. While there are mentions of user feedback and metrics related to delivery, the core focus is on operational efficiency rather than validating product concepts with users.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-04T13:05:17",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -969,11 +969,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the challenges faced by organisations in achieving it, but it does not specifically address the responsibilities or practices of a Product Owner. While there are mentions of stakeholder engagement and the importance of understanding customer needs, these are not the primary focus of the content. The depth of discussion on metrics and processes is more aligned with engineering practices rather than the Product Owner's role in backlog management or prioritisation strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-04T13:05:23",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -981,7 +981,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Azure DevOps and continuous delivery but does not specifically focus on Azure Boards or its functionalities. While it mentions Azure DevOps, it primarily addresses broader themes of software delivery and organisational challenges rather than the specific tools and practices related to Azure Boards in Agile project management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1045,7 +1045,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-04T13:05:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -1053,7 +1053,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses continuous delivery and organisational challenges rather than focusing on Scrum Team dynamics, roles, or collaboration. While it touches on team performance metrics, it lacks a direct exploration of Scrum roles or practices, making it only tangentially related to the Scrum Team category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1093,7 +1093,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-04T13:05:56",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1101,11 +1101,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the technical aspects of continuous delivery and organisational challenges rather than personal experiences or reflections. While it mentions companies like Microsoft and Starbucks, it lacks personal anecdotes or subjective insights that would align it with the 'Personal' category. The focus is on systemic issues and solutions rather than individual experiences or interpretations.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-03-04T13:06:00",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1113,11 +1113,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses continuous delivery and the evolution of software development practices at Microsoft, with a focus on automation and metrics. While it touches on themes relevant to scaling processes, such as improving flow and efficiency, it does not explicitly mention Kanban principles or their application in large organisations. The discussion lacks depth in terms of Kanban-specific strategies or challenges, leading to a low confidence score in alignment with the 'Scaling Kanban' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-04T13:06:04",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -1125,7 +1125,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, without a direct focus on the role of a Scrum Master or Scrum practices. While it touches on themes relevant to Agile methodologies, it lacks specific references to Scrum ceremonies, team dynamics, or the responsibilities of a Scrum Master, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1141,7 +1141,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-04T13:06:10",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1149,7 +1149,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the evolution of Microsoft's Developer Division, but it does not explicitly reference any specific events, presentations, or discussions. While it aligns conceptually with themes relevant to Agile and DevOps, it lacks direct mentions of events or structured learning experiences, which are crucial for this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1177,7 +1177,7 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-03-04T13:06:17",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1185,11 +1185,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and organisational challenges rather than focusing on the Sprint Review process, its purpose, or best practices. While it touches on aspects of Agile and software delivery, it does not explicitly mention the Sprint Review or its role within the Scrum framework.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-04T13:06:20",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1197,11 +1197,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Azure DevOps and its role in continuous delivery but does not specifically focus on Azure Repos or its functionalities. While it mentions the need for automation and continuous integration, it lacks detailed discussions on source control management, branching strategies, or pull requests, which are key topics for Azure Repos. The primary focus is on continuous delivery and organisational challenges rather than the specific features and best practices of Azure Repos.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-04T13:06:22",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1209,7 +1209,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses continuous delivery and the importance of organisational investment in overcoming complexity, which aligns with Agile principles of responding to change and continuous improvement. However, it primarily focuses on specific practices and examples from companies rather than explicitly discussing Agile values or principles. The mention of Agile concepts is limited and lacks depth in exploring the foundational beliefs of Agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1285,7 +1285,7 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-04T13:06:40",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1293,7 +1293,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of achieving continuous delivery and the need to address underlying issues such as technical debt and complexity. However, it primarily focuses on the broader themes of continuous delivery and organisational change rather than specific troubleshooting techniques or methodologies. While it touches on the consequences of poor practices and the need for improvement, it lacks detailed discussions on diagnosing and resolving specific technical issues, which is essential for a higher confidence score in the Troubleshooting category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1333,7 +1333,7 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-04T13:06:51",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1341,7 +1341,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses continuous delivery and its importance in responding to customer needs, which indirectly relates to customer retention. However, it primarily focuses on technical processes and organisational challenges rather than specific strategies for retaining customers or enhancing user engagement. While there are mentions of customer feedback loops and the need to adapt to market demands, these are not the primary focus of the discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -1357,7 +1357,7 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-04T13:06:56",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1365,7 +1365,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses continuous delivery and the evolution of software development practices, focusing on specific examples from Microsoft and Starbucks. While it touches on themes of organisational change and the need for investment in quality and processes, it does not explicitly mention Beta Codex principles or decentralised organisational design. The discussion lacks depth in exploring human-centric approaches or adaptive cultures, which are core to the Beta Codex category. Therefore, while there is some conceptual alignment, the overall focus is more on technical practices than on the principles of Beta Codex.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1405,7 +1405,7 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-04T13:07:06",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1413,7 +1413,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses continuous delivery and the technical evolution of software development practices, with a focus on automation and metrics. While it touches on team dynamics and the need for investment in quality, it lacks a direct focus on coaching techniques, mentoring, or fostering a growth mindset, which are central to the Coaching category. The discussion is more about overcoming obstacles in software delivery rather than facilitating individual or team growth through coaching.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1465,7 +1465,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-04T13:07:20",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1473,7 +1473,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content discusses continuous delivery and software development practices, with a brief mention of Windows in the context of deployment timelines. However, the primary focus is on Azure DevOps and general software engineering principles rather than specific Windows operating system topics such as installation, configuration, or troubleshooting. The mention of Windows is not substantial enough to warrant a higher confidence score, as it does not delve into the Windows environment or its management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1489,7 +1489,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-04T13:07:26",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1497,11 +1497,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses continuous delivery and the cultural and organisational changes required to achieve it, rather than focusing on the technical aspects of system configuration. While it touches on automation and some principles that could relate to system configuration, the main emphasis is on overcoming complexity and improving delivery processes, which does not align closely with the core themes of system configuration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-04T13:07:29",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1509,7 +1509,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of complexity in software delivery and the need for organisations to adapt and invest in continuous delivery. While it touches on the importance of understanding and addressing complexity, it primarily focuses on technical implementations and specific practices rather than a broader exploration of sensemaking principles or frameworks. The discussion lacks depth in terms of sensemaking as a primary focus, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1585,7 +1585,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-04T13:07:48",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1593,7 +1593,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, referencing Agile principles indirectly. However, it lacks a direct focus on specific Agile frameworks like Scrum or Kanban, and does not provide a comparative analysis or case studies of Agile frameworks. While it touches on themes of continuous improvement and responsiveness, it primarily centres on technical practices and organisational challenges rather than a thorough exploration of Agile frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1621,7 +1621,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-04T13:08:01",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1629,11 +1629,11 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on continuous delivery and organisational challenges rather than Scrum principles, roles, or practices. While it touches on some relevant themes like continuous improvement and metrics, it lacks a direct discussion of Scrum roles, events, or artifacts, which are central to the Professional Scrum category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-03-04T13:08:03",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1641,11 +1641,11 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, without a focus on Acceptance Test Driven Development (ATDD) principles or practices. While it touches on aspects of quality and testing, it does not explicitly mention acceptance criteria, collaboration among stakeholders, or the specific methodologies related to ATDD.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-04T13:08:06",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1653,11 +1653,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses continuous delivery and software development practices, with no direct mention of remote working or Agile team collaboration in a distributed environment. While it touches on organisational challenges and the need for investment in processes, it does not address the specific practices, tools, or strategies relevant to remote working within Agile frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-04T13:08:08",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1665,7 +1665,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses continuous delivery and the technical practices involved in achieving it, rather than focusing on product discovery methodologies or understanding customer needs. While there are mentions of responding to market demands and customer feedback, these are secondary to the main theme of overcoming technical complexity and improving delivery processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1693,7 +1693,7 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-04T13:08:19",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1701,11 +1701,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous delivery and the importance of addressing complexity, but it lacks a direct focus on transparency as defined in the category. While it touches on accountability and the need for investment in quality, it does not explicitly address transparency in Agile processes or the visibility of work progress. The discussion is more centred on overcoming obstacles to delivery rather than fostering an environment of openness and trust among team members.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-04T13:08:22",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1713,11 +1713,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and DevOps practices, with a focus on overcoming complexity in software development. While it touches on automation and process improvement, it does not explicitly mention or explore the role of Artificial Intelligence in these contexts, which is a key requirement for the category. Therefore, the confidence score reflects a low alignment with the specified category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-04T13:08:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1725,7 +1725,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses continuous delivery and the evolution of Microsoft's Azure DevOps, which touches on aspects of standardisation and integration in software development. However, it primarily focuses on continuous delivery practices rather than the One Engineering System framework itself. While there are mentions of automation and process improvement, the content lacks a direct focus on the principles and components of 1ES, making it more of a secondary discussion rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -1741,7 +1741,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-04T13:08:37",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1749,11 +1749,11 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the importance of accountability in the context of continuous delivery and highlights the need for teams to take responsibility for their processes and outcomes. However, it primarily focuses on overcoming complexity and improving delivery rather than explicitly addressing transparency and accountability principles within Agile teams. While there are mentions of accountability, they are not the primary focus, and the depth of discussion on transparency is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-04T13:08:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1761,11 +1761,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on continuous delivery and the challenges associated with software complexity, with no explicit discussion of backlog refinement or Agile practices. While it touches on themes of improvement and efficiency, it does not align with the specific principles or practices of backlog refinement, such as prioritisation techniques or the role of the Product Owner.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-03-04T13:08:41",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1773,11 +1773,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on continuous delivery and the challenges associated with software complexity, rather than discussing working agreements or team collaboration norms. While it touches on team dynamics and the need for investment in quality, it does not explicitly define or explore working agreements, nor does it provide structured techniques or examples related to them.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-04T13:08:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1785,11 +1785,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly in the context of Azure DevOps. However, it lacks explicit instructions or detailed discussions on installation and configuration processes. While it touches on automation and development practices, it does not provide actionable steps or insights directly related to installing or configuring tools, which is the primary focus of the 'Install and Configuration' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-03-04T13:08:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -1797,7 +1797,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on continuous delivery and the challenges associated with software development, with only a brief mention of concepts that could relate to Value Stream Mapping, such as optimising workflows and eliminating waste. However, it lacks a direct discussion on Value Stream Mapping itself, its principles, or specific techniques related to VSM. The depth of discussion on VSM is minimal, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -1837,7 +1837,7 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-04T13:08:57",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1845,7 +1845,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, without any direct mention of the Product Backlog or its management. While it touches on themes relevant to Agile practices, such as metrics and team performance, it does not focus on backlog refinement, prioritisation, or the roles of the Product Owner, which are essential aspects of the Product Backlog category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",

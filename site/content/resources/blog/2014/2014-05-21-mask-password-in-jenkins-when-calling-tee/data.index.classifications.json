@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical solution for masking passwords in Jenkins, which relates to engineering practices and security in software development. However, it primarily focuses on a specific issue rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific technical issue related to Jenkins and password masking, which touches on aspects of security in software development. However, it primarily focuses on a practical problem and solution rather than broader engineering practices or methodologies that enhance agility. While it does mention the use of a plugin and configuration settings, it lacks a comprehensive exploration of concepts like CI/CD, TDD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -880,11 +883,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:30:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a practical solution related to software development and security, specifically about masking passwords in Jenkins builds, which aligns with delivering functional software. However, it is primarily focused on a specific issue rather than a broader discussion on working software principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific issue related to password management in Jenkins, which is a part of software development. However, it primarily focuses on a technical solution rather than the broader themes of working software, such as customer value or iterative development. While it does touch on the importance of security in software builds, it lacks depth in discussing how this relates to delivering functional software that meets user needs.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1231,12 +1237,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:30:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical issue related to Jenkins, CI/CD practices, and the security of password handling in builds, which is relevant to software developers and their practices in Agile and DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Jenkins and password masking, which is relevant to software development practices. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on a singular technical solution without exploring the implications for team dynamics or collaboration. While it does touch on a tool used in the development process, it does not delve into best practices or principles that would align it more closely with the category of Software Developers.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1249,12 +1258,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:30:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical solution related to Jenkins and security practices concerning password masking, which is relevant to good engineering practices but primarily focuses on Jenkins configuration rather than Agile methodologies or broader engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to Jenkins and password management, which is more focused on a technical solution rather than broader engineering practices. While it touches on automation and security, it lacks a direct discussion of Agile methodologies, clean code principles, or TDD. The depth of the discussion is moderate, providing a step-by-step solution, but it does not delve into the underlying engineering practices that would align it more closely with the category.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

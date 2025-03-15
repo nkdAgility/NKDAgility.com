@@ -28,9 +28,6 @@ aliasesArchive:
 - /resources/blog/removing-acls-for-dead-ad-accounts
 tags:
 - Windows
-- Troubleshooting
-- Software Development
-- System Configuration
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

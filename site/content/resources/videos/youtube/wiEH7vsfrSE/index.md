@@ -38,8 +38,8 @@ tags:
 - Enterprise Agility
 - Sociotechnical Systems
 - Pragmatic Thinking
-- Strategic Goals
-- Operational Practices
+- Continuous Learning
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

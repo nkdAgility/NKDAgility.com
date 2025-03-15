@@ -30,6 +30,7 @@ tags:
 - Remote Working
 - Resilience and Change
 - People and Process
+- Events and Presentations
 categories:
 - Scrum
 - Social Technologies

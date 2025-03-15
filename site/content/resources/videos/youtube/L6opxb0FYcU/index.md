@@ -32,14 +32,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- People and Process
+- Software Development
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- People and Process
-- Agile Product Management
-- Software Development
+- Scrum Values
 - Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

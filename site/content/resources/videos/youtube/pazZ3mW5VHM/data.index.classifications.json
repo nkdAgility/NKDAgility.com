@@ -385,7 +385,7 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-10T12:06:13",
+    "calculated_at": "2025-03-14T23:06:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -393,7 +393,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions an influential figure in Agile and their communication style, which hints at Agile values like collaboration and customer interaction. However, it lacks explicit discussion of Agile principles or a deep exploration of the category's core themes, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -433,7 +433,7 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-10T14:16:18",
+    "calculated_at": "2025-03-14T23:06:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -441,7 +441,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions an influential figure in Agile, but it lacks a direct discussion on organisational culture. While there is a hint of admiration for communication skills, it does not explore how these skills relate to cultural elements that support Agile practices. The focus is more on personal inspiration rather than the broader implications of culture within an organisation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -667,7 +667,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T11:33:11",
+    "calculated_at": "2025-03-14T23:06:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -675,7 +675,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the influence of a facilitator in Agile, which touches on communication but lacks a comprehensive discussion on team collaboration dynamics. It does not delve into specific techniques, strategies, or examples that would align more closely with the category's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -823,7 +823,7 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-11T14:37:41",
+    "calculated_at": "2025-03-14T23:06:24",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
@@ -831,7 +831,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges faced by Product Owners and encourages self-reflection and empowerment, which aligns with mentoring principles. However, it lacks direct mentions of mentoring techniques or the role of a mentor, and the depth of discussion on mentoring is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1378,11 +1378,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:59:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile principles and the influence of a facilitator in an Agile context, but it does not primarily focus on organisational agility strategies or practices.",
+    "calculated_at": "2025-03-14T15:26:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in asserting control and influence within their organisations, which touches on aspects of organisational agility. However, it primarily focuses on individual empowerment and the role of the Product Owner rather than broader organisational strategies or frameworks that enhance agility. The discussion lacks depth in exploring agile methodologies or cultural shifts necessary for organisational agility.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1423,7 +1426,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:21:01",
+    "calculated_at": "2025-03-14T23:06:24",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1431,6 +1434,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions Agile and references a person influential in Agile, but it lacks explicit discussion of Scrum principles, roles, or events. The focus is more on personal admiration rather than on Scrum as a framework or its practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

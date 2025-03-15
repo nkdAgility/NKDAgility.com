@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 tags:
 - Install and Configuration
-categories:
-- Scrum
-- Product Management
+- System Configuration
+- Practical Techniques and Tooling
+categories: []
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

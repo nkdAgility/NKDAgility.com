@@ -32,6 +32,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- Software Development
+- Agile Project Management
+- Value Delivery
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

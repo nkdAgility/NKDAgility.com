@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
 - /memories-of-a-multi-dimensional-free-thinking-software-developer
 - /resources/blog/memories-of-a-multi-dimensional-free-thinking-software-developer
-tags:
-- Miscellaneous
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

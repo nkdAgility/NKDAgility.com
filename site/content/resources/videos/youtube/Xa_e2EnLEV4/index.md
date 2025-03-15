@@ -33,6 +33,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Operational Practices
+- Transparency
 - People and Process
 resourceTypes:
 - video

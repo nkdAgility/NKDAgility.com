@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Practical Techniques and Tooling
 - Agile Project Management
 - Scrum Product Development
 - Product Backlog
@@ -36,9 +37,8 @@ tags:
 - Agile Planning Tools
 - Product Owner
 - Backlog Refinement
+- Pragmatic Thinking
 - Agile Product Management
-- Software Development
-- Products and Books
 resourceTypes:
 - video
 categories:

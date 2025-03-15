@@ -10,7 +10,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T14:19:55",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions a Lean Coffee format, which is a collaborative discussion method aligned with Agile practices. However, it lacks detailed discussion on specific frameworks like Scrum or Kanban, and does not delve into core principles or methodologies, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -40,7 +40,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:24:37",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions a discussion format that could relate to product management, but it lacks explicit references to product management principles or methodologies. The focus is more on the format of the discussion rather than the strategic aspects of product management, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -61,12 +61,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly touches on aspects relevant to the Product Owner role, such as advice on writing good Product Backlog Items (PBIs), but primarily focuses on a general discussion about various Scrum and Agile topics without centering specifically on the Product Owner's responsibilities.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a community discussion format related to business agility, without specific reference to the Product Owner role or its responsibilities. While it touches on themes of collaboration and engagement, it lacks direct mentions or in-depth exploration of Product Owner duties, making it only tangentially relevant.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -79,30 +82,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content contains discussions related to Scrum practices, such as timeboxes and Product Backlog Item (PBI) writing, but is primarily framed around a broader concept of business agility and community discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:20:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses business agility and community engagement but does not explicitly mention Scrum principles, roles, or practices. While it touches on themes of collaboration and continuous learning, it lacks a direct focus on Scrum as outlined in the Scrum Guide, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily revolves around discussions related to Scrum, including its roles, events, and practices, which are key elements of the Agile framework.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-15T02:20:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses a forum focused on business agility, which aligns with Agile principles and practices. However, it does not explicitly mention specific Agile frameworks like Scrum or Kanban, nor does it delve deeply into their comparative analysis or implementation challenges. The Lean Coffee format mentioned is a technique used within Agile discussions, but the overall focus is more on community engagement and real-world applications rather than a thorough exploration of Agile frameworks themselves.",
+    "level": "Tertiary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content includes discussions related to Scrum principles and roles, making it a major theme although not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:19:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses a forum for business agility but does not explicitly mention Scrum principles or practices. While it touches on themes of collaboration and community engagement, it lacks a direct focus on Scrum roles, events, or product development methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -301,12 +313,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes some discussions on Scrum roles and events, which are relevant to software development methodologies, but the primary focus is on business agility rather than software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on business agility discussions rather than software development practices. While it mentions agile concepts, it does not delve into specific software development methodologies or practices, making it more of a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -319,30 +334,39 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and Scrum-related topics, indicating that Agile Planning is a significant theme, but the primary focus is on a community discussion format rather than in-depth Agile Planning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:20:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses a forum for business agility that encourages community engagement and continuous learning, which aligns with Agile principles. However, it lacks direct mentions of Agile Planning methodologies and does not delve deeply into specific Agile planning practices or frameworks.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements of Agile practices, particularly Scrum, which suggests a focus on implementing Agile methodologies. However, it is primarily framed as an open discussion forum rather than a deep dive into strategic aspects of Agile execution, limiting the alignment with the Agile Strategy category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:19:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses a forum for business agility, which aligns with Agile principles and community engagement. However, it lacks a direct focus on strategic implementation or organisational alignment, making it more of a community-driven discussion rather than a strategic analysis.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses topics related to Scrum and Agile, including team structures and practices, but does not primarily focus on team performance or collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a forum for business agility that encourages collaboration and community engagement, which aligns with team performance themes. However, it lacks direct mentions of specific agile practices or methodologies that would strengthen its relevance to the category. The depth of discussion on fostering collaboration is present, but it does not delve into metrics or specific agile ceremonies, limiting its overall alignment with the core themes of Team Performance.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -463,7 +487,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:19:58",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -471,7 +495,7 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a general discussion about business agility rather than specifically addressing the role of software developers within Agile or DevOps frameworks. While it mentions a Lean Coffee format, it lacks direct references to software development practices, methodologies, or tools that would align with the category's core themes.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -502,12 +526,15 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content includes a mention of writing good PBIs, which is related to backlog refinement, but the overall focus is more on general Scrum discussion and questions rather than specifically on backlog refinement practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a forum for business agility but does not explicitly mention backlog refinement or its key practices. While it touches on collaboration and community engagement, it lacks a direct focus on backlog management, prioritisation techniques, or the role of the Product Owner, which are essential to the category.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -520,7 +547,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:24:40",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -528,7 +555,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions a discussion format that could relate to Agile practices, but it lacks explicit references to the Scrum Master role or its responsibilities. The focus is more on general business agility rather than specific Scrum Master duties, making it only tangentially relevant.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -550,7 +577,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:37:39",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -558,7 +585,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on community engagement and discussions around business agility rather than technical leadership. While it mentions collaboration and continuous learning, it lacks direct references to technical leadership principles, agile methodologies, or specific strategies for mentoring and coaching development teams. The depth of discussion is moderate, but it does not delve into the core themes of technical leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -625,11 +652,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:20:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses themes related to Scrum and team dynamics, particularly with references to roles, delivery goals, and collaboration methods within a Lean Coffee format, indicating a focus on the interplay of people and processes.",
+    "final_score": 75.0,
+    "reasoning": "The content focuses on a community-driven discussion format that emphasises collaboration, engagement, and continuous learning, which are key aspects of the 'People and Process' category. It explicitly mentions the Lean Coffee format, fostering team dynamics, and the importance of diverse perspectives, aligning well with the core themes of human behaviour and structured methodologies in technology and product development. The depth of discussion is substantial, detailing how the sessions operate and the benefits of participation, thus providing a comprehensive view of the interplay between people and processes.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -643,21 +673,24 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses a session focused on topics relevant to business agility, but the majority of the content revolves around specific Scrum practices rather than the broader principles and strategies of business agility.",
-    "level": "Tertiary"
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses 'Business Agility Raw' sessions, which are focused on fostering discussions around business agility principles and practices. It highlights the importance of community engagement, real-world relevance, and continuous learning, all of which align closely with the core themes of business agility. The depth of discussion is substantial, detailing the format and benefits of the sessions, thus providing a comprehensive view of how these discussions contribute to understanding and implementing business agility.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T11:14:21",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "While the content involves discussions related to Scrum and business agility, it primarily focuses on specific practices and questions rather than a central exploration of complexity science or its principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -751,7 +784,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T18:23:53",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -759,15 +792,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions a collaborative discussion format (Lean Coffee) and invites participation, which aligns with team collaboration principles. However, it lacks depth in exploring specific techniques or strategies for enhancing team dynamics, and the focus is more on the event rather than the collaborative processes within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and practices commonly associated with market adaptability, but it primarily focuses on a Q&A format about Scrum without delving deeply into strategies for enhancing market responsiveness.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a forum focused on business agility, which aligns with the principles of adaptability. However, it lacks direct mentions of specific strategies or methodologies like Agile, DevOps, or Lean that enhance market adaptability. The depth of discussion is primarily about community engagement and format rather than concrete practices or case studies that would strengthen the connection to market adaptability.",
     "level": "Tertiary"
   },
   "AI": {
@@ -781,12 +817,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses a Lean Coffee format and community event, it includes topics related to Scrum, such as delivery goals and prioritization, which align with aspects of working software, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on community engagement and discussions around business agility rather than directly addressing the delivery of functional software. While it mentions the importance of real-world relevance and continuous learning, it lacks explicit discussions on working software characteristics, quality assurance, or customer feedback mechanisms. The Lean Coffee format and collaborative discussions are relevant to agile practices but do not specifically address the core themes of working software.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -817,20 +856,26 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a mention of how to write good PBIs (Product Backlog Items), making it a relevant discussion to the Product Backlog, although it also covers other topics in a broader Agile context.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a community discussion format around business agility rather than the specific management or refinement of a Product Backlog. While it touches on themes of collaboration and engagement, it does not explicitly mention the Product Backlog or its role in Agile methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile principles, specifically related to Scrum, and includes questions relevant to Agile practices.",
+    "calculated_at": "2025-03-15T02:20:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses a forum focused on business agility, which aligns with agile principles. However, it lacks explicit references to specific agile methodologies like Scrum or Kanban, and does not delve deeply into agile project management practices. The Lean Coffee format mentioned is relevant but is not a core agile framework. Overall, while the content is related to agile concepts, it does not provide a comprehensive exploration of Agile Project Management.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -862,12 +907,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an upcoming event and previous topics related to Scrum and Agile practices, making it relevant to industry updates, though it lacks a review component.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a monthly forum focused on business agility, which aligns with the themes of Agile methodologies. However, it primarily promotes the event rather than providing news or reviews about Agile practices or tools. While it mentions community engagement and real-world relevance, it lacks detailed analysis or insights into industry trends or tools, which diminishes its depth of discussion.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -889,12 +937,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes elements of Scrum practices and coordination among teams, though the primary focus is on a general discussion format rather than on scaling Scrum specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:20:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on business agility discussions rather than specifically addressing Scaling Scrum principles or frameworks. While it mentions agility and community engagement, it lacks direct references to Scrum roles, events, or frameworks for scaling Scrum. The depth of discussion is moderate, but it does not delve into the specific challenges or solutions related to scaling Scrum, which diminishes its relevance to the category.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -916,7 +967,7 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T17:50:11",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -924,7 +975,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses a forum for business agility, which is related to Agile principles but does not specifically focus on Agile Product Management. While it mentions community engagement and continuous learning, it lacks direct references to product management roles, backlog prioritisation, or stakeholder collaboration, which are key aspects of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -955,7 +1006,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:47:52",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -963,7 +1014,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a forum for business agility but does not specifically address Scrum Team dynamics, roles, or practices. While it mentions collaboration and community engagement, these concepts are not directly tied to Scrum principles or the specific roles within a Scrum Team. The focus is more on general business agility rather than the intricacies of Scrum, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -994,12 +1045,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily invites discussion on various topics related to Scrum and Agile practices, it does touch upon strategic elements like delivery goals and team dynamics within Scrum, indicating that strategy is a significant theme in the context of the discussion.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a forum for business agility, which touches on Agile principles and community engagement. However, it lacks a direct focus on strategic alignment or detailed discussions on optimising delivery processes, which are core to the Strategy category. The mention of Lean Coffee format and collaborative discussions indicates some alignment with Agile practices, but the overall depth and focus on strategy are limited.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1021,12 +1075,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses several themes relevant to product delivery, such as Scrum roles, delivery goals, and prioritization of product backlog items, but it is framed within a general discussion format rather than focusing solely on product delivery methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:20:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a forum focused on business agility, which is tangentially related to product delivery. However, it lacks direct mentions of product delivery methodologies, practices, or detailed discussions on the end-to-end process of delivering software products. While it touches on community engagement and continuous learning, these concepts are not explicitly tied to the core themes of product delivery, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1039,12 +1096,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:35:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses topics related to Scrum and Business Agility, indicating a secondary focus on agile methodologies and practices that align with organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses 'Business Agility' and promotes a forum for dynamic discussions on relevant topics, which aligns well with the principles of organisational agility. It highlights community engagement, continuous learning, and the importance of diverse perspectives, all of which are core themes of the category. The depth of discussion is significant, detailing the format and benefits of the sessions, thus providing a comprehensive view of how these discussions can enhance organisational agility.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1105,12 +1165,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum practices and discusses various topics related to Agile delivery, but it primarily focuses on a discussion format rather than concrete techniques or tooling.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a forum for business agility discussions, which includes a Lean Coffee format and collaborative tools like Mural. However, it lacks a strong focus on specific Agile or DevOps tools and methodologies, making it more about community engagement than practical techniques. While it touches on relevant themes, the depth of discussion on specific tools and their application is limited.",
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1213,7 +1276,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:29:49",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1221,7 +1284,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions a discussion format that could relate to Agile principles, but it lacks explicit references to pragmatic problem-solving strategies or real-world applications of Agile, Scrum, or DevOps. The focus is more on the format of the discussions rather than the content of those discussions, which diminishes its relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1234,12 +1297,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:20:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content revolves around discussions in a Lean Coffee format, which may involve decision-making topics relevant to Scrum and Agile practices, but it primarily focuses on gathering questions and topics rather than systematically addressing decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a forum for collaborative discussions on business agility, which touches on decision-making processes. However, it lacks explicit focus on structured, evidence-based methodologies and does not delve deeply into the principles of decision-making as outlined in the category description. While it encourages community engagement and diverse perspectives, it does not provide substantial evidence-based frameworks or techniques for decision-making.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1306,11 +1372,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content includes discussions related to Scrum practices and Agile methodologies, which involve social aspects of team dynamics and organizational culture, but primarily focuses on specific roles and events in Scrum.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a forum for business agility that encourages community engagement and collaboration, which aligns with sociotechnical principles. However, it lacks explicit references to sociotechnical systems and does not delve deeply into the interplay between technology and organisational structures. The focus is more on community and learning rather than a thorough exploration of sociotechnical interactions.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -1396,12 +1465,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content involves discussions on topics related to Scrum, which can be tied to operational practices. However, the context seems more focused on a community engagement format rather than practical application of operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a forum for business agility that encourages community engagement and real-world discussions, which aligns with operational practices. However, it lacks specific techniques or strategies for enhancing operational efficiency, focusing more on the format and community aspect rather than practical applications of Agile, DevOps, or Lean methodologies.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1423,7 +1495,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:29:30",
+    "calculated_at": "2025-03-15T02:19:46",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1431,6 +1503,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions a discussion format (Lean Coffee) that is often used in Agile contexts, but it does not explicitly reference Scrum principles, roles, or events. The focus appears to be more on general business agility rather than a deep dive into Scrum practices or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

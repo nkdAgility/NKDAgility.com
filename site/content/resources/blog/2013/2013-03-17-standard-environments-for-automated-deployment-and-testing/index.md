@@ -24,6 +24,15 @@ aliasesArchive:
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
 tags:
 - Software Development
+- Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
+- Technical Mastery
+- Operational Practices
+- Engineering Practices
+- Application Lifecycle Management
+- Continuous Delivery
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-17-17.png

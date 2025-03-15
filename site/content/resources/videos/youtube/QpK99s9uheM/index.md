@@ -26,7 +26,13 @@ preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Agile Philosophy
+- Pragmatic Thinking
 - Agile Values and Principles
+- Team Collaboration
+- Agile Leadership
+- Organisational Agility
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

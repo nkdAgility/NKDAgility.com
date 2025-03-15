@@ -24,13 +24,13 @@ preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 isShort: false
 tags:
+- People and Process
 - Software Development
 - Professional Scrum
 - Scrum Master
 - Agile Project Management
-- People and Process
 - Scrum Team
-- Agile Frameworks
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

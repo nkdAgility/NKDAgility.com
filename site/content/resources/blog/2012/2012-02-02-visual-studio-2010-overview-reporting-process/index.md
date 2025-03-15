@@ -30,10 +30,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-overview-reporting-process
 tags:
 - Practical Techniques and Tooling
-- Software Development
-- Application Lifecycle Management
-- Operational Practices
-- People and Process
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Engineering Excellence

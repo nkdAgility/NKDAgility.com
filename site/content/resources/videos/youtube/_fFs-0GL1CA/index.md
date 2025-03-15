@@ -24,7 +24,8 @@ preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false
 tags:
-- Software Development
+- Continuous Learning
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

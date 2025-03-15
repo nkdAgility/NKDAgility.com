@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to the adoption of TFS and its integration with other tools, which touches on aspects of application lifecycle management, but the primary focus is on personal experiences and struggles rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses challenges related to the adoption of TFS (Team Foundation Server) and mentions ALM, but it primarily focuses on personal experiences and struggles rather than providing a structured discussion on Application Lifecycle Management. While there are references to tools and some aspects of governance, the overall depth and direct focus on the lifecycle stages and best practices are lacking.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -28,12 +31,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of technology adoption within an organisational context, highlighting the interplay between team dynamics and the adoption of tools like TFS versus Jira. However, the primary focus is on the struggle for tool adoption rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adopting a specific technology (TFS) within an organisational context, highlighting issues related to team dynamics and communication. However, it primarily focuses on the struggle to promote a technical tool rather than exploring the broader sociotechnical interactions or organisational culture. While there are mentions of team dynamics and the influence of organisational decisions, the depth of discussion on sociotechnical principles is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -73,11 +79,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences and challenges related to the adoption of TFS and competing tools like Jira and Subversion, but it does not directly reference Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses personal experiences and challenges related to the adoption of specific tools (TFS, Jira, Subversion) without directly referencing Agile, Scrum, DevOps, or Lean principles. While it touches on themes of tool adoption and project management, it lacks a structured discussion of recognised methodologies or actionable insights, aligning it more with the Miscellaneous category. However, the mention of tools and the context of project management provides some conceptual alignment, albeit limited.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -100,11 +109,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:05",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of adopting TFS and competing tools like Jira and Subversion, indicating a focus on practical tooling and integration issues, but it is primarily narrative and lacks a structured exploration of techniques or methodologies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the challenges of adopting TFS and competing tools like Jira and Subversion, which aligns with the exploration of Agile and DevOps tools. However, it lacks a detailed exploration of methodologies or frameworks, focusing more on personal experiences and frustrations rather than practical techniques or best practices. The mention of a project for synchronisation between TFS and Jira indicates some practical application, but the overall depth and focus on tooling are moderate.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -568,16 +580,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of adopting various collaboration tools, such as TFS, Jira, and Subversion, indicating a secondary theme of collaboration tools within a broader conversation about project management and team dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adopting TFS in comparison to other collaboration tools like Jira and Subversion. While it mentions collaboration tools, the primary focus is on the author's struggles and opinions rather than a structured discussion on the tools themselves or their impact on Agile collaboration. The depth of discussion is limited, focusing more on personal experiences than on best practices or features of the tools.",
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T13:22:42",
+    "calculated_at": "2025-03-15T07:43:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -585,16 +600,19 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses challenges faced in advocating for the adoption of TFS over other tools like Jira and Subversion, which relates to the role of software developers in selecting and using tools for project management. However, it lacks a direct focus on Agile or DevOps methodologies and does not delve deeply into best practices or principles that enhance developer productivity or collaboration. The mention of creating a project for synchronization indicates some alignment with developer practices, but the overall discussion is more about internal company politics than the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses efforts to promote the adoption of a software tool (TFS) and integration with other tools (Jira, Subversion), but it is largely centered on the challenges and politics of this process rather than deeper software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges of adopting Visual Studio Team System and the competition with other tools like Jira and Subversion, which relates to software development practices. However, the focus is more on personal experiences and struggles rather than on methodologies or best practices in software development. While there are mentions of tools and integration, the depth of discussion on software development principles is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -733,12 +751,12 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:13:36",
+    "calculated_at": "2025-03-15T07:43:00",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "While the content discusses challenges related to software adoption, it focuses more on specific tools (TFS, Jira, Subversion) and personal experiences rather than on broader themes of digital transformation, such as business agility or strategy.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -769,12 +787,12 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:13:36",
+    "calculated_at": "2025-03-15T07:43:00",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses challenges in advocating for the adoption of a specific tool (TFS) within an organization, which touches on change management issues. However, the primary focus is on tool adoption and competitive software attributes rather than a systematic approach to change management principles, making it a minor aspect rather than the central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -850,7 +868,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T17:08:59",
+    "calculated_at": "2025-03-15T07:43:00",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -858,7 +876,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges of adopting TFS (Team Foundation Server) in a company, which relates to version control systems. However, the focus is more on the struggle for adoption and integration with other tools like Jira and Subversion rather than on best practices or methodologies of source control itself. While there are mentions of source control and work item tracking, the depth of discussion on modern source control practices is limited, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1231,7 +1249,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T15:18:48",
+    "calculated_at": "2025-03-15T07:43:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1239,11 +1257,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges faced in promoting the adoption of TFS over competing tools like Jira and Subversion, which reflects a pragmatic approach to problem-solving in a complex environment. However, while it touches on real-world issues and the need for collaboration, it lacks a structured discussion on Agile or Scrum principles and does not provide detailed strategies or case studies that would strengthen its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T10:51:41",
+    "calculated_at": "2025-03-15T07:43:00",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1251,7 +1269,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses challenges related to the adoption of TFS and the implications of using Jira for risk and issue tracking, which touches on aspects of release management. However, it lacks a focused discussion on release planning, scheduling, or coordination between teams, which are core themes of release management. The mention of being relegated to release management documentation indicates some relevance, but the overall depth and alignment with the category are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -1408,7 +1426,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:19:54",
+    "calculated_at": "2025-03-15T07:43:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1434,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses challenges related to the adoption of Visual Studio Team System and competing tools like Jira and Subversion. While it touches on project management themes, it does not explicitly mention Scrum principles, roles, events, or artifacts. The focus is on tool adoption rather than Scrum practices, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

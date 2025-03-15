@@ -32,15 +32,15 @@ aliasesArchive:
 - /resources/blog/continuous-deliver-sprint
 tags:
 - Agile Project Management
-- Agile Planning
-- Product Delivery
-- Agile Product Management
 - Increment
-- People and Process
-- Value Delivery
-- Agile Transformation
-- Empirical Process Control
 - Working Software
+- Empirical Process Control
+- Agile Planning
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Product Delivery
+- Software Developers
 categories:
 - Scrum
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg

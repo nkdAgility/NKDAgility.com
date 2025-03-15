@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:51:20",
+    "calculated_at": "2025-03-15T05:28:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server (TFS) and provides troubleshooting steps. While it touches on aspects of DevOps, such as the importance of backups and system health checks, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is more on technical issues rather than the integration of people, processes, and tools that characterise DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -247,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:28:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to upgrading Team Foundation Server, which involves aspects of product delivery such as planning, testing, and deployment through upgrade processes. However, the primary focus is on troubleshooting rather than the methodologies and best practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions rather than the broader methodologies and practices of product delivery. While it touches on aspects of planning and execution related to upgrades, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or deployment strategies.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:28:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to upgrading Team Foundation Server, which is a tool used for application lifecycle management, and outlines steps for maintaining the application during upgrades, making it a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server (TFS) 2012, focusing on troubleshooting and resolution steps. While it touches on aspects of application maintenance and upgrade processes, it lacks a comprehensive discussion on the broader methodologies, practices, and tools associated with Application Lifecycle Management. The mention of upgrade steps and best practices hints at ALM but does not delve into the lifecycle stages or governance principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -754,7 +760,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:13:02",
+    "calculated_at": "2025-03-15T05:28:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -762,7 +768,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions rather than broader engineering excellence principles. While it touches on best practices for upgrades, it lacks a comprehensive discussion on software craftsmanship, coding standards, or continuous improvement processes, which are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -886,12 +892,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:28:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a specific error encountered during the upgrade process of Team Foundation Server, which relates to the operational aspect of software. It focuses on troubleshooting a technical issue that affects the upgrade of existing software, indicating a consideration of software functionality, but it does not primarily discuss broader principles or practices of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions rather than the broader principles of working software. While it touches on aspects of software functionality and operational issues, it lacks a comprehensive discussion on delivering high-quality software or aligning with user requirements, which are central to the 'Working Software' category.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1135,21 +1144,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:28:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content centers on troubleshooting issues with Team Foundation Server 2012, which operates on Windows, and includes instructions on upgrading and managing the environment, directly referencing Windows components and SQL Server integration.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server (TFS) 2012, which operates on the Windows platform. It explicitly mentions error messages and troubleshooting steps that are relevant to the Windows environment, particularly in relation to SQL Server and TFS. The depth of discussion includes specific error codes, potential solutions, and best practices for managing TFS updates, all of which align closely with the key topics outlined in the Windows category. The content does not stray into non-Windows operating systems or unrelated software, maintaining a strong focus on Windows-related issues.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:28:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading Team Foundation Server and mentions steps to ensure a smooth upgrade process. While it's primarily focused on troubleshooting and error handling rather than deployment methodologies, it does touch upon measures related to upgrading, which can be construed as part of deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and recovery steps rather than deployment strategies. While it touches on aspects of the upgrade process, it lacks a direct discussion of methodologies or practices related to deployment strategies such as Blue-Green Deployments or Canary Releases. The mention of steps to mitigate issues during upgrades is relevant but does not provide a comprehensive exploration of deployment strategies.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1189,12 +1204,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:28:22",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses specific errors encountered during the upgrade of Team Foundation Server, provides diagnostic information from logs, and outlines steps for resolving these upgrade issues. It is primarily focused on troubleshooting the encountered problems.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues encountered during the upgrade of Team Foundation Server 2012, detailing specific error messages and their implications. It provides a systematic approach to diagnosing the problems, including examining logs and identifying SQL Server communication errors. The depth of discussion includes specific error codes, potential causes, and a step-by-step solution for restoring data and ensuring a successful upgrade. This aligns closely with the key topics of the Troubleshooting category, demonstrating both conceptual alignment and depth of discussion.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",

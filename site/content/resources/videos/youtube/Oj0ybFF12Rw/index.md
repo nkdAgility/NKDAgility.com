@@ -28,11 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Scaling Scrum
-- Agile Project Management
 - Software Development
+- Agile Project Management
+- Professional Scrum
+- Agile Frameworks
 - Scaling Agility
+- Scaled Agile
 resourceTypes:
 - video
 categories:

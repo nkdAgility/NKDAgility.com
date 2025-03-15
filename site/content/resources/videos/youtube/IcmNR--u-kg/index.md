@@ -27,8 +27,8 @@ duration: 154
 isShort: false
 tags:
 - Discovery and Learning
-- People and Process
 - Continuous Learning
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

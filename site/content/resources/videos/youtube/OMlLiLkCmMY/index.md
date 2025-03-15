@@ -26,11 +26,14 @@ duration: 24
 isShort: true
 tags:
 - Organisational Change
+- Team Motivation
 - Change Management
 - Employee Engagement
-- Team Motivation
+- Organisational Culture
+- Agile Leadership
 - People and Process
 - Organisational Agility
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,7 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - People and Process
+- Agile Transformation
 resourceTypes:
 - video
 categories:

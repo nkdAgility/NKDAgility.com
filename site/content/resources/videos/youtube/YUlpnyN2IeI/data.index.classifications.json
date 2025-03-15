@@ -10,12 +10,12 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T16:42:15",
+    "calculated_at": "2025-03-14T23:46:35",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting frameworks, but it does not focus on hypothesis-driven experimentation or systematic testing of ideas.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -37,12 +37,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the importance of pragmatism in applying Scrum, but it also diverges into broader Agile concepts and personal opinions, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum advice and the importance of flexibility within the Scrum framework, which aligns with the core themes of Professional Scrum. However, it primarily focuses on personal reflections and opinions rather than providing a structured exploration of Scrum principles, roles, or practices. The depth of discussion is limited, as it does not delve into specific Scrum roles or events in detail.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -55,21 +58,24 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum and Agile practices, which aligns with coaching principles. However, it primarily focuses on Scrum advice rather than coaching techniques or the role of a coach.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum, which aligns with coaching principles. However, it primarily focuses on Scrum advice rather than coaching techniques or the role of a coach. While it touches on fostering an environment for growth, it lacks detailed exploration of coaching methods or strategies.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:15",
+    "calculated_at": "2025-03-14T23:46:35",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting frameworks based on experience, but it does not focus on evidence-based leadership practices or empirical data to inform leadership decisions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -91,12 +97,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of adaptability and pragmatism in applying Scrum, which aligns with Agile Leadership themes. However, it primarily focuses on Scrum practices rather than leadership roles or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:47:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum practices and the importance of flexibility within Agile frameworks, but it lacks a direct focus on leadership roles or strategies for empowering teams. While it touches on adapting Scrum to organisational contexts, it does not delve deeply into the leadership aspects of Agile, such as fostering a culture of trust or servant leadership.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -127,30 +136,39 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum principles, focusing on the flexibility and adaptability of frameworks rather than strictly on the delivery of functional software. While it touches on the importance of value and effectiveness, it primarily revolves around the philosophy of Scrum rather than concrete examples of working software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum principles and the importance of flexibility and adaptation within Agile frameworks, which are relevant to working software. However, it lacks direct mentions of working software itself and does not provide detailed insights into software delivery or quality assurance practices. The focus is more on Scrum advice and philosophy rather than on the characteristics or metrics of working software.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting frameworks and processes based on what works for individuals and teams, which aligns with evidence-based decision-making principles. However, the primary focus is on Scrum advice rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum, which indirectly relates to decision-making processes. However, it primarily focuses on personal reflections and advice rather than structured, evidence-based methodologies for decision-making. The discussion lacks explicit references to decision-making frameworks or empirical evidence, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:46:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum and Agile frameworks, which aligns with self-organisation principles. However, it primarily focuses on the critique of dogmatic adherence to Scrum practices rather than a deep exploration of self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with self-organisation principles. It critiques rigid adherence to Scrum rules and promotes a pragmatic approach, suggesting that teams should adapt frameworks to their unique contexts. However, while it touches on self-organisation, it does not delve deeply into specific techniques or case studies that would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -244,12 +262,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting Scrum practices and the flexibility of Agile methodologies, which aligns with strategic thinking in Agile environments. However, it primarily focuses on personal advice and experiences rather than a structured discussion on strategy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with strategic approaches in Agile. It mentions crafting strategies that align with organisational objectives and emphasises the need for a pragmatic approach over dogmatism. However, while it touches on strategic concepts, it primarily focuses on personal reflections and advice rather than a comprehensive strategic framework, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -283,12 +304,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum principles and the importance of flexibility and adaptation in Agile practices, which are relevant to team collaboration. However, it primarily focuses on individual interpretations of Scrum rather than direct techniques or strategies for enhancing team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:47:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which indirectly relates to team collaboration. However, it primarily focuses on individual perspectives and advice rather than explicitly addressing team dynamics or collaboration techniques. While it touches on the need for teams to adapt Scrum principles to their contexts, it lacks detailed exploration of team communication, shared ownership, or trust-building strategies.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -424,11 +448,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses advice related to Scrum and Agile practices, which can be relevant to mentoring in those contexts. However, it primarily focuses on personal experiences and opinions rather than structured mentoring techniques or guidance.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum, which indirectly relates to mentoring by emphasising the role of educators in guiding teams. However, it lacks direct mentions of mentoring techniques or strategies, and the depth of discussion on mentoring is minimal, focusing more on Scrum practices than on the mentoring process itself.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -520,12 +547,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and the importance of flexibility and adaptation within Scrum, which relates to the concept of delivering value through increments, but it primarily focuses on general advice rather than specifically on the Increment itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:47:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum principles and the importance of flexibility and adaptation within Agile frameworks, but it does not explicitly focus on the concept of Increment or its delivery. While it touches on iterative processes and the need for adaptability, it lacks a detailed exploration of how these relate to delivering a potentially shippable product increment. The primary focus is on avoiding dogmatism in Scrum rather than on the Increment itself.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -607,12 +637,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of adaptability in implementing Scrum, but it primarily focuses on Scrum practices rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:47:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles and the importance of flexibility and adaptability within Agile methodologies. While it does touch on the need for strategies that align with organisational objectives, it primarily focuses on Scrum practices rather than a broader Agile strategy. The discussion is somewhat relevant but lacks depth in strategic planning and execution, which are key aspects of the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -643,12 +676,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting Scrum practices to fit the needs of teams, which touches on the principles of sensemaking in complex environments. However, the primary focus is on Scrum advice rather than a deep exploration of sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, focusing on flexibility and adaptation rather than rigid adherence to frameworks. While it touches on themes of decision-making and adapting strategies to unique organisational contexts, it does not explicitly engage with sensemaking principles or frameworks like the Cynefin Framework. The discussion is more about Scrum practices than the broader concept of sensemaking in complex environments.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -661,12 +697,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum practices, which relates to team performance. However, it primarily focuses on the critique of Scrum dogma rather than specific strategies or methodologies for enhancing team dynamics or collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:46:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with enhancing team dynamics and collaboration. It mentions the need for teams to adapt Scrum principles to their unique contexts, which is relevant to team performance. However, while it touches on these themes, it does not delve deeply into specific strategies or metrics for measuring team performance, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -763,20 +802,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the importance of flexibility and adaptation within the framework, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles and the importance of flexibility and adaptation within the framework, which aligns with Scrum Product Development. However, it primarily focuses on advice and reflections rather than detailed discussions on specific Scrum practices or product development processes, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the flexibility and adaptability of Scrum and Agile methodologies, which relates to operational practices. However, it primarily focuses on personal advice and experiences rather than concrete techniques or strategies for enhancing operational efficiency.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with operational practices. However, it primarily focuses on personal reflections and advice rather than concrete techniques or strategies for improving operational efficiency. The discussion lacks depth in practical applications and does not provide specific metrics or methods for optimising processes.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -838,11 +883,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum principles and the importance of flexibility in Agile practices, which are relevant to technical leadership. However, it primarily focuses on personal advice and experiences rather than providing a structured discussion on technical leadership strategies or principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum and the importance of flexibility within Agile methodologies, which aligns with some aspects of technical leadership. However, it primarily focuses on personal reflections and advice rather than providing a structured discussion on technical leadership principles, mentoring, or team dynamics. The depth of discussion is limited, lacking specific strategies or frameworks for leading teams effectively.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -865,11 +913,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T22:04:15",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile principles and the importance of flexibility and adaptability in Scrum, which aligns with Agile Planning. However, it primarily focuses on personal advice and experiences rather than structured methodologies or practices specific to Agile Planning.",
+    "calculated_at": "2025-03-14T15:27:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns closely with Agile Planning principles. It critiques rigid adherence to Scrum practices and emphasises the need for teams to adapt methodologies to their unique contexts, reflecting core Agile values. The depth of discussion on pragmatic approaches and iterative processes further supports its relevance to Agile Planning.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -919,11 +970,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the importance of flexibility in applying the framework, but it primarily focuses on general Agile advice rather than specific Scrum team dynamics or roles.",
+    "calculated_at": "2025-03-14T23:47:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Scrum principles and the importance of flexibility over rigid adherence to rules, which aligns with the Scrum framework. However, it lacks direct mentions of specific Scrum roles or team dynamics, focusing more on general Agile principles and personal reflections rather than detailed discussions on Scrum Team collaboration or practices.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -964,11 +1018,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T22:04:29",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of flexibility, adaptability, and the mindset behind Agile practices, while critiquing dogmatic adherence to Scrum rules. It emphasises value delivery and the role of individuals in adapting frameworks to suit their needs, aligning closely with Agile Philosophy.",
+    "calculated_at": "2025-03-14T23:46:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum, which aligns with Agile Philosophy. It critiques rigid adherence to Scrum practices and emphasises the need for a pragmatic approach, reflecting core Agile values. However, the primary focus remains on Scrum rather than the broader Agile principles, which slightly limits the depth of discussion on Agile Philosophy itself.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1027,12 +1084,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adapting frameworks like Scrum to individual needs and learning from experiences, which aligns with the principles of Continuous Learning. However, the primary focus is on Scrum advice rather than a deep exploration of Continuous Learning practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum, which aligns with the principles of Continuous Learning. It encourages a growth mindset by advocating for a pragmatic approach over dogmatism and highlights the need for teams to adapt frameworks to their unique contexts. However, while it touches on continuous improvement and innovation, it does not delve deeply into specific techniques for knowledge sharing or feedback loops, which limits its depth of discussion on Continuous Learning.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1063,12 +1123,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses adaptability and flexibility within Scrum and Agile frameworks, which aligns with the theme of resilience and change. However, the primary focus is on Scrum practices rather than organisational resilience strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with the principles of resilience and change. However, it primarily focuses on Scrum practices rather than organisational resilience or change management strategies. The mention of adapting Scrum to unique organisational contexts hints at resilience but lacks depth in discussing broader organisational strategies or leadership roles in change management.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1108,11 +1171,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies, which are relevant to product delivery, but it primarily focuses on personal advice and opinions rather than structured practices or methodologies directly related to the end-to-end process of delivering software products.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses Scrum, which is a framework within Agile methodologies that directly relates to product delivery. It addresses the importance of flexibility and adaptation in Scrum practices, aligning with the iterative development and feedback loops essential for effective product delivery. However, while it touches on relevant themes, the focus is more on Scrum advice and personal reflections rather than a comprehensive exploration of product delivery methodologies, which slightly limits its depth in discussing the broader category.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
@@ -1129,12 +1195,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of adapting Scrum practices based on learning and experimentation, which aligns with the themes of discovery and learning. However, the primary focus is on Scrum advice rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:46:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within the Scrum framework, which aligns with the core themes of discovery and learning. It emphasises the need for teams to adapt Scrum principles to their unique contexts, fostering innovation and continuous improvement. However, while it touches on these themes, the primary focus remains on Scrum practices rather than a broader exploration of discovery and learning methodologies, which slightly limits its depth in this category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1147,12 +1216,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of adaptability in frameworks like Scrum, which aligns with complexity thinking. However, it primarily focuses on practical advice rather than a deep exploration of complexity science or its theories.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile and Scrum principles, emphasising flexibility and adaptation, which aligns with some aspects of complexity thinking. However, it lacks direct references to complexity science or frameworks like the Cynefin Framework. The discussion is more focused on practical advice rather than a deep exploration of complexity dynamics, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1165,11 +1237,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:46:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of adapting frameworks, which aligns with practical techniques, but it primarily focuses on philosophical views rather than specific tools or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum practices and the importance of flexibility within Agile methodologies, which aligns with the category's focus on practical techniques. However, it primarily reflects on philosophical aspects rather than providing specific tools or methodologies in detail, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1183,12 +1258,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:47:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of adapting frameworks to suit organisational needs, which aligns with the theme of market adaptability. However, it primarily focuses on Scrum advice rather than broader market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum and Agile methodologies, which aligns with the principles of market adaptability. It highlights the need to move away from rigid dogmas and embrace a pragmatic approach, which is crucial for organisations to respond effectively to market changes. The depth of discussion on adapting Scrum practices to unique organisational contexts further supports its relevance to the category. However, while it touches on key themes, it does not provide extensive strategies or case studies specifically focused on market adaptability, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1228,12 +1306,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of adaptability in using frameworks like Scrum, which aligns with the theme of business agility. However, the primary focus is on Scrum practices rather than a broader discussion on business agility itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:47:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with the principles of business agility. It mentions the need to adapt Scrum practices to unique organisational contexts, reflecting a core theme of business agility. However, the primary focus is on Scrum rather than a broader discussion of business agility principles, which limits the depth of the discussion. Overall, while it touches on relevant themes, it does not fully explore the category's key topics.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1246,12 +1327,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum and Agile practices, which relates to delivering value. However, it primarily focuses on personal advice and opinions rather than structured methodologies or strategies for value delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:46:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with the principles of iterative development and customer value delivery. However, it primarily focuses on personal reflections and advice rather than concrete strategies or methodologies for value delivery, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1264,12 +1348,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of flexibility and adaptability in using Scrum, but it primarily focuses on Scrum practices rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:47:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Scrum, which aligns with the principles of organisational agility. It critiques rigid adherence to Scrum practices and advocates for a pragmatic approach that tailors Agile methodologies to fit unique organisational contexts. The depth of discussion is substantial, focusing on how teams can adapt Scrum principles to enhance their agility, although it primarily revolves around Scrum rather than broader organisational agility strategies.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1297,12 +1384,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:46:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies, touching on the importance of adapting processes to fit organisational needs, which aligns with sociotechnical principles. However, the primary focus is on Scrum advice rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of adapting Scrum principles to unique organisational contexts, which aligns with the sociotechnical systems theme of integrating social and technical aspects. However, it primarily focuses on Scrum practices and advice rather than a broader exploration of sociotechnical interactions, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1315,12 +1405,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of adapting frameworks like Scrum based on value and effectiveness, which touches on the iterative learning process. However, it primarily focuses on Scrum practices rather than metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:47:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum advice and the importance of flexibility and pragmatism in Agile practices. While it touches on themes of adaptation and continuous improvement, it lacks explicit discussions on metrics, data utilisation, or evidence-based decision-making, which are central to the 'Metrics and Learning' category. The focus is more on personal reflections and advice rather than structured analysis or metrics-driven insights.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",

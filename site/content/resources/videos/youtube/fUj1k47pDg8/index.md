@@ -2,7 +2,7 @@
 title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
 description: Unlock the secrets to effective product development! Discover how to challenge assumptions and enhance user understanding in our PPD V course.
 date: 2024-08-13T07:14:40Z
-weight: 630
+weight: 710
 ResourceId: fUj1k47pDg8
 ResourceType: videos
 ResourceImport: true
@@ -25,15 +25,15 @@ duration: 355
 isShort: false
 tags:
 - Discovery and Learning
-- People and Process
-- Empirical Process Control
 - Product Discovery
+- People and Process
 - Product Validation
 - Experimentation
-- Continuous Learning
-- Pragmatic Thinking
-- Sensemaking
+- Empirical Process Control
 - Ability to Innovate
+- Agile Product Management
+- Continuous Learning
+- Hypothesis Driven Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

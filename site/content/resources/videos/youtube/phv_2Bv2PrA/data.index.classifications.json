@@ -22,7 +22,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:24:10",
+    "calculated_at": "2025-03-15T02:14:12",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -30,7 +30,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile practices and their importance in modern product development, touching on aspects of engineering excellence such as adaptability, continuous delivery, and the need for high-quality deliverables. However, it primarily focuses on Agile methodologies rather than explicitly promoting high standards in software craftsmanship or detailed engineering processes. While it aligns with some core themes, it lacks depth in discussing specific engineering practices or metrics, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -109,12 +109,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:22:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a mention of upcoming professional Scrum classes, indicating it is related to educational events, but the main focus is on applying agile philosophy rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and their importance in modern product development but does not explicitly reference any events, presentations, or discussions related to them. While it aligns conceptually with the themes of Agile and DevOps, it lacks direct mentions of events or structured learning experiences, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -226,7 +229,7 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-10T18:23:38",
+    "calculated_at": "2025-03-15T02:14:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -234,7 +237,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Agile practices and the need for teams to adapt to complex environments, which aligns with the principles of self-organisation. However, it primarily focuses on contrasting traditional management practices with Agile methodologies rather than explicitly exploring self-organisation principles or techniques. The depth of discussion on self-organisation is limited, as it does not provide specific techniques or case studies related to fostering autonomy and trust within teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -313,7 +316,7 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-07T14:19:18",
+    "calculated_at": "2025-03-15T02:14:12",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -321,7 +324,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile practices and the transition from traditional management to Agile methodologies, with a focus on product development and market responsiveness. While it touches on aspects of coaching, such as the importance of collaboration and adaptability, it lacks a direct focus on coaching techniques, the role of a coach, or fostering a growth mindset. The discussion is more about Agile principles and practices rather than the coaching process itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -334,12 +337,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T12:22:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:34:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses applying agile philosophy and includes themes of self-organizing teams and continuous improvement, which align with Agile Strategy principles, but it does not primarily focus on organizational strategy or execution.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the need for Agile practices in modern product development, highlighting the shift from traditional management to Agile methodologies. It addresses key themes such as adaptability, continuous value delivery, and the importance of aligning with customer needs, which are central to Agile Strategy. The depth of discussion is significant, providing insights into the unpredictability of requirements, technology, and human behaviour, and how Agile can mitigate these risks. Overall, the content aligns well with the category, making it a strong candidate for classification under Agile Strategy.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -400,7 +406,7 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-10T12:24:14",
+    "calculated_at": "2025-03-15T02:14:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -408,7 +414,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses Agile practices and their necessity in modern product development, touching on the need for adaptability and responsiveness to change. However, it primarily focuses on Agile methodologies rather than explicitly addressing change management strategies or practices. While there are mentions of adapting to complex environments and the importance of continuous delivery, the depth of discussion on change management principles, stakeholder engagement, and leadership roles is limited. Therefore, while there is some alignment with the category, it is not the primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -472,7 +478,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T17:49:55",
+    "calculated_at": "2025-03-15T02:14:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -480,7 +486,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile practices and their relevance to modern product development, which is more focused on project management and organisational dynamics rather than the core principles of software craftsmanship. While it touches on aspects of adaptability and risk mitigation, it lacks a strong emphasis on technical excellence, clean code, or software architecture, which are central to the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -511,12 +517,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organizing teams and continuous improvement, which are related to cultural aspects of Agile, but the primary focus appears to be on the Agile philosophy itself rather than a deep exploration of organisational culture.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile practices and their necessity in modern product development, touching on the shift from traditional management to Agile methodologies. However, while it mentions aspects of team dynamics and the importance of adapting to change, it lacks a focused discussion on organisational culture itself. The primary emphasis is on Agile processes rather than the cultural elements that influence these practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -565,11 +574,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agile philosophy and the dynamics of self-organizing teams, which are related to technical leadership, but it does not primarily focus on the key principles or practices of technical leadership itself.",
+    "calculated_at": "2025-03-15T02:15:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses agile practices and their importance in modern product development, touching on the need for adaptability and responsiveness in complex environments. However, it lacks a direct focus on technical leadership principles, such as mentoring, servant leadership, or specific strategies for guiding teams. While it aligns with some core themes of technical leadership, it primarily addresses agile methodologies without delving deeply into the leadership aspects that drive team dynamics and collaboration.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -601,21 +613,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content briefly mentions technical excellence within the context of agile philosophy, but the primary focus is on agile principles and personal growth rather than engineering practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:14:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and their importance in modern product development, but it lacks a direct focus on specific engineering practices or methodologies that enhance technical excellence. While it touches on concepts like adaptability and delivering value incrementally, it does not delve into technical topics such as TDD, CI/CD, or modular architecture, which are essential for the 'Technical Excellence' category. The discussion is more about Agile philosophy and its application rather than technical engineering practices.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses applying agile philosophy to foster change and growth, indicating a major theme of organisational change, but also focuses broadly on personal and technical development.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile practices and their necessity in modern product development, highlighting the shift from traditional management to Agile methodologies. While it touches on themes relevant to organisational change, such as adapting to complexity and the need for agility, it primarily focuses on Agile practices rather than the broader strategies and frameworks of organisational change. The depth of discussion on Agile's role in transforming organisations is present but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -637,12 +655,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-organizing teams and their impact, indicating a focus on team dynamics, which aligns with the category, although the primary focus appears to be on Agile philosophy rather than solely on people and processes.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Agile practices, focusing on the interplay between human behaviour and structured methodologies in product development. It highlights the unpredictability of human factors, team dynamics, and the need for effective communication and feedback loops, which are central to the 'People and Process' category. The depth of discussion on how Agile addresses these challenges further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -655,21 +676,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile philosophy and its application for fostering change and growth, which relates to aspects of business agility, but it mainly focuses on personal and professional realms rather than organizational practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:14:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the need for agile practices in modern product development, highlighting the shift from traditional management to agile methodologies. It addresses the principles of business agility, such as adaptability to change, the importance of delivering value incrementally, and the role of feedback in reducing risk. The depth of discussion is significant, with detailed examples and insights into how agile practices can enhance responsiveness and effectiveness in a complex environment. However, while it aligns closely with the themes of business agility, it does not explicitly label itself as a discussion on business agility, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on Agile philosophy, it mentions self-organizing teams, which relates to complexity science. However, the overall theme leans more toward general Agile principles rather than a deep dive into complexity thinking.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:15:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the shift from traditional management practices to Agile methodologies in the context of complexity, highlighting the unpredictability and non-linear dynamics of modern work environments. It explicitly mentions complexity in relation to Agile practices and the challenges of predictability in product development. The depth of discussion includes specific examples and insights into how Agile addresses these complexities, aligning well with the core themes of the category. However, while it is a strong focus, it does not delve deeply into complexity science theories or frameworks like the Cynefin Framework, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -718,12 +745,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on themes of self-organizing teams, continuous improvement, and applying agile philosophy, which can relate to Agile leadership, but it primarily focuses on general agile philosophy and personal growth rather than leadership roles or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the need for Agile practices in modern product development and touches on the shift from traditional management to Agile methodologies. While it highlights the importance of adaptability and responsiveness, it lacks a direct focus on leadership roles or practices within Agile contexts. The discussion is more centred on Agile principles and practices rather than explicitly addressing how leaders can facilitate these changes or empower teams, which is crucial for the Agile Leadership category.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -745,12 +775,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile philosophy and mentions continuous improvement, which relates to empirical process control, but it does not primarily focus on the key principles or practices of empirical process control.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile practices and the need for adaptation in response to complexity and unpredictability, which aligns with the principles of empirical process control. However, it does not explicitly mention empirical process control or its key figures, and the discussion lacks depth in terms of specific techniques or case studies related to inspection and adaptation.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -763,21 +796,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions self-organizing teams and their impact, suggesting a connection to team dynamics and collaboration, but it primarily focuses on the broader Agile philosophy and personal growth.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices and their importance in modern product development, touching on team dynamics and the need for collaboration. However, it primarily focuses on the challenges of predictability and complexity in product development rather than explicitly addressing team collaboration techniques or dynamics. While there are mentions of team dynamics and the importance of delivering value incrementally, the depth of discussion on collaboration strategies is limited.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile philosophy and its application for growth and sustainable development, which are relevant to market adaptability, but the primary focus is on personal and professional development rather than specific market adaptability strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:14:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Agile practices and their necessity in responding to the complexities of modern product development, which aligns well with the principles of market adaptability. It highlights the importance of continuous feedback, risk mitigation, and the ability to pivot based on customer needs, all of which are core themes of the category. The depth of discussion on how Agile methodologies enhance responsiveness to market changes further supports a high confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -835,12 +874,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses elements related to agile philosophy and self-organizing teams, which are relevant to Agile Project Management, but it emphasizes personal growth over specific project management frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:14:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the need for agile practices in modern product development, highlighting the limitations of traditional project management frameworks and the benefits of agile methodologies. It covers key concepts such as iterative development, risk mitigation, and the importance of delivering value incrementally, which are central to Agile Project Management. The author’s experience as a Scrum and Kanban trainer adds depth to the discussion, making it a primary focus on agile principles.",
+    "level": "Primary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -880,21 +922,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions self-organizing teams and their impact, which relates to team dynamics and motivation, but the primary focus is on agile philosophy and personal growth rather than explicitly on team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile practices and their importance in modern product development, touching on team dynamics and human behaviour. However, it primarily focuses on the challenges of predictability and the need for agile methodologies rather than explicitly addressing team motivation strategies or practices. While there are mentions of team dynamics, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses personal growth and reflections related to the application of agile philosophy, but it also includes significant emphasis on technical aspects and strategies that may not align closely with personal experiences.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content includes personal reflections on the author's journey as a Scrum trainer and insights into the challenges of adopting Agile practices. It discusses personal experiences and interpretations of Agile in the context of modern product development, aligning well with the Personal category. However, while it does provide personal anecdotes, the focus is also heavily on technical aspects and general Agile principles, which slightly detracts from the personal emphasis.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -997,12 +1045,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for sustainable development and emphasizes continuous improvement, which are relevant to Agile strategy, but the primary focus is on Agile philosophy and personal growth rather than specific strategic approaches.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the need for Agile practices in modern product development, highlighting the shift from traditional management to Agile methodologies. It addresses strategic alignment with customer needs, the importance of delivering value incrementally, and adapting to complexity and unpredictability in the market. While it does not explicitly label these discussions as 'strategy', the core themes of strategic alignment, value-driven approaches, and continuous improvement are prevalent throughout the text, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1015,21 +1066,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily emphasizes the application of Agile Philosophy for personal and professional growth, touching on core themes such as self-organizing teams, continuous improvement, and sustainable development. While it mentions technical excellence and practical applications, the focus remains on the philosophical underpinnings of Agile.",
+    "calculated_at": "2025-03-15T02:14:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the Agile Philosophy, focusing on its principles such as adaptability, customer collaboration, and continuous improvement. It contrasts traditional management practices with Agile approaches, highlighting the need for flexibility in complex environments. The depth of discussion on how Agile practices mitigate risks and deliver value aligns well with the core themes of the category, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the agile philosophy, which is a significant topic in product delivery, but it primarily focuses on personal growth and broader application rather than specific product delivery methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:14:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Agile methodologies and their significance in product delivery, focusing on the iterative process, risk mitigation, and the importance of customer feedback. It aligns well with the core themes of product delivery, such as planning, development, and deployment phases. The depth of discussion is substantial, providing insights into how Agile practices can enhance the delivery of usable software products. However, while it is primarily focused on Agile, it does not delve deeply into all aspects of product delivery, such as testing and deployment strategies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1042,21 +1099,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile philosophy and its application to foster change and growth, highlighting themes such as self-organizing teams, continuous improvement, and sustainable development, which align with aspects of organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:15:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the need for agile practices in response to complexity in modern product development, aligning well with the principles of organisational agility. It highlights the shift from traditional management to agile methodologies, emphasising adaptability, customer feedback, and continuous improvement. The depth of discussion on how agile practices mitigate risks and enhance responsiveness further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses applying agile philosophy and concepts, highlighting themes related to personal and professional growth, self-organizing teams, and continuous improvement, which are relevant to Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Agile practices, their necessity in modern product development, and contrasts them with traditional project management frameworks. It highlights the importance of adaptability, continuous feedback, and incremental value delivery, which are core themes of Agile transformation. The author’s personal experience as a Scrum and Kanban trainer adds depth to the discussion, providing insights into the practical application of Agile methodologies. Overall, the content aligns closely with the principles and practices of Agile transformation.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1069,12 +1132,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile philosophy and its application for fostering change and growth, which aligns with adaptive change and continuous improvement themes relevant to resilience and change, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the need for agile practices in response to complexity and unpredictability in modern product development, which aligns with the themes of resilience and adaptability. However, while it touches on these concepts, the primary focus is on agile methodologies rather than a comprehensive exploration of organisational resilience or change management strategies. The depth of discussion on resilience and change is limited, as it primarily revolves around agile practices without delving into broader organisational frameworks or leadership roles.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1168,12 +1234,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content emphasizes aspects of the agile philosophy that relate to continuous improvement and self-organizing teams, indicating a focus on learning and adaptation, but is not solely dedicated to the principles of discovery and learning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:14:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of Agile practices in adapting to complexity and unpredictability in product development, which aligns well with the themes of discovery and learning. It highlights the role of feedback loops, the need for continuous learning from customer interactions, and the iterative nature of Agile methodologies. However, while it touches on these concepts, the primary focus is on Agile practices rather than a broader exploration of discovery and learning processes, which slightly limits its depth in this specific category.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1213,12 +1282,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses applying agile philosophy and includes practical strategies for personal and professional growth, suggesting a focus on real-world applications of Agile principles, but it's not solely centered on pragmatic problem-solving techniques.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the need for Agile practices in navigating complexity, emphasising practical problem-solving strategies and real-world applications. It highlights the importance of adaptability and critical thinking in project management, aligning closely with the core themes of Pragmatic Thinking. The depth of discussion is significant, providing detailed insights into how Agile can mitigate risks and enhance collaboration, thus demonstrating a strong alignment with the category.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1240,12 +1312,15 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:14:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses self-organizing teams and agile philosophy, which relates to the principles of Beta Codex, but does not primarily focus on Beta Codex concepts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile practices and their necessity in modern product development, which aligns with some principles of Beta Codex, such as decentralisation and adaptability. However, it primarily focuses on traditional project management frameworks and does not explicitly mention Beta Codex or its core tenets. The depth of discussion on decentralised and human-centric approaches is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1285,12 +1360,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses concepts related to Agile philosophy, self-organizing teams, and continuous improvement, but it is primarily framed as a video promoting services and personal growth rather than a focused discussion on Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile's response to complexity and the importance of delivering value incrementally, which aligns well with Agile principles. It highlights customer collaboration and the need for adaptability, reflecting core Agile values. However, it also delves into specific Agile practices and frameworks, which slightly detracts from its focus on the underlying values and principles.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1303,12 +1381,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organizing teams and their impact, which is a theme related to sociotechnical systems, but it primarily focuses on agile philosophy and personal growth.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:14:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the shift from traditional management practices to agile methodologies, highlighting the interplay between organisational structures and technology in modern product development. While it touches on team dynamics and the importance of adapting to complexity, it does not explicitly frame these discussions within the sociotechnical systems context. The depth of discussion on agile practices and their impact on organisational effectiveness is significant, but the primary focus remains on agile methodologies rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1393,12 +1474,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T12:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for continuous improvement and the dynamics of self-organizing teams, which are relevant to operational practices, but the primary focus is on agile philosophy rather than practical applications of operational efficiencies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:15:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile practices extensively, focusing on their application in modern product development and the need for operational efficiency in response to complexity. It highlights the importance of delivering value incrementally, reducing waste, and adapting to change, which aligns well with the core themes of operational practices. The depth of discussion on Agile methodologies and their practical implications further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

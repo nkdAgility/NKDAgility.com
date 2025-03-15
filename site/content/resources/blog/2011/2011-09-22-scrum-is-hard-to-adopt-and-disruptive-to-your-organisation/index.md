@@ -8,7 +8,7 @@ ResourceImportId: 3789
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-22
-weight: 680
+weight: 670
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,6 +24,15 @@ aliasesArchive:
 - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 tags:
 - People and Process
+- Agile Project Management
+- Software Development
+- Agile Transformation
+- Pragmatic Thinking
+- Agile Frameworks
+- Product Delivery
+- Agile Product Management
+- Scrum Product Development
+- Change Management
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-4-4.png

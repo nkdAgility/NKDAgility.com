@@ -8,7 +8,7 @@ ResourceImportId: 4223
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
-weight: 495
+weight: 575
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,11 +25,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Products and Books
-- Software Development
-- Events and Presentations
-- Software Developers
-- People and Process
-- Team Collaboration
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-3-3.png

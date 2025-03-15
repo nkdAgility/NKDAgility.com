@@ -20,10 +20,8 @@ card:
     content: More info
   title: Kanban Method
   content: Kanban Method
-categories:
-- Scrum
-tags:
-- Professional Scrum
+categories: []
+tags: []
 
 ---
 Description of Scrum Framework.

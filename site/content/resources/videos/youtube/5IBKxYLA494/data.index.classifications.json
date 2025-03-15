@@ -10,12 +10,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Azure DevOps to support Scrum processes, which includes elements of strategic alignment and optimisation of delivery. However, the primary focus is on practical implementation rather than a deep exploration of strategic concepts.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on enhancing Scrum processes through Azure DevOps, which aligns well with strategic discussions in Agile environments. It discusses the importance of adapting practices to team behaviours and objectives, which is a key aspect of strategic alignment. The depth of discussion on refining backlog management, sprint planning, and execution indicates a strong understanding of strategic practices within Scrum. However, while it touches on strategic concepts, it does not delve deeply into broader strategic frameworks or metrics, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -178,29 +181,38 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various aspects of Scrum, including backlog management and refinement, which are relevant to the Product Owner's role. However, it primarily focuses on the use of Azure DevOps and Scrum processes rather than the specific responsibilities and strategies of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses various aspects of Scrum and Agile practices, including backlog management and stakeholder collaboration, which are relevant to the Product Owner role. However, it primarily focuses on the use of Azure DevOps and Scrum events rather than explicitly detailing the responsibilities and strategies of a Product Owner. While there are mentions of backlog refinement and stakeholder engagement, the depth of discussion on the Product Owner's specific responsibilities is limited.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various aspects of Scrum and Azure DevOps, including work item tracking, Sprint planning, and the flow of work. While it touches on concepts related to throughput, such as cycle time and lead time, these are not the primary focus. The main emphasis is on Scrum practices and tool usage rather than a dedicated exploration of throughput as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps, with only brief mentions of metrics and backlog management. While it touches on aspects of team performance and workflow, it lacks a direct and detailed discussion on throughput as defined in Agile and DevOps contexts. The emphasis is more on Scrum processes rather than optimising work completion rates.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the use of Azure DevOps to support Scrum processes, touching on aspects of team collaboration, visibility of work, and the importance of communication during Scrum events. However, the primary focus is on the technical setup and implementation of Scrum practices rather than a dedicated exploration of transparency itself.",
+    "calculated_at": "2025-03-14T19:15:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum processes and the use of Azure DevOps, which indirectly touches on transparency through the mention of visibility in project management and team collaboration. However, it lacks a focused discussion on transparency as a primary theme, and while it mentions the importance of clear communication and visibility, it does not delve deeply into the specific techniques or tools that promote transparency in Agile environments.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -244,11 +256,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Scrum framework and how to implement it using Azure DevOps, which includes elements of self-organisation such as team autonomy and collaboration. However, the primary focus is on the technical setup and processes rather than on the principles and practices of self-organisation itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum practices and the use of Azure DevOps to enhance team processes, which aligns with self-organisation principles. It mentions the importance of adapting practices to team behaviours and objectives, reflecting autonomy. However, while it touches on self-organisation, the primary focus is on tools and processes rather than a deep exploration of self-organisation principles or techniques. The depth of discussion on fostering a culture of autonomy is moderate, leading to a balanced confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -292,12 +307,15 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Scrum process and mentions the Definition of Done in the context of validating work items, but it is primarily focused on using Azure DevOps to support Scrum practices rather than on the Definition of Done itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:14:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps to enhance Scrum processes, with minimal direct mention of the Definition of Done. While it discusses Scrum events and practices, it does not provide specific criteria or details related to the Definition of Done, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -337,12 +355,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and the use of Azure DevOps to support Agile methodologies, touching on aspects of transparency, inspection, and adaptation. However, it primarily focuses on the implementation of Scrum processes rather than a deep exploration of empirical process control principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:14:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum practices and the use of Azure DevOps to enhance these practices, which aligns with empirical process control principles. It mentions the importance of adapting tools and practices based on team behaviours and objectives, reflecting the core themes of transparency, inspection, and adaptation. However, while it touches on these concepts, the primary focus is on practical implementation rather than a deep exploration of empirical process control itself.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -481,12 +502,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the implementation of Scrum within Azure DevOps, which includes references to Agile practices and principles. However, it focuses more on specific Scrum roles and events rather than the broader Agile philosophy itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and its integration with Azure DevOps, which aligns more with specific practices rather than the broader Agile Philosophy. While it touches on concepts like adaptability and continuous improvement, these are secondary to the technical discussions about Scrum processes and tools. The direct mentions of Agile principles are minimal, and the depth of discussion is largely centred on Scrum mechanics rather than the underlying Agile mindset.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -499,12 +523,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Azure DevOps to support Scrum processes, which includes elements of technical leadership such as facilitating agile ceremonies and mentoring teams in agile practices. However, the primary focus is on the technical implementation of Scrum within Azure DevOps rather than on broader themes of technical leadership.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on utilising Azure DevOps to enhance Scrum processes, which aligns with technical leadership in guiding teams through agile practices. However, while it discusses Scrum events and tools, it lacks a strong emphasis on the principles of technical leadership, such as mentoring, team dynamics, and conflict resolution. The depth of discussion on leadership strategies is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -562,21 +589,27 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Azure DevOps to support Scrum processes, which includes elements of coordination and collaboration among teams. However, it primarily focuses on the implementation of Scrum practices rather than explicitly addressing the scaling of Scrum across multiple teams or organisational levels.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on using Azure DevOps to enhance Scrum processes, which is relevant but does not explicitly address scaling Scrum across multiple teams or organisational levels. While it discusses Scrum roles and events, it lacks a comprehensive exploration of frameworks for scaling, coordination among teams, or challenges specific to scaling Scrum. The discussion is more about optimising Scrum practices within a single team context rather than scaling them across an organisation.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-13T17:56:54",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses Cycle Time in the context of Azure DevOps and Scrum, explaining how it is measured and its relevance to workflow efficiency. It provides insights into the relationship between Cycle Time and other metrics, as well as practical applications within the Scrum framework.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T19:13:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps, with only a brief mention of metrics and performance improvement. While it discusses aspects of workflow and team management, it does not explicitly address Cycle Time or its measurement, which is crucial for the category. The discussion lacks depth on Cycle Time as a metric, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -661,30 +694,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-13T17:57:17",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T15:13:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily focuses on the application of the Scrum framework within Azure DevOps, discussing Scrum roles, events, and practices in detail, while also addressing the theoretical foundations of Scrum as outlined in the Scrum Guide.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses various aspects of the Scrum framework, including roles, events, and backlog management, while integrating these concepts with Azure DevOps. It provides a detailed examination of Scrum practices, such as Sprint Planning, Daily Scrum, and Sprint Review, demonstrating a strong alignment with the core themes of Professional Scrum. The author’s background as a professional Scrum trainer adds credibility and depth to the discussion, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Daily Scrum as part of the Scrum framework, but it primarily focuses on using Azure DevOps to support various Scrum processes, making the Daily Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Daily Scrum as part of the overall Scrum framework, mentioning its role in reviewing progress and identifying impediments. However, the focus is primarily on Azure DevOps and its integration with Scrum practices, which dilutes the emphasis on the Daily Scrum itself. While it provides some relevant insights, the depth of discussion specifically about the Daily Scrum is limited compared to the broader context of Scrum and Azure DevOps.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses decision-making processes within the context of Scrum and Azure DevOps, particularly in relation to Sprint planning, refinement, and collaboration among team members. However, the primary focus is on the implementation of Scrum practices rather than a structured, evidence-based approach to decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:14:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Scrum process and the use of Azure DevOps to enhance Agile practices. While it touches on aspects of decision-making, such as adapting practices to team behaviours and objectives, it lacks a structured discussion on evidence-based methodologies or frameworks for decision-making. The mention of metrics is limited and does not delve into how data analytics or empirical evidence can guide decisions. Overall, the content is more about practical implementation than structured decision-making.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -724,20 +766,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-13T17:57:35",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-03-14T19:13:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
     "final_score": 78.0,
-    "reasoning": "The content primarily discusses the use of Azure DevOps to support Scrum practices, which is directly relevant to software developers working within Agile and DevOps frameworks. It covers best practices, team dynamics, and tools that enhance collaboration and productivity in software delivery.",
+    "reasoning": "The content primarily focuses on how to leverage Azure DevOps within the Scrum framework, which is a key aspect of Agile methodologies. It discusses best practices for Scrum, including project setup, backlog management, and sprint execution, all of which are directly relevant to software developers. The author’s expertise and practical insights enhance the depth of the discussion, making it highly relevant to the role of software developers in Agile contexts.",
     "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-13T17:57:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how to use Azure DevOps, specifically Azure Boards, within the context of Scrum practices. It covers various aspects of Azure Boards, including work item types, custom processes, backlog management, sprint planning, and team collaboration, making it a central theme of the discussion.",
+    "calculated_at": "2025-03-14T19:13:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Scrum, which indirectly relates to Azure Boards as it is a component of Azure DevOps. However, the primary focus is on Scrum practices rather than Azure Boards specifically. While there are mentions of customising Azure DevOps and managing backlogs, the depth of discussion on Azure Boards' specific functionalities and best practices is limited. The content does not provide a comprehensive overview of Azure Boards or its features, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -751,21 +799,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-13T17:57:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:13:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18.0,
+    "ai_alignment": 36.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of Scrum practices within Azure DevOps, which is a key aspect of Agile transformation. It covers Scrum roles, events, and the adaptation of processes to support Agile methodologies, making it a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps to enhance Scrum processes, which is a specific Agile framework. It discusses various Scrum roles, events, and practices, indicating a strong alignment with Agile principles. However, while it touches on Agile transformation concepts, it lacks a broader discussion on organisational change management, leadership roles, and cultural shifts necessary for a comprehensive Agile transformation. The depth of discussion is substantial regarding Scrum but does not fully encompass the wider scope of Agile transformation strategies.",
     "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-13T17:57:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Scrum framework and its implementation using Azure DevOps, focusing on the delivery of software increments, Sprint planning, and the importance of refining the product backlog to ensure valuable increments are produced.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T19:14:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses various aspects of the Scrum process, including Sprint Planning, Refinement, and the importance of collaboration with stakeholders during the Sprint Review, which are all integral to delivering a potentially shippable Increment. However, while it touches on the significance of adapting practices to support team objectives, it does not delve deeply into the specific metrics or techniques for measuring the value of each Increment, which slightly limits its depth of discussion on the Increment concept.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -841,12 +895,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Azure DevOps to support Scrum processes, which includes elements of operational practices such as workflow management, process optimisation, and team collaboration. However, the primary focus is on Scrum roles and events rather than a broader discussion of operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the integration of Azure DevOps with Scrum practices, which aligns with operational efficiency in Agile frameworks. It mentions specific practices like backlog management and sprint planning, which are relevant to operational practices. However, while it touches on these topics, the depth of discussion on broader operational strategies and metrics is limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -859,11 +916,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-13T17:58:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how to use Azure DevOps to support Scrum processes, focusing on team dynamics, collaboration during events like Sprint planning and reviews, and the importance of communication within the team. It explores techniques for effective collaboration and the role of shared ownership in Agile practices.",
+    "calculated_at": "2025-03-14T19:14:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on enhancing team collaboration within the Scrum framework using Azure DevOps. It discusses various aspects of Scrum, such as refinement, sprint planning, and retrospectives, which are crucial for team dynamics and communication. The author emphasises adapting practices to support team behaviours and objectives, aligning well with the core themes of the category. The depth of discussion is substantial, providing detailed insights into how tools can facilitate collaboration, although it could further explore psychological safety and trust within teams.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -913,12 +973,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the technical implementation of Scrum within Azure DevOps, with some references to Agile principles and practices. However, it lacks a strong emphasis on strategic alignment, adaptability, or leadership roles in fostering an Agile culture, which are central to the Agile Strategy category.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the practical application of Scrum within Azure DevOps, discussing specific tools and practices rather than the broader strategic alignment of Agile principles with organisational vision. While it touches on adaptability and customisation, it lacks a comprehensive exploration of Agile strategy as defined in the category. The discussion is more technical and operational, which detracts from its alignment with the strategic focus required for a higher confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -940,20 +1003,26 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-13T17:58:52",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-14T19:14:07",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "Content primarily focuses on the application of the Scrum framework within Azure DevOps, discussing roles, ceremonies, and practices that align with Agile Project Management principles.",
+    "final_score": 86.0,
+    "reasoning": "The content extensively discusses the Scrum framework, including roles, ceremonies, and backlog management, which are core aspects of Agile Project Management. It provides detailed insights into using Azure DevOps to enhance Scrum processes, demonstrating a strong alignment with agile principles. The depth of discussion on refinement, sprint planning, and retrospectives further supports its relevance to the category.",
     "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-13T17:58:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:14:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the Scrum framework, detailing its roles, events, and how to implement it using Azure DevOps. It discusses Scrum principles, practices, and the integration of Scrum with tools, making it a central topic.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, discussing its principles, practices, and integration with Azure DevOps. It provides a detailed exploration of Scrum roles, events, and the importance of adapting practices to team needs, aligning well with the core themes of Agile frameworks. The depth of discussion is significant, covering various aspects of Scrum implementation and management, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -976,11 +1045,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T17:59:08",
-    "ai_confidence": 90,
-    "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the use of Azure DevOps to support Scrum practices, detailing various Scrum events, roles, and configurations within the context of software development. It focuses on methodologies and practices relevant to the software development lifecycle.",
+    "calculated_at": "2025-03-14T19:14:14",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 0,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps to enhance Scrum processes, which is a core aspect of software development methodologies. It discusses specific Scrum practices, the setup of Azure DevOps in relation to Scrum, and the importance of refining and managing backlogs, all of which align closely with the key topics of the Software Development category. The depth of discussion is substantial, providing detailed insights into Scrum events and how Azure DevOps can facilitate these processes. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Primary"
   },
   "Cross Functional Teams": {
@@ -994,21 +1066,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-13T17:59:13",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-14T19:14:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "Content primarily focuses on the application of Scrum principles and practices within Azure DevOps, detailing Scrum roles, events, and the management of the product backlog.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses various aspects of the Scrum framework, including roles, sprint planning, backlog management, and the importance of refinement. It also highlights the integration of Azure DevOps with Scrum practices, demonstrating a clear focus on product development within a Scrum environment. The depth of discussion on specific Scrum events and practices, along with the emphasis on adapting tools to support Scrum principles, further solidifies its alignment with the category.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Scrum framework and its implementation in Azure DevOps, with some references to hypothesis-driven practices. However, the primary focus is on Scrum roles, events, and tools rather than on formulating and testing hypotheses.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps to enhance these practices. While it briefly mentions 'value-focused, hypothesis-driven, flow-based practices,' it does not delve into the formulation of hypotheses, experimentation, or validated learning, which are central to Hypothesis Driven Development. The discussion lacks depth in these areas, making it more of a general Agile and Scrum discussion rather than a focused exploration of hypothesis-driven methodologies.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1030,11 +1108,14 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-13T17:59:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:14:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the management and refinement of the Product Backlog within the context of using Azure DevOps for Scrum, including backlog item creation, prioritisation, and the relationship between backlog management and Sprint planning.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Product Backlog in detail, particularly in the context of Scrum and Azure DevOps. It explicitly mentions backlog management, refinement, and the importance of maintaining a well-organised backlog. The depth of discussion includes practical insights on how to set up and manage a product backlog effectively, aligning closely with the key topics outlined for the Product Backlog category. While the content also covers broader Scrum practices, the focus on backlog management is significant enough to warrant a high confidence score.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -1117,12 +1198,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Azure DevOps in the context of Scrum, which suggests a presentation or workshop format. However, it primarily focuses on technical implementation rather than a specific event or presentation.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps to enhance Scrum processes, which aligns with Agile practices. However, it lacks explicit references to specific events or presentations, making it more of a tutorial or guide rather than a discussion of an event. While it does mention the author's background and expertise, it does not detail any actual events, talks, or presentations, which is crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1192,21 +1276,27 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the use of Azure DevOps in the context of Scrum, touching on metrics like cycle time and lead time, as well as the importance of evidence-based decision-making during Scrum events. However, the primary focus is on Scrum practices rather than a deep exploration of metrics and learning.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the Scrum process and how to leverage Azure DevOps for Agile practices, but it lacks a strong focus on metrics and learning. While it briefly mentions the absence of metrics in Scrum and touches on the importance of adapting practices, it does not delve deeply into the role of metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. The discussion is more about Scrum implementation rather than evidence-based decision-making or continuous improvement methodologies.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the Scrum framework and its implementation using Azure DevOps, which are tools and practices that can support organisational agility. However, it does not deeply explore broader strategies or cultural shifts necessary for enhancing organisational adaptability, making agility a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and its integration with Azure DevOps, which are specific Agile methodologies. While it discusses aspects of adaptability and continuous improvement, it does not deeply explore broader organisational agility concepts such as leadership roles, cross-functional teams, or cultural shifts. The discussion is more about implementing Scrum practices rather than enhancing overall organisational agility.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1219,12 +1309,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:14:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the use of Azure DevOps in the context of Scrum practices, which aligns with Agile methodologies. However, it does not focus on specific products or literature, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on using Azure DevOps to enhance Scrum practices, which aligns with the category's emphasis on tools that facilitate Agile methodologies. It discusses specific features of Azure DevOps and how they can be tailored to support Scrum, providing practical insights and recommendations. However, while it mentions the Scrum framework and its integration with Azure DevOps, it lacks a direct review or analysis of literature or books related to Agile or DevOps, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1291,12 +1384,12 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T13:13:02",
+    "calculated_at": "2025-03-14T19:13:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily focuses on the technical implementation of Scrum practices using Azure DevOps, with limited discussion on the interplay between technology and organisational structures. While it touches on team dynamics and practices, it does not deeply explore the sociotechnical interactions or organisational context necessary for a stronger alignment with the Sociotechnical Systems category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1309,12 +1402,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and how Azure DevOps can support these practices, including aspects of flow management and work item tracking. However, the primary focus is on Scrum roles and events rather than a dedicated exploration of flow efficiency principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:15:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps, with only brief mentions of flow-based practices and the importance of adapting tools to support team behaviours. While it touches on aspects of backlog management and refinement, which can relate to flow efficiency, the overall discussion is more centred on Scrum methodology rather than optimising throughput across the value stream. The depth of discussion on flow efficiency concepts is limited, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",

@@ -58,12 +58,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of upskilling and facilitating growth within teams in the context of DevOps, which aligns with coaching principles. However, the primary focus is on technical challenges and solutions rather than coaching practices themselves.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of upskilling and ownership in the context of DevOps transformation, which aligns with coaching principles. However, it primarily focuses on technical challenges and solutions rather than the coaching process itself. While there are elements of fostering team collaboration and learning, the overall emphasis is more on technical execution than on coaching methodologies or practices.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -85,7 +88,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:56:05",
+    "calculated_at": "2025-03-14T18:19:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -93,7 +96,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the challenges and processes involved in managing a complex product within a large organisation, touching on aspects of customer needs and technical capabilities. However, it primarily focuses on DevOps practices and technical implementation details rather than the strategic alignment of product management. While there are mentions of improving processes and outcomes, the depth of discussion on product management methodologies and frameworks is limited, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -172,12 +175,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of eliminating waste and improving processes within a product development context, particularly through DevOps practices. However, it primarily focuses on DevOps rather than Lean principles specifically, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:19:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses DevOps transformation and the importance of simplification and refactoring, which aligns with Lean principles of efficiency and waste reduction. However, it primarily focuses on DevOps rather than Lean Product Development specifically, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -253,20 +259,26 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-12T04:58:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the strategic alignment of DevOps practices within a large organisation, focusing on optimising delivery processes, continuous improvement, and the integration of teams to enhance performance. It addresses the development of a value-driven approach to strategy in an Agile context, making it a clear, primary topic.",
+    "calculated_at": "2025-03-14T14:50:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the strategic implementation of DevOps within a large organisation, focusing on the alignment of teams, the importance of refactoring, and the need for a strategic mindset to overcome technical debt. It provides detailed insights into the challenges faced and the strategies employed to streamline processes and improve efficiency, which aligns well with the core themes of the Strategy category. However, while it touches on strategic concepts, it does not delve deeply into Agile or Scrum frameworks specifically, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T04:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:10:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transformation of organisational effectiveness through DevOps, focusing on improving processes, reducing complexity, and enhancing delivery capabilities, which aligns with the principles of the Ability to Innovate category.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transformation of an organization through DevOps, highlighting the importance of refactoring and simplifying processes, which aligns with the Ability to Innovate. However, while it touches on innovation indirectly, it lacks a direct focus on measuring or enhancing innovation capabilities, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -298,12 +310,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses customer engagement and the importance of understanding customer needs in the context of DevOps, but it primarily focuses on technical challenges and solutions rather than directly addressing customer satisfaction as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the impact of DevOps transformation on team happiness and efficiency, which indirectly relates to customer satisfaction. However, it lacks explicit discussions on measuring customer satisfaction or strategies to enhance customer engagement, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -325,11 +340,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T04:58:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:19:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses DevOps principles, automation, and the importance of refactoring and clean code, which are central to engineering practices in Agile development.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of DevOps, including the importance of refactoring, technical debt, and the need for clean code, which are all aligned with engineering practices. It provides a detailed case study that illustrates the challenges and solutions related to these practices, demonstrating a strong focus on the principles of Agile development. However, while it touches on key topics, the primary focus is on the broader DevOps transformation rather than strictly on Agile engineering practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -343,11 +361,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T04:58:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses DevOps practices, continuous delivery, and the challenges of managing software development across multiple teams and systems, which are central themes in software development methodologies.",
+    "calculated_at": "2025-03-14T18:19:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses DevOps practices, including the challenges of implementing DevOps in a large organisation, the importance of refactoring, and the impact of technical debt. It aligns well with key topics in software development, such as continuous integration, version control systems, and the software development life cycle. The depth of discussion is significant, providing detailed examples and outcomes of DevOps transformation, which reinforces its primary focus on software development methodologies.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -364,21 +385,27 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T04:58:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:19:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and improvements related to throughput in a large organisation's DevOps practices, including the impact of optimising build processes and reducing delivery times. It highlights specific metrics and outcomes related to throughput, making it a central theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transformation of an organization through DevOps, touching on aspects of efficiency and the impact of technical debt on delivery timelines. However, while it mentions the importance of streamlining processes and improving team effectiveness, it lacks a focused discussion on throughput as a primary metric. The examples provided illustrate improvements in delivery rates and team performance, but they do not delve deeply into specific techniques for measuring throughput or strategies explicitly aimed at optimising work completion rates.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses DevOps practices and the transformation of software delivery processes, with some references to Azure DevOps and its impact on feature delivery. However, it primarily focuses on broader DevOps principles and challenges rather than specifically on Azure Pipelines.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses DevOps transformation and the challenges faced by an organization, including build processes and technical debt. However, it lacks a direct focus on Azure Pipelines specifically, only mentioning Azure DevOps in a broader context. The discussion is more about general DevOps practices rather than the specific configuration, management, or implementation of Azure Pipelines, which diminishes its relevance to the category.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -418,11 +445,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T04:59:06",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transformation of organisational effectiveness through DevOps, focusing on the challenges and strategies involved in managing change within a large organisation. It highlights the importance of aligning teams, improving processes, and fostering a culture of continuous improvement, which are central themes in change management.",
+    "calculated_at": "2025-03-14T18:19:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transformation of an organization through DevOps, touching on themes of simplification, ownership, and the importance of upskilling. However, while it mentions aspects of change management, such as the need for collaboration and the challenges of implementing change, it primarily focuses on technical aspects of DevOps rather than providing a comprehensive discussion on change management principles or strategies. The depth of discussion on change management is limited, as it does not delve into specific strategies or best practices for managing change in an Agile context.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -472,11 +502,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T04:59:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of software developers within the context of DevOps, focusing on the challenges faced by teams, the importance of collaboration, and the integration of modern engineering practices to improve productivity and software delivery.",
+    "calculated_at": "2025-03-14T18:19:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges and strategies of implementing DevOps in a large organisation, highlighting the role of developers in addressing technical debt and improving collaboration. While it touches on relevant themes such as team dynamics and the importance of refactoring, the primary focus is on organisational effectiveness rather than the specific role of software developers within Agile and DevOps frameworks. Therefore, while there is a significant connection to the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -490,12 +523,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T04:59:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of DevOps practices to facilitate continuous delivery and improve release frequency, highlighting the transformation of a large organisation's release process and the impact of automation on feature delivery.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T18:19:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implementation of DevOps and its impact on software delivery, highlighting the importance of continuous delivery and the reduction of build times, which aligns with the principles of frequent releases. However, while it touches on the outcomes of improved release frequency, it does not explicitly focus on frequent releases as a primary topic, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -562,21 +598,27 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T04:59:30",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-03-14T18:19:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
     "final_score": 78.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within a complex DevOps environment, highlighting real-world applications, adaptability, and the importance of experience in decision-making. It provides a detailed case study of a large organisation's challenges and the pragmatic approaches taken to improve their processes, aligning closely with the key topics of the category.",
+    "reasoning": "The content provides a detailed case study on implementing DevOps in a complex organisational environment, highlighting practical problem-solving strategies, the importance of refactoring, and the need for adaptability. It discusses real-world applications of DevOps principles, emphasising the role of experience and collaboration in overcoming challenges. The depth of discussion on navigating complexity and the lessons learned from the transformation further solidify its alignment with the category of Pragmatic Thinking.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-12T04:59:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:19:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and strategies related to achieving continuous delivery and improving deployment frequency within a large organisation, highlighting the importance of automation and effective processes in DevOps practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges and transformations in a DevOps context, touching on aspects of deployment frequency indirectly through the mention of build executions and the impact of technical debt on delivery efficiency. However, it lacks a focused discussion on strategies for increasing deployment frequency or specific metrics related to it, which limits its alignment with the category.",
+    "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -589,29 +631,38 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of DevOps and automated builds, which are related to Continuous Integration, but the primary focus is on broader DevOps practices and organisational effectiveness rather than CI specifically.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses DevOps transformation and the challenges of managing technical debt in a large-scale system. While it touches on aspects of Continuous Integration, such as the need for unified builds and the importance of collaboration among teams, it does not focus explicitly on CI principles or best practices. The discussion is more centred on the broader DevOps context rather than a detailed exploration of Continuous Integration itself.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of organisational effectiveness through DevOps, touching on themes of continuous delivery, team alignment, and the importance of adapting processes. However, it primarily focuses on technical practices and specific case studies rather than a strategic overview of Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:20:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses DevOps transformation and technical debt rather than Agile strategy specifically. While it touches on themes of simplification and team effectiveness, which are relevant to Agile principles, it lacks a direct focus on Agile methodologies or strategic planning. The discussion is more centred on technical practices and operational challenges rather than the strategic alignment of Agile within an organisation.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:59:38",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the challenges and solutions related to implementing Continuous Delivery within a large organisation, including the need for automation, managing multiple source control systems, and the importance of aligning teams towards a production-ready state. While it also touches on broader DevOps principles, Continuous Delivery is a significant theme throughout the narrative.",
+    "calculated_at": "2025-03-14T18:19:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses DevOps extensively, which is closely related to Continuous Delivery, but it does not focus specifically on the principles and practices of Continuous Delivery itself. While it mentions the importance of continuous delivery and daily builds, the primary focus is on the challenges of implementing DevOps and managing technical debt rather than on Continuous Delivery methodologies. The depth of discussion on related topics like refactoring and team dynamics contributes to a moderate confidence score, but the lack of explicit focus on Continuous Delivery principles limits the overall alignment.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -652,12 +703,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges faced by multiple teams within a large organisation and the efforts to improve their collaboration and effectiveness through DevOps practices. While it touches on team dynamics and the need for alignment, the primary focus is on DevOps processes rather than specific Agile methodologies or team performance metrics.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges and transformations within a large organisation's DevOps implementation, touching on team dynamics and collaboration. However, it primarily focuses on technical debt and system complexity rather than specific strategies or practices aimed at enhancing team performance in an Agile context. While there are mentions of team happiness and collaboration, these are secondary to the main narrative about technical processes and outcomes.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -715,11 +769,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T05:00:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implications of technical debt within a large organisation, detailing the challenges faced due to accumulated suboptimal code and design decisions. It highlights the importance of addressing technical debt to improve development processes and product quality, making it a central theme of the discussion.",
+    "calculated_at": "2025-03-14T18:19:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses technical debt in the context of a large-scale system, detailing its identification, impact, and the necessity of refactoring. It aligns closely with the core themes of the category, providing a comprehensive analysis of how technical debt affects development processes and team efficiency. The depth of discussion is significant, as it includes specific examples and lessons learned from a real-world scenario, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -733,11 +790,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T05:00:03",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the transformation of an organisation through the implementation of DevOps practices, highlighting the challenges and strategies involved in aligning teams and improving processes. While it primarily focuses on technical aspects of DevOps, it also touches on organisational effectiveness and the need for cultural change, making it a significant but secondary theme.",
+    "calculated_at": "2025-03-14T18:19:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transformation of an organisation through DevOps, highlighting the challenges and strategies involved in overcoming technical debt and improving efficiency. While it touches on themes of organisational change, such as the need for collaboration and the importance of upskilling, the primary focus remains on technical aspects of DevOps rather than a comprehensive exploration of organisational change methodologies or frameworks. The discussion of leadership and culture is implicit but not deeply examined, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -760,11 +820,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T05:00:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:19:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the application of DevOps principles to improve operational efficiency, including process optimisation, automation, and continuous delivery. It provides practical examples of how organisations can streamline their workflows and reduce complexity, aligning well with the key topics of the Operational Practices category.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the practical application of DevOps principles, focusing on the transformation of operational practices within an organisation. It highlights specific challenges, such as technical debt and the complexity of managing multiple teams and systems, which directly relate to operational efficiency. The narrative includes detailed strategies for simplification, refactoring, and improving team collaboration, aligning well with the core themes of operational practices. The depth of discussion is significant, providing concrete examples and outcomes that illustrate the impact of these practices on organisational effectiveness.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -823,11 +886,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T05:00:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:19:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of technical leadership in implementing DevOps practices, mentoring teams, and fostering a culture of continuous improvement. It highlights the importance of aligning technical decisions with business objectives and addresses the challenges of managing technical debt, which are key aspects of technical leadership.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the implementation of DevOps and the importance of addressing technical debt, which aligns with technical leadership principles. However, while it touches on leadership aspects, such as influencing teams and fostering collaboration, it lacks a direct focus on mentoring or agile practices, which diminishes its overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -913,21 +979,27 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T05:00:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:19:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of DevOps practices, the importance of refactoring, and the impact of technical debt on software development. It highlights methodologies for improving software delivery and the significance of engineering excellence, making it a strong fit for the Technical Mastery category.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the complexities of implementing DevOps in a large organisation, focusing on technical debt, refactoring, and the importance of clean code. It aligns well with the principles of software craftsmanship and engineering excellence, providing detailed insights into best practices and methodologies for improving software quality and maintainability. The depth of discussion on the impact of technical debt and the necessity of refactoring further solidifies its relevance to the category.",
     "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of DevOps and continuous delivery, which are related to release management, but the primary focus is on organisational effectiveness and the challenges of managing complex systems rather than on specific release management strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses DevOps transformation and the importance of refactoring and simplification, which are relevant to release management. However, it primarily focuses on the challenges of technical debt and team coordination rather than specific release management strategies or practices. While there are mentions of continuous delivery and build processes, the overall emphasis is more on organisational effectiveness and DevOps principles rather than the structured practices of release management.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -940,12 +1012,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of organisational effectiveness through DevOps, highlighting trends in practices and methodologies that impact software delivery and operational efficiency. However, it primarily focuses on a specific case study rather than a broader analysis of trends.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific case study of DevOps transformation, touching on challenges and outcomes, but it lacks a broader analysis of trends in Agile or DevOps methodologies. While it mentions the importance of refactoring and simplification, it does not explore emerging trends or shifts that inform strategic decision-making, which is central to the Trend Analysis category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -958,12 +1033,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various aspects of source control systems and their integration within a DevOps context, highlighting challenges and strategies related to version control. However, the primary focus is on broader DevOps practices and organisational effectiveness rather than solely on modern source control methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges and strategies related to source control systems within a DevOps context, particularly focusing on the consolidation of diverse source control systems and the impact of branching strategies. It provides a detailed account of the complexities faced by a large organisation and how they navigated these issues, aligning well with the core themes of modern source control. However, while it touches on relevant practices, the primary focus is on the broader DevOps transformation rather than solely on source control methodologies.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1003,20 +1081,26 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of organizational effectiveness through DevOps, touching on long-term objectives such as reducing costs and improving delivery times. However, the primary focus is on operational challenges and solutions rather than explicitly defining or articulating strategic goals.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transformation of an organization through DevOps, touching on aspects of efficiency and team performance. However, it primarily focuses on operational challenges and technical debt rather than explicitly defining or articulating long-term strategic goals. While there are elements that align with the category, such as the importance of simplification and ownership, the overall emphasis is more on tactical execution rather than strategic objectives.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T05:01:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the transformation of organisational effectiveness through DevOps, emphasising the importance of continuous learning, upskilling, and the need for teams to learn from their experiences to improve processes and outcomes.",
+    "calculated_at": "2025-03-14T18:19:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of upskilling and ownership in the context of DevOps transformation, which aligns with the principles of Continuous Learning. It highlights the need for teams to learn from their experiences and the significance of refactoring, which supports a growth mindset. However, while these elements are present, the primary focus is more on the technical aspects of DevOps implementation rather than a comprehensive exploration of Continuous Learning practices.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1042,12 +1126,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of eliminating waste and improving processes within the context of DevOps, which aligns with Lean principles. However, the primary focus is on DevOps practices rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of simplification, refactoring, and ownership, which aligns with Lean principles of continuous improvement and waste reduction. However, it primarily focuses on DevOps practices rather than Lean methodologies specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1072,12 +1159,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the complexities of managing a large software product and the impact of DevOps practices on code quality and development processes. However, the primary focus is on organisational effectiveness and DevOps rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 73.0,
+    "reasoning": "The content discusses the complexities of implementing DevOps in a large organisation, highlighting issues such as technical debt, diverse source control systems, and the need for refactoring. It aligns well with the category by addressing the impact of complexity on software development processes and the importance of code quality. The depth of discussion is substantial, providing specific examples and lessons learned, although it primarily focuses on DevOps rather than a broader exploration of code quality principles.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1135,11 +1225,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses complex organisational dynamics and the interconnectedness of various teams and systems within a large organisation, particularly in the context of DevOps. However, the primary focus is on DevOps practices rather than a thorough exploration of Systems Thinking principles.",
+    "calculated_at": "2025-03-14T18:19:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the complexities of implementing DevOps in a large organisation, touching on interconnected issues such as technical debt, diverse source control systems, and the need for collaboration across distributed teams. However, while it highlights some systemic challenges, it primarily focuses on DevOps practices and technical solutions rather than a holistic Systems Thinking approach. The discussion lacks explicit references to Systems Thinking principles, techniques, or frameworks, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -1231,12 +1324,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific product (Azure DevOps) and its impact on DevOps practices, but the primary focus is on organisational challenges and solutions rather than a review or analysis of products or literature.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific case study of DevOps implementation rather than focusing on products or books. While it touches on the challenges and outcomes of a DevOps strategy, it lacks direct references to specific literature or tools that would fit the 'Products and Books' category. The discussion is rich in detail about the DevOps process and its implications, but it does not provide reviews or analyses of products or books, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1423,7 +1519,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T13:57:48",
+    "calculated_at": "2025-03-14T18:19:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1431,7 +1527,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses DevOps practices and their impact on organisational effectiveness, which indirectly relates to Agile methodologies and continuous improvement. However, it lacks explicit references to Scrum, Kanban, or Lean frameworks, and the focus is more on DevOps rather than the core themes of Social Technologies. While there are mentions of collaboration and efficiency, the depth of discussion on specific methodologies is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1453,7 +1549,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:44:48",
+    "calculated_at": "2025-03-14T18:19:15",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1461,6 +1557,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses DevOps and its implementation in a large organisation, with no direct mention of Scrum principles, roles, or events. While it touches on themes of team collaboration and process improvement, these are framed within a DevOps context rather than Scrum. The lack of specific references to Scrum practices or frameworks significantly lowers the confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

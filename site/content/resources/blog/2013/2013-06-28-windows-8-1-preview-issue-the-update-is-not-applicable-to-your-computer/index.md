@@ -31,6 +31,8 @@ aliasesArchive:
 tags:
 - Windows
 - Troubleshooting
+- Install and Configuration
+- System Configuration
 categories: []
 preview: nakedalm-windows-logo-12-12.png
 

@@ -31,13 +31,13 @@ tags:
 - Software Development
 - Working Software
 - Pragmatic Thinking
+- Agile Philosophy
 - Product Delivery
 - Strategy
 - Value Delivery
 - Agile Project Management
+- Agile Product Management
 - Increment
-- Agile Philosophy
-- Agile Strategy
 categories:
 - Social Technologies
 - Product Management

@@ -247,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to building a Silverlight application using Team Foundation Build Services, which touches on deployment and build processes. However, it primarily focuses on troubleshooting specific build problems rather than broader product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses technical issues related to building a Silverlight application using Team Foundation Build Services. While it touches on aspects of deployment and build processes, it lacks a comprehensive focus on product delivery methodologies, practices, or the integration of planning, development, testing, and deployment phases. The discussion is more about troubleshooting specific build problems rather than broader product delivery strategies or best practices.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -358,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to building a Silverlight application using Team Foundation Build Services, which is part of the application lifecycle management process. However, the primary focus is on troubleshooting build errors rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the use of Team Foundation Build Services (TFS) for building a Silverlight application, which relates to the deployment and maintenance stages of the application lifecycle. However, it primarily focuses on specific technical issues and solutions rather than a comprehensive discussion of Application Lifecycle Management methodologies or practices. While it mentions ALM and TFS, the depth of discussion on broader ALM principles is limited.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -610,12 +616,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses challenges with building a Silverlight application using Team Foundation Build Services, it does reference Scrum practices by mentioning retrospectives and team responsibility, indicating that Agile principles may be present but are not the central focus.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to building a Silverlight application using Team Foundation Build Services, with minimal reference to Agile Project Management principles or practices. While there is a brief mention of a retrospective, it lacks depth in discussing Agile methodologies, frameworks, or roles such as Scrum Master or Product Owner. Overall, the content does not align well with the core themes of Agile Project Management.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -628,21 +637,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content primarily focuses on troubleshooting issues with Team Foundation Build Services and Silverlight projects, it mentions the retrospective process within a Sprint, which is a concept from Scrum. However, Scrum is not the main topic of discussion.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on technical issues related to building a Silverlight application using Team Foundation Build Services, with only a brief mention of Scrum in the context of a retrospective. While it touches on the concept of a sprint and mentions Scrum roles indirectly, it lacks a thorough exploration of Scrum principles, roles, or practices. The discussion does not delve into the core themes of Professional Scrum, such as the Scrum framework, artifacts, or values, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses using Team Foundation Build Services, which relates to source control and build management, but primarily focuses on troubleshooting build issues rather than modern source control practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses issues related to building a Silverlight application using Team Foundation Build Services, which is a specific tool within the realm of source control. However, it does not delve deeply into broader version control practices, methodologies, or strategies. While it mentions the use of TFS and touches on build processes, it lacks a comprehensive discussion on topics like branching strategies, code review processes, or collaboration workflows that are central to modern source control. Therefore, while there is some relevance, the focus is more on troubleshooting build issues rather than on modern source control practices.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -832,12 +847,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content includes some mentions of Scrum, particularly regarding the retrospective at the end of a sprint, but the primary focus is on technical issues related to building a Silverlight application on Team Foundation Build Services, rather than a clear discussion of Scrum principles or product development.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a retrospective at the end of a sprint, but it primarily focuses on technical issues related to building a Silverlight application using Team Foundation Build Services. While there is a mention of Scrum roles and processes, the overall discussion is more about troubleshooting build problems rather than the application of Scrum principles in product development.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -886,11 +904,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting building a Silverlight application on Team Foundation Build Services, which relates to the technical aspects of delivering functional software. However, it predominantly focuses on technical issues and solutions rather than broader themes of working software delivery and customer feedback.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses technical issues related to building a Silverlight application using Team Foundation Build Services. While it touches on aspects of software functionality and operational challenges, it lacks a direct focus on the broader themes of working software, such as customer value delivery, iterative development, or quality assurance practices. The discussion is more about troubleshooting build processes rather than ensuring the software meets user requirements or business objectives.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -904,12 +925,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T10:29:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:17:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues, solutions, and setups related to building a Silverlight application using Team Foundation Build Services, which is a tool used in Continuous Integration. It covers practical aspects of setting up CI for a specific project, making it a major theme.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of Team Foundation Build Services (TFS) for building a Silverlight application, which is related to Continuous Integration practices. It mentions specific issues encountered during the build process, which aligns with the CI theme of integrating code changes frequently. However, the discussion is primarily focused on troubleshooting build failures rather than exploring broader CI principles, best practices, or tools in detail. Therefore, while it is relevant, it does not fully meet the depth and breadth expected for a primary focus on Continuous Integration.",
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -976,12 +1000,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to building and deploying a Silverlight application using Team Foundation Build Services, touching on aspects of release management such as build server configuration and troubleshooting, making it a major, but not primary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to building a Silverlight application using Team Foundation Build Services, which touches on aspects of release management such as build processes and environment setup. However, it lacks a comprehensive focus on broader release management strategies, such as version control, risk management, or CI/CD practices. The primary emphasis is on troubleshooting specific build failures rather than on the overall release management process.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1003,12 +1030,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Team Foundation Build Services (TFBS) in the context of building a Silverlight application, which is relevant to the broader topic of Azure Pipelines and CI/CD practices. However, it primarily focuses on troubleshooting build issues specific to a particular project rather than providing a comprehensive overview of Azure Pipelines.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to Team Foundation Build Services (TFBS) and building a Silverlight application, which is relevant to Azure Pipelines as it involves build automation. However, it primarily focuses on specific problems encountered during the build process rather than providing a comprehensive overview or detailed discussion of Azure Pipelines as a whole. The mention of Azure Pipelines is indirect, and the depth of discussion is limited to troubleshooting rather than broader CI/CD practices or pipeline management.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1132,12 +1162,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to building a Silverlight application in a Team Foundation Build environment, which involves Windows components like MSBuild and Visual Studio. While the primary focus is on build processes and troubleshooting specific to Silverlight, it relates to the Windows ecosystem because of the tools mentioned and the context of using TFS and Visual Studio that run on Windows. However, it does not primarily address Windows OS discussions.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses issues related to building a Silverlight application using Team Foundation Build Services 2010, which is a Windows-based environment. It includes specific mentions of installation and configuration of the Silverlight SDK, MSBuild settings, and Visual Studio, all of which are relevant to the Windows operating system. The depth of discussion is significant, as it details multiple problems encountered during the build process and provides solutions, aligning well with the key topics of installation, configuration, and troubleshooting within the Windows category.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1186,11 +1219,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T10:29:01",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T07:17:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content provides a detailed account of troubleshooting issues related to building a Silverlight application using Team Foundation Build Services 2010. It identifies multiple specific problems encountered during the build process, explains the symptoms, and outlines the steps taken to resolve each issue. This aligns well with the scope of the 'Troubleshooting' category.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of troubleshooting issues encountered while building a Silverlight application using Team Foundation Build Services 2010. It explicitly discusses multiple problems, their identification, and the steps taken to resolve them, which aligns closely with the core themes of the Troubleshooting category. The depth of discussion is significant, as it covers specific errors, solutions, and necessary installations, demonstrating a thorough approach to diagnosing and resolving technical issues.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1231,12 +1267,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses software development practices, specifically related to building applications using Team Foundation Build Services and the Silverlight framework, and touches on issues faced during builds which can relate to development methodologies like Agile. However, it is primarily focused on a specific technical problem rather than a broader discussion of Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses specific technical issues related to building a Silverlight application using Team Foundation Build Services, which is relevant to software developers. It touches on aspects of the build process and the challenges faced, which aligns with the role of developers in Agile and DevOps contexts. However, the discussion lacks a broader exploration of Agile methodologies or DevOps principles, focusing instead on troubleshooting and technical fixes. Therefore, while it is relevant, it does not fully engage with the key themes of the category.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1249,12 +1288,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:17:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to building a Silverlight application using Team Foundation Build Services, which touches upon automation and continuous integration practices. However, the primary focus is more on troubleshooting build problems rather than core Agile engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical issues related to building a Silverlight application using Team Foundation Build Services. While it touches on aspects of automation and build processes, it lacks a direct focus on core engineering practices such as clean code, TDD, or CI/CD. The discussion is more about troubleshooting specific build problems rather than promoting high-quality software engineering methodologies. Therefore, the confidence score reflects a low alignment with the category of Engineering Practices.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1384,7 +1426,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T15:05:01",
+    "calculated_at": "2025-03-15T07:17:17",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -1392,7 +1434,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum in the context of a retrospective but primarily focuses on technical issues related to building a Silverlight application using Team Foundation Build Services. While there is some alignment with Agile practices through the mention of retrospectives, the overall discussion lacks depth and does not centre on the core themes of Social Technologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/hosted-team-foundation-server
 - /hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
-tags:
-- News and Reviews
+tags: []
 categories: []
 
 ---

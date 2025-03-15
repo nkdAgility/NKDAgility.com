@@ -41,14 +41,14 @@ aliasesArchive:
 tags:
 - Product Owner
 - Agile Product Management
+- Agile Project Management
 - Professional Scrum
-- Product Delivery
+- Scrum Team
+- Scrum Product Development
 - Accountability
+- Product Delivery
+- Software Development
 - Product Backlog
-- People and Process
-- Value Delivery
-- Strategy
-- Agile Planning
 categories:
 - Scrum
 preview: image-3-3.png

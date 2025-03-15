@@ -35,6 +35,7 @@ tags:
 - Software Development
 - Professional Scrum
 - Software Developers
+- Products and Books
 categories:
 - Social Technologies
 - Scrum

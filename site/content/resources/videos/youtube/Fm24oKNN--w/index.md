@@ -24,13 +24,16 @@ preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false
 tags:
-- Agile Product Management
-- People and Process
-- Organisational Agility
 - Agile Frameworks
+- Team Performance
+- Team Collaboration
+- Agile Product Management
+- Organisational Agility
+- Software Development
+- People and Process
+- Discovery and Learning
+- Value Delivery
 - Agile Project Management
-- Agile Transformation
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

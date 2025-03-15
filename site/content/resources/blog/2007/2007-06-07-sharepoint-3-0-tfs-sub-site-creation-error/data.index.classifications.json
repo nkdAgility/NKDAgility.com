@@ -103,7 +103,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:20:08",
+    "calculated_at": "2025-03-15T07:46:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -111,7 +111,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a specific technical issue related to TFS and SharePoint, which touches on practical tooling. However, it lacks a comprehensive exploration of methodologies or frameworks that enhance Agile or DevOps practices. The focus is primarily on troubleshooting a specific error rather than on broader practical techniques or tooling applications.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -295,7 +295,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:17:11",
+    "calculated_at": "2025-03-15T07:46:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -303,7 +303,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and SharePoint integration, which are tangentially related to Azure DevOps but do not focus on Azure DevOps itself. There are no direct mentions of Azure DevOps services or functionalities, and the discussion lacks depth regarding Azure DevOps principles or practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -961,12 +961,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a technical issue related to SharePoint and TFS, detailing a problem encountered during site creation, which pertains to software engineering practices. However, it does not extensively cover best practices or methodologies in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint and TFS, which does not directly address broader principles of software craftsmanship or engineering practices. While it touches on technical aspects, such as error messages and site creation, it lacks a focus on best practices, clean code, or methodologies that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",

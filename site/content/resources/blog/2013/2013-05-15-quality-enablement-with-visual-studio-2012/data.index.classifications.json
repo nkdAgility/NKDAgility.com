@@ -1,11 +1,14 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses continuous delivery and the importance of stakeholder engagement, which are relevant to Agile Product Management, but the primary focus is on quality enablement and software development practices rather than Agile methodologies specifically.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses quality enablement and continuous delivery, which are relevant to Agile principles. However, it lacks a direct focus on Agile Product Management topics such as the role of the Product Owner, backlog prioritisation, and stakeholder engagement. While it touches on the importance of continuous feedback and iterative processes, it does not delve deeply into Agile methodologies or practices specific to product management.",
     "level": "Tertiary"
   },
   "Practical Techniques and Tooling": {
@@ -40,21 +43,27 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses quality enablement in software development, touching on aspects of code quality, testing practices, and the need for continuous delivery, which are relevant to the interplay between code and complexity. However, the primary focus is on quality enablement rather than a deep exploration of code complexity itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of quality in software development, focusing on continuous testing and delivery, which aligns with the principles of software code quality. It mentions practices like acceptance testing and the need for actionable requirements, which are relevant to managing complexity in codebases. However, while it touches on these themes, the discussion is more about quality enablement and less about the theoretical aspects of complexity theory or specific coding practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of continuous quality and feedback loops in software development, which aligns with the themes of learning and adaptation. However, the primary focus is on quality enablement and tools rather than on discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of quality enablement in software development, emphasising continuous testing and feedback loops, which aligns with the core themes of discovery and learning. However, while it touches on these concepts, the primary focus is on quality assurance practices and tools rather than a broader exploration of methodologies that foster innovation and learning. The depth of discussion on continuous improvement and user feedback is present but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -67,11 +76,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses continuous improvement and quality enablement, which are related to Lean principles, but the primary focus is on software development practices rather than Lean methodologies specifically.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses quality enablement and continuous delivery, which are related to Lean principles, particularly in terms of reducing waste and improving processes. However, it primarily focuses on software development practices and tools rather than explicitly addressing Lean methodologies or principles. While there are mentions of reducing cycle time and improving quality, the discussion lacks a direct focus on Lean concepts such as value stream mapping or the Seven Wastes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
@@ -103,11 +115,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interplay between technology (Visual Studio 2012 and quality enablement practices) and organisational structures (team dynamics, roles, and processes) in software delivery, making it a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and the need for continuous improvement in practices and tools. However, it primarily focuses on technical aspects and tools (like Visual Studio 2012) without a strong emphasis on the interplay between social and technical systems within organisations. While there are mentions of user expectations and the need for collaboration, the discussion lacks depth in exploring organisational culture, team dynamics, or the broader sociotechnical interactions that are central to the category.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -178,11 +193,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous delivery and quality enablement in software development, which aligns with agile principles. However, it primarily focuses on quality practices and tools rather than broader organisational agility or frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of quality enablement in software development, emphasising continuous delivery and responsiveness to user needs, which aligns with the principles of enterprise agility. However, it primarily focuses on quality practices and tools rather than broader organisational agility frameworks or cultural aspects, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -400,11 +418,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles and practices necessary for achieving high-quality software development through continuous testing, quality enablement, and the use of tools like Visual Studio 2012. It directly touches on best practices in software quality, testing strategies, automation, and the impact of engineering practices on software delivery.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of quality enablement in software development, focusing on continuous testing, delivery, and the need for modern tools and practices to enhance software quality. It aligns well with the principles of clean code, testing, and agile practices, which are core to the Technical Mastery category. The depth of discussion is significant, covering various aspects of quality enablement, including actionable requirements, acceptance testing, and the role of tools like Visual Studio 2012. However, while it touches on technical practices, it also includes broader business implications, which slightly detracts from its primary focus on technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -418,21 +439,27 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content extensively discusses the principles of quality enablement as it relates to continuous delivery, emphasizing continuous testing, feedback cycles, and the need for automation in delivering high-quality software rapidly.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the principles of Continuous Delivery, particularly in the context of quality enablement and the need for continuous testing and deployment. It highlights the importance of automation, continuous feedback, and the necessity of maintaining a production-ready state, which are core themes of Continuous Delivery. The depth of discussion is significant, covering various aspects such as acceptance testing, automated deployments, and the role of tools in achieving continuous quality. Overall, the content aligns well with the Continuous Delivery category, making it a primary focus.",
     "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of quality enablement and continuous delivery in the context of modern business applications, suggesting a focus on strategic objectives related to maintaining competitive advantage through quality. However, it primarily focuses on operational practices and the application lifecycle rather than explicitly defining long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses quality enablement and continuous delivery in software development, which are operational tactics rather than long-term strategic goals. While it touches on the importance of quality as a competitive differentiator, it lacks a clear focus on defining or articulating long-term objectives that align with agile principles. The discussion is more about immediate practices and tools rather than strategic alignment or frameworks for setting strategic objectives.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -472,12 +499,12 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:57",
+    "calculated_at": "2025-03-15T05:10:16",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content mentions the importance of actionable requirements and stakeholder engagement, which could relate to the Product Backlog, but the primary focus is on quality practices and continuous delivery rather than outdated or specific backlog management techniques.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -508,11 +535,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T05:10:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses methods to enhance quality and efficiency in software development through continuous testing, automation, and feedback loops, aligning well with key topics in Operational Practices.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses quality enablement in the context of software development, focusing on continuous testing, delivery, and improvement practices that align with Agile and DevOps methodologies. It provides detailed strategies for enhancing operational efficiency, such as continuous acceptance testing, automation, and the importance of actionable requirements. The depth of discussion on these operational practices, along with the explicit mentions of techniques and tools, supports a high confidence score in the alignment with the category.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -526,11 +556,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:10:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses continuous delivery, the importance of feedback, and the adaptation of practices to meet modern application development needs, aligning it with principles of Agile philosophy. However, it primarily focuses on quality enablement and technical practices associated with software development tools, making Agile a significant but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of continuous delivery and quality enablement, which aligns with Agile principles of iterative development and customer feedback. However, it primarily focuses on technical aspects and tools rather than the broader Agile philosophy or mindset. While Agile concepts are mentioned, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategy": {
@@ -571,11 +604,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses quality enablement in software development and emphasizes the need for continuous testing practices, including continuous acceptance testing and the importance of automating tests to maintain quality in a rapid delivery environment.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of continuous testing and quality enablement in software development, particularly in relation to automated testing practices. It highlights the need for continuous acceptance testing, the role of automated tests in maintaining quality, and the integration of automated testing within the software delivery lifecycle. The depth of discussion includes specific methodologies and practices that align closely with the principles of automated testing, such as Test Driven Development (TDD) and the necessity of automating tests to ensure efficiency and reliability. Overall, the content is highly relevant to the category, focusing on how automated testing contributes to software quality and delivery processes.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -598,29 +634,38 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:25",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 40,
-    "final_score": 76.0,
-    "reasoning": "The content discusses acceptance criteria, acceptance test planning, and the importance of continuous acceptance testing in the context of quality enablement in modern software development, aligning it closely with ATDD principles.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses acceptance testing as a continuous activity and highlights the importance of defining acceptance criteria, which aligns well with ATDD principles. It provides detailed insights into acceptance test planning and continuous acceptance testing, demonstrating a strong focus on the collaborative nature of ATDD. However, while it touches on ATDD concepts, the primary focus is on quality enablement and continuous delivery, which slightly dilutes its alignment with the ATDD category.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-15T05:10:33",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 88.0,
-    "reasoning": "Content primarily discusses techniques and practices crucial for software development, focusing on quality enablement, continuous delivery, and the importance of agile methodologies, aligning well with the themes outlined in the Software Development category.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses quality enablement in the context of software development, focusing on continuous delivery, testing practices, and the importance of quality in modern applications. It aligns closely with key topics such as Continuous Integration and Continuous Deployment (CI/CD), Test-Driven Development (TDD), and the Software Development Life Cycle (SDLC). The depth of discussion is significant, providing detailed insights into methodologies and practices that enhance software quality, making it a strong fit for the Software Development category.",
     "level": "Primary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content discusses agile principles and continuous delivery, emphasizing iterative development and responsiveness to stakeholder feedback, which aligns with Agile Project Management.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of continuous delivery and quality enablement, which aligns with agile principles of iterative development and responsiveness to change. However, it lacks explicit references to agile methodologies like Scrum or Kanban, and does not delve deeply into agile roles or ceremonies. The focus is more on quality practices and tools rather than on agile project management frameworks.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -706,11 +751,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the necessity of frequent releases in modern software development, emphasizing continuous delivery and continuous improvement to enhance quality and user satisfaction.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of continuous delivery and frequent releases in the context of modern software development. It highlights the need for continuous quality and the necessity of delivering updates more frequently to meet user expectations. The discussion on practices such as continuous acceptance testing, automated deployments, and the role of tools in facilitating these processes aligns well with the principles of Frequent Releases. The depth of the content provides a comprehensive view of how to implement these practices effectively, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -808,11 +856,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T05:10:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content discusses practical strategies for ensuring continuous quality in software development, specifically within modern application lifecycles. It emphasizes continuous testing, user engagement, actionable requirements, and real-world applications of Agile principles. The focus on adapting processes and the integration of tools to enhance delivery aligns well with pragmatic thinking.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses practical strategies for quality enablement in software development, emphasising continuous testing and delivery, which aligns well with Agile and DevOps principles. It provides real-world applications and examples of how to navigate complexities in modern software development, demonstrating a strong focus on pragmatic problem-solving techniques.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,12 +877,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of quality enablement in the application lifecycle and highlights the need for continuous delivery and feedback for improving software quality. While it emphasizes aspects related to innovation in software development processes and tools, the primary focus remains on quality, which is a secondary theme to the overarching concept of innovation.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of quality enablement in software development, which indirectly relates to the ability to innovate by emphasising continuous improvement and responsiveness to user feedback. However, it lacks a direct focus on frameworks or metrics for measuring innovation capabilities, and does not explicitly mention Evidence-Based Management principles. The discussion is more centred on quality practices rather than innovation strategies.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -871,11 +925,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:11:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses quality enablement and the necessity of continuous testing and automation within software development, particularly emphasizing the roles of automated testing in modern application lifecycles and agile practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous testing and quality enablement in software development, highlighting the need for automated testing to maintain quality throughout the application lifecycle. It mentions practices such as acceptance test planning, continuous acceptance testing, and the necessity of automating tests to keep up with rapid development cycles. However, while it touches on test automation, the primary focus is on broader quality enablement and continuous delivery concepts, which slightly dilutes its alignment with the specific category of Test Automation.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -889,12 +946,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-15T05:10:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 88.0,
-    "reasoning": "The content extensively discusses the importance of delivering high-quality, functional software and practices involved in achieving continuous quality and value delivery in modern software development. It emphasizes actionable requirements, user feedback, and the iterative nature of software development, aligning closely with the principles of working software.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of quality enablement in software development, emphasising the importance of delivering high-quality, functional software that meets user expectations. It aligns well with the core themes of working software, such as continuous delivery, customer feedback, and iterative development. The depth of discussion is significant, covering best practices, tools, and methodologies that contribute to achieving working software, making it a primary focus of the content.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -907,11 +967,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content extensively discusses practices, tools, and strategies related to continuous delivery and quality enablement, which are key components of Continuous Integration. It emphasizes the importance of continuous testing and automated processes that align closely with CI principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous quality and delivery in software development, which aligns with CI principles. It mentions the need for continuous testing and automated processes, which are key aspects of CI. However, it lacks explicit references to CI tools or detailed practices specific to CI, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -979,11 +1042,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses continuous delivery, continuous quality, and practices that directly relate to ensuring timely and reliable software releases, which aligns closely with key topics of Release Management.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of continuous delivery, quality enablement, and the need for frequent software releases, which are core aspects of Release Management. It highlights practices such as continuous testing, user acceptance testing, and the necessity of agile methodologies to meet modern application demands. The depth of discussion on tools and strategies for improving release cycles further supports its strong alignment with the category.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -997,11 +1063,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:11:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the measurement and implications of Cycle Time in relation to software delivery and continuous quality practices, making Cycle Time a primary theme throughout the article.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of cycle time in relation to software delivery and quality enablement, particularly highlighting how traditional QA practices can increase cycle time. It also mentions the importance of reducing cycle time to improve delivery speed and efficiency. However, while cycle time is a recurring theme, it is not the primary focus of the content, which is more centred on quality enablement and continuous delivery practices.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -1015,11 +1084,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:11:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering software more frequently and the practices needed to achieve continuous delivery, aligning closely with the themes of deployment frequency in Agile and DevOps.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of continuous delivery and frequent releases, which are central to the concept of deployment frequency. It highlights the need for modern applications to be updated frequently and the impact of deployment frequency on quality and user satisfaction. The discussion includes strategies for achieving higher deployment frequency, such as continuous testing and automation, which aligns well with the category's core themes. However, while the content is rich in detail regarding quality enablement, it does not focus exclusively on deployment frequency, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -1042,20 +1114,26 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:10:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of actionable requirements, effective user stories, and acceptance criteria, which are central to Behaviour Driven Development. It emphasizes continuous testing and collaboration among stakeholders, which aligns with BDD principles.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses quality enablement and continuous delivery practices, which are relevant to BDD principles, particularly in the context of defining actionable requirements and acceptance criteria. However, it lacks a focused discussion on BDD itself, such as specific frameworks or the collaborative aspects between stakeholders that are central to BDD. The mention of acceptance criteria aligns with BDD, but the overall emphasis is more on quality practices rather than BDD methodologies.",
     "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:11:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of quality enablement in modern applications and how strategic practices and tools, particularly Microsoft's solutions, can enhance operational efficiency and deliver continuous value, which are key aspects of digital transformation.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of quality enablement in software development, which indirectly relates to digital transformation by highlighting the need for modern practices and tools to meet evolving consumer expectations. However, it lacks a direct focus on strategic adoption of digital technologies for business transformation, making it more of a secondary mention rather than a primary discussion.",
     "level": "Secondary"
   },
   "MVP": {
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:42:21",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T05:10:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content discusses quality enablement in the context of software development, emphasizing the importance of continuous testing, Agile methodologies, and modern engineering practices such as TDD and CI/CD. It highlights how software developers can adapt to modern application lifecycles and improve collaboration and delivery, making it a primary topic.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses quality enablement in software development, touching on Agile principles and continuous delivery practices. However, while it mentions the role of developers and tools like Visual Studio, it lacks a focused discussion on specific Agile or DevOps methodologies, which diminishes its alignment with the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,12 +1330,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T19:42:22",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T05:11:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses principles aligned with Engineering Practices, especially focusing on quality enablement, continuous integration, testing, and agile methodologies. It emphasizes practices like continuous delivery, acceptance testing, and the use of tools for automation, which are all central to high-quality software engineering.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of quality enablement in software development, aligning closely with key topics in Engineering Practices such as Continuous Integration, Continuous Delivery, and Test-Driven Development. It emphasises the need for continuous testing and quality assurance throughout the software lifecycle, which is a core principle of Agile methodologies. The depth of discussion is significant, covering various aspects of quality enablement, including actionable requirements, acceptance testing, and automation, thus providing a comprehensive view of modern engineering practices.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1276,7 +1360,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T14:49:59",
+    "calculated_at": "2025-03-15T05:10:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1284,7 +1368,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses quality enablement and continuous delivery in software development, which touches on aspects of product management, such as understanding customer needs and delivering value. However, it primarily focuses on technical implementation details and tools rather than the strategic alignment of product management principles. While there are mentions of stakeholder engagement and actionable requirements, the overall emphasis is on quality assurance and technical processes rather than the broader strategic frameworks and methodologies that define product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1306,11 +1390,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T19:42:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:11:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses several Agile-related themes such as continuous value delivery, adaptability in software development, and the need for frequent iterations, aligning closely with the principles of Agile Strategy.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of continuous value delivery and the need for adaptability in software development, which aligns with Agile principles. It mentions the necessity of frequent iterations and responsiveness to user feedback, key aspects of Agile strategy. However, the primary focus is on quality enablement and technical practices rather than a comprehensive discussion of Agile strategy itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1333,12 +1420,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses continuous quality, testing practices, and agile principles which align with Lean Product Development concepts, but it primarily focuses on software quality and tools rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses quality enablement and continuous delivery in software development, which aligns with some Lean principles such as minimising waste and maximising value delivery. However, it primarily focuses on quality assurance and tools rather than explicitly addressing Lean Product Development principles, waste elimination, or customer feedback integration. The discussion lacks depth in Lean-specific methodologies and does not provide concrete examples or case studies related to Lean practices.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1396,7 +1486,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T18:39:14",
+    "calculated_at": "2025-03-15T05:10:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1404,7 +1494,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses quality enablement and continuous delivery in software development, which touches on Agile principles and practices. However, it lacks a direct focus on specific frameworks like Scrum or Kanban, and does not delve deeply into collaboration or team dynamics as outlined in the Social Technologies category. The mention of Agile concepts is present but not central, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1426,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:40:54",
+    "calculated_at": "2025-03-15T05:10:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -1434,6 +1524,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on quality enablement in software development and does not explicitly discuss Scrum principles, roles, events, or artifacts. While it touches on concepts like continuous delivery and iterative processes, which are related to Agile methodologies, it lacks a direct connection to Scrum's specific framework and practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -1,12 +1,15 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of experimentation and validating learning in the context of software engineering practices, particularly through the lens of shifting quality assurance left and conducting experiments to improve product features. However, the primary focus is on engineering practices rather than explicitly on hypothesis formulation and testing.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance practices without any explicit mention of hypothesis formulation, experimentation, or validated learning. While it touches on Agile methodologies, it does not align with the core themes of hypothesis-driven development, such as testing hypotheses or using data to inform decisions.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -85,7 +88,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:48:23",
+    "calculated_at": "2025-03-14T17:16:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -93,7 +96,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on software engineering practices, particularly around quality assurance and Agile methodologies, rather than the strategic aspects of product management. While it touches on concepts like team dynamics and the importance of building quality into products, it lacks a direct discussion on product management frameworks, customer feedback prioritisation, or alignment with business strategy, which are core to the category. The depth of discussion on engineering practices is significant, but it does not sufficiently address the strategic alignment of product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -124,12 +127,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses modern software engineering practices, particularly the concept of 'shift left' in quality assurance, which relates to enhancing operational efficiency and agility. However, it primarily focuses on engineering practices rather than a broader strategic adoption of digital technologies for business transformation.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance practices within software development, focusing on techniques and methodologies rather than the strategic adoption of digital technologies for business transformation. While there are mentions of automation and improving processes, these are not explicitly tied to broader themes of digital transformation, such as business agility or organisational culture. The discussion lacks depth in relation to the key topics outlined for the Digital Transformation category.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -145,16 +151,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engineering practices and methodologies that can influence decision-making in software development, particularly in the context of quality assurance and agile practices. However, the primary focus is on the technical aspects of software engineering rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which indirectly relates to decision-making in the context of software development. However, it lacks explicit discussions on structured decision-making methodologies, evidence-based practices, or collaborative decision-making techniques. The focus is more on practices rather than the decision-making process itself.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:20:52",
+    "calculated_at": "2025-03-14T17:16:15",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -162,7 +171,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses code reviews and automation in the context of Agile practices, but it does not explicitly address self-organisation principles or techniques. While it touches on aspects of team collaboration and quality assurance, it lacks a direct focus on self-organisation as a primary theme. The depth of discussion is moderate, primarily centred on code review processes rather than fostering autonomy or team empowerment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -175,12 +184,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to quality assurance and engineering practices that align with Lean principles, such as minimising waste and fostering continuous improvement. However, the primary focus is on software engineering practices rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses code reviews and their role in quality assurance, which is more aligned with Agile practices than Lean Product Development. While there are mentions of improving processes and reducing blockers, the focus is not on Lean principles such as waste reduction or customer feedback integration. The discussion lacks depth in Lean concepts and does not provide substantial insights into Lean methodologies.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -193,12 +205,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of integrating customer feedback through iterative development and experimentation, which aligns with the theme of customer feedback loops. However, the primary focus is on engineering practices and quality assurance rather than explicitly on customer feedback mechanisms.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance practices, with no direct mention of customer feedback loops or their integration into product development. While it touches on improving code quality, it does not explore mechanisms for collecting or acting on customer feedback, which is essential for this category.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -256,7 +271,7 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T16:28:54",
+    "calculated_at": "2025-03-14T17:16:15",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -264,25 +279,31 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses code reviews and their role in quality assurance, which is tangentially related to Agile practices. However, it lacks a direct focus on strategic alignment or the development of strategic approaches within Agile, Scrum, or DevOps frameworks. While it mentions Agile and DevOps tools, the primary discussion revolves around code quality rather than strategic planning or execution, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses modern software engineering practices, including shift left, test-driven development, and pair programming, which are related to improving quality and efficiency in development. While these practices can contribute to innovation, the primary focus is on quality assurance and engineering excellence rather than directly measuring or enhancing the organisation's capacity to innovate.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance practices, which are not directly related to the Ability to Innovate category. While there are mentions of improving processes and reducing blockers, the focus is on operational efficiency rather than on measuring or enhancing innovation capabilities. The discussion lacks depth in terms of frameworks, metrics, or Evidence-Based Management principles that are central to the category.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and mentions concepts like test-driven development and pair programming, which are relevant to Agile frameworks. However, the primary focus is on quality assurance and engineering practices rather than a detailed exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, but primarily focuses on code reviews and quality assurance practices. While it touches on Agile principles, it does not provide a comprehensive exploration of Agile frameworks or their implementation, which is necessary for a higher confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -295,12 +316,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team-based approaches in quality assurance and the shift-left concept, which involves collaboration among team members in the software development process. However, the primary focus is on engineering practices and methodologies rather than explicit team collaboration techniques or dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which indirectly relates to team collaboration by emphasising the importance of multiple perspectives in the development process. However, it primarily focuses on individual practices rather than team dynamics or collaboration techniques. While it mentions Agile and DevOps, the discussion lacks depth in exploring team communication, shared ownership, or fostering a culture of trust, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -394,20 +418,26 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and the importance of quality assurance within the context of Agile methodologies, but it primarily focuses on specific engineering practices rather than the foundational values and principles of Agile.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses code reviews and their role in quality assurance, which is tangentially related to Agile practices but does not explicitly address Agile values or principles. While it mentions the importance of delivering value and improving processes, it lacks a direct focus on the core themes of Agile methodologies, such as customer collaboration or responding to change. The depth of discussion is moderate, primarily centred on technical practices rather than Agile philosophy.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:07:16",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of integrating testing practices, such as test-driven development, into the software engineering process. While it touches on automated testing principles, it primarily focuses on broader engineering practices and team dynamics rather than solely on automated testing methodologies.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses the importance of automated checks in the code review process, which aligns with the principles of automated testing. However, the primary focus is on code reviews rather than automated testing itself, leading to a moderate confidence score. The mention of automation in the context of pull requests indicates some relevance, but it lacks depth in discussing specific automated testing methodologies or tools.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -448,12 +478,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the importance of quality assurance in software development, touching on concepts like shifting left and continuous improvement. However, it primarily focuses on engineering practices rather than explicitly on empirical process control principles such as transparency, inspection, and adaptation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses code reviews and their role in quality assurance, which is tangentially related to empirical process control through the lens of Agile practices. However, it lacks a direct focus on empirical process control principles such as transparency, inspection, and adaptation. While it mentions Agile and Scrum, the discussion primarily revolves around code review techniques rather than the core themes of empirical process control.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -496,7 +529,7 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-11T14:17:30",
+    "calculated_at": "2025-03-14T17:16:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -504,7 +537,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses code reviews and their role in quality assurance but does not explicitly mention Test First Development or its principles. While it touches on the importance of automated checks and quality processes, it lacks a direct focus on writing tests before code, which is central to Test First Development. The discussion is more about code review practices rather than the TDD methodology itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -592,12 +625,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of shifting quality assurance left in the development cycle, which indirectly relates to deployment frequency by emphasising the need for better engineering practices to enable more frequent and reliable releases. However, the primary focus is on quality assurance and engineering practices rather than deployment frequency itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality and reducing defects, which indirectly relates to deployment frequency through the automation of pull requests. However, it does not explicitly focus on deployment frequency or provide detailed strategies for optimising deployment intervals, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -610,21 +646,27 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'shift left' in quality assurance, which relates to integrating testing and validation earlier in the development process. While it touches on practices that can support Continuous Integration, such as test-driven development and pair programming, the primary focus is on quality assurance and engineering practices rather than CI itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which is tangentially related to Continuous Integration. However, it does not explicitly mention CI practices or tools, nor does it delve deeply into CI principles. The focus is more on code review processes rather than the integration of code changes into a shared repository, which is the primary focus of CI.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and their impact on engineering excellence, but it primarily focuses on technical practices rather than strategic alignment or broader Agile strategy implementation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses code reviews and their role in quality assurance, which is more focused on technical practices rather than strategic alignment with Agile methodologies. While it mentions Agile principles and practices, it does not delve into how these practices integrate into broader organisational strategies or long-term success. The discussion lacks a clear focus on Agile strategy, making it a secondary topic rather than a primary one.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -673,12 +715,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices and methodologies related to software engineering that can enhance team effectiveness, such as pair programming and test-driven development. However, the primary focus is on quality assurance and engineering practices rather than directly on team dynamics or collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which indirectly relates to team performance by suggesting practices that can enhance collaboration and reduce defects. However, it lacks a direct focus on team dynamics, Agile ceremonies, or leadership roles, which are central to the 'Team Performance' category. The discussion is more about technical practices than team collaboration or performance metrics.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -718,12 +763,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to quality assurance and engineering practices that align with Lean principles, such as waste reduction and continuous improvement. However, the primary focus is on software engineering methodologies rather than Lean principles specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality and reducing defects, which can relate to Lean principles of waste reduction and value maximisation. However, the primary focus is on Agile practices rather than Lean principles specifically. The mention of automating processes aligns with Lean's efficiency goals, but the overall discussion lacks depth in Lean concepts and does not explicitly address core Lean principles such as Muda or Kaizen.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -736,12 +784,15 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses technical debt in the context of engineering practices and the importance of addressing it for long-term sustainability. However, it primarily focuses on broader topics such as quality assurance, team dynamics, and Agile methodologies, making technical debt a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:02",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses code reviews and their role in quality assurance, which is tangentially related to technical debt but does not focus on it. While it mentions the importance of code quality and automated checks, it lacks a direct discussion on technical debt, its implications, or strategies for managing it. The depth of discussion is more about practices rather than the management of technical debt itself.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -763,12 +814,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'shift left' in quality assurance, which relates to integrating testing earlier in the development process. It touches on test-driven development and the importance of having a test infrastructure, indicating a significant focus on testing practices. However, the primary theme revolves around broader engineering practices and team dynamics rather than solely on test automation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which is tangentially related to test automation. However, it does not explicitly focus on test automation principles, frameworks, or practices. While it mentions the importance of automated checks in the pull request process, the primary focus remains on code reviews rather than on the automation of testing itself. Therefore, the confidence score reflects a low alignment with the Test Automation category.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -847,12 +901,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of shifting quality assurance left in the development cycle and touches on agile practices, team dynamics, and the role of engineering teams in supporting and maintaining code. However, it primarily focuses on technical practices rather than the broader principles of technical leadership.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in quality assurance, which is tangentially related to technical leadership but does not explicitly address the core themes of guiding teams or fostering collaboration. While it mentions practices that could enhance team productivity, it lacks a focus on leadership strategies or agile methodologies in a broader context.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -874,21 +931,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and methodologies, particularly in the context of quality assurance and engineering excellence. While Agile principles are mentioned, the primary focus is on quality assurance techniques rather than Agile Planning specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance, with only brief mentions of Agile concepts. It lacks a focus on Agile Planning principles, techniques, or methodologies, and does not delve into planning processes or team dynamics related to Agile. The discussion is more aligned with software development practices rather than Agile Planning specifically.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team ownership and responsibility in the context of quality assurance and engineering practices, which aligns with the theme of accountability. However, it primarily focuses on technical practices and methodologies rather than a direct exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content discusses code reviews and quality assurance but does not explicitly address accountability or ownership within Agile teams. While it touches on practices that could indirectly relate to team dynamics, it lacks a clear focus on accountability as defined in the category. The discussion is primarily about code quality and automation rather than fostering a culture of accountability or the distinction between accountability and blame.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -958,7 +1021,7 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-13T14:57:36",
+    "calculated_at": "2025-03-14T17:16:15",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -966,7 +1029,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses code reviews and their role in quality assurance, which is not directly related to Test Driven Development (TDD). While it touches on the importance of automated checks and quality practices, it does not explicitly mention TDD principles such as the Red-Green-Refactor cycle or the practice of writing tests before code. The discussion lacks depth in TDD-specific topics, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -979,7 +1042,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T16:20:55",
+    "calculated_at": "2025-03-14T17:16:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -987,16 +1050,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses code reviews and their role in quality assurance, with a focus on automation and practices rather than the broader Agile philosophy. While it briefly touches on Agile concepts, such as delivering value and the importance of collaboration, these are not the main focus. The discussion lacks depth regarding Agile principles and does not explicitly reference the Agile Manifesto or its core values.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses practices related to quality assurance and engineering excellence, which are relevant to modern software development. However, it primarily focuses on broader agile practices and methodologies rather than specifically on version control systems or source control strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses code reviews, which are a crucial aspect of modern source control practices. It explicitly mentions pull requests and the importance of automated checks, aligning well with the category's focus on collaboration workflows and code review processes. The depth of discussion on techniques and practices for code reviews adds to its relevance, although it does touch on broader agile concepts, which slightly detracts from its primary focus on source control.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1045,12 +1111,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices such as test-driven development and pair programming, which are related to continuous improvement and team effectiveness. However, the primary focus is on quality assurance and engineering practices rather than explicitly on continuous learning principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:17:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which indirectly relates to continuous learning through feedback and knowledge sharing. However, it lacks a strong focus on the principles of a growth mindset or techniques for effective knowledge sharing, which are central to the Continuous Learning category. The discussion is more about practices in code quality assurance rather than fostering a culture of continuous improvement or learning.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1063,12 +1132,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and engineering excellence, which are relevant to enterprise agility, but the primary focus is on team-level practices and quality assurance rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code reviews and quality assurance practices, which are more aligned with team-level agile practices rather than enterprise-level agility. While it mentions automation and practices that could contribute to efficiency, it lacks a broader discussion on organisational agility, frameworks, or cultural aspects that define Enterprise Agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1141,21 +1213,27 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and their impact on product development, particularly in relation to quality assurance and team dynamics. However, it primarily focuses on engineering practices rather than product management strategies, making Agile principles a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in quality assurance, which is tangentially related to Agile practices but does not focus on Agile Product Management specifically. While it mentions Agile and Scrum, the primary focus is on code quality rather than product management principles, making it a secondary topic rather than a primary discussion.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of shifting quality assurance left in the development cycle, which involves experimentation and learning from both successes and failures. It touches on methodologies that foster continuous learning and improvement within engineering teams, but the primary focus is on quality assurance practices rather than discovery and learning as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses code reviews and their role in quality assurance, which touches on aspects of learning and improvement. However, it primarily focuses on technical practices and project management rather than exploring methodologies for fostering innovation or continuous learning. The mention of 'techniques and practices' is vague and does not delve into the core themes of discovery and learning, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1168,12 +1246,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses modern software engineering practices, particularly the concept of 'shift left' in quality assurance, which touches on themes of complexity in organisational behaviour and the need for adaptive practices. However, it primarily focuses on practical engineering techniques rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses code reviews and Agile practices, focusing on quality assurance and automation in software development. While it touches on themes relevant to Agile methodologies, it does not explicitly engage with complexity science or its principles. The discussion lacks depth in exploring non-linear dynamics, emergent behaviours, or the role of uncertainty in management, which are central to Complexity Thinking. Therefore, the confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1237,11 +1318,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses engineering practices and methodologies that align with Agile and DevOps principles, and it briefly mentions Azure DevOps in the context of transitioning from a waterfall model to continuous delivery. However, the primary focus is on general software engineering practices rather than specifically on Azure DevOps functionalities or tools.",
+    "calculated_at": "2025-03-14T17:16:40",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 50.0,
+    "reasoning": "The content discusses code reviews and their importance in quality assurance, mentioning Azure DevOps specifically in the context of pull request systems. However, the primary focus is on code review practices rather than Azure DevOps functionalities or methodologies. While there is a relevant mention of Azure DevOps, the overall discussion does not deeply explore its services or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Products and Books": {
@@ -1255,12 +1339,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses modern software engineering practices, including concepts like 'shift left' and test-driven development, which are relevant to fostering a culture of innovation and adaptability. However, the primary focus is on technical practices rather than a comprehensive exploration of business agility principles or strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality and reducing defects, which indirectly relates to operational efficiency. However, it does not explicitly mention business agility or its principles. The focus is primarily on technical practices rather than the broader themes of business agility, such as organisational adaptability or leadership roles in fostering agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1330,12 +1417,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of engineering practices and team dynamics in the context of quality assurance and software development. While it touches on sociotechnical themes, such as team roles and the importance of collaboration, the primary focus is on technical practices rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:16:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses code reviews and their role in quality assurance, focusing on technical practices rather than the interplay between social and technical systems. While it touches on the importance of processes and tools like pull requests, it lacks a direct exploration of organisational culture, team dynamics, or the broader sociotechnical context. The discussion is more about technical implementation than the integration of social aspects within organisations.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1348,21 +1438,27 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of quality assurance and engineering practices, touching on concepts like shift left and continuous improvement. However, it primarily focuses on practices rather than metrics and learning, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which indirectly relates to metrics and learning through the concept of validating code quality. However, it lacks explicit discussions on metrics, data analysis, or feedback loops, which are central to the category. The focus is more on practices rather than evidence-based decision-making or continuous improvement methodologies.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:16:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of the application lifecycle, particularly focusing on quality assurance and the shift-left approach in the development cycle. However, it primarily centres around engineering practices and methodologies rather than a comprehensive view of Application Lifecycle Management as a whole.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which is a part of the development stage of the application lifecycle. However, it does not explicitly mention Application Lifecycle Management or cover the broader scope of the lifecycle stages, governance, or tools. The focus is primarily on code review practices rather than a comprehensive discussion of ALM principles.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1459,7 +1555,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:40",
+    "calculated_at": "2025-03-14T17:16:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1467,6 +1563,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses quality assurance practices and the concept of 'shift left' in software engineering, with only a brief mention of agile practices. While it touches on team dynamics and the importance of collaboration, it does not explicitly address Scrum roles, events, or artifacts. The discussion lacks depth in Scrum-specific principles and does not focus on the Scrum framework, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

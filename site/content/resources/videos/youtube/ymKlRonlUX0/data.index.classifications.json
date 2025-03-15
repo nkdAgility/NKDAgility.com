@@ -37,12 +37,12 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T14:37:42",
+    "calculated_at": "2025-03-14T20:18:44",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content critiques the use of burndown charts within Agile, touching on Scrum principles like empirical process control, but primarily focuses on personal opinions and experiences rather than a structured discussion of Scrum roles, events, or artifacts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -55,16 +55,19 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and critiques traditional methods, suggesting the need for coaching to improve team effectiveness. However, the primary focus is on burndown charts and Agile methodologies rather than coaching itself.",
+    "calculated_at": "2025-03-14T20:19:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses Agile practices and critiques the use of burndown charts, which indirectly touches on coaching principles like adaptability and team dynamics. However, it lacks a direct focus on coaching techniques or the role of a coach, making it more about Agile methodology than coaching itself.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-13T15:30:21",
+    "calculated_at": "2025-03-14T20:18:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -72,7 +75,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Agile practices and critiques burndown charts, but it lacks a strong focus on evidence-based leadership principles. While it touches on empirical management and adaptability, it does not provide substantial evidence or data-driven decision-making strategies that align with the core themes of evidence-based leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -85,7 +88,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T14:59:21",
+    "calculated_at": "2025-03-14T20:18:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -93,7 +96,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily critiques the use of burndown charts within Agile methodologies, which is a relevant topic in product management. However, it lacks a broader discussion on strategic alignment, customer needs, or business objectives, focusing instead on technical implementation and personal opinions about Agile practices. While it touches on Agile principles, it does not delve deeply into the strategic aspects of product management, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -385,12 +388,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile concepts and critiques traditional project management practices, but it primarily focuses on the use of burndown charts rather than the core values and principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content discusses Agile principles such as adaptability, just-in-time planning, and empirical management, which are core to Agile values. It critiques the reliance on burndown charts, highlighting how they conflict with Agile's emphasis on flexibility and responsiveness to change. The depth of discussion is substantial, providing insights into how teams can better align with Agile principles, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -508,11 +514,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:16:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation practices in the context of burndown charts and their limitations, making estimation a significant theme, but it is primarily focused on critiquing traditional Agile practices rather than providing a comprehensive discussion on estimation techniques.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the limitations of burndown charts and the importance of empirical data in Agile, which aligns with estimation practices. It critiques upfront task planning and promotes adaptability, reflecting key themes of managing uncertainty and collaborative techniques. However, it does not focus explicitly on specific estimation techniques or provide in-depth discussions on estimation methods, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -613,12 +622,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:18:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and critiques traditional project management practices, particularly focusing on the limitations of burndown charts. While it touches on Agile methodologies, the primary focus is on specific practices rather than a broader strategic alignment or implementation of Agile at an organisational level.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of burndown charts and emphasises the importance of adaptability and empirical management in Agile practices. It aligns well with Agile principles, particularly in advocating for just-in-time planning and continuous value delivery. However, while it touches on strategic aspects, it primarily critiques a specific tool rather than providing a comprehensive discussion on Agile strategy as a whole.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -667,11 +679,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:18:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of burndown charts and their impact on team dynamics and performance, making it a major but secondary theme. However, the primary focus is on critiquing traditional project management practices rather than directly addressing strategies for enhancing team performance.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the limitations of burndown charts and promotes adaptability and empirical management, which are relevant to team performance in Agile. It mentions the need for flexibility and the importance of focusing on value flow, aligning with key topics in the category. However, while it touches on team dynamics and practices, it lacks detailed exploration of specific team performance metrics or methodologies, which slightly lowers the depth score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -733,11 +748,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of technical debt on team dynamics and product delivery within the context of Agile methodologies, making it a significant but secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions 'technical debt' as part of a broader discussion on Agile practices and the limitations of burndown charts. While it acknowledges the importance of managing technical debt, it does not delve deeply into strategies or implications related to technical debt management. The primary focus remains on critiquing burndown charts and advocating for adaptability in Agile, which detracts from a concentrated discussion on technical debt.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -769,20 +787,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum principles, particularly around the use of burndown charts and their implications on Agile practices. However, it primarily critiques these tools rather than focusing on Scrum product development methodologies or practices.",
+    "calculated_at": "2025-03-14T20:19:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the limitations of burndown charts within Agile practices, touching on concepts like flexibility and empirical management, which are relevant to Scrum. However, it lacks a direct focus on Scrum roles, sprint processes, or product backlog management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:18:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of burndown charts and suggests alternative approaches to managing work in Agile, which relates to operational practices. However, the primary focus is on critiquing existing methods rather than providing clear strategies for operational efficiency.",
+    "final_score": 56.0,
+    "reasoning": "The content critiques the use of burndown charts in Agile, discussing their limitations and advocating for more flexible, empirical approaches to managing work. It aligns with operational practices by emphasising adaptability, flow of value, and just-in-time planning, which are key to improving operational efficiency. However, the focus is more on critique than on specific operational techniques or strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -934,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the limitations of burndown charts, touching on aspects of technical delivery and the importance of managing technical debt. However, the primary focus is on Agile methodologies rather than a deep exploration of software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily critiques the use of burndown charts in Agile methodologies, which is more focused on project management rather than technical practices. While it touches on concepts like adaptability and empirical management, it lacks a deep exploration of software craftsmanship, clean code principles, or specific engineering practices. The discussion is more about Agile processes than technical mastery, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -991,11 +1018,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses burndown charts, which are a tool used in Agile planning, but the primary focus is on critiquing their effectiveness rather than exploring Agile Planning Tools as a central theme.",
+    "calculated_at": "2025-03-14T20:19:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses burndown charts, a specific Agile planning tool, but primarily critiques their effectiveness rather than exploring broader Agile planning methodologies or tools. While it touches on concepts like just-in-time planning and empirical management, it lacks a comprehensive exploration of Agile planning tools and their benefits, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -1099,12 +1129,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of burndown charts and the importance of focusing on the flow of value through the system, which aligns with the principles of flow efficiency. However, the primary focus is on critiquing Agile practices rather than directly addressing flow efficiency techniques or metrics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of burndown charts and emphasises the importance of focusing on the flow of value rather than rigid planning. It aligns well with the principles of Flow Efficiency by advocating for adaptability and empirical management of work, which are key to optimising throughput. However, while it touches on flow concepts, it does not delve deeply into specific techniques or metrics for measuring flow efficiency, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1117,12 +1150,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and the challenges associated with burndown charts, which are relevant to product delivery. However, the focus is more on critiquing specific practices rather than providing a comprehensive discussion on the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile methodologies, particularly the limitations of burndown charts in the context of product delivery. It aligns well with the core themes of adaptability, iterative development, and the importance of managing work empirically. However, while it touches on relevant practices, it does not delve deeply into all aspects of product delivery, such as deployment strategies or cross-functional team roles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1138,12 +1174,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:18:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content critiques traditional Agile practices, particularly burndown charts, and discusses the need for empirical management and adaptability in product development, which aligns with the themes of discovery and learning. However, the primary focus is on Agile methodologies rather than a broader exploration of discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of burndown charts and promotes a mindset of adaptability and empirical learning, which aligns with the principles of discovery and learning. It emphasises the importance of learning through doing and adapting based on new information, which are key themes in the category. However, while it touches on these concepts, the primary focus is on critiquing a specific tool rather than a broader exploration of methodologies that foster innovation and continuous learning.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1156,12 +1195,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:18:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the limitations of traditional project management approaches, touching on themes of uncertainty and the need for empirical management. However, it primarily focuses on specific Agile methodologies rather than a comprehensive exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices and critiques traditional project management tools like burndown charts, highlighting the importance of adaptability and empirical management. However, it does not explicitly reference complexity science or frameworks such as the Cynefin Framework, nor does it delve deeply into the non-linear dynamics or emergent behaviours characteristic of complex adaptive systems. While it touches on themes relevant to complexity thinking, such as uncertainty and the need for flexibility, these discussions are secondary to the primary focus on Agile methodologies.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1174,11 +1216,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of burndown charts and suggests alternatives like using story points, which relates to Agile practices. However, the primary focus is on critiquing traditional Agile methods rather than providing a structured exploration of practical techniques or tooling.",
+    "final_score": 57.0,
+    "reasoning": "The content critiques the use of burndown charts in Agile practices, discussing their limitations and advocating for more flexible, empirical approaches. While it touches on practical techniques, such as just-in-time planning and managing work empirically, the primary focus is on the critique of a specific tool rather than a broader exploration of various tools or methodologies. The discussion lacks depth in terms of specific tooling or methodologies that enhance Agile practices, which affects the overall confidence score.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1255,12 +1300,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:18:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of burndown charts and the importance of focusing on the flow of value, which aligns with value delivery principles. However, it primarily critiques traditional Agile practices rather than providing strategies or methodologies for value delivery.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of burndown charts and promotes a focus on value delivery through adaptability and empirical management. It aligns well with the principles of iterative development and the importance of managing work based on real-time insights rather than fixed plans. However, while it touches on value delivery, the primary focus is on critiquing a specific tool rather than a comprehensive exploration of value delivery strategies.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1285,12 +1333,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections and critiques on the use of burndown charts in Agile, sharing individual insights and experiences related to Agile practices. However, it primarily focuses on technical aspects and critiques of Agile methodologies rather than personal anecdotes or experiences.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content provides a personal reflection on the author's experiences and insights regarding burndown charts in Agile practices. It discusses the author's challenges and frustrations with traditional methods, aligning well with the Personal category's focus on individual experiences. The depth of discussion is significant, as the author shares specific anecdotes and advice based on their journey, although it does touch on technical aspects of Agile methodologies, which slightly detracts from the personal focus.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1324,12 +1375,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of burndown charts and the importance of managing work empirically, which relates to metrics and learning. However, the primary focus is on critiquing traditional Agile practices rather than a thorough exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the limitations of burndown charts and promotes the idea of managing work empirically, which aligns with the principles of evidence-based decision-making and continuous improvement. However, while it touches on metrics, the primary focus is on critiquing a specific tool rather than exploring broader metrics and learning concepts in detail. The discussion lacks depth in terms of specific techniques for collecting and analysing performance data or feedback loops, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1378,12 +1432,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:37:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and critiques traditional project management practices, particularly focusing on burndown charts and their limitations in value delivery. However, it primarily centres on the critique of specific Agile practices rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and critiques traditional project management tools like burndown charts, which aligns with the Agile Product Operating Model's emphasis on adaptability and value delivery. However, it primarily focuses on the limitations of specific tools rather than a comprehensive exploration of the Agile Product Operating Model itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

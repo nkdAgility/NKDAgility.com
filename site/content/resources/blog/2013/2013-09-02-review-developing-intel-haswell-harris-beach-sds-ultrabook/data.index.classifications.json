@@ -73,7 +73,7 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T16:47:49",
+    "calculated_at": "2025-03-15T04:50:00",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -81,7 +81,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content discusses the installation of Windows 8.1 and the associated driver issues, which aligns with the installation aspect of the category. However, the primary focus is on personal experiences and performance rather than providing clear, actionable installation or configuration instructions. While there are mentions of troubleshooting and system requirements, the depth of discussion is limited and lacks structured guidance, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -211,7 +211,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T10:27:08",
+    "calculated_at": "2025-03-15T04:50:00",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -219,7 +219,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8.1, rather than discussing engineering practices or methodologies that enhance software development. While there are mentions of development tools like Visual Studio and some technical aspects related to the laptop's capabilities, the discussion lacks depth in terms of technical excellence principles such as TDD, CI/CD, or modular architecture. The content does not provide a structured analysis of how these technical aspects contribute to agile practices or project success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -382,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T11:52:38",
+    "calculated_at": "2025-03-15T04:50:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8 and development tools, rather than discussing best practices or principles of software craftsmanship. While it mentions the use of Visual Studio and some technical aspects of development, these are secondary to the overall narrative of the review. The discussion lacks depth in technical methodologies or engineering practices, which are essential for a higher confidence score in the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1063,7 +1063,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T14:57:50",
+    "calculated_at": "2025-03-15T04:50:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1071,7 +1071,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the experience of using a specific laptop and the issues encountered with Windows 8.1 drivers and BIOS configuration, which relates to system configuration. However, the primary focus is on personal experience and performance rather than detailed methodologies or best practices for system configuration. While there are mentions of configuration issues and performance, the depth of discussion on configuration management tools or optimisation strategies is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1177,11 +1177,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:50:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues encountered with drivers and BIOS configuration while using Windows 8.1 on a developer prototype laptop, which aligns with troubleshooting themes. However, the primary focus is on the review of the laptop rather than a systematic approach to troubleshooting.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses specific issues encountered while using the Intel Haswell Harris Beach SDS Ultrabook, particularly related to driver compatibility with Windows 8.1. This aligns with troubleshooting as it identifies a problem and suggests a solution (reverting to Windows 8). However, the primary focus of the content is more on the review of the laptop and its performance rather than a systematic approach to troubleshooting. While there are mentions of issues and resolutions, the depth of discussion on troubleshooting techniques is limited.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1222,7 +1225,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T18:36:35",
+    "calculated_at": "2025-03-15T04:50:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1233,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance for software development, specifically for Windows 8 and 8.1 applications. While it mentions the experience of a developer using the laptop and discusses some technical aspects related to software development, it lacks a direct exploration of Agile or DevOps methodologies. The discussion is more about hardware and software compatibility rather than the role of software developers within Agile or DevOps frameworks. Therefore, it only partially aligns with the category's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

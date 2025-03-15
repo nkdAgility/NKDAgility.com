@@ -24,16 +24,16 @@ aliasesArchive:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
+- Increment
 - Agile Product Management
+- Software Developers
 - Working Software
 - Software Development
+- Agile Project Management
+- Operational Practices
 - Product Delivery
 - Value Delivery
-- Increment
-- Market Adaptability
-- Agile Product Operating Model
-- Agile Strategy
-- Software Developers
+- Pragmatic Thinking
 categories:
 - Social Technologies
 - Engineering Excellence

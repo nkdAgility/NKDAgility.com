@@ -58,12 +58,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:48:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding metrics and their impact on organisational behaviour, which relates to coaching in terms of facilitating discussions and growth within leadership teams. However, the primary focus is on metrics and their implications rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of metrics in leadership and the role of the PAL-EBM class in fostering growth and collaboration. However, while it touches on aspects of coaching, such as creating space for strategic conversations and understanding human behaviour, it primarily focuses on metrics and leadership rather than the core themes of coaching. The direct mentions of coaching are minimal, and the depth of discussion does not fully explore coaching techniques or the role of a coach in Agile environments.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -130,11 +133,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:49:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and their impact on organisational behaviour, which relates to the strategic use of digital tools for business transformation. However, the primary focus is on the PAL EBM class and its benefits rather than a comprehensive discussion on digital transformation itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of metrics in leadership and decision-making, which aligns with the themes of digital transformation, particularly in fostering innovation and improving operational efficiency. However, it primarily focuses on the PAL-EBM class and its benefits rather than a broader strategic adoption of digital technologies. While it touches on relevant concepts, it lacks a comprehensive exploration of digital transformation as a primary focus.",
     "level": "Tertiary"
   },
   "Working Software": {
@@ -187,7 +193,7 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-13T16:36:35",
+    "calculated_at": "2025-03-14T19:47:58",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -195,7 +201,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of metrics in leadership and organisational success, touching on how metrics can influence team dynamics and behaviours. However, it primarily focuses on the PAL-EBM class and its methodologies rather than a deep exploration of organisational culture itself. While there are mentions of leadership and the impact of metrics on behaviour, the discussion lacks a comprehensive examination of cultural elements that facilitate or hinder Agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -217,11 +223,14 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-12T04:37:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
+    "calculated_at": "2025-03-14T14:54:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
     "final_score": 75.0,
-    "reasoning": "The content discusses the importance of transparency in metrics and decision-making within organisations, highlighting how transparency can lead to better understanding and collaboration among team members. It also addresses the negative impacts of poor metrics and the need for open discussions among leadership teams, which aligns well with the principles of transparency in Agile processes.",
+    "reasoning": "The content discusses transparency in the context of the PAL-EBM class, highlighting its importance in making data-driven decisions and fostering open discussions among leadership teams. While transparency is a significant theme, the primary focus is on metrics and their impact on leadership rather than a comprehensive exploration of transparency itself.",
     "level": "Secondary"
   },
   "Definition of Done": {
@@ -262,30 +271,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-12T04:37:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:14:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of metrics in shaping organisational strategy and decision-making, particularly within Agile environments. It highlights the role of leadership in fostering strategic discussions and iteratively strategising towards desired outcomes, aligning well with the key topics of the Strategy category.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of metrics in leadership and how they can drive strategic conversations within Agile frameworks. It highlights the role of the PAL-EBM class in fostering a strategic mindset among leaders, aligning with key topics such as strategic alignment, the use of metrics for decision-making, and the importance of transparency in data. The depth of discussion is significant, providing real-world examples and insights into how metrics can influence organisational strategy, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T04:37:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of metrics in driving organisational success and innovation, particularly through the lens of Evidence-Based Management (EBM). It highlights the need for leaders to engage in deep conversations about measuring success and iteratively strategising towards desired outcomes, which aligns closely with the Ability to Innovate category.",
+    "calculated_at": "2025-03-14T19:48:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of metrics in driving organisational success, which aligns closely with the Ability to Innovate category. It highlights the role of Evidence-Based Management (EBM) in making informed decisions and fostering a culture of continuous improvement. The depth of discussion on how metrics can influence behaviour and the emphasis on transparency and empirical data further supports its relevance to innovation capabilities. The content is not merely a mention of innovation but provides substantial insights into how to measure and improve innovation through effective leadership and metrics.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the PAL EBM class, which relates to Agile principles and metrics, but it primarily focuses on the importance of metrics and their impact on organisational behaviour rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:48:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, which is related to Agile principles and practices, particularly in the context of leadership roles within Agile frameworks. However, while it touches on Scrum roles and the importance of metrics in Agile environments, it primarily focuses on the application of metrics rather than a comprehensive exploration of Agile frameworks themselves. The discussion lacks a broader comparative analysis of Agile frameworks or detailed case studies, which limits its depth in the category.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -298,11 +316,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of leadership teams having deep conversations about metrics and success, which relates to team collaboration. However, the primary focus is on metrics and their impact rather than on collaboration techniques or team dynamics.",
+    "calculated_at": "2025-03-14T19:49:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of metrics in leadership and how they can foster collaboration and strategic conversations within teams. However, while it touches on team dynamics and the need for transparency, the primary focus is on metrics and leadership rather than direct team collaboration techniques or practices. The discussion on negative behaviours resulting from poor metrics hints at team dynamics but lacks depth in exploring collaborative strategies.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -343,25 +364,31 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and their impact on organisational success, which relates to measuring portfolio performance and strategic alignment. However, it primarily focuses on the PAL EBM class and its benefits rather than directly addressing portfolio management as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class and its relevance to leadership roles, discussing metrics and their impact on organisational success. While it touches on strategic conversations and decision-making, it lacks a direct focus on portfolio management practices, methodologies, or frameworks. The discussion is more about leadership and metrics rather than the management of a portfolio of projects, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:49:09",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics in organisational success, particularly in the context of Agile frameworks and leadership roles, which are relevant to software development practices. However, the primary focus is on organisational management rather than specific software engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, which is relevant to Agile methodologies and leadership in software development. However, the primary focus is on leadership and metrics rather than specific software development practices or methodologies. While it touches on Scrum roles and the importance of metrics in guiding teams, it lacks in-depth technical discussions or methodologies directly related to software engineering, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:56:51",
+    "calculated_at": "2025-03-14T19:47:58",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -369,7 +396,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of metrics in organisational success, which touches on aspects of engineering excellence, particularly in relation to continuous improvement and the impact of metrics on team behaviour. However, it primarily focuses on leadership and organisational dynamics rather than specific engineering practices or software craftsmanship. The discussion lacks depth in technical practices and does not explicitly mention coding standards, testing methodologies, or CI/CD practices, which are core to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -427,11 +454,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of metrics in organisational success and the need for leadership to engage in deep conversations about measuring success, which aligns with change management principles. However, the primary focus is on the PAL EBM class and its benefits rather than a comprehensive discussion on change management strategies.",
+    "calculated_at": "2025-03-14T19:49:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of metrics and leadership in driving organisational success, which touches on change management principles. However, it primarily focuses on the PAL-EBM class and its benefits rather than providing a comprehensive discussion on change management strategies or practices. The mention of leadership and metrics does align with some change management themes, but the depth and focus on change management itself are limited.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -445,11 +475,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-12T04:38:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:48:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of metrics in decision-making and the need for transparency and iterative evaluation, which are central to empirical process control. It highlights the negative impacts of poor metrics and the necessity for leaders to engage in meaningful discussions about success measurement, aligning closely with the principles of empirical process control in Agile methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of metrics and transparency in decision-making, which aligns well with the principles of empirical process control. It highlights the need for data-driven decisions and the iterative adjustment of strategies based on observed evidence. The mention of real-world examples, such as Microsoft's stack ranking, illustrates the negative consequences of poor metrics, reinforcing the need for effective inspection and adaptation. However, while the content is focused on PAL-EBM, it does not delve deeply into the broader implications of empirical process control across Agile methodologies, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -562,20 +595,26 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and leadership in organisations, which aligns with themes of scaling Agile practices, but it primarily focuses on the PAL EBM class and individual experiences rather than a comprehensive discussion on scaled Agile frameworks or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:48:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, which is more about individual Agile practices and leadership metrics rather than scaling Agile across multiple teams or at an enterprise level. While it touches on leadership and metrics, it lacks a direct discussion on frameworks for scaling Agile or coordination among multiple teams, which are key aspects of the Scaled Agile category.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T04:38:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of metrics in organisational success, emphasising practical problem-solving strategies and real-world applications of Agile principles, particularly in the context of the PAL EBM class. It highlights the need for transparency, iterative evaluation, and the impact of metrics on team behaviour, aligning well with the themes of pragmatic thinking.",
+    "calculated_at": "2025-03-14T19:48:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, focusing on practical applications of metrics in leadership roles. It highlights real-world examples, such as Microsoft's stack ranking, to illustrate the impact of metrics on behaviour and decision-making. The emphasis on transparency, empirical data, and strategic conversations aligns well with pragmatic thinking in Agile contexts. The depth of discussion is significant, providing insights into how to navigate complexities in leadership through practical problem-solving strategies.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -589,11 +628,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T04:38:42",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of metrics in an agile context, particularly in relation to the PAL EBM class, which aligns with agile principles of iterative development and continuous feedback. However, it primarily focuses on the class and its impact rather than a broader discussion on agile project management methodologies.",
+    "calculated_at": "2025-03-14T19:48:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, which is closely related to Agile Project Management principles. It highlights the roles of Scrum Masters and Product Owners, emphasises the importance of metrics in agile environments, and discusses iterative adjustments based on trends, aligning well with agile methodologies. However, while it touches on key agile concepts, the focus on metrics and leadership may detract from a more comprehensive exploration of agile frameworks and practices.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -607,11 +649,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T04:38:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of metrics in Agile environments, the impact of leadership decisions on organisational success, and the need for iterative strategising, which aligns closely with Agile strategy principles.",
+    "calculated_at": "2025-03-14T19:48:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, which focuses on using metrics to drive success in Agile environments. While it mentions leadership roles and the importance of metrics, it lacks a direct focus on broader Agile strategy concepts such as organisational vision alignment and adaptability. The discussion is primarily centred on metrics rather than a comprehensive Agile strategy, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -643,12 +688,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-12T04:38:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:48:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of understanding metrics and their impact on organisational behaviour, which aligns with sensemaking principles. It highlights the need for leaders to engage in deep conversations about success and decision-making processes, indicating a major theme of sensemaking. However, the focus on specific training classes and metrics may detract from a purely sensemaking perspective.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of metrics in decision-making and the human impact of these metrics, which aligns with sensemaking principles. It mentions the need for transparency and empirical data, which are crucial for effective sensemaking. However, the primary focus is on the PAL-EBM class and its benefits rather than a broader exploration of sensemaking frameworks or techniques, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -661,12 +709,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:49:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of metrics in organisations and their impact on team dynamics and collaboration, which aligns with team performance themes. However, it primarily focuses on the PAL EBM class and its benefits rather than directly addressing team performance strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of metrics in leadership roles, particularly in the context of Agile and Scrum practices. It highlights how metrics can influence team dynamics and collaboration, which aligns with the core themes of team performance. However, while it touches on relevant topics, the primary focus is on the PAL-EBM class rather than a comprehensive exploration of team performance strategies, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -742,11 +793,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T04:39:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:48:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of metrics in organisational success and the impact of leadership decisions on organisational behaviour, which aligns with themes of organisational change. However, it primarily focuses on the PAL EBM class and its benefits rather than a broader discussion on organisational change strategies or frameworks.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of metrics in leadership and organisational success, particularly through the lens of the PAL-EBM class. While it touches on themes relevant to organisational change, such as leadership influence and the impact of metrics on behaviour, it primarily focuses on the application of metrics rather than the broader strategies and methodologies of organisational change. The discussion lacks depth in terms of frameworks for implementing change or overcoming resistance, which are key aspects of the category.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -769,21 +823,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T04:39:12",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of metrics in organisational success and the impact of poor metrics on behaviours, which aligns with operational efficiency. However, it primarily focuses on the PAL EBM class and its storytelling approach rather than specific operational practices or methodologies.",
+    "calculated_at": "2025-03-14T19:48:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of metrics in leadership and operational efficiency, particularly through the lens of the PAL-EBM class. It directly addresses how metrics can drive success and improve decision-making, aligning well with the core themes of operational practices. The depth of discussion is significant, providing real-world examples and insights into the impact of metrics on organisational behaviour, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:39:13",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of metrics in organisational success, the impact of poor metrics, and the need for evidence-based decision-making, aligning closely with the principles of Evidence-Based Management.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T19:48:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, highlighting its focus on metrics, transparency, and empirical data in decision-making. It aligns well with the core themes of Evidence-Based Management, such as the importance of data-driven approaches and the impact of metrics on organisational behaviour. The depth of discussion is significant, providing examples and insights into how EBM can transform leadership practices, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -814,12 +874,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:49:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and leadership conversations in the context of organisational success, which aligns with large-scale Agile principles. However, it primarily focuses on individual metrics and leadership roles rather than comprehensive frameworks or strategies for scaling Agile across an entire organisation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class, which is more centred on individual leadership roles and metrics rather than large-scale Agile frameworks or enterprise-level transformations. While it touches on the importance of metrics and leadership in fostering collaboration, it lacks explicit discussions on scaling Agile methodologies across an organisation, which is essential for the 'Large Scale Agility' category.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -832,11 +895,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T04:39:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:48:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of metrics in guiding leadership decisions and fostering conversations among leadership teams, which aligns with technical leadership principles. However, it primarily focuses on the PAL EBM class and its benefits rather than providing a comprehensive discussion on technical leadership itself.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of metrics in leadership, particularly in the context of the PAL-EBM class, which aligns with technical leadership principles. However, it primarily focuses on personal experiences and anecdotes rather than providing in-depth strategies or frameworks for technical leadership. While it touches on relevant themes such as transparency and data-driven decision-making, the overall emphasis is more on the class and its benefits rather than on guiding development teams or fostering collaboration in an agile environment.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -868,12 +934,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:49:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and their impact on organisational behaviour, touching on themes of leadership accountability and the need for transparent discussions about success. However, it primarily focuses on metrics rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of metrics and transparency in leadership but does not explicitly focus on accountability as a primary theme. While it touches on the impact of metrics on team dynamics and mentions negative behaviours resulting from poor metrics, it lacks a detailed exploration of accountability in the context of Agile practices. The discussion is more centred on metrics and leadership rather than ownership and collective responsibility within teams.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -895,12 +964,15 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:49:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of metrics on team behaviours and highlights the importance of creating space for deep conversations among leadership teams, which relates to psychological safety. However, the primary focus is on metrics and their effectiveness rather than directly addressing psychological safety as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of metrics in leadership and organisational success, with only brief mentions of negative behaviours and the impact of metrics on team dynamics. While it touches on the consequences of certain metrics fostering fear and competition, it does not delve deeply into psychological safety as a primary theme, nor does it provide substantial strategies or discussions specifically aimed at fostering a psychologically safe environment.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -949,12 +1021,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-12T04:39:46",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of metrics in organisational success and the impact of poor metrics on behaviours over time, which aligns with trend analysis in understanding shifts in practices. However, it primarily focuses on the PAL EBM class and personal recommendations rather than a broader analysis of trends.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T19:48:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of metrics and their impact on organisational success, which aligns with the concept of trend analysis. However, it primarily focuses on the PAL-EBM class and personal experiences rather than a comprehensive analysis of trends in Agile or DevOps. While it mentions monitoring trends, the overall discussion lacks depth in exploring broader trends or shifts within Agile methodologies or DevOps practices.",
+    "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1012,11 +1087,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-12T04:39:57",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of metrics in shaping organisational direction and success, which aligns with strategic goals. It highlights the need for leadership teams to engage in conversations about measuring success and strategising towards desired outcomes, indicating a focus on long-term objectives. However, the primary emphasis is on the PAL EBM class and its impact on understanding metrics rather than a direct discussion of strategic goals themselves.",
+    "calculated_at": "2025-03-14T19:48:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of metrics in leadership and how they can shape an organisation's direction, which aligns with the concept of strategic goals. However, it primarily focuses on the PAL-EBM class and its benefits rather than explicitly defining or articulating long-term objectives. While there are mentions of strategy and the need for leadership teams to engage in strategic conversations, the depth of discussion on strategic goals is limited, making it a secondary focus rather than a primary one.",
     "level": "Secondary"
   },
   "Continuous Learning": {
@@ -1030,12 +1108,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:48:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and decision-making processes within organisations, particularly in relation to the impact of poor metrics on behaviour and outcomes. However, the primary focus is on the PAL EBM class and its benefits rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of metrics and decision-making in leadership roles, which aligns with decision theory principles. However, it primarily focuses on the PAL-EBM class and its application rather than a deep exploration of decision-making processes in uncertain environments. The mention of metrics and their impact on behaviour suggests some alignment with decision theory, but the depth of discussion is more about practical applications than theoretical frameworks.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1114,12 +1195,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of metrics in Agile environments and how they can shape organisational direction, which aligns with Agile Product Management principles. However, it primarily focuses on the PAL EBM class and its impact rather than a broader discussion on Agile Product Management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of metrics in leadership roles, particularly for Product Owners and Scrum Masters, which aligns with Agile principles. However, it primarily focuses on the PAL-EBM class and its benefits rather than delving deeply into Agile Product Management practices or methodologies. While it touches on relevant themes, the depth of discussion on Agile-specific practices is limited.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1135,12 +1219,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:48:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding metrics and their impact on organisational behaviour, which aligns with Systems Thinking principles. However, the primary focus is on the PAL EBM class and its benefits rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) class and its emphasis on metrics and leadership rather than on Systems Thinking principles. While it touches on the importance of understanding human behaviour and the impact of metrics, it lacks a direct discussion of Systems Thinking concepts such as interdependencies, feedback loops, or holistic analysis of organisational dynamics. The mention of metrics and their effects on behaviour aligns somewhat with Systems Thinking, but the overall depth and focus remain on leadership and metrics rather than a comprehensive exploration of Systems Thinking.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1165,21 +1252,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:48:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of metrics in Agile practices and the PAL EBM class, which relates to practical techniques for improving organisational performance. However, it primarily focuses on the philosophical implications of metrics rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the PAL-EBM class, which focuses on using metrics effectively in leadership roles. While it touches on practical applications of metrics and their impact on team dynamics, it lacks a direct exploration of specific tools or methodologies that enhance Agile and DevOps practices. The discussion is more centred on the importance of metrics rather than on practical techniques or tooling, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:48:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the PAL EBM class, which is a structured learning experience, but it primarily focuses on the concepts and benefits of the class rather than detailing specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the PAL-EBM class, which is a structured learning experience, but it primarily focuses on the benefits and insights gained from the class rather than detailing a specific event or presentation. While it mentions the class as a learning opportunity, it lacks direct references to events or presentations, and the depth of discussion is more about the content of the class rather than the event itself.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1357,12 +1450,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:48:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of metrics on organisational behaviour and leadership dynamics, touching on psychological aspects such as the effects of stack ranking on employee collaboration and the importance of transparency in decision-making. However, the primary focus is on the PAL EBM class and its methodologies rather than a deep exploration of organisational psychology principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of metrics in leadership and organisational success, touching on human behaviour and the impact of metrics on team dynamics. However, it primarily focuses on the PAL-EBM class and its practical applications rather than delving deeply into psychological theories or principles. While there are mentions of negative behaviours and the human impact of metrics, the overall emphasis is more on technical methodologies and leadership strategies than on core psychological aspects of organisational behaviour.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

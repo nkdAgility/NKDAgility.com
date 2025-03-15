@@ -28,6 +28,10 @@ aliasesArchive:
 - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 tags:
 - Events and Presentations
+- Software Development
+- Practical Techniques and Tooling
+- Products and Books
+- Application Lifecycle Management
 categories:
 - DevOps
 - Engineering Excellence

@@ -28,16 +28,16 @@ aliasesArchive:
 - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 tags:
+- Scrum Product Development
 - Product Backlog
 - Agile Product Management
+- Product Owner
+- Agile Planning
+- Agile Project Management
+- Pragmatic Thinking
 - Products and Books
 - Transparency
 - Product Delivery
-- Lean
-- Scrum Product Development
-- Lean Product Development
-- Agile Product Operating Model
-- Backlog Refinement
 categories:
 - Product Management
 - Social Technologies

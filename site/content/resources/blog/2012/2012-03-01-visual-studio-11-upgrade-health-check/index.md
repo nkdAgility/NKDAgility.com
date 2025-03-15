@@ -22,17 +22,8 @@ aliasesArchive:
 - /blog/visual-studio-11-upgrade-health-check
 - /visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
-tags:
-- Products and Books
-- Install and Configuration
-- News and Reviews
-- Practical Techniques and Tooling
-- Agile Frameworks
-- Software Development
-- Troubleshooting
-categories:
-- Social Technologies
-- Scrum
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

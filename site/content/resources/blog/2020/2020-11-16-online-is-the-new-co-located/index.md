@@ -29,6 +29,7 @@ tags:
 - Remote Working
 - Transparency and Accountability
 - Events and Presentations
+- Scrum Values
 - Pragmatic Thinking
 categories:
 - Social Technologies

@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Product Backlog
+- Software Development
 - Agile Product Management
 - Product Owner
 - Scrum Product Development

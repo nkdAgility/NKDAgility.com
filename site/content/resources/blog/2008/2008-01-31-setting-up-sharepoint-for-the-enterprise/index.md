@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /setting-up-sharepoint-for-the-enterprise
 - /resources/blog/setting-up-sharepoint-for-the-enterprise
-tags:
-- System Configuration
-- Install and Configuration
+tags: []
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

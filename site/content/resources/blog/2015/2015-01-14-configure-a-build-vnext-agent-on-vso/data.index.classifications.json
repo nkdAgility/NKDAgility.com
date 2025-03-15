@@ -157,12 +157,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions the Connect event where the new build system was announced, but the primary focus is on configuring the Build vNext Agent rather than discussing the event itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the Connect event where Microsoft announced the new build system, but it primarily focuses on the technical aspects of configuring a Build vNext Agent. While there is a reference to an event, the main discussion revolves around implementation details rather than insights or experiences from the event itself. Therefore, the alignment with the category is limited.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -250,12 +253,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses configuring a build agent, which is related to deployment and CI/CD practices, but it primarily focuses on technical setup rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a crucial aspect of the deployment phase in product delivery. It discusses the setup process, prerequisites, and the new features of the build system, aligning with the methodologies and practices involved in delivering software products. However, while it touches on deployment and configuration, it lacks a broader discussion on planning, testing, or iterative development, which are also key components of product delivery.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -352,20 +358,26 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the new vNext build system for TFS and VSO, including its features and updates, which aligns with industry news. However, it primarily focuses on a technical tutorial for configuring the build agent, making the news aspect a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the new vNext build system for TFS and VSO, which is a recent development in DevOps practices. It mentions Microsoft's announcement at a past event, indicating relevance to industry news. However, the primary focus is on a technical tutorial for configuring the build agent, which detracts from its alignment with the 'News and Reviews' category. While it provides some insights into the new system, the depth of discussion is more tutorial-oriented than evaluative or analytical.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the configuration of a build agent within the context of Visual Studio Online and Team Foundation Server, which relates to the deployment and maintenance stages of the application lifecycle. However, it does not extensively cover broader ALM methodologies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a specific task within the broader context of application lifecycle management. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on the overall application lifecycle stages, governance, or best practices. The mention of the build system and its features indicates some relevance to ALM, but the depth of discussion is limited to technical setup rather than strategic management.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -409,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring a build agent, which is a component of the Continuous Delivery process, but it primarily focuses on the setup and features of the vNext build system rather than the broader principles and practices of Continuous Delivery.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a specific aspect of the build process in a CI/CD pipeline. While it touches on automation and the build system, it lacks a comprehensive discussion on Continuous Delivery principles, practices, and methodologies. The mention of the build system and its configuration does not sufficiently align with the broader themes of Continuous Delivery, such as deployment strategies, risk management, or production readiness.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -706,12 +721,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of a build agent in the context of a new build system, which is relevant to the release process, but it primarily focuses on setup and technical details rather than the broader principles of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring a build agent for a new build system, which is a technical aspect of software delivery. However, it does not explicitly discuss frequent releases or the principles of Continuous Delivery and Continuous Deployment. While it touches on the new build system's capabilities, it lacks a detailed exploration of release frequency, user feedback integration, or DevOps practices, which are central to the 'Frequent Releases' category.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -892,11 +910,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of a build agent, which is related to the delivery of functional software, but it primarily focuses on the technical setup rather than the broader principles of working software in Agile or Scrum.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on configuring a build agent for a new build system, which is a technical aspect of software development. While it discusses the operational setup of a build system, it lacks a direct emphasis on the delivery of functional software or customer value. The discussion is more about the technical implementation rather than the characteristics or best practices of working software as defined in Agile and Scrum frameworks.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -910,11 +931,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T23:20:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:06:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is a key aspect of Continuous Integration practices, particularly in relation to the new build system for TFS and VSO. It covers the setup process, the benefits of the new model, and the implications for build management, aligning well with CI principles.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a key aspect of Continuous Integration (CI). It discusses the new build system introduced by Microsoft, detailing the setup process, the architecture of the build agent, and the management of build queues and pools. This aligns well with CI principles, as it emphasises frequent integration of code changes and the use of automated build processes. The depth of discussion is substantial, providing specific instructions and insights into the configuration and operational aspects of the CI tool, thus demonstrating a strong alignment with CI practices.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -982,11 +1006,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T23:20:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:07:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the configuration of a build agent, which is a key aspect of the release management process, particularly in the context of CI/CD practices. However, it does not delve deeply into broader release management strategies or practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a technical aspect of the release process. It discusses the new build system, its features, and how to set it up, which aligns with release management practices. However, it lacks a broader discussion on release planning, scheduling, or coordination with stakeholders, which are key themes in release management. The depth of discussion is technical but does not cover strategic aspects of release management comprehensively.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1009,21 +1036,27 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T23:20:51",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:07:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the configuration and management of a Build vNext Agent within Visual Studio Online (VSO), which is directly related to Azure Pipelines. It covers the setup process, prerequisites, and the new build system's features, aligning well with the key topics of Azure Pipelines.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent within Azure DevOps (formerly VSO), which is a core aspect of Azure Pipelines. It discusses the new build system, its architecture, and the steps required to set up a build agent, aligning closely with the principles of CI/CD. The content is rich in technical detail, covering prerequisites, installation steps, and configuration, which demonstrates a strong depth of discussion. Overall, the content is highly relevant to Azure Pipelines, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses configuring a build agent, which is related to deployment processes, but it primarily focuses on setup instructions rather than optimising deployment frequency.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and does not explicitly discuss deployment frequency as a primary topic. While it touches on aspects of the build system that could relate to deployment processes, it lacks a direct emphasis on optimising deployment intervals or the significance of deployment frequency in Agile and DevOps practices. The discussion is more technical and procedural rather than strategic or conceptual regarding deployment frequency.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1081,12 +1114,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T23:21:02",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:07:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, detailing the processes involved in setting up the agent, including prerequisites, installation steps, and configuration management. It focuses on practical aspects of system configuration, making it a clear fit for the category.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the configuration of a Build vNext Agent, detailing the steps required to set up the agent on Visual Studio Online (VSO). It discusses the prerequisites, installation process, and configuration management, which are all key aspects of system configuration. The depth of discussion is substantial, providing specific instructions and considerations for optimising the setup. The content aligns well with the core themes of system configuration, such as best practices for software installation and configuration, and the role of automation in system setup. However, while the content is rich in practical details, it could benefit from a more explicit discussion of configuration management tools and techniques.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1135,21 +1171,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T23:21:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:07:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 33,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses configuring a Build vNext Agent on Visual Studio Online, which involves setting up a Windows Server in Azure and using PowerShell for installation. It focuses on Windows-specific tools and processes, making Windows a central theme.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent within the Windows environment, specifically mentioning Windows Server and Visual Studio installations. It provides detailed instructions on setting up the agent, including prerequisites and installation steps, which align closely with the key topics of the Windows category. The discussion is in-depth, covering various aspects of the configuration process and the implications of using Windows for this setup. Overall, the content is highly relevant to the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses configuring a Build vNext Agent, which is related to deployment processes, but primarily focuses on setup and configuration rather than specific deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent and the associated setup process, which is more about build management than deployment strategies. While it touches on aspects of deployment, such as the need for a build server and the use of PowerShell for configuration, it lacks a direct discussion of deployment methodologies like Blue-Green Deployments or Canary Releases. The depth of discussion is limited to setup instructions rather than strategic insights into deployment practices.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1189,11 +1231,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a specific troubleshooting scenario related to the installation of the VSO vNext Build Agent, mentioning an error that requires resolution. However, the primary focus is on configuration rather than a broader discussion of troubleshooting techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which includes some troubleshooting aspects, such as addressing a specific error related to Visual Studio installation. However, the main emphasis is on the setup process rather than a systematic approach to diagnosing and resolving broader technical issues. While there are mentions of potential errors and prerequisites, the depth of troubleshooting techniques and methodologies is limited, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1234,11 +1279,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T23:21:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:07:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is relevant to software developers working within Agile and DevOps frameworks, particularly in the context of Continuous Integration and Continuous Delivery practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a technical task relevant to software developers. It discusses specific tools and processes related to the build system, which aligns with modern engineering practices. However, it lacks a broader discussion on Agile or DevOps methodologies, limiting its depth and conceptual alignment with the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1252,12 +1300,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring a Build vNext Agent, which relates to Continuous Integration practices, but primarily focuses on setup instructions rather than core engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a technical task related to Continuous Integration (CI) practices. While it does touch on automation and the build process, it lacks a broader discussion on Agile engineering principles such as clean code, TDD, or refactoring. The depth of discussion is more about the setup and configuration rather than the underlying engineering practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1315,11 +1366,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-14T23:21:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:07:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent within the context of Visual Studio Online (VSO), which is closely related to Azure Repos functionalities, particularly in terms of CI/CD processes and build management.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent within the context of Visual Studio Online (VSO), which is closely related to Azure Repos. It discusses the new build system, its architecture, and how to set up build agents, which are integral to CI/CD processes in Azure Repos. The mention of TFS (Team Foundation Server) and the build system aligns well with Azure Repos functionalities. The depth of discussion is substantial, providing detailed steps and considerations for configuration, which enhances its relevance to the category. However, it does not explicitly cover all aspects of Azure Repos, such as branching strategies or pull requests, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Forecasting": {

@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:49:09",
+    "calculated_at": "2025-03-15T05:06:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While these topics touch on aspects of DevOps, such as collaboration and continuous delivery, they do not explicitly address core DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific metrics, automation, or cultural shifts, leading to a low confidence score in alignment with the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -181,20 +181,26 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile Portfolio Management and team collaboration features in Team Foundation Server 2013, which are relevant to enterprise agility. However, the primary focus is on specific product features rather than broader organisational agility practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses features of Team Foundation Server 2013 that support agile practices, such as Agile Portfolio Management and team collaboration tools. However, it primarily focuses on specific tools and features rather than the broader implications of enterprise agility across the organisation. While there are mentions of agility and collaboration, the discussion lacks depth in organisational context and does not address the cultural or structural aspects of enterprise agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile Portfolio Management and team collaboration features in Team Foundation Server 2013, which are relevant to business agility principles. However, the primary focus is on the software features rather than a broader discussion on business agility itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses features of Team Foundation Server 2013 that support Agile methodologies, such as Agile Portfolio Management and team collaboration tools. While it does mention Agile practices, the primary focus is on specific software features rather than a broader discussion of business agility principles or strategies. The alignment with the category is moderate, as it touches on aspects of agility but lacks depth in exploring the principles and practices that enable organisations to adapt and innovate in a dynamic market.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
@@ -400,12 +406,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses new features of Team Foundation Server and Visual Studio which include aspects of technical practices like agile portfolio management, team collaboration tools, and testing capabilities. However, it primarily focuses on software tools and features rather than deep technical craftsmanship principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses new features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While it touches on aspects of software craftsmanship and engineering practices, such as testing and team collaboration, the emphasis is more on product features rather than deep technical mastery or best practices in software design and architecture. The discussion lacks a thorough exploration of methodologies or principles that contribute to high-quality software development, which diminishes its alignment with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -427,12 +436,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile Portfolio Management and strategic hierarchies related to team's work items, indicating a secondary theme of strategic goal alignment within the context of the new features of Team Foundation Server 2013.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly touches on the concept of strategic goals within the context of Agile Portfolio Management, specifically mentioning high-level strategic goals owned by leadership. However, the primary focus of the content is on the features of Visual Studio 2013 Team Foundation Server, which does not align with the broader discussions of strategic goals and business agility. The depth of discussion on strategic goals is limited, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -463,29 +475,38 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Agile Portfolio Management features of Team Foundation Server 2013, including the alignment of work items, backlog management, and other aspects related to portfolio management in an Agile context.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile Portfolio Management features in Team Foundation Server 2013 in detail, including the structure of backlogs and the relationship between different work items. It aligns well with the core themes of portfolio management, such as strategic alignment and prioritisation frameworks. However, while it provides substantial information on these features, it also includes broader discussions on team collaboration and testing, which slightly detracts from its primary focus on portfolio management.",
     "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses features of Team Foundation Server related to Agile Portfolio Management, which includes a detailed exploration of multiple backlogs, Product Backlog Items, and the hierarchy of work items. This aligns well with the concept of a Product Backlog, focusing centrally on its purpose and management within Agile methodologies.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile Portfolio Management and the concept of multiple backlogs, which directly relates to the Product Backlog. It explains how features can be broken down into Product Backlog Items and the importance of managing these items effectively. The depth of discussion on backlog management techniques and the roles involved, particularly the Product Owner, adds to the relevance. However, the primary focus is on the features of Team Foundation Server rather than a comprehensive exploration of the Product Backlog itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses new Agile Portfolio Management features in Team Foundation Server 2013, which relates closely to Agile Planning practices such as managing backlogs, iterative delivery, and aligning teams on project goals.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile Portfolio Management and its features within Team Foundation Server 2013, which aligns well with Agile Planning principles. It mentions backlogs, features, and the iterative nature of Agile, indicating a strong focus on Agile methodologies. However, while it provides substantial detail on specific features, it lacks a broader discussion on Agile Planning strategies and best practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -499,30 +520,39 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features of Team Foundation Server that hint at iterative development and the concept of customer feedback influencing product improvements, but it is primarily focused on new features rather than the explicit processes of gathering and acting on customer feedback.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on new features of Visual Studio 2013 and Team Foundation Server, with some mention of iterative delivery and customer feedback in the context of product development. However, it lacks a detailed exploration of customer feedback loops, their importance, or specific techniques for gathering and integrating feedback into the development process. The discussion is more about product features and management rather than the mechanisms of customer feedback integration.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Team Foundation Server 2013 that support Agile practices, particularly in portfolio management and team collaboration, making it a secondary theme related to operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses new features in Team Foundation Server 2013, particularly focusing on Agile Portfolio Management, Team Collaboration, and Testing. While these features relate to operational practices within Agile frameworks, the discussion is primarily descriptive and lacks a deep exploration of techniques or strategies aimed at enhancing operational efficiency. The content does mention aspects of process optimisation and collaboration, but it does not provide substantial detail on metrics, KPIs, or continuous improvement strategies, which are crucial for a higher confidence score in the 'Operational Practices' category.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses team collaboration tools and features within Team Foundation Server 2013, which relates to the dynamics of Scrum Teams but is primarily focused on software tools rather than Scrum roles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses features of Team Foundation Server 2013, including team collaboration and Agile portfolio management, which are relevant to Scrum teams. However, it lacks a focused discussion on Scrum roles, team dynamics, or specific Scrum practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -544,20 +574,23 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T09:08:56",
+    "calculated_at": "2025-03-15T05:06:25",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content primarily discusses features of Visual Studio 2013 Team Foundation Server, focusing on Agile Portfolio Management, Team Collaboration, and Testing. While testing is mentioned, it is not centered around validating product ideas through user engagement, and most of the content revolves around the software's features and functionalities.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:06:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the new features of Team Foundation Server 2013, with a significant focus on Agile Portfolio Management, team collaboration, and testing. While it ties closely to Agile practices and technologies, it does not delve deeply into Agile transformation methodologies or broader organizational strategies.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile Portfolio Management and team collaboration features in Team Foundation Server 2013, which are relevant to Agile practices. However, it primarily focuses on specific tools and features rather than broader strategies or methodologies for Agile transformation. While it aligns with Agile principles, it lacks depth in discussing change management, leadership roles, or organisational readiness, which are critical aspects of Agile transformation.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -580,11 +613,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:06:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses features of Team Foundation Server that enhance agile portfolio management and team collaboration, which are relevant to team performance. However, the primary focus is on the features of the software rather than the strategies and practices for improving team dynamics and effectiveness.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses features of Team Foundation Server 2013 that enhance team collaboration and agile portfolio management, which are relevant to team performance. It mentions specific tools and methodologies that can improve team dynamics and productivity, aligning with the core themes of the category. However, while it provides a good overview of features, it lacks in-depth exploration of strategies or practices for maximising team effectiveness, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -607,20 +643,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed discussions on new features of Visual Studio 2013 Team Foundation Server, particularly focusing on Agile Portfolio Management, team collaboration, and testing features. These are directly related to software development practices and methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. It explicitly mentions Agile methodologies and tools that facilitate software development processes, aligning well with the core themes of the Software Development category. The depth of discussion is significant, providing detailed insights into specific features and their implications for software development practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses features of Agile Portfolio Management within Team Foundation Server, focusing on agile methodologies, backlogs, and team collaboration which are central to Agile Project Management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile Portfolio Management, team collaboration, and iterative development within the context of Team Foundation Server 2013, which aligns well with Agile Project Management principles. It explicitly mentions agile methodologies and features that support agile practices, such as managing backlogs and team collaboration tools. However, while it provides substantial detail on these features, it does not delve deeply into the broader principles of the Agile Manifesto or specific frameworks like Scrum or Kanban, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -670,20 +712,26 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses Agile Portfolio Management, Team Collaboration, and testing features related to Team Foundation Server 2013, which is a part of Azure DevOps, including its functionalities in managing Agile projects and work items.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses features of Team Foundation Server (TFS) 2013, which is related to Azure Boards, but it primarily focuses on TFS as a whole rather than specifically on Azure Boards. While it mentions Agile Portfolio Management and team collaboration, it lacks a detailed exploration of Azure Boards' functionalities and best practices. The discussion is more about TFS features rather than a focused analysis of Azure Boards within the Agile project management context.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides a thorough overview of Team Foundation Server 2013 and its features related to team collaboration, including unlimited Team Rooms for collaboration, improvements in team communication channels, and alerts that facilitate team interactions, aligning well with the theme of Collaboration Tools.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Team Foundation Server 2013, highlighting features that enhance team collaboration, such as Team Rooms and communication tools. It aligns well with the category's focus on tools that facilitate Agile team dynamics. However, while it provides a good overview of collaboration features, it lacks in-depth exploration of best practices or case studies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -760,7 +808,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:47:15",
+    "calculated_at": "2025-03-15T05:06:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -768,7 +816,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses new features in Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While it touches on aspects of software development practices, such as collaboration and testing, it does not explicitly promote high standards in software craftsmanship or continuous improvement of engineering processes. The discussion is more feature-centric rather than a deep exploration of engineering excellence principles, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -808,11 +856,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:06:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical features and improvements in Team Foundation Server 2013 that aid Agile practices, including Portfolio Management and Team Collaboration, which are aligned with pragmatic applications in Agile environments.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses new features in Team Foundation Server 2013, particularly focusing on Agile Portfolio Management, Team Collaboration, and Testing. While it mentions Agile principles and practical applications of the software, the primary focus is on feature announcements rather than a deep exploration of pragmatic problem-solving techniques or real-world applications of Agile, Scrum, or DevOps principles. The content does not provide extensive case studies or evidence-based management practices, which are crucial for a higher confidence score in the 'Pragmatic Thinking' category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,30 +877,39 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content primarily discusses features of Visual Studio 2013 and Team Foundation Server, it touches on aspects of Agile Portfolio Management and team collaboration tools that could contribute to innovation practices. However, the central focus is not on the measurement and improvement of innovation capabilities, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on new features of Visual Studio 2013 and Team Foundation Server, discussing Agile Portfolio Management, team collaboration, and testing capabilities. While it touches on aspects of innovation through the introduction of new features, it lacks a direct emphasis on the measurement and improvement of innovation capabilities, as well as Evidence-Based Management principles. The discussion is more about product updates than fostering a culture of innovation or using empirical data for decision-making.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:09:52",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:06:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses new Agile features of Team Foundation Server 2013, including backlog management, team collaboration, and iterative testing, which align with Scrum principles. However, it does not focus solely on Scrum practices, making it a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses features of Team Foundation Server 2013 that support Agile methodologies, including backlog management and team collaboration, which are relevant to Scrum practices. However, it lacks a focused discussion on Scrum roles, sprint processes, or customer feedback mechanisms, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile Portfolio Management and collaboration tools in Team Foundation Server 2013, which are relevant to scaling Agile practices, but it primarily focuses on specific features of the software rather than on broader scaling methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile Portfolio Management and team collaboration features in Team Foundation Server 2013, which are relevant to Agile practices. However, it lacks a focus on scaling Agile across multiple teams or enterprise-level strategies, which are central to the Scaled Agile category. The discussion is more about specific tools and features rather than the broader principles of scaling Agile methodologies.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -871,12 +931,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions features related to testing in Team Foundation Server 2013, indicating that test management and execution are part of the discussion, but the primary focus is on Visual Studio and Team Foundation Server functionalities overall.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses testing features in Team Foundation Server 2013, including test management and execution capabilities. While it does mention testing tools and improvements, the primary focus is on Agile Portfolio Management and team collaboration rather than on the principles and practices of test automation. The discussion on testing is present but not in-depth enough to classify the content as primarily about test automation.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -889,20 +952,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T19:09:53",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:07:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses features in Visual Studio 2013 Team Foundation Server that enhance project management and development practices in an Agile context, including Agile Portfolio Management and team collaboration, which align with the principles of delivering functional software.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses new features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While it touches on aspects of working software, such as iterative delivery and features that enhance team collaboration, it primarily serves as an announcement rather than a detailed exploration of working software principles. The discussion is relevant but lacks depth in terms of best practices and metrics for assessing software quality.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T19:09:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:07:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content mainly discusses features of Team Foundation Server 2013 that facilitate Agile planning, specifically focusing on Agile Portfolio Management, backlog management, team collaboration features, and the role of these tools in enhancing Agile practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile Portfolio Management features of Team Foundation Server 2013, which directly relates to Agile Planning Tools. It provides a detailed overview of backlog management, team collaboration, and the functionalities of the tool in the context of Agile methodologies. However, while it covers relevant topics, it does not delve deeply into metrics or KPIs for measuring effectiveness, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -979,12 +1048,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses new features of Team Foundation Server which include elements related to agile portfolio management, testing, and team collaboration, which are relevant to software delivery and release management practices, but it primarily focuses on feature updates rather than on systematic release management processes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses new features in Team Foundation Server 2013, which indirectly relates to release management through aspects like Agile Portfolio Management and testing. However, it primarily focuses on feature announcements and user experience rather than the strategic planning, scheduling, and controlling of software releases. While there are mentions of iterative delivery and testing, the overall emphasis is not on release management as defined in the category.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1033,11 +1105,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:09:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:06:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content prominently discusses features of Team Foundation Server 2013 that enhance team collaboration, including the introduction of Team Rooms and tools for better communication among team members.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses 'Team Collaboration with Team Foundation Server 2013', detailing features that enhance communication and collaboration within teams. It aligns well with the core themes of the category, such as improving team dynamics and fostering effective communication. The depth of discussion is substantial, providing specific examples of features that facilitate collaboration, such as Team Rooms and tagging capabilities. However, while the focus on team collaboration is strong, it is somewhat overshadowed by the broader context of the product features, which slightly reduces the overall confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1051,12 +1126,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses new features in Team Foundation Server and Visual Studio that enhance agile project management and team collaboration, which are relevant to digital transformation strategies, but it primarily focuses on specific software features rather than the broader strategic implications.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While it touches on aspects of digital tools that can enhance business processes, it lacks a strategic focus on digital transformation as defined in the category. The discussion is more about specific software features rather than a broader strategic adoption of digital technologies for business agility or innovation.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1132,12 +1210,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:07:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 and Team Foundation Server 2013, which are tools often used within the Windows environment, but does not focus directly on Windows installation, configuration, or troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 and Team Foundation Server 2013, which are tools that run on Windows but do not focus on the Windows operating system itself. While there are mentions of installation and usage, the discussion lacks depth in Windows-specific topics such as installation procedures, configuration settings, or troubleshooting related to the Windows OS. The content is more aligned with software development and project management rather than the Windows environment.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1231,11 +1312,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:09:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:07:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses features of Team Foundation Server 2013 that are specifically relevant to Agile software development, team collaboration, and testing practices, which are essential aspects of a software developer's role within Agile and DevOps frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. It aligns well with the role of software developers, particularly in the context of Agile methodologies and DevOps practices. The depth of discussion on Agile features and their impact on developer productivity and collaboration is substantial, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1276,7 +1360,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:59:52",
+    "calculated_at": "2025-03-15T05:06:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1284,7 +1368,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses features of Team Foundation Server 2013, particularly focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While it touches on aspects relevant to product management, such as Agile methodologies and team dynamics, the primary focus is on technical features and implementation details rather than strategic alignment or decision-making processes typical of product management discussions. Therefore, the confidence score reflects a moderate relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1297,20 +1381,26 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T19:09:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:06:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses features of Team Foundation Server 2013 that support Agile practices, particularly Agile Portfolio Management, Team Collaboration, and Testing. While the main focus is on the software tools, these features are closely related to Agile frameworks, making the category a major theme but not the single focus.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile Portfolio Management features within Team Foundation Server 2013, which relates to Agile frameworks. It mentions Agile principles and practices, particularly in the context of managing backlogs and team collaboration. However, the focus is more on the tool and its features rather than a comprehensive exploration of Agile frameworks themselves. While Agile concepts are present, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T19:09:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:07:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses Agile Portfolio Management within Team Foundation Server 2013, highlighting features that support agile methodologies and strategic planning. It aligns with Agile Strategy themes by addressing the organization’s alignment, value delivery, and integration of agile practices into management processes.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile Portfolio Management and its features within Team Foundation Server 2013, which aligns with Agile principles. However, the focus is primarily on technical features rather than strategic implementation or organisational alignment, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {

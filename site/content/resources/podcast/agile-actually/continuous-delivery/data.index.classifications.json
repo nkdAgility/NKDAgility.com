@@ -28,7 +28,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-06T15:03:21",
+    "calculated_at": "2025-03-14T20:53:00",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -36,7 +36,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content mentions a podcast featuring discussions relevant to Agile, which aligns with the category. However, it does not explicitly reference any specific events or presentations, and the focus is more on the hosts' expertise rather than structured learning experiences or formal events.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -271,11 +271,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:53:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions agile concepts and focuses on communication and transparency within the agile context, but it is primarily about a podcast discussion rather than in-depth agile project management practices.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions agile principles and the importance of language in the agile context, but it lacks detailed discussion on specific agile methodologies or frameworks. The focus is more on the hosts' credentials and their roles rather than a deep exploration of agile project management practices.",
     "level": "Tertiary"
   },
   "Cross Functional Teams": {
@@ -334,11 +337,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:53:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile coaching and its importance in the context of communication, but it does not predominantly focus on coaching techniques or the foundational principles of coaching practices.",
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions agile coaching and the hosts' roles as agile coaches, but it primarily focuses on the importance of language and transparency in the agile context. While there is some alignment with coaching principles, the depth of discussion on coaching techniques or strategies is limited.",
     "level": "Tertiary"
   },
   "Scaling Kanban": {
@@ -667,12 +673,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:53:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions 'lean' in the context of 'lean-agile procurement' but primarily focuses on Agile topics and does not delve deeply into Lean principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'leanagileprocurement' in the context of Agile coaching, but it primarily focuses on Agile principles and the importance of language in that domain. There is minimal direct discussion of Lean principles or methodologies, and the depth of Lean-related content is insufficient to warrant a higher score.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -985,7 +994,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T14:29:49",
+    "calculated_at": "2025-03-14T20:53:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -993,7 +1002,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content briefly touches on Agile methodologies and the importance of language in the Agile context, which relates to product delivery. However, it lacks a detailed discussion on the end-to-end process of delivering software products, such as planning, testing, and deployment. The focus is more on the hosts' credentials and their roles rather than on specific product delivery practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1006,7 +1015,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-11T17:31:57",
+    "calculated_at": "2025-03-14T20:53:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1014,16 +1023,19 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of language in the Agile context, which aligns with the Agile Philosophy's emphasis on communication and collaboration. However, it primarily focuses on the hosts' credentials and their roles in Agile coaching rather than delving deeply into the foundational principles or broader implications of Agile as a mindset.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:53:06",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile and roles within the framework, indicating a significant connection to software development practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, which aligns with software development practices. However, it primarily focuses on the hosts' credentials and their roles rather than providing in-depth insights into software development methodologies or practices. The discussion lacks substantial detail on specific software development techniques or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1099,12 +1111,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:53:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content touches on the importance of transparency and language within the Agile context, which aligns with Agile values, but it focuses more on practices and insights rather than deeply discussing Agile values and principles as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly touches on the importance of language in the Agile context, which aligns with the Agile principle of communication and collaboration. However, it primarily focuses on a podcast discussion rather than delving deeply into Agile values or principles. The mention of Agile coaching and consulting does not provide substantial insight into the core values or principles of Agile methodologies.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1201,7 +1216,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T16:19:15",
+    "calculated_at": "2025-03-14T20:53:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1209,7 +1224,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the Agile context and the importance of language within it, but it does not delve into specific Agile frameworks or their principles. While it features Agile coaches and consultants, the discussion lacks a focused exploration of Agile frameworks themselves, which diminishes its relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1300,12 +1315,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:53:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses importance of transparency in the Agile context, which is relevant to Scrum principles, but it mostly focuses on the podcast and does not delve deeply into Scrum roles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum trainers and the Agile context but lacks a focused discussion on Scrum principles, roles, or practices. The emphasis is more on language and transparency in Agile rather than on the core elements of Professional Scrum.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1357,7 +1375,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-13T15:09:42",
+    "calculated_at": "2025-03-14T20:53:00",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -1365,7 +1383,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions agile concepts and the importance of language in the agile context, which aligns with the principles of organisational agility. However, it lacks a detailed exploration of strategies, practices, or frameworks that enhance organisational adaptability. The focus is more on the hosts' credentials and their roles rather than on organisational agility itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1432,7 +1450,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:53:35",
+    "calculated_at": "2025-03-14T20:53:00",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -1440,6 +1458,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of the hosts' expertise but does not delve into Scrum principles, roles, or practices. The focus is more on transparency in Agile rather than specific Scrum discussions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

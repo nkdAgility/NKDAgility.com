@@ -31,14 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Throughput
+- Value Delivery
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
+- Team Performance
+- Operational Practices
 - Flow Efficiency
 - Agile Philosophy
-- Metrics and Learning
-- Software Developers
-- Cycle Time
+- Agile Planning
 resourceTypes:
 - video
 categories:

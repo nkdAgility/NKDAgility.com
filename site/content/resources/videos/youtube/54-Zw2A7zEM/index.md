@@ -29,6 +29,7 @@ sitemap:
 tags:
 - Agile Project Management
 - People and Process
+- Agile Transformation
 resourceTypes:
 - video
 layout: video

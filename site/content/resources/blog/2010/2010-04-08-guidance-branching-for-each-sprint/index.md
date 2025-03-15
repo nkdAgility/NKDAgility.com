@@ -8,7 +8,7 @@ ResourceImportId: 56
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-08
-weight: 450
+weight: 395
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,16 +33,11 @@ categories:
 - Social Technologies
 - Engineering Excellence
 tags:
+- Software Development
 - Modern Source Control
 - Software Developers
 - Practical Techniques and Tooling
-- Software Development
 - Scrum Product Development
-- Professional Scrum
-- Agile Frameworks
-- Operational Practices
-- Agile Project Management
-- Technical Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

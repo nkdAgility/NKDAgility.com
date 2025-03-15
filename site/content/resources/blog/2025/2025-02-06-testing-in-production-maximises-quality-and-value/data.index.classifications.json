@@ -1,12 +1,15 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses audience-based deployment and the importance of real-time feedback and telemetry, which are related to hypothesis-driven development. However, it primarily focuses on deployment strategies rather than explicitly formulating and testing hypotheses.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses audience-based deployment and the importance of real-time feedback, which aligns with some principles of hypothesis-driven development. However, it lacks explicit mentions of hypothesis formulation, experimentation, and data analysis as primary focuses. The depth of discussion on iterative processes and user feedback mechanisms is present but not sufficiently detailed to fully classify it under hypothesis-driven development.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -22,12 +25,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses innovative deployment strategies and the importance of customer feedback in software development, which aligns with entrepreneurial principles. However, the primary focus is on technical practices rather than entrepreneurship itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses software deployment strategies and practices, focusing on technical aspects of DevOps and audience-based deployment. While it touches on concepts like customer needs and value maximisation, which are relevant to entrepreneurship, the main focus is not on entrepreneurship itself. The discussion lacks a direct emphasis on innovation, risk-taking, or the entrepreneurial mindset, which are core themes of the category. Therefore, the confidence score reflects a low alignment with the primary focus of entrepreneurship.",
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -49,12 +55,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses organisational change and the cultural shift required for adopting audience-based deployment, which relates to systems thinking and organisational dynamics. However, the primary focus is on deployment strategies rather than a comprehensive exploration of organisational physics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses modern software deployment strategies and their impact on organisational efficiency, but it primarily focuses on technical practices rather than the broader systems thinking principles that define Organisational Physics. While it touches on organisational culture and the need for a production-first mindset, it lacks a comprehensive exploration of how these practices influence organisational dynamics as a whole.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -67,12 +76,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content primarily discusses technical strategies for software deployment and testing in production, with limited focus on leadership practices or evidence-based decision-making. While it touches on organisational changes and cultural shifts, it does not centre on evidence-based leadership principles or empirical evidence to inform leadership decisions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses technical strategies for software deployment and testing, focusing on audience-based deployment and its benefits. While it touches on concepts like feedback loops and user engagement, it lacks a direct focus on evidence-based leadership principles or empirical decision-making in leadership contexts. The discussion is more about technical practices than leadership strategies informed by evidence.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -85,7 +97,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T13:22:20",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -93,16 +105,16 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses deployment strategies and practices in software engineering, focusing on audience-based deployment and its benefits. While it touches on aspects of customer feedback and product value, it primarily centres on technical implementation details rather than the strategic alignment of product management principles. The discussion lacks a strong focus on methodologies or frameworks that guide product managers, which diminishes its relevance to the Product Management category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on technical practices related to deployment strategies and software engineering, with only peripheral mentions of team dynamics and cultural shifts, which do not centralise Agile leadership principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -115,12 +127,12 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses deployment strategies and methodologies rather than focusing on system configuration practices. While it touches on aspects of monitoring and automation, these are not the central themes of the discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -148,16 +160,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:25:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses structured methodologies for deployment and feedback loops, which are relevant to decision-making processes in software engineering. However, the primary focus is on deployment strategies rather than decision-making frameworks.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which indirectly relates to decision-making in software delivery. However, it lacks a structured discussion on evidence-based methodologies or frameworks for decision-making, focusing more on deployment strategies and practices rather than the decision-making process itself.",
+    "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T16:25:11",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -165,7 +180,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses audience-based deployment and its benefits, which indirectly touches on team autonomy and the need for a cultural shift towards continuous delivery. However, it primarily focuses on deployment strategies and technical practices rather than explicitly addressing self-organisation principles or techniques. The mention of empowering teams hints at self-organisation but lacks depth in exploring the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -178,16 +193,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:26:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses strategies for maximising value and minimising waste through audience-based deployment and continuous feedback, which aligns with Lean principles. However, it primarily focuses on deployment strategies rather than a comprehensive discussion on Lean Product Development.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses modern deployment strategies and the importance of rapid feedback, which aligns with Lean principles of minimising waste and maximising learning. However, it primarily focuses on deployment techniques rather than explicitly addressing Lean Product Development principles or waste elimination in the product lifecycle. The depth of discussion on Lean concepts is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-13T14:44:35",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -195,7 +213,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on technical practices related to deployment strategies and software engineering, with only brief mentions of cultural aspects, such as the need for organisations to embrace automation and a production-first mindset. While it touches on the cultural implications of adopting new practices, it does not delve deeply into how organisational culture influences agility or team dynamics, which are central to the category of 'Organisational Culture'. Therefore, the confidence score reflects a low alignment with the category's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -238,21 +256,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses deployment strategies and methodologies that indirectly relate to product strategy, particularly in terms of customer engagement and feedback loops. However, the primary focus is on technical implementation and DevOps practices rather than a clear product vision or roadmap.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on technical deployment strategies and practices rather than explicitly discussing product strategy methodologies or frameworks. While it touches on customer engagement and feedback, which are relevant to product strategy, the overall emphasis is on implementation details and operational practices, which detracts from a strong alignment with the core themes of product strategy.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:07:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses audience-based deployment and feedback loops, which are relevant to customer retention strategies. It highlights the importance of user engagement and telemetry to refine deployments, indicating a focus on maintaining user satisfaction and minimising churn. However, the primary focus is on deployment strategies rather than direct customer retention methodologies.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which indirectly relates to customer retention by emphasising the importance of user feedback and engagement. However, it lacks a direct focus on customer retention strategies, such as measuring satisfaction or implementing feedback mechanisms. The discussion is more centred on deployment practices rather than explicitly addressing how these practices contribute to retaining customers.",
+    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -265,12 +289,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T16:25:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses strategic approaches to deployment and feedback loops within Agile and DevOps frameworks, highlighting techniques for optimising delivery and enhancing team performance.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the strategic shift towards audience-based deployment within Agile and DevOps frameworks, highlighting its benefits for team performance and delivery optimisation. It provides detailed insights into techniques for implementing this strategy, such as feature flags and progressive delivery, aligning well with the core themes of the Strategy category. The depth of discussion is significant, with practical examples from Microsoft’s transformation, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -286,57 +313,69 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses audience-based deployment and modern software engineering practices rather than Agile frameworks or principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses audience-based deployment and its implications for organisational agility, but it primarily focuses on deployment strategies rather than broader scaling agility frameworks or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on testing in production and audience-based deployment strategies, which are more aligned with team-level practices rather than organisational scaling of agility. While it touches on concepts like team autonomy and the need for cultural shifts, it lacks a direct discussion on frameworks for scaling agility or the integration of agile practices across multiple teams. The mention of Microsoft’s transformation provides some insight into scaling but does not delve deeply into the broader organisational implications or challenges of scaling agility.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team dynamics and collaboration in the context of audience-based deployment and DevOps practices, but it primarily focuses on deployment strategies rather than team collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and technical practices in software engineering, focusing on audience-based deployment and its benefits. While it touches on team dynamics and the need for cultural shifts within organisations, the primary focus is on technical methodologies rather than explicit team collaboration techniques or principles. The mention of team autonomy and the cultural aspects of DevOps indicates some alignment with team collaboration, but it lacks depth in discussing specific strategies for improving teamwork or communication.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses audience-based deployment and its benefits, including faster feedback and user engagement, which are related to customer satisfaction. However, the primary focus is on technical deployment strategies rather than a comprehensive exploration of customer satisfaction principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, including faster feedback and user engagement, which indirectly relate to customer satisfaction. However, it primarily focuses on technical strategies and methodologies rather than explicitly addressing customer satisfaction principles or practices. The mention of being 'customer obsessed' and the importance of user experience provides some alignment, but the overall depth and focus on customer satisfaction are limited.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the elimination of waste in traditional deployment processes and promotes a more efficient, value-driven approach to software delivery, which aligns with Lean principles. However, it primarily focuses on deployment strategies rather than Lean Thinking as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses modern software deployment strategies and the importance of rapid feedback and efficiency, which aligns with Lean principles. However, it primarily focuses on DevOps practices and audience-based deployment rather than explicitly addressing Lean Thinking concepts such as waste minimisation or continuous improvement in a structured manner. The mention of waste in traditional environments is brief and not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses audience-based deployment and testing in production, with only peripheral references to concepts that could relate to Cycle Time, such as feedback loops and deployment strategies. However, it does not focus on Cycle Time as a central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -361,11 +400,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-14T16:07:41",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 88.0,
-    "reasoning": "Content primarily discusses modern software delivery practices, specifically audience-based deployment, and its implications for quality and efficiency in software development. It covers methodologies, strategies, and lessons learned from Microsoft’s DevOps transformation, making it highly relevant to software engineering practices.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses modern software deployment strategies, particularly audience-based deployment, which is a key aspect of software development practices. It aligns well with core themes such as CI/CD, DevOps, and the importance of real-time feedback in the software development lifecycle. The depth of discussion is significant, providing detailed insights into methodologies, challenges, and strategies for effective software delivery, making it a strong fit for the Software Development category.",
     "level": "Primary"
   },
   "Engineering Excellence": {
@@ -382,43 +424,55 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:25:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses strategies for optimising deployment processes and improving feedback loops, which are related to throughput. However, the primary focus is on audience-based deployment and testing in production rather than a direct exploration of throughput metrics or measurement techniques.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, such as faster feedback and reduced risk, which relate to throughput. However, it primarily focuses on deployment strategies and cultural shifts rather than explicitly measuring or optimising throughput in Agile or DevOps contexts. The mention of feedback loops and the need for rapid iteration hints at throughput but lacks detailed exploration of metrics or strategies specifically aimed at improving throughput rates.",
+    "level": "Tertiary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:07:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses deployment strategies and practices related to Azure DevOps, including audience-based deployment and the role of the Azure DevOps team in transforming deployment processes. While it touches on CI/CD principles, the primary focus is on deployment strategies rather than Azure Pipelines specifically.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses audience-based deployment strategies and the transformation of deployment practices within Microsoft, specifically mentioning the Azure DevOps team and their methodologies. While it does not focus exclusively on Azure Pipelines, it aligns well with CI/CD practices and the principles of continuous delivery, which are central to Azure Pipelines. The depth of discussion on deployment strategies and the role of Azure DevOps in these processes contributes to a higher confidence score, despite the lack of explicit focus on Azure Pipelines themselves.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of customer feedback and rapid iteration, which aligns with Agile principles, but primarily focuses on deployment strategies rather than core Agile values.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and practices in detail, focusing on audience-based deployment and its benefits. While it touches on concepts like customer feedback and the importance of adapting to user needs, it does not explicitly reference Agile values or principles. The discussion is more centred on technical practices rather than the foundational beliefs of Agile methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deployment strategies and the importance of real-time feedback, which are related to automated testing principles, but the primary focus is on audience-based deployment rather than automated testing itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and the importance of real-time feedback in production environments, which indirectly relates to automated testing principles. However, it lacks a direct focus on automated testing methodologies, types of tests, or specific tools. The mention of automated rollout halts and the need for real-time observability hints at automated testing practices but does not delve deeply into them, resulting in a low confidence score for the category.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-13T15:18:33",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -426,7 +480,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses deployment strategies and practices that can enhance system reliability, such as audience-based deployment and real-time observability. However, it primarily focuses on software delivery and development processes rather than the core principles of Site Reliability Engineering (SRE). While there are mentions of monitoring and feedback loops, the discussion lacks depth in SRE-specific practices like SLOs, SLIs, and incident response, which are crucial for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -439,12 +493,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:26:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift from traditional deployment methods to audience-based deployment, highlighting the cultural and organisational changes required for successful implementation. However, the primary focus is on technical strategies rather than change management principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses audience-based deployment and modern software engineering practices, with a focus on technical strategies rather than change management principles. While it touches on cultural shifts and the need for adaptability, it lacks a comprehensive exploration of change management strategies, stakeholder engagement, or leadership roles in guiding transformation. The discussion is more about deployment techniques than the broader implications of change management within Agile contexts.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -499,12 +556,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:07:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses modern software engineering practices, specifically audience-based deployment and its implications for DevOps, which are central to the role of software developers.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses modern software engineering practices, particularly focusing on audience-based deployment and its implications for software developers. It aligns well with Agile and DevOps principles, emphasising the importance of rapid feedback, continuous delivery, and team autonomy. The depth of discussion is significant, providing detailed strategies and examples from Microsoft’s transformation, which directly relates to the role of software developers in enhancing productivity and collaboration. Overall, the content is highly relevant to the category.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -517,12 +577,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:25:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses audience-based deployment and its role in facilitating frequent releases, emphasising continuous delivery, rapid feedback, and incremental improvements, which are central to the concept of Frequent Releases.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses audience-based deployment and its benefits, which directly relates to the principles of frequent releases. It highlights techniques for incremental improvements, the role of telemetry in feedback loops, and strategies for minimising risk during releases. The depth of discussion on Microsoft's transformation and the detailed strategies for implementing audience-based deployment further solidify its alignment with the category of Frequent Releases.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -535,12 +598,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses methodologies for improving deployment strategies and feedback loops, which are related to troubleshooting in production environments, but the primary focus is on deployment practices rather than direct troubleshooting techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses deployment strategies and methodologies but lacks a primary focus on troubleshooting specific technical issues. While it mentions detecting issues and the importance of feedback, it does not provide detailed techniques or case studies specifically aimed at diagnosing and resolving problems, which are essential for the Troubleshooting category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -577,52 +643,61 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of rapid feedback and deployment strategies that can indirectly relate to Lead Time, but it primarily focuses on audience-based deployment and testing in production rather than explicitly measuring or optimising Lead Time.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and feedback loops, which indirectly relate to Lead Time by emphasising the importance of rapid feedback and delivery. However, it does not explicitly define or focus on Lead Time as a primary metric, nor does it provide detailed techniques for measuring or optimising it. The discussion is more centred on deployment practices rather than the overall time from initiation to delivery.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses deployment strategies and practices in software engineering, focusing on audience-based deployment and continuous delivery, rather than explicitly addressing scaling Agile methodologies or frameworks across multiple teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T14:45:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses practical strategies for implementing audience-based deployment in software engineering, emphasising real-world applications of DevOps principles to enhance collaboration and efficiency.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses practical strategies for implementing audience-based deployment within a DevOps framework, highlighting real-world applications and the importance of adaptability in software delivery. It provides detailed insights into the benefits of direct user engagement, rapid feedback loops, and the cultural shifts necessary for successful implementation, aligning closely with the core themes of pragmatic thinking.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:07:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses strategies for optimising deployment frequency through audience-based deployment, progressive rollouts, and real-time feedback mechanisms, all of which are central to enhancing deployment intervals in Agile and DevOps practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses audience-based deployment and its impact on deployment frequency, emphasising the importance of rapid feedback loops and continuous delivery. It provides detailed strategies for optimising deployment intervals, including the use of feature flags, progressive rollouts, and real-time observability. The depth of discussion on Microsoft's transformation and the challenges faced in adopting these practices further solidifies its alignment with the category of Deployment Frequency.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses deployment strategies and practices that align with agile principles, but it primarily focuses on audience-based deployment and DevOps rather than core agile methodologies or project management frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-13T16:18:38",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -630,25 +705,31 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses deployment strategies and practices that relate to Continuous Integration, particularly in the context of audience-based deployment and the shift from traditional environments. However, it primarily focuses on deployment rather than the core principles of CI itself, such as automated testing and integration practices. While it touches on CI/CD practices, the depth of discussion on CI specifically is limited, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:07:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses strategies for audience-based deployment and continuous delivery, which align with Agile principles of adaptability and customer-centric approaches. However, it primarily focuses on technical practices rather than a broader strategic context.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which aligns with Agile principles of adaptability and continuous value delivery. However, while it touches on strategic aspects, it primarily focuses on technical practices and deployment strategies rather than a comprehensive Agile strategy. The depth of discussion on Agile strategy concepts is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:25:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "The content primarily discusses audience-based deployment strategies, the shift from traditional environments to production-first approaches, and the principles of Continuous Delivery, including automation, feedback loops, and real-world applications in organisations like Microsoft.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses principles and practices related to Continuous Delivery, particularly focusing on audience-based deployment and its advantages over traditional deployment methods. It highlights the importance of real-time feedback, progressive rollouts, and automation, which are core tenets of Continuous Delivery. The depth of discussion is significant, providing detailed strategies and examples, particularly from Microsoft’s transformation, which aligns well with the category's focus. Overall, the content is highly relevant and provides a comprehensive view of Continuous Delivery practices.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -670,12 +751,12 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on technical strategies for deployment and software delivery rather than exploring the interpretation of complexity or decision-making processes in organisational contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -688,12 +769,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team dynamics and practices related to deployment strategies, which are relevant to team performance but is primarily focused on technical deployment methodologies rather than direct team collaboration or performance enhancement.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on deployment strategies and practices rather than directly addressing team performance or collaboration within agile teams. While it mentions the need for teams to adapt and improve their workflows, it lacks a detailed exploration of team dynamics, leadership roles, or specific agile ceremonies that would align more closely with the 'Team Performance' category.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -733,20 +817,26 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to maximising value and minimising waste through audience-based deployment and continuous delivery, which aligns with Lean principles. However, it primarily focuses on deployment strategies and practices rather than a comprehensive discussion of Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses audience-based deployment and continuous delivery, which are related to Lean principles in terms of reducing waste and maximising value. However, it primarily focuses on deployment strategies and DevOps practices rather than explicitly addressing Lean principles or core concepts like waste reduction (Muda) or continuous improvement (Kaizen). While there are mentions of efficiency and feedback loops, the depth of discussion does not fully align with the Lean Principles category, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:07:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses modern software delivery practices and the cultural shift required for effective deployment strategies, which aligns with Agile principles, but it primarily focuses on deployment techniques rather than a comprehensive Agile transformation framework.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses modern software delivery practices, particularly audience-based deployment, which aligns with Agile principles of rapid feedback and adaptability. However, it primarily focuses on deployment strategies rather than a comprehensive Agile transformation framework, limiting its depth in Agile-specific methodologies and change management strategies.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -769,39 +859,48 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 42.0,
-    "reasoning": "The content primarily focuses on software deployment strategies and practices, with only peripheral references to organisational change. While it discusses the need for cultural shifts and team autonomy, these aspects are not the central theme of the content.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on software deployment strategies and practices, specifically audience-based deployment and its benefits. While it touches on the need for cultural shifts within organisations, it does not delve into the broader principles of organisational change, such as frameworks for implementing change or leadership roles in fostering agility. The discussion is more technical and operational rather than centred on organisational transformation methodologies.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deployment strategies and feedback loops in production, which are related to test automation principles, but the primary focus is on deployment practices rather than test automation itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and the importance of feedback loops in production environments, which are relevant to test automation principles. However, it primarily focuses on deployment practices rather than the automation of testing processes specifically. While it touches on aspects of CI/CD and the need for real-time monitoring, it lacks a detailed exploration of test automation frameworks, best practices, or specific tools, leading to a lower confidence score in the context of the 'Test Automation' category.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses deployment strategies and practices in software engineering but does not focus on Scrum principles, roles, or product development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:07:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses techniques for optimising deployment processes, enhancing operational efficiency through audience-based deployment, and integrating DevOps principles to improve delivery speed and quality.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses operational practices related to audience-based deployment, highlighting techniques for optimising software delivery and improving feedback loops. It aligns well with the core themes of operational efficiency, continuous improvement, and the practical application of DevOps principles. The depth of discussion is significant, providing detailed strategies and examples from Microsoft’s transformation, which enhances its relevance to the category.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -832,12 +931,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses audience-based deployment and its implications for organisational agility, touching on cultural shifts and team autonomy, but primarily focuses on deployment strategies rather than large-scale Agile frameworks or transformations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and practices that enhance software delivery but primarily focuses on team-level practices and individual methodologies rather than large-scale Agile frameworks or enterprise-level transformations. While it touches on aspects of collaboration and feedback loops, it lacks a direct focus on scaling Agile across an organisation or aligning multiple teams with business objectives.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -850,39 +952,45 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:25:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses strategies for modern software delivery and deployment practices, which are relevant to technical leadership in guiding teams towards agile methodologies and continuous improvement. However, it primarily focuses on deployment techniques rather than the broader aspects of technical leadership.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses audience-based deployment and its implications for software delivery, which touches on aspects of technical leadership, such as fostering a culture of continuous improvement and aligning technical decisions with business objectives. However, it primarily focuses on deployment strategies and technical practices rather than explicitly addressing the principles of technical leadership or mentoring teams. The depth of discussion on leadership aspects is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:25:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content primarily focuses on deployment strategies and technical practices rather than directly discussing methodologies for identifying customer needs or defining product features.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on deployment strategies and technical practices related to software delivery, rather than exploring methodologies for identifying customer needs or defining product features. While there are brief mentions of user feedback and telemetry, these are secondary to the main discussion on deployment techniques and operational efficiency.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses deployment strategies and feedback loops but does not primarily focus on Lean Startup principles such as MVP, validated learning, or the Build-Measure-Learn cycle.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses audience-based deployment and testing in production, with only peripheral references to Agile principles and practices. It does not focus on Agile Planning methodologies or techniques.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -895,12 +1003,12 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses audience-based deployment and testing in production, with only peripheral references to MVP concepts such as rapid feedback and iteration. It does not focus on the development or validation of a Minimum Viable Product.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -922,12 +1030,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-14T16:06:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 88.0,
-    "reasoning": "The content primarily discusses audience-based deployment strategies, including concepts like progressive rollouts, feature flags, and the shift from traditional deployment models to more agile methodologies. It provides actionable insights and examples, particularly from Microsoft, making deployment strategies the central theme.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses various deployment strategies, particularly audience-based deployment, which aligns closely with the methodologies of deploying software into production. It provides detailed insights into progressive rollouts, feature flags, and the importance of real-time observability, all of which are key topics under the category. The depth of discussion is significant, with practical examples from Microsoft’s deployment practices, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -940,12 +1051,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:25:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses advanced software deployment strategies, including audience-based deployment and its implications for quality and feedback in software engineering, aligning closely with principles of technical mastery and software craftsmanship.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses modern software engineering practices, particularly focusing on audience-based deployment and its implications for quality and speed in software delivery. It aligns well with the principles of clean code, continuous integration, and DevOps, showcasing best practices and methodologies that enhance software craftsmanship. The depth of discussion is significant, providing detailed strategies and examples from Microsoft’s transformation, which reinforces its relevance to the category of Technical Mastery.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -994,11 +1108,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:07:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses deployment strategies and practices that relate to modern software delivery, including audience-based deployment and the role of Azure DevOps. While it touches on aspects of version control and deployment methodologies, it primarily focuses on deployment processes rather than core version control practices.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses modern deployment strategies, particularly audience-based deployment, which relates to version control practices in a DevOps context. It mentions the importance of feature flags and progressive delivery, which are relevant to source control methodologies. However, the primary focus is on deployment rather than version control systems or branching strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1039,7 +1156,7 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-13T16:24:26",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1047,16 +1164,19 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses operational tactics related to audience-based deployment and testing in production, with limited direct mention of strategic goals. While it touches on the importance of adapting to user needs and improving deployment processes, it lacks a clear focus on long-term objectives or the alignment of these practices with broader organisational strategies. The depth of discussion on specific techniques and practices is substantial, but it does not sufficiently connect these to strategic goals that enhance business agility or competitive advantage.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:25:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the importance of feedback loops, learning from failures, and adapting practices in deployment strategies, which aligns with continuous learning principles. However, the primary focus is on deployment techniques rather than a broader exploration of continuous learning as a central theme.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which indirectly relates to continuous learning through the emphasis on feedback loops and adapting to real-world conditions. However, it primarily focuses on deployment strategies rather than explicitly exploring continuous learning principles or practices. While it touches on aspects of team improvement and adaptability, it lacks a direct and in-depth discussion on fostering a growth mindset or knowledge sharing, which are core to the Continuous Learning category.",
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1081,20 +1201,26 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for maximising value and minimising waste in software deployment, which aligns with Lean principles, but it primarily focuses on audience-based deployment and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses modern software deployment strategies and the importance of rapid feedback and continuous improvement, which aligns with Lean principles. However, it primarily focuses on DevOps practices and audience-based deployment rather than explicitly addressing Lean methodologies or waste reduction techniques. While there are mentions of efficiency and value maximisation, the depth of discussion on Lean-specific tools or concepts is limited.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:07:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 70.0,
-    "reasoning": "The content discusses strategies for audience-based deployment and the cultural shift required for organisations to adapt to modern software delivery methods, which aligns with themes of resilience and adaptability in organisational change.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which indirectly relates to organisational resilience and adaptability. However, it primarily focuses on technical implementations and methodologies rather than a comprehensive exploration of resilience strategies or change management practices. While it mentions the need for cultural shifts and continuous improvement, these aspects are not the primary focus of the content.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -1108,7 +1234,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T16:03:55",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1116,43 +1242,55 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses modern deployment strategies and their impact on software quality, which touches on aspects of code quality and complexity. However, it primarily focuses on deployment practices rather than a deep exploration of code quality principles or complexity theory. While it mentions the need for observability and feedback loops, it lacks a thorough examination of the relationship between code complexity and maintainability, which is central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T15:04:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses optimising deployment strategies and feedback loops, which are central to enhancing flow efficiency in software delivery. However, it also covers broader topics related to DevOps and cultural shifts, making flow efficiency a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, such as faster feedback and reduced blast radius, which align with flow efficiency principles. However, while it touches on optimising deployment processes, it does not explicitly focus on flow efficiency metrics or techniques for eliminating bottlenecks in the value stream. The discussion is more about deployment strategies than a comprehensive exploration of flow efficiency.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 42.0,
-    "reasoning": "The content primarily discusses deployment strategies and practices in software engineering, with a focus on audience-based deployment and continuous delivery. While it touches on automation and efficiency, it does not explicitly address the integration of AI or automation technologies within Agile frameworks, nor does it explore how AI can enhance Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses modern deployment strategies and practices, focusing on audience-based deployment and continuous delivery. However, it does not explicitly mention AI or automation technologies in the context of Agile frameworks. While there are references to automation in deployment processes, the primary focus is on deployment strategies rather than the integration of AI and automation within Agile methodologies. Therefore, the content only partially aligns with the category.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:07:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "Content primarily discusses methodologies and practices related to audience-based deployment, continuous delivery, and the integration of feedback loops, all of which are central to effective product delivery.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses methodologies and practices related to product delivery, particularly focusing on audience-based deployment and its implications for quality and speed. It aligns well with key topics such as iterative development, feedback loops, and the role of cross-functional teams. The depth of discussion is significant, providing detailed strategies and examples from Microsoft’s transformation, which enhances its relevance to the category.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deployment strategies and feedback loops, which are relevant to Agile principles, but the primary focus is on technical deployment practices rather than product management specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and practices that enhance software delivery but does not explicitly focus on Agile Product Management principles. While it touches on customer feedback and iterative processes, it lacks a direct connection to Agile methodologies, the role of the Product Owner, or prioritisation techniques specific to product management.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1168,39 +1306,48 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on audience-based deployment and modern software engineering practices, with only peripheral references to interconnectedness and feedback loops, which are relevant to Systems Thinking but not central to the discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexities of modern software deployment strategies and the need for adaptive approaches in response to user feedback, which aligns with themes of complexity thinking. However, it primarily focuses on practical deployment methods rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses modern software deployment strategies and practices, focusing on audience-based deployment and its benefits. While it touches on themes of adaptability and feedback loops, which are relevant to complexity thinking, it does not explicitly reference complexity science or frameworks like the Cynefin Framework. The discussion lacks depth in exploring non-linear dynamics or emergent behaviours in complex systems, which are central to the category of Complexity Thinking.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:25:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content primarily discusses audience-based deployment and its benefits, with only peripheral mentions of transparency and accountability in the context of feedback loops and user engagement.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses audience-based deployment and its benefits, focusing on technical strategies rather than the principles of transparency and accountability. While there are brief mentions of feedback loops and user engagement, these are not explored in the context of team dynamics or accountability within Agile teams. The discussion lacks depth in addressing how transparency and accountability are fostered in the Agile environment.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:07:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses audience-based deployment and its practical implementation within DevOps, including specific techniques like feature flags, progressive delivery, and real-time observability, which are central to enhancing Agile and DevOps practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses practical techniques such as audience-based deployment, feature flags, and progressive delivery, which are directly related to Agile and DevOps practices. It provides detailed insights into how these techniques can be implemented to enhance software delivery and team performance, aligning well with the core themes of the category. The depth of discussion includes specific strategies, examples from Microsoft, and the implications of adopting these methodologies, demonstrating a strong focus on practical application rather than theoretical concepts.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1213,12 +1360,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:25:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses strategies for audience-based deployment, which enhances market adaptability through faster feedback loops, progressive rollouts, and real-time observability, aligning closely with Agile and DevOps principles.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which directly relates to market adaptability by emphasising rapid feedback and responsiveness to user needs. It aligns well with Agile and DevOps principles, showcasing how these methodologies enhance an organisation's ability to adapt to market changes. The depth of discussion on strategies for implementing these practices, such as feature flags and progressive delivery, further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1243,21 +1393,27 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:07:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "The content primarily discusses Azure DevOps practices, particularly in relation to audience-based deployment and its impact on software delivery, while also detailing Microsoft's transformation through Azure DevOps methodologies.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Azure DevOps, particularly in the context of audience-based deployment and its impact on software delivery. It highlights specific strategies and lessons learned from Microsoft's Azure DevOps team, demonstrating a strong alignment with the category's core themes. The depth of discussion is significant, providing detailed insights into methodologies and practices associated with Azure DevOps, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:25:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses audience-based deployment and its implications for software delivery, referencing Microsoft’s practices and tools like Azure DevOps, but it does not primarily focus on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses deployment strategies and practices within software engineering, particularly focusing on audience-based deployment and its implications for DevOps. While it references Microsoft and its products, it does not provide reviews or analyses of specific books or tools related to Agile or DevOps methodologies. The discussion is more about practices than about products or literature, leading to a lower confidence score in the 'Products and Books' category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1282,21 +1438,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:07:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "Content primarily discusses strategies for audience-based deployment, emphasising iterative delivery, real-time feedback, and aligning product development with customer needs, which are central to value delivery in Agile and DevOps frameworks.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses audience-based deployment and its benefits, which directly ties into the principles of iterative development and continuous delivery of value. It highlights strategies for maximising customer value through real-time feedback and progressive rollouts, aligning well with the core themes of the Value Delivery category. The depth of discussion is significant, providing detailed examples and lessons learned from Microsoft’s transformation, which further supports its relevance to value delivery.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:06:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses advanced deployment strategies, including audience-based deployment and its benefits for quality and feedback in software delivery, aligning closely with technical excellence principles.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses audience-based deployment, a modern engineering practice that enhances agility and quality in software delivery. It aligns well with the principles of Continuous Integration and Continuous Delivery (CI/CD), emphasising the importance of real-time feedback and progressive rollouts. The depth of discussion on strategies like feature flags and automated rollout halts demonstrates a strong focus on technical excellence. However, while it touches on cultural aspects and organisational change, the primary focus remains on technical methodologies, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1312,12 +1474,12 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses technical strategies and methodologies related to audience-based deployment and DevOps practices, with only a brief mention of personal experiences and insights.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1333,20 +1495,26 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:07:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the cultural and organisational shifts required for adopting audience-based deployment, highlighting the interplay between technology and team dynamics, which aligns with sociotechnical systems principles.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses audience-based deployment and its impact on software delivery, touching on cultural shifts and team dynamics. However, it primarily focuses on technical strategies and practices without deeply exploring the interplay between social and technical systems within organisations. While there are mentions of organisational culture and team autonomy, these are not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:25:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses modern deployment strategies and practices in the context of DevOps, particularly focusing on audience-based deployment and its implications for software delivery. It references industry practices and lessons learned from Microsoft, making it relevant to current trends in the field. However, it leans more towards a technical discussion rather than a review or news update, which slightly diminishes its alignment with the category.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of audience-based deployment and its implications for DevOps practices, which aligns with the core themes of the category. However, while it provides insights into Microsoft's transformation and strategies, it lacks a broader industry context or recent developments that would typically characterise news and reviews. The focus is more on practical application and personal insights rather than a review or news update, which slightly diminishes its relevance to the category.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
@@ -1363,21 +1531,27 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:25:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses deployment strategies and practices that are integral to the application lifecycle, particularly focusing on audience-based deployment and its impact on feedback loops and quality assurance. While it primarily addresses deployment methodologies, it also touches on aspects of application governance and continuous delivery, making it a significant theme within the broader context of Application Lifecycle Management.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses modern deployment strategies and practices that align with aspects of Application Lifecycle Management, particularly in the context of deployment and feedback loops. However, it primarily focuses on audience-based deployment and DevOps practices rather than the entire lifecycle of applications, which limits its depth in covering all stages of ALM. While it touches on governance and continuous delivery, it lacks comprehensive coverage of maintenance, retirement, and broader governance practices.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:25:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses deployment strategies and practices that enhance software delivery but does not primarily focus on Value Stream Management principles or techniques. It touches on aspects of efficiency and feedback loops, which are relevant but not central to the core definition of Value Stream Management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and feedback loops but does not explicitly focus on Value Stream Management principles. While it touches on efficiency and customer value, it primarily centres on DevOps practices and audience-based deployment rather than a comprehensive exploration of value stream management.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1399,12 +1573,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:24:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deployment strategies and practices that enhance developer productivity and application management, which are relevant to platform engineering. However, the primary focus is on deployment methodologies rather than the broader principles of platform engineering.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and practices that relate to software delivery and DevOps, but it does not explicitly focus on the principles of Platform Engineering or Internal Developer Platforms (IDPs). While it touches on automation and improving developer productivity, the primary focus is on audience-based deployment rather than the design and construction of internal platforms. Therefore, it aligns with the category only in a limited capacity.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -1417,12 +1594,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:26:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses modern software delivery practices and audience-based deployment, which align with Agile principles of continuous feedback and value delivery. However, it primarily focuses on deployment strategies rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses modern deployment strategies and the shift from traditional environments to audience-based deployment, which aligns with Agile principles of continuous delivery and customer-centric development. However, it primarily focuses on technical practices and deployment strategies rather than explicitly addressing the Agile Product Operating Model as a holistic framework for product development. While it touches on aspects of value delivery and user feedback, it lacks a comprehensive exploration of the Agile Product Operating Model's core themes.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1471,7 +1651,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:38:05",
+    "calculated_at": "2025-03-14T16:24:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1479,6 +1659,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses audience-based deployment and modern software delivery practices, which are not directly related to Scrum principles or frameworks. While it touches on concepts like team dynamics and continuous improvement, it lacks explicit references to Scrum roles, events, or artifacts, leading to a low confidence score in alignment with the Scrum category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

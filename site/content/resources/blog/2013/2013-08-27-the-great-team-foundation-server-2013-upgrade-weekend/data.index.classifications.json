@@ -10,21 +10,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:56",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Team Foundation Server 2013 Upgrade Weekend, which involves practical application and support for upgrading a specific tool, but it does not delve deeply into methodologies or broader Agile/DevOps practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Team Foundation Server 2013 Upgrade Weekend, which is a practical event aimed at assisting teams with the upgrade and installation of TFS 2013. It directly mentions the tool (TFS 2013) and provides details about the support available during the upgrade process, aligning with the category's focus on practical techniques and tooling. However, the discussion lacks depth in terms of methodologies or frameworks beyond the event itself, which slightly lowers the overall confidence score.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its upgrade, which relates to platform engineering but primarily focuses on the event and support rather than the principles or practices of platform engineering.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses an event related to upgrading Team Foundation Server 2013, which is a tool used in software development. While it mentions engineering resources and support for installation and configuration, it does not explicitly address the principles of Platform Engineering or Internal Developer Platforms. The focus is more on the event and the product rather than on enhancing developer productivity or optimising the application lifecycle, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -121,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:44:49",
+    "calculated_at": "2025-03-15T04:52:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -129,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the Team Foundation Server (TFS) 2013 Upgrade Weekend, which is related to software deployment and support. However, it primarily focuses on the event and promotional aspects rather than the core principles of DevOps such as CI/CD, automation, or cultural shifts. While there are mentions of installation and configuration support, the discussion lacks depth in DevOps practices and does not explore the integration of people, processes, and tools in a meaningful way.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -244,7 +250,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T14:58:02",
+    "calculated_at": "2025-03-15T04:52:33",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -252,7 +258,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses an event aimed at facilitating the upgrade to Team Foundation Server 2013, which relates to product delivery in terms of support and resources for installation and configuration. However, it lacks a detailed exploration of methodologies, practices, or metrics associated with product delivery, making it more of an announcement than a comprehensive discussion on the topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -364,12 +370,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process for Team Foundation Server 2013, which relates to the deployment and maintenance stages of the application lifecycle, but it primarily focuses on the event rather than broader ALM practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an event related to upgrading Team Foundation Server 2013, which is a tool that can be part of the application lifecycle management process. However, it does not explicitly address the stages of the application lifecycle, best practices, or governance. The mention of support for installation and configuration hints at aspects of application management but lacks depth and comprehensive discussion on ALM principles.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -391,12 +400,12 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-03-15T04:52:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content mainly focuses on the promotional aspect of the Team Foundation Server upgrade event rather than discussing technical practices, software craftsmanship, or engineering principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -499,12 +508,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Team Foundation Server 2013 Upgrade Weekend and its support for installations and upgrades, which relates to operational practices and adoption processes. However, the focus is more on promotional aspects rather than explicit operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an event aimed at assisting users with the upgrade of Team Foundation Server 2013, which could relate to operational practices in terms of improving software deployment processes. However, it lacks a direct focus on operational efficiency techniques or methodologies like Agile, DevOps, or Lean. The discussion is more about the event logistics and support rather than specific strategies for enhancing operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -598,11 +610,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server, which is a tool related to software development and project management. However, it primarily focuses on the upgrade event and promotional aspects rather than in-depth software development practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Team Foundation Server (TFS) 2013 Upgrade Weekend, which is relevant to software development as it involves upgrading a software tool used in the development process. However, the discussion is primarily promotional and lacks in-depth exploration of software development methodologies or practices. While it mentions support for installation and configuration, it does not delve into broader software development concepts or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -751,7 +766,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:55:48",
+    "calculated_at": "2025-03-15T04:52:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -759,7 +774,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses an event aimed at supporting the upgrade of Team Foundation Server 2013, which implies a focus on engineering resources and support. However, it lacks a direct discussion on engineering excellence principles, best practices, or continuous improvement processes. The mention of engineering resources is too vague and does not delve into specific practices or metrics that would align with the core themes of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -880,12 +895,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade and adoption of Team Foundation Server 2013, which relates to working software, though it primarily focuses on the events and support around the upgrade rather than the delivery or characteristics of working software itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Team Foundation Server 2013 Upgrade Weekend, which is related to software upgrades and support. However, it lacks a direct focus on the characteristics of working software, best practices for ensuring software quality, or customer feedback mechanisms. While it mentions the production readiness of TFS 2013, it does not delve into how this aligns with user requirements or business objectives, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -970,7 +988,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T17:59:48",
+    "calculated_at": "2025-03-15T04:52:33",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -978,7 +996,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses an event focused on upgrading to Team Foundation Server 2013, which relates to release management in terms of supporting software upgrades and installations. However, it lacks a detailed exploration of release management strategies, practices, or metrics, making it more of an announcement than a comprehensive discussion on the topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1018,12 +1036,12 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-03-15T04:52:33",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content primarily focuses on the promotion of an upgrade event for Team Foundation Server 2013, rather than providing insights on change management strategies or practices within organizations. Although it mentions addressing resistance to adoption, it does not adequately discuss change management principles in an Agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1129,21 +1147,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server 2013, which is related to Microsoft's Windows ecosystem, particularly focusing on installation and upgrade support. However, it primarily emphasizes TFS rather than Windows OS itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the Team Foundation Server (TFS) 2013 and its upgrade weekend, which is related to the Windows environment as TFS is a Microsoft product. However, while it mentions installation and configuration, it does not delve deeply into Windows-specific topics or troubleshooting, which are key aspects of the Windows category. The focus is more on TFS rather than the Windows operating system itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading to Team Foundation Server 2013, which relates to deployment practices, but it primarily focuses on an event rather than specific deployment strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an upgrade event for Team Foundation Server 2013, which is related to deployment in a broad sense. However, it primarily focuses on the event logistics and support rather than specific deployment strategies or methodologies. There are brief mentions of installation and configuration support, but it lacks detailed discussion on deployment strategies like Blue-Green Deployments or Canary Releases, which are central to the category.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1183,12 +1207,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an upgrade weekend for Team Foundation Server 2013, offering support for installation and configuration, which relates to troubleshooting and support issues. However, the primary focus is on marketing the event rather than troubleshooting methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an event focused on upgrading Team Foundation Server 2013, with some mention of support and assistance during the upgrade process. However, it lacks a detailed exploration of troubleshooting techniques or methodologies for diagnosing and resolving issues. While it touches on the need for support during upgrades, it does not delve into specific troubleshooting strategies or case studies, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1228,7 +1255,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:27:23",
+    "calculated_at": "2025-03-15T04:52:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1263,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses an event related to the upgrade of Team Foundation Server 2013, which is a tool used by software developers. However, it lacks a direct focus on the role of software developers within Agile or DevOps frameworks. While it mentions engineering resources and support for TFS, it does not delve into best practices, methodologies, or the impact on team dynamics, which are key themes of the category. The discussion is more about the event logistics and promotional aspects rather than a deep exploration of software development practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

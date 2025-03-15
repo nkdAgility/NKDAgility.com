@@ -28,9 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Values and Principles
+- Agile Transformation
+- Agile Project Management
 - Agile Philosophy
+- Software Development
 - Organisational Agility
 - Agile Product Management
+- Discovery and Learning
 - People and Process
 - Agile Frameworks
 resourceTypes:

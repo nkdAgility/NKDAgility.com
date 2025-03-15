@@ -30,6 +30,7 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- Sprint Review
 - People and Process
 - Agile Product Management
 resourceTypes:

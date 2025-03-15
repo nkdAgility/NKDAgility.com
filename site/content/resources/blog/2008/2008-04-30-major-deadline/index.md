@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/major-deadline
 - /major-deadline
 - /resources/blog/major-deadline
-tags:
-- Pragmatic Thinking
-- Software Development
+tags: []
 categories: []
 preview: metro-sharepoint-128-link-5-5.png
 

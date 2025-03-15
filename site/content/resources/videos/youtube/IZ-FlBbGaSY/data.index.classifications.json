@@ -82,7 +82,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:47:54",
+    "calculated_at": "2025-03-14T17:12:07",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -90,7 +90,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses CI/CD practices and technical implementation details rather than focusing on the strategic aspects of product management. While it touches on the importance of understanding product architecture and business objectives, the emphasis is on technical execution rather than methodologies or frameworks that guide product managers. The discussion lacks depth in terms of product management strategies and does not adequately address the core themes outlined in the category definition.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -121,12 +121,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses CI/CD pipelines and their role in improving product quality and operational efficiency, which aligns with digital transformation themes. However, the primary focus is on technical practices rather than a broader strategic discussion of digital transformation initiatives.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of building a culture of quality and engineering excellence within organisations, which aligns with the broader themes of digital transformation. However, it primarily focuses on cultural aspects and does not explicitly mention digital technologies or strategies for digital transformation. While it touches on Agile methodologies, it does not delve deeply into how these relate to business agility or operational efficiency, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -142,12 +145,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses CI/CD practices and the importance of continuous integration and delivery, which are related to decision-making in software development. However, the primary focus is on technical implementation rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of a culture of quality and how it influences decision-making within organisations, particularly in engineering contexts. It mentions the need for empirical learning and making informed decisions based on quality and technical excellence. However, while it touches on decision-making principles, it does not delve deeply into structured methodologies or frameworks specifically designed for decision-making, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -169,12 +175,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which align with Lean principles of efficiency and reducing waste in the product development process. However, the primary focus is on CI/CD rather than Lean Product Development as a whole.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:13:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with Lean principles of delivering value and continuous improvement. However, it primarily focuses on organisational culture and Agile methodologies rather than explicitly addressing Lean Product Development techniques or waste reduction strategies. The mention of Agile frameworks suggests a secondary focus rather than a primary discussion on Lean principles.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -250,11 +259,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses CI/CD practices and their importance in improving product quality and reducing risk, which aligns with strategic approaches in Agile environments. However, the primary focus is on technical implementation rather than strategic alignment or broader strategic discussions.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of building a culture of quality within organisations, which indirectly relates to strategic alignment and the role of leadership in fostering a strategic mindset. However, it primarily focuses on cultural aspects rather than explicitly addressing strategic frameworks or techniques within Agile, Scrum, or DevOps. The mention of Agile frameworks is brief and serves more as a tool reference rather than a deep exploration of strategic implications. Overall, while there are relevant themes, the primary focus is not on strategy itself.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -367,12 +379,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:13:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous integration and continuous delivery (CI/CD), which are related to optimising the flow of work and improving throughput in software development. However, the primary focus is on CI/CD practices rather than a direct exploration of throughput as a central theme.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence but does not explicitly address throughput or its measurement. While it touches on Agile practices and the need for optimisation, it lacks a focused discussion on throughput metrics, techniques for measuring it, or strategies for improving it. The primary emphasis is on cultural aspects rather than the flow of work or completion rates.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -409,12 +424,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses CI/CD practices and their importance in improving product quality and reducing risk, which are relevant to SRE principles. However, the primary focus is on CI/CD rather than SRE specifically, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of a culture of quality within organisations, focusing on engineering excellence and technical leadership. While it touches on themes relevant to reliability, such as the impact of culture on product quality, it does not explicitly mention Site Reliability Engineering principles, practices, or metrics like SLOs, SLIs, or SLAs. The discussion is more aligned with general software development and Agile methodologies rather than the specific practices of SRE.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -445,11 +463,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which are related to empirical process control principles. However, the primary focus is on CI/CD rather than a comprehensive discussion of empirical process control itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of a culture of quality and technical excellence, which aligns with the principles of empirical process control. However, it primarily focuses on organisational culture and does not delve deeply into empirical process control practices or Agile methodologies. While Agile is mentioned, it is not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -532,21 +553,27 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which are related to the delivery of software increments. However, the primary focus is on CI/CD processes rather than the concept of Increment itself, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of quality and culture in software development, touching on Agile frameworks. However, it lacks a focused discussion on the concept of Increment as defined in Agile and Scrum, and does not provide specific insights into delivering potentially shippable product increments or measuring their value.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses CI/CD practices and mentions how Windows and Microsoft products operate within a deployment model, making Windows a significant but secondary theme in the overall discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:12:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses organisational culture, engineering excellence, and Agile methodologies, with no direct mention of the Windows operating system or its related topics. While there are references to software development practices, they do not specifically pertain to Windows, nor do they provide any insights into installation, configuration, troubleshooting, or updates related to the Windows environment.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -769,12 +796,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses CI/CD pipelines and their importance in automating the integration and delivery processes, which are key aspects of test automation. However, the primary focus is on CI/CD practices rather than test automation principles or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:12:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a culture of quality and touches on Agile and CI/CD practices, but it lacks a direct focus on test automation principles, frameworks, or specific tools. While it mentions CI/CD pipelines, it does not delve into how test automation fits into these processes, resulting in a low confidence score for the Test Automation category.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -853,12 +883,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses CI/CD practices and their importance in product quality, which relates to technical leadership principles. However, it primarily focuses on technical processes rather than the broader aspects of guiding teams or fostering collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:12:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of technical leadership and engineering excellence in fostering a culture of quality within organisations. It highlights the role of leaders in influencing team behaviour and decision-making, which aligns with the principles of technical leadership. However, while it touches on relevant themes, the depth of discussion on specific technical leadership strategies and agile practices is somewhat limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -925,7 +958,7 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-13T16:20:42",
+    "calculated_at": "2025-03-14T17:12:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -933,7 +966,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the importance of a culture of quality within organisations and does not focus on specific deployment strategies. While it briefly mentions CI/CD pipelines and related practices, these are not the main focus of the discussion. The content lacks detailed exploration of deployment methodologies, making it only tangentially related to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -958,12 +991,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T06:00:28",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, which are central to release management. It elaborates on the importance of mainline branching, the role of CI/CD in reducing risk, and effective deployment strategies, aligning closely with the key topics of release management.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T17:12:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which indirectly relates to release management through the mention of CI/CD practices. However, the primary focus is on organisational culture rather than specific release management strategies or processes. While there are references to CI/CD, they are not explored in depth, and the overall discussion does not align closely with the core themes of release management.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -985,21 +1021,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which are related to Agile principles, but primarily focuses on technical implementation rather than the broader Agile philosophy or mindset.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:12:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with Agile principles of continuous improvement and value delivery. However, while Agile is mentioned, the focus is more on organisational culture and technical leadership rather than the broader Agile philosophy itself. The discussion lacks depth in exploring Agile's foundational principles and values, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-12T06:00:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, mainline branching, and the importance of integrating changes into a main branch, which are all key aspects of modern source control methodologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T17:12:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, touching on Agile frameworks and CI/CD pipelines. However, it primarily focuses on organisational culture and decision-making rather than specific modern source control practices. While CI/CD is mentioned, it is not the main focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1048,11 +1090,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses CI/CD practices and the importance of continuous integration and delivery, which are related to continuous learning principles. However, the primary focus is on technical implementation rather than on fostering a growth mindset or knowledge sharing within teams.",
+    "calculated_at": "2025-03-14T17:13:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of building a culture of quality and engineering excellence, which aligns with the principles of Continuous Learning. It touches on the need for knowledge sharing and understanding theories behind practices, indicating a growth mindset. However, the focus is more on cultural aspects and examples rather than specific techniques or frameworks for Continuous Learning, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -1066,11 +1111,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses CI/CD practices and their importance in improving product quality and reducing risk, which aligns with the broader themes of agility and adaptability in an organisational context. However, it primarily focuses on technical practices rather than organisational structures or strategies for fostering a culture of agility.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of building a culture of quality and technical excellence within an organisation, which aligns with the broader themes of enterprise agility. However, it primarily focuses on individual behaviours and cultural aspects rather than organisational structures or frameworks for scaling agility. While agile principles are mentioned, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean": {
@@ -1102,21 +1150,27 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which relate to software quality and development processes. However, the primary focus is on CI/CD rather than a deeper exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:12:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 5,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of a culture of quality in software development, touching on themes of engineering excellence and technical leadership. However, while it mentions the impact of culture on software quality, it lacks a direct focus on code quality principles, complexity theory, or specific coding practices. The discussion is more about organisational culture than the complexities of code itself, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous integration and continuous delivery (CI/CD) practices, which are related to optimising work throughput and reducing bottlenecks in the software development process. However, the primary focus is on CI/CD implementation rather than a comprehensive exploration of flow efficiency principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which indirectly relates to flow efficiency by emphasising the need for effective processes and decision-making. However, it lacks direct mentions of flow efficiency principles, metrics, or specific techniques for optimising throughput. The discussion is more focused on cultural aspects rather than the optimisation of work across the value stream.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1207,12 +1261,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses CI/CD practices and their importance in improving product quality and reducing risk, which are relevant to market adaptability. However, the primary focus is on technical implementation rather than broader strategies for responding to market shifts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which indirectly relates to market adaptability through the lens of Agile methodologies. However, it primarily focuses on cultural aspects rather than specific strategies or practices that enhance responsiveness to market shifts. While Agile is mentioned, the discussion lacks depth in terms of practical applications or case studies that would strengthen its alignment with the category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1258,12 +1315,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses CI/CD practices and their importance in improving product quality and reducing risk, which are relevant to business agility. However, the primary focus is on technical implementation rather than broader principles or strategies of business agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:12:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with the principles of business agility. However, it primarily focuses on quality culture rather than directly addressing business agility principles or practices. The mention of Agile frameworks is brief and does not delve deeply into how they contribute to business agility, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1300,12 +1360,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:13:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which are related to organisational agility, but the primary focus is on technical implementation rather than broader organisational strategies or cultural shifts.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of building a culture of quality and technical excellence within an organisation, which aligns with the principles of organisational agility. It mentions Agile frameworks as tools rather than solutions, indicating a nuanced understanding of agility. However, the primary focus is on quality culture rather than agility itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1318,21 +1381,27 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses CI/CD practices and their implications on team dynamics and product delivery, indicating a secondary theme related to people and process, but primarily focuses on technical aspects of CI/CD.",
-    "level": "Tertiary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of building a culture of quality within an organisation, highlighting the interplay between individual behaviours and organisational processes. It addresses how leadership and culture influence engineering excellence and the decision-making processes that impact product quality. The mention of Agile frameworks as tools rather than solutions further aligns with the category's focus on human factors in process methodologies. The depth of discussion on cultural impacts and the need for technical leadership supports a high confidence score.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses CI/CD practices and their implications for software delivery, touching on team dynamics and organisational practices. However, the primary focus is on technical processes rather than a deep exploration of the sociotechnical interplay.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of organisational culture in fostering quality and technical excellence, which aligns with the sociotechnical systems theme. It highlights the interplay between culture and technology adoption, particularly in the context of Agile frameworks. However, while it touches on these themes, the discussion lacks depth in exploring specific sociotechnical interactions and frameworks, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1345,12 +1414,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which are related to metrics and performance data in Agile and DevOps. However, the primary focus is on the implementation and philosophy of CI/CD rather than a detailed exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which indirectly relates to metrics and learning through the emphasis on continuous improvement and decision-making. However, it lacks explicit discussions on metrics, data collection, or feedback mechanisms, which are central to the category. The focus is more on cultural aspects rather than the utilisation of metrics for evidence-based decision-making.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1384,12 +1456,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:01:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:13:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses CI/CD pipelines and continuous integration, which are relevant to platform engineering, but the primary focus is on CI/CD practices rather than the broader principles of platform engineering.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which are relevant to platform engineering principles. However, it primarily focuses on organisational culture and Agile methodologies rather than the specific design and construction of Internal Developer Platforms (IDPs) or enhancing developer productivity through platform solutions. The mention of CI/CD pipelines is relevant but not explored in depth, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1402,21 +1477,27 @@
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:01:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:13:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses continuous integration and delivery practices, which are relevant to the principles of the One Engineering System, but it primarily focuses on CI/CD rather than the broader framework of 1ES.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence but does not explicitly mention the One Engineering System (1ES) framework or its principles. While it touches on themes relevant to software quality and organisational culture, it lacks a direct focus on the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion is more about general engineering practices and Agile methodologies rather than the specific components and best practices of 1ES.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:01:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which are relevant to Agile methodologies and product development, but it primarily focuses on technical practices rather than a holistic view of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:13:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with the Agile Product Operating Model's focus on value delivery. However, it primarily centres on cultural aspects and technical leadership rather than explicitly addressing the Agile Product Operating Model or its principles. The mention of Agile frameworks is brief and does not delve into product-centric development or strategies for maximising value delivery, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1459,7 +1540,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:27",
+    "calculated_at": "2025-03-14T17:12:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1467,6 +1548,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses CI/CD practices and automation in software development, with minimal reference to Scrum principles or frameworks. While it touches on concepts like continuous integration and delivery, which can be relevant to Agile methodologies, it does not explicitly mention Scrum roles, events, or artifacts. The focus is more on technical implementation rather than Scrum's collaborative and iterative nature.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

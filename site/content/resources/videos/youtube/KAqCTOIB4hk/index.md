@@ -33,12 +33,12 @@ tags:
 - Metrics and Learning
 - People and Process
 - Discovery and Learning
+- Continuous Learning
 - Evidence Based Leadership
 - Pragmatic Thinking
-- Continuous Learning
-- Evidence Based Management
 - Agile Product Management
 - Ability to Innovate
+- Organisational Change
 - Value Delivery
 resourceTypes:
 - video

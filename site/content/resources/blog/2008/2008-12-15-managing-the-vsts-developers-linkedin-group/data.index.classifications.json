@@ -184,7 +184,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-10T18:55:21",
+    "calculated_at": "2025-03-15T07:25:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -192,7 +192,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the management of a LinkedIn group related to VSTS Developers, which could be tangentially related to Agile and DevOps discussions. However, it lacks substantial detail on industry news or reviews, focusing instead on personal actions and acknowledgments. The direct mentions of relevant topics are minimal, and the overall depth of discussion does not provide significant insights or evaluations that would guide practitioners in decision-making.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -322,7 +322,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T13:10:58",
+    "calculated_at": "2025-03-15T07:25:06",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -330,7 +330,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the addition of managers to a LinkedIn group, which indicates some level of team dynamics and collaboration. However, it lacks a detailed discussion on processes or methodologies related to Agile, Scrum, or DevOps. The focus is more on the act of managing a group rather than exploring the interplay between human behaviour and structured methodologies in technology and product development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1399,7 +1399,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:56:13",
+    "calculated_at": "2025-03-15T07:25:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1407,6 +1407,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the management of a LinkedIn group for VSTS Developers and does not explicitly mention Scrum principles, roles, or practices. While it may touch on themes of collaboration and team dynamics, these are not explored in the context of Scrum. The lack of direct references to Scrum events, roles, or artifacts significantly lowers the confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

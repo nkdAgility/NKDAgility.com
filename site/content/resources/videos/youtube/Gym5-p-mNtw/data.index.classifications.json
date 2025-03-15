@@ -28,12 +28,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and concepts related to Agile and DevOps, including the importance of continuous integration and delivery, which are relevant to deployment frequency. However, the primary focus is on waste reduction and return on investment rather than specifically on optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile metrics and the importance of continuous processes, which indirectly relates to deployment frequency. However, it does not explicitly focus on deployment intervals or strategies to increase deployment frequency. The mention of continuous integration and delivery suggests some alignment, but the depth of discussion on deployment frequency itself is limited.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -193,12 +196,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to team performance, such as innovation rate and usage index, which are relevant to understanding team effectiveness. However, the primary focus is on cost control and waste reduction rather than directly on team dynamics or collaboration strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:52:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses various metrics related to team performance, such as innovation rate and usage index, which are relevant to understanding team effectiveness. It aligns with the category by emphasising the importance of continuous improvement and agility in enhancing team dynamics and productivity. However, while it touches on team performance, the primary focus is more on metrics and ROI rather than direct strategies for fostering collaboration or enhancing team cohesion.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -241,11 +247,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and metrics related to cost control and efficiency, which are relevant to organisational change. However, the primary focus is on technical metrics and practices rather than a comprehensive discussion on organisational change strategies or frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses metrics related to waste reduction and ROI in the context of Agile practices, which aligns with the principles of organisational change. However, it primarily focuses on operational efficiency and specific metrics rather than broader strategies or frameworks for organisational transformation. While agility is mentioned, the depth of discussion on change management processes and leadership roles is limited.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -295,12 +304,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to product value and customer usage, which are relevant to customer satisfaction, but the primary focus is on cost control and waste reduction rather than directly enhancing customer experience.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to waste and ROI in Agile practices, but it does not explicitly focus on customer satisfaction or the customer experience. While it touches on the importance of understanding user engagement through the usage index, it lacks a comprehensive exploration of customer satisfaction principles or methodologies. The discussion is more centred on operational efficiency and metrics rather than directly addressing customer happiness or feedback mechanisms.",
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -313,12 +325,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Continuous Integration as part of a broader conversation on agile practices and metrics, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions 'continuous integration' within a broader discussion on agile metrics and waste reduction. While it touches on the importance of a continuous mindset, the primary focus is on metrics and ROI rather than the principles and practices of Continuous Integration itself. The alignment with CI themes is present but not deeply explored, and the depth of discussion on CI is limited, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -400,12 +415,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and metrics related to cost control and value delivery, which are relevant to scaling Agile practices, but it primarily focuses on individual Agile practices and metrics rather than on frameworks or coordination among multiple teams.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile metrics and their impact on ROI, which is relevant to Agile practices but does not specifically address scaling Agile across multiple teams or at an enterprise level. While it touches on the importance of agility and continuous improvement, it lacks direct references to frameworks for scaling Agile or coordination among multiple teams, which are key aspects of the Scaled Agile category.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -439,12 +457,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer usage and feedback metrics, which are relevant to customer feedback loops, but the primary focus is on cost control and metrics rather than the mechanisms of collecting and integrating customer feedback.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:52:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding customer usage and feedback through metrics like the usage index, which aligns with the concept of customer feedback loops. However, it primarily focuses on waste reduction and ROI rather than explicitly detailing mechanisms for integrating customer feedback into product development. While it mentions closing feedback loops, the overall emphasis is more on metrics and operational efficiency than on the processes of collecting and utilising customer feedback.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -469,39 +490,51 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T15:48:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:46:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile principles, particularly in relation to cost control, waste reduction, and metrics for measuring effectiveness in Agile environments. It addresses the importance of agility in improving processes and organisational responsiveness, aligning well with the themes of Agile transformation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile principles, particularly in relation to metrics that enhance organisational performance and reduce waste. It mentions agility and continuous improvement, which are core to Agile transformation. However, while it touches on Agile concepts, it lacks a comprehensive exploration of Agile frameworks or methodologies, and the discussion is more focused on metrics than on the transformation process itself.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T15:48:17",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T15:06:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses techniques for reducing waste and improving operational efficiency within Agile frameworks, including the use of metrics to measure performance and decision-making based on data. It focuses on practical applications of Agile principles to enhance delivery and operational excellence.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses operational efficiency by identifying waste in organisational processes and emphasising the importance of metrics like DORA to improve performance. It aligns well with the core themes of operational practices, focusing on continuous improvement and the practical application of Agile methodologies. The depth of discussion is significant, providing detailed metrics and actionable insights for enhancing ROI and reducing waste.",
     "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T15:48:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of metrics and data analytics in guiding business decisions, particularly in the context of Agile methodologies. It emphasises evidence-based practices for evaluating return on investment and understanding innovation rates, which aligns closely with the principles of structured decision-making.",
+    "calculated_at": "2025-03-14T16:51:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses various metrics that inform decision-making regarding resource allocation and innovation in Agile environments. It highlights the importance of data analytics in understanding ROI and making informed choices, aligning well with the core themes of structured decision-making. However, while it provides substantial detail on metrics, it lacks a direct focus on collaborative decision-making techniques or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to software development efficiency and value delivery, which are relevant to working software, but the primary focus is on cost control and waste reduction rather than directly on the characteristics or delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses metrics related to software development and the importance of understanding user engagement and innovation rates, which are relevant to working software. However, it primarily focuses on waste reduction and ROI rather than directly addressing the characteristics or delivery of functional software. While it touches on Agile principles, the depth of discussion on working software itself is limited.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -541,12 +574,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to innovation, waste reduction, and the importance of understanding user needs, which are relevant to Lean Startup principles. However, the primary focus is on Agile methodologies and cost control rather than the Lean Startup framework itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to waste reduction and ROI in agile environments, which touches on some Lean principles. However, it lacks a direct focus on Lean Startup concepts such as MVP, the Build-Measure-Learn loop, or validated learning. While it mentions agility and continuous feedback, these are more general agile practices rather than specific Lean Startup methodologies. The depth of discussion on metrics is notable, but it does not sufficiently align with the core themes of Lean Startup.",
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -568,12 +604,15 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses financial metrics and productivity analysis, particularly focusing on return on investment and efficiency in resource allocation. However, it does not explicitly centre on revenue per employee as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to ROI and productivity, but it does not explicitly mention 'Revenue per Employee' or provide a focused analysis on this specific metric. While it touches on themes of efficiency and waste reduction, the primary focus is on broader agile metrics and their implications for ROI rather than a direct examination of revenue generated per employee.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -586,11 +625,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T15:48:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:51:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses agile principles, metrics related to agile practices, and the importance of continuous feedback and innovation in project management.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses agile principles and metrics related to project management, particularly focusing on waste reduction and ROI through agility. It mentions continuous feedback and the importance of understanding metrics, which aligns with agile methodologies. However, it lacks detailed discussions on specific frameworks like Scrum or Kanban, and does not delve deeply into roles such as the Product Owner or Scrum Master, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -613,12 +655,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics and principles related to Agile practices, particularly in the context of cost control and innovation rates. While it touches on aspects of agility and organisational efficiency, it does not primarily focus on large-scale Agile frameworks or enterprise-level transformation strategies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile metrics and their impact on ROI, which touches on aspects of agility but lacks a direct focus on large-scale Agile frameworks or enterprise-level strategies. While it mentions agility in a general sense, it does not delve into the principles of scaling Agile across an organisation or the specific frameworks that facilitate this. The discussion is more centred on individual metrics and their implications rather than on large-scale Agile practices or transformations.",
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -640,12 +685,15 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and data analysis related to product development, which aligns with hypothesis-driven development principles. However, it primarily focuses on waste reduction and cost control in Agile practices rather than explicitly formulating and testing hypotheses.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:51:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses metrics and the importance of understanding user engagement, which aligns with some principles of hypothesis-driven development. However, it lacks explicit mentions of hypothesis formulation, experimentation, or validated learning, making it more focused on general Agile practices and metrics rather than the specific category of hypothesis-driven development.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -676,20 +724,26 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T15:48:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:51:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Agile, particularly in relation to continuous improvement, value delivery, and the importance of understanding metrics that reflect customer satisfaction and innovation. It connects these ideas to broader Agile concepts, making Agile philosophy a central theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile in the context of waste reduction and metrics, which aligns with Agile principles of continuous improvement and value delivery. However, it primarily focuses on specific metrics and operational aspects rather than the broader philosophical underpinnings of Agile. While it mentions agility and the importance of feedback loops, it lacks a deep exploration of Agile values or the Agile Manifesto, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and concepts related to business agility and innovation rates, which are relevant to strategic goals. However, the primary focus is on operational metrics and cost control rather than explicitly defining or articulating long-term strategic objectives.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses metrics related to waste reduction and ROI in an agile context, which indirectly relates to strategic goals. However, it primarily focuses on operational metrics and tactical improvements rather than explicitly defining or articulating long-term strategic objectives. While it touches on the importance of agility and innovation, it lacks a direct discussion on how these elements align with broader strategic goals, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lead Time": {
@@ -739,11 +793,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to engineering excellence and the importance of understanding innovation rates and feature usage, which are relevant to technical practices. However, the primary focus is on cost control and business agility rather than on software craftsmanship or engineering methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of engineering excellence and continuous improvement, which aligns with the principles of Technical Mastery. However, the primary focus is on agile metrics and business agility rather than deep technical practices or methodologies. While it touches on relevant metrics and the need for innovation, it lacks a thorough exploration of software craftsmanship or specific engineering practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -784,11 +841,14 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-12T15:49:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:51:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the identification of waste and inefficiencies in Agile practices, using metrics to analyse trends in innovation and feature usage, which aligns with the purpose of trend analysis in Agile and DevOps contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile metrics and their implications for organisational performance, which aligns with the core themes of trend analysis. It mentions specific metrics like Innovation Rate and Usage Index, providing insights into how these trends can inform strategic decision-making. However, while it touches on the importance of understanding these metrics, it does not delve deeply into broader trends in Agile or DevOps practices, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -814,11 +874,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-12T15:49:27",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:51:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of business agility, metrics for measuring innovation and efficiency, and the role of continuous processes in reducing waste, which aligns with digital transformation themes. However, it primarily focuses on agile methodologies rather than a broader strategic adoption of digital technologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of metrics in improving business agility and ROI, which aligns with the themes of digital transformation. However, while it touches on agile methodologies and operational efficiency, it lacks a direct focus on the strategic adoption of digital technologies or comprehensive case studies. The discussion is more about metrics and waste reduction rather than a broader digital transformation strategy.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -832,12 +895,15 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses waste in systems and the importance of understanding metrics related to innovation and feature usage, which indirectly relates to technical debt. However, the primary focus is on cost control and agile practices rather than explicitly managing or addressing technical debt.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses waste and efficiency in Agile practices, which indirectly relates to technical debt through the lens of resource allocation and innovation. However, it does not explicitly mention technical debt or delve into its management, making it a secondary focus rather than a primary discussion.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -859,11 +925,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T15:49:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of metrics and data analysis in leadership decisions, particularly in the context of Agile methodologies. It emphasises the use of DORA metrics and other performance indicators to inform decision-making and improve organisational efficiency, aligning well with the principles of Evidence-Based Leadership.",
+    "calculated_at": "2025-03-14T16:51:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses various metrics related to Agile practices and their impact on organisational performance, which aligns with the principles of evidence-based leadership. However, while it mentions the importance of data and metrics, it does not explicitly focus on leadership decision-making or the application of empirical evidence in leadership contexts. The discussion is more centred on operational efficiency and metrics rather than on leadership practices themselves, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -943,12 +1012,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to product performance and user engagement, which are relevant to product validation. However, the primary focus is on cost control and waste reduction rather than directly validating product ideas through user feedback or testing methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses metrics related to waste and ROI in agile environments, which indirectly touches on aspects of product validation, such as understanding user engagement through the usage index. However, it lacks a direct focus on validating product ideas through user feedback or testing methodologies, which are central to the category of Product Validation.",
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -961,12 +1033,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous integration and delivery, metrics related to software development efficiency, and the importance of understanding user engagement with features, which are relevant to release management. However, the primary focus is on cost control and waste reduction rather than the specific processes of planning and controlling software releases.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile metrics and their impact on ROI, which indirectly relates to release management through concepts like continuous integration and delivery. However, it lacks a direct focus on release management practices, such as version control or release scheduling, and primarily centres on waste reduction and performance metrics without delving into the specifics of managing software releases.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1015,11 +1090,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and metrics related to cost control and value delivery, indicating a significant focus on Agile concepts, but it also includes broader discussions on metrics and organisational performance that may not be strictly about Agile frameworks.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of agility and metrics related to performance and ROI, which are relevant to Agile frameworks. However, it lacks direct mentions of specific Agile frameworks like Scrum or Kanban, and does not delve deeply into their principles or comparative analysis. The focus is more on metrics and waste reduction rather than a thorough exploration of Agile methodologies.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -1051,21 +1129,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics and concepts related to Agile and DevOps, but it does not focus on specific products or literature. It touches on the importance of understanding innovation rates and usage indices in product development, which aligns with the themes of Agile methodologies, but lacks a clear primary focus on products or books.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile metrics and their implications for ROI, which aligns with the themes of Agile practices. However, it lacks direct references to specific products or books, and while it provides some analysis of metrics, it does not delve deeply into literature or tools that facilitate Agile methodologies. The focus is more on general principles rather than specific resources, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to cost control and investment in innovation within an Agile context, making decision theory a significant theme. However, the primary focus is on Agile methodologies and metrics rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to Agile practices and ROI, which indirectly touches on decision-making processes. However, it lacks explicit references to decision theory concepts such as heuristics, biases, or frameworks. The focus is more on operational efficiency and metrics rather than the theoretical aspects of decision-making under uncertainty.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1093,12 +1177,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between agile practices, organisational waste, and metrics that influence software delivery, indicating a major but secondary theme related to sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses metrics related to agile practices and organisational performance, which touches on the interplay between technology and organisational structures. However, it primarily focuses on technical metrics and waste reduction without a strong emphasis on the social aspects or team dynamics that are central to sociotechnical systems. While there are mentions of organisational performance and the need for a shift in focus, the discussion lacks depth in exploring how these metrics relate to team effectiveness or organisational culture.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1123,12 +1210,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interconnectedness of various metrics and their impact on organisational performance, which aligns with Systems Thinking principles. However, the primary focus is on Agile methodologies and cost control, making Systems Thinking a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses waste reduction and metrics in an agile context, which touches on interconnectedness and holistic analysis. However, it primarily focuses on linear problem-solving and specific metrics rather than a comprehensive exploration of Systems Thinking principles. While there are elements of understanding complex systems, the depth and direct mentions of Systems Thinking are limited.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1234,12 +1324,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses waste reduction and value delivery, which are central themes in Lean methodologies, but it primarily focuses on Agile practices and metrics without a strong emphasis on Lean principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses waste reduction and the importance of metrics in improving ROI, which aligns with Lean principles. However, the primary focus is on Agile methodologies and metrics rather than Lean strategies specifically. While it mentions waste and continuous improvement, it does not delve deeply into Lean tools or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1360,12 +1453,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:52:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to innovation and learning from user feedback, but it primarily focuses on cost control and waste reduction in agile practices, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses metrics related to waste reduction and ROI in agile environments, which indirectly touches on the importance of continuous learning and feedback loops. However, the primary focus is on metrics and performance rather than explicit methodologies for fostering innovation or learning processes. While it mentions the need for understanding innovation rates and user engagement, it lacks a deeper exploration of the processes that support discovery and learning.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1465,7 +1561,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:39:22",
+    "calculated_at": "2025-03-14T16:51:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1473,6 +1569,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agile principles and metrics related to waste reduction and ROI, which are relevant to Scrum but does not explicitly mention Scrum roles, events, or artifacts. The focus is more on general agile practices and metrics rather than the specific Scrum framework, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

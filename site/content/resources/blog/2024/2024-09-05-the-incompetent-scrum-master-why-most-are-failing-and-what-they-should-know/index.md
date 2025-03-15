@@ -30,16 +30,16 @@ aliasesArchive:
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
-- Professional Scrum
-- Software Development
 - Agile Project Management
 - Agile Frameworks
 - Scrum Master
 - Agile Product Management
+- Software Development
 - People and Process
-- Practical Techniques and Tooling
-- Product Delivery
-- Coaching
+- Pragmatic Thinking
+- Scrum Product Development
+- Scrum Team
+- Agile Transformation
 categories:
 - Scrum
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg

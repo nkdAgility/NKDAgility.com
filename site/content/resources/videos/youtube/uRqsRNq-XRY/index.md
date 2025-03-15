@@ -26,9 +26,14 @@ duration: 55
 isShort: true
 tags:
 - Agile Philosophy
-- Metrics and Learning
+- Organisational Culture
+- Team Performance
+- Agile Values and Principles
+- Agile Project Management
+- Organisational Agility
 - People and Process
 - Agile Leadership
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

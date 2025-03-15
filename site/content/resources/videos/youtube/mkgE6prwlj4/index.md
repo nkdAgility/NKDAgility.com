@@ -32,7 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

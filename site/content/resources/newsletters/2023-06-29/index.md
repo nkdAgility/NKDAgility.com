@@ -5,7 +5,7 @@ ResourceId: A1Gq5rHDvzC
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-06-29
-weight: 585
+weight: 530
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -22,12 +22,12 @@ categories:
 - Social Technologies
 - Leadership
 tags:
-- People and Process
-- Agile Transformation
 - Continuous Learning
 - Discovery and Learning
 - Events and Presentations
+- People and Process
 - Organisational Agility
+- Agile Transformation
 - Agile Project Management
 
 ---

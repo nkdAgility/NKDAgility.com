@@ -121,21 +121,27 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, highlighting the shift from long release cycles to shorter ones. While it touches on aspects of digital transformation, such as improving operational efficiency and customer engagement through Agile practices, the primary focus is on product management techniques rather than a comprehensive discussion on digital transformation strategies or technologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile product management, which is a method that can contribute to digital transformation by enhancing responsiveness and customer engagement. However, it primarily focuses on product management practices rather than the broader strategic adoption of digital technologies. While it touches on themes of agility and innovation, it lacks a comprehensive exploration of digital transformation as a whole, such as specific technologies or case studies.",
     "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile, focusing on the importance of delivering software more frequently and incorporating customer feedback. While it touches on aspects of working software, such as quality and delivery cycles, the primary focus is on product management practices rather than directly on the characteristics or delivery of working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:47:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses Agile product management and the importance of delivering high-quality software through shorter cycles and continuous feedback. It highlights the shift from traditional long release cycles to Agile practices that enhance responsiveness to customer needs, which aligns with the core themes of working software. However, while it touches on aspects of working software, it does not focus exclusively on the delivery of functional software, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -166,11 +172,14 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift from traditional product management to Agile practices, highlighting the importance of shorter delivery cycles and customer feedback, which aligns with Lean principles. However, the primary focus is on Agile methodologies rather than Lean specifically, making it a secondary theme.",
+    "calculated_at": "2025-03-14T18:47:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile product management, which shares some principles with Lean Product Development, such as minimising waste and maximising customer feedback. However, it primarily focuses on Agile methodologies rather than Lean principles specifically. The discussion on reducing waste and improving ROI aligns with Lean concepts, but the depth and direct mentions of Lean practices are limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
@@ -256,12 +265,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile practices, highlighting the importance of shorter delivery cycles and the ability to respond to customer feedback. While it touches on innovation in product management, the primary focus is on Agile methodologies rather than a direct exploration of the Ability to Innovate as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:47:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, highlighting the shift towards shorter release cycles and continuous feedback, which are essential for fostering innovation. However, while it touches on the importance of adapting to customer needs and market changes, it lacks a direct focus on the measurement and improvement of innovation capabilities as defined in the A2I category. The discussion is more about Agile practices than explicitly about the Ability to Innovate, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -295,12 +307,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of delivery cycles on customer feedback and satisfaction, highlighting the importance of getting products in front of customers more frequently. However, the primary focus is on product management practices rather than customer satisfaction as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:47:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses customer satisfaction as a benefit of Agile product management, highlighting how shorter cycles and rapid feedback enhance customer experiences. However, while it touches on the importance of customer satisfaction, it primarily focuses on Agile methodologies and product management practices, which makes customer satisfaction a secondary theme rather than the primary focus.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -343,16 +358,19 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile product management and its implications on software delivery cycles, which relates to software development practices. However, the primary focus is on product management rather than software engineering methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:47:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Agile methodologies and their impact on product management, which aligns closely with software development practices. It covers key aspects such as continuous integration, delivery, and the importance of quality in the development process. The depth of discussion on Agile principles and their application in software development contributes to a high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:51:28",
+    "calculated_at": "2025-03-14T18:46:48",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -360,15 +378,18 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses agile product management and its impact on delivery cycles, which indirectly relates to engineering excellence through the emphasis on quality and efficiency in software development. However, the primary focus is on product management rather than engineering practices themselves. While there are mentions of quality and the need for high standards in engineering, these are not the main themes of the content, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of delivery cycles on product management and the importance of reducing time between releases, which relates to throughput. However, the primary focus is on product management practices rather than a direct exploration of throughput as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the shift from long release cycles to shorter cycles in Agile product management, which directly relates to throughput by emphasising faster feedback loops and frequent delivery of value. However, while it touches on throughput concepts, it primarily focuses on broader Agile practices and product management strategies rather than a detailed exploration of throughput metrics or optimisation techniques.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -421,12 +442,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of product management in the Agile context, touching on the need for change in practices and processes to adapt to shorter delivery cycles. While it highlights the importance of adapting to customer feedback and improving product delivery, the primary focus remains on product management rather than a comprehensive exploration of change management principles and strategies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, touching on aspects of change such as shorter release cycles and the shift in mindset required for Agile adoption. However, it primarily focuses on product management practices rather than explicitly addressing change management strategies or principles. While there are mentions of adapting to change and improving processes, the depth and primary focus remain on product management rather than a comprehensive exploration of change management.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -448,12 +472,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering products to users more frequently and the need to validate product ideas through user feedback, but it primarily focuses on the evolution of product management practices rather than solely on product validation methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile product management and its benefits, including faster feedback loops and continuous delivery, which are relevant to product validation. However, it primarily focuses on the evolution of product management practices rather than explicitly validating product ideas through user engagement. While it touches on aspects of user feedback and market responsiveness, it lacks a direct emphasis on methodologies specifically aimed at validating product concepts with real users.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -475,11 +502,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile product management and its implications for software delivery cycles, which is relevant to software developers. However, the primary focus is on product management rather than the role of developers themselves, making it a secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on product management, which indirectly relates to software developers. However, it primarily focuses on product management rather than the specific role of developers within Agile and DevOps contexts. While it mentions practices like Continuous Integration and Continuous Delivery, the depth of discussion on software developers' roles is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -616,11 +646,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T12:57:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:51:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the evolution of product management within the context of Agile methodologies, focusing on the alignment of product management practices with Agile principles, continuous value delivery, and the importance of adaptability in response to customer feedback. It highlights the strategic implications of adopting Agile practices, making it a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the evolution of product management within the Agile framework, highlighting the strategic advantages of Agile methodologies. It directly addresses the alignment of organisational vision with Agile principles, the implementation of Agile practices, and the importance of continuous value delivery. The depth of discussion is significant, covering various aspects of Agile product management, including feedback loops, quality assurance, and market responsiveness. Overall, the content aligns well with the Agile Strategy category, focusing on strategic implications rather than just technical practices.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -724,11 +757,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T12:57:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:11:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the evolution of product management within the context of Agile practices, focusing on shorter delivery cycles, customer feedback integration, and the implications of Agile methodologies on traditional product management practices.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Agile product management, highlighting the shift from traditional practices to Agile methodologies. It covers key Agile principles such as shorter release cycles, continuous feedback, and the importance of quality, which align closely with the core themes of Agile transformation. The depth of discussion on how these practices enhance responsiveness and customer satisfaction further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -751,12 +787,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile practices, highlighting the shift from long release cycles to shorter ones. While it touches on aspects of organisational change, such as the need for adapting practices and improving responsiveness to customer feedback, the primary focus remains on product management techniques rather than a comprehensive exploration of organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, highlighting the shift from traditional practices to Agile approaches. While it touches on aspects of organisational change, such as the need for a mindset shift and the benefits of Agile in enhancing responsiveness and customer satisfaction, it primarily focuses on product management techniques rather than the broader strategies and frameworks of organisational change. The discussion on Agile practices and their impact on product management is relevant but does not delve deeply into the principles of organisational change or frameworks like ADKAR or Kotter's 8-Step Process.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -769,21 +808,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile product management and touches on iterative cycles and customer feedback, which are relevant to Scrum principles, but it primarily focuses on general product management practices rather than specifically on Scrum methodologies.",
+    "calculated_at": "2025-03-14T18:47:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile product management and its benefits, which aligns with some Scrum principles, such as iterative development and customer feedback. However, it lacks explicit references to Scrum roles, events, or the Scrum framework itself, making it more of a general discussion on Agile rather than a focused exploration of Scrum Product Development.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:46:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product management in the Agile context, focusing on the shift from long release cycles to shorter ones, which aligns with operational efficiency. However, the primary focus is on product management rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile product management and its impact on operational efficiency, particularly through shorter release cycles and continuous feedback. While it touches on operational practices, such as the importance of a clear 'Definition of Done' and continuous integration/delivery, the primary focus is on product management strategies rather than specific operational techniques or metrics. The discussion is relevant but not deeply centred on operational practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -850,29 +895,38 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, touching on the importance of delivering products quickly to gather customer feedback. While it does mention aspects of understanding customer needs and validating product features, the primary focus is on Agile practices and the operational aspects of product management rather than a dedicated exploration of product discovery methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile product management and its benefits, which indirectly relates to product discovery through the emphasis on customer feedback and rapid iteration. However, it primarily focuses on Agile methodologies and practices rather than explicitly exploring product discovery techniques or methodologies. The mention of customer needs and market responsiveness is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:46:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile product management and the importance of shorter delivery cycles, which aligns with Lean Startup principles. However, it primarily focuses on product management practices rather than explicitly addressing Lean Startup concepts like MVPs or the Build-Measure-Learn feedback loop.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile product management and its benefits, which aligns with some Lean Startup principles, such as rapid feedback loops and iterative development. However, it does not explicitly mention the Lean Startup methodology, MVPs, or the Build-Measure-Learn feedback loop, which are central to the Lean Startup category. The focus is more on Agile practices rather than Lean principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T12:58:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:46:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the evolution of product management in the context of Agile methodologies, focusing on shorter delivery cycles, the importance of customer feedback, and the adaptation of traditional practices to fit Agile principles. It aligns well with key topics of Agile Planning, such as iterative planning, optimising delivery, and the role of user stories and feedback loops.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile product management extensively, highlighting the shift from traditional long release cycles to shorter, iterative cycles that align with Agile principles. It mentions key Agile concepts such as feedback loops, continuous delivery, and the importance of a clear 'Definition of Done'. However, while it touches on Agile planning aspects, the primary focus is on product management rather than the specific methodologies and practices of Agile planning itself. Therefore, while there is significant relevance, it does not fully meet the criteria for a primary focus on Agile Planning.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -886,12 +940,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile principles, highlighting the importance of shorter delivery cycles and customer feedback, which are relevant to MVP concepts. However, it primarily focuses on broader product management practices rather than specifically on MVP development or validation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile product management and the benefits of shorter cycles, which indirectly relates to MVP principles. However, it does not explicitly mention MVP or focus on its core aspects, such as defining an MVP, strategies for identifying core features, or techniques for gathering user feedback. The discussion is more about Agile methodologies in general rather than the specific concept of MVP.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -931,21 +988,27 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile product management and its impact on delivery cycles, which touches on principles of software craftsmanship and engineering practices. However, the primary focus is on product management rather than technical mastery itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on product management, touching on aspects like continuous integration and delivery, which align with technical practices. However, the primary focus is on business value and product management strategies rather than deep technical mastery or software craftsmanship principles.",
     "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile, highlighting the impact of release cycles on customer feedback and product value. While it touches on release frequency and the implications of long release cycles, the primary focus is on product management principles rather than the specific strategies and practices of release management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:47:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on product management, including aspects of release cycles and continuous delivery. However, it primarily focuses on product management rather than the specific strategies and practices of release management. While it touches on relevant topics like feedback loops and continuous integration, the overall emphasis is on Agile practices rather than a dedicated exploration of release management processes.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -958,20 +1021,26 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, highlighting shifts in delivery cycles and practices. While it touches on trends in Agile product management, the primary focus is on the differences between traditional and Agile approaches rather than a comprehensive analysis of trends.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, highlighting shifts from traditional practices to Agile approaches. While it touches on trends such as shorter release cycles and continuous feedback, it lacks a focused analysis of broader trends or their implications for Agile, DevOps, or business agility frameworks. The discussion is more descriptive of practices rather than a deep exploration of trend analysis, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T12:58:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:46:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the evolution of product management within the context of Agile principles, focusing on value delivery, customer collaboration, and the importance of shorter delivery cycles. It contrasts traditional product management with Agile practices, highlighting the cultural and operational shifts required for Agile adoption.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the Agile approach to product management, highlighting the shift from traditional long release cycles to Agile's emphasis on shorter cycles and continuous feedback. It aligns well with the core themes of Agile philosophy, such as value delivery, customer collaboration, and the importance of adaptability. The depth of discussion is significant, covering various aspects of Agile practices and their implications for product management, while also addressing the cultural shift required for Agile adoption.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1021,12 +1090,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, touching on the importance of delivering value quickly and adapting practices to enhance responsiveness. While it does address some strategic aspects, such as maximising ROI and aligning product management with customer needs, the primary focus is on operational changes rather than explicitly defining long-term strategic goals.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:47:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile product management and its strategic advantages, highlighting how shorter cycles and continuous feedback can enhance market responsiveness and customer satisfaction. However, while it touches on strategic goals, it primarily focuses on operational changes and practices rather than explicitly defining long-term objectives or frameworks for measuring strategic goals.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1048,12 +1120,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile product management and its evolution, touching on themes of responsiveness and adaptability in product delivery cycles. However, it primarily focuses on product management practices rather than broader organisational agility, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile product management and its evolution, highlighting the shift from traditional long release cycles to shorter, more responsive cycles. While it touches on themes of responsiveness and adaptability, it primarily focuses on team-level practices rather than broader organisational implications. The discussion lacks depth in organisational structures, leadership roles, and metrics for enterprise agility, which are crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1138,12 +1213,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product management in the Agile context, highlighting the importance of shorter delivery cycles and the need for continuous feedback from customers. While it primarily focuses on Agile practices and project management, it does touch upon learning from customer feedback and adapting practices to enhance product delivery, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile product management and its benefits, particularly focusing on shorter feedback loops and continuous delivery, which align with the principles of discovery and learning. However, while it touches on these themes, the primary focus is on the transition from traditional to Agile practices rather than a deep exploration of methodologies that foster innovation and learning. The discussion lacks detailed techniques for fostering a culture of innovation or capturing knowledge across teams, which limits its depth in the context of the category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1174,12 +1252,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile product management and contrasts it with traditional product management, highlighting the importance of shorter delivery cycles and the relevance of specific practices in an Agile context. However, it primarily focuses on the philosophical and strategic aspects of product management rather than providing detailed insights into specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile product management and highlights practical techniques such as Continuous Integration and Continuous Delivery, which align with the category. However, the primary focus is on the evolution of product management rather than a detailed exploration of specific tools or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1225,21 +1306,27 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure DevOps in the context of product management and delivery cycles, highlighting its impact on agile practices. However, the primary focus is on general product management principles rather than Azure DevOps specifically.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses Azure DevOps in the context of product management and its evolution towards Agile methodologies. While Azure DevOps is mentioned, the primary focus is on product management practices rather than the specific functionalities or best practices of Azure DevOps itself. The discussion includes some relevant aspects of CI/CD and Agile practices, but it lacks depth in exploring Azure DevOps services or tools directly.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile product management and its evolution, touching on methodologies and practices relevant to product management in an Agile context. However, it does not focus specifically on reviews or analyses of books or tools, making it a secondary theme rather than a primary one.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:47:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile product management and its evolution, which aligns with the category's focus on tools and methodologies relevant to Agile practices. However, it lacks direct references to specific products or books, and while it provides a detailed analysis of Agile principles, it does not delve into specific literature or tools that would enhance understanding of these concepts.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1318,11 +1405,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, touching on the interplay between organisational practices and technology adoption. However, the primary focus is on Agile practices and product management rather than a comprehensive exploration of sociotechnical systems.",
+    "calculated_at": "2025-03-14T18:47:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile product management and its impact on business value, focusing on the shift from traditional long release cycles to shorter, more responsive cycles. While it touches on aspects of team dynamics and the importance of quality in product development, it lacks a direct exploration of the interplay between social and technical systems within organisations. The discussion is primarily centred on technical practices and methodologies without a strong emphasis on the organisational context or culture, which is essential for a higher confidence score in the Sociotechnical Systems category.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1336,12 +1426,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of delivery cycles on product management and the importance of feedback loops, which are relevant to metrics and learning. However, the primary focus is on product management practices rather than a detailed exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile product management and the benefits of shorter cycles and continuous feedback, which are relevant to metrics and learning. However, it lacks explicit discussions on metrics, data analysis, or feedback mechanisms, making it more of a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1354,12 +1447,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:47:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of product management in the context of Agile, focusing on delivery cycles and customer feedback, which are relevant to Value Stream Management principles. However, it primarily centres on Agile product management rather than explicitly addressing Value Stream Management as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile product management and its benefits, focusing on maximising business value and improving responsiveness to customer needs. However, it does not explicitly mention Value Stream Management or its core principles. While there are elements of waste reduction and continuous improvement, the primary focus is on Agile methodologies rather than a strategic approach to managing value streams.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1447,7 +1543,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:46:22",
+    "calculated_at": "2025-03-14T18:46:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1455,6 +1551,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agile product management and touches on concepts like shorter delivery cycles and customer feedback, which are relevant to Scrum principles. However, it does not explicitly mention Scrum roles, events, or artifacts, and the focus is more on general agile practices rather than the specific Scrum framework. The depth of discussion on Scrum-related topics is minimal, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

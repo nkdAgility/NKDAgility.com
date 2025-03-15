@@ -19,7 +19,7 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-07T12:42:30",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -27,7 +27,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the balance between speed and quality in delivery management, touching on the implications of business decisions and risk management. However, it primarily focuses on operational challenges rather than the broader principles of entrepreneurship. While it mentions business practices and decision-making, it lacks a direct focus on innovation, value creation, or the entrepreneurial mindset, which are core to the entrepreneurship category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -49,12 +49,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on organisational dynamics, decision-making, and the impact of leadership on quality and brand perception. However, it primarily focuses on practical delivery management rather than a comprehensive exploration of systems thinking principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the balance between speed and stability in delivery management, touching on stakeholder communication and decision-making. However, it lacks a direct focus on systems thinking or organisational dynamics, which are central to the category of Organisational Physics. While it does mention the implications of deadlines and quality, it does not delve deeply into the interplay of organisational structure or culture, nor does it explore feedback loops or emergent behaviours in a systematic way.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -97,7 +100,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:15:28",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -105,7 +108,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of quality and stability in delivery management, which indirectly relates to Agile principles. However, it lacks direct mentions of Agile leadership roles or practices, focusing more on delivery management strategies rather than leadership dynamics. The discussion on stakeholder communication and ethical choices touches on leadership aspects but does not delve deeply into Agile leadership concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -136,12 +139,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the balance between speed and stability in software delivery, emphasising the importance of quality and the implications of delivering unstable software. While it touches on aspects of working software, it primarily focuses on the challenges and ethical considerations in software delivery rather than providing a clear, primary discussion on working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:15:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality in software delivery, emphasising the need for stability over speed, which aligns with the principles of working software. However, it does not explicitly mention Agile or Scrum frameworks, nor does it provide detailed metrics or best practices for ensuring software quality. The focus is more on the philosophical aspects of delivery management rather than concrete examples of working software.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -175,21 +181,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in product delivery, touching on the importance of quality and the implications of rushing features. While it aligns with Lean principles of minimising waste and delivering value, it primarily focuses on the challenges of meeting deadlines rather than explicitly discussing Lean Product Development techniques or principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of quality over speed in delivery management, which aligns with Lean principles of minimising waste and maximising value. However, it primarily focuses on the challenges of meeting deadlines and the implications of rushing product delivery rather than explicitly addressing Lean Product Development concepts. The discussion lacks direct references to Lean methodologies or techniques for waste elimination, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the implications of organisational decisions and leadership on quality and ethical practices. However, it primarily focuses on the challenges of meeting deadlines and the consequences of prioritising speed over quality, making culture a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the balance between speed and quality in delivery management, touching on stakeholder communication and ethical choices. However, it primarily focuses on operational challenges rather than the cultural aspects that influence organisational behaviour. While there are hints at the importance of quality and stability, the discussion lacks a direct exploration of how organisational culture shapes these dynamics, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -229,21 +241,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in product delivery, touching on the implications of quality on brand and business, which relates to product strategy. However, it primarily focuses on operational challenges rather than strategic planning or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of quality and stability in product delivery, which indirectly relates to product strategy. However, it primarily focuses on delivery management and ethical considerations rather than explicitly addressing product vision, roadmapping, or market analysis. The discussion lacks depth in strategic frameworks and methodologies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining quality and stability in product delivery, which indirectly relates to customer retention by highlighting the risks of eroding customer confidence through poor quality. However, the primary focus is on balancing speed and stability rather than specific customer retention strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of quality and stability in product delivery, which indirectly relates to customer retention by emphasising the need to maintain customer trust and satisfaction. However, it does not explicitly focus on customer retention strategies or methodologies, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -304,11 +322,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of quality and stability in product delivery, which indirectly relates to customer satisfaction. However, the primary focus is on balancing speed and stability rather than directly addressing customer satisfaction principles or practices.",
+    "calculated_at": "2025-03-14T16:15:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of quality and stability in product delivery, which indirectly relates to customer satisfaction by emphasising the need to maintain customer trust and brand integrity. However, it does not explicitly focus on customer satisfaction metrics, techniques for measuring satisfaction, or strategies for enhancing customer engagement, which are key topics in the category. The discussion is more centred on delivery management and the implications of deadlines rather than a holistic approach to customer satisfaction.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
@@ -331,12 +352,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on the importance of quality and the implications of rushing features. However, it primarily focuses on project management and business decisions rather than core engineering practices like clean code, TDD, or CI/CD.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of quality over speed in delivery management, which aligns with the principles of clean code and the need for stability in software development. However, it primarily focuses on project management and stakeholder communication rather than specific engineering practices like TDD or CI/CD. The discussion lacks depth in technical methodologies and does not explicitly mention Agile practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -349,11 +373,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:15:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on quality assurance and the implications of rushing software features, which are relevant to software development practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the balance between speed and quality in software delivery, which aligns with software development principles. However, it primarily focuses on delivery management and stakeholder communication rather than specific software development methodologies or practices. The mention of quality and stability is relevant but lacks depth in technical aspects or methodologies like Agile or CI/CD.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -388,11 +415,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:16:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the importance of quality and the implications of rushing features, which aligns with Agile principles of delivering value and maintaining quality. However, it primarily focuses on practical delivery challenges rather than explicitly discussing Agile values or principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of quality over speed in delivery management, which aligns with Agile principles of delivering value and maintaining customer trust. However, it does not explicitly mention Agile values or principles, nor does it delve deeply into the Agile Manifesto or its core tenets. The focus is more on practical delivery management rather than a thorough exploration of Agile values.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -406,12 +436,12 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T11:57:02",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on quality and the implications of rushing features. However, it primarily focuses on general software delivery practices and ethical considerations rather than specific Site Reliability Engineering principles or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -496,7 +526,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T17:17:58",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -504,7 +534,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the balance between speed and quality in delivery management, which indirectly touches on the importance of quality in frequent releases. However, it does not explicitly mention frequent releases or the principles of Continuous Delivery and Continuous Deployment. The focus is more on the implications of rushing to meet deadlines rather than on the strategies or practices that facilitate frequent releases.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -526,12 +556,12 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T11:57:02",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on the implications of rushing features and the importance of quality. However, it does not focus primarily on deployment frequency or strategies to optimise deployment intervals, making it only tangentially related to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -583,12 +613,12 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T11:57:02",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on quality and the implications of rushing features. However, it does not focus specifically on the concept of Increment in Agile or Scrum, making it a secondary theme rather than a primary topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -619,12 +649,12 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T11:57:02",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the implications of tight deadlines and quality. However, it primarily focuses on the challenges of meeting deadlines and the consequences of prioritising speed over quality, rather than explicitly addressing Agile Planning principles or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -664,21 +694,27 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of quality and stability in delivery, touching on the implications of decisions made under pressure, which relates to accountability in terms of ownership and responsibility for outcomes. However, it primarily focuses on the balance between speed and stability rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of quality and stability in delivery management, touching on the implications of deadlines and stakeholder confidence. However, it does not explicitly address accountability as a primary focus. While it mentions the need for ethical choices and communication with stakeholders, which can relate to accountability, the overall emphasis is more on quality management rather than ownership and team dynamics in an Agile context.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on principles relevant to Continuous Delivery, but primarily focuses on the implications of prioritising speed over quality rather than the core practices of Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of quality and stability in delivery management, which indirectly relates to Continuous Delivery principles. However, it primarily focuses on the challenges of meeting deadlines and the implications of rushing product delivery rather than the specific practices and methodologies of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and while it touches on related themes, the depth of discussion on CD practices is minimal.",
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -745,7 +781,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T00:15:26",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -753,7 +789,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery management, which touches on Agile principles of quality and customer-centric approaches. However, it lacks direct mentions of Agile methodologies or strategic planning, focusing more on the implications of deadlines and quality rather than a comprehensive Agile strategy. The depth of discussion is moderate, primarily centred on the consequences of prioritising speed over quality, but it does not delve into broader Agile strategy themes such as organisational alignment or leadership roles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -775,11 +811,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:15:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on operational efficiency and quality in the context of Agile and DevOps principles. However, it primarily focuses on the implications of decision-making rather than specific operational practices or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the balance between speed and quality in delivery management, which touches on operational practices. However, it primarily focuses on the philosophical implications of deadlines and quality rather than providing specific techniques or strategies for improving operational efficiency. While it mentions the importance of stability and quality, it lacks detailed discussions on methodologies like Agile or DevOps, and does not provide actionable practices or metrics for operational improvement.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -820,7 +859,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T11:10:41",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -828,7 +867,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery management, which touches on agile principles of quality and iterative development. However, it lacks direct references to agile methodologies, frameworks, or specific agile roles, making it more of a general discussion on delivery management rather than a focused exploration of Agile Project Management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -871,7 +910,7 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-13T14:44:52",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -879,16 +918,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of quality over speed in delivery management, which indirectly relates to strategic goals by emphasising long-term brand integrity and customer trust. However, it primarily focuses on operational tactics and immediate decision-making rather than articulating long-term strategic objectives or frameworks for achieving them. The discussion lacks explicit references to strategic goals or their alignment with Agile principles, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, which indirectly relates to Lead Time, but it primarily focuses on the implications of rushing delivery and the importance of quality over speed rather than measuring or optimising Lead Time itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the balance between speed and quality in delivery management, touching on deadlines and the implications of rushing projects. However, it does not explicitly mention Lead Time or provide a focused discussion on its measurement or strategies for optimisation. The primary focus is on quality over speed rather than the specific metric of Lead Time.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -910,16 +952,19 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on decision-making processes and the implications of those decisions in complex environments. However, it primarily focuses on practical examples and experiences rather than a structured exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the balance between speed and stability in delivery management, touching on decision-making processes and the implications of deadlines. However, it primarily focuses on project management and quality assurance rather than explicitly exploring sensemaking principles or frameworks. While it does mention the need for stakeholder communication and ethical choices, these aspects are not deeply tied to the core themes of sensemaking in complex environments.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T17:48:05",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -927,7 +972,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on the importance of quality and the implications of rushing features. However, it primarily focuses on delivery management and business decisions rather than technical practices or software craftsmanship principles. While it does mention quality and stability, it lacks a deep exploration of technical methodologies or best practices in software engineering.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -958,12 +1003,15 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the trade-offs between speed and stability in software delivery, touching on the implications of prioritising speed over quality, which relates to the concept of technical debt. However, the primary focus is on delivery management rather than a direct discussion of technical debt itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the balance between speed and quality in delivery management, touching on the implications of rushing projects and the potential long-term consequences of poor-quality products. However, it does not explicitly mention technical debt or delve into strategies for managing it. The focus is more on general project management and decision-making rather than the specific management of technical debt.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -1024,7 +1072,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T13:05:08",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1032,7 +1080,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery management, touching on the implications of quality and ethical decision-making. However, it lacks direct references to technical leadership principles, agile methodologies, or specific strategies for mentoring and coaching teams. While it aligns conceptually with the importance of quality in technical delivery, it does not delve deeply into the role of a technical leader or agile practices, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1057,7 +1105,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-13T16:26:59",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1065,7 +1113,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the balance between speed and quality in delivery management, which touches on aspects of organisational agility, particularly in terms of decision-making and stakeholder communication. However, it primarily focuses on team-level practices and individual decision-making rather than broader organisational agility frameworks or cultural implications. The mention of stakeholder education hints at a collaborative approach, but it lacks depth in discussing enterprise-level agility strategies or structures.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1078,12 +1126,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the implications of quality and ethical decision-making in the context of organisational resilience. However, it primarily focuses on the challenges of meeting deadlines rather than providing a comprehensive discussion on resilience strategies or change management practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the balance between speed and stability in delivery management, touching on the implications of deadlines and the importance of quality. While it does mention the need for stability and ethical choices, it primarily focuses on delivery management rather than organisational resilience or change management. The discussion lacks depth in exploring frameworks or strategies specifically aimed at enhancing organisational resilience, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1096,7 +1147,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-13T14:55:37",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1104,16 +1155,16 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the importance of quality in software delivery and the implications of rushing features, which touches on aspects of code quality. However, it primarily focuses on delivery management and stakeholder communication rather than the complexities of code and software architecture. While it mentions the consequences of poor quality and the need for stability, it lacks a deeper exploration of complexity theory or specific coding practices, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T11:57:02",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the implications of pushing for speed at the expense of quality. However, it primarily focuses on the ethical considerations and consequences of prioritising speed over stability rather than directly addressing flow efficiency principles or techniques for optimising throughput.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1138,7 +1189,7 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T16:04:13",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1146,7 +1197,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses the importance of quality and stability in product delivery, which aligns with Agile principles of prioritising customer value and stakeholder communication. However, it does not explicitly mention Agile methodologies or the role of the Product Owner, and the focus is more on general delivery management rather than specific Agile product management practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1159,12 +1210,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the interconnectedness of decision-making, quality, and organisational impact. However, it primarily focuses on the challenges of meeting deadlines rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the balance between speed and stability in delivery management, touching on decision-making and stakeholder communication. However, it lacks explicit references to Systems Thinking principles, such as interconnectedness or holistic analysis. While it does mention the implications of decisions and the importance of quality, it does not delve into systemic analysis or frameworks that are central to Systems Thinking.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1207,12 +1261,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the implications of market pressures and deadlines. While it does not explicitly focus on Agile or DevOps methodologies, it highlights the importance of maintaining quality and stability in response to market demands, which aligns with the theme of market adaptability as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the balance between speed and stability in delivery management, which indirectly touches on market adaptability by highlighting the importance of quality and stakeholder communication. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies, and does not provide substantial strategies or practices that enhance an organisation's ability to respond to market shifts. The mention of Zoom's decision-making process provides a case study, but it does not fully align with the core themes of market adaptability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1225,7 +1282,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:35:42",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1290,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery management, touching on quality and the implications of rushing software delivery. While it indirectly relates to DevOps principles, such as the importance of quality in software delivery, it lacks explicit mentions of DevOps practices, tools, or cultural shifts. The focus is more on project management and ethical considerations rather than the integration of development and operations teams or specific DevOps methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1255,7 +1312,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-13T16:25:29",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
@@ -1263,7 +1320,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery management, which touches on aspects of business agility, particularly in terms of responding to pressures and maintaining quality. However, it does not explicitly mention business agility or its principles. The discussion aligns with the importance of quality and stability, which are relevant to agile practices, but lacks depth in exploring agile methodologies or leadership roles in fostering agility. Overall, while there are relevant themes, the primary focus is not on business agility itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1276,16 +1333,19 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:15:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the implications of quality and customer confidence, which are relevant to value delivery. However, the primary focus is on the challenges of meeting deadlines rather than on specific value delivery strategies or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of quality over speed in delivery management, which aligns with the principles of value delivery. It highlights the implications of rushing features and the long-term impact on customer trust, reflecting on strategies for maintaining stability and quality. However, while it touches on value delivery concepts, it primarily focuses on the challenges of deadlines and quality management rather than providing a comprehensive exploration of value delivery methodologies within Agile or DevOps frameworks.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T09:47:12",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1293,24 +1353,30 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the balance between speed and stability in software delivery, highlighting the importance of quality over rapid feature deployment. However, it primarily focuses on delivery management and business implications rather than specific engineering practices or methodologies that enhance technical excellence. While it touches on the consequences of poor quality and the ethical considerations in software development, it lacks detailed discussions on practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance between speed and stability in delivery, touching on the implications of rushing product features and the importance of quality, which aligns with themes of organisational agility. However, it primarily focuses on the challenges of meeting deadlines rather than exploring broader agile methodologies or cultural shifts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the balance between speed and stability in delivery management, which touches on aspects of organisational agility, particularly in terms of prioritising quality and making ethical choices. However, it lacks direct mentions of agile methodologies or frameworks, and the depth of discussion on organisational agility principles is limited. The focus is more on delivery management rather than a comprehensive exploration of organisational agility.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:15:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on the challenges of balancing speed and stability in delivery, as well as insights into ethical decision-making in business practices. However, it primarily focuses on general observations and examples rather than personal anecdotes or experiences.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses personal reflections on balancing speed and stability in delivery management, which aligns with the Personal category. It includes individual insights and experiences, particularly the anecdote about Zoom during the pandemic, which adds depth. However, the primary focus is on the technical aspects of delivery management rather than personal experiences, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -1357,12 +1423,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T11:57:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between speed and stability in software delivery, touching on aspects of application quality and the implications of rushing features, which are relevant to application lifecycle management. However, it primarily focuses on the challenges of delivery management rather than the broader scope of ALM practices and methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:32:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses aspects of delivery management and the importance of quality over speed, which touches on application lifecycle considerations. However, it primarily focuses on the challenges of meeting deadlines and the implications of rushing product delivery rather than the comprehensive management of the application lifecycle stages. While it mentions stability and quality, it lacks a detailed exploration of ALM methodologies, tools, or practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1429,7 +1498,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-07T12:40:29",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1437,7 +1506,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the balance between speed and stability in delivery management, touching on decision-making and the implications of leadership choices on quality and brand reputation. However, it primarily focuses on operational challenges rather than explicitly addressing leadership practices or frameworks. While it does mention the role of senior leaders in making ethical decisions, the overall emphasis is more on the consequences of those decisions rather than on leadership strategies or styles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1468,7 +1537,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:38:44",
+    "calculated_at": "2025-03-14T16:32:33",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1476,6 +1545,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses delivery management and the balance between speed and quality, which are relevant to project management but does not explicitly mention Scrum principles, roles, or events. While it touches on themes of quality and stability, it lacks a direct focus on Scrum practices or frameworks, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

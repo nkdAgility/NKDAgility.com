@@ -1,11 +1,14 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile adoption planning, coaching, and Scrum training, which are relevant to Agile Product Management, but the primary focus is on personal circumstances and consulting work rather than a deep exploration of Agile principles.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions Agile practices and techniques, particularly in the context of consulting and coaching. However, it lacks a focused discussion on Agile Product Management principles, such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. The primary focus is on personal experiences and future plans rather than a detailed exploration of Agile methodologies in product management.",
     "level": "Tertiary"
   },
   "Practical Techniques and Tooling": {
@@ -49,12 +52,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile adoption, coaching, and mentoring, which are related to learning and improvement processes, but the primary focus is on personal circumstances and consulting work rather than a deep exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on Agile adoption and mentoring, which aligns with the category's focus on learning and improvement. However, the primary focus is on personal circumstances and future plans rather than a deep exploration of discovery and learning methodologies. The discussion lacks substantial detail on experimentation, feedback loops, or fostering a culture of innovation, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -67,12 +73,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile and Lean principles in the context of consulting and process improvement, making Lean a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile and Lean practices in the context of consulting work, but it primarily focuses on personal experiences and future plans rather than a detailed discussion of Lean principles. While there are references to improving processes and practices, the depth of discussion on Lean methodologies is limited, and the content does not explicitly explore key Lean concepts such as waste reduction or value stream mapping.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -103,12 +112,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption and practices, which are relevant to the interplay between technology and organisational structures, but the primary focus is on personal experiences and future plans rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal life changes and professional experiences rather than explicitly discussing sociotechnical systems. While it mentions working with various organisations and improving processes, it lacks a direct exploration of the interplay between technology and organisational structures. The discussion of Agile practices and consulting hints at sociotechnical themes but does not delve deeply into the social and technical interactions that define the category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -121,7 +133,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:44:55",
+    "calculated_at": "2025-03-15T04:52:58",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -129,7 +141,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal life changes and experiences rather than discussing DevOps principles or practices. While there are mentions of Agile and ALM, these are not explored in the context of DevOps, and the overall discussion lacks depth in DevOps-related topics.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -181,16 +193,19 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption planning, mentoring, and coaching, which are relevant to enterprise agility, but the primary focus is on personal circumstances and experiences rather than a comprehensive exploration of enterprise agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses personal changes and experiences related to moving back to Scotland and working in ALM consulting. While it mentions Agile adoption and coaching, the primary focus is on personal circumstances rather than a comprehensive exploration of enterprise agility principles. The discussion lacks depth in organisational context and does not provide substantial insights into frameworks, structures, or metrics related to enterprise agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-10T14:47:38",
+    "calculated_at": "2025-03-15T04:52:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -198,7 +213,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile adoption and practices, which are relevant to business agility, but the primary focus is on personal life changes and experiences rather than a deep exploration of business agility principles or strategies. While there are references to Agile coaching and consulting, they are not the main theme of the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -220,12 +235,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption, coaching, and Application Lifecycle Management (ALM) practices, which are relevant to technical excellence, but the primary focus is on personal circumstances and future plans rather than a deep exploration of technical methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile practices and Application Lifecycle Management (ALM), which are relevant to technical excellence. However, the primary focus is on personal circumstances and future plans rather than a detailed discussion of engineering practices or methodologies that enhance agility in software development. The depth of discussion on technical topics is limited, and the overall emphasis is more on personal narrative than on technical excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -247,12 +265,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and practices related to consulting and mentoring in the context of Application Lifecycle Management (ALM), which aligns with product delivery themes, but it is primarily focused on personal experiences and future plans rather than a detailed exploration of product delivery processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses personal changes and experiences rather than focusing on product delivery methodologies. While it mentions Agile practices and consulting work related to ALM, these are secondary to the personal narrative. The primary focus is on the author's relocation and family, with only brief mentions of Agile and ALM practices, which do not provide in-depth insights into product delivery processes.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -283,12 +304,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption, coaching, and consulting practices, which are related to value delivery, but the primary focus is on personal circumstances and future plans rather than a detailed exploration of value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on Agile adoption and coaching, which aligns with value delivery principles. However, the primary focus is on personal circumstances and future plans rather than a detailed discussion of value delivery strategies or methodologies. The mention of Agile practices is not explored in depth, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -391,12 +415,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption planning, coaching, and Application Lifecycle Management (ALM) practices which are relevant to technical mastery, but the primary focus seems to be on personal life changes and general consulting efforts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal life changes and experiences rather than technical mastery. While it briefly mentions Agile practices and ALM consulting, these topics are not explored in depth, and the overall emphasis is on personal circumstances rather than technical excellence.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -436,12 +463,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption planning, mentoring, and coaching for management and teams, indicating a focus on cultural elements that facilitate Agile practices. However, the primary theme is personal relocation and career transition rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal life changes and professional experiences rather than explicitly discussing organisational culture. While there are mentions of Agile practices and consulting work, these are secondary to the personal narrative. The alignment with the core themes of organisational culture is minimal, as the content does not delve into how culture influences agility or team dynamics. The depth of discussion on culture is also lacking, with only brief references to Agile adoption and mentoring without a thorough exploration of cultural implications.",
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -502,21 +532,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T18:25:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:53:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Agile adoption planning, coaching, and improving practices related to Application Lifecycle Management (ALM), which aligns with operational efficiency strategies within Agile frameworks.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the author's transition back to Scotland and their plans to engage in consulting work related to Agile practices, ALM, and Scrum training. While there are mentions of Agile adoption and practice improvements, the primary focus of the content is on personal circumstances and future plans rather than a detailed exploration of operational practices. The alignment with the category is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions Scrum and Agile training, which indicates a secondary theme related to the Scrum framework, but the overall focus is on personal experiences and future plans rather than detailed discussions of Scrum Team dynamics or roles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum and Agile training, indicating some relevance to the Scrum Team category. However, the primary focus is on personal experiences and future plans rather than in-depth discussions about Scrum roles, team dynamics, or collaboration techniques. The mention of Scrum is not central to the content, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -559,11 +595,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-15T18:25:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:53:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses planning and providing mentoring and coaching in Agile practices, making it a clear focus of the content.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses plans for Agile adoption planning and mentoring, as well as coaching for management and teams, which aligns with the mentoring category. However, the primary focus is on personal life changes and experiences rather than in-depth mentoring techniques or strategies. While there are relevant mentions, they are not the central theme of the content.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -577,12 +616,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions consulting and coaching in Agile practices and techniques for management and teams, which relates to team performance. However, the primary focus is on the author's personal circumstances and not extensively on team performance specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Agile practices and techniques, particularly in the context of consulting and coaching for teams. However, it primarily focuses on personal circumstances and future plans rather than in-depth discussions on team performance or collaboration strategies. While there are references to Agile adoption and training, the overall emphasis is more on personal transitions and less on the dynamics of team performance.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -604,12 +646,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile adoption, coaching, and Application Lifecycle Management (ALM) practices, which are relevant to software development, but the primary focus is on personal circumstances and future plans rather than in-depth software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the author's transition back to Scotland and their work in ALM consulting, which includes Agile adoption and Scrum training. While it touches on relevant software development practices, the primary focus is on personal circumstances and future plans rather than in-depth discussions of software development methodologies or practices.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -688,12 +733,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile adoption, Agile coaching, and improvements to practices, which align with themes of organisational change. However, the primary focus is on personal life changes and relocation, making organisational change a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses personal changes related to relocating and professional transitions, including plans for Agile adoption and consulting work. While it touches on Agile practices and mentoring, the primary focus is on personal circumstances rather than a structured discussion of organisational change methodologies or frameworks. The mention of Agile adoption and coaching indicates some alignment with the category, but the overall depth and direct focus on organisational change principles are limited.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -760,7 +808,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:55:53",
+    "calculated_at": "2025-03-15T04:52:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -768,7 +816,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on personal life changes and experiences rather than directly discussing engineering excellence. While it mentions consulting work related to Agile practices and Application Lifecycle Management (ALM), these topics are not explored in depth. The discussion lacks explicit references to software craftsmanship, coding standards, or continuous improvement processes, which are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -808,11 +856,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T18:25:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:53:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical applications of Agile and ALM consulting, highlighting experience-based problem-solving, and suggests an intent to help organizations improve their practices. However, it leans more towards personal updates and general intentions rather than in-depth discussions on pragmatic strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the author's transition back to Scotland and their plans to engage in Agile adoption and coaching, which aligns with pragmatic thinking in Agile contexts. However, the primary focus is on personal circumstances rather than a deep exploration of practical problem-solving strategies or real-world applications of Agile principles. While there are mentions of Agile practices and consulting work, the overall depth and direct discussion of pragmatic thinking are limited.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -835,21 +886,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:35",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the primary focus of the content is on personal life changes and consulting work, there is mention of Agile adoption, Scrum training, and related practices which indicate a connection to Scrum Product Development, but it is not the central theme.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Scrum and Agile training, indicating some relevance to Scrum Product Development. However, the primary focus is on personal life changes and consulting work rather than a detailed discussion of Scrum principles or practices. While there is some alignment with the category through the mention of Agile adoption and coaching, the depth of discussion on Scrum-specific topics is limited.",
     "level": "Tertiary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes references to Agile adoption, mentoring, and training, which are relevant to Scaled Agile, but focuses more on personal experience and upcoming plans rather than a primary discussion on scaling Agile practices across multiple teams.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile practices and consulting but lacks a focused discussion on scaling Agile methodologies across multiple teams or at an enterprise level. While there are references to Agile adoption and coaching, the primary focus is on personal experiences and future plans rather than the principles and frameworks of Scaled Agile.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -898,12 +955,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile adoption planning and mentoring as well as Agile practice and technique coaching, which are related to Agile methodologies, but it primarily focuses on personal circumstances and consulting activities rather than specifically on Agile planning tools.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Agile adoption planning and Scrum training, which are relevant to Agile methodologies. However, it primarily focuses on personal experiences and future plans rather than providing a detailed discussion on Agile Planning Tools or their functionalities. The mention of Agile practices is not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -925,11 +985,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T18:25:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:53:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the author's experiences related to Agile adoption, mentoring, and coaching within an Agile framework, which aligns with key topics of Agile Leadership.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the author's transition back to Scotland and their plans for Agile adoption planning and mentoring, which aligns with Agile Leadership. However, the primary focus is on personal circumstances rather than leadership practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Sensemaking": {
@@ -1051,12 +1114,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption and ALM (Application Lifecycle Management) practices, which relate to digital transformation in terms of improving processes and methodologies in organizations. However, the primary focus is more on personal changes and the author's future plans, making digital transformation more of a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal life changes and experiences rather than a strategic discussion on digital transformation. While there are mentions of Agile practices and ALM consulting, these are not explored in depth or connected to broader themes of digital transformation. The content lacks a clear focus on how digital technologies enhance business agility or foster innovation, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1204,11 +1270,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile adoption, mentoring, coaching, and references Scrum training, positioning the Scrum Master role as a significant but secondary theme within the broader context of Agile consulting and personal transitions.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Scrum and Agile training, indicating some relevance to the Scrum Master role. However, the primary focus is on personal life changes and consulting work rather than a detailed exploration of Scrum Master responsibilities or practices. The discussion lacks depth in terms of specific Scrum Master techniques or strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1231,30 +1300,39 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T18:25:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:53:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile adoption, coaching, and training related to software development practices, indicating that it is a significant theme, but it is also focused on personal life changes and consulting business rather than directly on the role of software developers.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the author's personal transition and experiences in the context of Agile and ALM consulting, which aligns with the role of software developers. However, the primary focus is on personal circumstances and future plans rather than in-depth discussions of Agile methodologies or DevOps practices. While there are mentions of Agile adoption and coaching, the overall depth and direct engagement with the category's core themes are limited.",
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-15T18:25:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:53:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses coaching practices, particularly in Agile and Scrum contexts, and emphasizes the author's future role in providing coaching and mentoring to teams in the UK.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses coaching and mentoring in the context of Agile practices, which aligns with the core themes of the Coaching category. However, the primary focus is on personal life changes and future plans rather than an in-depth exploration of coaching techniques or strategies. While there are mentions of coaching roles and practices, they are not the central theme of the content, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile adoption and related practices, making it a secondary theme rather than a primary focus, but it is still relevant to engineering practices in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal life changes and experiences rather than core engineering practices. While it briefly mentions Agile adoption and coaching, these topics are secondary to the personal narrative. The discussion lacks depth in engineering methodologies and principles, which are central to the category of Engineering Practices.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1285,29 +1363,38 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and mentions Agile adoption planning, mentoring, and coaching for teams, which aligns with the theme of self-organisation but is primarily focused on personal experiences and changes rather than a deep exploration of self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile practices and consulting work related to Agile adoption, but it primarily focuses on personal life changes and experiences rather than a deep exploration of self-organisation principles. While there are references to Agile and Scrum training, the discussion lacks substantial depth and does not fully align with the core themes of self-organisation, such as team autonomy and empowerment.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T18:25:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:53:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile practices, including Agile adoption, mentoring, and Scrum and Agile training, indicating a focus on Agile frameworks.",
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Agile adoption planning, Agile practice coaching, and Scrum training, indicating a focus on Agile frameworks. However, the primary narrative revolves around personal life changes and consulting work rather than a deep exploration of Agile frameworks. While there are relevant topics mentioned, they are not the main focus of the content, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T18:25:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:53:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses plans for Agile adoption, mentoring, and coaching in the context of new consulting work, which aligns with the Agile Strategy category as it focuses on strategies for implementing Agile methodologies and improving practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the author's transition back to Scotland and their plans for Agile adoption planning and mentoring, which aligns with Agile Strategy. However, the primary focus is on personal circumstances rather than a detailed exploration of Agile methodologies or strategic implementation. The mention of Agile practices is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1330,12 +1417,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:53:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses consulting and coaching around lean-agile practices, which is a related theme, but it primarily focuses on personal life changes and general experiences rather than a concentrated discourse on Lean Product Development principles.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal life changes and consulting work rather than Lean Product Development principles. While there are brief mentions of Agile and ALM practices, the discussion lacks depth and does not explicitly address Lean principles, waste reduction, or customer feedback in product development.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1384,7 +1474,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T14:47:36",
+    "calculated_at": "2025-03-15T04:52:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1392,7 +1482,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on personal life changes and experiences rather than leadership practices. While there are mentions of Agile adoption and coaching, these are not explored in depth, and the overall emphasis is on personal circumstances and future plans rather than on leadership strategies or frameworks. The connection to leadership is minimal and lacks substantial detail.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

@@ -24,15 +24,10 @@ aliasesArchive:
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
 - Technical Debt
-- Software Development
 - Products and Books
 - Working Software
-- Agile Project Management
 - News and Reviews
-- Application Lifecycle Management
-- Pragmatic Thinking
-- Organisational Agility
-- Product Delivery
+- Software Development
 categories:
 - Engineering Excellence
 - Social Technologies

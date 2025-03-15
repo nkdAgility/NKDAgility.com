@@ -25,12 +25,12 @@ preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false
 tags:
-- Pragmatic Thinking
-- People and Process
 - Software Development
-- Agile Frameworks
-- Agile Project Management
+- Pragmatic Thinking
+- Continuous Learning
+- Discovery and Learning
 - Software Developers
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

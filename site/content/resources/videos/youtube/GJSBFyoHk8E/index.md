@@ -28,14 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Product Development
+- Software Development
+- Agile Product Management
+- Scrum Team
 - Agile Planning
 - Agile Project Management
-- Scrum Product Development
-- Scrum Team
-- Agile Product Management
 - Scrum Master
-- Software Development
-- Value Delivery
 - Professional Scrum
 resourceTypes:
 - video

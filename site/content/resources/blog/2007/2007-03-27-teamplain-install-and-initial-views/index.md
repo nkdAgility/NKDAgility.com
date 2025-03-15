@@ -26,8 +26,7 @@ aliasesArchive:
 - /teamplain---install-and-initial-views
 - /blog/teamplain---install-and-initial-views
 - /resources/blog/teamplain-install-and-initial-views
-tags:
-- Install and Configuration
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

@@ -28,7 +28,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T15:01:23",
+    "calculated_at": "2025-03-14T20:35:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -36,7 +36,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly touches on leadership expectations regarding quality and the definition of 'done', but it lacks a comprehensive discussion on leadership practices or strategies. The mention of leadership is not a primary focus, and the overall alignment with the core themes of leadership in Agile is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -151,7 +151,7 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-07T13:14:51",
+    "calculated_at": "2025-03-14T20:35:01",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -159,7 +159,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content briefly touches on the expectations of organisations regarding quality and the definition of 'done' in Agile teams, which hints at the interplay between organisational culture and software delivery. However, it lacks a detailed exploration of sociotechnical interactions and does not explicitly discuss the integration of social and technical aspects, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -199,7 +199,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-10T11:51:58",
+    "calculated_at": "2025-03-14T20:35:01",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -207,7 +207,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the expectations of quality within teams, which relates to organisational agility, but it lacks explicit discussions on agile methodologies, leadership roles, or strategies for enhancing adaptability. The mention of 'definition of done' hints at agile practices but does not delve into the broader implications of organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -295,7 +295,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T14:06:27",
+    "calculated_at": "2025-03-14T20:35:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -303,7 +303,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the concept of 'done' in Agile teams, which relates to product delivery, but lacks explicit discussion on methodologies, practices, or detailed insights into the delivery process. It hints at quality expectations but does not delve into the core themes of product delivery such as planning, testing, or deployment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -937,7 +937,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T10:00:38",
+    "calculated_at": "2025-03-14T20:35:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -945,7 +945,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the concept of 'done' in Agile teams, which relates to team performance and quality expectations. However, it lacks explicit discussions on strategies, practices, or methodologies aimed at maximising team effectiveness. The mention of leadership expectations hints at a connection to team dynamics but does not provide sufficient depth or detail on how these factors influence overall team performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -985,7 +985,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T11:23:46",
+    "calculated_at": "2025-03-14T20:35:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -993,7 +993,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the concept of 'done' in Agile teams, which relates to quality expectations in project management. However, it lacks explicit discussions on Agile principles, frameworks, or roles, and does not provide sufficient depth or detail on Agile methodologies, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1432,7 +1432,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:52:42",
+    "calculated_at": "2025-03-14T20:35:01",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1440,6 +1440,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of 'done', which is relevant to Scrum but does not explicitly mention Scrum roles, events, or artifacts. The discussion lacks depth and does not provide a comprehensive exploration of Scrum principles, making it a secondary mention rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

@@ -26,8 +26,7 @@ aliasesArchive:
 - /tfs-eventhandler--message-queuing
 - /blog/tfs-eventhandler--message-queuing
 - /resources/blog/tfs-eventhandler-message-queuing
-tags:
-- Software Development
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

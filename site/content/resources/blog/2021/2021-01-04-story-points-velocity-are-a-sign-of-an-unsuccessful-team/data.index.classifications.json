@@ -28,12 +28,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:38:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Product Backlog in relation to confidence and transparency in delivery, but the primary focus is on Story Points and Velocity, making the Product Backlog a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of the Product Backlog in relation to confidence and transparency in delivery, which aligns with the category's core themes. However, the primary focus is on Story Points and Velocity, which are not directly related to backlog management. While the Product Backlog is mentioned and its significance is acknowledged, the depth of discussion primarily revolves around estimation practices rather than backlog refinement or management techniques.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -67,11 +70,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding and using empirical data in Agile practices, particularly in relation to Scrum. While it primarily critiques the use of Story Points and Velocity, it touches on the need for confidence through transparency and the role of data in leadership decision-making, making it a major but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the limitations of using Story Points and Velocity in Scrum, emphasising the need for empirical data to inform leadership decisions and improve team performance. It aligns with the principles of Evidence-Based Management by advocating for transparency and confidence through data collection and analysis. However, the primary focus is on Scrum practices rather than a broader discussion of evidence-based leadership, which slightly reduces the overall confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -133,30 +139,39 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of using Story Points and Velocity in Scrum, touching on the importance of understanding delivery confidence and transparency, which are related to working software. However, the primary focus is on critiquing these practices rather than directly addressing the delivery of functional software.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the misconceptions surrounding Story Points and Velocity in Scrum, which indirectly relates to the delivery of working software. While it critiques these metrics, it does not focus on the characteristics of working software or best practices for ensuring software quality. The discussion on confidence in delivery and the importance of usable increments aligns with the category, but the overall emphasis is more on the critique of practices rather than on delivering functional software.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:38:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of using Story Points and Velocity in Scrum, touching on the need for confidence and transparency in decision-making processes. However, the primary focus is on critiquing these practices rather than providing a structured discussion on decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of using Story Points and Velocity in Scrum, highlighting the need for empirical data and confidence in decision-making processes. It critiques common practices and suggests that reliance on these metrics can lead to poor decision-making. The discussion aligns with evidence-based management principles, particularly in the context of Agile methodologies, and addresses the importance of understanding uncertainty in delivery, which is crucial for informed decision-making. However, while it touches on decision-making, the primary focus is more on critiquing specific practices rather than providing a structured approach to decision-making itself.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of using Story Points and Velocity in Scrum, touching on team maturity and the need for confidence and transparency in delivery. While it does not focus primarily on self-organisation, it addresses aspects of team autonomy and the evolution towards agile practices, making it a significant secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the use of Story Points and Velocity in Scrum, critiquing their effectiveness and suggesting that reliance on these metrics may indicate a lack of maturity in self-organisation. However, it does not explicitly focus on self-organisation principles or practices, nor does it provide in-depth exploration of how to foster autonomy and trust within teams. The discussion is more centred on the critique of traditional metrics rather than on self-organisation itself.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -484,11 +499,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-11T21:05:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:36:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, which directly relates to Agile methodologies and the role of software developers in adapting these practices for better team performance and productivity.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, which directly relates to the role of software developers in Agile practices. It critiques common practices and encourages developers to focus on understanding their work rather than relying on metrics that may not accurately reflect their productivity. The discussion aligns well with Agile methodologies and the importance of transparency and confidence in delivery, which are crucial for developers. The depth of the analysis is significant, providing insights into how these practices affect team dynamics and developer productivity.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -511,11 +529,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-11T21:05:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:36:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the concepts of Story Points and Velocity in relation to Agile estimation practices, highlighting their limitations and the importance of empirical data and team understanding in the estimation process.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses estimation techniques such as Story Points and Planning Poker, highlighting their role in Agile practices. It critiques the reliance on these methods for predictability, emphasising the need for empirical data and understanding uncertainty. The depth of discussion on how estimation impacts stakeholder confidence and team dynamics aligns well with the core themes of the Estimation category.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -529,11 +550,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-11T21:05:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:36:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the importance of delivering a usable increment at the end of each Sprint and the relationship between the Increment and confidence in delivery, making it a primary topic.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the concept of increments in relation to Scrum, particularly emphasising the importance of delivering a usable increment at the end of each Sprint. It critiques the reliance on Story Points and Velocity, arguing that they do not contribute to the understanding of increments. The discussion aligns well with the core themes of the Increment category, focusing on delivering value and the relationship between increments and stakeholder confidence. However, while it touches on the Increment, the primary focus is on critiquing common practices rather than providing a comprehensive exploration of the Increment itself.",
     "level": "Secondary"
   },
   "Windows": {
@@ -574,11 +598,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T21:05:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:37:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within the Scrum framework, emphasising the real-world application of Agile principles and the importance of adaptability in managing complexity and uncertainty.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the practical implications of using Story Points and Velocity in Scrum, challenging accepted norms and advocating for a more adaptable approach. It highlights the importance of understanding uncertainty and building confidence through transparency, which aligns well with pragmatic thinking. The depth of discussion on how teams can navigate complexity and improve their practices further supports a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -592,12 +619,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T21:05:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:37:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, emphasising the importance of understanding agile principles and the role of empirical practices in project management.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the concepts of Story Points and Velocity within the context of Scrum, challenging common misconceptions and emphasising the importance of understanding agile principles. It aligns well with key topics such as the roles of Scrum Teams, the importance of transparency, and the iterative nature of agile practices. The depth of discussion is significant, providing insights into how these practices can impact team maturity and project delivery.",
+    "level": "Primary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -610,12 +640,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of using Story Points and Velocity within Scrum, touching on themes of adaptability and understanding in Agile practices. However, it primarily focuses on technical practices rather than strategic alignment or broader Agile strategy discussions.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the misconceptions surrounding Story Points and Velocity in Scrum, which indirectly relates to Agile Strategy by addressing the need for organisations to adapt their practices for better outcomes. It highlights the importance of understanding and transparency in Agile practices, which aligns with the core themes of adaptability and continuous value delivery. However, the primary focus is on technical practices rather than strategic planning, which limits the depth of discussion on Agile Strategy.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -664,11 +697,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-11T21:05:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:37:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implications of using Story Points and Velocity in Scrum, focusing on how these practices affect team performance, understanding, and confidence in delivery. It addresses the need for transparency and confidence within teams, which aligns closely with enhancing team dynamics and effectiveness.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily critiques the reliance on Story Points and Velocity within Scrum, arguing that these metrics can mislead teams about their performance and maturity. It discusses the importance of understanding team dynamics and the need for transparency and confidence in delivery, which aligns well with the core themes of team performance. The depth of discussion is significant, as it explores the implications of these practices on team effectiveness and collaboration, although it does not provide specific strategies for improvement or metrics for measuring performance.",
     "level": "Secondary"
   },
   "AI": {
@@ -718,11 +754,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-11T21:06:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:37:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, highlighting the need for a deeper understanding of Agile principles and practices, which aligns with the themes of Agile transformation.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, which directly relates to Agile practices. It critiques traditional metrics and emphasises the need for understanding and adapting to change, aligning well with Agile transformation principles. However, while it touches on Agile concepts, it lacks a broader discussion on frameworks, leadership roles, or change management strategies, which slightly limits its depth in the context of Agile transformation.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -763,21 +802,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T21:06:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:37:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, emphasising the importance of understanding Scrum principles and practices in product development.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the misconceptions surrounding Story Points and Velocity in Scrum, directly addressing Scrum principles and practices. It critiques common beliefs and emphasises the importance of understanding the Scrum framework, particularly the roles of the Scrum Team and the Product Backlog. The depth of discussion is significant, providing insights into how these concepts affect product development and team maturity, thus aligning well with the core themes of Scrum Product Development.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Story Points and Velocity in Scrum, highlighting their limitations and the need for better understanding and transparency in delivery. While it touches on operational practices, the primary focus is on critiquing common Scrum practices rather than providing clear strategies for operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content critiques the use of Story Points and Velocity in Scrum, arguing that they are not essential to the framework and can lead to misunderstandings about team maturity and predictability. While it touches on operational practices by discussing the need for confidence and transparency in delivery, the primary focus is on challenging accepted norms rather than providing actionable strategies for improving operational efficiency. The discussion lacks depth in terms of specific techniques or metrics that would enhance operational practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -799,12 +844,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Story Points and Velocity within Scrum, touching on the Scrum framework and the implications for team performance, but it primarily critiques these practices rather than focusing on the Scrum Master's role or responsibilities.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of Story Points and Velocity within the Scrum framework, which is relevant to the role of a Scrum Master. It critiques common practices and highlights the importance of understanding team dynamics and transparency, which are key responsibilities of a Scrum Master. However, the focus is more on the metrics themselves rather than on the Scrum Master's role in facilitating these discussions or coaching the team, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -817,20 +865,26 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of using Story Points and Velocity for future predictability, which relates to forecasting. However, the primary focus is on critiquing these practices rather than providing methods or techniques for effective forecasting.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the limitations of using Story Points and Velocity for forecasting in Agile and Scrum, highlighting the need for empirical data to build confidence in predictions. It critiques the reliance on these metrics for future predictability and emphasises the importance of understanding uncertainty in delivery. While it does not provide extensive techniques for forecasting, it aligns well with the core themes of the category by addressing the role of empirical data and the need for transparency in forecasting processes.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:38:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Story Points and Velocity in Scrum, touching on team dynamics and the importance of understanding delivery confidence, which are relevant to technical leadership. However, the primary focus is on critiquing these practices rather than providing direct guidance on technical leadership principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Story Points and Velocity in Scrum, critiquing their effectiveness and relevance. While it touches on agile practices, it primarily focuses on the misconceptions surrounding these metrics rather than providing a comprehensive discussion on technical leadership principles, such as mentoring, team dynamics, or fostering a culture of continuous improvement. The content lacks depth in exploring how technical leadership can guide teams through these challenges.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -853,21 +907,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T21:06:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:37:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the use of Story Points and Velocity in Scrum, critiquing their effectiveness and relevance in Agile Planning. It explores the implications of these practices on team adaptability and project predictability, aligning closely with Agile Planning principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile concepts such as Story Points and Velocity, critiquing their use in Scrum and emphasising the importance of understanding uncertainty in delivery. It aligns well with Agile Planning principles by addressing how teams can adapt their planning practices to improve predictability and value delivery. The depth of discussion is substantial, providing insights into the implications of using these metrics and advocating for transparency and empirical data in planning. However, the focus on critiquing specific practices slightly detracts from a broader discussion on Agile Planning methodologies.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of confidence and transparency in Agile practices, which relates to accountability in terms of team commitments and understanding delivery. However, the primary focus is on the critique of Story Points and Velocity rather than a direct exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of confidence and transparency in Agile practices, which indirectly relates to accountability. However, it primarily focuses on the critique of Story Points and Velocity rather than on accountability as a core principle. The mentions of confidence and the need for understanding in team dynamics are relevant but do not constitute a primary focus on accountability. The depth of discussion on accountability is minimal, as it lacks specific strategies or examples related to fostering a culture of accountability.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -907,11 +967,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T21:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:37:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the misconceptions around Story Points and Velocity in the context of Scrum Teams, highlighting roles, practices, and the importance of understanding team dynamics and performance metrics.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of Story Points and Velocity within Scrum Teams, challenging their perceived necessity and exploring their impact on team dynamics and performance. It aligns well with the category by addressing team confidence, transparency, and the importance of understanding work, which are crucial for effective Scrum practices. However, while it touches on Scrum roles and practices, it does not delve deeply into specific roles or collaboration techniques, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -970,11 +1033,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to Agile practices, specifically focusing on Story Points and Velocity, which are often used in Agile planning. However, the primary focus is on critiquing these concepts rather than exploring Agile Planning Tools or methodologies in depth.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concepts of Story Points and Velocity within the context of Scrum, but it primarily critiques their use rather than focusing on Agile Planning Tools themselves. While it touches on planning aspects, it lacks a detailed exploration of specific Agile Planning Tools or methodologies that facilitate effective planning and execution. The discussion is more about the pitfalls of certain practices rather than the tools that support Agile planning.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -1024,12 +1090,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to Scrum practices, particularly around the use of Story Points and Velocity, and how these affect team confidence and predictability. While the primary focus is on Scrum methodologies, there are significant discussions on managing uncertainty and making informed choices, which align with decision theory principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses decision-making in the context of Scrum practices, particularly around the use of Story Points and Velocity. While it touches on the need for confidence in decision-making and the uncertainty involved in project management, it primarily focuses on Agile methodologies rather than a comprehensive exploration of decision theory principles. The mention of confidence and uncertainty aligns with decision theory, but the overall discussion lacks depth and does not fully engage with the core themes of decision-making processes in uncertain environments.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1096,12 +1165,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:38:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices, specifically focusing on Story Points and Velocity, which are related to Agile methodologies and their role in product delivery. However, the primary focus is on critiquing these practices rather than on the broader aspects of product delivery itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, which are integral to Agile methodologies and product delivery. It critiques common practices and emphasises the importance of understanding delivery confidence and transparency, aligning well with the core themes of product delivery. However, while it provides substantial detail on these topics, it does not cover the full breadth of product delivery methodologies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1117,11 +1189,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding and adapting practices within Scrum, which relates to learning from experiences and iterating towards better outcomes. However, the primary focus is on critiquing Scrum practices rather than exploring broader methodologies for discovery and learning.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily critiques the use of Story Points and Velocity in Scrum, focusing on misconceptions rather than exploring methodologies that foster innovation or continuous learning. While it touches on the importance of understanding and adapting to change, it lacks a comprehensive discussion on discovery processes or learning frameworks. The mention of starting points for teams does hint at learning, but it is not the main focus.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -1135,11 +1210,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of traditional metrics like Story Points and Velocity in Scrum, highlighting the need for understanding uncertainty and adaptability in complex systems. However, the primary focus is on Scrum practices rather than a deep exploration of complexity science principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the limitations of traditional metrics like Story Points and Velocity in Scrum, highlighting the need for understanding uncertainty and adapting to change, which aligns with complexity thinking. It mentions the importance of transparency and confidence in managing unpredictability, reflecting key themes of complexity science. However, the focus is more on Agile practices rather than a deep exploration of complexity theory itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -1156,12 +1234,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:38:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Story Points and Velocity in Scrum, which relates to Agile practices and methodologies. However, the primary focus is on critiquing these concepts rather than providing practical techniques or tooling insights, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily critiques the use of Story Points and Velocity in Scrum, which is a practical technique within Agile methodologies. While it discusses the implications of these tools, it does not provide a comprehensive exploration of their application or integration within teams. The focus is more on the philosophical critique rather than practical implementation, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1228,7 +1309,7 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-10T14:32:24",
+    "calculated_at": "2025-03-15T02:36:51",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1236,7 +1317,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and critiques the use of Story Points and Velocity within that framework. While it briefly mentions Kanban principles, such as cycle time and metrics, the focus remains on Scrum practices, which detracts from its alignment with Kanban. The discussion lacks depth in Kanban-specific practices and does not provide substantial insights into Kanban's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1261,11 +1342,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:38:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional Scrum practices like Story Points and Velocity, suggesting a need for organisations to evolve towards greater agility. However, the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the limitations of traditional metrics like Story Points and Velocity in Scrum, which indirectly relates to organisational agility by highlighting the need for adaptability and understanding in agile practices. However, it primarily focuses on critiquing specific practices rather than exploring broader strategies or frameworks that enhance organisational agility. The depth of discussion is moderate, as it provides insights into the implications of these practices but lacks a comprehensive exploration of agility principles.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1291,12 +1375,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of using Story Points and Velocity within Scrum teams, touching on team dynamics, organisational complexity, and the need for effective communication and understanding among team members. However, the primary focus is on the technical aspects of Scrum practices rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Story Points and Velocity in Scrum, touching on how these practices can reflect an organisation's maturity and adaptability. While it mentions the need for transparency and confidence in delivery, it primarily focuses on technical practices without deeply exploring the organisational context or the interplay between social and technical systems. Therefore, while there are relevant themes, the primary focus remains on technical aspects rather than a comprehensive sociotechnical analysis.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1348,11 +1435,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:37:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of empirical data and confidence in decision-making within Scrum teams, but it primarily focuses on the critique of Story Points and Velocity rather than a comprehensive exploration of Evidence-Based Management principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the limitations of using Story Points and Velocity in Scrum, emphasising the need for empirical data and transparency in decision-making. While it touches on the importance of confidence and understanding uncertainty, it primarily critiques existing practices rather than providing a comprehensive exploration of Evidence-Based Management principles. The discussion lacks depth in terms of specific EBM techniques or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Platform Engineering": {

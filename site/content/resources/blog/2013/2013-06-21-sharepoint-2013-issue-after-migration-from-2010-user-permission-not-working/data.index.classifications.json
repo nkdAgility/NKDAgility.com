@@ -490,12 +490,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical solution involving PowerShell for managing user permissions and authentication in SharePoint 2013, which relates to operational efficiency within an organizational practice. However, the primary focus on the specific issue of migration and authentication means it is not the dominant theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint migration and user authentication, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it mentions a PowerShell script that automates a process, the focus is on troubleshooting and specific technical solutions rather than broader operational strategies or methodologies. The discussion lacks depth in terms of operational efficiency and does not provide insights into process optimisation or continuous improvement, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -745,7 +748,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:04:12",
+    "calculated_at": "2025-03-15T05:09:24",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -753,7 +756,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which does not directly address the principles of software craftsmanship or best practices in engineering processes. While it includes some technical details and a PowerShell script, it lacks a broader discussion on engineering excellence, such as coding standards, quality assurance, or continuous improvement practices. The focus is more on troubleshooting and solutions rather than promoting high standards in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1123,7 +1126,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T18:01:14",
+    "calculated_at": "2025-03-15T05:09:24",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1131,7 +1134,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses issues related to SharePoint 2013 and its migration from SharePoint 2010, focusing on authentication mechanisms and user permissions. While it touches on PowerShell scripting, which is often used in Windows environments, the main focus is on SharePoint rather than the Windows operating system itself. The content does not explicitly mention Windows installation, configuration, or troubleshooting, which are key aspects of the category. Therefore, the confidence score reflects a low alignment with the Windows category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

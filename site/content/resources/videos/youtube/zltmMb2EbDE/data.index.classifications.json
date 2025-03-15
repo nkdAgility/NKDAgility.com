@@ -37,12 +37,12 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T13:15:41",
+    "calculated_at": "2025-03-14T19:35:55",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses Scrum in relation to Kanban but primarily focuses on Kanban strategies and metrics, making Scrum a secondary theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -64,12 +64,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and data in the context of integrating Kanban with Scrum, highlighting the need for evidence-based practices to inform leadership decisions and improve team performance.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses metrics and data-driven approaches in the context of integrating Kanban with Scrum, which aligns with evidence-based leadership principles. However, it primarily focuses on technical implementations rather than leadership decision-making, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -82,7 +85,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T14:55:30",
+    "calculated_at": "2025-03-14T19:35:55",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -90,7 +93,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the integration of Kanban into Scrum, focusing on metrics and strategies for improving workflow. While it touches on aspects of product management, such as the importance of metrics and customer communication, it lacks a broader discussion on strategic alignment, stakeholder interests, or methodologies specific to product management. The emphasis is more on technical implementation and personal opinions rather than established product management theories.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -130,21 +133,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and the importance of metrics in software development, which relates to the delivery of functional software. However, the primary focus is on Kanban strategies rather than directly on working software itself.",
+    "calculated_at": "2025-03-14T19:36:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and continuous improvement, which are relevant to working software. However, it primarily centres on the methodologies rather than directly addressing the delivery of functional software or customer needs, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban into Scrum and the importance of metrics for decision-making, but it primarily focuses on the methodologies rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses how integrating Kanban with Scrum can enhance decision-making through metrics and continuous improvement. It explicitly mentions the importance of metrics like cycle time and lead time, which are crucial for informed decision-making. However, while it touches on decision-making aspects, the primary focus is on the integration of methodologies rather than a structured discussion on decision-making principles. Thus, the confidence score reflects a strong but not complete alignment with the category.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -166,12 +175,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and emphasises the importance of metrics and continuous improvement, which are relevant to Lean principles. However, the primary focus is on Kanban and Scrum rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on metrics and workflow improvements rather than Lean Product Development principles. While it touches on continuous improvement, it lacks a direct emphasis on Lean principles such as waste reduction and customer feedback, which are central to Lean Product Development.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -259,12 +271,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of Cban with Scrum and highlights the importance of metrics and data for continuous improvement, which aligns with the theme of fostering a culture of innovation. However, the primary focus is on Cban strategies rather than a direct exploration of the Ability to Innovate as a central topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and continuous improvement, which are relevant to the Ability to Innovate category. However, it primarily centres on operational practices rather than explicitly measuring or enhancing innovation capabilities. While it mentions metrics and continuous improvement, it lacks a strong emphasis on Evidence-Based Management principles or a culture of innovation, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -445,12 +460,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and highlights the importance of metrics and data for continuous improvement, which aligns with empirical process control principles. However, the primary focus is on Kanban rather than empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, highlighting the importance of metrics and continuous improvement, which are key aspects of empirical process control. It mentions transparency and effective metrics, aligning with the core themes of the category. However, the primary focus is on Kanban rather than a deep exploration of empirical process control principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -511,12 +529,15 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of answering estimation-related questions in a Scrum environment, particularly through the lens of Kanban. While it touches on estimation techniques and the need for metrics, the primary focus is on the integration of Kanban with Scrum rather than on estimation practices themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to Kanban and Scrum, which indirectly touches on estimation through the mention of cycle time, lead time, and probabilistic forecasting. However, the primary focus is on integrating Kanban with Scrum rather than on estimation techniques or practices. While it does mention the importance of metrics for answering questions about delivery times, it lacks a detailed exploration of estimation methods or collaborative practices specific to Agile and Scrum.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -556,12 +577,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Lead Time as one of the key metrics needed for effective process optimisation and understanding work flow, but it primarily focuses on the integration of Kanban with Scrum and the inadequacies of Scrum metrics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T14:53:39",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 63.0,
+    "reasoning": "The content explicitly mentions Lead Time as a metric, discussing its importance in the context of Kanban and Scrum integration. However, while it touches on Lead Time, the primary focus is on the integration of Kanban with Scrum and the benefits of Kanban metrics overall. The discussion lacks depth specifically on Lead Time, as it is one of several metrics mentioned without extensive exploration of its implications or strategies for optimisation.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -616,12 +640,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban into Scrum and the importance of metrics for improving Agile practices, which aligns with Agile Strategy as a secondary theme. However, the primary focus is on technical practices rather than strategic planning or organisational alignment.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, which touches on Agile methodologies but primarily focuses on technical practices rather than strategic alignment or broader Agile strategy. While it mentions continuous improvement and metrics, it lacks a comprehensive discussion on organisational vision or strategic planning, which are key aspects of Agile Strategy.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -670,12 +697,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and highlights the importance of metrics for team performance and continuous improvement, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses how Kanban can enhance Scrum practices, focusing on metrics and continuous improvement, which are relevant to team performance. However, it primarily centres on the integration of Kanban rather than directly addressing team dynamics or collaboration strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -688,12 +718,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban (referred to as Cban) within a Scrum environment, highlighting the importance of metrics and continuous improvement. However, the primary focus is on Scrum and its limitations rather than on scaling Kanban principles across multiple teams or departments.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on integrating Kanban with Scrum rather than discussing the scaling of Kanban in large organisations. While it mentions Kanban principles and metrics, it does not explore the application of these principles at scale or address the challenges and solutions specific to scaling Kanban practices. The discussion is more about enhancing Scrum with Kanban rather than scaling Kanban itself.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -715,21 +748,27 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban and its integration with Scrum, focusing on metrics and continuous improvement, which are relevant to Lean principles. However, the primary focus is on Kanban rather than Lean itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and continuous improvement, which aligns with Lean principles. However, it primarily centres on Kanban and Scrum rather than explicitly addressing Lean principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban within a Scrum environment, highlighting the importance of metrics and continuous improvement, which are relevant to Agile transformation. However, the primary focus is on Kanban rather than a comprehensive discussion of Agile transformation principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, which is relevant to Agile methodologies. It explicitly mentions Agile principles and practices, such as continuous improvement and metrics, aligning with the core themes of Agile transformation. However, the focus is more on the combination of two specific frameworks rather than a broader discussion on Agile transformation strategies or cultural shifts, which slightly limits its depth in the context of the category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -769,12 +808,12 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:15:41",
+    "calculated_at": "2025-03-14T19:35:55",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the integration of Kanban into a Scrum environment but primarily focuses on Kanban principles rather than Scrum practices. While it mentions Scrum, the main theme revolves around Kanban strategies and metrics, making Scrum a secondary topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -790,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and data in the context of integrating Kanban with Scrum, which aligns with the principles of Evidence-Based Management. However, the primary focus is on Kanban strategies rather than EBM itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and continuous improvement, which aligns with some principles of Evidence-Based Management. However, it primarily centres on Kanban rather than EBM itself, leading to a lower confidence score. The discussion on metrics is relevant but lacks depth in relation to EBM principles and practices.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -874,12 +916,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and the importance of metrics in Agile environments, which are relevant to Agile Planning. However, the primary focus is on Kanban rather than Agile Planning principles, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, which is relevant to Agile Planning. It mentions key Agile concepts such as metrics, continuous improvement, and workflow optimisation. However, the primary focus is on Kanban rather than Agile Planning principles, which slightly reduces the confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -991,12 +1036,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and highlights the importance of metrics and strategies for effective planning, making Agile Planning Tools a major theme, but it primarily focuses on Kanban rather than a broader discussion of Agile Planning Tools.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, which touches on Agile methodologies and the use of metrics for planning. However, it primarily focuses on Kanban rather than Agile Planning Tools as a category. While it mentions tools like JIRA and Azure DevOps, the overall emphasis is more on the Kanban methodology itself rather than a comprehensive exploration of Agile Planning Tools.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1036,21 +1084,27 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and highlights the importance of metrics and continuous improvement, which are relevant to Continuous Learning. However, the primary focus is on the mechanics of Kanban and Scrum rather than on fostering a growth mindset or knowledge sharing.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, highlighting continuous improvement and metrics, which aligns with the principles of Continuous Learning. However, the primary focus is on the mechanics of Kanban rather than a broader exploration of growth mindset or knowledge sharing within teams.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Cban into Scrum and touches on probabilistic forecasting, which relates to decision-making under uncertainty. However, the primary focus is on Scrum methodologies rather than a comprehensive exploration of decision theory.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on workflow enhancement and metrics rather than decision-making processes in uncertain environments. While it briefly touches on probabilistic forecasting, which relates to decision theory, the overall emphasis is on practical implementation and metrics rather than the theoretical aspects of decision-making.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1063,12 +1117,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban and its integration with Scrum, highlighting the importance of metrics and continuous improvement, which are central to Lean principles. However, the primary focus is on Scrum and Kanban rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on integrating Kanban with Scrum, which is more aligned with Agile methodologies than Lean principles. While it mentions continuous improvement and metrics, it does not explicitly discuss Lean concepts such as waste reduction or value stream mapping. The depth of discussion on metrics and workflow improvement is notable, but it lacks a direct connection to Lean methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1120,21 +1177,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and strategies for improving product delivery. However, it primarily centres on Kanban rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on enhancing workflows and providing metrics for better delivery performance. It directly addresses key aspects of product delivery, such as metrics, continuous improvement, and effective planning. However, while it aligns well with the core themes of product delivery, the focus on Kanban and Scrum integration may limit its depth in broader product delivery methodologies.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum, touching on Agile principles and the importance of metrics in product management. However, the primary focus is on Kanban rather than Agile Product Management as a whole.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, which is relevant to Agile methodologies. However, it primarily focuses on the operational aspects of Kanban rather than the broader themes of Agile Product Management, such as the role of the Product Owner or stakeholder engagement. While it touches on metrics and continuous improvement, it lacks a direct focus on product value maximisation and strategic alignment, which are central to Agile Product Management.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1195,11 +1258,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and the importance of metrics for improving workflows, which relates to adaptability in project management. However, it primarily focuses on the specifics of Kanban and Scrum rather than broader market adaptability strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and continuous improvement, which aligns with the principles of Agile methodologies. However, while it touches on aspects of adaptability, such as enhancing workflow and providing insights for decision-making, it does not explicitly address broader market adaptability strategies or competitive pressures. The depth of discussion on metrics and continuous improvement is substantial, but the primary focus remains on the integration of methodologies rather than a comprehensive exploration of market adaptability.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1264,12 +1330,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and highlights the importance of metrics and data in improving value delivery. However, the primary focus is on the Kanban strategy rather than a direct exploration of value delivery principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:36:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses how Kanban can enhance Scrum by providing metrics and insights that facilitate continuous improvement and better alignment with customer needs. While it does not explicitly focus on value delivery as a primary theme, it aligns with the principles of iterative development and the importance of metrics in delivering value. The depth of discussion on metrics and continuous improvement is notable, but the overall focus remains on the integration of methodologies rather than a direct exploration of value delivery strategies.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1282,11 +1351,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and highlights the importance of metrics and continuous improvement, which are relevant to organisational agility. However, the primary focus is on the specifics of Kanban and Scrum rather than broader organisational agility strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, highlighting metrics and continuous improvement, which aligns with the principles of organisational agility. However, the primary focus is on the methodologies themselves rather than broader organisational strategies or cultural shifts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1300,12 +1372,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:36:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban into Scrum, touching on team dynamics and the importance of metrics for effective communication and process improvement. However, the primary focus is on the technical aspects of Kanban and Scrum rather than a deep exploration of human behaviour or structured methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on how this combination can enhance team workflows and improve processes. It addresses team dynamics through metrics and continuous improvement, which aligns well with the category's emphasis on human behaviour and structured methodologies. However, the primary focus is on the technical aspects of Kanban and Scrum rather than the human factors involved, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1348,12 +1423,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and emphasises the importance of metrics and continuous improvement, which are relevant to Value Stream Management. However, the primary focus is on Kanban and Scrum methodologies rather than a direct exploration of Value Stream Management principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on metrics and workflow improvements rather than directly addressing Value Stream Management principles. While it touches on continuous improvement and metrics, it does not explicitly discuss value flow or waste elimination in the context of Value Stream Management.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1393,12 +1471,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:15:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and strategies for improving workflow, which aligns with Agile principles but is primarily centred on Kanban rather than the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:37:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on metrics and workflow improvements rather than the broader Agile Product Operating Model. While it touches on Agile principles, it does not delve into product-centric development or the holistic approach to value delivery that characterises the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1441,7 +1522,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:49:06",
+    "calculated_at": "2025-03-14T19:35:55",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1449,6 +1530,6 @@
     "non_ai_confidence": 50,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses Kanban and its integration with Scrum, rather than focusing on Scrum principles or practices. While Scrum is mentioned, the discussion is largely critical of Scrum's metrics and promotes Kanban as a necessary complement, which detracts from a focused discussion on Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

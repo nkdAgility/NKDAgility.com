@@ -1,20 +1,26 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:42:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interaction between product management and product development, highlighting the importance of running experiments and gathering feedback to validate product value. However, it primarily focuses on the roles and responsibilities rather than explicitly formulating and testing hypotheses.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an Agile context, touching on concepts like feedback loops and continuous improvement. However, it lacks a strong focus on hypothesis formulation, experimentation, and validated learning, which are central to Hypothesis Driven Development. While there are mentions of experimentation and feedback, they are not explored in depth or tied explicitly to hypothesis testing.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product management in leading experiments to validate assumptions and gather feedback, which aligns with the theme of experimentation in Agile. However, the primary focus is on the relationship between product management and product development rather than on experimentation itself.",
+    "calculated_at": "2025-03-14T18:43:47",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": 30,
+    "final_score": 44.0,
+    "reasoning": "The content briefly mentions 'experimentation' in the context of testing new ideas and features, which aligns with the category's focus. However, the primary discussion revolves around the roles of Product Management and Product Development rather than a detailed exploration of experimentation methodologies or hypothesis-driven approaches. The content lacks depth in discussing specific techniques or case studies related to experimentation, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -46,12 +52,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between product management and product development, highlighting their integration and the feedback loops involved. While it touches on organisational dynamics, it primarily focuses on product roles rather than broader systems thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development, highlighting their integration and collaboration in an agile environment. However, while it touches on systems thinking principles like feedback loops and continuous improvement, it primarily focuses on the roles and processes of these functions rather than a broader organisational dynamics perspective. The discussion lacks depth in exploring organisational structure, culture, or complex systems, which are central to the category of Organisational Physics.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -175,12 +184,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the interplay between product management and product development, touching on concepts of value creation and customer feedback, which are relevant to Lean principles. However, it primarily focuses on Agile methodologies and does not explicitly address Lean principles or waste reduction, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an Agile context, touching on concepts like continuous improvement and feedback loops. However, it lacks a direct focus on Lean principles, such as waste reduction and specific Lean tools. The discussion is more centred on Agile methodologies rather than Lean Product Development specifically.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -283,12 +295,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:42:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between product management and product development in Agile environments, touching on Agile principles and practices. However, it primarily focuses on the roles and interactions rather than a comprehensive exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development within an Agile context, highlighting the importance of collaboration and continuous improvement, which aligns with Agile principles. However, it does not delve deeply into specific Agile frameworks or provide a comparative analysis, limiting its alignment with the category.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -301,21 +316,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interaction and collaboration between product management and product development, highlighting the need for these roles to work together effectively. While it touches on teamwork dynamics, the primary focus is on the roles and responsibilities rather than explicit techniques or strategies for enhancing team collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:42:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development, highlighting the importance of collaboration and integration in an Agile environment. While it does touch on aspects of teamwork and shared ownership, the primary focus is on the roles and responsibilities of each function rather than on broader team dynamics or collaboration techniques. The depth of discussion on collaboration is moderate, but it lacks specific strategies or tools for enhancing team communication and trust.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between product management and product development, touching on customer needs and feedback, which are relevant to customer satisfaction. However, the primary focus is on the integration of these roles rather than explicitly measuring or enhancing customer satisfaction.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in creating market value and delivering products that meet user needs. However, it lacks a direct focus on customer satisfaction as a primary theme. While it touches on aspects like user engagement and feedback loops, it does not delve deeply into measuring or enhancing customer happiness, which is central to the category of Customer Satisfaction.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -355,12 +376,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between product management and product development within Agile environments, touching on aspects of Agile practices and the importance of delivering high-quality products. However, the primary focus is on product management rather than software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development within an Agile framework, which is a key aspect of software development. It explicitly mentions Agile practices, the importance of engineering excellence, and continuous improvement, aligning well with the core themes of the Software Development category. The depth of discussion on how these roles interact and contribute to product success indicates a strong focus on software engineering practices, although it leans slightly more towards product management than pure software development.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -394,11 +418,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the interaction between product management and product development in Agile environments, touching on concepts like value creation and customer feedback, which are aligned with Agile principles. However, it primarily focuses on the roles and processes rather than explicitly discussing Agile values and principles as a central theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an Agile context, touching on concepts like collaboration and continuous improvement. However, it primarily focuses on the operational aspects rather than explicitly addressing Agile values and principles. The Agile Manifesto and its core values are not directly mentioned, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -421,12 +448,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between product management and product development, touching on aspects relevant to the Product Owner's role, such as setting direction and strategy. However, it primarily focuses on the broader concept of product management rather than specifically detailing the responsibilities and practices of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development, which are related to the Product Owner's responsibilities but does not explicitly focus on the Product Owner role itself. While it touches on concepts like market value and collaboration, it lacks direct references to the specific duties and practices of a Product Owner in Agile and Scrum frameworks.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -448,12 +478,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interaction between product management and product development, touching on evidence-based management and the importance of feedback loops, which are relevant to empirical process control. However, the primary focus is on product management strategies rather than a deep exploration of empirical process control principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:43:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an Agile context, touching on concepts like feedback loops and continuous improvement, which align with empirical process control principles. However, it primarily focuses on the integration of these roles rather than explicitly discussing empirical process control itself, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -559,12 +592,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:42:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'time to market' as part of product development, which relates to Lead Time. However, the primary focus is on the relationship between product management and product development rather than a detailed exploration of Lead Time itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development, with a brief mention of 'Time to Market' as a measure of how quickly a product can move from concept to market-ready. However, the primary focus is on the integration and collaboration between these two functions rather than on Lead Time as a metric. The discussion lacks depth on Lead Time itself and does not explore its importance, measurement techniques, or strategies for reduction, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -658,12 +694,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between product management and product development, touching on decision-making processes and the importance of gathering feedback to inform strategy. However, it primarily focuses on the roles and responsibilities within Agile environments rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an Agile context, touching on aspects of decision-making and collaboration. However, it primarily focuses on operational aspects rather than exploring the complexities of sensemaking in organisational contexts. While there are mentions of strategy and feedback loops, the depth of discussion on sensemaking principles and frameworks is limited.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -730,12 +769,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile product management and development, highlighting the integration of these roles and their importance in delivering value. While it touches on Agile principles, it primarily focuses on the relationship between product management and development rather than a comprehensive discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development within an Agile context, highlighting the importance of collaboration and continuous improvement. However, while it touches on Agile principles, it primarily focuses on the interplay between these two functions rather than a comprehensive exploration of Agile transformation strategies or methodologies. The Agile Product Management Cycle is mentioned, but the overall depth and direct focus on Agile transformation are limited.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -775,21 +817,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:42:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between product management and product development, touching on Agile principles, but it does not focus specifically on Scrum practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an agile context, touching on concepts like feedback loops and continuous improvement, which are relevant to Scrum. However, it lacks direct references to Scrum roles, events, or specific practices, making it more of a general discussion on agile rather than a focused exploration of Scrum Product Development.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between product management and product development in Agile environments, touching on metrics and the importance of delivering value, which aligns with operational practices. However, the primary focus is on the roles and interactions rather than specific operational techniques or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:42:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an Agile context, touching on aspects of collaboration and continuous improvement. However, it primarily focuses on the relationship between these roles rather than specific operational practices or techniques aimed at enhancing efficiency. While there are mentions of Agile principles and the importance of feedback loops, the depth of discussion on operational practices is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -871,21 +919,27 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:42:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of product management and development that touch on iterative learning and experimentation, which are relevant to Lean Startup principles. However, it primarily focuses on the relationship between product management and development rather than explicitly applying Lean Startup methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an agile environment, touching on concepts like feedback loops and continuous improvement, which are relevant to Lean Startup principles. However, it lacks a direct focus on the Lean Startup methodology, such as the Minimum Viable Product (MVP) or the Build-Measure-Learn feedback loop. The discussion is more about product management strategies rather than explicitly applying Lean principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between product management and product development in Agile environments, touching on aspects of Agile principles and the importance of feedback loops, but it primarily focuses on the roles and interactions rather than specific Agile planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development within an Agile context, highlighting the importance of collaboration, feedback loops, and continuous improvement, which are key aspects of Agile Planning. However, it primarily focuses on the interplay between these two roles rather than delving deeply into specific Agile Planning methodologies or practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -898,12 +952,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between product management and product development, touching on concepts of value creation and market validation, which are relevant to MVP discussions. However, it does not focus primarily on MVP as a distinct topic, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an Agile environment, touching on concepts like market value and feedback loops, which are relevant to MVP discussions. However, it does not explicitly define or focus on the Minimum Viable Product concept, nor does it provide specific strategies or case studies related to MVPs. The primary focus is on the integration of management and development roles rather than on MVP development itself.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -1024,48 +1081,63 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product management and development in relation to market value and unrealised value, indicating a focus on strategies for market presence. However, it primarily centres on the processes of product management and development rather than explicitly detailing strategies for increasing market share.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development, with some references to market value and the importance of understanding market needs. However, it lacks a focused discussion on strategies for increasing market share, competitive analysis, or specific methodologies aimed at expanding market presence. While it touches on relevant concepts, it does not delve deeply into the category of Market Share as defined.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-11T22:19:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:51:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the relationship between product management and product development, focusing on how product management sets strategic goals and direction, which aligns with the category of Strategic Goals. It elaborates on the importance of these goals in achieving market value and the integration of agile principles in this context.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development, highlighting the importance of strategic direction and long-term goals in product success. While it touches on strategic goals, the primary focus is on operational aspects and the interplay between the two functions rather than a deep exploration of strategic goals themselves. The discussion on maintaining market value and the agile product management cycle indicates some alignment with strategic goals, but it lacks depth in terms of frameworks or evidence-based approaches to refining these objectives.",
     "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interaction between product management and product development, touching on the importance of feedback loops and experimentation, which are relevant to Continuous Learning. However, the primary focus is on product management and development rather than on Continuous Learning principles and practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:43:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development, highlighting the importance of feedback loops and continuous improvement, which aligns with Continuous Learning principles. However, the primary focus is on the roles and responsibilities of these functions rather than explicitly promoting a growth mindset or knowledge sharing practices. The depth of discussion on continuous improvement and feedback mechanisms contributes positively, but the overall emphasis remains on product roles rather than a broader exploration of Continuous Learning.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes in the context of product management and development, highlighting the importance of strategy, direction, and feedback loops. However, it primarily focuses on Agile methodologies rather than a comprehensive exploration of decision theory principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Product Management and Product Development in Agile environments, focusing on their integration and collaboration. While it touches on decision-making aspects, such as strategy and validation, it lacks a direct focus on decision theory principles like heuristics, biases, or frameworks. The discussion is more about operational roles rather than the theoretical underpinnings of decision-making in uncertain environments.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:42:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between product management and product development in agile environments, touching on themes of collaboration and adaptability. However, it primarily focuses on team-level practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an agile environment, highlighting their interdependence and the importance of collaboration. However, it primarily focuses on team-level practices and does not delve deeply into broader organisational structures, frameworks, or leadership roles that are essential for enterprise agility. While it touches on concepts like continuous improvement and feedback loops, it lacks a comprehensive exploration of how these practices scale across the organisation.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1135,21 +1207,27 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T18:43:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "The content primarily discusses the interplay between product management and product development within an Agile framework, emphasising the role of product management in setting strategy and direction, as well as the importance of metrics and feedback loops in maximising product value.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the roles of Product Management and Product Development within an Agile framework, highlighting the importance of collaboration, continuous feedback, and alignment with market needs. It delves into concepts like Evidence-Based Management and the Agile Product Management cycle, demonstrating a strong alignment with Agile principles. The depth of discussion is significant, covering strategic direction, value creation, and the interplay between the two functions, which are central to Agile Product Management.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interplay between product management and product development, highlighting the importance of experimentation and feedback loops, which are relevant to the theme of discovery and learning. However, the primary focus is on the roles and responsibilities within Agile environments rather than on the processes of learning and discovery themselves.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development, highlighting the importance of feedback loops and continuous improvement, which aligns with the themes of discovery and learning. However, the primary focus is on the roles and responsibilities of these functions rather than explicitly exploring methodologies for fostering innovation or learning processes. While there are mentions of experimentation and feedback, they are not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1198,12 +1276,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interplay between product management and product development in Agile environments, touching on aspects of market value and the need for organisations to adapt to changing customer needs. However, it primarily focuses on the roles and responsibilities rather than explicitly detailing strategies or methodologies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development within Agile environments, highlighting the importance of continuous feedback loops and the need for organisations to adapt to market demands. It addresses how these roles contribute to maintaining and growing market value, which aligns well with the principles of market adaptability. However, while it touches on relevant themes, it does not delve deeply into specific methodologies like Lean or DevOps, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1234,21 +1315,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between product management and product development in Agile environments, touching on concepts relevant to Agile methodologies. However, it does not focus on specific products or literature, making it a secondary theme rather than a primary topic.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in Agile environments, which aligns with the category's focus on tools and methodologies relevant to Agile practices. However, it lacks direct references to specific products or books, and while it provides a detailed analysis of the interplay between the two roles, it does not delve deeply into literature or specific tools that facilitate Agile practices.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:42:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between product management and product development in agile environments, touching on themes of adaptability and value creation, which are relevant to business agility. However, the primary focus is on the roles and processes rather than a comprehensive exploration of business agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an agile environment, highlighting their interdependence and the importance of collaboration. While it touches on agile principles and the need for adaptability, it primarily focuses on the operational aspects of product creation rather than the broader principles of business agility. The discussion on continuous improvement and feedback loops aligns with business agility concepts, but the overall emphasis is more on product processes than on organisational agility as a whole.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1273,21 +1360,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of product development and its relationship with product management, touching on concepts like product quality and engineering excellence. However, the primary focus is on the interplay between product management and development rather than specific engineering practices or methodologies that enhance technical excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an agile environment, touching on aspects of engineering excellence and the importance of product quality. However, the primary focus is on the interplay between these roles rather than on specific engineering practices or methodologies that enhance technical excellence. While there are mentions of continuous improvement and feedback loops, the depth of discussion on technical practices like TDD, CI/CD, or modular architecture is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between product management and product development within agile environments, highlighting the importance of adaptability and responsiveness to market needs. However, it primarily focuses on the roles and processes rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development within an agile framework, highlighting the importance of collaboration, continuous improvement, and responsiveness to market needs. While it does not explicitly mention 'Organisational Agility', it aligns with key themes such as the integration of customer feedback and the role of agile practices in enhancing adaptability. However, the focus is more on the specific roles rather than broader organisational strategies, which slightly limits its depth in the context of organisational agility.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1312,11 +1405,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:33:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:43:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between product management and product development, highlighting their integration and collaboration, which aligns with sociotechnical principles. However, the primary focus is on product management and development processes rather than a broader examination of sociotechnical systems within an organisational context.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the interplay between Product Management and Product Development, which touches on sociotechnical aspects such as collaboration and integration within agile environments. However, it primarily focuses on the roles and responsibilities of these functions without deeply exploring the broader sociotechnical implications or organisational structures that influence software delivery. The discussion lacks explicit references to sociotechnical frameworks or the impact of organisational culture on technology adoption, which limits its depth in this category.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1405,7 +1501,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-07T12:58:40",
+    "calculated_at": "2025-03-14T18:42:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1413,7 +1509,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the roles of product management and product development, highlighting the leadership aspect of product management in setting direction and strategy. However, it primarily focuses on the operational aspects of product management and development rather than on leadership practices or frameworks. While there are mentions of leadership in guiding product development, the depth of discussion on leadership principles and their impact on team dynamics is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1447,7 +1543,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:46:12",
+    "calculated_at": "2025-03-14T18:42:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1455,6 +1551,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses product management and development in an agile context but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it touches on agile principles and the importance of collaboration, it lacks a direct focus on Scrum practices, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

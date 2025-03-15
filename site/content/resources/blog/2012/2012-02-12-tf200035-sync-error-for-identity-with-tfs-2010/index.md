@@ -24,6 +24,10 @@ aliasesArchive:
 - /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
 tags:
 - Windows
+- Troubleshooting
+- System Configuration
+- Software Development
+- Install and Configuration
 categories: []
 
 ---

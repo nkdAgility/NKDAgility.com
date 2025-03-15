@@ -25,12 +25,6 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
-- Pragmatic Thinking
-- Practical Techniques and Tooling
-- Operational Practices
-- Technical Excellence
-- Technical Mastery
-- Code and Complexity
 categories:
 - Engineering Excellence
 

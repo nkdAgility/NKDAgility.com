@@ -28,6 +28,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Values and Principles
+- Discovery and Learning
+- Agile Transformation
+- Organisational Culture
+- Agile Strategy
 resourceTypes:
 - video
 layout: video

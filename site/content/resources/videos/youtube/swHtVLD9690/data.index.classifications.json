@@ -1,21 +1,27 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating assumptions and testing features in production, which aligns with hypothesis-driven development principles. However, the primary focus is on the challenges of adopting DevOps practices rather than on hypothesis formulation and experimentation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:21:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content discusses DevOps practices and the importance of feedback loops, but it does not explicitly mention hypothesis formulation or experimentation. While it touches on adapting based on feedback, it lacks a clear focus on empirical testing or validated learning, which are central to hypothesis-driven development.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating assumptions in production and the challenges of testing features, which aligns with experimentation in Agile. However, the primary focus is on DevOps practices rather than a systematic exploration of experimentation itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of feedback loops and rapid iteration in a DevOps context, which aligns with the principles of experimentation. However, it primarily focuses on challenges and risk management rather than explicitly detailing hypothesis-driven experimentation methods or techniques. The mention of feedback and adaptation suggests some alignment with experimentation, but the depth and direct focus on systematic testing and validation are limited.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -46,12 +52,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, which involves understanding organisational dynamics, risk management, and feedback loops. However, the primary focus is on DevOps rather than a comprehensive exploration of systems thinking or organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, focusing on risk management and feedback loops. While it touches on organisational dynamics, such as the need for flexibility and adaptability, it primarily centres on DevOps methodologies rather than a comprehensive exploration of systems thinking or organisational behaviour. The mention of feedback loops aligns with systems thinking, but the overall focus is more on practical implementation than on the theoretical underpinnings of organisational physics.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -82,7 +91,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:56:10",
+    "calculated_at": "2025-03-14T18:20:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -90,7 +99,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses challenges related to adopting DevOps practices, which touches on aspects of product management, such as risk management and feedback loops. However, it primarily focuses on technical implementation and operational challenges rather than the strategic alignment of customer needs, business objectives, and product management methodologies. While there are mentions of product validation and the importance of feedback, the overall discussion lacks a strong focus on the core themes of product management, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -121,30 +130,39 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which are closely tied to digital transformation initiatives. While it primarily focuses on DevOps, it touches on themes of agility, risk management, and the need for organisations to adapt to new methodologies, which are relevant to digital transformation. However, the main focus is not explicitly on digital transformation itself, leading to a moderate confidence level.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which is related to digital transformation in terms of enhancing operational efficiency and adapting to modern risk profiles. However, it primarily focuses on DevOps rather than a broader strategic adoption of digital technologies. While it touches on concepts like flexibility and feedback loops, it lacks detailed exploration of digital transformation strategies or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, which indirectly relates to the delivery of functional software. However, the primary focus is on the challenges and processes rather than directly addressing the characteristics or delivery of working software.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:20:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which indirectly relates to working software through the emphasis on quality, feedback loops, and iterative development. However, it primarily focuses on risk management and the DevOps mindset rather than explicitly addressing the characteristics or delivery of working software. While it touches on aspects like high-quality releases and continuous improvement, these are secondary to the main theme of risk management in DevOps.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including risk management and the importance of validating assumptions in production. While it touches on decision-making aspects related to risk and feedback loops, the primary focus is on the challenges of DevOps rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:21:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of feedback loops and adapting to modern risk profiles, which are relevant to decision-making processes in a DevOps context. However, it primarily focuses on challenges and practices in adopting DevOps rather than structured decision-making methodologies. While there are mentions of acting on feedback and understanding risk, the discussion lacks depth in evidence-based decision-making frameworks and empirical support, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -262,11 +280,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including the need for adaptability and closing feedback loops, which are relevant to innovation. However, the primary focus is on operational challenges rather than a direct exploration of the Ability to Innovate as a central theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, focusing on risk management and feedback loops. While it touches on aspects of innovation, such as adaptability and continuous improvement, it does not explicitly measure or enhance the organisation's capacity to innovate. The primary focus is on operational challenges rather than on frameworks or metrics for innovation, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
@@ -289,12 +310,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, which indirectly touches on team dynamics and collaboration. However, the primary focus is on risk management and production challenges rather than explicit team collaboration techniques or dynamics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, focusing on risk management and feedback loops. While it touches on aspects of team dynamics and collaboration indirectly, such as the importance of feedback and adapting to changes, it does not explicitly address team collaboration techniques or shared ownership within Agile frameworks. The primary focus remains on individual practices and challenges rather than fostering teamwork or communication, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -367,12 +391,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including the importance of closing feedback loops and adapting to changes quickly, which are related to throughput. However, the primary focus is on broader challenges and practices in DevOps rather than specifically on measuring or optimising throughput.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, focusing on risk management and feedback loops. While it touches on aspects related to throughput, such as the importance of rapid iteration and adapting based on feedback, it does not explicitly define or measure throughput. The primary focus is on risk management rather than the optimisation of work completion rates, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -421,11 +448,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which includes elements of change management, particularly in adapting to new processes and understanding risk profiles. However, the primary focus is on DevOps practices rather than a comprehensive exploration of change management principles.",
+    "calculated_at": "2025-03-14T14:50:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which indirectly relates to change management. However, it primarily focuses on risk management and feedback loops rather than the core principles of change management in Agile environments. While it touches on adaptability and continuous improvement, it lacks a detailed exploration of strategies for engaging stakeholders or the role of leadership in guiding transformation, which are key topics in change management.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -439,12 +469,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including the importance of validating assumptions in production and closing feedback loops, which are relevant to empirical process control. However, the primary focus is on DevOps rather than empirical process control itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:21:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of feedback loops and adaptation in a DevOps context, which aligns with empirical process control principles. However, it primarily focuses on challenges in adopting DevOps rather than explicitly addressing empirical process control as a primary topic. The discussion lacks depth in terms of Agile methodologies and does not provide case studies or theoretical foundations related to empirical process control.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -535,12 +568,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Windows 8 in the context of user experience and production challenges, making it a significant but secondary theme within a broader discussion on DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses DevOps practices and risk management, with a brief mention of Windows in the context of historical development cycles. While it touches on the Windows team and their past delivery cycles, the primary focus is on DevOps rather than Windows itself. The alignment with Windows is minimal, and the depth of discussion regarding Windows is insufficient to classify this content under the Windows category.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -622,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to DevOps practices, which include aspects of Continuous Delivery such as risk management and feedback loops. However, the primary focus is on DevOps rather than Continuous Delivery specifically.",
+    "calculated_at": "2025-03-14T18:21:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses DevOps practices and challenges, with only brief mentions of Continuous Delivery principles. While it touches on aspects like feedback loops and rapid iteration, it lacks a focused discussion on Continuous Delivery methodologies, automation, and maintaining a production-ready state, which are core to the category.",
     "level": "Tertiary"
   },
   "Cross Functional Teams": {
@@ -649,12 +688,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, particularly around understanding and managing risk in a complex environment. While it touches on sensemaking principles, such as adapting strategies based on feedback and validating assumptions in production, the primary focus is on DevOps processes rather than a deep exploration of sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges in adopting DevOps practices, focusing on risk management and feedback loops. While it touches on aspects of sensemaking, such as adapting to new risk profiles and the importance of feedback for decision-making, it primarily centres on technical implementations and project management rather than a deep exploration of sensemaking principles or frameworks. The discussion lacks explicit references to sensemaking models or a thorough examination of how organisations interpret complexity in decision-making.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -748,7 +790,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-11T13:10:46",
+    "calculated_at": "2025-03-14T18:20:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -756,7 +798,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses challenges related to adopting DevOps practices, which touches on aspects of organisational change, particularly in terms of adapting to new methodologies and risk management. However, it primarily focuses on technical challenges and practices rather than the broader strategies and frameworks of organisational change. While there are mentions of adapting to change and improving processes, the depth of discussion does not sufficiently align with the core themes of organisational change, such as leadership roles or specific change management frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -856,12 +898,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of validating product features in production and the challenges of understanding customer needs within a DevOps context, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses DevOps practices and risk management rather than focusing on product discovery methodologies. While it touches on the importance of feedback loops, which is relevant to understanding customer needs, the overall emphasis is on operational challenges and risk management in a DevOps context. The discussions on feedback and adaptation are secondary to the main topic of DevOps, leading to a low confidence score in alignment with the Product Discovery category.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -937,21 +982,27 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which touches on technical aspects such as risk management, testing, and feedback loops. However, the primary focus is on the challenges and processes rather than a deep exploration of technical mastery principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which aligns with the principles of technical mastery, particularly in the context of risk management and continuous improvement. However, while it touches on important aspects of software craftsmanship, such as quality and feedback loops, it primarily focuses on the challenges and mindset shifts rather than providing in-depth best practices or methodologies. Therefore, while it is relevant, it does not fully meet the criteria for a primary focus on technical mastery.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to software delivery and the importance of validating features in production, which are relevant to release management. However, the primary focus is on DevOps practices rather than specifically on release management processes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which includes elements of release management such as risk management and feedback loops. However, it primarily focuses on the broader context of DevOps rather than specifically on release management strategies, making it a secondary rather than primary focus.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -964,16 +1015,19 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices and touches on the implications of these challenges for organisational adaptability and responsiveness, which aligns with the theme of trend analysis. However, it primarily focuses on specific challenges rather than a broader analysis of trends.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges in adopting DevOps practices and touches on the evolution of risk management, but it lacks a focused analysis of trends or patterns within Agile or DevOps frameworks. While it mentions the importance of feedback loops and adapting to modern risk profiles, it does not provide a thorough examination of emerging trends or their implications for strategic decision-making, which is essential for a higher confidence score in the Trend Analysis category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:01:05",
+    "calculated_at": "2025-03-14T18:20:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -981,7 +1035,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of adopting DevOps practices, which includes elements of Agile philosophy such as flexibility, adaptability, and continuous improvement. However, it primarily focuses on DevOps rather than the broader Agile principles. While it touches on feedback loops and the importance of rapid iteration, it does not explicitly reference the Agile Manifesto or its principles, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1039,39 +1093,51 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including the importance of closing feedback loops and adapting to changes, which are relevant to Continuous Learning. However, the primary focus is on the challenges and processes of DevOps rather than a direct exploration of Continuous Learning principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:21:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous improvement within the context of DevOps, which aligns with the principles of Continuous Learning. However, while it touches on these concepts, the primary focus is on the challenges of adopting DevOps practices rather than a dedicated exploration of Continuous Learning itself. The discussion on adapting to new risk profiles and the need for flexibility and adaptability supports the growth mindset, but it lacks depth in techniques for knowledge sharing or creating a culture of experimentation.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to risk management and decision-making in the context of adopting DevOps practices, indicating a secondary theme of decision theory. However, the primary focus is on DevOps processes rather than a thorough exploration of decision-making frameworks or theories.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses risk management and feedback loops in the context of DevOps, which touches on decision-making processes. However, it primarily focuses on practical challenges and methodologies rather than explicitly exploring decision theory concepts such as heuristics, biases, or frameworks. The mention of adapting to risk profiles and acting on feedback indicates some alignment with decision-making, but the depth of discussion is limited and lacks a thorough exploration of decision theory principles.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which includes themes of adaptability and responding to market changes. However, it primarily focuses on team-level practices and does not extensively address broader organisational implications or frameworks for scaling agility.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which includes elements of agility such as flexibility, adaptability, and continuous improvement. However, it primarily focuses on team-level practices and risk management rather than addressing broader organisational agility or frameworks for scaling agility. While it touches on some relevant themes, it lacks a comprehensive exploration of enterprise-level agility concepts.",
     "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including the need to eliminate waste and close feedback loops, which are relevant to Lean principles. However, the primary focus is on DevOps rather than Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps practices and modern risk management, with a brief mention of eliminating waste and closing feedback loops. However, it primarily focuses on DevOps rather than Lean principles, lacking a thorough exploration of Lean methodologies or tools. The connection to Lean is minimal and secondary, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1144,21 +1210,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including the importance of closing feedback loops and adapting to new information, which aligns with the themes of discovery and learning. However, the primary focus is on the challenges and processes of DevOps rather than a direct exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous improvement in the context of adopting DevOps practices, which aligns well with the themes of discovery and learning. It explicitly mentions the need to adapt based on real-world feedback and highlights the significance of closing feedback loops, which are key aspects of the category. However, while it touches on learning and adaptation, the primary focus is on the challenges of DevOps rather than a broader exploration of discovery and learning methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, including the importance of closing feedback loops and understanding risk profiles, which are relevant to Systems Thinking. However, the primary focus is on DevOps rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, focusing on risk management and feedback loops. While it touches on interconnectedness and the importance of feedback, it primarily centres on linear problem-solving and specific methodologies rather than a holistic Systems Thinking approach. The mention of feedback loops aligns somewhat with Systems Thinking, but the overall discussion lacks depth in exploring the principles and applications of Systems Thinking as defined in the category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1183,12 +1255,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices and touches on the need for different tools and techniques to manage risk, which aligns with the category. However, it primarily focuses on the challenges and philosophical aspects rather than providing specific practical techniques or tooling insights.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices and touches on risk management, feedback loops, and the importance of modern tools and techniques. However, while it mentions some practical aspects, it lacks detailed exploration of specific tools or methodologies, which diminishes its alignment with the category. The focus is more on the challenges and mindset rather than on practical techniques and tooling.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1234,12 +1309,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses DevOps practices and challenges, with a specific mention of Azure DevOps and its implications on production and testing. However, the primary focus is on general DevOps principles rather than Azure DevOps functionalities or tools.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses DevOps practices and challenges extensively, but it does not focus specifically on Azure DevOps. While it mentions a quote from a former Azure DevOps team member, the overall discussion is more general about DevOps principles and practices rather than the specific functionalities or tools of Azure DevOps. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Azure DevOps category.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1252,12 +1330,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which includes themes of adaptability and responding to market needs. However, the primary focus is on DevOps rather than business agility itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:21:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which indirectly relates to business agility through themes of flexibility, adaptability, and rapid iteration. However, it primarily focuses on DevOps rather than explicitly addressing business agility principles or strategies. The discussion on risk management and feedback loops aligns with agile concepts but lacks depth in exploring business agility as a primary focus.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1291,12 +1372,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which inherently involves aspects of organisational agility such as adaptability, flexibility, and closing feedback loops. However, the primary focus is on DevOps rather than a direct exploration of organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which inherently involves themes of organisational agility such as flexibility, adaptability, and continuous improvement. However, it primarily focuses on risk management and feedback loops rather than explicitly addressing the broader principles of organisational agility. While there are relevant mentions of adapting to changes and the importance of feedback, the depth of discussion on agile methodologies and cultural shifts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1321,39 +1405,51 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, touching on the interplay between organisational structures and technology. It highlights the need for adapting risk management and feedback loops within teams, which aligns with sociotechnical principles. However, the primary focus remains on DevOps practices rather than a comprehensive exploration of sociotechnical systems.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, touching on aspects of risk management and feedback loops. However, it primarily focuses on technical processes and methodologies without a strong emphasis on the interplay between social and technical systems within organisations. While there are mentions of adapting to changes and the importance of feedback, the discussion lacks depth in exploring how organisational culture, team dynamics, or communication tools influence these practices, which are central to the Sociotechnical Systems category.",
     "level": "Tertiary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, which is a relevant topic in the context of industry updates. However, it primarily focuses on personal insights and experiences rather than providing a review or analysis of specific tools, trends, or literature.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which aligns with the core themes of the category. It provides insights into modern risk management and the importance of feedback loops, relevant to industry updates. However, it lacks direct mentions of specific news or reviews, focusing more on theoretical discussions and personal insights rather than concrete evaluations or updates.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:20:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, particularly focusing on the importance of closing feedback loops and adapting to changes based on real-world testing and validation. While it touches on metrics and learning, it is primarily about the challenges of DevOps rather than a focused discussion on metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous improvement in the context of DevOps, which aligns well with the core themes of the 'Metrics and Learning' category. It explicitly mentions the need for gathering and acting on feedback, which is a key aspect of evidence-based decision-making. However, while it touches on metrics and risk management, it does not delve deeply into specific techniques for collecting and analysing performance data or provide extensive case studies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to DevOps practices, which are closely tied to the application lifecycle, particularly in terms of deployment, testing, and risk management. However, the primary focus is on DevOps rather than a comprehensive discussion of Application Lifecycle Management itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses DevOps practices and risk management rather than focusing on the entire application lifecycle. While it touches on aspects like deployment and feedback loops, it does not provide a comprehensive view of the application lifecycle stages or governance practices. The discussion is more aligned with modern software development methodologies than with Application Lifecycle Management as defined.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

@@ -33,9 +33,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
-- Technical Mastery
-- Software Development
-- Technical Excellence
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

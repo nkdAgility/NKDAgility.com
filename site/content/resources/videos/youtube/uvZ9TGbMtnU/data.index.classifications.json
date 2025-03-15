@@ -91,7 +91,7 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-06T14:58:56",
+    "calculated_at": "2025-03-14T20:13:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -99,7 +99,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily critiques the concept of special Sprints within Agile practices, which indirectly relates to market adaptability by emphasising the importance of delivering usable products. However, it lacks explicit discussions on strategies for responding to market shifts or competitive pressures, and does not delve into Agile methodologies' role in fostering responsiveness or other key topics outlined in the category. The focus is more on Agile principles rather than their application to market adaptability.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -142,7 +142,7 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T11:49:33",
+    "calculated_at": "2025-03-14T20:13:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -150,7 +150,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the concept of avoiding special Sprints, which indirectly relates to the principles of iterative development and the focus on delivering usable products. However, it lacks explicit discussions on value delivery strategies, customer value measurement, or alignment with customer needs, which are crucial for a higher confidence score. The depth of discussion is limited, focusing primarily on the negative aspects of special Sprints rather than providing a comprehensive view of value delivery practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -202,7 +202,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-10T18:00:45",
+    "calculated_at": "2025-03-14T20:13:31",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -210,7 +210,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on Agile practices by discussing the concept of Sprints and the pitfalls of having special Sprints. However, it lacks a broader discussion on organisational agility principles, leadership roles, or cultural shifts necessary for enhancing adaptability. The focus is primarily on the misuse of Sprints rather than on strategies for organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -271,7 +271,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T09:59:21",
+    "calculated_at": "2025-03-14T20:13:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -279,7 +279,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on Agile practices and the importance of focusing on usable products, which aligns with the principles of business agility. However, it lacks a comprehensive discussion on the broader themes of business agility, such as leadership roles, cultural strategies, or case studies. The mention of 'special Sprints' is more about Agile methodology than directly addressing business agility as a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -553,11 +553,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:13:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content directly addresses the principles of delivering usable working products within the context of Agile practices, emphasizing the avoidance of special Sprints to ensure focus on functional software.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of delivering a usable working product in Agile practices, directly addressing the core themes of the Working Software category. It critiques the concept of special Sprints, emphasising the need for accountability and quality in each Sprint, which aligns well with the principles of iterative development and continuous delivery. The depth of discussion is substantial, providing actionable insights on how to achieve working software, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Release Management": {
@@ -625,12 +628,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:13:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile practices and emphasizes the importance of focusing on usable working products and the implications of safety nets in the context of Sprints, which relates to empirical process control, but is more focused on specific Agile practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the pitfalls of special Sprints and emphasises the importance of delivering usable products, which aligns with the principles of empirical process control. It highlights the need for continuous improvement, accountability, and quality, all of which are core themes of the category. However, while it touches on these concepts, it does not delve deeply into empirical process control itself or provide specific techniques or case studies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -697,7 +703,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:10:21",
+    "calculated_at": "2025-03-14T20:13:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -705,7 +711,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Agile practices, specifically critiquing the concept of special Sprints, which relates to product management methodologies. However, it lacks a broader discussion on strategic alignment with customer needs or business objectives, focusing instead on a specific Agile practice without delving into how it impacts product management as a whole.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -781,21 +787,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:13:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses principles of Agile practices related to Sprints, reinforcing the importance of true Agile methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Agile practices, particularly the pitfalls of special Sprints, which aligns closely with Agile principles. It provides a detailed examination of how these misconceptions can hinder Agile transformation and emphasises the importance of accountability, quality, and continuous improvement—key themes in Agile transformation. The depth of discussion is substantial, offering actionable insights and a clear call to embrace true Agile practices.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:13:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses Agile practices, particularly in relation to Sprints, it primarily critiques the use of special Sprints without focusing on broader operational practices or strategies that enhance operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the pitfalls of special Sprints in Agile practices, which directly relates to operational efficiency and delivery. It emphasises the importance of accountability, quality, and continuous improvement, aligning well with the core themes of operational practices. The depth of discussion is substantial, providing specific strategies to enhance Agile methodologies, although it could benefit from more concrete examples or metrics.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -997,11 +1009,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:13:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses core agile principles by addressing misconceptions about Sprint types, emphasizing true agile practices focused on delivering usable products.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly the critique of special Sprints, which aligns closely with Agile methodologies. It provides a detailed examination of how these misconceptions can hinder project delivery and emphasises the importance of accountability, quality, and continuous improvement, all of which are core themes in Agile Project Management. The depth of discussion is substantial, addressing both the problems with special Sprints and offering strategies for maintaining Agile practices, thus reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -1078,11 +1093,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:13:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile practices and critiques common misconceptions in Scrum methodology, specifically focusing on the concept of Sprints within the context of Agile software development.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically addressing misconceptions about special Sprints and advocating for a focus on delivering usable products. It aligns well with key topics in software development, such as Agile methodologies and continuous improvement. The depth of discussion is substantial, providing insights into the implications of special Sprints and offering actionable advice for fostering an Agile mindset. Overall, the content is highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1144,11 +1162,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T14:55:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the concept of Sprints in Agile and emphasizes the importance of focusing on producing usable working products within these Sprints, reflecting Agile Planning principles. However, it primarily critiques the idea of special Sprints rather than offering an overarching exploration of Agile Planning methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the pitfalls of special Sprints and emphasises the importance of delivering usable products, which aligns well with Agile Planning principles. It addresses accountability, continuous improvement, and prioritising quality, all of which are core themes in Agile methodologies. The depth of discussion is substantial, providing clear arguments against the concept of special Sprints and advocating for a focus on value delivery. Overall, the content is highly relevant to Agile Planning.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1198,12 +1219,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and the implications of special sprints, which relates to Agile values of delivering usable products and avoiding safety nets that could hinder risk management. However, it primarily focuses on specific practices rather than the foundational Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:13:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding special Sprints and emphasises the importance of delivering usable products, which aligns closely with Agile principles. It mentions key Agile concepts such as continuous improvement, accountability, and prioritising quality, demonstrating a strong conceptual alignment with Agile values. The depth of discussion is substantial, providing detailed insights into how to embody Agile principles effectively, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1306,11 +1330,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical implications of Agile practices by emphasizing the avoidance of special Sprints to enhance real-world application and focus on usable products. It aligns with pragmatic problem-solving strategies within the Agile framework.",
+    "calculated_at": "2025-03-14T20:13:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the pitfalls of special Sprints in Agile, aligning closely with pragmatic problem-solving strategies. It provides practical advice on fostering accountability and prioritising quality, which are key themes in the category. The depth of discussion is substantial, offering concrete strategies for improvement and real-world applications of Agile principles, thus demonstrating a strong alignment with the category's focus.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1342,12 +1369,12 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:56:11",
+    "calculated_at": "2025-03-14T20:13:31",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses Agile practices and Sprints but does not focus on the role of a Scrum Master or key responsibilities associated with that role.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1369,12 +1396,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T14:56:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable working products at the end of Sprints, which relates to the concept of an Increment, but it primarily focuses on the critique of special Sprints rather than the Increment itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:16:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of delivering a usable working product at the end of each Sprint, which aligns closely with the Increment concept in Agile. It critiques the idea of special Sprints and emphasises accountability and quality, which are essential for producing valuable increments. However, while it touches on key themes, it does not delve deeply into specific practices for measuring value or the relationship between increments and other Scrum artifacts, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",

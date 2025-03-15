@@ -79,7 +79,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T10:14:52",
+    "calculated_at": "2025-03-15T00:23:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -87,16 +87,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions an influential figure in the Agile community and their contributions, but it lacks a direct focus on Scrum principles, roles, or practices. While it touches on mentorship within the Agile context, it does not delve into the core themes of Professional Scrum, such as the Scrum framework, roles, or artifacts. The discussion is more anecdotal and personal rather than a structured exploration of Scrum theory or practice.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the influence of a person in the Agile community and mentions Agile and Scrum, but primarily focuses on personal experiences and consultancy rather than in-depth examination of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on Jernimo Palacios and his contributions to the Agile community, particularly in relation to Scrum. It discusses mentorship and community building within Agile practices, which aligns with the principles of Agile frameworks. However, while it mentions Scrum and the Agile mindset, it does not delve deeply into the comparative analysis of different Agile frameworks or provide extensive insights into their implementation. The discussion is more personal and anecdotal rather than a comprehensive exploration of Agile frameworks as a whole.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -298,21 +301,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses Agile and Scrum methodologies, which are significant aspects of software development practices, but also focuses heavily on personal experiences and the influence of an individual.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Agile practices and mentorship within the Agile community, specifically highlighting the contributions of Jernimo Palacios as a Professional Scrum Trainer. It discusses key Agile concepts such as collaboration, continuous improvement, and community building, which align well with the Software Development category. The depth of discussion is substantial, providing insights into the importance of mentorship and knowledge sharing in Agile, thus reinforcing its relevance to software development methodologies.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses coaching as part of the Agile journey and highlights the influence of a coach in shaping careers, making it a secondary but significant theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:23:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses mentorship and the role of a mentor in the agile community, particularly through the lens of Jernimo Palacios' influence. It highlights key coaching themes such as guidance, encouragement, and community building, which align closely with the core principles of coaching. The depth of discussion is significant, providing detailed insights into the importance of mentorship and collaboration in agile practices. However, while it touches on coaching, it primarily focuses on mentorship, which is a related but distinct concept, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -325,7 +334,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-10T18:17:25",
+    "calculated_at": "2025-03-15T00:23:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -333,7 +342,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on an individual's influence and mentorship within the Agile community, specifically highlighting personal experiences and relationships rather than discussing Agile strategy as a whole. While it touches on community and sharing knowledge, it lacks explicit discussions on organisational vision, strategic planning, or the implementation of Agile methodologies at scale, which are core themes of the Agile Strategy category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -418,12 +427,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the influence of a mentor in an Agile career and the importance of teaching and coaching, which aligns with the theme of Continuous Learning, but it is primarily focused on an influential person rather than fully exploring Continuous Learning principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:23:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses mentorship, knowledge sharing, and community building within the agile framework, which aligns closely with the principles of Continuous Learning. It highlights the importance of a growth mindset and learning from experiences, both successes and failures, which are key themes in the category. The depth of discussion on Jernimo's influence and the emphasis on collaboration and adaptability further support a high confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -517,7 +529,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-07T14:04:10",
+    "calculated_at": "2025-03-15T00:23:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -525,7 +537,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions an influential figure in Agile practices, specifically a PST (Professional Scrum Trainer), which indirectly relates to the Scrum Master role. However, it lacks a direct focus on the responsibilities or practices of a Scrum Master. The discussion is more about mentorship and community rather than specific Scrum Master duties or techniques, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -865,21 +877,27 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a significant figure in the Agile community and their influence, which is relevant to discussions about Agile updates. However, it leans more towards personal influence and coaching rather than providing clear news updates or reviews.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on Jernimo Palacios and his contributions to the Agile community, which aligns with the themes of mentorship and community building in Agile practices. While it does not provide direct news updates or reviews of tools, it discusses the importance of mentorship and community, which are relevant to Agile methodologies. The depth of discussion is significant, as it elaborates on the impact of mentorship and community support in Agile, but it lacks specific references to industry news or reviews of tools and practices, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the influence of mentors in agile careers and the positive impact of a happy and inspired workforce, but it primarily focuses on an individual and their career journey rather than directly addressing team dynamics.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the influence of Jernimo Palacios as a mentor and community builder within the agile practices, which aligns well with the themes of team motivation. It discusses the importance of mentorship, community support, and collaboration, all of which are crucial for enhancing team engagement and performance. The depth of discussion on mentorship and community building provides substantial insights into how these elements contribute to team dynamics, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -958,7 +976,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:42:23",
+    "calculated_at": "2025-03-15T00:23:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -966,7 +984,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses mentorship and community within the agile landscape, highlighting the influence of Jernimo Palacios on individuals' understanding of Scrum. However, it primarily focuses on personal experiences and broader agile principles rather than specific Scrum Team dynamics, roles, or practices. While there are mentions of collaboration and continuous improvement, these are not deeply tied to the Scrum framework or team-specific discussions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1006,12 +1024,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses the influence of a mentor in an agile career, touching on mentorship in Agile environments. However, it also includes promotional content about agile training and consulting which detracts from the focus on mentoring.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses mentorship, particularly through the lens of Jernimo Palacios' influence and contributions to the agile community. It highlights the importance of guidance, encouragement, and learning from experience, which are core themes of mentoring. The depth of discussion is significant, providing specific examples of how mentorship has impacted the author's journey and the broader agile community. Overall, the content aligns well with the mentoring category, focusing on the development of skills and fostering a culture of continuous learning.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1027,12 +1048,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and the influence of an agile expert, which relates to product delivery methodologies but primarily focuses on individual influence rather than specific product delivery practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on mentorship and community building within the agile practices, with only brief mentions of Scrum and agile principles. While it touches on themes relevant to product delivery, such as continuous improvement and collaboration, it lacks a detailed discussion on methodologies, testing, deployment, or metrics that are central to the product delivery category.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1045,12 +1069,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content primarily discusses Agile and Scrum influences, focusing on personal development and mentorship in Agile, which relates to organisational agility but is not the main topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:29:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the influence of Jernimo Palacios on the agile community, highlighting themes of mentorship, community building, and continuous improvement, which align well with the principles of organisational agility. While it does not explicitly mention organisational agility as a primary focus, it embodies key aspects such as adaptability and collaboration, which are essential for fostering an agile culture. The depth of discussion on mentorship and community support adds to the overall relevance, though it lacks a direct exploration of organisational structures or processes.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",

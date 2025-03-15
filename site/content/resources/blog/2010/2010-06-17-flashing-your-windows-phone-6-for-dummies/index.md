@@ -24,6 +24,8 @@ aliasesArchive:
 - /resources/blog/flashing-your-windows-phone-6-for-dummies
 tags:
 - Windows
+- Install and Configuration
+- System Configuration
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

@@ -31,10 +31,13 @@ tags:
 - People and Process
 - Team Motivation
 - Agile Philosophy
+- Organisational Agility
 - Strategy
-- Agile Product Operating Model
+- Agile Project Management
+- Agile Product Management
+- Agile Leadership
+- Agile Values and Principles
 - Employee Engagement
-- Organisational Culture
 resourceTypes:
 - video
 categories:

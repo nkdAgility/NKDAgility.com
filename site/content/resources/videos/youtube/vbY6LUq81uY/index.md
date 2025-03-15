@@ -25,8 +25,8 @@ preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 437
 isShort: false
 tags:
-- MVP
 - Entrepreneurship
+- MVP
 - Discovery and Learning
 - Pragmatic Thinking
 - Lean Startup

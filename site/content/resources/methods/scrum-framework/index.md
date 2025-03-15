@@ -21,10 +21,7 @@ card:
   title: Scrum Framework
   content: Scrum Framework
 categories: []
-tags:
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
+tags: []
 
 ---
 Description of Scrum Framework.

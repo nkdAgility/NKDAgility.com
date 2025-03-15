@@ -64,12 +64,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the historical practices of management and their influence on current organisational behaviors, relating this to the adoption of Agile methodologies, thus pointing to cultural implications.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, which indirectly relates to organisational culture. However, it lacks direct mentions of cultural elements or their impact on agility and team dynamics. The discussion is more focused on the critique of outdated practices rather than a thorough exploration of organisational culture itself.",
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -118,7 +121,7 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T14:50:36",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -126,7 +129,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions the lack of feedback loops in the context of Agile practices, indicating an awareness of the importance of customer feedback. However, it primarily focuses on historical management practices and critiques of Agile adoption rather than exploring mechanisms for integrating customer feedback into product development. The discussion lacks depth and specific techniques related to feedback loops, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -178,11 +181,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the concept of Agile adoption and contrasts it with older management practices, but it primarily focuses on the critique of traditional methods rather than detailing Agile transformation strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, highlighting a disconnect between stated Agile adoption and actual practices. While it touches on Agile concepts, such as feedback loops and the challenges of true Agile implementation, it lacks a detailed exploration of Agile transformation strategies, frameworks, or case studies, which are essential for a higher confidence score.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -232,30 +238,39 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and critiques their implementation in software development, making this a major but secondary theme while also evaluating management practices from a historical context.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile practices and critiques their implementation in software development, which aligns with the Software Development category. However, the focus is more on historical management practices and their impact on modern Agile methodologies rather than on specific software development techniques or frameworks. The depth of discussion on Agile is limited, primarily highlighting statistics without delving into methodologies or best practices in detail.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:13:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the adoption and implementation challenges of Agile methodologies in comparison to traditional management practices, but does not primarily focus on agile principles or frameworks.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of agile methodologies, highlighting a disconnect between theory and practice. While it touches on agile adoption statistics, it lacks detailed exploration of agile principles, frameworks, or practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:13:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of historical management practices on current Agile adoption and emphasizes the importance of feedback loops, which aligns with Agile principles, but it largely focuses on critiquing Taylorism rather than articulating specific Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, but it does not explicitly mention Agile values or principles. While it touches on the importance of feedback loops, which aligns with Agile principles, the overall focus is more on the critique of traditional management rather than a deep exploration of Agile values.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -277,7 +292,7 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-11T11:45:19",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -285,7 +300,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, highlighting the lack of feedback loops. However, it does not explicitly focus on empirical process control principles or provide in-depth discussions on transparency, inspection, or adaptation, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -316,7 +331,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T14:35:45",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -324,7 +339,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, which relates to organisational change. However, it lacks explicit frameworks or detailed strategies for implementing change, focusing more on the critique of existing practices rather than providing actionable insights or methodologies for transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -418,11 +433,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:13:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the historical context of management practices, particularly focusing on the shortcomings in feedback loops within current agile practices, which relates to systems thinking and organisational dynamics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses historical management practices and critiques the lack of feedback loops in modern agile implementations, which aligns with the themes of organisational dynamics and systems thinking. However, it primarily focuses on the critique of Taylorism and agile practices rather than a comprehensive exploration of organisational physics principles. The mention of feedback loops is relevant but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Customer Retention": {
@@ -436,11 +454,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses historical management practices and their impact on current Agile practices, indicating a critical examination of real-world applications and challenges in implementing Agile. However, it is primarily focused on critiquing past practices rather than offering practical solutions or strategies, which slightly reduces its alignment with pragmatic thinking.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the application of Agile principles in modern organisations. While it touches on the importance of feedback loops and the shortcomings of current practices, it lacks a direct focus on practical problem-solving strategies or real-world applications of Agile, Scrum, or DevOps principles. The discussion is more theoretical and critical rather than providing concrete examples or techniques for navigating complexity in project management.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -805,7 +826,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-10T18:27:25",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -813,7 +834,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses historical management practices and critiques the lack of feedback loops in current Agile implementations, which touches on the importance of learning from past failures. However, it does not explicitly focus on continuous learning principles or techniques for knowledge sharing, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -862,7 +883,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T12:29:57",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -870,7 +891,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile practices and critiques the adoption of Agile methodologies in development environments, which aligns with the category. However, it primarily focuses on historical management practices and their impact on modern work rather than providing in-depth insights into the role of software developers within Agile frameworks. The mention of Agile adoption statistics indicates some relevance, but the overall discussion lacks a strong focus on software developers' roles and practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -928,7 +949,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T17:52:34",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -936,16 +957,19 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, but it does not provide a focused exploration of specific Agile frameworks or their principles. While it mentions Agile adoption statistics, it lacks detailed analysis or case studies related to Agile frameworks, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the critique of traditional management practices in favor of Agile principles; however, it primarily focuses on the historical context and misconceptions about Agile adoption rather than specific Agile strategies or implementation.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, highlighting a disconnect between stated Agile adoption and actual practices. While it touches on Agile principles, it primarily focuses on the critique of traditional management rather than providing a strategic framework or detailed discussion on Agile strategy itself.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1066,12 +1090,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of understanding historical management practices and highlights the need for modern feedback loops, which relate to learning and adaptation in management and Agile practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the lack of feedback loops in Agile adoption, which touches on the importance of learning from past methodologies. However, it primarily focuses on the critique of Taylorism and Agile practices rather than exploring discovery and learning processes in depth. The mention of feedback loops aligns with the category, but the overall discussion lacks a strong emphasis on methodologies that foster innovation and continuous learning.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1111,20 +1138,26 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:13:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and challenges in adopting them, indicating a partial focus on market adaptability and responsiveness to change, but it isn't the main theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, highlighting the lack of feedback loops. However, it does not explicitly focus on strategies for enhancing market adaptability or provide detailed insights into Agile, DevOps, or Lean methodologies. The mention of Agile adoption statistics indicates some relevance, but the overall discussion is more about historical practices than current adaptability strategies.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the historical context of management practices, particularly Taylorism, and its impact on current organizational structures and agile practices, which relates to the interplay between social and technical aspects within organizations.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses historical management practices and their impact on modern organisational structures, which aligns with sociotechnical systems. However, it lacks direct mentions of sociotechnical principles and does not delve deeply into the interplay between social and technical aspects in software delivery.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -1198,21 +1231,27 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of agile methodologies, indicating a concern for organizational change and a cultural shift towards agility, albeit primarily focusing on the issues rather than actionable enterprise agility strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of agile methodologies, but it primarily focuses on team-level practices and the shortcomings of current implementations rather than addressing enterprise-level agility or organisational structures. While it touches on the need for feedback loops, it lacks a comprehensive exploration of frameworks, leadership roles, or cultural aspects of enterprise agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the shortcomings of traditional management practices in the context of modern Agile adoption, highlighting the need for adaptability and feedback loops, which are key elements of business agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, but it does not explicitly focus on the principles or practices of business agility. While it touches on the need for feedback loops and the inadequacies of current practices, it lacks a detailed exploration of how organisations can adapt and innovate in a dynamic market environment, which is central to the concept of business agility.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1261,7 +1300,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:40:17",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1269,16 +1308,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, but it does not focus on the practical aspects of product delivery. While it mentions Agile and feedback loops, it lacks detailed exploration of product delivery methodologies, testing, deployment, or cross-functional team dynamics, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:13:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the flaws of traditional management practices and the need for agile methodologies, which aligns with the BetaCodex principles of moving away from rigid structures. However, it primarily focuses on critiquing Taylorism and not directly on BetaCodex principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the historical context of management practices, particularly critiquing Taylorism and its relevance to modern agile practices. While it touches on the need for change and the inadequacies of traditional methods, it does not explicitly mention BetaCodex principles or provide a detailed exploration of decentralisation, human-centric approaches, or adaptive cultures. The focus is more on critiquing existing structures rather than advocating for the principles of BetaCodex, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1327,12 +1369,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of feedback loops in modern management practices and critiques traditional linear approaches, indicating a recognition of interconnectedness and systemic issues within organizations.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the lack of feedback loops in current agile implementations, which aligns with Systems Thinking principles. However, it does not explicitly focus on Systems Thinking as a primary topic, and the discussion lacks depth in exploring interconnectedness or holistic analysis.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -1354,21 +1399,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:13:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the historical context of management practices and critiques the misapplication of Agile principles, indicating a secondary theme of organisational agility in the context of feedback loops and agility versus traditional practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, highlighting a disconnect between stated intentions and actual practices. While it touches on the importance of feedback loops, which aligns with the principles of agility, the primary focus is on critiquing traditional management rather than exploring strategies for enhancing organisational agility. The depth of discussion is limited, primarily offering a historical perspective without delving into specific agile practices or frameworks.",
     "level": "Tertiary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:13:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adoption and challenges of Agile practices within organizations, referencing statistics and insights relevant to current industry trends, but primarily focuses on historical context and theoretical implications rather than specific news or reviews.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the historical context of management practices and critiques the adoption of Agile methodologies, which aligns with the themes of Agile and technology. However, it lacks direct mentions of recent news or reviews, focusing more on theoretical discussions rather than providing updates or evaluations of tools or practices. The depth of discussion is moderate, primarily reflecting on past practices rather than current trends or reviews.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1420,7 +1471,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:32:28",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1428,6 +1479,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile practices and critiques the adoption of Agile methodologies, which are related to Scrum. However, it does not explicitly discuss Scrum roles, events, or artifacts, nor does it provide in-depth insights into Scrum principles. The focus is more on the historical context of management practices rather than on Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

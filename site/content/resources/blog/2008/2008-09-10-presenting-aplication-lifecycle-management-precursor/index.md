@@ -26,8 +26,7 @@ aliasesArchive:
 - /presenting-aplication-lifecycle-management--precursor
 - /blog/presenting-aplication-lifecycle-management--precursor
 - /resources/blog/presenting-aplication-lifecycle-management-precursor
-tags:
-- Events and Presentations
+tags: []
 preview: metro-aggreko-128-link-1-1.png
 categories: []
 

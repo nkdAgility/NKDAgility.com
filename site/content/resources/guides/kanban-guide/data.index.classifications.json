@@ -46,12 +46,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban, which incorporates systems thinking principles and focuses on optimizing workflows within organisations. However, the primary focus is on Kanban practices rather than a broader discussion of organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Kanban as a strategy for optimising workflows and value delivery, which aligns with systems thinking principles. However, it primarily focuses on the mechanics of Kanban rather than a holistic view of organisational dynamics or the interplay of organisational elements. While it mentions systems thinking, it does not delve deeply into organisational structure, culture, or the broader implications of these practices on organisational behaviour.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -82,7 +85,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:50:23",
+    "calculated_at": "2025-03-14T17:49:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -90,7 +93,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the Kanban methodology, which is a project management framework rather than a direct discussion on product management. While it touches on concepts like value delivery and workflow optimization, it lacks explicit references to product management strategies, customer needs, or business objectives. The depth of discussion is more about Kanban practices than the strategic alignment of product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -139,12 +142,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban practices and metrics that can inform decision-making processes, but the primary focus is on the Kanban methodology rather than structured decision-making itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, detailing its practices and principles without explicitly discussing structured decision-making processes. While it touches on metrics and continuous improvement, which can inform decisions, it lacks a direct emphasis on evidence-based decision-making or collaborative insights as outlined in the category definition.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -205,12 +211,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of visualizing workflows and making elements of the Definition of Workflow transparent, which aligns with the theme of transparency in Agile practices. However, the primary focus is on Kanban practices rather than transparency itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Kanban practices, including the importance of defining and visualising workflows, which aligns with the concept of transparency. However, while it touches on transparency through the visualisation of the Definition of Workflow (DoW) and the need for shared understanding, it does not delve deeply into the broader implications of transparency in Agile processes or team dynamics. The focus remains primarily on Kanban mechanics rather than a comprehensive exploration of transparency as a core Agile principle.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -334,12 +343,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:50:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban practices, which are related to workflow management and continuous improvement, but it primarily focuses on Kanban as a methodology rather than core Agile engineering practices like clean code or TDD.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Kanban, which is a workflow management method rather than a direct discussion of engineering practices like clean code, TDD, or CI/CD. While it touches on aspects of workflow optimisation and continuous improvement, it does not delve deeply into the core principles of Agile engineering practices. The mentions of practices like defining workflows and managing work in progress are relevant but do not constitute a primary focus on engineering practices as defined in the category.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -364,7 +376,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:44:34",
+    "calculated_at": "2025-03-14T17:49:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -372,7 +384,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Kanban as a workflow optimisation strategy rather than directly addressing engineering excellence. While it touches on continuous improvement and metrics, which are relevant to engineering practices, the main emphasis is on Kanban principles and practices rather than broader software craftsmanship or development standards.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -451,12 +463,12 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:10:50",
+    "calculated_at": "2025-03-14T17:49:14",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Kanban practices and theory, with limited discussion on empirical process control principles such as transparency, inspection, and adaptation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -487,12 +499,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:10:50",
+    "calculated_at": "2025-03-14T17:49:14",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on Kanban as a workflow management strategy, which is relevant to software development but does not specifically address the role of software developers within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -580,11 +592,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices and their application in optimizing workflows, which aligns with pragmatic problem-solving strategies. However, it primarily focuses on Kanban theory and practices rather than explicitly addressing Agile or Scrum contexts.",
+    "final_score": 56.0,
+    "reasoning": "The content provides a comprehensive overview of Kanban, focusing on practical applications and strategies for optimising workflows, which aligns well with the principles of Pragmatic Thinking. It discusses real-world applications of Kanban practices, such as defining workflows, managing work in progress, and continuously improving processes. However, while it touches on practical problem-solving, it lacks explicit references to Agile or Scrum frameworks, which slightly diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -619,12 +634,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on Kanban practices and definitions, which are specific Agile methodologies. While it touches on value delivery and workflow optimization, it does not explicitly discuss the broader strategic alignment or implementation of Agile methodologies at an organisational level.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, detailing its practices and principles. While it touches on value delivery and continuous improvement, which are relevant to Agile Strategy, it lacks a direct discussion on the alignment of organisational vision with Agile principles or strategic planning. The depth of discussion on Kanban practices is significant, but it does not fully encompass the broader strategic context required for a strong alignment with Agile Strategy.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -691,12 +709,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Kanban principles and practices but does not specifically address their application in large-scale environments or the challenges of scaling Kanban across multiple teams and departments.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content provides a comprehensive overview of Kanban principles and practices but does not specifically address scaling Kanban in large organisations or the challenges associated with it. While it discusses the core elements of Kanban, it lacks a focus on how these principles can be applied across multiple teams or departments, which is essential for the 'Scaling Kanban' category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -730,12 +751,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on Kanban, which is a framework used within Agile methodologies. While it discusses Kanban practices and principles, it does not explicitly address broader Agile transformation strategies or cultural shifts, making Agile a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban as a methodology rather than discussing Agile transformation as a broader concept. While it touches on principles that can be related to Agile practices, such as continuous improvement and flow optimisation, it lacks explicit discussions on Agile transformation strategies, leadership roles, or change management, which are crucial for the category. Therefore, the confidence score reflects a low direct mention of Agile transformation, moderate conceptual alignment, and limited depth in discussing the category.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -757,12 +781,12 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T12:10:50",
+    "calculated_at": "2025-03-14T17:49:14",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on the Kanban methodology, its practices, and implementation details, which are more aligned with workflow optimisation rather than organisational change strategies or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -880,12 +904,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on Kanban practices and principles, which are related to Agile methodologies. However, it does not explicitly discuss Agile Planning as a central theme, making it a secondary topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban as a methodology for optimising workflow and value delivery, which is related to Agile principles. However, it does not explicitly discuss Agile Planning concepts such as sprints, user stories, or iterative planning. While it touches on aspects of continuous improvement and flow, it lacks a direct focus on planning practices and strategies that align with Agile Planning.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -979,12 +1006,12 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:10:50",
+    "calculated_at": "2025-03-14T17:49:14",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily focuses on the Kanban framework and its practices, with limited discussion on the broader Agile philosophy or principles. While it touches on value delivery and continuous improvement, these are framed within the context of Kanban rather than the overarching Agile mindset.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -997,12 +1024,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Kanban as a methodology for optimising workflow and value delivery, which is relevant to Agile practices. However, it does not focus specifically on Agile Planning Tools or their functionalities, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban as a methodology rather than explicitly discussing Agile Planning Tools. While it touches on concepts relevant to Agile practices, such as workflow management and continuous improvement, it lacks direct references to specific Agile Planning Tools or their functionalities. The discussion is more about Kanban theory and practices than about tools that facilitate Agile planning, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1042,12 +1072,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous improvement within the context of Kanban practices, which aligns with the principles of Continuous Learning, but the primary focus is on Kanban methodology rather than explicitly on Continuous Learning itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, detailing its practices and principles. While it touches on continuous improvement and the importance of optimizing workflows, it lacks a strong emphasis on the broader themes of continuous learning, such as fostering a growth mindset or effective knowledge sharing among team members. The discussion is more about the mechanics of Kanban rather than exploring how these practices contribute to a culture of continuous learning.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1081,12 +1114,12 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:10:50",
+    "calculated_at": "2025-03-14T17:49:14",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the Kanban methodology and its practices for optimising workflow and value delivery, with limited discussion on organisational resilience or change management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1129,12 +1162,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban as a strategy for optimizing value delivery and workflow management, which is relevant to product delivery methodologies. However, it primarily focuses on Kanban practices rather than the broader scope of product delivery processes.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Kanban as a methodology for optimising value delivery, which aligns with the principles of product delivery. It covers key practices such as defining workflows, managing work in progress, and improving processes, all of which are relevant to the delivery of software products. However, the focus is primarily on Kanban itself rather than a broader discussion of product delivery methodologies, which slightly limits its depth in the context of the category.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1156,12 +1192,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban, which is rooted in systems thinking principles, particularly in relation to optimizing workflows and value delivery. However, the primary focus is on Kanban practices rather than a comprehensive exploration of systems thinking as a standalone topic.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Kanban, which is rooted in systems thinking principles, particularly in its emphasis on flow and the interconnectedness of workflow elements. However, while it mentions systems thinking, it primarily focuses on Kanban practices and does not delve deeply into broader systems thinking concepts or methodologies. The discussion of flow and optimization aligns with systems thinking, but the depth of exploration into systems thinking itself is limited.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1204,12 +1243,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices which can enhance workflow efficiency and adaptability, but the primary focus is on the Kanban methodology itself rather than explicitly on market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban as a methodology for optimising workflow and value delivery, which indirectly supports market adaptability through improved efficiency and responsiveness. However, it lacks explicit discussions on Agile, DevOps, or Lean principles as they relate to market adaptability. The mentions of continuous improvement and flow optimisation suggest some alignment with the category, but the depth of discussion does not fully explore the core themes of market adaptability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1285,21 +1327,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices and their role in optimizing workflows, which relates to technical excellence in software development. However, the primary focus is on Kanban as a methodology rather than on engineering practices that enhance agility, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation strategy rather than directly addressing engineering practices that enhance agility in software development. While it discusses practices like defining workflows and managing work in progress, it lacks a strong emphasis on technical excellence principles such as TDD, CI/CD, or modular architecture. The discussion is more about the Kanban methodology itself rather than its integration with technical excellence in engineering.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on Kanban as a methodology for optimising workflows and value delivery, which is a significant aspect of organisational agility. However, it does not explicitly discuss broader themes of organisational agility such as leadership, cultural shifts, or cross-functional teams.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Kanban as a strategy for optimising workflows and value delivery, which aligns with the principles of organisational agility. However, it primarily focuses on the mechanics of Kanban rather than broader organisational agility strategies or cultural shifts. The mention of continuous improvement and the need for adaptability hints at agility, but the depth of discussion is more about the Kanban framework itself than on organisational agility as a whole.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1312,12 +1360,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:49:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Kanban practices and their implementation, which involves team dynamics and collaboration. However, the primary focus is on the technical aspects of Kanban rather than the human factors or processes involved.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, detailing its practices and principles without a significant emphasis on the human factors or team dynamics involved in its implementation. While it mentions 'Kanban system members' and their roles, the discussion lacks depth regarding collaboration, leadership, or the cultural aspects that influence process efficiency. The content is more technical in nature, centring on the mechanics of Kanban rather than the interplay between people and processes.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",

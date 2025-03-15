@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Values and Principles
 - Working Software
+- Agile Strategy
+- Agile Philosophy
+- Agile Project Management
+- Agile Transformation
+- Software Development
+- Pragmatic Thinking
 - People and Process
 - Product Delivery
-- Increment
-- Strategy
-- Agile Product Operating Model
-- Agile Values and Principles
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
 resourceTypes:
 - video
 categories:

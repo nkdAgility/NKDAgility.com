@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to permissions in TFS and provides a practical solution, which aligns with the exploration of tooling. However, it primarily focuses on a single case rather than a broader application of techniques or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS (Team Foundation Server) and provides a practical solution to a problem encountered while using the tool. However, while it touches on practical techniques, the discussion lacks depth and does not explore broader methodologies or frameworks that enhance Agile or DevOps practices. The focus is primarily on a single instance rather than a comprehensive exploration of tooling or techniques.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -46,7 +49,7 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T17:57:40",
+    "calculated_at": "2025-03-15T04:29:33",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
@@ -54,7 +57,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions learning from a specific experience with TFS, but it primarily focuses on a technical issue rather than exploring broader themes of discovery and learning. While there are elements of personal learning and problem-solving, the discussion lacks depth in terms of methodologies or frameworks that foster innovation and continuous learning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -76,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:35",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses configuration issues related to permissions in TFS, which is relevant to installation and configuration, but it primarily focuses on troubleshooting and user experiences rather than providing clear, actionable installation or configuration instructions.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS, which is a configuration aspect. It provides insights into the configuration of security measures and how they affect user permissions when using labels in TFS. However, while it touches on installation and configuration, the primary focus is more on troubleshooting and user experience rather than providing a step-by-step guide or detailed configuration best practices. Therefore, it aligns with the category but does not fully meet the depth required for a higher confidence score.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -283,7 +289,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T11:50:38",
+    "calculated_at": "2025-03-15T04:29:33",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -291,11 +297,11 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, the focus is primarily on a user permission issue rather than broader Azure DevOps functionalities or best practices. While it mentions TFS and some configuration details, it lacks a comprehensive exploration of Azure DevOps services or methodologies, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T14:55:55",
+    "calculated_at": "2025-03-15T04:29:33",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -303,7 +309,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on personal experiences with TFS and security measures, but it primarily focuses on technical details and problem-solving rather than personal reflections or insights related to Agile, Scrum, or DevOps methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -379,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS permissions and provides a solution, which aligns with the themes of software craftsmanship and principles of maintainability in software development. However, it does not deeply delve into broader best practices or methodologies central to technical mastery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS permissions and label creation, which touches on aspects of software engineering practices. However, it primarily focuses on a troubleshooting scenario rather than broader principles of software craftsmanship or architecture. While there are mentions of security measures and user permissions, the discussion lacks depth in exploring best practices or methodologies that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -487,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses specific user access configurations and security measures in TFS, which touch on operational practices related to access management and process efficiency. However, it primarily focuses on a particular issue rather than broader strategies for operational improvement.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS, which touches on operational practices but lacks a broader focus on techniques or strategies for enhancing operational efficiency. While it mentions a solution to a problem, it does not delve into process optimisation or continuous improvement strategies that are central to the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -625,7 +637,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T16:45:39",
+    "calculated_at": "2025-03-15T04:29:33",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
@@ -633,7 +645,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to permissions in TFS (Team Foundation Server), which is a version control system. However, the focus is primarily on a specific problem rather than broader best practices or methodologies in modern source control. While it does touch on aspects of version control, such as label permissions and security measures, it lacks a comprehensive exploration of the core themes outlined in the category, such as branching strategies or code review processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1222,7 +1234,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:25:04",
+    "calculated_at": "2025-03-15T04:29:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1242,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a specific issue related to permissions in TFS, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about troubleshooting a technical problem rather than exploring best practices or principles within those frameworks. While it touches on developer roles and security measures, it does not delve into the broader themes of collaboration, productivity, or modern engineering practices that are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

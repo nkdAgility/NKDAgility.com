@@ -118,11 +118,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific technical issue related to permissions in a build environment, which is relevant to tooling and practical techniques, but it is primarily focused on troubleshooting rather than a broader exploration of Agile or DevOps methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific technical issue related to permissions for a Build Agent in IIS, which aligns with practical tooling in a DevOps context. However, it lacks broader discussions on methodologies or frameworks, and the depth of the discussion is limited to a single troubleshooting scenario without extensive exploration of tools or best practices.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -436,7 +439,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:11:54",
+    "calculated_at": "2025-03-15T07:30:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -444,7 +447,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific error encountered while running tests against web services and the solution involving permissions for a service account. While it touches on aspects of technical problem-solving, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. The focus is more on troubleshooting rather than on principles of technical mastery, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -493,7 +496,7 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-11T17:05:19",
+    "calculated_at": "2025-03-15T07:30:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -501,7 +504,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses an error related to permissions for a Build Agent, which is tangentially related to Azure Pipelines. However, it lacks a comprehensive discussion on Azure Pipelines itself, focusing instead on a specific issue without broader context or detailed exploration of CI/CD practices, pipeline configurations, or deployment strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -724,12 +727,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to setting up a build environment for testing web services, which falls under software engineering practices, but primarily focuses on a specific technical problem rather than broader development methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific error encountered during the testing phase of a web service, which relates to software development practices. It mentions permissions and configurations necessary for running tests, aligning with best practices in coding and software design. However, the discussion lacks depth in exploring broader software development methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",

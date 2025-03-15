@@ -34,7 +34,7 @@ tags:
 - Resilience and Change
 - Pragmatic Thinking
 - People and Process
-- Beta Codex
+- Discovery and Learning
 - Enterprise Agility
 - Organisational Change
 - Market Adaptability

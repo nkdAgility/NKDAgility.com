@@ -31,10 +31,10 @@ tags:
 - Coaching
 - Discovery and Learning
 - Continuous Learning
-- Practical Techniques and Tooling
-- Scrum Team
-- Agile Transformation
-- Mentoring
+- Team Collaboration
+- Personal
+- Organisational Agility
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

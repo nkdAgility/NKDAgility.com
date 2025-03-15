@@ -2,7 +2,7 @@
 title: 'Agile Leadership: Empowering Managers with the Right Skills'
 description: Discover why training is essential for managers transitioning to agile leaders in a complex world. Join Martin Hinshelwood for insights on thriving teams!
 date: 2023-11-29T07:00:23Z
-weight: 680
+weight: 645
 ResourceId: W3cyrYFXDfg
 ResourceType: videos
 ResourceImport: true
@@ -34,11 +34,12 @@ tags:
 - People and Process
 - Agile Transformation
 - Agile Strategy
+- Evidence Based Management
 - Decision Making
+- Organisational Change
 - Pragmatic Thinking
 - Agile Project Management
-- Evidence Based Leadership
-- Organisational Agility
+- Continuous Learning
 resourceTypes:
 - video
 categories:

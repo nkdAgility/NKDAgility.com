@@ -31,6 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Empirical Process Control
+- Agile Planning
 - Agile Product Management
 - Agile Philosophy
 resourceTypes:

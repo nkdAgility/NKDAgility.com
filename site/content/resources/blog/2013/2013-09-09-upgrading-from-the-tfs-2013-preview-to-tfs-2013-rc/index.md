@@ -24,6 +24,10 @@ aliasesArchive:
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
 - Install and Configuration
+- Software Development
+- Windows
+- System Configuration
+- Practical Techniques and Tooling
 categories: []
 
 ---

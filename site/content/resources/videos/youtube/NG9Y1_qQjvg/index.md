@@ -26,6 +26,10 @@ duration: 438
 isShort: false
 tags:
 - Install and Configuration
+- Release Management
+- System Configuration
+- Practical Techniques and Tooling
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

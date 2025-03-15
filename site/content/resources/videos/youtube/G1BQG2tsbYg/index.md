@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
+- Agile Planning
 - Market Adaptability
 - People and Process
-- Organisational Agility
+- Agile Project Management
 - Agile Strategy
+- Organisational Agility
+- Pragmatic Thinking
 - Agile Values and Principles
-- Enterprise Agility
-- Organisational Physics
-- Strategy
-- Agile Planning
+- Agile Transformation
 resourceTypes:
 - video
 categories:

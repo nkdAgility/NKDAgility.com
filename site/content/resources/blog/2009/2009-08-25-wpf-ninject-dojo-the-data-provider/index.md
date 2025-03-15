@@ -30,8 +30,6 @@ tags:
 - Software Development
 - Technical Mastery
 - Practical Techniques and Tooling
-- Windows
-- Technical Excellence
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

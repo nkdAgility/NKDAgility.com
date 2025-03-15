@@ -25,12 +25,7 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- Collaboration Tools
-- Transparency
-- Application Lifecycle Management
-- Team Collaboration
-categories:
-- Social Technologies
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -28,12 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Professional Scrum
+- Team Performance
+- Software Development
 - Agile Frameworks
 - Scrum Master
 - Agile Leadership
 - People and Process
 - Technical Leadership
 - Scrum Product Development
+- Value Delivery
 resourceTypes:
 - video
 layout: video

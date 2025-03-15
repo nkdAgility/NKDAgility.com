@@ -34,7 +34,7 @@ tags:
 - Software Development
 - Scrum Product Development
 - Accountability
-- Pragmatic Thinking
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

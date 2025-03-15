@@ -8,7 +8,7 @@ ResourceImportId: 46108
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-04-19
-weight: 495
+weight: 420
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,10 +28,10 @@ tags:
 - Agile Project Management
 - Increment
 - Software Development
-- Agile Philosophy
-- Agile Transformation
 - Agile Product Management
 - Agile Values and Principles
+- Agile Philosophy
+- Agile Transformation
 - Software Developers
 - Team Performance
 categories:

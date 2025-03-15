@@ -29,12 +29,12 @@ tags:
 - Agile Project Management
 - Software Developers
 - Pragmatic Thinking
-- Engineering Practices
+- Agile Product Management
 - Technical Leadership
 - Working Software
+- Agile Frameworks
 - Agile Transformation
 - Product Delivery
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

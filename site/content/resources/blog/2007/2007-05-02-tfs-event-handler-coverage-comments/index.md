@@ -26,8 +26,7 @@ aliasesArchive:
 - /tfs-event-handler--coverage-&-comments
 - /blog/tfs-event-handler--coverage-&-comments
 - /resources/blog/tfs-event-handler-coverage-comments
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

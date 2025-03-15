@@ -1,21 +1,27 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in making informed decisions and placing bets on features, which aligns with hypothesis-driven development principles. However, it primarily focuses on the responsibilities and skills of a product owner rather than on the systematic process of formulating and testing hypotheses.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:50:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Product Owner in an Agile environment, focusing on strategic decision-making and value maximization. While it touches on aspects like customer feedback and market trends, it lacks a clear emphasis on hypothesis formulation, experimentation, or validated learning, which are central to Hypothesis Driven Development.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in making decisions and placing bets on features, which implies a hypothesis-driven approach. However, the primary focus is on the responsibilities and understanding of the product owner role rather than on systematic experimentation or testing ideas.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the responsibilities and strategic aspects of the Product Owner role in Agile environments, with no explicit discussion of experimentation or hypothesis-driven approaches. While it touches on decision-making and value maximization, it does not delve into systematic testing of ideas or validation of assumptions, which are central to the 'Experimentation' category.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -28,12 +34,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner, including their responsibilities related to the Product Backlog, but primarily focuses on the broader scope of the Product Owner's role beyond just backlog management.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Product Owner's role, which includes managing the product backlog, but it primarily focuses on the broader responsibilities and strategic aspects of the role rather than the specifics of backlog management. While the backlog is mentioned, it is not the primary focus, and the depth of discussion on backlog techniques and practices is limited.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -97,12 +106,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role and responsibilities of a product owner within an Agile framework, highlighting aspects of leadership and accountability. However, it primarily focuses on the technical and functional aspects of the product owner role rather than broader Agile leadership themes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:50:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Product Owner, which is a leadership position within an Agile framework. It touches on strategic thinking, decision-making, and the importance of relationships, which align with Agile leadership principles. However, the primary focus is on the responsibilities of the Product Owner rather than on broader Agile leadership practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -133,21 +145,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in Agile, which is related to delivering working software, but it primarily focuses on the responsibilities and skills of the product owner rather than directly addressing the delivery of functional software.",
+    "calculated_at": "2025-03-14T20:50:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, highlighting responsibilities that contribute to delivering working software, such as prioritising the backlog and making strategic decisions. However, it primarily focuses on the role itself rather than directly addressing the characteristics or delivery of working software. While it touches on aspects like value maximisation and customer feedback, it lacks detailed exploration of software quality and functionality, which are crucial to the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the responsibilities of a product owner, including decision-making aspects related to budget control and prioritising the product backlog. However, it primarily focuses on the role and scope of the product owner rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Product Owner's role in decision-making, particularly in prioritising the product backlog and making strategic choices that influence the company's budget and product direction. It aligns with the category by emphasising evidence-based decision-making through market analysis, customer feedback, and competitor insights. However, while it touches on these themes, the depth of discussion on structured methodologies and frameworks for decision-making is somewhat limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -265,12 +283,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a product owner in maximising value and making informed decisions, which relates to innovation capabilities. However, it primarily focuses on the responsibilities and understanding of the product owner role rather than directly measuring or enhancing the organisation's capacity to innovate.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, focusing on strategic decision-making and value maximization. However, it lacks a direct emphasis on innovation capabilities or Evidence-Based Management principles. While there are mentions of market leadership and proactive approaches, the primary focus remains on the responsibilities of the Product Owner rather than on fostering a culture of innovation or measuring innovation capabilities.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -349,12 +370,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner within the Agile framework, which is a significant aspect of software development practices, particularly in relation to Scrum. However, it primarily focuses on the responsibilities and skills of the product owner rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within an Agile framework, which is a key aspect of software development methodologies. It delves into responsibilities, strategic decision-making, and the importance of backlog management, all of which are relevant to the software development lifecycle. However, while it touches on Agile practices, it lacks a broader discussion on software engineering techniques or methodologies, which slightly limits its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -385,12 +409,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a product owner within an Agile context, touching on accountability and value maximisation, which are aligned with Agile principles. However, it primarily focuses on the responsibilities and skills of the product owner rather than the core Agile values and principles themselves.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the role of a Product Owner within an Agile environment, touching on aspects like value maximization and strategic decision-making. However, it primarily focuses on the responsibilities and tasks associated with the role rather than explicitly discussing Agile values and principles. While there are mentions of Agile practices, the content does not delve deeply into the foundational beliefs of Agile methodologies, such as the Agile Manifesto or the twelve principles of Agile software development.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -610,12 +637,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner within an Agile framework, touching on aspects of accountability, value maximisation, and strategic decision-making, which are relevant to Agile strategy. However, the primary focus is on the product owner's responsibilities rather than a broader discussion of Agile strategy as a whole.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a Product Owner within an Agile framework, highlighting strategic thinking, decision-making, and value maximization. While it touches on aspects of Agile strategy, such as the importance of aligning product direction with market needs and stakeholder relationships, it primarily focuses on the responsibilities and challenges of the Product Owner role rather than a broader organisational strategy. The discussion is relevant but lacks comprehensive coverage of Agile strategy as a primary focus.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -646,12 +676,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in making informed decisions based on market trends and organisational needs, which aligns with sensemaking principles. However, the primary focus is on the responsibilities and skills of the product owner rather than a broader exploration of sensemaking as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the complexities of the Product Owner role and the need for strategic decision-making, which aligns with sensemaking principles. However, it primarily focuses on the responsibilities and skills of a Product Owner rather than exploring broader frameworks or models of sensemaking in organisational contexts. The discussion on decision-making and understanding market dynamics contributes to the sensemaking theme, but it lacks depth in exploring frameworks or case studies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -718,12 +751,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner within the Scrum framework, highlighting responsibilities and the importance of understanding Agile principles. However, it primarily focuses on the product owner's role rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within an Agile framework, discussing responsibilities and strategic thinking. While it touches on Agile principles, it does not delve deeply into broader Agile transformation strategies or methodologies, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -745,12 +781,12 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T15:29:00",
+    "calculated_at": "2025-03-14T20:49:13",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the role and responsibilities of a product owner within an Agile framework, focusing on backlog management and decision-making rather than on broader organisational change strategies or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -775,12 +811,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in Agile, touching on aspects of accountability, decision-making, and value maximisation, which are relevant to operational practices. However, the primary focus is on the product owner's responsibilities rather than specific operational techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, touching on aspects of decision-making, value maximization, and strategic thinking. However, it primarily focuses on the responsibilities and challenges of the role rather than specific operational practices or methodologies aimed at enhancing operational efficiency. While there are mentions of prioritization and stakeholder relationships, these are not explored in the context of broader operational practices or frameworks like Lean or DevOps.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -847,12 +886,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner, which includes aspects of understanding customer needs and market trends, but primarily focuses on the responsibilities and skills of the product owner rather than specific methodologies or practices of product discovery.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Product Owner, touching on aspects of strategic thinking, decision-making, and the importance of understanding customer feedback and market trends. While it does not explicitly focus on product discovery methodologies, it aligns with the category by emphasising the need for a Product Owner to gather insights and make informed decisions based on customer needs and market demands. However, the primary focus is on the responsibilities of the Product Owner rather than the discovery process itself, which limits the depth of discussion on product discovery techniques.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -865,12 +907,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner within the Agile framework, touching on aspects of backlog management and decision-making that align with Agile Planning principles, but it primarily focuses on the broader responsibilities and skills required for the product owner role.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within an Agile framework, touching on aspects of backlog management and strategic decision-making. While it aligns with Agile principles, it focuses more on the responsibilities of the Product Owner rather than the broader methodologies and practices of Agile Planning itself. The discussion on maximizing value and stakeholder relationships hints at Agile Planning concepts, but the depth of exploration into Agile Planning techniques and practices is limited.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -961,20 +1006,26 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner and touches on the importance of understanding market trends and making strategic decisions based on those trends, which aligns with the theme of trend analysis. However, the primary focus is on the responsibilities and skills of a product owner rather than a comprehensive analysis of trends.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:49:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Product Owner in Agile environments, touching on aspects like strategic thinking and market trends. However, it primarily focuses on the responsibilities and skills required for the role rather than a comprehensive analysis of trends in Agile or DevOps. While there are mentions of business trends and competitor analysis, these are not explored in depth or connected to broader implications for organisational practices, which is essential for a strong alignment with the Trend Analysis category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner within an Agile context, touching on aspects of value delivery and the importance of understanding the broader implications of the role. However, it primarily focuses on the responsibilities and skills of the product owner rather than the overarching Agile philosophy.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of a Product Owner within an Agile environment, touching on aspects of value delivery, strategic decision-making, and the importance of relationships and continuous learning. However, it primarily focuses on the responsibilities and tasks associated with the Product Owner role rather than the broader Agile philosophy itself. While it aligns with some core themes, it lacks a comprehensive exploration of Agile principles and values, which limits its classification as primarily about Agile Philosophy.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -988,11 +1039,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a product owner, which includes aspects of backlog management and decision-making related to Agile planning, but it primarily focuses on the broader responsibilities and skills required for the role rather than specific Agile planning tools or methodologies.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the role of a Product Owner, which includes managing a backlog, but it primarily focuses on the broader responsibilities and strategic aspects of the role rather than on specific Agile Planning Tools or methodologies. While backlog management is mentioned, it is not the primary focus, and the discussion lacks depth on Agile planning tools themselves.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -1024,48 +1078,63 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in relation to market trends and long-term value creation, which aligns with strategic goals. However, the primary focus is on the responsibilities and skills of the product owner rather than explicitly defining or articulating strategic goals.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:49:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, highlighting strategic thinking, decision-making, and value maximization. While it touches on aspects of strategic goals, such as prioritizing features based on market trends and long-term value, the primary focus remains on the responsibilities and skills of the Product Owner rather than explicitly defining or articulating long-term strategic objectives. The depth of discussion on strategic decision-making contributes positively, but the overall emphasis is more operational than strategic.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding the product owner role and the need for training to broaden knowledge, which aligns with the theme of continuous learning, but it primarily focuses on the responsibilities and scope of the product owner role.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:50:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous learning for Product Owners, emphasising that training is just the beginning and that ongoing education is crucial for success. However, while it touches on continuous learning, the primary focus is on the responsibilities and strategic aspects of the Product Owner role rather than a deep exploration of continuous learning principles or practices. Therefore, while there is a significant mention of continuous learning, it is not the main focus of the content.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the decision-making responsibilities of a product owner, including assessing value and making informed choices based on market trends and probabilities. However, the primary focus is on the role and responsibilities within Agile and Scrum, making decision theory a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the responsibilities of a Product Owner, including decision-making and strategic thinking, which are relevant to decision theory. However, it primarily focuses on the role within Agile and Scrum contexts rather than exploring decision-making processes in uncertain environments or the application of heuristics and biases. The discussion lacks depth in decision theory concepts and does not explicitly mention key topics such as probability or behavioural economics.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in an agile context, touching on aspects of organisational responsiveness and decision-making that align with enterprise agility principles, but it primarily focuses on team-level practices and the product owner's responsibilities.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within an Agile framework, discussing responsibilities and skills necessary for the position. While it touches on aspects of strategic thinking and decision-making that could relate to enterprise agility, it lacks a broader organisational context and does not address key topics such as frameworks for scaling agility or organisational structures that support agility. The discussion is more centred on team-level practices rather than the enterprise-level implications of agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in maximising value and making decisions that impact budget and functionality, which aligns with Lean principles. However, the primary focus is on the product owner role within Agile, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within an Agile framework, discussing responsibilities and strategies for maximising value. However, it does not explicitly reference Lean principles or methodologies, nor does it delve into Lean-specific tools or concepts such as waste reduction or continuous improvement. While there are elements of value maximisation that align with Lean thinking, the overall emphasis is on Agile practices, leading to a low confidence score in the Lean category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1138,12 +1207,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the broader role of a product owner, touching on aspects of learning and understanding necessary for effective product management, but primarily focuses on the responsibilities and expectations of the role rather than on discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:49:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Product Owner in depth, touching on aspects of continuous learning and the importance of adapting to market needs and customer feedback. However, the primary focus is on the responsibilities and strategic thinking required in the role rather than on broader methodologies for discovery and learning. While it mentions the need for continuous learning and relationship-building, these are secondary to the main discussion about the Product Owner's duties.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1165,39 +1237,51 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:57:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the accountability of the product owner role within Agile, highlighting the importance of understanding responsibilities and decision-making. However, it primarily focuses on the role itself rather than broader themes of transparency and accountability within Agile teams.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the accountability aspect of the Product Owner role, particularly in terms of budget management and decision-making. However, while it touches on the importance of relationships and strategic thinking, it lacks a strong focus on transparency and open communication, which are crucial for the category. The discussion is more centred on the responsibilities and challenges of the role rather than fostering an environment of transparency and accountability within a team context.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a product owner and touches on the tools and techniques relevant to that role, but it primarily focuses on the responsibilities and mindset of a product owner rather than practical application of specific Agile or DevOps tools.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, touching on strategic thinking, decision-making, and the importance of tools and techniques for effective backlog management. However, while it mentions tools and training, the primary focus is on the responsibilities and mindset of a Product Owner rather than a detailed exploration of specific Agile and DevOps tools or methodologies. Thus, it aligns with the category but lacks depth and direct mentions of practical techniques.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner and mentions training classes, which are related to events, but the primary focus is on the responsibilities and skills of a product owner rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of a Product Owner in detail, including responsibilities and the importance of training. However, it primarily focuses on the theoretical aspects of the role rather than specific events or presentations. While it mentions training classes, it does not provide insights from actual events or discussions, which is essential for a higher confidence score in the 'Events and Presentations' category.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in relation to market trends and the importance of making strategic decisions to lead the market, which aligns with the theme of market adaptability. However, the primary focus is on the product owner's responsibilities rather than broader market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, highlighting strategic thinking, decision-making, and the importance of understanding market trends and customer feedback. While it does touch on aspects of market adaptability, such as anticipating market needs and leading rather than following, the primary focus is on the responsibilities of the Product Owner rather than on broader strategies for market adaptability. The depth of discussion on how these responsibilities contribute to market responsiveness is moderate, leading to a solid but not overwhelming alignment with the category.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1228,21 +1312,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner and mentions training classes, which are relevant to Agile methodologies, but it primarily focuses on the responsibilities and skills of the product owner rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in an Agile environment, touching on responsibilities and skills rather than focusing on specific products or literature. While it does mention training and tools, it lacks detailed reviews or analyses of specific books or software products related to Agile methodologies. The discussion is relevant but does not fully align with the core themes of the category.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a product owner within an agile framework, touching on aspects of adaptability and value delivery, which are relevant to business agility, but primarily focuses on the responsibilities and skills of the product owner rather than broader business agility principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, touching on aspects of strategic thinking, decision-making, and value maximization, which are relevant to business agility. However, it primarily focuses on the responsibilities of the Product Owner rather than broader principles of business agility or organisational adaptability. While there are mentions of market responsiveness and the importance of understanding customer needs, the depth of discussion is more centred on the role itself rather than the overarching theme of business agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1276,12 +1366,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner within an agile framework, touching on aspects of organisational responsiveness and adaptability, but primarily focuses on the responsibilities and skills of the product owner rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a Product Owner within an Agile framework, highlighting strategic thinking, decision-making, and the importance of customer feedback. While it touches on aspects of organisational agility, such as adaptability and responsiveness, it primarily focuses on the responsibilities of the Product Owner rather than broader organisational strategies or cultural shifts. The discussion lacks depth in exploring how these roles contribute to overall organisational agility, thus limiting its alignment with the category.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1306,12 +1399,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T15:29:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:49:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in relation to organisational dynamics and decision-making, highlighting the interplay between social aspects (relationships, understanding the business) and technical aspects (product backlog management, budgeting). However, the primary focus is on the responsibilities and skills of the product owner rather than a broader sociotechnical systems analysis.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Product Owner in an Agile environment, touching on aspects of decision-making, strategic thinking, and stakeholder relationships. However, it primarily focuses on the responsibilities and skills of the Product Owner rather than the broader sociotechnical interactions within an organisation. While there are elements that hint at the interplay between social and technical systems, such as the importance of relationships and communication, the discussion lacks depth in exploring how these elements collectively influence software delivery and team effectiveness.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1372,7 +1468,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T11:53:09",
+    "calculated_at": "2025-03-14T20:49:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1380,7 +1476,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of a product owner, which touches on aspects of leadership, such as accountability and decision-making. However, it primarily focuses on the responsibilities and skills required for the product owner role rather than broader leadership practices or strategies. While there are mentions of decision-making and understanding market trends, the depth of discussion does not fully align with the core themes of leadership in an Agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

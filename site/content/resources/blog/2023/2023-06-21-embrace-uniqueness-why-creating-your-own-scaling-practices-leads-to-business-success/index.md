@@ -29,9 +29,9 @@ aliasesArchive:
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
 - Organisational Agility
-- Agile Strategy
 - Business Agility
 - People and Process
+- Agile Strategy
 - Enterprise Agility
 - Organisational Culture
 categories:

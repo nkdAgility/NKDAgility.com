@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management of build servers and the use of tags to optimise the build process, which relates to enhancing developer productivity and application lifecycle management, but it is primarily focused on specific practices rather than a broader discussion of platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the management of build servers and the use of tags to enhance the build process, which aligns with the principles of Platform Engineering. It focuses on optimising developer productivity by addressing issues related to build failures and server management, which are key aspects of Internal Developer Platforms (IDPs). However, while it provides practical insights, it lacks a broader discussion on the overarching concepts of Platform Engineering, such as automation and standardisation of tools, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -40,11 +43,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:55:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the complexities involved in managing build servers and the importance of tagging to maintain a clean and efficient build environment, which relates to software code quality and complexity management.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the complexities involved in managing build servers and the importance of tagging to maintain a clean and efficient build environment. It touches on the principles of software quality by emphasising the need for clean installations and avoiding unnecessary components, which aligns with maintainability. However, while it mentions complexity and its management, it does not delve deeply into broader complexity theory or its application in software architecture, which limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
@@ -247,11 +253,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build servers and their management, which relates to deployment and release management in the context of product delivery, but it primarily focuses on technical details rather than broader product delivery methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the management of build servers and the use of tags in a continuous integration environment, which relates to deployment and release management. However, it lacks a broader discussion on methodologies, practices, or the end-to-end process of delivering software products. The focus is more on technical implementation rather than strategic product delivery principles.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -358,11 +367,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build servers and tagging in TFS, which relates to the deployment and maintenance stages of the application lifecycle, but it primarily focuses on technical implementation rather than broader ALM methodologies or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the management of build servers within the context of TFS, which is relevant to the application lifecycle, particularly in deployment and maintenance stages. However, it lacks a comprehensive exploration of ALM methodologies and best practices, focusing instead on specific technical implementations. While it touches on tagging and build management, it does not delve deeply into broader ALM concepts or governance, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -385,11 +397,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how to effectively use build servers in TFS, focusing on tagging, managing dependencies, and maintaining clean build environments, which aligns with best practices in software craftsmanship and engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the technical aspects of managing build servers in TFS, including the use of tags for better organisation and efficiency. While it touches on best practices for maintaining clean build environments, the primary focus is on operational details rather than broader principles of software craftsmanship or architecture. The discussion lacks depth in exploring methodologies or principles that contribute to high-quality software development.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -403,12 +418,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build servers, tagging, and maintaining a clean environment, which are relevant to Continuous Delivery practices, but does not focus primarily on the principles of Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses build servers and tagging in TFS, which relates to automation and managing build environments, but it lacks a direct focus on Continuous Delivery principles. While it touches on aspects of maintaining a production-ready state and the importance of build processes, it does not delve into broader Continuous Delivery methodologies or practices. The discussion is more about operational details rather than the overarching principles of Continuous Delivery.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -493,11 +511,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:55:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses techniques for improving build server management in a TFS environment, focusing on tagging and the operational implications of managing build agents effectively. This relates directly to enhancing operational efficiency within a development context.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the use of tags for managing build servers in TFS, which relates to operational efficiency in software development. It provides practical insights into optimising build processes and managing dependencies, aligning with the core themes of operational practices. However, while it touches on relevant topics, the discussion lacks depth in broader operational strategies and metrics, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -592,11 +613,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:55:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses build servers in the context of Software Development, focusing on the management of build agents, their configuration, and tagging within a development environment which is central to efficient software engineering practices.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the management of build servers in a software development context, specifically within the TFS (Team Foundation Server) environment. It addresses the complexities of maintaining build servers, the importance of tagging for organisation, and the implications for development teams. While it does not delve deeply into broader software development methodologies or practices, it aligns well with the category by focusing on a specific aspect of the software development lifecycle, particularly in relation to CI/CD practices. The discussion is detailed enough to provide practical insights, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -628,12 +652,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:55:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses build servers and tagging in the context of TFS, which relates to source control practices, but it is more focused on build management and infrastructure rather than core version control methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of gated check-ins and build servers, which are relevant to modern source control practices. It provides insights into managing build agents and the importance of tagging in a continuous integration environment. While it does not delve deeply into version control systems like Git or branching strategies, it aligns well with the principles of effective collaboration and project tracking in a modern development context.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -766,12 +793,15 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing build servers in a geographically diverse team, indicating secondary themes related to coordinating development work across different locations, which aligns with some aspects of asynchronous development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses build servers and the management of geographically diverse teams, which hints at asynchronous collaboration. However, it primarily focuses on technical aspects of build management rather than the principles or practices of asynchronous development. The mention of a geographically diverse team is too brief and lacks depth in exploring asynchronous development concepts.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -877,11 +907,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the organization and management of build servers which is related to the delivery of functional software, but it predominantly focuses on server configurations rather than the software itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the management of build servers and the importance of tagging in a continuous integration environment, which indirectly relates to the delivery of working software. However, it lacks a direct focus on the characteristics of working software, customer value, or best practices for ensuring software quality. The discussion is more technical and operational rather than centred on the principles of Agile or Scrum, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -970,11 +1003,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:55:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management and organization of build servers and the importance of tagging in the context of software builds, which relates to release management practices, though it primarily focuses on the technical aspects of build server management.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the management of build servers and the use of tags to improve the build process, which aligns with aspects of release management, particularly in terms of version control and coordination. However, it lacks a broader discussion on release strategies, risk management, or CI/CD practices, which are key topics in release management. The focus is more on technical implementation rather than strategic planning or scheduling of releases.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -997,11 +1033,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:55:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the management of build servers in the context of TFS, which is closely related to Azure Pipelines, and provides insights into managing builds and tagging agents, aligning with CI/CD practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the management of build servers within the context of TFS (Team Foundation Server), which is closely related to Azure Pipelines. It explicitly mentions build agents, tagging, and configurations that are relevant to the automation of builds, which aligns with the core themes of Azure Pipelines. However, it lacks a broader discussion on CI/CD practices and YAML configurations, which are also key aspects of Azure Pipelines. The depth of the discussion is substantial, providing practical insights into managing build servers, but it does not cover all aspects of Azure Pipelines comprehensively.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1024,12 +1063,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing build servers effectively in a team environment, hinting at collaboration and coordination among developers across regions, which is relevant to team dynamics in Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the technical aspects of managing build servers and the use of tags in a development environment. While it touches on the challenges faced by geographically diverse teams, it primarily focuses on technical solutions rather than exploring team dynamics, communication, or collaboration strategies. The mention of a geographically diverse team is relevant but not a primary focus, leading to a low confidence score in the context of team collaboration.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1126,21 +1168,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:55:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build servers and tools that are often associated with Windows environments, specifically mentioning Visual Studio and Silverlight, but does not focus primarily on Windows operating system topics.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses build servers and tagging in the context of TFS (Team Foundation Server), which is often used in Windows environments. However, it does not explicitly focus on Windows operating system features or functionalities. While there are mentions of software that runs on Windows (like Visual Studio and Silverlight), the primary focus is on build management rather than Windows-specific topics such as installation, configuration, or troubleshooting of the Windows OS itself. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management of build servers and how tagging can help streamline the build process, which relates to deployment strategies, but it is focused more on build management rather than purely on deployment methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses build servers and the use of tags in a continuous integration context, which is tangentially related to deployment strategies. However, it primarily focuses on managing build environments rather than specific deployment methodologies. The mention of build agents and their configuration does not directly address the core themes of deployment strategies such as Blue-Green Deployments or Canary Releases, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1162,12 +1210,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses build servers in a geographically diverse team context, which relates to remote working challenges, but primarily focuses on build management rather than remote working practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the challenges of managing build servers for a geographically diverse team, which aligns with remote working. However, it primarily focuses on technical aspects of build server management rather than discussing remote working practices, tools, or strategies in an Agile context. The mention of a geographically diverse team is relevant but not a primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1249,11 +1300,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build servers and related practices, which aligns with automation and CI/CD principles in Agile methodologies. However, it is not primarily focused on Agile engineering practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the management of build servers and the importance of tagging in a continuous integration environment, which aligns with the principles of automation and CI/CD. However, while it touches on relevant practices, it lacks a deeper exploration of clean code, TDD, or refactoring, which are core themes of the category. The focus is primarily on operational aspects rather than engineering methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {

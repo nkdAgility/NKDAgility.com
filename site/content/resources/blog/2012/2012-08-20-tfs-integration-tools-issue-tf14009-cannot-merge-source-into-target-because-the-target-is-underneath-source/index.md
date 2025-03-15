@@ -29,7 +29,11 @@ aliasesArchive:
 - /blog/tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
 - /resources/blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 tags:
+- Software Development
 - Troubleshooting
+- Modern Source Control
+- Practical Techniques and Tooling
+- Install and Configuration
 categories: []
 preview: metro-problem-icon-5-5.png
 

@@ -1,7 +1,7 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T17:07:39",
+    "calculated_at": "2025-03-15T07:38:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the maintenance and deployment of SharePoint applications, which relates to the application lifecycle. However, it lacks explicit mentions of ALM methodologies, best practices, or tools, and does not delve deeply into the stages of the application lifecycle or governance aspects.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -286,7 +286,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:18:05",
+    "calculated_at": "2025-03-15T07:38:36",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly touches on personal experiences, such as starting a new job and recovering from a knee operation, which aligns with the Personal category. However, the primary focus is on technical aspects of SharePoint and job responsibilities, lacking depth in personal reflections or insights related to Agile, Scrum, or DevOps methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -379,7 +379,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T19:01:41",
+    "calculated_at": "2025-03-15T07:38:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -387,7 +387,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the author's new job involving the maintenance and deployment of SharePoint systems, which relates to system configuration. However, the focus is more on personal experiences and general observations rather than detailed discussions on configuration practices or methodologies. While there are mentions of integrating and migrating applications, the depth of technical discussion on system configuration principles is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -736,7 +736,7 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-10T15:15:34",
+    "calculated_at": "2025-03-15T07:38:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -744,7 +744,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the author's new job involving SharePoint and the integration of various applications, which hints at some aspects of digital transformation. However, it lacks explicit discussions on strategic adoption of digital technologies or their impact on business agility and innovation. The focus is more on personal experiences and technical tasks rather than a comprehensive exploration of digital transformation strategies or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1144,7 +1144,7 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-11T10:49:46",
+    "calculated_at": "2025-03-15T07:38:36",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1152,7 +1152,7 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content briefly mentions maintaining and deploying SharePoint systems, which relates to deployment but lacks a focused discussion on specific deployment strategies or methodologies. The mention of integrating applications does not delve into the core themes of deployment strategies such as Blue-Green Deployments or Canary Releases, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1408,7 +1408,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:17:14",
+    "calculated_at": "2025-03-15T07:38:36",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1416,6 +1416,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses personal experiences related to a new job and SharePoint development, with no explicit mention of Scrum principles, roles, or practices. While there is a brief mention of team collaboration, it does not delve into Scrum's framework or its core themes, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

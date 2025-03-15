@@ -51,7 +51,7 @@ videos:
 - title: Overview of The Scrum Framework with Martin Hinshelwood
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 date: 2024-09-17
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 card:
   button:
@@ -62,15 +62,15 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Scrum Product Development
-- Agile Project Management
 - Transparency
-- Scrum Team
 - Professional Scrum
+- Scrum Product Development
 - Empirical Process Control
+- Scrum Team
 - Software Development
 - Agile Product Management
 - Agile Frameworks
+- Agile Project Management
 - Increment
 
 ---

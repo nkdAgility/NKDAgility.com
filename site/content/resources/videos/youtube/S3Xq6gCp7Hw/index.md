@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Professional Scrum
-- Agile Product Management
-- Evidence Based Management
 - Scrum Product Development
-- Evidence Based Leadership
-- Scrum Team
-- Software Development
-- Agile Product Operating Model
+- Product Owner
 - Agile Project Management
+- Pragmatic Thinking
+- Scrum Team
+- Professional Scrum
+- Product Discovery
+- Agile Product Management
+- Agile Product Operating Model
+- People and Process
 resourceTypes:
 - video
 categories:

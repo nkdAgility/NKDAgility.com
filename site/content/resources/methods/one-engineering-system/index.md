@@ -30,9 +30,9 @@ categories:
 - DevOps
 - Engineering Excellence
 tags:
+- One Engineering System (1ES)
 - Software Development
 - Practical Techniques and Tooling
-- One Engineering System (1ES)
 - Operational Practices
 - Strategy
 - Azure DevOps

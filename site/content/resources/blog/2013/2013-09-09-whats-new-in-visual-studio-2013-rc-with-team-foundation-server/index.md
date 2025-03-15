@@ -29,11 +29,7 @@ aliasesArchive:
 tags:
 - Software Development
 - News and Reviews
-- Practical Techniques and Tooling
-- Azure DevOps
-- Collaboration Tools
-categories:
-- Scrum
+categories: []
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

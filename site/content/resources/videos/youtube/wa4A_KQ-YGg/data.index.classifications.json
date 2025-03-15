@@ -10,12 +10,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the 'flipped learning' approach and how it has been experimented with to enhance the learning experience, making experimentation a significant theme, but it is not the primary focus of the overall content.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions 'flipped learning' as an experimental approach to training, but it does not delve into hypothesis-driven methodologies or systematic testing of ideas. While it discusses immersive learning and real-world applications, it lacks a strong focus on experimentation within Agile workflows, which is essential for a higher confidence score.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -37,12 +40,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile training and mentions Scrum, but the primary focus is on immersive training courses rather than Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive training courses and their evolution, touching on Agile and Scrum concepts. However, it primarily focuses on training methodologies rather than in-depth Scrum principles, roles, or practices. While Scrum is mentioned, it is not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -55,12 +61,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive training courses and their benefits, which includes elements of coaching and learning facilitation, but it primarily focuses on training formats rather than coaching practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive training courses and the flipped learning approach, which are related to learning and development. However, it lacks a direct focus on coaching as defined in the category. While it touches on collaborative learning and sharing experiences, it does not delve into the specific techniques or roles of a coach, nor does it emphasise the supportive nature of coaching in Agile contexts. Therefore, while there are elements that align with coaching, they are not the primary focus.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -82,7 +91,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:11:02",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -90,7 +99,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses immersive training courses and their structure, with a focus on flipped learning and participant engagement. While it touches on concepts relevant to product management, such as understanding value in an organisation and the role of product owners, the primary focus is on training methodologies rather than strategic product management. The discussion lacks depth in core product management themes and does not explicitly address the strategic alignment of customer needs, business objectives, or technical capabilities.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -121,12 +130,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:11:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive training courses and their evolution, which relates to enhancing learning experiences and potentially improving organisational agility. However, it primarily focuses on training methodologies rather than a strategic adoption of digital technologies for business transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive training courses and their evolution, focusing on modern learning methodologies like flipped learning and virtual training. While it touches on aspects of transformation in training approaches, it lacks a direct focus on broader digital transformation strategies, organisational culture, or the integration of digital technologies for business agility. The primary emphasis is on training formats rather than the strategic adoption of digital tools for overall business transformation.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -265,11 +277,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses with a focus on Agile training, mentioning Agile and Scrum, but the primary topic is about training formats rather than a deep exploration of Agile frameworks.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Agile training and includes references to Agile concepts like Scrum and Product Owner roles. However, the primary focus is on immersive training courses rather than a detailed exploration of Agile frameworks. While there is some alignment with Agile principles, the depth of discussion on Agile frameworks is minimal, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -340,12 +355,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:11:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive training courses with a focus on Agile methodologies, which is a significant theme, but it primarily centres on training formats rather than software development practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive training courses with a focus on Agile methodologies, which is relevant to software development. However, it primarily centres on training formats rather than software engineering practices themselves. While Agile and Scrum are mentioned, the discussion lacks depth in software development processes and methodologies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -403,7 +421,7 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-11T16:34:36",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -411,7 +429,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions the role of the Product Owner in the context of immersive training but does not focus on the responsibilities, skills, or practices specific to the Product Owner role. The discussion primarily revolves around immersive training methodologies rather than the Product Owner's core responsibilities in Agile and Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -469,7 +487,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T14:25:28",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -477,7 +495,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses immersive training courses and flipped learning experiences, which are not directly focused on the role of software developers in Agile or DevOps contexts. While there are brief mentions of Agile and Scrum, they are secondary to the main topic of training methodologies. The alignment with the core themes of the category is weak, as the content does not delve into best practices, tools, or the impact of Agile on developer productivity. Overall, the discussion lacks depth regarding the specific role of software developers.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -583,11 +601,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:11:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses with a focus on Agile training, including references to Agile principles and roles such as Product Owner and Scrum Master, but it primarily centres on the training format rather than Agile project management itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses immersive training courses with a focus on Agile training, mentioning Agile and Scrum in the context of learning. However, it primarily centres on training formats rather than the core principles and practices of Agile Project Management. While there are references to Agile concepts, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -601,11 +622,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:11:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses in the context of Agile training, highlighting the importance of learning experiences that align with Agile principles. However, the primary focus is on training formats rather than a comprehensive Agile strategy.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses immersive training courses within the context of Agile training, which is relevant to Agile methodologies. However, it primarily focuses on the format and delivery of training rather than strategic alignment, implementation at scale, or organisational vision. While Agile principles are mentioned, the depth of discussion on Agile strategy is limited, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -709,12 +733,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses with a focus on Agile training methodologies, including elements of flipped learning and real-world application, but it primarily centres on training formats rather than a comprehensive Agile transformation strategy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses immersive training courses with a focus on Agile training methodologies, particularly the flipped learning approach. While it mentions Agile and Scrum, the primary focus is on the training format rather than a comprehensive discussion of Agile transformation principles. The content does not delve deeply into the core themes of Agile transformation, such as change management strategies or leadership roles, but it does provide some insights into how immersive learning can enhance Agile practices within organisations.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -736,7 +763,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T18:20:07",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -744,7 +771,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses immersive training courses and their structure, focusing on flipped learning and participant engagement. While it touches on aspects of organisational learning and the application of concepts within a company, it lacks a direct focus on organisational change strategies or methodologies. The mention of participants implementing learnings in their organisations hints at change but does not delve into frameworks or principles of organisational change, thus resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -766,12 +793,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive training courses and their relevance to Agile methodologies, but it primarily focuses on the training format rather than specific operational practices or strategies for enhancing efficiency.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive training courses and their evolution, focusing on the learning experience rather than operational practices directly. While it touches on Agile training and the flipped learning approach, it lacks a strong emphasis on techniques or strategies that enhance operational efficiency within Agile, DevOps, or Lean frameworks. The primary focus is on training formats and participant engagement rather than on improving operational processes or metrics.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1165,20 +1195,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses and methodologies like flipped learning, which are relevant to Agile training techniques. However, it does not focus primarily on specific tools or frameworks that enhance Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive training courses and the flipped learning approach, which are relevant to Agile training methodologies. However, it lacks a direct focus on specific tools or frameworks that enhance Agile and DevOps practices. While it touches on practical techniques, it does not provide in-depth insights into tool selection, integration, or case studies, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses, which may relate to events and presentations in an educational context, but it primarily focuses on the training format rather than specific events or presentations.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses immersive training courses, which are related to Agile training but does not explicitly mention any specific events, presentations, or structured learning experiences. While it touches on concepts relevant to Agile and learning formats, it lacks direct references to events or presentations, making it more of a general discussion on training rather than a focused exploration of events.",
     "level": "Tertiary"
   },
   "Market Adaptability": {
@@ -1228,7 +1264,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-13T16:54:14",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1272,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses immersive training courses and their evolution, touching on concepts like flipped learning and real-world application. However, while it mentions Agile and includes the term 'Business Agility' in hashtags, the primary focus is on training methodologies rather than the principles and practices of business agility itself. The discussion lacks depth in exploring how these training approaches directly contribute to organisational agility or adaptability in a dynamic market environment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1249,12 +1285,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:11:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses and their potential to unlock value within organisations, which aligns with the theme of value delivery. However, the primary focus is on training methodologies rather than direct value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses immersive training courses and their evolution, touching on concepts like flipped learning and real-world application of skills. However, while it hints at value delivery through enhanced learning experiences, it lacks a direct focus on the core principles of value delivery in Agile, Scrum, or DevOps. The discussion is more about training methodologies than about strategies for delivering value to customers.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1267,7 +1306,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T17:46:55",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1275,7 +1314,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses immersive training courses and their evolution, particularly focusing on the flipped learning approach and real-world applications. While it touches on Agile training, it does not explicitly address organisational agility as a primary focus. The discussion is more about training methodologies rather than the broader strategies and cultural shifts necessary for organisational agility. Therefore, while there are relevant elements, they are not sufficiently detailed or central to the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1300,20 +1339,26 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:11:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive training courses and their impact on organisational learning, which relates to the interplay between social and technical aspects in a training context. However, the primary focus is on the training format rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive training courses and their evolution, focusing on learning methodologies like flipped learning and immersive experiences. While it touches on aspects of organisational learning and the potential impact on team dynamics, it lacks a direct exploration of the interplay between technology and organisational structures, which is central to sociotechnical systems. The discussion is primarily centred on training formats rather than the broader sociotechnical implications.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:32:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive training courses within the context of Agile training, making it a significant theme, but it primarily focuses on the training format rather than industry news or reviews.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses immersive training courses within the context of Agile training, which aligns with the category's focus on Agile methodologies. However, it primarily serves as an overview of a specific training format rather than providing industry news or reviews. The discussion lacks depth in terms of evaluating tools or trends, and while it mentions Agile, it does not delve into broader industry updates or insights that would typically characterise content in the News and Reviews category.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
@@ -1354,7 +1399,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T12:19:03",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1362,7 +1407,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses immersive training courses and mentions concepts like flipped learning and assignments related to organisational value, which loosely connect to Agile practices. However, it lacks direct references to specific frameworks like Scrum or Kanban, and the primary focus is on training methodologies rather than the core themes of Social Technologies. The depth of discussion on collaborative learning experiences is present, but it does not sufficiently align with the key topics outlined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1393,12 +1438,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:27:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:11:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile training and immersive learning experiences, which are relevant to the Agile Product Operating Model, but the primary focus is on training formats rather than the model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses immersive training courses and their evolution, touching on Agile training concepts. However, it primarily focuses on training formats rather than the Agile Product Operating Model itself. While Agile is mentioned, the discussion lacks depth in terms of product-centric development, value delivery, and the specific principles of the Agile Product Operating Model. The content does not provide substantial insights into the core themes of the category, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1429,7 +1477,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:26:44",
+    "calculated_at": "2025-03-15T01:10:38",
     "ai_confidence": 32.0,
     "ai_mentions": 100.0,
     "ai_alignment": 25.0,
@@ -1437,6 +1485,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions Scrum in the context of a product owner class and discusses immersive training experiences that could relate to Scrum principles. However, the primary focus is on immersive training rather than Scrum itself, leading to a low confidence score. The discussion lacks depth on Scrum roles, events, or core principles, and while there is a mention of agile concepts, it does not delve into Scrum's specific frameworks or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

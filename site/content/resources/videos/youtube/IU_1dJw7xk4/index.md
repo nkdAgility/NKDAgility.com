@@ -30,13 +30,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Operational Practices
 - Agile Project Management
 - Agile Frameworks
 - Metrics and Learning
 - Software Development
 - Pragmatic Thinking
 - People and Process
-- Operational Practices
 - Practical Techniques and Tooling
 - Agile Transformation
 - Flow Efficiency

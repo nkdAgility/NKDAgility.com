@@ -30,10 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
+- Agile Project Management
+- Team Performance
 - People and Process
+- Agile Frameworks
+- Agile Transformation
 - Discovery and Learning
+- Resilience and Change
+- Scrum Product Development
 - Scrum Team
-- Products and Books
 resourceTypes:
 - video
 categories:

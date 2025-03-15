@@ -28,10 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Developers
-- People and Process
+- Continuous Learning
 - Software Development
+- People and Process
 - Agile Project Management
+- Software Developers
 resourceTypes:
 - video
 categories:

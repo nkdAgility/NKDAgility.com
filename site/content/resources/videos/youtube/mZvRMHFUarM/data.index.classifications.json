@@ -10,7 +10,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T09:48:20",
+    "calculated_at": "2025-03-14T17:01:49",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses estimation and probabilistic forecasting in Agile contexts, which indirectly relates to team collaboration by emphasising the need for teams to analyse work and break it down into smaller chunks. However, it primarily focuses on estimation techniques rather than directly addressing team dynamics, communication, or shared ownership, which are core themes of the 'Team Collaboration' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -103,12 +103,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in software projects, touching on the importance of understanding and analysing work, which aligns with empirical process control principles. However, it primarily focuses on estimation techniques rather than a comprehensive discussion of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with the principles of empirical process control. It emphasises decision-making based on observed evidence and the need for adaptation in response to uncertainty. However, it does not explicitly mention empirical process control or its key figures, and the discussion lacks depth in terms of Agile methodologies and practices.",
+    "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -142,12 +145,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses probabilistic forecasting and confidence levels in software delivery, which relates to the ability to innovate by emphasising understanding and adaptability in project estimation. However, it primarily focuses on estimation techniques rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the challenges of software estimation and introduces probabilistic forecasting as an innovative approach to improve project management. While it touches on the need for adaptability and a shift in mindset, it does not explicitly focus on the broader themes of the Ability to Innovate category, such as frameworks for measuring innovation or the role of Evidence-Based Management. The discussion is primarily centred on estimation techniques rather than a comprehensive exploration of innovation capabilities.",
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -163,11 +169,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in the context of software delivery, which relates to Agile planning, but it does not focus primarily on Agile Planning Tools or methodologies.",
+    "calculated_at": "2025-03-14T17:02:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses estimation and forecasting in Agile projects, which relates to Agile Planning Tools. However, it primarily focuses on the concept of probabilistic forecasting rather than specific tools or methodologies. While it touches on backlog management and team confidence, it lacks detailed exploration of Agile Planning Tools themselves, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Portfolio Management": {
@@ -202,12 +211,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in the context of software delivery, which relates to Agile Planning principles, but it primarily focuses on the challenges of estimation rather than the broader methodologies and practices of Agile Planning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:01:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with Agile principles of adaptability and iterative planning. It mentions the importance of breaking down work into smaller chunks and assessing confidence levels, both of which are key aspects of Agile Planning. However, while it touches on Agile concepts, it does not delve deeply into specific Agile methodologies or practices, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -235,12 +247,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses probabilistic forecasting and confidence levels in estimation, which relates to data-driven decision-making. However, it primarily focuses on estimation techniques rather than the broader principles of Evidence-Based Management.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with the principles of Evidence-Based Management by emphasising data-driven decision-making. It mentions the use of historical data for forecasting and the importance of confidence levels, which are relevant to EBM. However, the focus is more on estimation techniques rather than a comprehensive exploration of EBM principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -343,12 +358,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation and forecasting in software delivery, which relates to Agile principles of flexibility and understanding work. However, it primarily focuses on estimation techniques rather than the core Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:02:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for a probabilistic approach, which aligns with Agile principles of flexibility and responding to change. It emphasises the importance of adapting to uncertainty, which is a core Agile value. However, while it touches on Agile concepts, it does not explicitly reference the Agile Manifesto or its principles, leading to a slightly lower score in direct mentions. The depth of discussion is substantial, providing practical insights into how teams can implement these ideas, thus enhancing the overall confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -448,12 +466,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in software delivery, which relates to Agile principles, but it primarily focuses on the technical aspects of estimation rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:01:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with Agile principles of adaptability and continuous value delivery. It provides practical insights on how to implement this approach, reflecting a strategic mindset. However, while it touches on Agile concepts, it does not explicitly address broader organisational alignment or leadership roles, which slightly limits its depth in the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -466,21 +487,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in the context of software delivery, which relates to Agile practices. However, it primarily focuses on the challenges of estimation rather than a comprehensive discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:02:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with Agile principles of adaptability and responsiveness. It mentions the need for a shift in mindset and practices that can enhance Agile environments, such as reducing batch sizes and focusing on probabilities rather than exact estimates. However, while it touches on Agile concepts, it does not delve deeply into specific Agile frameworks or methodologies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in software delivery, which relates to operational efficiency, but it primarily focuses on the challenges and theories of estimation rather than practical techniques or strategies for improving operational practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of software estimation and proposes probabilistic forecasting as a method to enhance operational efficiency in Agile environments. It aligns well with the core themes of operational practices by focusing on techniques that improve delivery and reduce uncertainty. The depth of discussion is substantial, providing practical insights and strategies for teams to adopt, such as reducing batch size and assessing confidence levels. However, while it touches on operational practices, it does not delve deeply into specific methodologies like Kanban or DevOps principles, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -496,12 +523,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:16",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation and forecasting in software delivery, which relates to working software but is primarily focused on the challenges of estimation rather than the delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses estimation in software projects, which is tangentially related to working software but does not focus on the delivery of functional software or customer needs. It mentions the importance of forecasting and managing uncertainty, which aligns with Agile principles, but lacks depth in discussing working software characteristics or best practices.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -586,12 +616,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses estimation and forecasting in the context of software delivery, which relates to agile principles, but it is not primarily focused on agile methodologies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:02:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses estimation in the context of software projects, emphasising probabilistic forecasting, which aligns with agile principles of flexibility and responsiveness. It mentions the importance of breaking down work into smaller chunks and assessing confidence levels, which are relevant to agile methodologies. However, it lacks direct references to specific agile frameworks like Scrum or Kanban, and does not delve deeply into agile roles or ceremonies, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -733,12 +766,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:46:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of estimation in software projects and the importance of understanding and forecasting probabilities, which relates to decision-making in complex environments. However, the primary focus is on estimation techniques rather than a broader exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with the principles of sensemaking by addressing uncertainty and complexity in decision-making. It provides practical insights into adapting strategies based on historical data and confidence levels, which are relevant to the sensemaking process. However, while it touches on these themes, the primary focus remains on estimation techniques rather than a broader exploration of sensemaking frameworks or leadership roles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -805,7 +841,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:39:28",
+    "calculated_at": "2025-03-14T17:01:49",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -813,7 +849,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses estimation in software projects, focusing on probabilistic forecasting rather than traditional estimation methods. While it touches on aspects of software delivery and team dynamics, it primarily revolves around project management and estimation techniques, which do not directly align with the core themes of Engineering Excellence. The discussion lacks depth in engineering practices such as coding standards, testing methodologies, or CI/CD, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -940,12 +976,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting within software projects, which relates to organisational dynamics and decision-making. However, it primarily focuses on estimation techniques rather than a comprehensive exploration of systems thinking or organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses estimation in software projects and introduces probabilistic forecasting, which touches on organisational dynamics and decision-making. However, it primarily focuses on individual project management techniques rather than a holistic view of organisational behaviour or systems thinking principles. While there are elements of systems thinking, such as the emphasis on adaptability and understanding work dynamics, the content lacks a direct and comprehensive exploration of organisational structure, culture, or the interplay of various organisational elements.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1102,12 +1141,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:01:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in software delivery, touching on team dynamics and the need for understanding within the context of delivery, which aligns with sociotechnical principles. However, it primarily focuses on estimation techniques rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses estimation in software projects, focusing on probabilistic forecasting rather than traditional methods. While it touches on team dynamics and the need for adaptability, it lacks explicit references to sociotechnical systems or the interplay between social and technical elements. The discussion is primarily centred on technical practices without a strong emphasis on organisational context or culture, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1141,12 +1183,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation and forecasting in software delivery, touching on the importance of probabilities and confidence levels, which are relevant to metrics and learning. However, the primary focus is on estimation techniques rather than a broader exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges of software estimation and introduces probabilistic forecasting as a method to improve project outcomes. It directly mentions the importance of using historical data for forecasting, which aligns with evidence-based decision-making. The depth of discussion includes practical takeaways that emphasise continuous improvement and adapting to uncertainty, which are core themes of the Metrics and Learning category. However, while it touches on metrics and learning, it does not delve deeply into specific metrics or feedback loops, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1246,12 +1291,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:01:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in the context of software delivery, which relates to value delivery but is primarily focused on the challenges of estimation rather than directly addressing strategies for delivering value to customers.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects and advocates for probabilistic forecasting, which aligns with the principles of iterative development and maximising customer value. It highlights the importance of adapting to uncertainty and focuses on delivering value through improved forecasting methods. However, while it touches on value delivery concepts, it does not delve deeply into specific Agile methodologies or practices, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1273,12 +1321,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation techniques and forecasting tools in the context of software delivery, which aligns with practical techniques. However, it primarily focuses on the challenges of estimation rather than specific tools or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of software estimation and introduces probabilistic forecasting as a practical technique to improve Agile practices. It mentions the use of forecasting simulation tools, which aligns with the category's focus on practical techniques and tooling. However, the discussion is more theoretical and lacks detailed exploration of specific tools or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1354,21 +1405,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding and forecasting in software delivery, which relates to learning from past experiences and adapting approaches. However, the primary focus is on estimation techniques rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges of software estimation and introduces probabilistic forecasting as a method to improve project outcomes. While it does not explicitly mention 'discovery and learning', it aligns with the core themes of adapting to uncertainty and fostering a more flexible approach to project management. The depth of discussion on how to implement these ideas contributes positively, but the primary focus remains on estimation rather than a broader exploration of learning processes.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T11:59:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:06:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and forecasting in software projects, touching on uncertainty and the need for probabilistic approaches, which aligns with complexity thinking. However, it primarily focuses on practical estimation techniques rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the challenges of estimation in software projects, highlighting the importance of probabilistic forecasting in the face of uncertainty. It aligns well with the themes of complexity thinking, particularly regarding the role of uncertainty and unpredictability in management. The discussion on embracing probabilities and assessing confidence levels reflects an understanding of non-linear dynamics and emergent behaviours in complex systems. However, while it touches on complexity principles, it does not delve deeply into specific frameworks or theories, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1408,11 +1465,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:59:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:02:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation and probabilistic forecasting in the context of software delivery, which relates to Agile principles, but it primarily focuses on estimation techniques rather than the broader Agile Product Operating Model.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses estimation in software projects, focusing on probabilistic forecasting, which is relevant to Agile principles. However, it primarily centres on estimation techniques rather than the broader Agile Product Operating Model. While it touches on concepts like reducing batch size and building confidence, it lacks a comprehensive exploration of product-centric development, cross-functional teams, or continuous feedback mechanisms, which are core to the Agile Product Operating Model.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -1456,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:39:48",
+    "calculated_at": "2025-03-14T17:01:49",
     "ai_confidence": 45.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1464,6 +1524,6 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses estimation in software projects, which is relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum principles. The focus is more on probabilistic forecasting rather than Scrum-specific practices, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

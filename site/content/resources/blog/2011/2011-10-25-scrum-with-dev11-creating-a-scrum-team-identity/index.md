@@ -26,13 +26,8 @@ aliasesArchive:
 - /scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
-tags:
-- News and Reviews
-- Software Development
-- Practical Techniques and Tooling
-categories:
-- Social Technologies
-- Scrum
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

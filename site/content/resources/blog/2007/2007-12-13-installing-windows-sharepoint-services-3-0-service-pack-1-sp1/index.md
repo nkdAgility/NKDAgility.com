@@ -29,8 +29,6 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Troubleshooting
-- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-6-6.png
 

@@ -24,6 +24,12 @@ aliasesArchive:
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
 - Application Lifecycle Management
+- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- Product Delivery
+- Release Management
+- Modern Source Control
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-30-30.png

@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:49:57",
+    "calculated_at": "2025-03-15T05:21:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating source code between Team Foundation Server and Git, which is related to version control but does not explicitly discuss DevOps principles or practices. While it touches on tools and processes that could be part of a DevOps workflow, it lacks a broader discussion on collaboration, automation, or cultural shifts necessary for DevOps. The depth of technical detail is present, but it does not connect these practices to the overarching goals of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T18:02:40",
+    "calculated_at": "2025-03-15T05:21:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical process of migrating source code using Git-Tf and TFS, which is a specific engineering practice. However, it lacks a broader discussion on methodologies or principles that enhance agility or technical excellence in software development. While it does mention some technical details and commands, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:22:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migrating source code to Team Foundation Server (TFS), which is part of the Azure DevOps suite, but the primary focus is on the migration process rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses migrating source code between Team Foundation Server (TFS) instances, which is a part of Azure DevOps. However, it primarily focuses on the technical aspects of using Git-Tf for migration rather than providing a comprehensive overview of Azure DevOps services or methodologies. While it mentions TFS, it lacks a broader discussion on Azure DevOps functionalities, best practices, or integration with other tools, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -382,7 +385,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T14:51:12",
+    "calculated_at": "2025-03-15T05:21:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -390,7 +393,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on the technical process of migrating source code using Git-Tf and TFS, which aligns with the principles of software craftsmanship. However, it lacks a deeper exploration of best practices, clean code principles, or broader engineering methodologies. While it discusses specific commands and tools, it does not provide extensive detail on improving code quality or maintainability, which are key aspects of the Technical Mastery category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -493,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:21:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses methods for migrating source code between systems, which relates to operational practices in terms of improving workflow and efficiency in code management; however, it lacks a broader focus on enhancing operational efficiency through techniques like Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, which is more about implementation than operational practices. While it touches on aspects of workflow management and tool usage, it lacks a broader discussion on operational efficiency, continuous improvement, or metrics that would align it more closely with the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -751,7 +757,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:09:12",
+    "calculated_at": "2025-03-15T05:21:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -759,7 +765,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, which is a specific tool rather than a broader discussion on engineering excellence. While it touches on aspects of software craftsmanship, such as the importance of maintaining history during migration, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement in engineering processes. The depth of technical detail is present, but it does not align closely with the core themes of engineering excellence as defined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1072,7 +1078,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:00:43",
+    "calculated_at": "2025-03-15T05:21:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1080,7 +1086,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the process of migrating source code between Team Foundation Servers using Git-Tf, which involves some aspects of system configuration, such as installation and setup of tools. However, the primary focus is on the migration process itself rather than a comprehensive exploration of system configuration principles or best practices. While there are mentions of installation and command-line usage, the depth of discussion on configuration management and optimisation strategies is limited, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1183,11 +1189,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:21:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges and methods of migrating source code to TFS, which relates to troubleshooting issues that arise during code migration. However, the focus is more on the migration process rather than direct troubleshooting techniques.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of migrating source code and mentions the use of Git-Tf for cloning repositories, which implies a troubleshooting context. However, it lacks a detailed exploration of specific troubleshooting techniques or methodologies, focusing more on the migration process itself rather than diagnosing or resolving issues. The mention of difficulties faced during migration provides some relevance, but the overall depth and focus on troubleshooting are limited.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1228,7 +1237,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T11:55:40",
+    "calculated_at": "2025-03-15T05:21:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1245,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Server and Git, which is relevant to software developers. However, it lacks explicit discussions on Agile or DevOps methodologies, and does not delve into best practices or collaborative aspects of software development. While it provides some depth in terms of technical commands and procedures, it does not align closely with the core themes of the category, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1312,12 +1321,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T05:22:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses migration of source code from Team Foundation Server (TFS) and mentions Git-Tf, which relates to Azure Repos as TFS is part of the Azure DevOps suite. However, the primary focus is on migration processes rather than specific Azure Repos functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses migrating source code to Team Foundation Server (TFS), which is closely related to Azure Repos as TFS is part of the Azure DevOps suite. It mentions Git-Tf, a tool for integrating Git with TFS, and provides specific commands for cloning and pulling repositories. However, while it touches on relevant topics like source control and repository management, it lacks a comprehensive exploration of Azure Repos functionalities, best practices, or CI/CD integration, which are key themes of the category. Therefore, while the content is relevant, it does not fully meet the depth and alignment expected for a high confidence score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",

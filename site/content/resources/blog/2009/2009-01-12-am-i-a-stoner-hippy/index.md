@@ -26,9 +26,7 @@ aliasesArchive:
 - /am-i-a-stoner-hippy-
 - /blog/am-i-a-stoner-hippy-
 - /resources/blog/am-i-a-stoner-hippy
-tags:
-- Personal
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

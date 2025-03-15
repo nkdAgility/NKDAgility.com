@@ -22,20 +22,8 @@ aliasesArchive:
 - /blog/software-development-industrial-revolution
 - /software-development-industrial-revolution
 - /resources/blog/software-development-industrial-revolution
-tags:
-- Pragmatic Thinking
-- Application Lifecycle Management
-- Software Development
-- Working Software
-- News and Reviews
-- Practical Techniques and Tooling
-- Product Delivery
-- Products and Books
-- Release Management
-- Software Developers
-categories:
-- DevOps
-- Engineering Excellence
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

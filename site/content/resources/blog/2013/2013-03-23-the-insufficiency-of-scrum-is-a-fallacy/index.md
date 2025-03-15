@@ -8,7 +8,7 @@ ResourceImportId: 9338
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-23
-weight: 260
+weight: 295
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,16 @@ aliasesArchive:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- People and Process
-- Software Developers
-- Pragmatic Thinking
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Engineering Practices
-- Professional Scrum
-- Scrum Master
-- Software Development
+- People and Process
 - Technical Debt
+- Engineering Practices
+- Software Developers
+- Team Performance
+- Pragmatic Thinking
+- Scrum Master
 categories:
 - Social Technologies
 - Engineering Excellence

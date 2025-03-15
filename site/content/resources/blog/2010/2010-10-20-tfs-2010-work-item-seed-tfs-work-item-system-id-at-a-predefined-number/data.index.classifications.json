@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a specific coding solution related to TFS work item IDs, touching on aspects of code quality and the complexities of using APIs. However, the primary focus is on a practical implementation rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses a specific coding solution for generating work item IDs in TFS, which is a technical implementation rather than a broader discussion on code quality or complexity. While it touches on aspects of coding practices and the use of APIs, it lacks a deeper exploration of complexity theory or its implications on software architecture and design. The focus is more on a practical coding task than on the interplay between code quality and complexity.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -355,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation and management of work items in TFS, which relates to the application lifecycle, but it primarily focuses on a specific technical implementation rather than broader ALM practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) work item management, which is a part of the application lifecycle. However, it lacks a broader discussion on the overall application lifecycle management principles, methodologies, or best practices. While it touches on aspects of work item creation and deletion, it does not delve into governance, compliance, or integration with Agile/DevOps principles, which are key topics in Application Lifecycle Management.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -493,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical solution for setting a predefined starting ID for TFS work items, which aligns with operational efficiency goals, specifically in the context of managing work items and their IDs. However, the focus is more on a specific implementation issue rather than broad operational practices or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific technical solution for managing work item IDs in TFS, which relates to operational practices in terms of process optimisation and workflow management. However, it lacks a broader discussion on operational efficiency or continuous improvement strategies, focusing instead on a singular implementation detail. The depth of discussion is moderate, primarily detailing a coding solution without extensive exploration of operational methodologies.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -631,12 +640,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses how to manipulate work item IDs within TFS (Team Foundation Server), which is related to work item management in a version control system. However, it focuses more on specific implementation details rather than broader source control best practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the use of TFS (Team Foundation Server) for managing work items, which is a form of source control. It provides specific code examples and methodologies for creating and deleting work items, aligning with best practices in version control. However, while it touches on aspects of source control, it lacks broader discussions on collaboration workflows, branching strategies, or integration with DevOps practices, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -658,12 +670,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses TFS work item management but is relevant to Azure Boards as it addresses work item types and creation processes within the Agile framework.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the creation and management of work items in TFS (Team Foundation Server), which is related to Azure Boards. However, it primarily focuses on a specific technical implementation rather than exploring the broader functionalities and best practices of Azure Boards in Agile project management. While it mentions work items and their IDs, it lacks a comprehensive discussion on Agile methodologies, team collaboration, or the integration of Azure Boards with other services, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -748,7 +763,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:33:33",
+    "calculated_at": "2025-03-15T06:46:23",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -756,7 +771,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a specific technical implementation related to TFS work item IDs, which does not directly address broader engineering excellence principles such as software craftsmanship, coding standards, or continuous improvement practices. While it touches on aspects of coding and API usage, it lacks a comprehensive discussion on best practices or quality assurance, leading to a low confidence score in the context of 'Engineering Excellence'.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -880,11 +895,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a specific implementation related to TFS work items, which is a component of working software, but it does not thoroughly cover broader principles or best practices related to delivering functional software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific implementation of creating and managing work items in TFS, which relates to the operational aspect of software. However, it lacks a broader discussion on quality, user requirements, or iterative development, which are key themes of working software. The focus is more on a technical solution rather than on delivering functional software that meets customer needs.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1183,11 +1201,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:46:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:46:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific problem related to setting work item IDs in TFS and provides a method to resolve it, including potential pitfalls and a code example, which aligns well with troubleshooting methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical problem related to setting a starting ID for work items in TFS 2010 and provides a solution using the API. It mentions potential issues with unsupported database changes and the need for a supported method, which aligns with troubleshooting. However, while it does provide some insights into the problem and solution, the depth of discussion on systematic troubleshooting techniques and methodologies is limited, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1228,11 +1249,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses implementing a solution for creating and deleting work items in TFS 2010, which relates to software development practices but does not focus deeply on Agile or DevOps methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) and work item management, which is relevant to software developers. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or broader engineering practices. While it touches on the use of APIs and project management tools, it does not delve into best practices or collaborative strategies that are central to the Software Developers category. Therefore, while there is some relevance, the depth and alignment with the category's core themes are limited.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -1363,12 +1387,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content indirectly addresses throughput by discussing the creation and deletion of work items in TFS, touching upon the rate of work item generation and times for completion. However, the primary focus is not on optimizing the flow of work or directly measuring throughput.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical implementation for creating and deleting work items in TFS, with a focus on ID management rather than the measurement or optimisation of throughput. While it briefly touches on the time taken to create work items, it lacks a comprehensive discussion on throughput metrics, techniques for measurement, or strategies for improvement, which are central to the category of Throughput.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1417,7 +1444,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:49:44",
+    "calculated_at": "2025-03-15T06:46:23",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1425,6 +1452,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a technical solution for managing work item IDs in TFS (Team Foundation Server) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks a direct focus on Scrum methodologies or frameworks, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

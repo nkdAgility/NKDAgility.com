@@ -31,9 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Agile Philosophy
 - Continuous Learning
+- Organisational Change
+- Agile Transformation
+- Pragmatic Thinking
+- Agile Philosophy
 - Change Management
+- Operational Practices
+- Agile Values and Principles
+- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

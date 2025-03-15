@@ -31,8 +31,6 @@ tags:
 - Software Development
 - Install and Configuration
 - Pragmatic Thinking
-- Practical Techniques and Tooling
-- System Configuration
 categories: []
 
 ---

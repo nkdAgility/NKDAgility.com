@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
+- Windows
+- Software Development
 - Install and Configuration
+- Release Management
 - Practical Techniques and Tooling
 - News and Reviews
 - Azure DevOps
-- Release Management
 - System Configuration
-- Agile Planning Tools
-- Frequent Releases
-- Modern Source Control
-- Software Development
+- Application Lifecycle Management
+- Products and Books
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

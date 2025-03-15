@@ -26,14 +26,15 @@ preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Professional Scrum
-- Agile Product Management
+- Agile Project Management
 - People and Process
 - Software Development
 - Agile Frameworks
-- Agile Project Management
+- Agile Product Management
+- Professional Scrum
 - Software Developers
 - Agile Transformation
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -304,7 +304,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T10:45:21",
+    "calculated_at": "2025-03-15T07:28:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -312,7 +312,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content provides statistics related to TFS usage, which is a tool that can be part of Application Lifecycle Management. However, it lacks explicit discussions on the stages of the application lifecycle, best practices, or governance. The mention of 'ALM' in the tags suggests a connection, but the main content does not delve into the core themes of Application Lifecycle Management, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1105,7 +1105,7 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-11T12:11:07",
+    "calculated_at": "2025-03-15T07:28:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1113,7 +1113,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content provides statistics related to Team Foundation Server (TFS), which is closely associated with Azure Repos. However, it primarily focuses on usage statistics rather than discussing Azure Repos functionalities, best practices, or integration in detail. While it mentions version control and check-ins, it lacks a comprehensive exploration of the core themes outlined for Azure Repos, such as branching strategies, pull requests, or CI/CD integration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1405,7 +1405,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:57:36",
+    "calculated_at": "2025-03-15T07:28:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1413,6 +1413,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on TFS usage statistics, which does not directly discuss Scrum principles, roles, or events. While it may relate to project management tools, it lacks explicit mentions of Scrum and does not align with its core themes or provide any depth on Scrum practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

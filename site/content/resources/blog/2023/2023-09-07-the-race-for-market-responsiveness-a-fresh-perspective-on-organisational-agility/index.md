@@ -36,7 +36,6 @@ tags:
 - Resilience and Change
 - Pragmatic Thinking
 - People and Process
-- Strategic Goals
 categories:
 - Social Technologies
 preview: naked-agility-technically-survivalisoptional-1-1.jpg

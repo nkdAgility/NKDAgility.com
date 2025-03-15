@@ -35,6 +35,7 @@ tags:
 - Pragmatic Thinking
 - Install and Configuration
 - System Configuration
+- Operational Practices
 resourceTypes:
 - video
 layout: video

@@ -58,11 +58,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating and guiding a self-organizing team, which aligns with coaching principles, but it primarily focuses on Scrum roles rather than coaching techniques or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions the role of the Scrum Master in facilitating and guiding the self-organization of Scrum teams, which aligns with coaching principles. However, it lacks depth in discussing specific coaching techniques or strategies, and the focus is more on team autonomy rather than the coaching process itself.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -94,12 +97,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum teams in self-organization, which relates to leadership in facilitating team autonomy and collaboration, but it primarily focuses on the concept of self-organization rather than broader Agile leadership principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which touches on aspects of Agile leadership, particularly the role of the Scrum Master in facilitating team autonomy. However, it lacks a broader discussion on leadership strategies, culture building, or the impact of leadership styles, which are crucial for a higher confidence score in Agile Leadership.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -139,12 +145,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaborative decision-making within Scrum teams, which is a relevant aspect of decision-making. However, it primarily focuses on self-organization rather than structured, evidence-based methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on decision-making within the context of self-organization in Scrum teams. However, it lacks a structured discussion on evidence-based methodologies or empirical support, which are crucial for the Decision Making category. The focus is more on team autonomy and collaboration rather than on systematic decision-making processes.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -385,11 +394,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:27",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-organization, which is a key principle of Agile, but it primarily focuses on Scrum teams and their roles, making Agile values a secondary theme.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses self-organization, which is a key principle of Agile methodologies. However, it primarily focuses on Scrum, which is a specific framework rather than the broader Agile values and principles. While it touches on collaboration and autonomy, it lacks a comprehensive exploration of Agile's core values and principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -475,12 +487,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which is relevant to Agile methodologies and the role of software developers, but it does not delve deeply into broader Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content explicitly mentions self-organization within Scrum teams, which is a key aspect of Agile methodologies relevant to software developers. It discusses the autonomy of team members and the collaborative decision-making process, aligning with the core themes of Agile practices. However, the discussion lacks depth and does not cover broader topics such as DevOps integration or specific engineering practices, which limits its overall confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -565,12 +580,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which relates to practical problem-solving and collaboration in Agile contexts, but it does not delve deeply into pragmatic techniques or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, highlighting autonomy and collaboration. However, it lacks a deeper exploration of practical problem-solving strategies or real-world applications of Agile principles, which are essential for a higher confidence score in the category of Pragmatic Thinking.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -622,12 +640,15 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which is a relevant aspect of cross-functional teams, but it primarily focuses on the autonomy and decision-making process rather than the broader concept of cross-functional collaboration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions collaboration within Scrum teams, which is a characteristic of cross-functional teams, but it does not explicitly discuss the concept of cross-functional teams or their benefits. The focus is more on self-organization rather than the broader implications of cross-functional collaboration, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -649,12 +670,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:22",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, highlighting autonomy and collaboration, which are relevant to team motivation. However, it primarily focuses on the concept of self-organization rather than broader motivational strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, highlighting autonomy and collaboration, which are key aspects of team motivation. However, it lacks depth in exploring broader motivational strategies and does not explicitly address the psychological or social aspects of team dynamics.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -715,11 +739,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses self-organization within Scrum teams, which is a significant aspect of Agile transformation, but does not cover broader Agile transformation strategies or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content explicitly mentions self-organization within Scrum teams, which is a key principle of Agile transformation. It aligns with the core themes of Agile by discussing team autonomy and collaboration, essential for fostering an Agile mindset. However, the discussion lacks depth regarding broader Agile transformation strategies and methodologies, which limits its overall confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -733,11 +760,14 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-organization, which relates to the Scrum Values of commitment and respect, but it primarily focuses on the concept of team autonomy rather than explicitly addressing the Scrum Values themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which indirectly relates to the Scrum Values, particularly Commitment and Openness. However, it does not explicitly mention the Scrum Values themselves or provide a detailed exploration of them. The focus is more on the concept of self-organization rather than a direct discussion of the values, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -760,11 +790,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:12",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses self-organization within Scrum teams, which is a significant aspect of Scrum practices, but does not delve into product development or related processes extensively.",
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions the self-organizing nature of Scrum teams, which is a relevant aspect of the Scrum framework. However, it lacks detailed discussion on product development processes, customer feedback, or specific Scrum practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Operational Practices": {
@@ -835,11 +868,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses self-organization within Scrum teams, which relates to team dynamics and the role of the Scrum Master in facilitating collaboration, but does not delve deeply into broader technical leadership principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which relates to technical leadership in terms of team dynamics and collaboration. However, it lacks depth in discussing the principles of technical leadership, such as mentoring, agile practices, or conflict resolution. The focus is primarily on the concept of self-organization rather than a broader exploration of technical leadership roles and responsibilities.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -862,11 +898,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses self-organization within Scrum teams, which is a significant aspect of Agile Planning, but does not primarily focus on planning methodologies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which is a key aspect of Agile methodologies. However, it does not explicitly address Agile Planning principles or techniques in detail. The mention of autonomy and collaboration aligns with Agile values, but the depth of discussion is limited, focusing primarily on team dynamics rather than planning processes.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -964,12 +1003,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses self-organization within Scrum teams, which relates to Agile principles of collaboration and team autonomy, but primarily focuses on a specific framework rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which is a specific framework rather than the broader Agile Philosophy. While it touches on collaboration and autonomy, it lacks a comprehensive exploration of Agile principles and values, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1108,21 +1150,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which is a significant aspect of Agile methodologies and product delivery, but it does not cover broader topics related to the end-to-end process of delivering software products.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which is a key aspect of Agile methodologies relevant to product delivery. However, it lacks a broader discussion on the end-to-end process of delivering software products, focusing instead on team dynamics without addressing planning, testing, or deployment phases.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:17",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum teams and their self-organizing nature, which is relevant to Agile principles, but does not delve deeply into product management aspects or the role of the Product Owner.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of self-organization within Scrum teams, which is relevant to Agile Product Management. However, it lacks a broader discussion on product management practices, prioritisation techniques, or stakeholder engagement, limiting its depth and overall alignment with the category.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1144,11 +1192,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:38",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which relates to complexity thinking, but primarily focuses on Scrum practices rather than a broader application of complexity science.",
+    "final_score": 47.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which aligns with complexity thinking principles. However, it lacks explicit references to broader complexity science concepts and frameworks, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -1243,12 +1294,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which is related to value delivery through team autonomy and collaboration, but it does not primarily focus on value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, which is relevant to value delivery as it highlights the autonomy and collaboration necessary for effective value management. However, it lacks explicit discussions on iterative development, customer value measurement, or continuous delivery practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1261,11 +1315,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:55:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which is a key principle of Agile methodologies that fosters flexibility and responsiveness. However, it primarily focuses on Scrum roles and events rather than broader organisational agility strategies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which is a principle of Agile methodologies that can enhance organisational agility. However, it lacks a broader discussion on how this principle contributes to overall organisational adaptability and responsiveness. The focus is primarily on Scrum roles rather than a comprehensive exploration of organisational agility as defined in the category.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1291,12 +1348,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, highlighting collaboration and decision-making, which are relevant to sociotechnical interactions. However, it primarily focuses on Scrum roles and events rather than a broader exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses self-organization within Scrum teams, highlighting team autonomy and collaboration, which are relevant to sociotechnical systems. However, it lacks a broader exploration of how these dynamics interact with organisational structures or culture, limiting its depth and overall alignment with the category.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1345,7 +1405,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T13:34:55",
+    "calculated_at": "2025-03-14T17:55:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1353,7 +1413,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses self-organization within Scrum teams, which touches on leadership aspects such as autonomy and collaboration. However, it primarily focuses on the mechanics of team dynamics rather than providing a comprehensive exploration of leadership practices or strategies. The mention of the Scrum Master as a facilitator hints at leadership but lacks depth in discussing leadership frameworks or the broader implications of leadership in fostering organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1369,11 +1429,14 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-18T17:28:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which aligns with the principles of decentralisation and human-centric approaches in organisational design, but it primarily focuses on Scrum rather than BetaCodex as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which aligns with the human-centric and decentralised aspects of BetaCodex. However, it lacks a comprehensive discussion on the principles of BetaCodex, such as the broader implications of decentralisation and adaptive cultures. The focus is primarily on Scrum practices rather than a deep exploration of BetaCodex concepts.",
     "level": "Tertiary"
   },
   "One Engineering System (1ES)": {
@@ -1387,12 +1450,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T17:28:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-organization within Scrum teams, which is a significant aspect of Agile methodologies, but it does not primarily focus on the Agile Product Operating Model or its principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which is a component of Agile methodologies. However, it lacks a broader discussion on the Agile Product Operating Model, such as value delivery, product-centric development, or cross-functional team dynamics. The focus is primarily on Scrum practices rather than the holistic approach required for the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

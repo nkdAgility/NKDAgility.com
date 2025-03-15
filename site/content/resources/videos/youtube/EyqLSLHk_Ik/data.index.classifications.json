@@ -193,21 +193,27 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-12T23:32:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of fostering a positive organisational culture that enables team members to be happy, engaged, and motivated, which directly influences product development. It highlights the role of leadership, team dynamics, and the need for a culture of continuous improvement, aligning well with the key topics of the category.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of team dynamics, empowerment, and collaboration, which are core elements of organisational culture. It highlights how a positive culture can enhance employee engagement and product development success. The mention of continuous feedback loops and DevOps practices further aligns with cultural aspects that support Agile methodologies. The depth of discussion on fostering a culture of excellence and the role of leadership in shaping team morale indicates a strong focus on organisational culture.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of engaging with customers and integrating feedback into the product development process, but it primarily focuses on team dynamics and individual decision-making rather than structured feedback loops.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous feedback loops and customer engagement, which are key aspects of customer feedback integration. However, while it touches on these topics, the primary focus is more on team dynamics and empowerment rather than a detailed exploration of customer feedback mechanisms. The mention of feedback loops is significant but not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -220,12 +226,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team dynamics, communication, and decision-making in product development, which are related to transparency. However, it primarily focuses on team engagement and individual decision-making rather than explicitly addressing transparency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of team dynamics, collaboration, and empowerment, which are related to transparency. However, it does not explicitly focus on transparency as a primary theme. The mention of continuous feedback loops and decision-making at the team level hints at transparency but lacks depth in discussing how to promote visibility and openness in Agile processes.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -274,21 +283,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:05:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of enabling teams to deliver value and make informed decisions, which aligns with fostering a culture of innovation. However, it primarily focuses on team dynamics and processes rather than directly measuring or enhancing innovation capabilities.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of team empowerment, collaboration, and continuous feedback, which are relevant to fostering a culture of innovation. However, it lacks explicit references to frameworks or metrics for measuring innovation capabilities and does not focus on Evidence-Based Management principles. The discussion is more centred on team dynamics and morale rather than directly addressing the Ability to Innovate as a primary focus.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T23:32:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T15:12:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the role of team members in product development, emphasising collaboration and engagement, which are key principles of Agile frameworks. It references Scrum terminology and concepts, indicating a significant focus on Agile practices, although it also touches on broader themes of team dynamics and organisational culture.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile principles, particularly within the context of Scrum, highlighting the importance of team dynamics, empowerment, and collaboration. While it does not provide an extensive overview of various Agile frameworks, it aligns with Agile values and practices, particularly in fostering a culture of continuous improvement and team engagement. The depth of discussion on team empowerment and decision-making reflects a solid understanding of Agile principles, but it lacks a broader comparative analysis of different frameworks.",
+    "level": "Tertiary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -301,11 +316,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T23:32:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of team dynamics, communication, and shared ownership in product development, aligning closely with the principles of Agile and Scrum. It emphasises the need for collaboration among team members and the impact of team morale on product success.",
+    "calculated_at": "2025-03-14T19:05:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of team dynamics, collaboration, and empowerment within Agile and DevOps frameworks. It highlights techniques for improving team communication, the role of shared ownership, and strategies for fostering a culture of trust and engagement. The depth of discussion on enabling team members to make decisions and the emphasis on collaboration aligns closely with the core themes of the 'Team Collaboration' category.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -355,11 +373,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T23:32:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:05:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of team dynamics, engagement, and decision-making in the context of software development, particularly within Scrum and DevOps practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of team dynamics and engagement in software development, particularly within the Scrum framework and DevOps practices. It highlights the importance of collaboration, continuous feedback, and empowerment, which are relevant to software development methodologies. However, while it touches on these themes, the primary focus is more on team morale and management rather than specific software engineering practices or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -394,11 +415,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T23:32:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:05:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of team dynamics, collaboration, and the need for individuals to understand the principles behind their work, which aligns with Agile values. However, it primarily focuses on a mentoring program and specific roles within Scrum, making Agile principles a secondary theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of team empowerment, collaboration, and continuous feedback, which align with Agile principles. However, it primarily focuses on team dynamics and practices rather than explicitly addressing Agile values or the Agile Manifesto. The mention of Scrum indicates a framework rather than a discussion of underlying Agile principles, which slightly detracts from its alignment with the category.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -439,11 +463,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-12T23:33:00",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of mentoring in product development, focusing on enabling team members to make informed decisions and fostering a culture of engagement and excellence. While it touches on broader topics like processes and decision-making, the primary theme revolves around mentoring and supporting individuals in their professional growth within Agile environments.",
+    "calculated_at": "2025-03-14T19:05:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses the role of a mentor in product development, emphasising the importance of fostering an environment for team members to thrive. It aligns well with key mentoring themes such as empowerment, continuous feedback, and the development of skills. The depth of discussion on strategies for enabling team engagement and decision-making further supports its relevance to mentoring, although it could benefit from more direct references to mentoring techniques and emotional intelligence.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -484,11 +511,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T23:33:07",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of software developers within the context of product development, Agile methodologies, and DevOps practices. It emphasises the importance of developer engagement, collaboration, and decision-making in building successful products, aligning closely with the key topics outlined for the category.",
+    "calculated_at": "2025-03-14T19:05:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of developers within a Scrum framework, emphasising the importance of team dynamics, empowerment, and collaboration, which are central to Agile and DevOps methodologies. It provides detailed insights into fostering a positive environment for developers, integrating continuous feedback, and embracing DevOps practices, aligning well with the category's focus. However, while it mentions developers and their roles, it also includes broader themes of team management and morale, which slightly detracts from its primary focus on software developers.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -565,20 +595,26 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics, collaboration, and decision-making in product development, which are relevant to Agile practices. However, it primarily focuses on individual roles and processes rather than explicitly addressing scaling Agile across multiple teams or at an enterprise level.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on individual team dynamics, empowerment, and collaboration within product development, which are important aspects of Agile but do not specifically address the scaling of Agile practices across multiple teams or at an enterprise level. While it touches on themes like collaboration and decision-making, it lacks explicit references to frameworks for scaling Agile, enterprise-level strategies, or the coordination of multiple teams, which are essential for the 'Scaled Agile' category.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T23:33:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within a product development context, emphasising the importance of team engagement, decision-making, and real-world applications of Agile and DevOps principles.",
+    "calculated_at": "2025-03-14T19:05:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for empowering teams in product development, emphasising the importance of collaboration, continuous feedback, and decision-making at the team level. It aligns well with the core themes of pragmatic thinking, particularly in Agile and DevOps contexts. The depth of discussion on enabling team engagement and the real-world application of these strategies further supports a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -592,29 +628,38 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T23:33:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:05:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of collaboration, team dynamics, and decision-making in product development, which aligns with agile principles. However, it also covers broader themes of organisational culture and individual roles that extend beyond strict agile methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses several key aspects of Agile Project Management, particularly focusing on team dynamics, empowerment, and collaboration, which are central to agile methodologies. It explicitly mentions Scrum and highlights the importance of continuous feedback and team engagement, aligning well with agile principles. However, while it touches on these topics, it lacks a deeper exploration of specific agile frameworks and practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:05:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of team collaboration, quality, and testing, which are relevant to Continuous Integration, but it primarily focuses on broader themes of team dynamics and product development rather than CI practices specifically.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on team dynamics, empowerment, and collaboration within product development, with only a brief mention of DevOps and Continuous Delivery. It lacks a direct discussion on Continuous Integration principles, practices, or tools, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T23:33:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:05:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of enabling teams to deliver value, the role of happy and engaged employees in product development, and the need for understanding Agile principles and customer engagement, which aligns with Agile Strategy themes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of team dynamics and empowerment, which are crucial in Agile methodologies. It highlights the importance of collaboration, continuous feedback, and decision-making at the team level, aligning well with Agile principles. However, while it touches on Agile concepts, it primarily focuses on team morale and individual roles rather than a comprehensive Agile strategy, which slightly limits its depth in strategic context.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -628,11 +673,14 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T23:33:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:05:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of collaboration among diverse roles in product development, which aligns with the concept of cross-functional teams. However, it primarily focuses on mentoring and individual engagement rather than explicitly detailing the structure and management of cross-functional teams.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of collaboration and diverse roles within teams, which aligns with the concept of cross-functional teams. However, it does not explicitly define or focus on cross-functional teams as a primary topic. The discussion on team dynamics and empowerment is relevant but lacks depth in exploring specific characteristics or best practices of cross-functional teams.",
     "level": "Secondary"
   },
   "Definition of Ready": {
@@ -655,20 +703,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T23:33:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for enhancing team engagement, collaboration, and motivation within a product development context, aligning well with the themes of team dynamics and individual contributions in an agile environment.",
+    "calculated_at": "2025-03-14T19:05:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses various aspects of team motivation, including empowerment, collaboration, and the importance of recognising contributions. It aligns well with the core themes of the category, focusing on strategies to enhance engagement and performance within teams. The depth of discussion is significant, providing actionable insights and methods to foster a motivating environment. Overall, the content is highly relevant to the category of Team Motivation.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T23:33:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:05:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for enhancing team dynamics, collaboration, and engagement within agile teams, focusing on the importance of happy and motivated team members in delivering value. It addresses the role of team members in decision-making and the need for effective communication and understanding of processes, which aligns well with the key topics of the Team Performance category.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of team dynamics, empowerment, collaboration, and continuous feedback, all of which are core themes of Team Performance. It provides detailed strategies for enhancing team morale and effectiveness, aligning closely with Agile principles. The depth of discussion on fostering a collaborative culture and the role of leadership further supports a high confidence score.",
     "level": "Secondary"
   },
   "AI": {
@@ -718,11 +772,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T23:33:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:05:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses aspects of team dynamics, engagement, and decision-making in the context of product development, which aligns with Agile principles. However, it primarily focuses on mentoring and team culture rather than a comprehensive Agile transformation strategy.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses several Agile principles, particularly within the context of Scrum, such as team empowerment, collaboration, and continuous feedback loops. However, while it touches on Agile concepts, it does not delve deeply into specific Agile transformation strategies or methodologies, nor does it provide a comprehensive exploration of the challenges and metrics associated with Agile transformations. The focus is more on team dynamics and morale rather than a structured approach to Agile transformation.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -736,11 +793,14 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:05:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team engagement, collaboration, and decision-making, which are related to Scrum Values. However, it primarily focuses on broader themes of product development and team dynamics rather than explicitly addressing the Scrum Values themselves.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses themes related to team empowerment, collaboration, and the importance of a positive work environment, which align with Scrum Values such as Commitment, Courage, and Respect. However, it does not explicitly mention the Scrum Values or provide in-depth analysis of each value, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -763,20 +823,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T23:34:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:05:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the roles within Scrum, the importance of team dynamics, and the need for effective communication and customer engagement, which are significant themes in Scrum product development. However, it also diverges into broader topics of team motivation and decision-making processes that are not strictly limited to Scrum practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses various aspects of team dynamics and empowerment, which are relevant to Scrum principles. It mentions roles like developers and product owners, and touches on collaboration and continuous feedback, aligning with Scrum practices. However, it lacks a direct focus on specific Scrum events or detailed methodologies, which limits its depth in the context of Scrum Product Development.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T23:34:03",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses strategies for enhancing team engagement and decision-making in product development, which aligns with operational efficiency. However, it primarily focuses on team dynamics and individual roles rather than specific operational practices or methodologies.",
+    "calculated_at": "2025-03-14T19:05:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of team dynamics and engagement, which are important for operational efficiency. It mentions DevOps practices and continuous feedback loops, aligning with operational improvement strategies. However, the primary focus is on team morale and empowerment rather than specific operational practices or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -808,11 +874,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and the importance of collaboration and engagement, which are relevant to the Scrum Master role, but it primarily focuses on broader product development and mentoring rather than specific Scrum Master responsibilities.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses team dynamics, empowerment, and collaboration, which are relevant to the Scrum Master role. However, it lacks direct references to specific Scrum practices or ceremonies, and while it touches on Agile principles, it does not focus explicitly on the responsibilities of a Scrum Master. The discussion is more general about team engagement and product development rather than the specific role of a Scrum Master.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -835,11 +904,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T23:34:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:05:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses mentoring and enabling development teams, fostering a culture of engineering excellence, and the importance of team dynamics and decision-making in product development, which aligns closely with the principles of technical leadership.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of technical leadership, including empowerment, collaboration, and continuous feedback loops, which are essential for guiding development teams. It aligns well with the principles of servant leadership and highlights the importance of team dynamics and decision-making. However, while it touches on relevant topics, it lacks a more structured focus on agile methodologies and specific technical leadership practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -898,11 +970,14 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of enabling team members to be happy and engaged, which relates to psychological safety. However, the primary focus is on product development processes and team dynamics rather than explicitly on psychological safety itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of team morale, empowerment, and collaboration, which are related to psychological safety. However, it does not explicitly mention 'psychological safety' or delve deeply into its specific strategies or impacts. The focus is more on general team dynamics and engagement rather than a concentrated discussion on psychological safety itself.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -916,11 +991,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T23:34:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:05:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses roles within a Scrum Team, the importance of team dynamics, and how team members can collaborate effectively to deliver value. However, it also touches on broader topics related to product development and engineering excellence, making Scrum a significant but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of team dynamics, empowerment, and collaboration, which are relevant to Scrum Teams. However, while it mentions Scrum and roles within a team, it does not delve deeply into specific Scrum practices or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -961,11 +1039,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T23:34:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:05:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of team collaboration, individual engagement, and the mindset required for successful product development, which aligns closely with Agile principles. It emphasises value delivery, continuous improvement, and the role of individuals in achieving common goals, reflecting key aspects of Agile philosophy.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of team dynamics, empowerment, and collaboration, which are core themes of Agile Philosophy. However, it primarily focuses on practical aspects of team management and product development rather than explicitly addressing the foundational principles of Agile or the Agile Manifesto. While it touches on concepts like continuous feedback and value recognition, it does not delve deeply into the broader implications of Agile as a mindset or ethos.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1024,11 +1105,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T23:34:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of enabling team members to understand the principles behind their work, fostering a growth mindset, and creating a culture of engineering excellence, which aligns closely with the principles of Continuous Learning.",
+    "calculated_at": "2025-03-14T19:05:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses several key aspects of Continuous Learning, such as the importance of continuous feedback loops, ongoing training and development, and fostering a culture of collaboration and empowerment. It explicitly mentions the need for knowledge and skills development, aligning well with the principles of a growth mindset and adaptability. The depth of discussion is substantial, providing strategies and insights that promote a culture of learning within teams, although it could further elaborate on specific tools or frameworks that support ongoing education.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1045,12 +1129,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:05:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of enabling teams and individuals within an organisation to make decisions and collaborate effectively, which aligns with fostering a culture of agility. However, it primarily focuses on team-level practices and individual roles rather than broader organisational agility frameworks or structures.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on team-level practices and individual empowerment within product development, which aligns more with team dynamics than with enterprise-level agility. While it touches on concepts like collaboration and continuous feedback, it lacks a broader organisational context and does not discuss frameworks, leadership roles, or metrics related to enterprise agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1144,12 +1231,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of collaboration, decision-making, and understanding interdependencies within teams, which aligns with Systems Thinking principles. However, it primarily focuses on product development and team dynamics rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:05:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses team dynamics and the importance of collaboration, empowerment, and continuous feedback, which are relevant to Systems Thinking. However, it primarily focuses on team management and product development without explicitly addressing Systems Thinking principles or techniques. The mention of feedback loops and a holistic approach indicates some alignment, but the depth of discussion on Systems Thinking concepts is limited.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1171,11 +1261,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team dynamics, decision-making, and the need for effective practices in product development, touching on concepts related to Agile and DevOps. However, it primarily focuses on team culture and motivation rather than specific tools or methodologies, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of team dynamics and engagement in product development, touching on concepts like DevOps and continuous feedback loops. However, it primarily focuses on team morale and empowerment rather than specific tools or methodologies. While there are mentions of DevOps practices, the overall discussion lacks depth in practical techniques and tooling, making it more of a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1363,12 +1456,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of employee happiness, engagement, and motivation in the context of product development, which aligns with organisational psychology. However, it primarily focuses on technical processes and methodologies, making the psychological aspects a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses various psychological aspects related to team dynamics, motivation, and employee engagement, which are core themes of organisational psychology. It explicitly mentions the importance of happiness, empowerment, collaboration, and decision-making in teams, aligning well with the category's focus. However, it also includes references to technical practices like DevOps, which slightly detracts from its primary focus on psychological principles.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

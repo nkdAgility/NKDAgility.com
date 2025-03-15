@@ -58,12 +58,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:24:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engagement and communication in Agile environments, which relates to coaching practices. However, it primarily focuses on issues of silence and stakeholder engagement rather than coaching techniques or the role of a coach.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of fostering engagement and communication within Agile teams, which aligns with coaching principles. It highlights strategies for building trust and creating an inclusive environment, key aspects of effective coaching. However, it does not explicitly mention coaching or delve deeply into coaching techniques, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -274,12 +277,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:25:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and communication in Agile practices, which indirectly relates to the ability to innovate by emphasising informed decision-making and collaboration. However, the primary focus is on Agile processes rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses engagement strategies within Agile teams, which indirectly relates to fostering a culture of innovation. However, it primarily focuses on communication issues and stakeholder involvement rather than directly addressing the measurement or enhancement of innovation capabilities. While there are mentions of strategic objectives and alignment, the overall emphasis is not on the Ability to Innovate as defined in the category.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -304,20 +310,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-11T22:06:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of communication and engagement during Sprint reviews, highlighting techniques to break silence and foster collaboration among team members and stakeholders. It addresses the dynamics of team interactions and the impact of silence on team performance, aligning well with the themes of team collaboration in Agile contexts.",
+    "calculated_at": "2025-03-14T14:59:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of engagement and communication within Agile teams, addressing the detrimental effects of silence during sprint reviews. It aligns well with the core themes of team collaboration by exploring strategies to foster an inclusive environment, encourage diverse feedback, and promote transparency. The depth of discussion is significant, providing actionable strategies and insights into the dynamics of teamwork, which are essential for high-performance outcomes in Agile contexts.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:25:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and feedback during Sprint reviews, which relates to customer satisfaction. However, the primary focus is on the challenges of communication and engagement rather than directly measuring or enhancing customer satisfaction.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and communication in Agile practices, which indirectly relates to customer satisfaction. However, it lacks explicit mentions of customer satisfaction metrics or methodologies, and the focus is more on internal team dynamics rather than directly enhancing customer experience.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
@@ -358,11 +370,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T22:06:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:20:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile practices, specifically focusing on stakeholder engagement during Sprint reviews, which is a key aspect of the Software Development Life Cycle (SDLC) methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically addressing the challenges of silence in sprint reviews and the importance of stakeholder engagement. It discusses key Agile concepts such as trust, autonomy, and alignment, which are central to effective software development practices. The depth of discussion includes strategies for improving communication and collaboration within Agile teams, making it highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -421,11 +436,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-11T22:06:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges faced by Product Owners in engaging stakeholders during Sprint reviews, emphasising the importance of communication and collaboration, which are central to the Product Owner's role.",
+    "calculated_at": "2025-03-14T21:24:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses the role of Product Owners in fostering stakeholder engagement and breaking silence during agile ceremonies, which aligns well with the responsibilities of a Product Owner. It provides specific strategies that Product Owners can implement to enhance communication and engagement, demonstrating a good depth of discussion. However, while the focus is strong, it also touches on broader Agile themes, which slightly dilutes the primary focus on the Product Owner role.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -484,11 +502,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-11T22:06:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:24:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the challenges of stakeholder engagement during Sprint reviews, which is a key aspect of Agile practices. While it touches on the role of product owners and team dynamics, the focus on improving communication and collaboration aligns with the themes relevant to software developers in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the role of silence in Agile teams, focusing on how it affects engagement and communication during sprint reviews. It aligns well with the category by addressing Agile practices, the importance of stakeholder involvement, and the role of product owners in fostering collaboration. The depth of discussion is significant, providing strategies for improvement and emphasising the need for trust and autonomy within teams, which are core themes in Agile methodologies. Overall, the content is highly relevant to software developers working within Agile frameworks.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -547,11 +568,14 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-11T22:06:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and strategies related to stakeholder engagement during Sprint Reviews, highlighting the importance of communication and feedback in the context of the Scrum framework.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of engagement during sprint reviews, highlighting the negative impact of silence and providing strategies to enhance stakeholder participation. It aligns well with the core themes of the Sprint Review, such as stakeholder engagement and the role of product owners. However, while it focuses on the Sprint Review, it also touches on broader Agile principles, which slightly detracts from its primary focus.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -574,11 +598,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T22:06:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for improving stakeholder engagement and communication during Sprint reviews, which aligns with pragmatic problem-solving in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for enhancing engagement in Agile teams, particularly during sprint reviews, which aligns with pragmatic thinking. It addresses real-world challenges such as silence in meetings and offers actionable solutions to foster communication and collaboration. However, while it touches on Agile principles, the focus is more on engagement tactics rather than a comprehensive exploration of pragmatic problem-solving techniques, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -592,11 +619,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T22:07:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of stakeholder engagement and communication during Sprint reviews, which aligns with agile principles and practices.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of engagement in agile teams, particularly during sprint reviews, which is a core aspect of Agile Project Management. It addresses the roles of product owners and strategies for fostering collaboration and communication, aligning well with agile principles. The depth of discussion on stakeholder engagement and the dynamics of agile ceremonies further supports a high confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -610,11 +640,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T22:07:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:24:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and communication during Sprint reviews, which aligns with Agile principles. It highlights the need for informed decision-making and the impact of silence on team dynamics and product direction, indicating a focus on strategic alignment and continuous value delivery. However, the primary focus is on specific Scrum practices rather than a broader Agile strategy, which limits its classification as primarily about Agile Strategy.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of engagement in Agile teams, particularly during sprint reviews, which aligns with the Agile Strategy category's focus on continuous value delivery and customer-centric approaches. It highlights the need for alignment between strategic objectives and daily work, emphasising the role of product owners in fostering an Agile culture. The depth of discussion on strategies for improving stakeholder engagement and the connection to organisational vision further supports a high confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -655,20 +688,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-11T22:07:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of engagement and communication within agile teams, highlighting strategies to break silence and foster collaboration during Sprint reviews. It addresses the psychological aspects of team dynamics, such as fear of speaking up and the impact of stakeholder involvement on team motivation.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses strategies for fostering engagement and collaboration within agile teams, addressing the psychological aspects of silence and its impact on team dynamics. It highlights the importance of trust, autonomy, and alignment, which are core themes of team motivation. The depth of discussion is significant, providing actionable strategies for breaking silence and enhancing stakeholder engagement, thus aligning well with the category's focus.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-11T22:07:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of engagement and communication during Sprint reviews, which directly relates to team dynamics and performance. It addresses strategies for breaking silence and fostering collaboration among team members and stakeholders, aligning well with the key topics of the Team Performance category.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of engagement in agile teams, particularly during sprint reviews, which directly relates to team performance. It addresses strategies for fostering collaboration, such as inviting diverse feedback and creating an inclusive environment, aligning well with the core themes of the category. The depth of discussion is substantial, providing actionable strategies and insights into the role of product owners in enhancing team dynamics. Overall, the content is highly relevant and focused on improving team performance within an agile framework.",
     "level": "Secondary"
   },
   "AI": {
@@ -718,11 +757,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-11T22:07:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges of stakeholder engagement during Sprint reviews, which is a key aspect of Agile practices. It addresses the need for effective communication and collaboration within Agile teams, aligning with the principles of Agile transformation.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the challenges of silence in Agile environments, particularly during sprint reviews, which directly relates to Agile transformation. It aligns well with core themes such as stakeholder engagement, the role of product owners, and the importance of communication in Agile practices. The depth of discussion is significant, providing strategies for enhancing engagement and fostering a collaborative atmosphere, which are essential for successful Agile transformations.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -745,12 +787,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:25:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses engagement and communication issues within Agile practices, which are related to organisational change. However, it primarily focuses on Scrum roles and events rather than broader organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of engagement and communication within agile teams, which aligns with the principles of organisational change. It touches on the role of product owners in fostering an environment conducive to change and highlights strategies for improving stakeholder involvement. However, while it mentions aspects of agile transformation, it does not delve deeply into specific frameworks or methodologies for organisational change, which limits its overall depth in this category.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -763,11 +808,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T22:07:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of stakeholder engagement and feedback during Sprint reviews, which is a key aspect of Scrum product development. It addresses Scrum roles, the significance of communication, and strategies to enhance collaboration within the Scrum framework.",
+    "calculated_at": "2025-03-14T21:24:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of engagement in Agile teams, particularly during sprint reviews, which is a Scrum event. It highlights the role of Product Owners in fostering communication and alignment, aligning with Scrum principles. However, while it touches on Scrum roles and practices, the focus is more on general Agile engagement rather than a deep dive into Scrum product development methodologies.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -799,20 +847,26 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to stakeholder engagement during Sprint reviews, which is relevant to Scrum practices. However, it does not primarily focus on scaling Scrum across multiple teams or organisational levels, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:24:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses engagement in Agile teams, particularly focusing on the role of product owners and strategies for improving stakeholder involvement. However, it does not explicitly address scaling Scrum practices or frameworks, nor does it delve into the complexities of managing multiple teams or projects at an organisational level. While it touches on Scrum roles and events, the primary focus is on communication and engagement rather than scaling principles.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T22:07:36",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in facilitating stakeholder engagement during Sprint reviews and the importance of communication within Agile teams.",
+    "calculated_at": "2025-03-14T21:24:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of engagement in Agile teams, particularly during sprint reviews, which is relevant to the Scrum Master's role in facilitating effective communication and collaboration. However, while it touches on Scrum ceremonies and the dynamics of team interactions, it primarily focuses on broader Agile principles and the role of Product Owners, with less emphasis on the specific responsibilities and practices of Scrum Masters. This results in a moderate confidence score reflecting partial alignment with the category.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -835,11 +889,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-11T22:07:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:24:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and communication during Sprint reviews, which relates to technical leadership principles. It touches on strategies for fostering collaboration and breaking down silos, but the primary focus is on the challenges of silence in agile ceremonies rather than on broader technical leadership themes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of engagement in agile teams, particularly during sprint reviews, which aligns with the principles of fostering collaboration and communication. However, while it touches on aspects of technical leadership, such as the role of product owners in facilitating discussions and promoting transparency, it lacks a deeper exploration of technical leadership principles, mentoring, or agile methodologies. The focus is more on engagement strategies rather than on guiding development teams through technical expertise.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -862,21 +919,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T22:07:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of stakeholder engagement during Sprint reviews, which is a key aspect of Agile Planning. It addresses strategies for improving communication and collaboration within Agile teams, aligning with Agile principles and practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of engagement in Agile teams, particularly during sprint reviews, which aligns with Agile Planning principles. It highlights the need for clear communication of goals and stakeholder involvement, which are crucial for effective planning. However, while it touches on relevant themes, it does not delve deeply into specific Agile Planning methodologies or practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of engagement and communication in Agile practices, particularly in relation to Sprint reviews and stakeholder involvement. While it touches on accountability, it primarily focuses on the issues of silence and lack of engagement rather than a clear, primary discussion on accountability as a concept.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:25:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of accountability in fostering an environment where feedback is encouraged and valued, particularly highlighting the role of product owners in this process. It aligns well with the core themes of accountability, such as ownership and team dynamics, while also providing strategies for enhancing engagement and communication. However, it does not delve deeply into the distinction between accountability and blame or provide extensive examples of accountability practices, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -889,20 +952,26 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of communication and engagement during Sprint reviews, highlighting issues related to silence and stakeholder participation, which are relevant to collaboration. However, it does not focus primarily on specific collaboration tools or their features, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:25:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of engagement and communication within Agile teams, which aligns with the themes of collaboration tools. It mentions strategies for fostering stakeholder engagement and creating an inclusive environment, which are relevant to collaboration. However, it does not explicitly focus on specific collaboration tools or their features, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-11T22:07:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges of silence and lack of engagement in Agile environments, highlighting the fear and reluctance of team members to provide feedback. It addresses the importance of creating a psychologically safe space for open communication and collaboration, which aligns closely with the concept of psychological safety.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of fostering an inclusive environment and encouraging diverse feedback, which are key aspects of psychological safety. It highlights the need for team members to feel comfortable sharing their thoughts without fear of judgment, aligning well with the core themes of the category. The depth of discussion is substantial, providing strategies for engagement and the role of product owners in creating a supportive culture. However, while psychological safety is a significant focus, the content also touches on broader agile practices, which slightly dilutes its primary emphasis.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -916,11 +985,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T22:07:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the dynamics of stakeholder engagement during Sprint reviews, the role of the Product Owner, and the importance of communication and collaboration within a Scrum Team.",
+    "calculated_at": "2025-03-14T21:24:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of product owners and the importance of communication and engagement within Agile teams, which aligns with Scrum Team dynamics. However, it primarily focuses on general Agile principles and the issue of silence rather than providing in-depth insights into Scrum roles or practices.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -934,12 +1006,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:25:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback during Sprint reviews, which are relevant to release processes, but the primary focus is on Agile and Scrum practices rather than on release management specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses engagement strategies within Agile teams, focusing on the dynamics of sprint reviews and stakeholder involvement. While it touches on aspects of communication and alignment, it lacks a direct focus on release management practices such as version control, release scheduling, or CI/CD. The discussion is more about Agile methodologies and team dynamics rather than the specific processes involved in managing software releases.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -961,11 +1036,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T22:08:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:24:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of stakeholder engagement and feedback in Agile practices, highlighting the need for collaboration and communication, which are central themes of Agile philosophy.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of engagement and communication within Agile teams, highlighting the role of trust, autonomy, and alignment, which are core themes of Agile Philosophy. It addresses the impact of silence on team dynamics and the necessity for stakeholder involvement, aligning well with the principles of collaboration and continuous improvement. The depth of discussion is substantial, providing strategies for enhancing engagement and fostering a culture of open communication, which reflects a strong understanding of Agile as a mindset rather than just a set of practices.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1015,12 +1093,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:25:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and decision-making in relation to product direction, which touches on strategic goals. However, it primarily focuses on operational challenges and team dynamics rather than explicitly defining or articulating long-term objectives.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of strategic objectives and their connection to daily work, which aligns with the category of Strategic Goals. It highlights the need for clear communication of goals and the role of product owners in fostering alignment. However, the primary focus is on engagement strategies rather than a comprehensive exploration of long-term objectives or frameworks for measuring strategic goals, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1033,21 +1114,27 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making processes in the context of Agile and Scrum, particularly focusing on stakeholder engagement and informed decision-making. However, it primarily revolves around Agile practices rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:25:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement strategies in Agile teams, focusing on communication and stakeholder involvement, which indirectly relates to decision-making processes. However, it lacks explicit references to decision theory concepts such as heuristics, biases, or frameworks. The primary focus is on Agile practices rather than decision-making under uncertainty, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:24:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement and communication challenges in Sprint reviews, which are relevant to fostering a culture of agility and collaboration. However, it primarily focuses on team-level practices rather than broader organisational implications.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses team-level agile practices, focusing on engagement strategies within agile teams rather than addressing broader organisational agility. While it touches on themes like stakeholder engagement and strategic alignment, it lacks a comprehensive exploration of enterprise-level frameworks or structures that support agility across the organisation.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1129,12 +1216,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:24:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in the context of Agile practices, which relates to learning from experiences and improving team dynamics. However, the primary focus is on the challenges of communication and engagement rather than on broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of engagement and communication in Agile teams, which aligns with the themes of fostering a culture of innovation and continuous learning. It highlights strategies for breaking silence and encouraging feedback, which are essential for iterative processes. However, while it touches on learning and discovery, the primary focus is on addressing silence in Agile practices rather than a broader exploration of discovery methodologies.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1168,12 +1258,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:24:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses techniques for improving stakeholder engagement during Sprint reviews, which relates to Agile practices. However, it primarily focuses on the challenges of communication and engagement rather than specific tools or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of engagement in Agile teams and offers strategies for improving stakeholder involvement during sprint reviews. While it touches on Agile practices and roles, it lacks a direct focus on specific tools or methodologies that enhance Agile and DevOps practices. The discussion is more about the cultural aspects of Agile rather than practical techniques or tooling, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1351,12 +1444,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses engagement, communication, and team dynamics within the context of Agile practices, which are relevant to organisational psychology. However, the primary focus is on Scrum roles and events, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:25:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses engagement and communication within agile teams, which touches on psychological aspects of organisational behaviour. However, it primarily focuses on Agile methodologies and practices rather than delving deeply into psychological theories or principles. While it mentions trust and autonomy, the overall emphasis is on practical strategies for improving team dynamics rather than a thorough exploration of organisational psychology.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1393,12 +1489,12 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T17:08:29",
+    "calculated_at": "2025-03-14T21:24:08",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses engagement and communication in agile practices, but it primarily focuses on Scrum roles and events rather than the principles of BetaCodex or decentralised organisational design.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

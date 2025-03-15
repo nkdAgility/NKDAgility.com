@@ -94,7 +94,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T15:21:23",
+    "calculated_at": "2025-03-15T07:49:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -102,7 +102,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to the TFS admin tool, which is part of the Azure DevOps suite. However, it does not provide a comprehensive overview or detailed insights into Azure DevOps functionalities or best practices. The mention of TFS (Team Foundation Server) indicates a connection to Azure DevOps, but the focus is primarily on a minor technical issue rather than broader discussions on CI/CD, project management, or collaboration practices within Azure DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -226,7 +226,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T10:53:37",
+    "calculated_at": "2025-03-15T07:49:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -234,7 +234,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on a specific issue with the TFS admin tool, which does not provide a comprehensive view of the application lifecycle stages or best practices. While it touches on a problem related to user permissions, it lacks depth in discussing governance, compliance, or integration with ALM principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -463,7 +463,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:18:27",
+    "calculated_at": "2025-03-15T07:49:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -471,7 +471,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to user permissions in the TFS Admin Tool, which touches on system configuration. However, it lacks a comprehensive exploration of configuration methodologies or best practices. The mention of a problem and its fix is relevant but does not delve deeply into broader configuration strategies or principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1408,7 +1408,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:22:34",
+    "calculated_at": "2025-03-15T07:49:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1416,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a technical issue related to the TFS admin tool and user permissions, with no explicit mention of Scrum principles, roles, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth and detail regarding Scrum, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

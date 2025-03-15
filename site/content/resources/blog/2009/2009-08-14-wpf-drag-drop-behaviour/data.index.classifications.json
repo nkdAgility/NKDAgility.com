@@ -40,7 +40,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T17:02:38",
+    "calculated_at": "2025-03-15T07:20:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses the implementation of drag and drop functionality within the MVVM pattern in WPF, which touches on code quality and design principles. However, it lacks a thorough exploration of complexity theory or its implications on software architecture. While it mentions encapsulation and modular design, the focus is more on practical coding examples rather than a deep analysis of code complexity or best practices in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -745,7 +745,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:42:46",
+    "calculated_at": "2025-03-15T07:20:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -753,7 +753,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the implementation of drag and drop functionality within the MVVM pattern, which touches on principles of software craftsmanship and coding standards. However, it primarily focuses on a specific technical implementation rather than broader engineering excellence practices such as quality assurance, CI/CD, or technical debt management. While there are mentions of encapsulation and design patterns, the depth of discussion does not fully align with the key topics of engineering excellence, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -793,7 +793,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T12:08:19",
+    "calculated_at": "2025-03-15T07:20:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -801,7 +801,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a technical implementation of drag and drop functionality within the MVVM pattern, which is a specific application of programming concepts rather than a broader discussion on pragmatic thinking in Agile or Scrum contexts. While it does touch on practical problem-solving and the importance of encapsulation, it lacks a direct focus on Agile methodologies or the broader themes of adaptability and critical thinking in complex environments. The depth of discussion on the specific implementation is significant, but it does not sufficiently align with the core themes of pragmatic thinking as defined.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1180,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting issues related to the drag and drop functionality within the MVVM pattern, but also includes a significant amount of implementation detail that may not strictly focus on diagnosing and resolving problems.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific issue related to implementing drag and drop functionality within the MVVM pattern, which aligns with troubleshooting software issues. It provides insights into the challenges faced and the solutions found, particularly in the context of WPF. However, while it does touch on troubleshooting aspects, the primary focus is more on implementation and enhancement rather than systematic problem-solving techniques or methodologies, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1225,7 +1228,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:42:41",
+    "calculated_at": "2025-03-15T07:20:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1236,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a specific technical implementation of drag and drop functionality within the MVVM pattern in WPF, which is a software development topic. However, it lacks direct discussions on Agile or DevOps methodologies, which are central to the category. While it does touch on best practices related to MVVM, it does not explore broader themes such as team dynamics, collaboration, or the integration of Agile and DevOps principles. Therefore, the confidence score reflects a moderate alignment with the category, primarily due to the technical nature of the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,12 +1249,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses drag and drop behavior in WPF while referencing the MVVM pattern, indicating an understanding of software design principles. However, it is primarily focused on implementation details rather than encompassing broader engineering practices or methodologies such as TDD or CI/CD.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific implementation of drag and drop functionality within the MVVM pattern, which is a design pattern rather than a core engineering practice. While it touches on encapsulation and some principles of clean code, it lacks a broader discussion on Agile methodologies, TDD, CI/CD, or other key topics outlined in the Engineering Practices category. The focus is more on practical coding examples and personal experiences rather than established engineering practices.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

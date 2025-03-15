@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Product Owner
 - People and Process
+- Value Delivery
 - Agile Product Management
 - Products and Books
 resourceTypes:

@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2008, which is related to application lifecycle management, but it primarily focuses on technical setup rather than the broader methodologies or practices of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2008, which is a tool related to Application Lifecycle Management. However, it does not explicitly discuss the broader methodologies, practices, or stages of the application lifecycle. While it touches on aspects of deployment and some operational issues, it lacks depth in discussing governance, compliance, or integration with Agile and DevOps principles. The mention of ALM in tags is too brief to significantly impact the confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -295,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2008, which is part of the Azure DevOps suite, but primarily focuses on technical setup rather than broader Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS 2008, which is a predecessor to Azure DevOps. While it mentions TFS, it does not delve into Azure DevOps services or methodologies, and lacks a focus on CI/CD practices or Agile project management. The discussion is more technical and specific to TFS rather than aligning with the broader Azure DevOps category.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -322,12 +328,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2008, touching on technical practices and problem-solving related to software deployment, but it primarily focuses on the installation process rather than broader engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2008, which is a technical task. However, it lacks a direct discussion on broader engineering practices or methodologies that enhance agility in software development. While it touches on some technical aspects, such as authentication issues and server configuration, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there is some relevance, the overall focus is more on operational setup rather than on enhancing engineering practices.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -958,12 +967,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the process of installing and configuring TFS 2008, touching on technical aspects of software setup and issues related to software engineering practices, but does not delve deeply into broader topics related to technical mastery or software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2008, which is a technical task. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on some technical aspects, such as authentication issues and server configuration, these are more operational than strategic, leading to a lower confidence score in the context of Technical Mastery.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1198,12 +1210,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:29",
+    "calculated_at": "2025-03-15T07:37:52",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content discusses the installation and configuration of TFS 2008, which is a tool used in software development. However, the focus is more on technical setup rather than working software delivery or Agile principles, making it only marginally relevant.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1234,7 +1246,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T17:07:26",
+    "calculated_at": "2025-03-15T07:37:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1242,7 +1254,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides a practical guide on setting up TFS 2008, detailing specific issues encountered and solutions applied, which aligns with pragmatic thinking. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the strategic implications of these practices, resulting in a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",

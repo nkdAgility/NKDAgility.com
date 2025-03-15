@@ -28,6 +28,7 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - People and Process
+- Working Software
 resourceTypes:
 - video
 sitemap:

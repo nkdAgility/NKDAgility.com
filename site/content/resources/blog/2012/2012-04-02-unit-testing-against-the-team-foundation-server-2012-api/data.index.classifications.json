@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses unit testing and authentication issues related to the Team Foundation Server API, which touches on code quality and testing practices. However, it primarily focuses on practical implementation rather than a deep exploration of complexity theory or its principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses unit testing in the context of the Team Foundation Server (TFS) API, which involves aspects of code quality and testing practices. It mentions Test Driven Development (TDD) and the challenges of authentication in automated tests, which relates to maintainability and performance. However, while it touches on best practices and the complexities of testing, it lacks a deeper exploration of complexity theory or broader architectural implications, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -76,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses authentication issues and solutions related to using the Team Foundation Server (TFS) API, which involves aspects of configuration and setup for unit testing. However, the primary focus is on unit testing and development practices rather than a comprehensive guide on installation or configuration.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges and solutions related to authentication when using the Team Foundation Server (TFS) API, which is relevant to the installation and configuration of TFS in a development environment. It provides specific code examples and outlines the process of setting up service credentials for unattended access, which aligns with the category's focus on configuration best practices. However, the primary focus is on unit testing rather than a comprehensive guide to installation or configuration, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -121,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:56:47",
+    "calculated_at": "2025-03-15T05:59:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -129,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on unit testing and authentication issues related to the Team Foundation Server (TFS) API, which are more aligned with software development practices rather than DevOps principles. While there are mentions of build servers and automated testing, the discussion lacks a comprehensive exploration of DevOps practices such as Continuous Integration (CI) or Continuous Delivery (CD). The content does not delve into the cultural shifts, tools, or metrics typically associated with DevOps, leading to a lower confidence score in its alignment with the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -244,12 +250,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:07",
+    "calculated_at": "2025-03-15T05:59:00",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses unit testing and authentication issues related to the Team Foundation Server API, which are not central to the methodologies and practices of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -493,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses techniques related to unit testing and authentication in a cloud environment, which can be seen as operational practices in the context of software development. However, the primary focus is on specific coding challenges rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on unit testing and authentication issues related to the Team Foundation Server (TFS) API. While it touches on aspects of Test Driven Development (TDD) and mentions the need for efficient testing practices, it lacks a direct focus on operational efficiency or the application of Agile, DevOps, or Lean methodologies. The discussion is more technical and specific to coding practices rather than broader operational strategies or improvements.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -886,12 +895,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses unit testing and authentication issues related to a software application, which are relevant to ensuring software quality and functionality. However, the primary focus is on technical implementation rather than a broader discussion of working software principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses unit testing and authentication issues related to the Team Foundation Server (TFS) API, which are relevant to ensuring software quality and functionality. However, while it touches on aspects of working software, such as Test Driven Development (TDD) and integration testing, it lacks a broader discussion on delivering functional software that meets customer needs. The focus is more on technical implementation details rather than the overarching principles of working software in Agile or Scrum frameworks.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -904,12 +916,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses unit testing and authentication issues related to a build server environment, which are relevant to Continuous Integration practices, but the primary focus is on unit testing rather than CI itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses unit testing and authentication issues related to the Team Foundation Server (TFS) API, which are tangentially related to Continuous Integration practices. While it touches on automated testing, it does not delve into CI principles, best practices, or tools that are central to the CI category. The focus is more on specific technical challenges rather than a broader discussion of CI concepts.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1039,12 +1054,15 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:18",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Behaviour Driven Development (BDD) in the context of testing, but the primary focus is on unit testing and authentication issues with the Team Foundation Server API, making BDD a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses Unit Testing and Test Driven Development (TDD) with a brief mention of Behaviour Driven Development (BDD) at the end. While it touches on some principles related to BDD, such as the need for clear requirements and testing scenarios, the main focus is on TDD and technical implementation details rather than the collaborative and business-aligned aspects of BDD. Therefore, the confidence score reflects a moderate alignment with the BDD category.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1132,12 +1150,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses authentication issues and unit testing related to the Team Foundation Server (TFS), which operates within the Windows environment. However, the primary focus is on TFS and unit testing rather than Windows OS specifics.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the integration of Team Foundation Server (TFS) with Windows authentication methods, which is relevant to the Windows operating system. It includes specific references to Windows Credential Store and the challenges of managing credentials in a Windows environment. However, while it touches on Windows-related topics, the focus is more on TFS and unit testing rather than a comprehensive exploration of Windows OS features or troubleshooting. Therefore, while there is a strong connection to Windows, it does not fully meet the depth and breadth expected for a primary focus on the Windows category.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1186,11 +1207,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:43:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:59:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting authentication issues encountered while unit testing against the Team Foundation Server API, detailing the problem and the solution implemented.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses specific authentication issues encountered while unit testing against the Team Foundation Server (TFS) API, which aligns with troubleshooting technical problems. It provides insights into the challenges faced and the solutions implemented, such as creating a mock collection selector to bypass UI authentication. However, while troubleshooting is a significant aspect of the content, it is not the primary focus, as it also delves into unit testing practices and TDD methodologies. The depth of discussion on troubleshooting is moderate, as it addresses a specific problem but lacks broader strategies or tools for systematic problem-solving.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1231,11 +1255,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T20:44:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:59:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses unit testing in the context of software development, specifically focusing on Test-Driven Development (TDD) and integration with Team Foundation Server (TFS), which aligns with modern engineering practices relevant to software developers.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses unit testing and authentication issues related to the Team Foundation Server (TFS) API, which is relevant to software developers. It mentions Test-Driven Development (TDD) and provides practical examples of implementing unit tests, aligning with modern engineering practices. However, while it touches on Agile methodologies indirectly through TDD, it lacks a broader discussion on Agile or DevOps principles, which limits its depth in those areas. Overall, the content is focused on a specific technical challenge faced by developers, thus justifying a moderate confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,11 +1276,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T20:44:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:59:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Test-Driven Development (TDD) and unit testing practices, which are central to Agile engineering practices. It also touches on automation and the importance of writing tests before code, aligning well with the key topics of the category.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Unit Testing and Test-Driven Development (TDD), which are key aspects of Engineering Practices. It provides a detailed account of challenges faced while implementing TDD in the context of the Team Foundation Server (TFS) API, including specific code examples and solutions. The mention of TDD and the focus on writing tests before code aligns well with the core themes of the category. However, while the content is rich in practical examples, it does not delve deeply into broader engineering principles such as clean code or CI/CD, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1312,11 +1342,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Team Foundation Server (TFS) and its integration with Azure, focusing on unit testing and authentication issues related to TFS. While it touches on relevant aspects of Azure Repos, the primary focus is on TFS and unit testing rather than Azure Repos functionalities or best practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Team Foundation Server (TFS) and its integration with Azure, particularly focusing on unit testing and authentication issues. While it mentions Azure and TFS, the primary focus is on unit testing and authentication rather than Azure Repos functionalities, best practices, or source control management. The discussion lacks depth in terms of Azure Repos-specific topics such as branching strategies, pull requests, or CI/CD integration, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -1375,11 +1408,14 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T20:44:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:59:13",
+    "ai_confidence": 75.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the author's experiences and challenges with implementing unit tests in the context of Test Driven Development (TDD), including specific references to TDD practices and the importance of writing tests before code. It also touches on the TDD cycle and the integration of unit tests with the development process, making TDD a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses Test Driven Development (TDD) and mentions the author's experience with it, indicating a primary focus on TDD principles. It explores challenges faced while implementing unit tests in the context of TDD, particularly regarding authentication issues. However, while TDD is a significant theme, the content also delves into specific implementation details and integration tests, which slightly detracts from a pure TDD focus. Overall, the content aligns well with TDD principles but includes some secondary topics that reduce the overall confidence score.",
     "level": "Secondary"
   },
   "Social Technologies": {
@@ -1420,7 +1456,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:29",
+    "calculated_at": "2025-03-15T05:59:00",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1428,6 +1464,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on unit testing and integration with Team Foundation Server (TFS), with no direct mention of Scrum principles, roles, events, or artifacts. While it discusses aspects of software development, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The depth of discussion is also limited to technical implementation details rather than Scrum practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

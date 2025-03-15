@@ -22,12 +22,11 @@ categories:
 - Social Technologies
 tags:
 - Events and Presentations
-- People and Process
-- Agile Leadership
 - Agile Transformation
-- Agile Strategy
-- News and Reviews
+- Agile Leadership
+- People and Process
 - Organisational Agility
+- News and Reviews
 - Organisational Change
 
 ---

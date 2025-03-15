@@ -30,6 +30,7 @@ tags:
 - Software Developers
 - Practical Techniques and Tooling
 - Azure DevOps
+- Working Software
 - People and Process
 sitemap:
   filename: sitemap.xml

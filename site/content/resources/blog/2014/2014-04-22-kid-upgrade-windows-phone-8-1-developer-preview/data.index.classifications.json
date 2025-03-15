@@ -46,7 +46,7 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T17:57:57",
+    "calculated_at": "2025-03-15T04:30:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -54,7 +54,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly touches on the theme of discovery, particularly in the context of upgrading to Windows Phone 8.1 and the excitement of new technology. However, it lacks a structured discussion on methodologies or processes that foster innovation and continuous learning. The focus is more on personal experiences and technical details rather than on broader concepts of learning and discovery within product development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -295,7 +295,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T14:56:10",
+    "calculated_at": "2025-03-15T04:30:51",
     "ai_confidence": 32.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
@@ -303,7 +303,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses personal experiences and reflections on using Windows Phone, which aligns with the Personal category. However, it lacks a strong connection to Agile, Scrum, or DevOps themes, and the depth of discussion on personal insights is limited. While there are mentions of personal anecdotes, they do not significantly contribute to the broader themes outlined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -343,11 +343,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:30:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade to Windows Phone 8.1 and provides personal insights and experiences, which aligns with the review aspect of the category. However, it primarily focuses on personal anecdotes and opinions rather than broader industry news or trends.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the upgrade to Windows Phone 8.1, providing personal insights and experiences with the new features and issues encountered. While it does mention the developer preview and some technical aspects, the primary focus is on personal anecdotes and opinions rather than a structured review or industry news. The content lacks a broader analysis of trends or tools in the Agile or DevOps space, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -685,7 +688,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T10:25:21",
+    "calculated_at": "2025-03-15T04:30:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -693,7 +696,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the upgrade process to Windows Phone 8.1 and mentions the concept of a 'Developer Preview', which implies a form of frequent updates. However, the primary focus is on personal experiences and opinions rather than a structured discussion on the principles or practices of frequent releases. The content lacks depth in discussing continuous delivery or deployment strategies, and while it touches on user feedback and issues encountered during updates, it does not provide a comprehensive analysis of frequent release methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -868,7 +871,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T16:45:59",
+    "calculated_at": "2025-03-15T04:30:51",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -876,7 +879,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone and its updates, rather than focusing on the delivery of functional software that meets user needs. While it mentions the upgrade process and some issues encountered, it lacks a structured discussion on software quality, customer feedback, or best practices in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -961,7 +964,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-10T18:34:25",
+    "calculated_at": "2025-03-15T04:30:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -969,7 +972,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with minimal direct discussion of release management practices. While it mentions the process of upgrading to a new version, it lacks depth in discussing strategies, planning, or coordination typically associated with release management. The content does not align with the core themes of release management, such as version control, risk management, or CI/CD practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1063,7 +1066,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T11:50:55",
+    "calculated_at": "2025-03-15T04:30:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1071,7 +1074,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses upgrading to Windows Phone 8.1 and provides a step-by-step guide for obtaining the developer preview. While it touches on aspects of system configuration, such as the update process and potential issues encountered, the primary focus is on personal experiences and opinions regarding the operating system rather than a detailed exploration of system configuration methodologies or best practices. The discussion lacks depth in technical aspects and does not cover broader configuration management or optimisation strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",

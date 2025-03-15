@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Agile Transformation
 - Agile Strategy
+- Organisational Change
+- Strategy
 - People and Process
+- Agile Philosophy
 - Scaling Agility
 - Organisational Agility
+- Pragmatic Thinking
 - Sociotechnical Systems
-- Agile Values and Principles
-- Agile Philosophy
-- Beta Codex
-- Organisational Change
 resourceTypes:
 - video
 layout: video

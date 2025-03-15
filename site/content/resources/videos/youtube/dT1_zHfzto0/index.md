@@ -31,13 +31,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Agile Frameworks
+- Agile Project Management
 - Agile Transformation
-- Scaling Agility
-- Sociotechnical Systems
+- Agile Frameworks
+- Software Development
+- Change Management
 - People and Process
 - Agile Philosophy
+- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:04:31",
+    "calculated_at": "2025-03-15T06:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a tool used in DevOps for managing builds and deployments. However, the focus is primarily on troubleshooting a specific problem rather than broader DevOps principles or practices. While it touches on aspects of automation and build management, it lacks a comprehensive discussion on DevOps culture, CI/CD practices, or metrics for success, which are key themes in the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -355,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:55:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build controllers in Team Foundation Server, which is part of the application lifecycle management process, particularly in the deployment and maintenance stages. However, the focus is primarily on troubleshooting specific problems rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a tool used in the application lifecycle management process. However, it primarily focuses on a specific problem (ghost build controllers) rather than the broader aspects of application lifecycle management. While it touches on aspects of maintenance and troubleshooting, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or best practices. Therefore, it has a low confidence score due to its limited scope and depth.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:55:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and the management of build controllers, which touches on software craftsmanship and engineering practices. However, it does not delve into broader topics of technical mastery and best practices, and is primarily focused on a single technical problem.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and ghost build controllers, which is a technical topic. However, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. While it does touch on database management and troubleshooting, it does not delve deeply into principles of clean code, testing, or architectural practices, which are central to the 'Technical Mastery' category.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -490,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:55:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to managing build controllers in Team Foundation Server, which relates to operational practices focused on improving workflow management and efficiency in software development processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the issue of ghost build controllers in Team Foundation Server, which relates to operational practices in managing build processes. However, it primarily focuses on a specific problem and its resolution rather than broader operational efficiency strategies or methodologies. While there are mentions of database management and build status, the discussion lacks depth in terms of process optimisation or continuous improvement techniques, which are key aspects of the 'Operational Practices' category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -628,7 +637,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T17:00:10",
+    "calculated_at": "2025-03-15T06:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
@@ -636,7 +645,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a version control system. It touches on aspects of code management and project tracking, particularly in the context of ghost build controllers and their deletion. However, the discussion is primarily anecdotal and lacks depth in best practices or methodologies related to modern source control. While it does mention specific technical details, it does not provide a comprehensive exploration of version control strategies or collaboration workflows, which are key themes in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -748,7 +757,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:35:48",
+    "calculated_at": "2025-03-15T06:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -756,7 +765,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and ghost build controllers, which touches on aspects of software engineering. However, it primarily focuses on troubleshooting and specific actions taken rather than broader principles of engineering excellence, such as coding standards, quality assurance, or continuous improvement practices. While there are mentions of database management and build processes, the depth of discussion does not sufficiently align with the core themes of engineering excellence, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -796,11 +805,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:55:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses practical problem-solving strategies for handling ghost build controllers in Team Foundation Server, which involves navigating complexity and applying experience-based decision-making. However, the primary focus is on technical troubleshooting rather than broader Agile or Scrum themes.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a practical problem encountered in Team Foundation Server (TFS) regarding ghost build controllers, which aligns with pragmatic thinking in a real-world context. It provides a specific example of troubleshooting and problem-solving, demonstrating adaptability and critical thinking. However, the discussion lacks depth in terms of broader Agile or DevOps principles and does not explicitly mention these frameworks, which limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -895,7 +907,7 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-11T12:05:39",
+    "calculated_at": "2025-03-15T06:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -903,7 +915,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a tool associated with Continuous Integration. However, the focus is primarily on troubleshooting and specific instances of ghost build controllers rather than on broader CI principles, practices, or tools. While it touches on aspects of CI, such as managing builds and the importance of cleaning up build queues, it lacks a comprehensive exploration of CI concepts, best practices, or the role of automated testing. Therefore, it does not fully align with the core themes of Continuous Integration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1228,7 +1240,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:40:17",
+    "calculated_at": "2025-03-15T06:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1248,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and ghost build controllers, which is relevant to software development practices. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on a particular problem-solving scenario. While it touches on aspects of software development, it does not engage with the key themes of Agile or DevOps, resulting in a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

@@ -35,16 +35,16 @@ card:
 categories:
 - Product Management
 tags:
+- Ability to Innovate
+- Strategic Goals
 - Evidence Based Management
 - Value Delivery
-- Metrics and Learning
-- Ability to Innovate
 - Decision Making
 - Evidence Based Leadership
+- Metrics and Learning
 - Experimentation
 - Agile Product Management
 - People and Process
-- Business Agility
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

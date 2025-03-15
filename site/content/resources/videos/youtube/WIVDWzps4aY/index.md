@@ -30,6 +30,7 @@ tags:
 - Product Owner
 - Products and Books
 - Agile Product Operating Model
+- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

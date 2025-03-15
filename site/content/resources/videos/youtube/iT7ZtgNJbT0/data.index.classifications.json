@@ -37,29 +37,38 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:15",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences related to Scrum and Agile methodologies, but it primarily focuses on personal anecdotes rather than in-depth exploration of Scrum principles or practices.",
+    "final_score": 50.0,
+    "reasoning": "The content mentions Scrum and discusses experiences related to Agile consulting, but it primarily focuses on personal anecdotes rather than in-depth exploration of Scrum principles, roles, or practices. While there are references to Scrum workshops and their impact, the discussion lacks the theoretical foundations and detailed examination expected in the Professional Scrum category.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of Agile methodologies on organisational change and team dynamics, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with a narrative about a memorable day rather than a systematic exploration of organisational dynamics. While it touches on the impact of Agile methodologies on teams and organisations, it lacks a thorough discussion of systems thinking principles or the interplay of organisational structure and culture. The mention of long-term effects hints at organisational dynamics but does not delve into the complexities or feedback loops that define Organisational Physics.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences as an Agile consultant, highlighting the impact of workshops and training on team dynamics, which aligns with coaching principles. However, it primarily focuses on personal experiences rather than a structured discussion on coaching techniques or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses an experience as an Agile consultant, highlighting the impact of workshops and training sessions on team dynamics and individual growth. While it does not explicitly mention coaching, it aligns with the themes of facilitating development and fostering collaboration. The depth of discussion on the transformative effects of the engagement adds to the confidence score, but the lack of direct references to coaching techniques or frameworks limits it.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -121,21 +130,27 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformative impact of Agile methodologies on an organisation, which aligns with the theme of digital transformation, but it primarily focuses on personal experiences and Agile practices rather than a strategic discussion on digital technologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with a narrative about a memorable day rather than a strategic discussion on digital transformation. While it mentions Agile methodologies and their impact, it lacks a direct focus on the broader implications of digital technologies for business transformation. The discussion is more anecdotal and does not delve deeply into the strategic adoption of digital tools or frameworks for measuring success in digital transformation initiatives.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies, including workshops on user stories and TDD, which are relevant to working software, but the primary focus is on personal experiences rather than the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with some references to Scrum and Agile methodologies. However, it lacks a direct discussion on working software, its characteristics, or best practices for ensuring software quality. While it touches on the impact of Agile practices, it does not provide substantial detail on the delivery of functional software or metrics for assessing software quality.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -148,7 +163,7 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:45:17",
+    "calculated_at": "2025-03-15T01:00:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -156,7 +171,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily recounts a personal experience as an Agile consultant, with a focus on a memorable day rather than a detailed exploration of self-organisation principles. While it mentions Agile and Scrum practices, it lacks explicit discussions on self-organisation, autonomy, or team dynamics. The narrative does touch on the impact of Agile methodologies, which aligns somewhat with the category, but it does not delve deeply into the core themes or provide substantial insights into fostering self-organisation within teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -178,12 +193,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of an Agile engagement on a team and their organisation, highlighting the long-term effects of cultural transformation. However, the primary focus is on personal experiences and specific Agile practices rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, detailing specific events and interactions during workshops. While it touches on the impact of Agile methodologies and mentions the transformative effects on teams and organisations, it lacks a direct discussion on organisational culture itself. The narrative does not delve into leadership roles, cultural dimensions, or strategies for fostering a culture of continuous improvement, which are essential for a stronger alignment with the category. Therefore, while there are relevant themes, the primary focus remains on individual experiences rather than a comprehensive exploration of organisational culture.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -268,12 +286,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:50",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences related to Agile consulting and Scrum, making Agile a significant theme, but it primarily focuses on personal anecdotes rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses experiences as an Agile consultant, with a strong focus on Scrum and Agile methodologies. It highlights specific workshops and training sessions, demonstrating practical applications of Agile principles. However, while it mentions Agile frameworks, the primary focus is on personal experiences rather than a comprehensive exploration or analysis of the frameworks themselves. This results in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -286,11 +307,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences related to Agile and Scrum workshops, highlighting team dynamics and the impact of collaboration on performance, but it primarily focuses on personal experiences rather than a clear exploration of team collaboration techniques.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on a personal experience as an Agile consultant, with some references to Scrum and Agile methodologies. However, it lacks a direct discussion on team collaboration techniques or dynamics. While it touches on the impact of workshops on a team, it does not delve deeply into the themes of shared ownership, trust, or specific strategies for enhancing collaboration, which are central to the category.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -379,11 +403,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses experiences related to Agile consulting and Scrum, highlighting the impact of Agile methodologies on teams and organisations, but it primarily focuses on personal anecdotes rather than a deep exploration of Agile values and principles.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily recounts a personal experience as an Agile consultant, with some references to Agile methodologies and Scrum practices. However, it lacks a focused discussion on the core values and principles of Agile, such as customer collaboration or responding to change. While it mentions the impact of Agile on a team and organisation, it does not delve deeply into the foundational beliefs of Agile, making it more anecdotal than analytical.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -415,21 +442,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of Agile consulting and Scrum workshops on organisational change, making change management a significant theme, but it is primarily focused on personal experiences rather than structured change management strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with a narrative about a memorable day rather than a structured discussion on change management principles. While it mentions the impact of Agile methodologies and hints at transformation, it lacks explicit discussions on strategies, stakeholder engagement, or leadership roles in change management. The depth of discussion is limited to personal anecdotes, which do not provide comprehensive insights into effective change management practices.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences as an Agile consultant and the impact of workshops on team members, which relates to mentoring but is primarily focused on personal experiences rather than structured mentoring practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily recounts a personal experience as an Agile consultant, focusing on a memorable day rather than explicitly discussing mentoring. While it touches on themes of transformation and impact on a team, it lacks direct mentions of mentoring techniques, coaching, or leadership development. The narrative does suggest a positive influence on the team, which aligns with the mentoring concept, but it does not delve deeply into the mentoring process itself.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -562,12 +595,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences and reflections on Agile consulting, highlighting practical applications of Scrum and Agile methodologies, but it primarily focuses on personal anecdotes rather than structured problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily recounts a personal experience as an Agile consultant, highlighting a memorable day and its long-term impact. While it mentions Agile and Scrum practices, the focus is more on storytelling rather than a detailed exploration of pragmatic problem-solving strategies or real-world applications. The direct mentions of Agile and Scrum are present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -601,11 +637,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences as an Agile consultant and the impact of Agile methodologies, but it primarily focuses on personal anecdotes rather than a strategic discussion on Agile principles or implementation.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on a personal anecdote from an Agile consultant's experience rather than a strategic discussion on Agile methodologies. While it mentions Agile and Scrum practices, it lacks a thorough exploration of Agile strategy concepts such as organisational alignment, implementation at scale, or measuring success. The narrative is more reflective and anecdotal, which does not meet the criteria for a primary focus on Agile Strategy.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -646,20 +685,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a memorable experience as an Agile consultant, highlighting the impact of workshops on team dynamics and long-term effects on motivation, but it primarily focuses on personal experiences rather than explicit strategies for team motivation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily recounts a personal experience as an Agile consultant, with a focus on a memorable day rather than explicitly discussing team motivation strategies. While it touches on the impact of Agile methodologies and the positive outcomes of team engagement, it lacks a detailed exploration of specific motivational techniques or practices. The narrative does highlight the importance of team dynamics and the long-term effects of collaboration, which aligns with the category, but it does not delve deeply into the psychological or social aspects of team motivation.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:26",
+    "ai_confidence": 45.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences related to Agile and Scrum workshops, highlighting the impact on team dynamics and performance, but it primarily focuses on personal anecdotes rather than structured strategies or methodologies for enhancing team performance.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses an experience as an Agile consultant, highlighting the impact of Scrum workshops on team dynamics and long-term organisational change. While it mentions Agile and Scrum practices, the focus is more on personal anecdotes rather than structured strategies or methodologies for enhancing team performance. The discussion lacks depth in terms of specific techniques or metrics for measuring team effectiveness, which diminishes its alignment with the core themes of the 'Team Performance' category.",
     "level": "Tertiary"
   },
   "AI": {
@@ -739,7 +784,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-11T11:39:51",
+    "calculated_at": "2025-03-15T01:00:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -747,7 +792,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, discussing specific Agile practices and training sessions rather than organisational change strategies or frameworks. While it mentions a positive impact on the organisation, it lacks detailed exploration of change management principles or methodologies, which are central to the category of Organisational Change.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -760,11 +805,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:06",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses experiences related to Scrum and Agile methodologies, particularly in a consulting context, but it does not focus primarily on Scrum product development practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses experiences related to Scrum and Agile methodologies, including workshops and training sessions. However, it primarily focuses on personal anecdotes rather than detailed discussions of Scrum principles or product development processes. While it mentions Scrum and its impact, it lacks a structured exploration of Scrum roles, sprint processes, or product backlog management, which are key topics in the category.",
     "level": "Tertiary"
   },
   "Operational Practices": {
@@ -805,11 +853,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses experiences related to Scrum workshops and Agile consulting, making Scrum a significant theme, but it is not solely focused on the Scrum Master role.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses experiences related to Agile consulting and mentions Scrum in the context of workshops and training. However, it lacks a focused discussion on the specific role and responsibilities of a Scrum Master. While it touches on Agile methodologies and the impact of Scrum sessions, it does not delve deeply into the practices or challenges faced by a Scrum Master, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -859,12 +910,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences related to Agile methodologies, including Scrum and user stories, but primarily focuses on personal anecdotes rather than a structured exploration of Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses experiences as an Agile consultant, highlighting the use of Scrum and Agile methodologies, user stories, and workshops. While it does touch on Agile principles and their impact, it primarily focuses on personal anecdotes rather than a structured discussion of Agile Planning practices. The mention of workshops and user stories indicates some alignment with Agile Planning, but the depth of discussion is more narrative than analytical.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1027,11 +1081,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences and reflections on Agile consulting, highlighting the impact of workshops and training on team dynamics and long-term change, which aligns with the principles of Continuous Learning, but it is primarily focused on personal experiences rather than a structured discussion on Continuous Learning practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily recounts a personal experience as an Agile consultant, with a focus on a memorable day rather than explicitly discussing Continuous Learning principles. While it touches on Agile methodologies and the impact of workshops, it lacks a detailed exploration of growth mindset, knowledge sharing, or continuous improvement practices. The mention of transformative learning is relevant but not sufficiently developed to align closely with the category.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -1045,12 +1102,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of Agile methodologies on an organisation and highlights a transformative experience, but it primarily focuses on personal experiences and team-level practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, detailing specific Scrum practices and workshops. While it mentions the impact of these experiences on an organisation, it lacks a broader discussion on enterprise-level agility, frameworks, or organisational structures that support agility. The emphasis is on individual team-level practices rather than the organisational implications of agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1063,12 +1123,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transformative impact of Agile methodologies and workshops on an organisation, highlighting long-term effects and cultural change, which aligns with the themes of resilience and adaptability.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with a narrative about a memorable day rather than a structured discussion on resilience or change management. While it mentions the impact of Agile methodologies and hints at transformative experiences, it lacks a detailed exploration of organisational resilience or change strategies. The references to change are more anecdotal and do not delve into frameworks or methodologies that enhance organisational resilience.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1108,11 +1171,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and Scrum practices, which are relevant to product delivery, but the primary focus is on personal experiences rather than the methodologies themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses experiences as an Agile consultant, highlighting the use of Scrum and Agile methodologies, which are relevant to product delivery. However, it primarily focuses on personal anecdotes rather than providing in-depth insights into product delivery practices, methodologies, or metrics. While Agile principles are mentioned, the discussion lacks a structured exploration of the end-to-end product delivery process.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
@@ -1129,12 +1195,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences and reflections on Agile consulting, highlighting the impact of workshops and training on team dynamics and learning. However, the primary focus is on personal experiences rather than a structured exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses an impactful experience as an Agile consultant, highlighting the long-term effects of workshops and training sessions on team dynamics and organisational change. While it mentions Agile methodologies and the transformative power of learning, the primary focus is on a personal anecdote rather than a structured exploration of discovery and learning processes. The content does touch on key themes such as the importance of feedback and the ripple effects of learning, but it lacks a deeper analysis or discussion of methodologies that foster innovation and continuous learning.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1165,30 +1234,39 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses experiences related to Agile and Scrum practices, including workshops and training, but primarily focuses on personal anecdotes rather than practical techniques or tooling.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a personal anecdote about the author's experiences as an Agile consultant, with some references to Scrum and Agile practices. However, it lacks a detailed exploration of specific tools, methodologies, or frameworks that enhance Agile and DevOps practices. While it mentions Scrum workshops and user stories, it does not provide in-depth insights or practical techniques that align with the category's core themes.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a memorable experience related to Agile workshops and training sessions, which aligns with the theme of events and presentations, but it primarily focuses on personal experiences rather than formal events.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily recounts a personal experience as an Agile consultant, focusing on a memorable day rather than discussing specific events or presentations. While it mentions workshops and training sessions, it lacks explicit references to formal events or presentations, which diminishes its alignment with the category. The depth of discussion is limited to personal anecdotes without detailed insights into broader events or community learning.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their transformative impact on teams and organisations, which relates to market adaptability, but it primarily focuses on personal experiences rather than strategies or practices for enhancing organisational responsiveness to market shifts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with some references to Agile methodologies and their impact. However, it lacks a direct discussion on market adaptability strategies or practices. While it mentions the transformative power of Agile, it does not delve into specific techniques or frameworks that enhance an organisation's ability to respond to market shifts. The overall depth of discussion on market adaptability is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1228,12 +1306,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences as an Agile consultant and the impact of Agile methodologies, which relates to business agility, but it primarily focuses on personal anecdotes rather than a comprehensive exploration of business agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with a narrative about a memorable day rather than a structured discussion on business agility principles. While it mentions Agile methodologies and their impact, it lacks a thorough exploration of the core themes of business agility, such as leadership roles, organisational structures, or measurable outcomes. The discussion is more anecdotal and does not provide in-depth insights into fostering a culture of innovation or adaptability, which are crucial for the category.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1246,30 +1327,39 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences as an Agile consultant and the impact of Agile methodologies on teams, which aligns with value delivery, but it primarily focuses on personal anecdotes rather than specific strategies or methodologies for delivering value.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal anecdote about the author's experiences as an Agile consultant, with limited direct discussion on value delivery principles. While it mentions Agile methodologies and their impact, it lacks detailed exploration of strategies or methodologies aimed at ensuring iterative and continuous delivery of value to customers. The narrative does not provide substantial depth on measuring or maximising customer value, nor does it discuss practices that enhance customer satisfaction in a structured manner.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and briefly touches on TDD, but the primary focus is on personal experiences and reflections rather than a deep exploration of technical excellence practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions TDD and discusses Agile methodologies, but the primary focus is on personal experiences and reflections rather than a deep exploration of technical practices. While there is some alignment with the category through the mention of engineering practices, the overall depth and direct discussion of technical excellence are limited.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:01:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences as an Agile consultant and highlights the transformative impact of Agile methodologies on teams and organisations, making it a major theme, but it is primarily anecdotal rather than a focused discussion on organisational agility strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the author's experiences as an Agile consultant, highlighting the impact of Agile methodologies on a team and their organisation. It directly mentions Agile and Scrum practices, showcasing their transformative effects, which aligns well with the principles of organisational agility. The depth of discussion includes personal anecdotes and reflections on long-term impacts, indicating a strong understanding of agility's role in fostering adaptability. However, it lacks a structured exploration of broader organisational strategies and frameworks, which slightly limits its overall confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1297,12 +1387,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:00:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of Agile methodologies on team dynamics and organisational change, which aligns with sociotechnical systems. However, it primarily focuses on personal experiences rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, with a narrative about a memorable day rather than a structured discussion on sociotechnical systems. While it touches on Agile methodologies and their impact on teams, it lacks explicit references to the interplay between technology and organisational structures. The discussion is more anecdotal and does not delve deeply into the core themes of sociotechnical systems, such as organisational culture or team dynamics in a broader context.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",

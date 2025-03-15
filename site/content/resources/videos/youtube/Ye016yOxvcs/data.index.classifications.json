@@ -49,7 +49,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:41:35",
+    "calculated_at": "2025-03-14T22:42:56",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -57,11 +57,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of understanding customer context and iterating based on previous experiences, which aligns with the principles of business agility. However, it lacks a comprehensive discussion on the broader themes of business agility, such as fostering a culture of innovation or the role of leadership. The focus is more on the individual skills of an agile consultant rather than organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-10T12:03:50",
+    "calculated_at": "2025-03-14T22:42:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -69,7 +69,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content touches on the uncertainty and unpredictability of understanding a customer's context, which aligns with the themes of complexity thinking. However, it lacks explicit references to complexity science or frameworks like the Cynefin Framework. The discussion is somewhat superficial and does not delve deeply into the principles of complexity, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -127,7 +127,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T14:14:48",
+    "calculated_at": "2025-03-14T22:42:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -135,7 +135,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the iterative nature of working with customers, which aligns with Agile principles, but it lacks explicit discussion of Agile frameworks or their comparative analysis. The focus is more on the skills of an Agile consultant rather than a deep exploration of Agile frameworks themselves.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -628,7 +628,7 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-13T15:38:08",
+    "calculated_at": "2025-03-14T22:42:56",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -636,11 +636,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses skills relevant to Agile consulting but heavily references Agile principles and practices, particularly in the context of customer engagement and continuous learning. While it does touch on broader themes of adaptability and personal growth, the primary focus remains on Agile methodologies, which detracts from its alignment with the Miscellaneous category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-13T16:46:23",
+    "calculated_at": "2025-03-14T22:42:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -648,7 +648,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of understanding customer context and the need for continuous learning and adaptation, which are relevant to customer retention. However, it primarily focuses on the skills of Agile consultants rather than specific strategies for retaining customers. The direct mentions of customer retention strategies are minimal, and while there is some conceptual alignment, the depth of discussion does not provide substantial insights into customer retention methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -661,12 +661,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T19:49:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:42:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding the customer's context and the importance of iterating based on customer feedback, which aligns with customer satisfaction principles, but it is primarily focused on the skills of an Agile consultant rather than customer satisfaction itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding the customer's context, which is relevant to customer satisfaction. However, it lacks explicit mentions of customer satisfaction metrics or strategies, and the depth of discussion is more focused on the consultant's skills rather than on customer satisfaction principles.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -706,12 +709,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T19:49:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:42:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of iteration and understanding customer context, which aligns with MVP principles, but it primarily focuses on skills for Agile consultants rather than MVP development specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile consulting and the importance of understanding customer contexts, but it does not explicitly mention MVP or its principles. While there are themes of iteration and learning, which are relevant to MVP development, the primary focus is on consulting skills rather than the development of a Minimum Viable Product.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -724,12 +730,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:49:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with the themes of learning and experimentation. However, the primary focus is on the skills of an Agile consultant rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:43:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous learning and adaptation, which aligns with the core themes of the category. It mentions trial and error as a learning process and highlights the need for a mindset that embraces learning and innovation. However, the primary focus is on the skills of an Agile consultant rather than a deep exploration of discovery and learning methodologies, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -742,12 +751,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:49:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with Agile principles, but it does not primarily focus on the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses skills relevant to Agile consulting but does not explicitly focus on the Agile Product Operating Model. While it touches on themes of continuous learning and adaptation, which are relevant to Agile principles, it lacks a direct connection to product-centric development or value delivery. The discussion is more about the consultant's role and mindset rather than the operational model itself.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -769,11 +781,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T19:49:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with adaptability principles, but it primarily focuses on the skills of an Agile consultant rather than broader market adaptability strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding customer context and the need for continuous learning and adaptation, which aligns with the principles of market adaptability. However, it lacks specific strategies or methodologies related to Agile, DevOps, or Lean practices that would enhance its relevance to the category. The focus is more on personal development as an Agile consultant rather than on organisational strategies for market responsiveness.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -796,12 +811,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T19:49:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding the customer's context and iterating on ideas based on previous experiences, which relates to customer feedback. However, it does not primarily focus on the mechanisms or practices of integrating customer feedback into product development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding the customer's context and the need for continuous learning and adaptation, which are relevant to customer feedback loops. However, it lacks explicit mentions of feedback mechanisms or techniques for gathering customer insights, making it more of a general discussion on Agile consulting rather than a focused exploration of customer feedback loops.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -859,11 +877,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T19:49:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which relates to sensemaking in complex environments. However, it primarily focuses on the skills of an Agile consultant rather than a comprehensive exploration of sensemaking principles or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding a customer's context and the complexities involved in Agile consulting, which aligns with sensemaking principles. However, it primarily focuses on skills and personal reflections rather than frameworks or detailed techniques for sensemaking, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -886,12 +907,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:49:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with Agile principles of customer collaboration and continuous improvement, but it is primarily focused on the skills of an Agile consultant rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of understanding customer context, continuous learning, and adaptation, which aligns with Agile principles. However, it primarily focuses on the skills of an Agile consultant rather than the broader Agile philosophy itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -904,11 +928,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T19:49:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with coaching principles, but it primarily focuses on the skills needed for an Agile consultant rather than coaching itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding customer contexts and continuous learning, which aligns with coaching principles. However, it lacks direct mentions of coaching techniques or the role of a coach, and the depth of discussion on coaching is minimal.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -922,12 +949,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T19:49:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of iterating on ideas and learning from experiences with customers, which aligns with the principles of Continuous Learning. However, the primary focus is on the skills needed for an Agile consultant rather than a broader discussion on Continuous Learning practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:43:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly mentions 'Continuous Learning and Adaptation' and discusses the importance of a growth mindset and learning from setbacks, which aligns with the core themes of the category. However, while it touches on these concepts, the overall focus is more on the skills required for Agile consulting rather than a deep exploration of Continuous Learning principles. The depth of discussion is moderate, providing some insights but lacking extensive detail on techniques or frameworks for knowledge sharing.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -958,11 +988,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:50:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with Agile principles, but it is primarily focused on the skills of an Agile consultant rather than specific Agile product management practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of understanding customer context, which aligns with Agile principles. However, it lacks direct mentions of product management practices, specific Agile frameworks, or detailed strategies for product value maximisation, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -994,12 +1027,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T19:50:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding the customer's context and leveraging past experiences, which touches on the interplay between social aspects (customer relationships) and technical practices (agile consulting). However, it does not primarily focus on sociotechnical systems as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of understanding customer contexts, which touches on the social aspects of software delivery. However, it lacks explicit references to sociotechnical systems or their principles. The focus is more on personal skills and experiences rather than the interplay between technology and organisational structures, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1012,11 +1048,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T19:50:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of iterating and adapting based on customer context, which aligns with empirical process control principles, but it is primarily focused on skills for Agile consultants rather than a deep exploration of empirical process control itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of adaptation and continuous learning, which aligns with the principles of empirical process control. However, it lacks direct mentions of empirical process control concepts and does not delve deeply into specific Agile methodologies or practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -1030,11 +1069,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:50:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:43:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of leveraging experience and iterating on ideas to understand customer contexts, which aligns with practical problem-solving strategies in Agile environments.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of understanding customer context and the unpredictability faced by Agile consultants, which aligns with pragmatic thinking. It emphasises learning from setbacks and adapting strategies based on experience, reflecting practical problem-solving. However, while it touches on relevant themes, it lacks detailed exploration of specific Agile or Scrum techniques, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1057,12 +1099,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T19:50:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which relates to the delivery of functional software. However, it primarily focuses on the skills of an Agile consultant rather than directly addressing working software itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of understanding customer context, which indirectly relates to working software. However, it lacks direct mentions of working software characteristics, quality assurance, or specific practices for delivering functional software. The focus is more on the consultant's skills and mindset rather than on the delivery of working software itself.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1102,12 +1147,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T19:50:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses skills relevant to Agile consulting, which is a major theme in software development methodologies, but it does not focus primarily on software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile consulting, which is a methodology within the Software Development category. It mentions the importance of understanding customer context and continuous learning, which aligns with Agile principles. However, the focus is more on personal reflections and skills rather than detailed methodologies or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1246,12 +1294,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T19:50:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with Agile principles. However, it primarily focuses on the skills of an Agile consultant rather than leadership roles or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of continuous learning and adaptation, which aligns with Agile principles. However, it lacks a direct focus on leadership roles or practices, making it more about consulting than Agile leadership specifically.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1264,21 +1315,27 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T19:50:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of iterating on ideas and understanding customer context, which aligns with the theme of experimentation in Agile. However, it does not focus primarily on hypothesis-driven approaches or systematic testing, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content touches on themes of trial and error and continuous learning, which are related to experimentation. However, it lacks explicit discussions on hypothesis-driven approaches or systematic testing methods. The focus is more on general Agile consulting skills rather than on experimentation as a primary theme.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T19:50:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which relates to user feedback and validation, but it is primarily focused on the skills of an agile consultant rather than product validation methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding customer context and the iterative process of refining ideas, which aligns with some aspects of product validation. However, it lacks direct mentions of user testing, market fit, or specific methodologies related to validating product ideas. The focus is more on the role of an Agile consultant rather than on validating product concepts through user engagement.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1291,12 +1348,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T19:50:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with value delivery principles, but it primarily focuses on the skills of an Agile consultant rather than value delivery strategies themselves.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding customer context and the need for continuous learning and adaptation, which aligns with the principles of value delivery. However, it lacks explicit discussions on methodologies or practices directly related to value delivery, such as iterative development or CI/CD practices. The focus is more on personal reflections and skills rather than structured strategies for delivering value.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1318,12 +1378,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T19:51:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding customer context and iterating on ideas, which are relevant to product discovery, but it primarily focuses on the skills of an agile consultant rather than a comprehensive exploration of product discovery methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding customer context and the need for continuous learning and adaptation, which aligns with the core themes of product discovery. However, it primarily focuses on the role of Agile consultants rather than specific methodologies or practices related to product discovery. The mention of customer context is relevant but not explicitly tied to product feature definition or validation processes, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -1354,11 +1417,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:51:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with Agile principles. However, it primarily focuses on the skills of an Agile consultant rather than a broader Agile strategy.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of understanding customer contexts, which aligns with Agile principles of adaptability and continuous learning. However, it lacks a direct focus on strategic planning or the integration of Agile methodologies into broader organisational strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -1381,12 +1447,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:51:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with agile principles. However, it primarily focuses on the skills of an agile consultant rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of understanding customer context and the need for continuous learning and adaptation, which aligns with the principles of organisational agility. However, it lacks direct mentions of organisational agility frameworks or specific strategies, focusing more on the personal journey of an Agile consultant rather than broader organisational practices.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1399,12 +1468,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T19:51:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding customer context and iterating on ideas, which aligns with Lean Startup principles. However, it primarily focuses on skills for agile consulting rather than the Lean Startup methodology itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:43:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses concepts related to learning, adaptation, and iterative processes, which are relevant to Lean Startup principles. However, it primarily focuses on Agile consulting rather than explicitly addressing Lean Startup methodologies like MVPs or the Build-Measure-Learn loop. The mention of trial and error aligns somewhat with Lean principles, but the overall emphasis is on Agile practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1426,7 +1498,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:20:03",
+    "calculated_at": "2025-03-14T22:42:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1434,6 +1506,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on agile principles, particularly the importance of understanding customer context and iterating on ideas, which aligns with Scrum's emphasis on customer collaboration and continuous improvement. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum practices, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

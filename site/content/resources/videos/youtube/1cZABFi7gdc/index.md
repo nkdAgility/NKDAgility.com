@@ -29,8 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Coaching
 - Agile Transformation
 - Organisational Agility
+- Software Development
 - Agile Leadership
 resourceTypes:
 - video

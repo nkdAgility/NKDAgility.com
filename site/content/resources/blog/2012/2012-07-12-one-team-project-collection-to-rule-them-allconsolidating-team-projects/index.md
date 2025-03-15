@@ -33,12 +33,7 @@ tags:
 - Practical Techniques and Tooling
 - Troubleshooting
 - Software Development
-- Modern Source Control
-- Pragmatic Thinking
 - System Configuration
-- Operational Practices
-- Application Lifecycle Management
-- Azure DevOps
 categories:
 - Scrum
 - Social Technologies

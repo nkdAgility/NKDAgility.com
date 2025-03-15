@@ -28,10 +28,6 @@ tags:
 - Software Development
 - System Configuration
 - Install and Configuration
-- Pragmatic Thinking
-- Practical Techniques and Tooling
-- Azure DevOps
-- Technical Mastery
 categories: []
 
 ---

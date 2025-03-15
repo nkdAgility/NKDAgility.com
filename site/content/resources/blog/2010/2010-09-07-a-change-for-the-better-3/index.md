@@ -31,12 +31,6 @@ tags:
 - People and Process
 - Software Developers
 - Application Lifecycle Management
-- Continuous Learning
-- Personal
-- Agile Project Management
-- Product Delivery
-- Practical Techniques and Tooling
-- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

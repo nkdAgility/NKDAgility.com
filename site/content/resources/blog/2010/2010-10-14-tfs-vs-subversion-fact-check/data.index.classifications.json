@@ -214,7 +214,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T10:39:25",
+    "calculated_at": "2025-03-15T06:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -222,7 +222,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than delving into broader engineering practices or methodologies that enhance technical excellence. While it touches on aspects of version control and some technical features, it lacks a comprehensive exploration of principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -271,7 +271,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-11T18:10:19",
+    "calculated_at": "2025-03-15T06:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -279,7 +279,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the comparison between TFS and Subversion, focusing on specific features and user experiences. While it touches on tools relevant to Agile and DevOps, it lacks in-depth analysis or reviews of literature or methodologies that would align it more closely with the 'Products and Books' category. The discussion is more about personal experiences and technical details rather than providing insights into how these tools enhance Agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -292,7 +292,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:04:39",
+    "calculated_at": "2025-03-15T06:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -300,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses TFS (Team Foundation Server) in comparison to Subversion, which is a part of the Azure DevOps suite. However, it does not explicitly mention Azure DevOps or its broader functionalities, focusing instead on specific features and user experiences related to TFS. While there are relevant points about TFS's capabilities, the discussion lacks depth in terms of Azure DevOps as a whole, and it does not cover key topics such as CI/CD pipelines or Agile project management practices within Azure DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -349,20 +349,26 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a comparison between TFS and Subversion, providing insights and evaluations that can guide practitioners in their decision-making processes. However, it primarily focuses on specific issues and features rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a comparison between TFS and Subversion, which is relevant to the tools used in Agile and DevOps practices. However, it primarily focuses on personal opinions and experiences rather than providing a structured review or industry news. While it touches on some updates and features of TFS, the depth of discussion lacks a broader context of industry trends or evaluations that would typically characterise content in the 'News and Reviews' category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from Subversion to TFS, highlighting aspects of version control and application management, which are relevant to Application Lifecycle Management, but it primarily focuses on specific features and user experiences rather than a comprehensive discussion of ALM methodologies or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the comparison between TFS and Subversion, focusing on specific features and user experiences rather than the broader methodologies and practices of Application Lifecycle Management. While it touches on aspects of version control relevant to ALM, it lacks a comprehensive exploration of the application lifecycle stages, governance, or integration of Agile and DevOps principles, which are central to the ALM category.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -385,12 +391,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses technical aspects of TFS compared to SVN, the primary focus is on addressing user experiences and misconceptions rather than directly promoting best practices or methodologies in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than delving into broader principles of software craftsmanship or engineering practices. While it touches on some technical aspects, such as branching and version control, it lacks a comprehensive exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -493,12 +502,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses comparisons between TFS and Subversion, particularly focusing on issues related to operational practices in version control systems. While it does not primarily concentrate on operational practices, it addresses practical aspects of using TFS in a way that relates to operational efficiency and user experiences, making it a major theme.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it touches on some aspects of version control and user experience, it lacks a clear focus on methodologies or strategies that improve operational efficiency.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -751,7 +763,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:33:42",
+    "calculated_at": "2025-03-15T06:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -759,7 +771,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the comparison between TFS and Subversion, focusing on specific features and user experiences rather than broader engineering excellence principles. While it touches on aspects of software craftsmanship, such as version control practices and user experience, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement in engineering processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1069,7 +1081,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:08:48",
+    "calculated_at": "2025-03-15T06:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1077,7 +1089,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the differences between TFS and Subversion, focusing on user experiences and perceptions rather than the technical aspects of system configuration. While there are mentions of installation and configuration issues, these are not the main focus of the content, which leans more towards user feedback and comparisons rather than best practices or methodologies for system configuration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1126,12 +1138,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:46:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which operates primarily in a Windows environment, and mentions Windows-specific features and installation procedures. However, the primary focus is on comparing TFS and Subversion, making Windows a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) and its comparison with Subversion, with a focus on version control and source management rather than the Windows operating system itself. While there are mentions of Windows, particularly in the context of TFS being a Windows-only platform, the overall discussion does not delve deeply into Windows-specific installation, configuration, or troubleshooting. The content is more about version control systems and their functionalities, which does not align closely with the core themes of the Windows category.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1309,12 +1324,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:15",
+    "calculated_at": "2025-03-15T06:46:43",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content primarily discusses the comparison between TFS (Team Foundation Server) and Subversion, which are version control systems, but it does not focus specifically on Azure Repos. While TFS is related to Azure DevOps and has similarities, the discussion remains centered around TFS features and issues without a clear integration or discussion of Azure Repos functionalities.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

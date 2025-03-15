@@ -28,8 +28,6 @@ aliasesArchive:
 - /resources/blog/my-unity-resolveof-ninja
 tags:
 - Software Development
-- Practical Techniques and Tooling
-- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-4-1.png
 

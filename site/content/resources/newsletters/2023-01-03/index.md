@@ -22,11 +22,7 @@ categories:
 - Social Technologies
 - Scrum
 - Product Management
-tags:
-- Agile Project Management
-- Events and Presentations
-- Agile Frameworks
-- Software Development
+tags: []
 
 ---
 Welcome to this month's edition of NKDAgility.

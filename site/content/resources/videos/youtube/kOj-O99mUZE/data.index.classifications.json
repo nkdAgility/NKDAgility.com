@@ -67,12 +67,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:30:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving flow and predictability in delivery systems, which relates to evidence-based decision-making, but it primarily focuses on scaling portfolio management rather than directly on evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses strategies for improving workflow and decision-making in an organisational context, which aligns with evidence-based leadership principles. However, it primarily focuses on Kanban practices rather than explicitly addressing evidence-based leadership concepts or empirical evidence. The mention of data-driven decision-making is relevant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -124,12 +127,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:30:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for improving flow and predictability in delivery systems, which aligns with themes of operational efficiency and organisational change, but it primarily focuses on portfolio management and scaling rather than a broader digital transformation context.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the application of Kanban at an organizational level, which aligns with the themes of improving operational efficiency and enhancing business agility. However, it lacks explicit mentions of digital technologies or a broader strategic framework for digital transformation. The focus is primarily on workflow optimization and project management rather than a comprehensive digital transformation strategy.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -169,12 +175,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses improving flow and predictability in delivery, which aligns with Lean principles, but primarily focuses on scaling and portfolio management rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on Scaling Portfolio Kanban, which is more aligned with Kanban methodologies than Lean Product Development principles. While it touches on concepts like value maximization and improving predictability, it lacks a direct discussion of Lean principles, waste reduction, and customer feedback, which are central to Lean Product Development. The depth of discussion on Lean-specific topics is minimal, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -262,12 +271,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving flow and predictability in delivery systems, which relates to innovation capabilities, but it primarily focuses on scaling and operational strategies rather than directly measuring or enhancing the ability to innovate.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:30:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses strategies for enhancing workflow and predictability at an organisational level, which aligns with the concept of improving innovation capabilities. However, it primarily focuses on Kanban practices rather than directly addressing the Ability to Innovate category. While there are mentions of data-driven decision-making and optimising value delivery, the discussion lacks depth in terms of frameworks or metrics specifically related to measuring innovation capabilities.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -322,12 +334,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving flow and predictability in delivery, which relates to Cycle Time, but it primarily focuses on organisational strategies rather than directly measuring or analysing Cycle Time.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses enhancing flow and predictability in the context of scaling Portfolio Kanban, which indirectly relates to Cycle Time. However, it does not explicitly mention Cycle Time or provide in-depth analysis on its measurement or implications. The focus is more on workflow optimization and organizational strategies rather than the specific metric of Cycle Time.",
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -340,21 +355,27 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-12T05:17:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses strategies for managing portfolio flow and increasing value delivery at an organisational level, aligning with key topics in portfolio management.",
+    "calculated_at": "2025-03-14T14:53:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the application of Kanban at the portfolio level, focusing on enhancing flow, predictability, and value delivery, which aligns closely with the core themes of Portfolio Management. It provides detailed insights into strategic decision-making, optimizing workflows, and improving organizational agility, all of which are central to effective portfolio management. The depth of discussion is substantial, covering various aspects of managing a portfolio of projects and initiatives, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses scaling portfolio Kanban, which is related to Agile practices and improving delivery flow in software development, but it primarily focuses on organisational strategies rather than specific software engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the application of Kanban at an organisational level, which is relevant to software development practices, particularly in Agile methodologies. It mentions key aspects such as workflow optimisation, predictability, and strategic decision-making, which align with software development principles. However, the focus is more on organisational management rather than direct software engineering practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -367,11 +388,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T05:17:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:13:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses strategies for improving the flow of work at an organisational level, focusing on increasing delivery speed and predictability, which aligns closely with the concept of throughput.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses enhancing flow and predictability at an organizational level, which aligns closely with the concept of throughput. It mentions strategies for optimizing workflow and improving delivery timelines, directly relating to throughput measurement. However, while it touches on these themes, the primary focus is on the course structure and benefits rather than an in-depth exploration of throughput itself.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -421,12 +445,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for improving flow and predictability in delivery systems, which relates to change management principles, but primarily focuses on scaling and portfolio management rather than change management itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:31:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the application of Portfolio Kanban at an organisational level, discussing strategies for workflow optimisation and predictability. While it touches on aspects of organisational change, such as engaging leadership and improving decision-making, it lacks a direct focus on the principles and practices of change management as defined in the category. The discussion is more aligned with project management and Kanban methodologies rather than the deeper themes of change management in Agile contexts.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -547,47 +574,62 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving flow and predictability in delivery, which relates to Lead Time, but it primarily focuses on organisational strategies and roles rather than directly measuring or defining Lead Time.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses improving predictability and flow, which are related to Lead Time, but it does not explicitly define or focus on Lead Time as a primary metric. The mention of 'increased predictability' and 'speed of delivery' aligns with the concept of Lead Time, but the depth of discussion is more about general workflow optimisation rather than a focused analysis of Lead Time itself.",
     "level": "Tertiary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T05:18:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses scaling Agile practices at the organisational and programme level, focusing on strategies for improving flow and predictability in delivery, which aligns well with the principles of Scaled Agile.",
+    "calculated_at": "2025-03-14T19:30:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content focuses on scaling Kanban at an organisational level, which aligns with the principles of Scaled Agile. It discusses strategies for managing work across multiple teams, improving predictability, and enhancing value delivery, all of which are key themes in the Scaled Agile category. The depth of discussion is substantial, covering various aspects of organisational flow and decision-making, but it primarily centres on Kanban rather than broader Agile frameworks, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T05:18:23",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T19:30:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses practical strategies for improving flow and predictability in portfolio management, which aligns with pragmatic thinking in Agile contexts. However, it primarily focuses on the course offering rather than in-depth problem-solving techniques.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical strategies for scaling Kanban at an organisational level, which aligns with pragmatic thinking in Agile contexts. It emphasises real-world applications, such as improving workflow and predictability, and making data-driven decisions. However, while it touches on relevant themes, it lacks in-depth exploration of specific pragmatic techniques or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses increasing the flow of delivery and predictability, which relates to deployment frequency, but it primarily focuses on organisational strategies and roles rather than deployment intervals specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses optimizing workflow and improving predictability, which are related to deployment frequency, but it does not explicitly mention deployment intervals or continuous delivery practices. The focus is more on Kanban strategies and organizational flow rather than the specific optimisation of deployment frequency.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T05:18:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the application of Kanban at an organisational level, focusing on improving flow and predictability in project delivery, which aligns with agile principles.",
+    "calculated_at": "2025-03-14T19:30:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on the application of Kanban at an organisational level, which aligns with agile principles. It discusses strategies for improving workflow, predictability, and value delivery, all of which are relevant to Agile Project Management. However, it lacks direct references to the Agile Manifesto or specific agile roles like Scrum Master or Product Owner, which limits its depth and direct mentions of agile concepts.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -601,11 +643,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T05:18:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:30:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for scaling Agile methodologies at the organisational level, focusing on improving flow and predictability in delivery, which aligns closely with Agile Strategy principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the application of Portfolio Kanban at an organisational level, which aligns with Agile Strategy principles such as improving predictability and value delivery. However, while it touches on strategic decision-making and leadership engagement, it primarily focuses on the technical aspects of Kanban rather than a broader Agile strategy context. The depth of discussion on strategic integration is moderate, leading to a high confidence score but not fully aligning with the category's core themes.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -637,12 +682,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding and analysing work at an organisational level, which relates to sensemaking. However, it primarily focuses on scaling portfolio Kanban and delivery processes, making sensemaking a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Kanban at an organisational level, discussing strategies for workflow optimisation and decision-making. While it touches on aspects of sensemaking, such as understanding flow and making informed decisions, it lacks a direct exploration of sensemaking principles or frameworks. The discussion is more about technical implementations and project management rather than a deep dive into the complexities of sensemaking in organisational contexts.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -673,11 +721,14 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T05:19:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of Kanban principles at the organisational and programme level, focusing on improving flow and predictability in a scaled context, which aligns well with the key topics of the 'Scaling Kanban' category.",
+    "calculated_at": "2025-03-14T19:30:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the application of Kanban principles at an organisational level, focusing on enhancing flow and predictability, which aligns closely with the core themes of Scaling Kanban. It provides detailed insights into strategies for managing work across multiple teams and departments, as well as techniques for improving workflow and decision-making. The depth of discussion is substantial, covering various aspects of scaling Kanban, including system-wide analysis and leadership engagement, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -709,11 +760,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T05:19:13",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:30:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses strategies for improving flow and predictability in an organisational context, which aligns with Agile transformation principles, but it primarily focuses on a specific course rather than a broader discussion on Agile transformation.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the application of Kanban at an organisational level, which aligns with Agile transformation principles. It discusses strategies for enhancing workflow and predictability, which are relevant to Agile methodologies. However, it lacks a direct emphasis on broader Agile transformation concepts such as cultural shifts or leadership roles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -736,11 +790,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-14T19:31:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses strategies for improving flow and predictability at the organisational level, which aligns with themes of organisational change. However, it primarily focuses on the application of portfolio Kanban rather than broader change management principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the application of Portfolio Kanban at an organisational level, which aligns with the principles of organisational change by focusing on enhancing workflow, predictability, and value delivery. It mentions strategies for improving organisational flow and decision-making, which are relevant to change management. However, the primary focus is on Kanban practices rather than broader organisational change methodologies, which slightly limits the depth of discussion on change management principles.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -763,20 +820,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T05:19:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:30:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses strategies for improving flow and predictability in portfolio management, which aligns with operational efficiency in Agile frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the application of Kanban at an organisational level, discussing techniques for optimising workflow, improving predictability, and enhancing value delivery. It explicitly mentions strategies for analysing and optimising flow, which aligns closely with the core themes of operational efficiency. The depth of discussion is substantial, covering various aspects of implementing Kanban systems and their benefits, thus providing a comprehensive overview of operational practices.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving organisational flow and predictability, which aligns with EBM principles, but it primarily focuses on a specific course rather than EBM as a central theme.",
+    "calculated_at": "2025-03-14T19:30:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses strategies for improving workflow and decision-making at an organizational level, which aligns with the principles of Evidence-Based Management. It mentions data-driven decision-making and the importance of understanding flow and predictability, which are relevant to EBM. However, the focus is primarily on Kanban rather than EBM itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -790,12 +853,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:30:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses scaling at the organisational level and improving flow and predictability, which aligns with scaling Scrum principles, but it primarily focuses on portfolio Kanban rather than Scrum specifically.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scaling Portfolio Kanban rather than Scaling Scrum. While it discusses scaling at an organisational level, it does not mention Scrum frameworks, roles, or events, nor does it address challenges specific to scaling Scrum. The discussion is centred around Kanban principles, which are outside the scope of the Scaling Scrum category.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -808,21 +874,27 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T05:19:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-03-14T19:30:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses scaling Agile practices at the organisational level, focusing on portfolio management and improving flow and predictability, which aligns well with the principles of Large Scale Agility.",
+    "reasoning": "The content discusses scaling Kanban at an organisational level, which aligns with the principles of Large Scale Agility. It mentions the importance of understanding flow across multiple teams and departments, which is a key aspect of scaling Agile. However, while it touches on relevant themes, the depth of discussion on frameworks and enterprise-level transformation strategies is somewhat limited, focusing more on Kanban practices rather than broader Agile scaling frameworks.",
     "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses predictability and understanding flow in a portfolio context, which relates to forecasting, but it primarily focuses on organisational strategies rather than specific forecasting methodologies within Agile and Scrum.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:30:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of improving predictability and forecasting delivery timelines within the context of scaling Portfolio Kanban. It explicitly mentions techniques to enhance predictability and the role of data-driven decision-making, which aligns with the core themes of forecasting in Agile. However, while it touches on forecasting, the primary focus is on Kanban strategies rather than a deep exploration of forecasting methodologies specific to Agile and Scrum, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -943,12 +1015,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving flow and predictability in portfolio management, which relates to trends in Agile practices, but it primarily focuses on a specific course rather than a broader analysis of trends.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the 'Scaling Portfolio Kanban' course, discussing its benefits and strategies for improving workflow and predictability at an organizational level. While it touches on aspects of decision-making and analysis, it does not explicitly discuss trends in Agile or DevOps practices, nor does it provide insights into emerging trends or case studies related to trend analysis. The discussion is more about the application of Kanban rather than an exploration of trends that inform strategic decision-making.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -970,11 +1045,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses strategies for improving flow and predictability in a portfolio context, which relates to Agile planning, but it primarily focuses on organisational-level strategies rather than specific Agile planning tools.",
+    "calculated_at": "2025-03-14T19:31:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the 'Scaling Portfolio Kanban' course, which relates to Agile methodologies and touches on aspects of workflow and predictability. However, it primarily focuses on Kanban at an organisational level rather than specific Agile planning tools or techniques. While it mentions improving predictability and decision-making, it lacks detailed discussions on Agile planning tools like Jira or Trello, and does not delve into backlog management or sprint planning, which are key topics for the category.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -1006,11 +1084,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:30:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving flow and predictability at an organisational level, which relates to strategic objectives, but primarily focuses on operational aspects of portfolio management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the application of Portfolio Kanban at an organizational level, which touches on strategic decision-making and optimizing workflows. However, it primarily focuses on operational tactics and techniques rather than explicitly defining long-term strategic goals. While there are mentions of improving predictability and value maximization, these are framed within the context of workflow enhancement rather than a broader strategic vision. Therefore, the content aligns with the category to some extent but lacks depth and direct focus on strategic goals.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
@@ -1045,11 +1126,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:30:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving flow and predictability in delivery systems, which aligns with Lean principles, but it primarily focuses on scaling and Agile methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the application of Kanban at an organisational level, which aligns with Lean principles of maximising value and optimising workflow. It mentions value maximisation and improving predictability, both of which are core themes in Lean. However, the focus is primarily on Kanban and Agile practices, with less emphasis on broader Lean methodologies or waste reduction techniques, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -1114,12 +1198,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses strategies for improving flow and predictability in product delivery, which aligns with Agile principles, but it primarily focuses on portfolio management rather than core Agile product management topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:31:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the application of Kanban at an organizational level, which aligns with Agile principles, particularly in terms of value maximization and workflow optimization. However, it primarily focuses on Kanban rather than Agile Product Management specifically, and while it mentions concepts relevant to Agile, such as value delivery and decision-making, it lacks depth in discussing the role of the Product Owner or specific Agile practices. Therefore, while there is some alignment, it does not fully meet the criteria for a strong focus on Agile Product Management.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1144,12 +1231,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:31:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding and analysing systems at an organisational level, which aligns with complexity thinking principles. However, it primarily focuses on practical applications of portfolio management rather than a deep exploration of complexity science.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the application of Kanban at an organizational level, which touches on aspects of complexity thinking, such as understanding flow and managing work across multiple teams. However, it lacks direct references to complexity science principles, such as non-linear dynamics or emergent behaviours. The focus is more on practical strategies for workflow optimisation rather than a deep exploration of complexity theory, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1174,12 +1264,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:30:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a course related to scaling portfolio Kanban, which implies a structured learning experience. However, it primarily focuses on the course content and objectives rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a course about Scaling Portfolio Kanban, which is educational in nature but does not explicitly mention any specific events, presentations, or discussions. While it aligns conceptually with the themes of Agile and DevOps, it lacks direct references to live or recorded events, which is a key requirement for this category. The depth of discussion is moderate, providing insights into the course content but not enough to classify it as an event or presentation.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1219,12 +1312,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:14:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:30:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a course related to scaling portfolio Kanban, which is relevant to Agile practices. However, it primarily focuses on the course structure and its benefits rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses a specific course on Scaling Portfolio Kanban, which is a tool relevant to Agile methodologies. While it provides a detailed overview of the course and its benefits, it lacks direct references to books or literature. The discussion aligns with the core themes of enhancing Agile practices but does not delve deeply into product comparisons or reviews, which are key aspects of the category. Overall, the content is relevant but not fully aligned with the 'Products and Books' classification.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1444,7 +1540,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:48:38",
+    "calculated_at": "2025-03-14T19:30:04",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -1452,6 +1548,6 @@
     "non_ai_confidence": 50,
     "final_score": 16.0,
     "reasoning": "The content primarily discusses a course on 'scaling with portfolio Kanban', which is not aligned with Scrum principles or practices. While it mentions roles such as Scrum Masters and Product Owners, these are secondary to the main focus on Kanban and portfolio management. The discussion lacks depth in Scrum-specific topics and does not provide substantial insights into Scrum events, artifacts, or the framework itself.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

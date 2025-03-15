@@ -1,7 +1,7 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-06T15:10:57",
+    "calculated_at": "2025-03-14T22:04:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses asynchronous communication, which is relevant to collaboration and team dynamics, but it does not explicitly mention any specific frameworks like Scrum, Kanban, Lean, or Agile. While it aligns with the core themes of enhancing collaboration and productivity, the lack of direct references to the methodologies and limited depth in discussing structured practices results in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -202,7 +202,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-06T15:10:59",
+    "calculated_at": "2025-03-14T22:04:08",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -210,7 +210,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions asynchronous communication, which can enhance collaboration and productivity within teams. However, it lacks explicit discussions on team dynamics, Agile practices, or methodologies that directly relate to team performance. The focus is more on the concept of asynchronous communication rather than its application within an Agile framework, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -976,7 +976,7 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T11:29:16",
+    "calculated_at": "2025-03-14T22:04:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -984,7 +984,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions asynchronous communication, which is a tool that can facilitate collaboration, a key aspect of sociotechnical systems. However, it lacks a deeper exploration of how this communication method interacts with organisational structures or team dynamics. The discussion is primarily focused on the benefits of asynchronous communication without addressing its implications for software delivery or team effectiveness, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1420,7 +1420,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:18:00",
+    "calculated_at": "2025-03-14T22:04:08",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1428,6 +1428,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions communication, which is a component of team dynamics in Scrum, but it does not explicitly discuss Scrum principles, roles, events, or artifacts. The focus is primarily on asynchronous communication rather than Scrum practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

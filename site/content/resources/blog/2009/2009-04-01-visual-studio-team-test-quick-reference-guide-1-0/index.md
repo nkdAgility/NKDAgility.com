@@ -26,8 +26,6 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Pragmatic Thinking
-- Software Development
-- Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

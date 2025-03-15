@@ -26,15 +26,15 @@ duration: 362
 isShort: false
 tags:
 - Deployment Frequency
-- Software Development
 - Practical Techniques and Tooling
 - Product Delivery
 - Code and Complexity
+- Operational Practices
 - Technical Excellence
+- Frequent Releases
+- Software Development
+- Technical Mastery
 - Value Delivery
-- Flow Efficiency
-- Pragmatic Thinking
-- Software Developers
 resourceTypes:
 - video
 sitemap:

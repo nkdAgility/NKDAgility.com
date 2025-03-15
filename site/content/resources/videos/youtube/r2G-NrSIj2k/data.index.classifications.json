@@ -193,12 +193,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and pull requests, which are relevant to Azure Repos, but it also includes general practices and mentions other platforms like GitHub, making Azure Repos a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:10:07",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, which are relevant to Azure Repos, particularly in the context of pull requests and automated checks. However, it lacks a direct focus on Azure Repos itself, with only a brief mention of Azure DevOps Pipelines as a tool for automation. The primary emphasis is on general code review practices rather than specific Azure Repos functionalities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -394,12 +397,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:47:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automation in the code review process and mentions validated checks that should be automated, indicating a secondary theme related to automated testing practices.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of automated checks in the context of code reviews, highlighting their importance in improving quality and efficiency. It mentions automated tests and tools, aligning with the principles of automated testing. However, the primary focus is on code reviews rather than automated testing itself, which limits the depth of discussion on the category.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1111,16 +1117,19 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:06:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the automation of code reviews and pull requests to prevent bottlenecks in the delivery process, which aligns with flow efficiency principles. However, the primary focus is on code quality and review practices rather than flow efficiency itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the optimisation of code review processes through automation, which directly relates to enhancing flow efficiency by reducing bottlenecks and improving throughput. It highlights the benefits of pre-reviewed code, such as faster delivery and early defect detection, aligning well with the principles of Flow Efficiency. However, while it touches on relevant concepts, the primary focus is on code reviews rather than a broader discussion of flow efficiency principles.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-11T13:06:48",
+    "calculated_at": "2025-03-14T17:10:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1128,7 +1137,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content discusses automation in the context of code reviews and pull requests, which relates to Agile practices. However, it does not explicitly mention AI or its integration into Agile methodologies. The focus is primarily on code quality and review processes rather than on AI's role in enhancing Agile practices. While there is some alignment with automation in Agile, the lack of direct references to AI and a limited exploration of its impact on Agile frameworks results in a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1240,12 +1249,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and pull request systems, mentioning DevOps in the context of automation and quality assurance, but it does not focus specifically on Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:10:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 63.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, with a brief mention of Azure DevOps Pipelines as a tool for automated processes. However, the primary focus is on code review practices rather than Azure DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1276,12 +1288,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:10:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses code reviews and automation in the context of improving code quality and reducing blockers to value delivery, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses code reviews primarily in the context of quality assurance and automation, which indirectly relates to value delivery through faster delivery and early defect detection. However, it lacks explicit discussions on customer value, iterative development, or alignment with customer needs, which are core themes of the Value Delivery category.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1453,7 +1468,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:10",
+    "calculated_at": "2025-03-14T17:10:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1461,6 +1476,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses code reviews and quality assurance practices, which are not directly related to Scrum principles or frameworks. While there is a mention of 'agility' and 'automations', these concepts are not explicitly tied to Scrum roles, events, or artifacts. The focus is on code quality rather than collaborative project management or Scrum-specific practices, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

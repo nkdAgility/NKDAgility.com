@@ -52,7 +52,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:40:45",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -60,11 +60,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses agile leadership in contrast to traditional management, which touches on the principles of business agility. However, it primarily focuses on agile methodologies and training rather than a comprehensive exploration of business agility as a whole. The mention of fostering a happy and inspired workforce aligns with the culture of innovation aspect, but the overall depth and direct mentions of business agility are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-10T12:03:32",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -72,7 +72,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the need for a different style of leadership in complex environments, which aligns with the themes of complexity thinking. However, it primarily focuses on Agile leadership versus traditional management without delving deeply into complexity science principles or frameworks. The discussion lacks substantial detail on non-linear dynamics, emergence, or uncertainty, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -241,7 +241,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T18:10:29",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -249,7 +249,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses agile leadership in contrast to traditional management, which is tangentially related to product delivery. While it mentions agile methodologies, it lacks a direct focus on the end-to-end process of delivering software products. The discussion does not delve into specific practices or methodologies related to product delivery, such as testing, deployment, or cross-functional teams, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -349,7 +349,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T14:36:15",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -357,7 +357,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses agile leadership in contrast to traditional management, which is relevant to enterprise agility but does not delve into broader organisational implications or frameworks for scaling agility. While it touches on the need for a different leadership style in complex environments, it lacks detailed exploration of how this fits into the overall culture of adaptability and continuous improvement across the organisation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -370,7 +370,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:25:38",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -378,7 +378,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions agile leadership in contrast to traditional management, which aligns with the category's focus on guiding teams. However, it lacks depth in discussing specific technical leadership principles or practices, and the primary focus is more on promoting agile consultancy services rather than providing a detailed exploration of technical leadership concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -409,7 +409,7 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T17:38:22",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -417,7 +417,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly touches on Agile leadership and contrasts it with traditional management, which hints at Agile principles. However, it primarily focuses on the consultancy services offered and does not delve deeply into the core values or principles of Agile. The discussion lacks substantial detail on Agile's foundational beliefs, making it more of a promotional piece rather than a thorough exploration of Agile values.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -457,7 +457,7 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-13T15:16:04",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -465,7 +465,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses agile leadership in contrast to traditional management, which touches on aspects of organisational culture, particularly in relation to leadership styles. However, it primarily focuses on the differences in management approaches rather than a comprehensive exploration of organisational culture itself. While there are mentions of the positive impact of a happy and inspired workforce, the depth of discussion on cultural elements that support Agile practices is limited. Overall, the content aligns with the category but does not delve deeply into the core themes of organisational culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -691,12 +691,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T19:41:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:40:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and its impact on team dynamics, which is a secondary theme related to team collaboration, but the primary focus is on the differences between Agile and traditional management.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile leadership and its distinction from traditional management, which indirectly touches on team dynamics and collaboration. However, it lacks a direct focus on team collaboration techniques or specific strategies for enhancing teamwork. The mention of high-performing teams suggests some alignment with the category, but the overall depth and explicit discussion of team collaboration are limited.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -772,12 +775,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T19:41:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:40:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and its relevance in complex environments, which relates to market adaptability, but it primarily focuses on the differences between Agile and traditional management rather than specific strategies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile leadership and its contrast with traditional management, which touches on the need for adaptability in complex environments. However, it lacks a direct focus on market adaptability strategies, such as Agile methodologies' role in responding to market shifts or the implementation of feedback loops. The discussion is more about leadership styles rather than specific practices that enhance market adaptability, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -889,12 +895,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:41:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:40:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the differences between agile leadership and traditional management, which relates to the Agile Philosophy, but primarily focuses on leadership styles rather than the broader principles and values of Agile.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the differences between agile leadership and traditional management, which touches on the Agile Philosophy. However, it primarily focuses on leadership styles rather than the foundational principles of Agile. While there are mentions of Agile and its positive impact on teams, the discussion lacks depth regarding the core themes of Agile Philosophy, such as the Agile Manifesto or continuous improvement. The content is more promotional and less about the philosophical underpinnings of Agile.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -907,11 +916,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T19:41:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:40:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile leadership and mentions agile coaching, but the primary focus is on the differences between agile leadership and traditional management rather than on coaching practices.",
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions agile coaching and its positive impact on teams, but it primarily focuses on the differences between agile leadership and traditional management. While there are references to coaching, they are not the main focus of the discussion, and the depth of exploration into coaching techniques or practices is limited.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -997,12 +1009,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T19:42:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile leadership and its impact on team dynamics and organisational effectiveness, which aligns with sociotechnical systems. However, the primary focus is on agile methodologies rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile leadership and its contrast with traditional management, which touches on organisational structures but lacks a detailed exploration of the interplay between social and technical systems. While it hints at team dynamics and the importance of a happy workforce, it does not delve into the core themes of sociotechnical systems or provide substantial depth on how these elements influence software delivery.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1033,11 +1048,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the differences between agile leadership and traditional management, which relates to practical problem-solving in complex environments, but it primarily focuses on the concept of leadership rather than specific pragmatic techniques or strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transition from traditional management to Agile leadership, which touches on the need for practical problem-solving in complex environments. However, it lacks detailed exploration of specific pragmatic strategies or real-world applications within Agile frameworks, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lead Time": {
@@ -1105,12 +1123,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T19:42:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:06",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and its differences from traditional management, which is a significant aspect of software development methodologies, particularly in Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile leadership and its distinction from traditional management, which aligns with Agile methodologies in software development. While it does not delve deeply into specific software engineering practices, it highlights the importance of Agile principles and their application in team dynamics, which is relevant to the Software Development category. However, the focus is more on leadership styles rather than technical practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1249,21 +1270,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T19:42:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the differences between Agile leadership and traditional management, indicating a focus on leadership styles in Agile contexts, but it also includes significant promotional material about Agile consultancy services.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the differences between Agile leadership and traditional management, which directly addresses the role of leaders in navigating complexity. However, while it mentions Agile leadership, it does not delve deeply into specific strategies or techniques for empowering teams or fostering a culture of trust and collaboration. The focus is more on the distinction rather than a comprehensive exploration of Agile leadership principles.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T19:42:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile leadership and its impact on team dynamics, which is a significant theme, but it primarily focuses on the differences between agile and traditional management rather than specific motivational strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile leadership and its positive impact on team dynamics, hinting at the importance of a motivated workforce. However, it lacks direct discussions on specific strategies for team motivation and does not delve deeply into the psychological aspects of team dynamics.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1339,12 +1366,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T19:43:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile leadership, which is a significant aspect of organisational change, but it primarily focuses on the differences between agile and traditional management rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership in contrast to traditional management, which touches on aspects of organisational change, particularly in the context of adapting leadership styles to complex environments. However, it primarily focuses on agile methodologies and training rather than providing a comprehensive discussion on organisational change strategies or frameworks. The depth of discussion is limited, lacking detailed exploration of change management principles or case studies, which diminishes its relevance to the category.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1357,11 +1387,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:43:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:16",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile leadership in the context of traditional management, which aligns with Agile principles, but it primarily focuses on leadership styles rather than a comprehensive Agile strategy.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses Agile leadership in contrast to traditional management, which touches on the importance of adapting leadership styles in complex environments. However, it primarily focuses on leadership rather than a comprehensive Agile strategy. While it mentions Agile principles and the role of Agile in fostering high-performing teams, it lacks detailed exploration of strategic planning, continuous value delivery, or case studies that would strengthen its alignment with the Agile Strategy category.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -1384,12 +1417,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:43:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:41:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile leadership in contrast to traditional management, highlighting the need for different leadership styles in complex environments, which aligns with the principles of organisational agility. However, it primarily focuses on agile consultancy services rather than a deep exploration of organisational agility itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the differences between agile leadership and traditional management, which aligns with the principles of organisational agility, particularly in leadership's role in fostering a culture of agility. However, it lacks detailed exploration of agile methodologies, frameworks, or specific strategies for enhancing organisational adaptability. The focus is more on leadership style rather than comprehensive organisational agility practices.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

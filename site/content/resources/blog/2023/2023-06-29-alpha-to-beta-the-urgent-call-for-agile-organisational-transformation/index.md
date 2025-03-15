@@ -28,16 +28,16 @@ aliasesArchive:
 - /blog/the-urgent-call-for-agile-organisational-transformation
 - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 tags:
-- Organisational Change
+- Agile Transformation
 - Business Agility
 - Resilience and Change
+- Organisational Change
 - Organisational Agility
 - People and Process
+- Change Management
 - Enterprise Agility
 - Digital Transformation
 - Market Adaptability
-- Organisational Culture
-- Organisational Physics
 categories:
 - Social Technologies
 - Leadership

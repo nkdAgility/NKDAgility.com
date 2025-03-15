@@ -5,7 +5,7 @@ ResourceId: x7ra7pQCDX5
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-06T09:00:00
-weight: 265
+weight: 305
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -21,15 +21,15 @@ aliasesArchive:
 - /blog/stop-promoting-branches
 tags:
 - Software Development
-- Technical Excellence
-- Continuous Delivery
+- Modern Source Control
 - Continuous Integration
-- Engineering Practices
+- Value Delivery
 - Release Management
 - Software Developers
-- Value Delivery
-- Flow Efficiency
-- Modern Source Control
+- Continuous Delivery
+- Engineering Practices
+- Deployment Strategies
+- Practical Techniques and Tooling
 categories:
 - DevOps
 preview: 2025-02-06-stop-promoting-branches.jpg

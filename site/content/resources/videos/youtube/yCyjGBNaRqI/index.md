@@ -2,7 +2,7 @@
 title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 description: Unlock the secret to exceptional products by fostering happy, engaged teams. Discover how autonomy, mastery, and purpose drive success in your organisation!
 date: 2024-05-10T06:45:01Z
-weight: 775
+weight: 700
 ResourceId: yCyjGBNaRqI
 ResourceType: videos
 ResourceImport: true
@@ -31,9 +31,9 @@ tags:
 - Employee Engagement
 - Team Collaboration
 - Agile Leadership
+- Agile Philosophy
 - Organisational Psychology
 - Self Organisation
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

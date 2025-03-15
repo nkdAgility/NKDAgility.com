@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Metrics and Learning
 resourceTypes:
 - video
 categories: []

@@ -23,8 +23,12 @@ aliasesArchive:
 - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 tags:
-- Software Development
 - Install and Configuration
+- Practical Techniques and Tooling
+- Software Development
+- Windows
+- Technical Mastery
+- System Configuration
 categories:
 - Engineering Excellence
 

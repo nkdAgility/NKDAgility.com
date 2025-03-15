@@ -1,7 +1,7 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T19:00:04",
+    "calculated_at": "2025-03-15T07:37:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions TFS (Team Foundation Server) and its event handler, which relates to application lifecycle management tools. However, it lacks a detailed discussion on the stages of the application lifecycle or best practices. The focus is more on a specific technical issue rather than a comprehensive exploration of ALM principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -103,7 +103,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T10:48:25",
+    "calculated_at": "2025-03-15T07:37:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -111,7 +111,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content mentions TFS (Team Foundation Server) and discusses revisiting an event handler prototype, which relates to tooling in a practical context. However, it lacks a comprehensive exploration of methodologies or frameworks that enhance Agile and DevOps practices. The discussion is somewhat technical but does not delve deeply into best practices or case studies, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1399,7 +1399,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:15:32",
+    "calculated_at": "2025-03-15T07:37:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1407,6 +1407,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses TFS (Team Foundation Server) and its event handler prototype, with no explicit mention of Scrum principles, roles, or practices. While it may relate to project management in a broader sense, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

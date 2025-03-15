@@ -196,7 +196,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-10T11:48:57",
+    "calculated_at": "2025-03-14T20:06:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -204,7 +204,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the negative impact of project management mindsets on agile practices, indicating a concern for organisational agility. However, it primarily focuses on the pitfalls of traditional project management approaches rather than exploring strategies or frameworks that enhance agility. The discussion lacks depth and does not provide substantial insights into agile methodologies or cultural shifts necessary for fostering organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -292,7 +292,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T14:04:40",
+    "calculated_at": "2025-03-14T20:06:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -300,7 +300,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the role of product owners in an agile context, which relates to product delivery. However, it primarily focuses on the negative impacts of certain mindsets rather than providing a comprehensive discussion on methodologies, practices, or strategies for effective product delivery. The depth of discussion is limited, lacking detailed exploration of key topics such as iterative development, testing, or deployment strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -454,7 +454,7 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-11T11:21:57",
+    "calculated_at": "2025-03-14T20:06:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -462,7 +462,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the negative impact of a project management mindset on team engagement and empowerment, which aligns with the themes of team motivation. However, it lacks direct mentions of specific motivational strategies or practices, and the depth of discussion is limited to a critique rather than a comprehensive exploration of team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -697,7 +697,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:09:11",
+    "calculated_at": "2025-03-14T20:06:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -705,7 +705,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions the role of product owners in an Agile context, highlighting the negative impacts of a project management mindset on product management. However, it lacks a comprehensive discussion on product management methodologies, frameworks, or strategic alignment with customer needs and business objectives. The focus is more on the pitfalls of certain behaviours rather than a deep exploration of product management principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -727,12 +727,12 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T15:05:46",
+    "calculated_at": "2025-03-14T20:06:44",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content touches on the negative impact of traditional project management mindsets on team empowerment and engagement, which relates indirectly to self-organisation. However, self-organisation is not a primary focus here, and the main discussion centers on identifying and criticizing project management behaviors.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -784,12 +784,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:15:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to Agile practices and the mindset of product owners, which is a secondary theme relevant to Agile transformation, but it does not primarily focus on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Product Owner within Agile teams, highlighting the negative impacts of a project management mindset on Agile practices. It aligns well with Agile transformation principles by addressing the need for a value-driven approach, collaboration, and team empowerment. The depth of discussion is substantial, providing strategies to combat ineffective behaviours and promote true agility, which is central to Agile transformation. However, it does not explicitly mention Agile frameworks or methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -949,12 +952,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impacts of project management mindsets on team dynamics and the role of the product owner, which relates to team performance and collaboration. However, it is more focused on identifying negative influences in project management rather than on strategies for enhancing team performance.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:06:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the dynamics within Agile teams, particularly focusing on the role of the Product Owner and how their mindset can impact team performance. It addresses key themes such as collaboration, empowerment, and the consequences of a misaligned focus on tasks over value. The strategies proposed for combating 'agile banditry' directly relate to enhancing team dynamics and effectiveness, aligning well with the core themes of the 'Team Performance' category. The depth of discussion is substantial, providing insights into the negative impacts and offering actionable strategies, which further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -997,12 +1003,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:06:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of the product owner in an agile context, particularly in contrast to traditional project management mindsets, making it a major but secondary theme related to Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within Agile teams, highlighting the negative impacts of a project management mindset on agility. It aligns well with Agile principles by emphasising value delivery, collaboration, and team empowerment. The depth of discussion is substantial, providing specific strategies to combat ineffective practices, which reinforces its relevance to Agile Project Management.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1078,12 +1087,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:06:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the role of a product owner in Agile environments and touches on Agile practices, but it focuses more on project management mindsets than on software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically the role of the Product Owner within Agile teams. It addresses the negative impacts of a project management mindset on Agile practices, aligning closely with key topics in software development such as Agile frameworks and team dynamics. The depth of discussion is substantial, providing insights into the consequences of ineffective roles and strategies for improvement, which further supports its relevance to the Software Development category.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1105,12 +1117,12 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:05:46",
+    "calculated_at": "2025-03-14T20:06:44",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content mentions product owners but primarily discusses negative behaviors associated with project management mindsets rather than Scrum principles or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1195,12 +1207,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:55:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the negative impacts of a project management mindset in relation to Agile principles, implying the importance of engagement and empowerment within teams, which aligns with Agile values. However, it primarily focuses on identifying a problematic mindset rather than deeply exploring Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Product Owner in Agile teams, highlighting the importance of value delivery, collaboration, and team empowerment, which are core Agile principles. It critiques a project management mindset that detracts from these values, thus aligning well with the category. The depth of discussion is substantial, providing specific examples and strategies to combat misalignment with Agile principles, but it does not explicitly reference the Agile Manifesto or its principles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1303,12 +1318,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:06:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the practical implications of Agile roles, particularly in identifying problematic behaviors in product owners, indicating a concern for real-world applications in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses the role of the Product Owner in Agile teams, highlighting practical issues and solutions related to project management mindsets. It directly addresses the importance of value delivery, team empowerment, and collaboration, which are core themes of pragmatic thinking. The depth of discussion includes specific strategies to combat ineffective practices, demonstrating a strong alignment with real-world applications of Agile principles.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1432,7 +1450,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:50:55",
+    "calculated_at": "2025-03-14T20:06:44",
     "ai_confidence": 45.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1440,6 +1458,6 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions the role of a product owner, which is a key role in the Scrum framework. However, it primarily focuses on the negative aspects of a product owner behaving like a project manager, which does not align with the core principles of Scrum. The discussion lacks depth and does not cover other Scrum roles, events, or practices, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

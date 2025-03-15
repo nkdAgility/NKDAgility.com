@@ -91,7 +91,7 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-06T13:31:09",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -99,7 +99,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses flexibility in project management, which is a component of market adaptability, but it lacks explicit references to Agile methodologies or practices that enhance responsiveness to market changes. While it touches on the importance of context in decision-making, it does not delve deeply into strategies or frameworks that would strengthen an organisation's adaptability to market shifts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -121,7 +121,7 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-06T14:44:30",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -129,11 +129,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on decision-making in the context of flexibility and inflexibility, suggesting a consideration of outcomes and goals. However, it lacks explicit discussions on heuristics, biases, or decision-making frameworks, which are core to Decision Theory. The focus is more on Agile project management rather than a thorough exploration of decision-making processes in uncertain environments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-07T12:50:17",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -141,11 +141,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses flexibility and inflexibility in project management, hinting at team dynamics and decision-making processes. However, it lacks explicit references to Agile or Scrum methodologies and does not delve deeply into human factors or structured methodologies. The focus is more on project management strategies rather than the interplay between people and processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-03-10T11:38:01",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -153,7 +153,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses flexibility and inflexibility in project management, which touches on adaptability but lacks a direct focus on organisational resilience or change management. While it hints at the importance of context in achieving goals, it does not delve into strategies, frameworks, or leadership roles that are central to the category of Resilience and Change.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -364,7 +364,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T09:50:30",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -372,7 +372,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses flexibility and adaptability in project management, which are relevant to enterprise agility. However, it lacks explicit mentions of organisational structures, frameworks, or broader implications of agility on organisational performance. The focus is more on individual project management rather than enterprise-level agility, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -811,7 +811,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T13:08:27",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -819,7 +819,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses flexibility and inflexibility in project management, which touches on adaptability—a key theme in Agile Strategy. However, it lacks explicit mentions of Agile methodologies or strategic planning, and the depth of discussion is more focused on operational aspects rather than strategic alignment or implementation of Agile principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -1138,12 +1138,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:48:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the balance of flexibility and inflexibility in project management, which aligns with Agile principles, but it does not specifically focus on Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, touching on key Agile Planning principles such as adaptability and iterative processes. However, it lacks direct references to specific Agile Planning techniques like user stories, backlogs, or sprints, which limits its depth and direct alignment with the category.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1204,16 +1207,19 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the flexibility and adaptability of project management, which relates to how projects in a portfolio can be adjusted to meet goals. However, it does not directly address core portfolio management topics such as strategic alignment, prioritization frameworks, or performance metrics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:31:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility in project management. While it touches on themes relevant to portfolio management, such as resource allocation and project adjustments, it primarily focuses on team-level practices and does not explicitly address the strategic alignment of projects with organisational goals or the management of a portfolio of projects. Therefore, it lacks the depth and direct focus required for a higher confidence score in the Portfolio Management category.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-13T16:21:47",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1221,7 +1227,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility, which touches on organisational dynamics. However, it lacks a direct focus on systems thinking principles or the broader implications of organisational structure and culture. While it mentions the importance of context and decision-making, it does not delve deeply into the systemic interactions within organisations, which is central to the category of Organisational Physics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1438,7 +1444,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T14:44:27",
+    "calculated_at": "2025-03-14T17:31:55",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1446,6 +1452,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on flexibility and inflexibility in project management but does not explicitly mention Scrum or its core components. While it hints at project management principles, it lacks a direct focus on Scrum roles, events, or artifacts, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

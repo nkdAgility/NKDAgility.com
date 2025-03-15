@@ -10,7 +10,7 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T10:53:23",
+    "calculated_at": "2025-03-15T07:48:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the challenges of selling Team System and gaining buy-in from various stakeholders rather than focusing on the technical aspects of installation and configuration. While it briefly mentions setting up a trial copy of Team Foundation Server, the overall emphasis is on persuasion and strategy rather than detailed installation or configuration procedures.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -109,7 +109,7 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T12:18:12",
+    "calculated_at": "2025-03-15T07:48:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -117,7 +117,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of selling Team System to various stakeholders, which touches on the social aspects of technology adoption. However, it primarily focuses on the technical tool itself and the sales process rather than a comprehensive exploration of sociotechnical interactions. The mention of different roles (developers, managers, etc.) indicates some awareness of team dynamics, but the overall discussion lacks depth in exploring how these social and technical elements influence software delivery and team effectiveness.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -220,7 +220,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:21:10",
+    "calculated_at": "2025-03-15T07:48:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -228,11 +228,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the challenges of selling Team System and the need for effective communication with various stakeholders, which touches on practical techniques for implementation. However, it lacks a detailed exploration of specific tools or methodologies, focusing more on the selling aspect rather than the practical application of Agile or DevOps practices. The mention of Team Foundation Server is relevant but does not delve into its practical use or integration within teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T17:10:26",
+    "calculated_at": "2025-03-15T07:48:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -240,7 +240,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of selling Team System, which is related to application management, but it primarily focuses on the sales and adoption aspects rather than the lifecycle management itself. While it mentions Team Foundation Server, it does not delve into the stages of the application lifecycle or best practices for governance and compliance, which are core themes of Application Lifecycle Management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -472,12 +472,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the deployment and configuration of Team Foundation Server, which relates to system configuration; however, the primary focus is on the challenges of selling and convincing teams to adopt the software, making system configuration a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the challenges of selling Team System and the need for buy-in from various stakeholders, which is more focused on project management and sales strategies rather than the technical aspects of system configuration. While there are brief mentions of deployment and configuration, these are not the main focus of the discussion, leading to a low confidence score in the context of System Configuration.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -544,12 +547,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the process of selling and implementing Team System within a software development context, focusing on engaging different stakeholders involved in software projects.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of selling Team System to various stakeholders in a software development context, which aligns with the category. However, it primarily focuses on the sales aspect rather than software development methodologies or practices, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -949,12 +955,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and strategies of selling Team System to various stakeholders, including developers, which indicates a focus on software development contexts, but it is primarily about selling and promoting a product rather than directly addressing software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the challenges of selling Team System to various stakeholders, including developers, but it primarily focuses on the sales and marketing aspects rather than the role of software developers within Agile or DevOps frameworks. While it touches on the need for collaboration among team members, it lacks a detailed exploration of Agile methodologies or DevOps principles, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -985,12 +994,12 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:13:47",
+    "calculated_at": "2025-03-15T07:48:30",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily discusses the challenges of selling Team System to various stakeholders, which is more closely related to marketing and implementation rather than strategic product management practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -1102,12 +1111,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical strategies for selling Team System to different stakeholders, demonstrating a focus on real-world applications and teamwork, which aligns with pragmatic thinking in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the practical challenges of selling Team System to various stakeholders, which aligns with pragmatic thinking in terms of real-world application and problem-solving. However, it lacks direct mentions of Agile, Scrum, or DevOps frameworks, and the depth of discussion on pragmatic strategies is limited. The focus is more on the sales aspect rather than on applying Agile principles or navigating project complexities.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1318,12 +1330,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:13:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the process of gaining buy-in for the Team System among various team members, which touches on aspects of team communication and collaboration, but primarily focuses on selling a product rather than collaboration dynamics within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of selling Team System to various stakeholders, which touches on aspects of team collaboration. However, it primarily focuses on the sales process rather than enhancing teamwork dynamics or communication within Agile frameworks. While there are mentions of involving team members and managers, the depth of discussion on collaboration techniques or shared ownership is limited.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1408,7 +1423,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:22:15",
+    "calculated_at": "2025-03-15T07:48:30",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1416,6 +1431,6 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses the challenges of selling Team System and does not explicitly mention Scrum or its principles. While it touches on team dynamics and collaboration, it lacks a direct focus on Scrum roles, events, or artifacts, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

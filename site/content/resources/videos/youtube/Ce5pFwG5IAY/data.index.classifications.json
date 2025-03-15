@@ -67,7 +67,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-07T13:36:30",
+    "calculated_at": "2025-03-14T22:11:19",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -75,7 +75,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions Scrum Masters and their use of liberating structures, which are relevant to Scrum practices. However, it lacks a comprehensive discussion of Scrum roles, events, or principles, making it more of a secondary focus rather than a primary exploration of Professional Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -124,7 +124,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T12:00:39",
+    "calculated_at": "2025-03-14T22:11:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum Masters and liberating structures, which are tools used within the Scrum framework. However, it lacks a comprehensive discussion on Agile frameworks as a whole, focusing instead on specific tools without exploring their broader implications or principles. The mention of Scrum is relevant but not central, and the depth of discussion is limited to practical applications rather than a thorough exploration of Agile frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -361,7 +361,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T11:29:55",
+    "calculated_at": "2025-03-14T22:11:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -369,7 +369,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the role of Scrum Masters and their use of liberating structures in meetings, which relates to facilitating agile ceremonies. However, it lacks a comprehensive discussion on technical leadership principles, mentoring, or team dynamics, making it more of a secondary focus rather than a primary exploration of technical leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -583,7 +583,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-13T15:36:20",
+    "calculated_at": "2025-03-14T22:11:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -591,7 +591,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Scrum Masters and the use of liberating structures to enhance meetings, which indirectly relates to the category of events and presentations. However, it does not explicitly mention any specific events, talks, or presentations, and focuses more on theoretical concepts and practical applications rather than actual events. The alignment with the category is moderate due to the emphasis on improving meeting dynamics, but the lack of direct references to events or presentations limits the overall confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -688,12 +688,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T18:26:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools that Scrum Masters use to enhance meetings and events, which relates to team collaboration, but it primarily focuses on the tools themselves rather than broader themes of teamwork dynamics or communication.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:01:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of Scrum Masters in enhancing team collaboration through the use of liberating structures, which aligns closely with the core themes of team dynamics and effective communication. It provides detailed strategies for implementing these structures, demonstrating a strong depth of discussion on improving team engagement and effectiveness. Overall, the content is highly relevant to the category of Team Collaboration.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -733,11 +736,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T18:26:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:22:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools that Scrum Masters use, which may relate to self-organisation, but it primarily focuses on the use of liberating structures rather than the principles or practices of self-organisation itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses tools that Scrum Masters can use to enhance team dynamics and meeting effectiveness, which indirectly relates to self-organisation. However, it primarily focuses on the use of liberating structures rather than explicitly addressing self-organisation principles or practices. While there are mentions of improving team engagement and communication, the depth of discussion on self-organisation is limited, and the content does not explore the broader implications of autonomy and ownership within teams.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
@@ -805,12 +811,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T18:27:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of liberating structures in meetings, which can facilitate decision-making processes, but it primarily focuses on the tools themselves rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions decision-making as one of the objectives for using liberating structures, but it primarily focuses on enhancing team dynamics and meeting effectiveness rather than structured decision-making methodologies. While there is some alignment with the category's themes, the depth of discussion on evidence-based practices and frameworks for decision-making is limited.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -868,20 +877,26 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T18:27:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of liberating structures in Scrum events, which relates to strategic planning and execution within Agile frameworks, but it primarily focuses on tools rather than broader strategic concepts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Scrum Masters in enhancing team dynamics through liberating structures, which aligns with strategic approaches in Agile. However, while it touches on strategic planning and execution, it primarily focuses on practical tools rather than a comprehensive strategic framework, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T18:27:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses techniques (liberating structures) that can enhance meeting effectiveness, which relates to operational practices, but it primarily focuses on Scrum roles and events.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of liberating structures, which can enhance operational efficiency in Scrum meetings. However, it primarily focuses on the Scrum Master's role and the facilitation of meetings rather than broader operational practices. While it aligns with the category's themes of improving team dynamics and effectiveness, it lacks depth in discussing specific operational strategies or metrics.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -904,12 +919,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T18:27:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools that Scrum Masters use to facilitate meetings and events, which aligns with coaching practices, but it primarily focuses on the tools themselves rather than the coaching process or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of Scrum Masters in enhancing team collaboration through liberating structures, which aligns with coaching principles. However, it primarily focuses on tools and techniques rather than the broader coaching philosophy or practices. The mention of transforming team dynamics and fostering engagement indicates some alignment with coaching, but the depth of discussion on coaching itself is limited.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1003,12 +1021,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T18:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific tool (liberating structures) that Scrum Masters use, which aligns with the category's focus on tools that facilitate Agile practices. However, it does not provide a review or analysis of products or literature, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses tools (liberating structures) that Scrum Masters can use to enhance meetings, which aligns with the category's focus on tools and software that facilitate Agile practices. However, it lacks direct references to specific products or books, and while it provides some depth on the application of these tools, it does not delve into reviews or analyses of literature, which would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1030,12 +1051,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:27:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of liberating structures in Scrum events, which relates to practical problem-solving strategies in Agile contexts. However, it primarily focuses on the tools themselves rather than broader pragmatic thinking principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical tools (liberating structures) that Scrum Masters can use to enhance team collaboration and meeting effectiveness, which aligns with pragmatic thinking. However, while it mentions practical applications, the focus is more on specific tools rather than broader problem-solving strategies or real-world applications of Agile principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1102,12 +1126,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T18:27:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a framework within the Agile methodology, making it a major but secondary theme related to software development practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, and discusses the role of Scrum Masters in enhancing team collaboration through liberating structures. It explicitly mentions Scrum and Agile methodologies, aligning well with the core themes of software development practices. The depth of discussion is substantial, providing detailed strategies for implementing these structures in meetings, which contributes to a high confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1327,12 +1354,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T18:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools that Scrum Masters use, which relates to Scrum practices, but it does not primarily focus on Scrum product development or its key topics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Scrum Masters and the use of liberating structures to enhance team collaboration and meeting effectiveness. While it touches on Scrum principles, it primarily focuses on meeting management rather than product development processes, which limits its alignment with the core themes of Scrum Product Development.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1381,11 +1411,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T18:28:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:11:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools used by Scrum Masters, which relates to Agile methodologies and practices that can enhance organisational agility, but it primarily focuses on specific tools rather than broader organisational agility strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum Masters and liberating structures, which are tools that can enhance team collaboration and effectiveness. However, while it touches on Agile principles, it primarily focuses on specific tools and techniques rather than broader organisational agility strategies. The discussion lacks depth in exploring how these practices contribute to overall organisational adaptability and responsiveness.",
     "level": "Tertiary"
   },
   "Troubleshooting": {

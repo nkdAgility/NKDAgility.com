@@ -27,14 +27,14 @@ isShort: false
 tags:
 - Metrics and Learning
 - Value Delivery
+- Operational Practices
 - Pragmatic Thinking
 - Business Agility
-- Operational Practices
 - Software Development
 - Organisational Agility
 - Market Adaptability
 - Agile Product Operating Model
-- Agile Philosophy
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

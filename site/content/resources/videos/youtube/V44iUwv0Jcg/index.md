@@ -2,7 +2,7 @@
 title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
 description: Unlock the power of Kaizen! Discover how continuous improvement can transform your work and personal life with small, impactful changes. Embrace growth today!
 date: 2024-08-14T07:04:17Z
-weight: 495
+weight: 440
 ResourceId: V44iUwv0Jcg
 ResourceType: videos
 ResourceImport: true
@@ -25,10 +25,13 @@ preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
+- Lean Principles
+- Continuous Learning
+- Operational Practices
 - Discovery and Learning
 - Lean Thinking
 - Agile Philosophy
-- Operational Practices
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

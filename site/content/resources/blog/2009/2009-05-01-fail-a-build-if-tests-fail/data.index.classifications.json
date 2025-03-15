@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:09:49",
+    "calculated_at": "2025-03-15T07:23:37",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a specific technical implementation related to build processes in TFS2008, which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI). However, it lacks broader discussions on DevOps principles, cultural shifts, or tools beyond this specific implementation. The mention of failing builds due to test failures aligns with CI practices but does not delve into the wider implications or benefits of DevOps methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -247,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific aspect of testing within the context of build processes, which is relevant to product delivery, but it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical implementation related to build processes in TFS2008, which is relevant to the deployment phase of product delivery. However, it lacks broader discussions on methodologies, practices, or the integration of various phases of product delivery. The focus is primarily on a technical solution rather than a comprehensive exploration of product delivery principles.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -358,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific aspect of build management within the context of TFS2008, which relates to application lifecycle management, but it is primarily focused on a technical implementation rather than a broader discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions ALM in the tags and discusses a specific technical implementation related to build processes in TFS2008. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as methodologies, governance, or lifecycle stages. The focus is primarily on a technical solution rather than the management of the application lifecycle as a whole.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -385,12 +391,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T03:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:23:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses on specific implementation details for failing a build based on test outcomes, which relates to software engineering practices and the role of testing in continuous integration.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content provides a specific technical solution related to build processes in TFS2008, which aligns with the principles of improving code quality and maintainability. However, it lacks broader discussions on software craftsmanship or best practices, making it a secondary focus rather than a primary exploration of technical mastery.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -403,12 +412,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a specific practice related to build failures in the context of testing, which is relevant to Continuous Delivery, but it is a narrow technical detail rather than a broad discussion on CD principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical implementation related to build processes in TFS2008, which can be a part of Continuous Delivery practices. However, it lacks a broader discussion on Continuous Delivery principles, methodologies, or the role of automation in a comprehensive manner. The mention of failing builds due to test failures aligns with the automation aspect of CD but does not delve into the overall framework or strategies of Continuous Delivery.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -559,12 +571,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T03:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:23:42",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides specific instructions on configuring a build process to fail if tests fail, which is directly related to automated testing practices in the context of continuous integration.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content explicitly discusses a specific configuration related to automated testing in TFS2008, which directly relates to the category. It mentions the importance of failing builds when tests fail, aligning with the principles of automated testing. However, the depth of discussion is limited to a single configuration example without broader context or exploration of methodologies, tools, or best practices, which affects the overall depth score.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -634,11 +649,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:23:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific setting related to builds in TFS 2008, which is relevant to source control practices and build processes, but it is primarily focused on build failure handling rather than a broader source control strategy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific configuration in TFS2008 related to build processes and test failures, which is relevant to modern source control practices. It directly mentions a version control system (TFS) and addresses a practical aspect of continuous integration by ensuring builds fail when tests do not pass. However, the discussion lacks broader context on methodologies or strategies for version control, which limits its depth. Overall, while it aligns with the category, it does not provide extensive detail on various practices or workflows.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -799,12 +817,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a practical solution for failing builds based on test results in a specific technical environment, which aligns with the pragmatic application of Agile principles in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a practical solution for a specific technical issue related to build failures in TFS2008, which aligns with pragmatic problem-solving. However, it lacks broader discussions on Agile, Scrum, or DevOps principles, and does not explore the implications or applications of this solution in a complex environment. The focus is primarily on a technical implementation rather than a comprehensive exploration of pragmatic thinking.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -862,12 +883,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:23:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how to configure builds to fail based on test results, which is relevant to test automation in the context of CI/CD practices. However, it seems to focus more on a specific implementation rather than broader test automation principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content explicitly discusses a specific configuration in TFS2008 to ensure that builds fail when tests fail, which directly relates to test automation practices. However, while it mentions a practical implementation, it lacks broader discussions on principles, frameworks, or best practices in test automation. The focus is primarily on a technical solution rather than a comprehensive exploration of the category's themes.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -880,11 +904,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical implementation related to testing within a software build process, which is relevant to ensuring software quality. However, it does not explicitly focus on broader discussions of working software principles or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical implementation related to build processes in TFS2008, which indirectly relates to ensuring software quality by failing builds on test failures. However, it lacks a broader discussion on working software principles, customer value, or iterative development, which are key themes in the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -898,11 +925,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T03:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:23:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific CI practice, which is configuring build behavior in TFS2008 to fail a build if tests fail, aligning with key themes in Continuous Integration.",
+    "final_score": 65.0,
+    "reasoning": "The content directly addresses a specific aspect of Continuous Integration by discussing how to configure TFS2008 to fail builds when tests fail, which is a practical implementation detail relevant to CI. However, it lacks broader discussions on CI principles, best practices, or tools beyond this specific configuration. The depth of discussion is limited to a single configuration example, which does not explore the wider implications or strategies of CI.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -970,12 +1000,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:23:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration in TFS2008 related to build processes and test failures, which is relevant to release management practices, particularly in the context of Continuous Integration. However, it does not comprehensively address broader release management strategies or coordinating release processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a specific technical solution related to build processes in TFS2008, which can be part of a release management strategy. However, it does not explicitly discuss broader release management concepts such as planning, scheduling, or coordination among teams. The mention of failing builds due to test failures aligns somewhat with CI/CD practices, but the overall focus is too narrow and technical to be classified as a primary discussion on release management.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1072,12 +1105,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:20",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses modifying build properties in TFS to influence the behavior of builds related to test failures, which is relevant to system configuration practices but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific configuration setting within TFS2008 related to build processes and test failures. While it does mention a configuration aspect, it primarily focuses on a particular implementation detail rather than broader system configuration practices or methodologies. The discussion lacks depth in exploring best practices or optimisation strategies, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1117,20 +1153,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a mechanism for handling test failures in build processes, which is relevant to Test First Development, but it is more focused on a specific implementation detail rather than a comprehensive discussion on Test First Development principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly discusses a technical implementation related to failing builds when tests fail, which is tangentially related to Test First Development. However, it lacks explicit discussion on the principles of TDD, the process of writing tests before code, or the benefits of Test First Development. The focus is more on a specific configuration in TFS2008 rather than a comprehensive exploration of the category's core themes.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses build configuration in TFS2008, which relates to the Windows environment, but it is focused on a specific application rather than Windows as a whole.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific feature related to TFS 2008, which is a tool used in the Windows environment for build management. However, it does not explicitly focus on broader Windows operating system topics such as installation, configuration, or troubleshooting. The mention of TFS 2008 indicates a connection to Windows, but the depth of discussion is limited to a specific use case without exploring the wider implications or functionalities of the Windows OS itself.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1228,12 +1270,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:23:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical aspect related to build processes and testing in a software development context, which is relevant to the practices developers may use. However, it does not deeply engage with Agile or DevOps methodologies, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content provides a specific technical solution related to build processes in TFS2008, which is relevant to software developers. However, it lacks broader discussions on Agile or DevOps methodologies, limiting its alignment with the category's core themes. The mention of test failures is relevant but does not delve into best practices or collaborative aspects of Agile or DevOps, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1312,11 +1357,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:23:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build failures in the context of testing and TFS (Team Foundation Server), which relates to Azure Repos but primarily focuses on a specific configuration aspect rather than Azure Repos as a whole.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific configuration related to TFS2008, which is part of the Azure DevOps suite, but it does not explicitly mention Azure Repos or its functionalities. The focus is on build configurations rather than source control management or collaboration features, which are core themes of Azure Repos. While there is a connection to Azure DevOps, the discussion lacks depth and does not cover the broader aspects of Azure Repos, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -1375,12 +1423,15 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses failing builds based on test results, which is relevant to the broader testing context, but does not specifically delve into TDD principles or the TDD cycle.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the concept of failing builds based on test failures, which is relevant to TDD principles. However, it lacks a comprehensive discussion on the TDD cycle, the importance of writing tests before code, or the broader implications of TDD practices. The focus is more on a specific implementation detail related to build processes rather than a thorough exploration of TDD as a methodology.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

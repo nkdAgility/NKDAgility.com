@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Leadership
+- Strategy
 - People and Process
+- Strategic Goals
 - Decision Making
+- Team Motivation
 - Organisational Culture
 - Product Strategy
 - Agile Leadership
-- Value Delivery
-- Business Agility
-- Evidence Based Management
-- Sociotechnical Systems
+- Organisational Change
 resourceTypes:
 - video
 categories:

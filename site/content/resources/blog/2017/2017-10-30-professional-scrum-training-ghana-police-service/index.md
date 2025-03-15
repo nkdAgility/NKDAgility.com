@@ -8,7 +8,7 @@ ResourceImportId: 12095
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-10-30
-weight: 535
+weight: 525
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/blog/professional-scrum-training-ghana-police-service
 tags:
-- Agile Frameworks
 - People and Process
+- Professional Scrum
+- Software Development
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- Scrum Product Development
+- Agile Transformation
 - Practical Techniques and Tooling
 - Events and Presentations
-- Scrum Product Development
-- Agile Planning
-- Agile Transformation
-- Organisational Change
-- Professional Scrum
-- Scrum Team
 categories:
 - Social Technologies
 - Scrum

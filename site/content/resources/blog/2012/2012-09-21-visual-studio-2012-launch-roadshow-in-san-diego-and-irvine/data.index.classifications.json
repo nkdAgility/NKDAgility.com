@@ -1,7 +1,7 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T15:02:32",
+    "calculated_at": "2025-03-15T05:41:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,16 +9,19 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Agile in the context of a session titled 'Revolution: The Agile Developer', but it does not delve into Agile Product Management principles or practices. The focus is more on development practices and the consumerisation of IT rather than on product management strategies, stakeholder engagement, or backlog prioritisation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the launch of Visual Studio 2012 and mentions the need for improved development practices and tools, which aligns with the category, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions the launch of Visual Studio 2012 and discusses the need for improved development practices in the context of Agile methodologies. However, it lacks specific details about practical techniques, tools, or methodologies that enhance Agile and DevOps practices. The focus is more on the event and general trends rather than a deep exploration of tooling or practical application.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -49,12 +52,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for adaptation in development practices and the importance of maintaining relevancy, which aligns with themes of learning and innovation, but it primarily focuses on event promotion and Agile development without a strong emphasis on discovery processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the need for adaptation in development practices and the importance of quality in software delivery, which aligns with the themes of continuous learning and innovation. However, it primarily focuses on promotional aspects of the launch events and does not delve deeply into methodologies or processes that foster discovery and learning.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -94,11 +100,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:21",
+    "ai_confidence": 47.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organisations to adapt their development practices in response to changing consumer expectations, which aligns with the theme of market adaptability, but it is not the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the need for organisations to adapt their development practices to maintain relevancy in a changing market, which aligns with the concept of market adaptability. However, it lacks detailed discussion on specific strategies or methodologies such as Agile, DevOps, or Lean principles. The focus is more on the launch events and general awareness rather than a deep exploration of market adaptability strategies.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
@@ -130,12 +139,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Visual Studio 2012 Launch RoadShows and includes a session titled 'Revolution: The Agile Developer', which suggests a connection to Agile concepts, but the primary focus is on the launch events rather than Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the launch of Visual Studio 2012 and related events, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of Agile concepts, they are not the main focus of the content. The discussion lacks depth in terms of actionable insights or detailed exploration of Agile principles, making it more of a general announcement rather than a focused discussion on Agile or related frameworks.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -169,7 +181,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T16:52:31",
+    "calculated_at": "2025-03-15T05:41:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -177,25 +189,31 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Agile practices and the need for improved software quality, which aligns with the category's focus on human behaviour in technology. However, it primarily discusses events and promotional aspects of the Visual Studio launch, lacking a detailed exploration of team dynamics, leadership, or process methodologies. The references to adapting development practices and the expectations of engineers suggest some relevance, but the overall focus remains on the event rather than a deep dive into people and processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organisations to adapt their development practices in response to changing market conditions, which aligns with the theme of enterprise agility, but it primarily focuses on specific events and sessions rather than a comprehensive exploration of enterprise agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the need for organisations to adapt their development practices in response to changing consumer expectations, which aligns with the concept of enterprise agility. However, it primarily focuses on specific events and sessions related to Visual Studio 2012, lacking a detailed discussion on broader organisational agility frameworks or strategies. The mention of 'The Agile Developer' session hints at agile principles but does not delve into organisational implications or comprehensive strategies for fostering enterprise agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organisations to adapt their development practices in response to changing consumer expectations, which aligns with the theme of business agility. However, the primary focus is on the Visual Studio launch events and specific sessions rather than a comprehensive exploration of business agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the concept of adapting development practices to maintain relevancy in a changing market, which aligns with the principles of business agility. However, it lacks a detailed exploration of business agility principles, strategies, or leadership roles, and primarily focuses on a specific event rather than a comprehensive discussion on the topic.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -217,7 +235,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:42:03",
+    "calculated_at": "2025-03-15T05:41:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -225,7 +243,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the need for improved development practices and quality in software engineering, which aligns with the principles of Technical Excellence. However, it lacks detailed discussions on specific methodologies like TDD or CI/CD, and the focus is more on the events and general trends rather than in-depth technical practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -277,7 +295,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-11T11:57:22",
+    "calculated_at": "2025-03-15T05:41:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -285,7 +303,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the launch events for Visual Studio 2012, which is a software product, but lacks in-depth analysis or reviews of the product itself. While it touches on Agile development practices, it does not provide substantial insights or discussions on literature or tools that enhance understanding of Agile or DevOps principles. The focus is more on event promotion rather than a critical evaluation of products or books.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -343,12 +361,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organisations to adapt their development practices in response to changing consumer expectations, which aligns with the theme of organisational agility. However, it primarily focuses on the launch events and does not delve deeply into agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions the need for organisations to adapt their development practices in response to changing consumer expectations, which aligns with the concept of organisational agility. However, it lacks a detailed exploration of agile methodologies, leadership roles, or specific strategies for enhancing agility. The focus is more on the launch events and general trends rather than a deep dive into organisational agility principles.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -391,11 +412,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for improved software quality and the role of Agile practices, making it a major but secondary theme within the context of a launch event.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions the need for improved development practices and the importance of quality in software engineering, which aligns with the principles of Technical Mastery. However, it primarily focuses on promotional aspects of the Visual Studio launch events and does not delve deeply into specific methodologies or best practices. The discussion on Agile development hints at relevant themes but lacks substantial detail, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -472,12 +496,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile principles and the need for better software quality, indicating a secondary theme related to Agile Planning, but it primarily focuses on launch events and sessions rather than detailed Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile principles in the context of software development but lacks a focused discussion on Agile Planning methodologies, techniques, or practices. While it touches on the need for better software quality and adaptation to new practices, it does not delve into specific Agile planning strategies or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -517,21 +544,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile in adapting development practices and improving software quality, making Agile a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions 'Agile Developer' in the context of adapting to new development practices, but it primarily focuses on a launch event and promotional details rather than a thorough discussion of Agile principles. The alignment with Agile philosophy is minimal, as it does not delve into core themes such as customer collaboration or continuous improvement.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organisations to adapt their development practices and strategies in response to changing market conditions, which aligns with strategic discussions in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the need for organisations to adapt their development practices and strategies in response to changing consumer expectations, which aligns with the concept of strategic adaptation. However, it lacks a detailed discussion on Agile, Scrum, or DevOps frameworks, and does not provide in-depth insights into strategic alignment or optimisation techniques. The focus is more on events and general trends rather than a comprehensive strategy discussion.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -544,12 +577,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile in the context of a session titled 'Revolution: The Agile Developer', indicating a focus on Agile practices, but it is primarily about the Visual Studio 2012 launch events and not a comprehensive discussion on Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile in the context of a session titled 'Revolution: The Agile Developer', but it does not delve into Agile transformation strategies, methodologies, or principles. The focus is more on software quality and development practices rather than a comprehensive discussion on Agile transformation.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -598,30 +634,39 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:53",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the launch of Visual Studio 2012 and mentions Agile development practices, making software quality a significant theme, but it primarily focuses on the event rather than in-depth software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the launch of Visual Studio 2012 and mentions Agile development practices, which aligns with software development themes. However, the primary focus is on the event and promotional aspects rather than in-depth discussions of methodologies or practices. The mention of Agile and the need for improved software quality indicates some relevance, but the overall depth and direct engagement with software development concepts are limited.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions 'The Agile Developer' session, indicating a focus on agile practices, but the primary topic revolves around the Visual Studio 2012 launch events.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions 'The Agile Developer' session, which suggests a connection to agile practices. However, it lacks detailed discussion on agile methodologies, principles, or frameworks. The focus is primarily on a launch event and general software development practices rather than a thorough exploration of Agile Project Management.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Agile in the context of development practices and the expectations of engineers, indicating a secondary theme related to Agile values.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions 'Agile Developer' in the context of software quality but does not delve into Agile values or principles. It focuses more on events and the consumerisation of IT rather than the foundational beliefs of Agile methodologies.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -799,7 +844,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:32:24",
+    "calculated_at": "2025-03-15T05:41:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -807,7 +852,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Agile principles and the need for improved development practices, which aligns with pragmatic thinking. However, it lacks detailed discussions on practical problem-solving strategies or real-world applications, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -883,12 +928,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of software quality and the expectations of engineers in the context of Agile development, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the launch of Visual Studio 2012 and mentions the need for improved software quality and development practices, which aligns with the themes of working software. However, it primarily focuses on promotional aspects of the launch events rather than providing in-depth discussions on working software principles or practices. The mention of Agile development hints at relevant concepts, but the overall depth and direct focus on working software are limited.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1246,12 +1294,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the need for improved development practices and quality in software engineering, which aligns with Agile principles, but it primarily focuses on an event rather than detailed engineering practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions the need for improved development practices and the importance of quality in software engineering, which aligns with the core themes of Engineering Practices. However, it primarily focuses on promotional aspects of the Visual Studio 2012 Launch RoadShows and does not delve deeply into specific engineering methodologies or principles such as TDD, CI/CD, or clean code. The discussion lacks substantial detail on the practices themselves, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1291,21 +1342,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile in the context of a session titled 'Revolution: The Agile Developer', indicating a focus on Agile principles, but the primary topic revolves around the Visual Studio 2012 launch events and related activities.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions 'Agile Developer' in the context of software quality and development practices but does not delve into specific Agile frameworks or principles. The discussion is more focused on the launch events and general software development rather than a thorough exploration of Agile frameworks.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles in the context of software development and the need for adaptation to new consumer expectations, making Agile a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile in the context of a session titled 'Revolution: The Agile Developer', but it primarily focuses on the launch of Visual Studio 2012 and related events. While there is some discussion about adapting development practices to meet new consumer expectations, it lacks a comprehensive exploration of Agile strategy, such as alignment with organisational vision or detailed implementation strategies. The mention of Agile is not a primary focus, and the overall depth of discussion on Agile principles is limited.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1381,7 +1438,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T12:52:58",
+    "calculated_at": "2025-03-15T05:41:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1389,7 +1446,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile practices in the context of a session titled 'Revolution: The Agile Developer', but it does not delve into the core principles or frameworks of Agile, Scrum, or Kanban. The focus is primarily on a launch event and general development practices rather than a detailed discussion on social technologies or methodologies that enhance collaboration and continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1420,7 +1477,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:43:09",
+    "calculated_at": "2025-03-15T05:41:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1428,6 +1485,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the launch of Visual Studio 2012 and related events, with a brief mention of Agile development practices. However, it does not explicitly address Scrum principles, roles, events, or artifacts, nor does it delve into the core themes of the Scrum framework. The focus is on software quality and development practices rather than Scrum-specific discussions.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

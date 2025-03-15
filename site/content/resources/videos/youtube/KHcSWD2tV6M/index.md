@@ -25,12 +25,16 @@ preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
+- Team Collaboration
 - Team Performance
 - Agile Philosophy
+- Agile Project Management
+- Organisational Culture
+- Software Development
+- Organisational Agility
+- Agile Product Management
 - People and Process
-- Team Collaboration
 - Transparency and Accountability
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

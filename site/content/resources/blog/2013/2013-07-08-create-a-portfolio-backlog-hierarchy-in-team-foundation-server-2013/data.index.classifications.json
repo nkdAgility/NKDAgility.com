@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to Agile practices and backlog management, but it primarily focuses on technical implementation rather than broader Agile product management principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to Agile practices. However, it primarily focuses on technical implementation details rather than the broader Agile Product Management principles. While it mentions backlogs and work item types, it lacks a deeper exploration of Agile methodologies, customer feedback integration, or product value maximisation.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -22,12 +25,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses customisation and configuration of Team Foundation Server, which relates to internal developer platforms and enhancing developer productivity, but it primarily focuses on specific implementation details rather than broader platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with project management and Agile methodologies rather than the core principles of Platform Engineering. While it touches on aspects of customisation and configuration that could relate to internal developer platforms, it lacks a direct focus on enhancing developer productivity or optimising the application lifecycle, which are central to Platform Engineering. The discussion is more about specific tools and processes rather than the broader concepts of platform engineering.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -124,7 +130,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:48:39",
+    "calculated_at": "2025-03-15T05:02:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -132,7 +138,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with project management and Agile practices rather than DevOps principles. While it touches on aspects of configuration and process management, it lacks explicit discussions on DevOps practices such as CI/CD, automation, or cultural shifts. The depth of discussion is limited to technical steps without broader context on how these practices integrate into a DevOps framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -286,12 +292,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to aligning product development with customer needs and optimising workflows. However, it primarily focuses on technical implementation details rather than broader value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it touches on aspects of backlog management that could relate to value delivery, such as aligning work items with goals, it lacks a direct discussion on strategies or methodologies for delivering value to customers. The depth of discussion is largely technical, with minimal emphasis on customer value or Agile principles.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -334,12 +343,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to product-centric development and Agile methodologies, but it primarily focuses on technical implementation rather than broader Agile principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on technical steps for creating a Portfolio Backlog hierarchy in Team Foundation Server, with limited discussion on Agile principles or the Agile Product Operating Model. While it mentions goals and features, it lacks a broader discussion on value delivery, cross-functional teams, or continuous feedback, which are key aspects of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -391,11 +403,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T05:03:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content primarily discusses how to customize work item tracking in Team Foundation Server, which involves technical configuration and coding practices. However, the focus is more on project management and customization rather than on broader principles of software craftsmanship, best practices, or clean code associated with the 'Technical Mastery' category.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, detailing specific steps and configurations. While it does not explicitly mention 'Technical Mastery', it aligns with the principles of software craftsmanship through its emphasis on customisation, configuration management, and the importance of structured software development practices. The depth of discussion is moderate, providing a clear guide on implementation, but lacks broader discussions on best practices or principles of clean code.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -418,12 +433,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a 'Goal' work item type within Team Foundation Server, which implies a direct relationship with strategic objectives. However, the focus is more on technical steps and configuration rather than the overarching concepts of strategic goals or their alignment with broader business agility principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the creation of a Portfolio Backlog hierarchy in Team Foundation Server, which includes references to 'Goals' and their relationship to 'Features'. However, while it mentions 'Goals' as part of the backlog structure, it primarily focuses on operational steps and technical configurations rather than articulating long-term strategic objectives or their alignment with Agile principles. The discussion lacks depth in exploring how these goals enhance business agility or foster a competitive advantage, which is essential for a higher confidence score in the 'Strategic Goals' category.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -454,20 +472,26 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:03:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which directly relates to the management of a portfolio of projects and initiatives. It discusses how to align Goals with Features and customize work item types within a portfolio context, demonstrating concepts of strategic alignment and prioritization.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the creation of a Portfolio Backlog hierarchy in Team Foundation Server, which directly relates to managing a portfolio of projects and initiatives. It includes detailed steps for customising work item types and categories, which aligns with the strategic alignment and prioritisation frameworks of portfolio management. However, while it provides a good level of detail, it lacks broader discussions on metrics, KPIs, or risk management strategies, which are also key aspects of portfolio management.",
     "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the creation of a Portfolio Backlog hierarchy within a specific tool (Team Foundation Server), which centers on organizing different levels of work items that can be part of a Product Backlog. It details the steps involved in defining work item types, categories, and configuring a backlog, which aligns with backlog management practices.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which directly relates to the management of a Product Backlog. It discusses the steps to create and manage backlog items, including work item types and categories, which are essential for backlog organisation. However, while it provides a good level of detail, it lacks broader discussions on backlog refinement techniques and the roles of the Product Owner, which would enhance its alignment with the Product Backlog category.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -502,11 +526,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of creating a Portfolio Backlog hierarchy in Team Foundation Server, which includes practical steps and configurations aimed at enhancing operational efficiency in an Agile context.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed guide on creating a Portfolio Backlog hierarchy in Team Foundation Server, which directly relates to operational practices within Agile frameworks. It discusses specific steps for customising work item types and categories, which aligns with process optimisation techniques. The depth of discussion is significant, covering multiple aspects of configuration and implementation, thus enhancing operational efficiency.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -529,12 +556,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:04:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a Portfolio Backlog hierarchy which relates to aligning teams and goals within Agile frameworks, but the primary focus is more on technical steps than on strategic planning or execution.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical steps for creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, with limited discussion on strategic alignment or Agile principles. While it mentions goals and features, it lacks a comprehensive exploration of strategic approaches or frameworks. The depth of discussion is more technical than strategic, leading to a low confidence score in the Strategy category.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -547,12 +577,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:04:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which relates to Agile practices and tools. However, it does not delve deeply into broader Agile transformation strategies or methodologies, making Agile a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a technical implementation detail rather than a discussion on Agile transformation principles or methodologies. While it mentions Agile tools and processes, it lacks a comprehensive exploration of Agile transformation strategies, change management, or leadership roles, which are central to the category. The content does not explicitly discuss Agile principles or frameworks, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -634,12 +667,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a Portfolio Backlog hierarchy in Team Foundation Server, which relates to Scrum concepts but focuses more on tool-specific customization rather than overarching Scrum principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a specific tool and does not delve into the core principles, roles, or practices of Professional Scrum as outlined in the Scrum Guide. While it mentions concepts like backlog and work item types, it lacks a comprehensive discussion on Scrum roles, events, or values, and does not provide a theoretical foundation or practical implementation of Scrum principles.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -670,21 +706,27 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and customization of a Portfolio Backlog hierarchy in Team Foundation Server, which directly relates to Azure Boards functionality in the Agile project management context.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is closely related to Azure Boards functionalities. It discusses work item types, customisation of workflows, and the integration of these elements into Agile project management, aligning well with the core themes of Azure Boards. The depth of discussion is significant, covering specific steps, code snippets, and configurations necessary for implementation, indicating a strong focus on the category.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:04:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up a Portfolio Backlog in Team Foundation Server, which is a collaboration tool used in Agile environments. While it primarily focuses on configuration details and XML commands, the context relates to facilitating work item tracking and team collaboration, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a specific implementation detail rather than a discussion on collaboration tools. While it touches on aspects of Agile processes and work item types, it lacks a direct focus on enhancing communication and coordination within Agile teams, which is the core theme of the 'Collaboration Tools' category. The content does not provide an overview of collaboration tools, their features, or best practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -724,12 +766,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and discusses the implementation of a Portfolio Backlog hierarchy, which can relate to scaling Scrum practices in large organizations. However, the primary focus is on the use of Team Foundation Server (TFS) and not explicitly on scaling methods or challenges of Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more about tool configuration than the principles of Scaling Scrum. While it mentions Scrum in the context of a project name, it does not discuss frameworks for scaling Scrum, coordination among teams, or any of the key topics outlined in the category definition. The discussion lacks depth and does not align with the core themes of Scaling Scrum.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -751,16 +796,19 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation and customization of a Portfolio Backlog hierarchy in Team Foundation Server, which involves aligning work item types to organizational goals. While it touches on aspects of scaling agile practices, such as creating a hierarchy that reflects company goals and features, the focus is primarily on technical implementation rather than broader scaling strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a technical implementation detail rather than a discussion on scaling agility. While it touches on concepts like hierarchy and backlog management, it lacks explicit discussions on frameworks for scaling agility, leadership roles, or cross-functional collaboration. The depth of discussion is limited to technical steps without exploring broader organisational implications.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:46:21",
+    "calculated_at": "2025-03-15T05:02:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -768,7 +816,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more about project management and tool configuration rather than engineering excellence. While it touches on aspects of customisation and process improvement, it lacks a strong emphasis on software craftsmanship, coding standards, or quality assurance practices that are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -790,12 +838,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:04:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a portfolio backlog hierarchy in Team Foundation Server, which involves understanding and modelling existing processes in an organisational context. However, it primarily focuses on technical implementation details rather than a holistic understanding of organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, with minimal reference to systems thinking or organisational dynamics. While it touches on the concept of hierarchy and categorisation, it lacks a comprehensive discussion on the interplay of organisational structure, culture, or processes, which are central to the category of Organisational Physics.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -808,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:03:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical steps for creating a Portfolio Backlog hierarchy in Team Foundation Server, which is directly relevant to Agile and Scrum practices. It emphasizes real-world application and problem-solving techniques in a complex environment.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a practical guide on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which aligns with pragmatic thinking by demonstrating real-world applications of Agile principles. It discusses specific steps and configurations, showcasing practical problem-solving strategies. However, while it touches on Agile concepts, the focus is primarily on technical implementation rather than broader discussions of adaptability or critical thinking in complex environments.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -835,21 +889,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a hierarchy in Team Foundation Server for backlog items like Goals and Features, which relates to product development and backlog management in a Scrum context, but lacks a clear focus on Scrum frameworks and principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to backlog management, a key aspect of Scrum. However, it lacks explicit references to Scrum roles, events, or iterative development practices. The focus is more on technical implementation rather than the principles and practices of Scrum product development.",
     "level": "Tertiary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:03:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content provides detailed instructions on creating a Portfolio Backlog hierarchy in Team Foundation Server, which aligns with scaled Agile practices and team coordination at an enterprise level. However, the primary focus is more on the technical implementation rather than broader scaling discussions or frameworks.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is a specific implementation detail rather than a broader discussion on Scaled Agile methodologies. While it touches on aspects of Agile practices, such as work item types and backlog management, it lacks a comprehensive exploration of scaling Agile across multiple teams or enterprise-level strategies. The mention of 'Portfolio Backlog' aligns somewhat with scaled Agile concepts, but the overall depth and focus remain too narrow to fully qualify as a discussion on Scaled Agile.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -889,20 +949,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:03:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses creating a hierarchical structure for work items in Team Foundation Server, which relates to the organization and planning aspects of software development, aligning with the need for functional software delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the technical steps to create a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a specific implementation detail rather than a broader discussion on working software principles. While it touches on aspects of software functionality and configuration, it lacks a comprehensive exploration of how these practices deliver value to customers or align with Agile principles. The discussion is more about the mechanics of software setup than about ensuring high-quality, functional software that meets user needs.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:03:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content focuses on creating and customizing a Portfolio Backlog hierarchy in Team Foundation Server, which is directly related to Agile Planning Tools used for managing backlogs and enhancing planning processes within Agile methodologies.",
+    "final_score": 77.0,
+    "reasoning": "The content provides a detailed guide on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is a specific Agile Planning Tool. It discusses the steps involved in customising work item types and categories, which directly relates to backlog management and Agile planning strategies. The depth of the discussion is significant, covering technical details and practical steps, thus aligning well with the core themes of Agile Planning Tools.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -979,21 +1045,27 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:04:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a Portfolio Backlog in Team Foundation Server, which relates to organizing work items and customizations for software releases. However, it primarily focuses on backlog hierarchy and custom work item types rather than release management strategies or practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with project management and configuration management rather than the specific strategies and practices of Release Management. While it touches on aspects like work item types and configurations that could relate to release processes, it lacks a direct discussion on release planning, scheduling, or coordination between development and operations. The depth of technical detail is present, but it does not sufficiently address the core themes of Release Management.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses backlog management, specifically creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to the responsibilities of a Product Owner. However, it is heavily focused on technical implementation rather than directly discussing the strategic aspects of the Product Owner role.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a Portfolio Backlog hierarchy in Team Foundation Server, which does not directly address the responsibilities or practices of a Product Owner. While it mentions concepts like goals and features, it lacks a clear discussion on backlog management, prioritisation strategies, or stakeholder engagement, which are essential aspects of the Product Owner role.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1051,12 +1123,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server 2013 and includes aspects of process improvement, which may relate to digital transformation principles but lacks a clear focus on the strategic adoption and integration of digital technologies for organizational change.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical steps for creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is more about process management and tool usage rather than a strategic discussion on digital transformation. While it touches on aspects of digital tools and methodologies, it lacks a clear focus on how these tools enhance business agility or foster innovation. The discussion is largely procedural with minimal emphasis on the broader implications of digital transformation.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,11 +1153,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:03:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of a Portfolio Backlog hierarchy in Team Foundation Server, detailing steps including exporting configurations, creating work item types, and importing changes, which are all closely aligned with system configuration practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on configuring Team Foundation Server (TFS) to create a Portfolio Backlog hierarchy, which directly aligns with system configuration practices. It discusses specific steps for exporting and importing configurations, creating work item types, and updating categories, all of which are essential aspects of system configuration. The depth of detail provided in the configuration steps and the use of code snippets further supports its relevance to the category. While there are some mentions of project management concepts, the core focus remains on the technical aspects of system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:58:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:03:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the customization of work item types and hierarchy in Team Foundation Server, which directly relates to the Agile methodologies and the role of software developers in managing Agile processes and tools.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is relevant to software developers working within Agile frameworks. It discusses specific steps and configurations that developers can implement, aligning with Agile practices. However, while it touches on Agile concepts, it lacks a broader discussion on best practices, team dynamics, or collaboration strategies, which limits its depth of discussion. Overall, it is relevant but not comprehensive enough to fully embody the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,12 +1330,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:04:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating and configuring a Portfolio Backlog hierarchy in Team Foundation Server, which relates to Agile project management and may incorporate engineering practices in terms of workflow and tooling in a software development context. However, the primary focus is on configuration rather than direct software engineering practices like clean code or TDD.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with project management and configuration management rather than core engineering practices like clean code, TDD, or CI/CD. While it touches on aspects of Agile methodologies, such as backlog management, it lacks a direct discussion on engineering principles or practices that enhance software quality and collaboration. The depth of discussion is technical but does not delve into the fundamental engineering practices outlined in the category definition.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1276,7 +1360,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:59:24",
+    "calculated_at": "2025-03-15T05:02:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1284,7 +1368,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily focuses on technical implementation details related to creating a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it briefly touches on concepts like goals and features that could relate to product management, it lacks a strategic discussion on customer needs, business objectives, or methodologies that guide product managers. The depth of discussion is heavily skewed towards technical steps rather than strategic alignment or frameworks relevant to product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1297,21 +1381,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:04:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its features for managing work items, which are relevant to Agile practices, particularly in relation to Scrum. While it mentions Agile tools and backlogs, it does not delve deeply into the principles or comparative analysis of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which is related to Agile practices. However, it primarily focuses on technical implementation details rather than exploring Agile frameworks or their principles. While it mentions Agile Portfolio Tools and references work item types like 'Feature' and 'Goal', it lacks a comprehensive discussion on Agile frameworks themselves, their comparative analysis, or their impact on organisational agility.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:03:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a Portfolio Backlog in Team Foundation Server, which involves structuring work items and aligning them with company goals. However, its primary focus is on technical implementation rather than strategic planning or high-level Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on technical practices related to creating a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it mentions goals and features, which could relate to Agile principles, it lacks a strategic discussion on how these practices align with broader Agile methodologies or organisational vision. The depth of discussion is more about implementation steps rather than strategic planning or adaptability in Agile contexts.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1396,7 +1486,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T18:37:55",
+    "calculated_at": "2025-03-15T05:02:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1404,7 +1494,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to Agile practices and project management tools. However, it lacks explicit references to Scrum, Kanban, or Lean methodologies. While it touches on concepts of work item types and process configuration, it does not delve deeply into the core principles of collaboration or continuous improvement that are central to Social Technologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1426,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:39:39",
+    "calculated_at": "2025-03-15T05:02:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1524,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which is related to Agile project management but does not explicitly focus on Scrum principles, roles, or events. While it mentions 'Scrum' in the context of a project name, the primary focus is on technical implementation rather than Scrum practices or frameworks. The alignment with Scrum concepts is minimal, and the depth of discussion on Scrum-specific topics is lacking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Operational Practices
 - Product Delivery
 - Software Development
 - Practical Techniques and Tooling

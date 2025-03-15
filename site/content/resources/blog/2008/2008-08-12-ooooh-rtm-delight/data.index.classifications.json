@@ -10,12 +10,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various software products and tools related to development, but it does not focus on Agile methodologies or literature specifically.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses various software products, specifically Visual Studio 2008, Team Foundation Server, and .NET Framework, which are relevant to Agile and DevOps practices. However, it lacks detailed reviews or analyses of these products and does not engage deeply with Agile methodologies or literature. The primary focus is on product announcements and features rather than a structured discussion or evaluation of their impact on Agile practices.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -37,12 +40,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements and features in Visual Studio and .NET Framework, which relate to technical practices, but it does not focus primarily on engineering methodologies or practices that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses various technical improvements and features related to Visual Studio and the .NET Framework, which aligns with the principles of technical excellence. However, it lacks a focused discussion on specific engineering practices or methodologies such as TDD, CI/CD, or modular architecture. The mention of performance improvements and optimisations is relevant but does not delve deeply into how these contribute to agile practices or team collaboration, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -118,12 +124,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various tools and improvements related to Visual Studio, Team Foundation Server, and .NET Framework, which are relevant to practical techniques and tooling in software development.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses various tools and technologies related to .NET, Visual Studio, and Team Foundation Server, which aligns with the category's focus on practical techniques and tooling. However, while there are mentions of specific tools, the discussion lacks depth in terms of methodologies or frameworks that enhance Agile and DevOps practices. The content primarily highlights new features and improvements rather than providing insights into their practical application or integration within teams.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -145,12 +154,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions improvements in the installation process and deployment of applications, which relates to configuration, but the primary focus is on the features and benefits of various tools rather than detailed installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the release of various software versions and improvements, but it lacks explicit instructions or detailed discussions on installation and configuration processes. While it mentions enhancements in the installation process and deployment, these points are not the primary focus of the content, which leans more towards general updates and features rather than actionable guidance.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -283,7 +295,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:11:42",
+    "calculated_at": "2025-03-15T07:30:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -291,7 +303,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions Team Foundation Server (TFS), which is part of Azure DevOps, but it primarily focuses on the release of various Microsoft products and improvements in the .NET Framework. While there is some discussion of TFS, it lacks a comprehensive exploration of Azure DevOps functionalities, methodologies, or best practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -304,12 +316,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and improvements related to application development and deployment, which are relevant to Application Lifecycle Management, but the primary focus is on specific software releases and features rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Team Foundation Server (TFS), which is a tool related to Application Lifecycle Management, but it primarily focuses on the release of various software products and their features rather than discussing the lifecycle management processes or methodologies. While there are references to improvements in development tools, the discussion lacks depth in terms of application governance, lifecycle stages, or best practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -349,7 +364,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T17:05:12",
+    "calculated_at": "2025-03-15T07:30:18",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -357,7 +372,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the release of software products and improvements in development tools, which aligns with product delivery. However, it lacks a focused discussion on methodologies, practices, or detailed processes involved in delivering usable software products. The mention of tools and features does not provide sufficient depth or direct engagement with the core themes of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -448,12 +463,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements and features in .NET Framework and Visual Studio that relate to software development, but it primarily focuses on announcements rather than deep technical principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the release of various Microsoft development tools and frameworks, highlighting their features and improvements. While it touches on aspects of software development, such as performance enhancements and deployment processes, it lacks a focused discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The mention of tools is present, but the depth of discussion does not align closely with the core themes of Technical Mastery.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -646,7 +664,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:14:02",
+    "calculated_at": "2025-03-15T07:30:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -654,7 +672,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the release of various software tools and improvements, which indirectly relates to engineering excellence through the mention of performance enhancements and optimisations. However, it lacks a direct focus on best practices, coding standards, or continuous improvement processes that are central to the category. The discussion is more about new features and updates rather than a deep exploration of engineering practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -676,7 +694,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:46:15",
+    "calculated_at": "2025-03-15T07:30:18",
     "ai_confidence": 42.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
@@ -684,7 +702,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses various tools and technologies relevant to software developers, such as Visual Studio, Team Foundation Server, and the .NET Framework. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While it mentions improvements beneficial to developers, it does not delve into best practices or the role of developers within Agile or DevOps contexts, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -706,12 +724,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updates and improvements related to Visual Studio and the .NET Framework, which are associated with Windows development, but it does not focus on the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the release of Visual Studio 2008 and related technologies, which are part of the Windows ecosystem. However, it primarily focuses on development tools and frameworks rather than the Windows operating system itself. While there are mentions of improvements and features that may relate to Windows applications, the discussion lacks a direct focus on Windows installation, configuration, or troubleshooting, which are key aspects of the category. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it does not meet the criteria for a primary focus.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -916,12 +937,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software tools and improvements relevant to developers but primarily focuses on specific technologies rather than explicitly addressing the concept of working software or its delivery.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the release of various software tools and improvements, which indicates a focus on working software. However, it lacks explicit discussions on user requirements, customer feedback, or best practices for ensuring software quality. The mention of performance improvements and new features aligns somewhat with the category, but the depth of discussion is limited to announcements rather than a thorough exploration of working software principles.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1411,7 +1435,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:58:46",
+    "calculated_at": "2025-03-15T07:30:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1419,6 +1443,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the release of software tools and improvements in development environments, with only a brief mention of Team Foundation Server, which is not directly related to Scrum principles or practices. There is no explicit discussion of Scrum roles, events, or artifacts, nor does it align with the core themes of Scrum such as iterative progress or team dynamics.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

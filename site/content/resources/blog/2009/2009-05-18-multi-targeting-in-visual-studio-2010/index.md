@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/multi-targeting-in-visual-studio-2010
 - /multi-targeting-in-visual-studio-2010
 - /resources/blog/multi-targeting-in-visual-studio-2010
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

@@ -577,7 +577,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:46:41",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -585,7 +585,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of developing solutions for SharePoint, specifically using Visual Studio 2008. While it does mention the role of developers in the context of SharePoint, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. The content provides some detail on setup and installation processes but does not delve into best practices, team dynamics, or collaboration strategies that are essential to the Software Developers category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -961,7 +961,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:12:26",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -969,7 +969,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical setup required for developing SharePoint solutions, which includes specific tools and installation instructions. While it does touch on technical aspects, such as the need for VSeWSS and workflow DLLs, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The depth of discussion is moderate, providing practical steps but not delving into the underlying principles of technical mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1120,12 +1120,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:31:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation and setup requirements for developing SharePoint solutions, which involves solving potential issues with development environments. However, it primarily focuses on setup instructions rather than troubleshooting specific problems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides some guidance on setting up a development environment for SharePoint, which could imply troubleshooting steps for installation issues. However, it lacks explicit discussions on diagnosing or resolving specific technical problems, and the focus is more on setup instructions rather than troubleshooting methodologies or case studies.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",

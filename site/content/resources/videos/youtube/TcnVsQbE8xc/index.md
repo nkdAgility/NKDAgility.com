@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Software Development
 - People and Process
 - Agile Project Management
+- Continuous Learning
 resourceTypes:
 - video
 categories:

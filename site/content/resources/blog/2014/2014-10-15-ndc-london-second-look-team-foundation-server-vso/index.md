@@ -34,13 +34,13 @@ tags:
 - Application Lifecycle Management
 - Events and Presentations
 - Practical Techniques and Tooling
-- Product Delivery
-- Agile Project Management
-- Automated Testing
+- Software Development
 - Release Management
-- Test First Development
-- Agile Planning
-- Continuous Delivery
+- Product Delivery
+- News and Reviews
+- Azure DevOps
+- Scrum Product Development
+- Working Software
 categories:
 - DevOps
 - Engineering Excellence

@@ -265,7 +265,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T13:13:02",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
@@ -273,7 +273,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on the author's personal experience and feelings regarding an upcoming presentation on Application Lifecycle Management (ALM). It includes reflections on their anxiety, preparation challenges, and personal anecdotes about interactions with colleagues at Microsoft. However, while it touches on personal insights, it lacks a deeper exploration of Agile, Scrum, or DevOps methodologies, which diminishes its alignment with the core themes of the Personal category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -304,7 +304,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T10:45:41",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -312,7 +312,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content mentions Application Lifecycle Management (ALM) explicitly, but it primarily focuses on the author's personal experience and anxiety regarding a presentation rather than discussing the methodologies, practices, or tools related to ALM. While there is a brief mention of ALM, the content lacks depth and does not explore key topics such as the stages of the application lifecycle, best practices, or integration with Agile and DevOps principles. Overall, the content does not align well with the core themes of Application Lifecycle Management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -325,7 +325,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T15:10:25",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -333,7 +333,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the author's personal experience and anxiety regarding a presentation on Application Lifecycle Management (ALM) and Visual Studio Team System (VSTS). While there are mentions of interactions with colleagues and the importance of preparation for interviews, the discussion lacks a structured exploration of team dynamics, leadership, or process methodologies. The content does not delve into how these experiences relate to broader themes of collaboration or process improvement, which are central to the 'People and Process' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -724,7 +724,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:57:01",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -732,7 +732,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions Application Lifecycle Management (ALM) and Visual Studio Team System (VSTS), which are relevant to software development practices. However, the focus is more on the author's personal experience and anxiety regarding the presentation rather than a detailed discussion of software development methodologies or practices. The alignment with the core themes of the category is present but not strong, and the depth of discussion is limited to personal anecdotes rather than substantive content on software development techniques.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",

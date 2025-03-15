@@ -27,10 +27,7 @@ aliasesArchive:
 - /blog/team-server-event-handlers-made-easy---
 - /resources/blog/team-server-event-handlers-made-easy
 categories: []
-tags:
-- Software Development
-- Technical Mastery
-- Practical Techniques and Tooling
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

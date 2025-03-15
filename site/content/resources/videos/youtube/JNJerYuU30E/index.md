@@ -27,7 +27,10 @@ preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Mentoring
 - Personal
+- Continuous Learning
+- Coaching
 - People and Process
 - Agile Transformation
 - Agile Leadership

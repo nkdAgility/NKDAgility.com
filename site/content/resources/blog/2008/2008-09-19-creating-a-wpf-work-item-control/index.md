@@ -23,7 +23,12 @@ aliasesArchive:
 - /creating-a-wpf-work-item-control
 - /resources/blog/creating-a-wpf-work-item-control
 tags:
+- Windows
+- Practical Techniques and Tooling
 - Software Development
+- Azure DevOps
+- Technical Mastery
+- Internal Developer Platform
 categories: []
 preview: metro-visual-studio-2005-128-link-6-6.png
 

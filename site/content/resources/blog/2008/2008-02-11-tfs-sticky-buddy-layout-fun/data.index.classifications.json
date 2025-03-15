@@ -100,12 +100,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:34:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's experience with layout issues in Windows Forms and WPF, which relates to practical techniques in UI development, but it is primarily focused on personal challenges rather than a structured exploration of tooling or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses personal experiences with layout issues in Windows Forms and WPF, which are tools relevant to software development. However, it lacks a structured exploration of methodologies or frameworks that enhance Agile and DevOps practices. The focus is more on personal challenges and preferences rather than on practical techniques or tooling that improve team performance or collaboration.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -217,12 +220,12 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:24",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses layout issues and personal experiences with Windows Forms and WPF, but it primarily focuses on personal challenges and preferences rather than the principles of code quality or complexity theory.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -334,7 +337,7 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T17:06:11",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -342,7 +345,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on the author's personal experience with layout challenges in Windows Forms and WPF, which does not explicitly discuss discovery or learning methodologies. While there are mentions of learning curves and experimentation with different UI frameworks, these are secondary to the main narrative about technical difficulties. The content lacks a structured exploration of the processes that foster innovation or continuous learning, which is essential for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -580,12 +583,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:34:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses personal experiences and challenges in developing a user interface using Windows Forms and WPF, which are relevant to the software development lifecycle and methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the author's experience with developing a Windows Forms application and transitioning to WPF, which relates to software development practices. However, the focus is more on personal experiences and frustrations rather than structured methodologies or best practices. While it touches on UI layout issues and mentions WPF, it lacks depth in discussing broader software development concepts or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -706,7 +712,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-10T15:13:04",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -714,7 +720,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses personal experiences with learning and adapting to new technologies (Windows Forms and WPF), which aligns with the concept of continuous learning. However, it lacks explicit discussions on team dynamics, knowledge sharing, or structured practices that promote a growth mindset, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -862,7 +868,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T12:13:04",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -870,7 +876,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions the intention to release two versions of the application, but it primarily focuses on layout challenges and personal experiences with UI development. There is minimal discussion on the principles of frequent releases, continuous delivery, or related strategies, which are central to the category. The depth of discussion on release practices is limited, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -955,7 +961,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:47:32",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -963,7 +969,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses personal experiences with UI layout challenges in Windows Forms and WPF, which touches on aspects of software craftsmanship. However, it primarily focuses on the author's frustrations and learning journey rather than providing structured insights into best practices, principles, or methodologies that define technical mastery. The discussion lacks depth in exploring clean code, maintainability, or architectural principles, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1114,12 +1120,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:34:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses layout issues encountered while developing a user interface with Windows Forms and WPF, indicating an aspect of troubleshooting related to software UI design.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses layout issues encountered while developing a Windows Forms application and the transition to WPF. While it touches on troubleshooting specific problems with UI layout, the focus is more on personal experiences and frustrations rather than systematic problem-solving techniques or methodologies. The discussion lacks depth in providing structured troubleshooting strategies or tools, which diminishes its alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1195,7 +1204,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:16:10",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1203,7 +1212,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the author's experience with developing a Windows Forms application and transitioning to WPF, but it primarily focuses on layout challenges and personal frustrations rather than on delivering functional, high-quality software that meets user needs. While there are mentions of working software and a proof of concept, the discussion lacks depth in terms of best practices, customer feedback, or iterative development, which are key aspects of the 'Working Software' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1243,7 +1252,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-10T18:59:10",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1251,11 +1260,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal experiences with UI layout in Windows Forms and WPF, with minimal mention of release management concepts. While there is a brief mention of intending to release versions of the application, it lacks detailed discussion on release strategies, scheduling, or coordination with stakeholders, which are core themes of release management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:16:11",
+    "calculated_at": "2025-03-15T07:34:27",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1263,7 +1272,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on personal experiences and challenges faced while developing a user interface using Windows Forms and WPF. While it touches on aspects of software development, such as layout issues and the transition between technologies, it lacks a structured discussion on engineering excellence principles, best practices, or continuous improvement. The mention of learning curves and personal reflections does not sufficiently align with the core themes of engineering excellence, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

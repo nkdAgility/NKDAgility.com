@@ -30,15 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scaling Kanban
+- Operational Practices
+- Portfolio Management
 - Agile Frameworks
 - Agile Product Operating Model
 - Agile Project Management
-- Scaled Agile
 - Strategy
-- Agile Strategy
-- Portfolio Management
-- Scaling Kanban
 - Value Delivery
+- Large Scale Agility
 - Product Delivery
 resourceTypes:
 - video

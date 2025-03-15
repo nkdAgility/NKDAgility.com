@@ -31,7 +31,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:30:44",
+    "calculated_at": "2025-03-14T21:48:35",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -39,11 +39,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses Scrum and its implementation challenges, which are relevant to product management. However, it lacks a broader discussion on strategic alignment, customer needs, or business objectives, which are core themes of product management. The mention of Scrum is explicit, but the focus is more on personal opinion rather than established product management practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T11:58:42",
+    "calculated_at": "2025-03-14T21:48:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -51,15 +51,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the challenges organisations face when adopting Scrum, which indirectly touches on leadership's role in fostering a supportive environment for Agile practices. However, it lacks a direct focus on leadership strategies, decision-making processes, or team dynamics, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of Scrum and its shortcomings in organizations, implying a need for broader organizational changes to achieve business agility. However, the primary focus is on Scrum rather than on business agility principles directly.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Scrum adoption and the importance of a holistic approach to organisational change, which aligns with the principles of business agility. However, it primarily focuses on Scrum rather than broader business agility concepts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -73,12 +76,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content includes discussion surrounding Scrum and its implementation in organizations, it primarily focuses on a personal opinion regarding the effectiveness of Scrum rather than in-depth explorations of Scrum principles, roles, and practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of Scrum adoption and emphasises the importance of a holistic approach, which aligns with Scrum principles. However, it lacks direct references to specific Scrum roles, events, or artefacts, and focuses more on personal opinions and reflections rather than a structured exploration of Scrum as outlined in the Scrum Guide.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -127,11 +133,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum, its implementation challenges, and the importance of holistic organizational changes in Agile practices.",
+    "calculated_at": "2025-03-14T21:49:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, and explores the challenges organisations face in its adoption. It directly references Scrum principles and emphasises the importance of a holistic approach to Agile implementation, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into mindset shifts and organisational changes necessary for successful Scrum adoption.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -163,12 +172,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in adopting Scrum and the need for broader organizational changes, which relates to scaling Agile practices, though it primarily focuses on Scrum without extensively addressing scaled Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:48:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Scrum at the team level and highlights the importance of a holistic approach to Agile adoption. While it touches on organisational change, it does not explicitly address scaling Agile practices across multiple teams or at an enterprise level, which is essential for the 'Scaled Agile' category. The focus remains on individual practices rather than the coordination and management of multiple teams.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -208,7 +220,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-06T15:09:28",
+    "calculated_at": "2025-03-14T21:48:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -216,7 +228,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the challenges organisations face when adopting Scrum, which indirectly relates to team performance. However, it primarily critiques the focus on Scrum mechanisms rather than providing specific strategies or practices for enhancing team dynamics or collaboration. The mention of organisational changes hints at broader implications for team performance but lacks depth in discussing specific methodologies or metrics relevant to agile teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -238,12 +250,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:09",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its effectiveness in the context of delivering software and products but primarily focuses on organizational changes rather than the methodologies and practices specific to product delivery.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum adoption and the importance of a holistic approach to ensure successful product delivery. While it touches on key aspects of product delivery, such as customer-focused delivery and the need for organisational change, it primarily focuses on the challenges of Scrum implementation rather than providing a comprehensive discussion on methodologies or practices directly related to product delivery.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -286,12 +301,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the effectiveness of Scrum and the holistic changes necessary for organizations to succeed with Agile methodologies, making Agile a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:49:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses Scrum, a key framework within Agile Project Management, and highlights the importance of a holistic approach to its adoption. It explicitly mentions Scrum roles and the need for an agile mindset, aligning well with the core themes of the category. The depth of discussion is significant, providing insights into common pitfalls and strategies for successful implementation, which further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -394,21 +412,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses Scrum, it primarily critiques the adoption and organizational support necessary for successful Agile Planning, indicating it is a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:49:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum adoption and the importance of a holistic approach to Agile methodologies, which aligns with Agile Planning principles. However, it primarily focuses on the challenges of Scrum implementation rather than specific Agile Planning techniques or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content critiques the application of Scrum and implies the need for broader Agile principles beyond just Scrum mechanics, the primary focus remains on the Scrum framework rather than directly addressing Agile Values and Principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:49:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses Scrum extensively, focusing on its adoption and the challenges organisations face. While it touches on the importance of an agile mindset and holistic change, it primarily revolves around Scrum as a framework rather than the underlying Agile values and principles. The mention of customer-centric delivery and continuous improvement aligns with Agile principles, but the overall emphasis on Scrum limits the depth of discussion regarding Agile values.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -448,21 +472,27 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:21:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the necessity of broader organisational changes to support Scrum, indicating a secondary theme related to organisational culture, but primarily focuses on Scrum mechanics and their limitations.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of a holistic approach to Scrum adoption, emphasising the need for organisational change and an agile mindset, which aligns well with the themes of organisational culture. It highlights the role of management buy-in and continuous improvement, both of which are crucial for fostering a supportive culture. However, while it touches on cultural aspects, the primary focus remains on Scrum practices rather than a comprehensive exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to scaling Scrum beyond team-level practices and emphasizes the need for holistic organizational changes, which aligns with themes of Large Scale Agility, but it does not deeply engage with specific frameworks or case studies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of Scrum adoption and emphasises the need for a holistic approach that extends beyond team-level practices. While it touches on organisational change, it primarily focuses on Scrum, which is a team-level methodology. The discussion lacks explicit references to large-scale frameworks or enterprise-level strategies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -493,11 +523,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses challenges in organizations adopting Scrum and emphasizes the need for broader organizational changes, aligning closely with Agile Transformation concepts.",
+    "calculated_at": "2025-03-14T21:49:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the challenges and considerations of Scrum adoption, which is a key framework within Agile transformation. It explicitly mentions the need for a holistic approach and the importance of an agile mindset, aligning well with the core themes of Agile transformation. The depth of discussion is significant, as it explores the reasons organisations fail in their Scrum journey and offers strategies for success, indicating a thorough engagement with the topic.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -565,11 +598,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content reflects the author's personal opinion and experience regarding the success rates of organizations using Scrum, making it a significant but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses personal reflections on Scrum adoption and the challenges organisations face, aligning with the Personal category. However, it primarily focuses on general observations rather than individual experiences, which limits its depth in personal anecdotes.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -610,11 +646,14 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:49:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content emphasizes the need for holistic organizational changes to fully realize the benefits of Scrum, indicating a clear focus on scaling agility beyond individual teams.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of extending agile principles beyond individual teams, which aligns with the core themes of Scaling Agility. It highlights the need for a holistic approach to Scrum adoption and the role of management in facilitating organisational change. However, while it touches on scaling concepts, the primary focus remains on Scrum and team-level practices, which slightly limits its depth in the context of broader scaling frameworks.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -664,12 +703,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses the broader challenges organizations face in adopting Scrum, it implies the need for organizational change to support effective Scrum practices. This aligns with themes in Change Management but does not primarily focus on it.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:00:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of a holistic approach to Scrum adoption, emphasising the need for organisational change rather than just team-level mechanisms. It aligns well with the principles of effective change management in Agile environments, particularly in fostering a culture of adaptability and resilience. However, while it touches on change management concepts, it primarily focuses on Scrum practices, which may detract from its classification as a primary discussion on Change Management.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -727,11 +769,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the organizational changes necessary for delivering software and products regularly, which aligns with the Agile Product Operating Model's focus on a product-centric approach. However, it primarily critiques Scrum without providing a detailed discussion of the Agile Product Operating Model itself.",
+    "calculated_at": "2025-03-14T21:49:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of a holistic approach to Scrum adoption, which aligns with the Agile Product Operating Model's emphasis on organisational change and value delivery. However, it primarily focuses on Scrum rather than the broader Agile Product Operating Model, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -763,12 +808,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for holistic organisational changes in the context of Scrum adoption, indicating a recognition of organisational dynamics and structures, although it primarily focuses on Scrum processes.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of a holistic approach to Scrum adoption, which aligns with the principles of systems thinking in organisational contexts. It highlights the need for organisational change beyond team-level mechanisms, indicating an understanding of the interplay between structure and processes. However, while it touches on organisational dynamics, it primarily focuses on Scrum rather than a broader exploration of organisational physics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -961,11 +1009,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:48:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of holistic organisational changes in the context of adopting Scrum, which aligns with Systems Thinking principles, but it primarily focuses on Scrum rather than Systems Thinking itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a holistic approach to Scrum adoption, which aligns with Systems Thinking principles. It highlights the need for organisational change and a shift in mindset, indicating an understanding of interconnectedness. However, it primarily focuses on Scrum rather than explicitly exploring Systems Thinking concepts, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -979,20 +1030,26 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:48:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content references challenges organizations face when adopting Scrum and implies the need for broader organizational changes, which relates to scaling Scrum principles, but does not primarily focus on Scaling Scrum frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges of Scrum adoption and emphasises the need for a holistic approach that extends beyond individual teams, which aligns with the core themes of scaling Scrum. However, it lacks direct mentions of specific frameworks or detailed discussions on coordination among multiple teams, which limits its depth in the context of scaling practices.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:48:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of holistic organisational changes and the interplay between Scrum implementation at the team level and broader organisational support, aligning well with key themes of sociotechnical systems.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of organisational change in the context of Scrum adoption, highlighting the interplay between team dynamics and broader organisational structures. It emphasises the need for a holistic approach, which aligns well with the core themes of sociotechnical systems. The discussion is detailed, addressing both the mindset and structural changes necessary for successful Scrum implementation, thus providing a strong alignment with the category.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1054,12 +1111,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges organizations face in achieving the benefits of Scrum, and highlights the importance of delivering software effectively. While it focuses more on Scrum adoption issues, the mention of delivering software on a regular cadence indicates a relevance to working software, albeit as a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:49:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum adoption and the importance of a holistic approach to ensure successful delivery of value to customers. However, it primarily focuses on the challenges and mindset shifts required for Scrum implementation rather than directly addressing the characteristics or metrics of working software itself. While it touches on customer-centric delivery, it lacks detailed discussions on best practices for ensuring software quality and functionality.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1099,12 +1159,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum, which is a key Agile framework in software development, but it primarily critiques the implementation of Scrum rather than focusing on systematic methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Scrum, a key Agile framework within software development, and highlights the importance of a holistic approach to its adoption. It directly addresses the challenges organisations face when implementing Scrum, aligning well with the core themes of software development methodologies. The depth of discussion is substantial, providing insights into mindset shifts and organisational changes necessary for successful Scrum implementation, which are critical aspects of software development practices.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1294,12 +1357,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:48:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in achieving the benefits of Scrum, which indirectly relates to value delivery, but it primarily focuses on the criticisms of Scrum implementation rather than strategies or methodologies directly aimed at value delivery.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of a holistic approach to Scrum adoption, emphasising the need for organisational change to support customer-focused delivery. It aligns well with the principles of iterative development and the role of cross-functional teams, but lacks detailed techniques for measuring customer value or specific CI/CD practices.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1330,12 +1396,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum and the challenges organizations face in realizing its benefits, focusing on the importance of broader organizational changes which indirectly relate to Scrum product development.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:49:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the challenges of Scrum adoption and the importance of a holistic approach, which aligns with Scrum principles. However, it lacks direct mentions of specific Scrum roles, events, or product development processes, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1390,11 +1459,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:36:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:48:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the failures of organisations adopting Scrum and emphasizes the need for broader organisational changes to support agile practices, focusing on holistic changes rather than just team-level mechanisms.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges organisations face in adopting Scrum, emphasising the need for a holistic approach that aligns with the principles of organisational agility. It highlights the importance of an agile mindset, management buy-in, and continuous improvement, which are key themes in the category. However, the primary focus is on Scrum rather than broader organisational agility strategies, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Troubleshooting": {

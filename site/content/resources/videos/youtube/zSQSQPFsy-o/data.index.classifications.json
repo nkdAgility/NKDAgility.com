@@ -28,12 +28,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of the product backlog in relation to the sprint review and how it should be updated based on feedback and insights. However, the primary focus is on the challenges of understanding and mastering Scrum, making the Product Backlog a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum and its complexities, including the importance of the sprint review and its impact on the product backlog. However, while it touches on the product backlog, it primarily focuses on the challenges of mastering Scrum and the cultural aspects of Agile adoption, rather than providing a detailed exploration of backlog management techniques or practices.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -58,20 +61,26 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile frameworks, touching on the importance of understanding and applying coaching principles within teams. However, it primarily focuses on the complexities of Scrum rather than coaching as a central theme.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and the importance of understanding Agile principles, which indirectly relates to coaching. However, it primarily focuses on the difficulties of implementation and comprehension rather than on coaching techniques or the role of a coach. While there are mentions of creating environments that foster collaboration and understanding, the depth of discussion on coaching practices is limited.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding and applying Scrum principles, including the role of transparency and the use of data and evidence in decision-making. However, the primary focus is on the challenges of mastering Scrum rather than a direct emphasis on evidence-based leadership practices.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, touching on concepts like transparency and the importance of understanding Scrum principles. However, it lacks a strong focus on evidence-based leadership practices, such as the use of empirical data to inform decisions or the application of metrics and KPIs. While there are references to understanding and applying Scrum effectively, the discussion does not delve deeply into evidence-based decision-making or leadership strategies, which are central to the category.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -97,7 +106,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T10:16:19",
+    "calculated_at": "2025-03-15T01:23:36",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -105,7 +114,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the complexities of understanding and mastering Scrum, touching on the challenges teams face in implementing Agile principles. However, it primarily focuses on the technical aspects of Scrum rather than the leadership role in fostering an Agile environment. While there are mentions of team dynamics and the need for unique interpretations of Scrum, the discussion lacks a strong emphasis on leadership strategies or the cultivation of an Agile culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -136,11 +145,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Agile principles, which are related to the delivery of working software, but the primary focus is on the challenges of understanding and mastering Scrum rather than on the delivery of functional software itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum and Agile principles, touching on the challenges of mastering these frameworks in relation to delivering working software. However, it primarily focuses on the difficulties of understanding and implementing Scrum rather than directly addressing the characteristics or delivery of functional software. While there are mentions of customer feedback and value creation, the depth of discussion on working software itself is limited.",
     "level": "Tertiary"
   },
   "Decision Making": {
@@ -181,7 +193,7 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-11T11:41:03",
+    "calculated_at": "2025-03-15T01:23:36",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -189,7 +201,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges of mastering Scrum and touches on the influence of organisational structures and practices on Agile methodologies. However, it primarily focuses on the technical aspects of Scrum rather than explicitly addressing organisational culture. While there are mentions of how organisational practices can hinder Agile adoption, the depth of discussion on cultural elements is limited, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -298,21 +310,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:25:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile frameworks, touching on team dynamics, communication, and the importance of collaboration within teams. However, it primarily focuses on the difficulties of understanding and implementing Scrum rather than providing clear strategies or techniques for enhancing team collaboration.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and Agile principles, touching on team dynamics and the importance of collaboration. However, while it mentions aspects of team collaboration, such as transparency and the need for a supportive environment, it primarily focuses on the difficulties of understanding and implementing Scrum rather than providing in-depth strategies or techniques for enhancing team collaboration. The discussion lacks specific examples or tools that facilitate collaboration, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer needs and feedback in the context of Scrum and Agile practices, making customer satisfaction a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and Agile principles, touching on the importance of understanding customer needs and the role of feedback in product development. However, it primarily focuses on the challenges of mastering Scrum rather than directly addressing customer satisfaction as a primary theme. While there are mentions of customer feedback and value creation, these are not explored in depth, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -487,11 +505,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-11T21:33:44",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T15:32:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses Scrum and Agile methodologies, which are relevant to software developers. However, it also includes broader discussions about organisational culture and management, making it a secondary theme rather than the primary focus.",
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses Scrum and Agile methodologies, focusing on their complexities and the challenges developers face in mastering them. It aligns well with the category by exploring the role of developers in Agile environments, the importance of transparency, and the need for effective communication and collaboration. However, while it provides a good depth of discussion, it does not delve deeply into specific tools or technologies that support Agile and DevOps practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -550,11 +571,14 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-11T21:33:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:23:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the purpose and importance of the Sprint Review within the Scrum framework, including how it should inform the product backlog and the common misunderstandings surrounding it.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Sprint Review in detail, highlighting its purpose, the importance of feedback, and how it informs the product backlog. It also addresses common misunderstandings about the event, which aligns well with the key topics of the Sprint Review. However, the overall focus is broader, encompassing general Scrum principles and challenges, which slightly detracts from a primary focus on the Sprint Review itself.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -577,11 +601,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T21:34:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:23:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the complexities of understanding and mastering Scrum within different organisational contexts, emphasising practical problem-solving strategies, the importance of transparency, and the real-world application of Agile principles. It highlights the challenges faced in adopting Scrum and provides insights into effective practices, aligning well with the category of Pragmatic Thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the complexities of understanding and mastering Scrum, highlighting practical challenges faced in different organisational contexts. It aligns well with pragmatic thinking by addressing real-world applications of Agile and Scrum principles, particularly in navigating cultural and structural barriers. The depth of discussion on transparency, comprehension, and the importance of adapting Scrum practices to unique environments further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -595,12 +622,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T21:34:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:23:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the challenges and complexities of understanding and mastering Scrum, a key framework within Agile Project Management, while also addressing agile principles and their application in project management contexts.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses Scrum, its challenges, and the principles of Agile Project Management. It covers key aspects such as the importance of transparency, the role of Scrum events, and the cultural shifts required for successful Agile adoption. The depth of discussion on Scrum roles and the iterative nature of Agile methodologies aligns well with the category's core themes.",
+    "level": "Primary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -613,12 +643,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile principles, touching on the alignment of organisational culture with Agile values, but primarily focuses on the practical difficulties of understanding and implementing Scrum rather than a strategic overview of Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and Agile principles, touching on the importance of understanding and implementing these methodologies within different organisational contexts. However, while it mentions Agile and Scrum, the primary focus is on the difficulties of comprehension and implementation rather than a strategic alignment of Agile methodologies with organisational vision or long-term success. The depth of discussion on strategic integration and leadership roles is limited, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -649,12 +682,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:25:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of understanding and mastering Scrum, touching on themes of comprehension, transparency, and the need for effective decision-making within complex organisational environments. However, the primary focus remains on Scrum practices rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, touching on the challenges of understanding and mastering these frameworks. While it mentions aspects of decision-making and the importance of transparency, it primarily focuses on the difficulties of implementing Scrum rather than exploring the broader principles of sensemaking in complex environments. The discussion lacks a strong emphasis on frameworks or models that aid in understanding complexity, which is central to the sensemaking category.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -667,11 +703,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-11T21:34:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T01:23:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile principles, which indirectly relates to team performance and dynamics. However, it primarily focuses on understanding and implementing Scrum rather than specific strategies or practices aimed at enhancing team collaboration and effectiveness.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and Agile principles, highlighting the importance of team dynamics, transparency, and effective communication. It addresses how different environments impact team performance and the necessity of understanding Scrum events, particularly the sprint review, to enhance team effectiveness. While it does not provide extensive metrics or tools for measuring performance, it aligns well with the core themes of team collaboration and the role of leadership in fostering high-performing teams.",
     "level": "Secondary"
   },
   "AI": {
@@ -721,11 +760,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-11T21:34:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:23:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and complexities of mastering Scrum, which is a key framework in Agile transformation. It addresses the cultural shifts required for Agile adoption, the importance of understanding Agile principles, and the need for effective leadership in driving these changes, aligning well with the category's focus.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Scrum, its challenges, and the cultural shifts necessary for Agile adoption, aligning well with Agile transformation principles. It provides detailed insights into the complexities of mastering Scrum and the importance of understanding Agile values and principles, indicating a strong focus on the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -739,20 +781,26 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and touches on the importance of transparency, which is a Scrum value. However, it primarily focuses on the difficulties of understanding and implementing Scrum rather than directly addressing the Scrum values themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and touches on the importance of transparency, which is a key aspect of Scrum values. It also mentions the need for a strong sense of purpose and alignment with agile values, indicating a conceptual understanding of Scrum values. However, while it references these values, the primary focus is more on the difficulties of understanding and implementing Scrum rather than a deep exploration of the values themselves.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of adopting and mastering Scrum within different organisational contexts, highlighting the cultural and structural barriers to effective Agile transformation. However, the primary focus remains on Scrum practices rather than broader organisational change strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, which are closely related to organisational change, particularly in terms of adopting new frameworks and practices. It highlights the challenges of implementing Agile in traditional environments, which aligns with the category's focus on change management. However, the primary focus remains on Scrum practices rather than broader organisational change strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -766,30 +814,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T21:34:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:23:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the challenges of mastering Scrum, the importance of understanding Scrum principles, and the implications for product development, particularly in relation to the Sprint Review and Product Backlog management.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses various aspects of Scrum, including its principles, challenges in mastering it, and the importance of transparency and understanding within Scrum teams. It touches on key Scrum events like the sprint review and the significance of the product backlog, aligning well with the core themes of Scrum Product Development. However, while it provides a good depth of discussion, it does not focus exclusively on product development, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile methodologies, touching on aspects of operational practices such as transparency, comprehension, and the importance of aligning team values with Agile principles. However, it primarily focuses on the difficulties and cultural aspects rather than providing clear operational strategies or techniques for improving efficiency.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its complexities, touching on aspects of Agile methodology. However, it primarily focuses on the challenges of understanding and mastering Scrum rather than providing actionable strategies or techniques for operational efficiency. While there are mentions of transparency and value creation, the depth of practical application in terms of operational practices is limited.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the principles of Scrum and the importance of transparency and empirical evidence in decision-making, which aligns with EBM. However, the primary focus is on the challenges of mastering Scrum rather than a comprehensive exploration of EBM principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Scrum and its complexities, touching on concepts like transparency and empirical process control, which are relevant to Evidence-Based Management. However, it primarily focuses on the challenges of understanding and mastering Scrum rather than providing a thorough exploration of EBM principles or empirical data application in decision-making. The discussion lacks specific techniques for measuring performance or case studies, which diminishes its alignment with the core themes of EBM.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -811,12 +868,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges of understanding and mastering Scrum, touching on the role of Scrum in facilitating Agile practices, but it primarily focuses on broader Agile concepts and cultural challenges rather than specifically on the responsibilities and practices of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and touches on various aspects of the Scrum framework, including the importance of transparency and the purpose of Scrum events like the sprint review. However, it lacks a direct focus on the specific role and responsibilities of a Scrum Master, which limits its alignment with the category. While it provides some depth in discussing Scrum principles, it does not delve deeply into the Scrum Master's role in facilitating these processes.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -865,11 +925,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T21:34:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T01:23:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Scrum and its complexities, which are integral to Agile Planning. It touches on principles, transparency, and the importance of understanding Scrum events, indicating a significant focus on Agile methodologies. However, it also diverges into broader discussions about organisational culture and comprehension, making Agile Planning a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum extensively, highlighting its principles, challenges in mastering it, and the importance of transparency and understanding within Agile environments. It aligns well with Agile Planning concepts, particularly in relation to iterative planning, stakeholder alignment, and the role of Scrum events. However, while it provides a good depth of discussion, it does not focus solely on Agile Planning methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -901,12 +964,15 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of creating environments that are psychologically safe, where team members can express their concerns and ideas. However, the primary focus is on Scrum and Agile methodologies, making psychological safety a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of psychological safety in the context of Scrum and Agile environments, particularly in relation to team dynamics and the ability to express concerns and ideas. However, while it touches on the importance of a psychologically safe environment, it primarily focuses on the challenges of understanding and mastering Scrum, which makes psychological safety a secondary theme rather than the primary focus. The depth of discussion on psychological safety is limited, as it is not explored in detail or with specific strategies for fostering it.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -919,12 +985,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and the importance of team dynamics, but it primarily focuses on the difficulties of understanding and implementing Scrum rather than the specific roles and interactions within a Scrum Team.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and touches on team dynamics, transparency, and the importance of understanding Scrum events, particularly the sprint review. However, it lacks a focused exploration of specific roles within a Scrum Team and detailed techniques for collaboration or communication strategies, which are essential for a higher confidence score.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -964,11 +1033,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T21:35:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:23:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges of mastering Scrum and the underlying Agile principles, emphasising the importance of understanding Agile values and the cultural shifts required for effective implementation.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum, which is a specific Agile framework, but it also delves into the underlying Agile principles and values, such as transparency, collaboration, and the importance of understanding Agile's purpose. While it primarily focuses on Scrum, it does touch on broader Agile concepts, making it relevant to the Agile Philosophy category. However, the emphasis on Scrum specifics slightly detracts from a pure Agile Philosophy focus.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1018,12 +1090,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile methodologies, touching on the importance of aligning team practices with strategic objectives. However, the primary focus is on the difficulties of understanding and implementing Scrum rather than explicitly defining or articulating long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges of mastering Scrum and Agile methodologies, touching on the importance of understanding strategic objectives and aligning them with team performance. However, it primarily focuses on operational aspects and the difficulties of implementation rather than explicitly defining or articulating long-term strategic goals. While there are mentions of value creation and competitive advantage, these are not explored in the context of strategic goal-setting frameworks or agile principles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1045,12 +1120,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and the cultural implications of adopting agile practices within organisations, which aligns with themes of enterprise agility. However, the primary focus remains on Scrum as a framework rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a team-level agile framework, rather than discussing enterprise-level agility. While it touches on themes of leadership and organisational culture, it lacks a comprehensive exploration of enterprise agility concepts such as scaling frameworks, organisational structures, or metrics for measuring agility. The discussion is more about the challenges of mastering Scrum in various environments, which does not fully align with the broader implications of agility on organisational performance and culture.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1129,11 +1207,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile methodologies, touching on the importance of understanding principles, values, and the role of feedback in the development process. However, the primary focus is on Scrum implementation rather than broader discovery and learning processes.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the challenges of understanding and mastering Scrum, focusing on the complexities of its implementation in various organisational contexts. While it touches on aspects of learning, such as comprehension and the importance of feedback in the Scrum process, the main emphasis is on the difficulties of adopting Scrum rather than exploring methodologies that foster innovation or continuous learning. The discussion lacks depth in terms of specific techniques or frameworks that support discovery and learning, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -1168,12 +1249,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its complexities, touching on practical aspects of its implementation and the challenges faced in different organisational contexts. However, it primarily focuses on the philosophical and cultural challenges rather than specific tools or methodologies, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum and its complexities, touching on the challenges of mastering Agile methodologies. However, it primarily focuses on philosophical and cultural aspects rather than practical techniques or tooling. While it mentions Scrum events and principles, it lacks detailed exploration of specific tools or methodologies that enhance Agile practices, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1222,12 +1306,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies in depth, referencing the challenges of understanding and mastering these frameworks, which aligns with the category's focus on literature and tools related to Agile practices. However, it does not primarily focus on specific products or books, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies in detail, but it primarily focuses on the challenges of understanding and mastering these frameworks rather than providing specific reviews or analyses of products or books. While it touches on the importance of literature and training in Agile, it lacks direct references to specific products or books, which diminishes its alignment with the 'Products and Books' category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1321,12 +1408,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding and applying Scrum principles, including the role of feedback and learning in the Scrum process. However, the primary focus is on the challenges of mastering Scrum rather than on metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Scrum and its complexities, touching on aspects of transparency and the importance of understanding the framework. However, it lacks a strong focus on metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. While there are mentions of learning and comprehension, they are not deeply tied to evidence-based decision-making or continuous improvement methodologies, which diminishes the overall alignment with the category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1348,12 +1438,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:24:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of mastering Scrum and Agile frameworks, touching on themes of team dynamics, leadership, and organisational culture. However, the primary focus remains on Scrum methodology rather than a deep exploration of psychological principles or theories directly related to organisational psychology.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on their implementation challenges rather than the psychological principles that underpin organisational behaviour. While there are mentions of team dynamics and the importance of psychological safety, these are secondary to the technical aspects of Scrum. The depth of discussion on psychological concepts is limited, and the primary focus remains on the practicalities of Agile frameworks.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1369,7 +1462,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:20:16",
+    "calculated_at": "2025-03-15T01:23:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1377,7 +1470,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Scrum and its complexities, touching on themes of organisational structure and team dynamics. However, it primarily focuses on the challenges of understanding and implementing Scrum rather than explicitly addressing leadership practices or strategies. While there are mentions of team ethos and the need for unique interpretations, the discussion lacks depth in leadership frameworks or the role of leaders in fostering an agile environment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

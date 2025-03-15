@@ -32,6 +32,8 @@ sitemap:
 tags:
 - Personal
 - People and Process
+- Agile Transformation
+- Software Development
 resourceTypes:
 - video
 categories:

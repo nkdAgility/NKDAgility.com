@@ -27,15 +27,15 @@ duration: 286
 isShort: false
 tags:
 - Agile Product Management
+- Scrum Team
+- Product Owner
 - Sprint Review
 - Agile Project Management
 - Professional Scrum
+- Software Development
 - People and Process
 - Accountability
-- Product Delivery
-- Agile Frameworks
-- Product Owner
-- Scrum Product Development
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

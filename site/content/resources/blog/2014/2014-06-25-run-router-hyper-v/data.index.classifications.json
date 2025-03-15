@@ -133,7 +133,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T16:45:29",
+    "calculated_at": "2025-03-15T04:28:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -141,7 +141,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a practical implementation of running a router on Hyper-V, which is more of a technical how-to rather than a discussion on engineering practices that enhance agility or technical excellence. While it does touch on aspects of virtualisation and network configuration, it lacks a broader discussion on methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The depth of technical detail is present, but it does not align closely with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -379,7 +379,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:33:59",
+    "calculated_at": "2025-03-15T04:28:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -387,7 +387,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on a practical implementation of running a router on Hyper-V, which involves technical details and specific steps. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects, such as VM configuration and network settings, it does not delve deeply into the principles of clean code, testing, or architectural best practices that are central to the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -589,7 +589,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:57:32",
+    "calculated_at": "2025-03-15T04:28:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -597,7 +597,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses setting up a router in a virtual machine environment using Hyper-V, which is more focused on networking and virtualisation rather than core software development practices. While it touches on technical aspects related to software (like creating a VHD and configuring a VM), it lacks a strong emphasis on software development methodologies, coding best practices, or lifecycle management, which are central to the Software Development category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -790,7 +790,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:44:05",
+    "calculated_at": "2025-03-15T04:28:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -798,7 +798,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses practical problem-solving techniques for running a router on Hyper-V, which aligns with pragmatic thinking. However, it primarily focuses on technical setup rather than broader Agile or Scrum principles, resulting in a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

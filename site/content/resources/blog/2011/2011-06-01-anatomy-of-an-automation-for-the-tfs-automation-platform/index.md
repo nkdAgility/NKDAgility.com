@@ -24,6 +24,10 @@ aliasesArchive:
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
 - Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
+- Software Development
+- Internal Developer Platform
 categories:
 - DevOps
 

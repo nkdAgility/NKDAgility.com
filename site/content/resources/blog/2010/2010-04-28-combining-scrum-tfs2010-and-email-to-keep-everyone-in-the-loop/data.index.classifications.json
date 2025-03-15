@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:59:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and collaboration in Scrum, but primarily focuses on email management and TFS processes rather than Agile product management principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Product Owner and the importance of communication in Agile practices, particularly within the context of Scrum and TFS. However, while it touches on Agile principles, the focus is more on email management and task tracking rather than a comprehensive exploration of Agile Product Management methodologies. The depth of discussion on Agile concepts is moderate, but it lacks a broader strategic alignment with Agile principles beyond the operational aspects.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -85,11 +88,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:59:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of keeping email history and task information accessible to team members, which relates to transparency. However, the primary focus is on practical implementation rather than a deep exploration of transparency and accountability principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of keeping email history and task information accessible to team members, which aligns with transparency. However, it primarily focuses on practical rules for managing tasks in TFS rather than a deep exploration of transparency and accountability principles. The mention of improving communication and collaboration hints at accountability but lacks detailed discussion on fostering trust or aligning team goals.",
     "level": "Tertiary"
   },
   "Market Adaptability": {
@@ -103,12 +109,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of email communication and task management within a team context, highlighting the importance of collaboration and information sharing, which are sociotechnical aspects. However, the primary focus is on specific tools and processes rather than a broader exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of email communication and task management within a Scrum framework, highlighting the importance of keeping team members informed and the challenges of using TFS 2010. While it touches on team dynamics and communication tools, it lacks a comprehensive exploration of sociotechnical principles and does not explicitly address the interplay between social and technical systems in a broader organisational context.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -241,12 +250,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices related to task management and communication within a Scrum framework, which are relevant to product delivery, but it primarily focuses on email management rather than the broader methodologies and practices of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses practical methods for managing tasks and communication within a Scrum framework, which aligns with product delivery principles. It mentions the importance of keeping email history for task management and suggests improvements for automating processes, indicating a focus on enhancing delivery efficiency. However, while it touches on relevant practices, it lacks a comprehensive exploration of broader product delivery methodologies and metrics.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -277,30 +289,39 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:59:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices related to task management and communication within a Scrum framework, which are relevant to value delivery, but the primary focus is on project management tools and processes rather than direct value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of keeping communication and task history in sync within a Scrum framework, which indirectly relates to value delivery by enhancing team collaboration and customer understanding. However, it primarily focuses on technical implementation details and project management practices rather than explicitly addressing value delivery strategies or methodologies. The discussion lacks depth in terms of value management principles and does not provide substantial insights into measuring or maximising customer value.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:59:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS 2010), which is part of the Azure DevOps suite, but primarily focuses on Scrum practices and email management rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and Team Foundation Server (TFS) 2010, which is a predecessor to Azure DevOps. While TFS is related to Azure DevOps, the focus is more on Scrum methodologies and email management rather than on Azure DevOps functionalities or best practices. The mention of TFS does not sufficiently align with the core themes of Azure DevOps, and the depth of discussion does not provide significant insights into Azure DevOps itself.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on improving processes within Scrum and TFS, but it primarily focuses on technical solutions rather than personal experiences or insights.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses practical experiences with Scrum and TFS, but it primarily focuses on technical processes and rules rather than personal reflections or insights. While there are mentions of personal preferences and suggestions for improvement, the overall emphasis is on procedural details rather than individual experiences or challenges faced in Agile practices.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -331,12 +352,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the integration of email with task management, which relates to organisational agility but is primarily focused on project management tools and processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the use of Scrum and Team Foundation Server (TFS) for project management, focusing on email communication and task management. While it touches on aspects of collaboration and process improvement, it lacks a direct focus on broader organisational agility principles such as cultural shifts, leadership roles, or agile methodologies in a comprehensive manner. The discussion is more about operational efficiency rather than strategic agility, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -457,11 +481,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices related to Scrum and project management, highlighting email management and task tracking within TFS, indicating a focus on how Scrum practices can support Agile Planning.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of email communication with task management in TFS 2010, which is relevant to Agile Planning but does not explicitly focus on Agile principles or methodologies. While it touches on collaboration and task management, it lacks depth in discussing Agile practices such as sprints, user stories, or iterative planning. The mention of Scrum is present but is not the primary focus of the content.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
@@ -484,21 +511,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T07:00:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses email management within the Scrum framework and TFS, focusing on improving team communication and task management practices. However, it primarily revolves around specific tools and rules rather than overarching operational efficiency techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses practical strategies for managing email communication within a Scrum framework and integrating it with Team Foundation Server (TFS). It provides specific rules and practices that enhance operational efficiency by ensuring that relevant information is preserved and accessible for team members. However, while it touches on operational practices, the focus is more on the specific use of tools rather than broader operational efficiency techniques, which slightly limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses collaboration and communication practices related to a Scrum Team, specifically in the context of using email and TFS to enhance understanding and teamwork.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of communication and collaboration within a Scrum Team, particularly in relation to managing tasks and keeping team members informed through email and TFS. It touches on roles such as the Product Owner and highlights practices that can enhance team effectiveness. However, it lacks a deeper exploration of Scrum roles and dynamics, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -529,12 +562,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and how to effectively manage tasks within a Scrum framework, which indicates a significant focus on Agile transformation principles, although it also delves into specific tools like TFS that may detract from a pure Agile transformation discussion.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum practices and the integration of email with TFS 2010, which are relevant to Agile methodologies. However, it primarily focuses on operational details rather than broader Agile transformation strategies, limiting its depth and overall alignment with the category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -619,12 +655,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content predominantly discusses utilizing TFS 2010 and email for task management, it touches on Scrum-related practices and processes, making Scrum a secondary theme in the context of project management efficiency.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the integration of Scrum with TFS 2010 and email communication, which is relevant to Scrum practices. However, it primarily focuses on practical implementation rather than in-depth exploration of Scrum principles, roles, or values. While it mentions Scrum and provides some insights into team collaboration, it lacks a comprehensive discussion on the core themes of the Professional Scrum category.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -655,20 +694,26 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS 2010), which is related to Azure Boards, but the primary focus is on email management and Scrum processes rather than the specific functionalities and best practices of Azure Boards.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) 2010 in the context of Scrum and email management, which is somewhat related to Azure Boards but does not focus on its specific functionalities or best practices. While TFS is part of the Azure DevOps suite, the discussion lacks depth on Azure Boards' features, such as work item types, customisation, or integration with other services. The mention of TFS and Scrum roles is present, but it does not align closely with the core themes of Azure Boards, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses using email in conjunction with Team Foundation Server 2010 for task management, which relates to collaboration. However, the primary focus is on Scrum practices and how to handle email communications rather than a detailed examination of collaboration tools.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of email and Team Foundation Server (TFS) 2010 for task management and communication within a Scrum framework. While it touches on collaboration through email and TFS, it lacks a comprehensive overview of collaboration tools and their features. The discussion is somewhat aligned with the category, but it primarily focuses on specific practices rather than a broader exploration of collaboration tools.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -811,12 +856,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the possibility of automating processes to improve task management and communication, which relates to innovation, but the primary focus is on existing practices and tools in Scrum and Team Foundation Server, making innovation a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses practical aspects of using Scrum and TFS 2010 for project management, with a focus on email communication and task management. While it briefly touches on the need for process improvement and automation, it lacks a strong emphasis on the core themes of the Ability to Innovate category, such as Evidence-Based Management or frameworks for measuring innovation capabilities. The discussion is more operational than strategic, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -877,11 +925,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical aspects of using Scrum and TFS to manage tasks and communication effectively, which relates to the processes surrounding working software delivery. However, it is largely focused on email handling and specific processes rather than discussing working software itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of email communication with task management in TFS 2010, which indirectly relates to working software by emphasising the importance of effective communication and collaboration in delivering functional software. However, it lacks a direct focus on the characteristics of working software or best practices for ensuring software quality, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -949,12 +1000,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on decision-making processes regarding task management and email integration within Scrum and TFS environments, but primarily focuses on project management rules and practices rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses processes and rules for managing tasks within a Scrum framework, but it lacks a structured approach to decision-making. While it mentions the importance of keeping relevant information and collaborating effectively, it does not delve into evidence-based methodologies or frameworks for evaluating options. The focus is more on operational practices rather than on the principles of decision-making as defined in the category.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -976,12 +1030,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the Product Owner in the context of communication and task management but primarily focuses on processes within email and TFS rather than the direct responsibilities or strategies of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions the Product Owner role in the context of email communication and task management, indicating some relevance. However, it primarily focuses on technical implementation details and processes rather than the core responsibilities and practices of a Product Owner. While there is a discussion on how to improve communication with the Product Owner, it lacks depth in exploring the broader responsibilities and strategies that define the role.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1087,12 +1144,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of managing tasks and communication within an agile framework, specifically Scrum and TFS, which relates to technical leadership principles. However, it primarily focuses on email management and processes rather than broader themes of technical leadership.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of email and TFS 2010 in the context of Scrum, but it lacks a strong focus on technical leadership principles. While it touches on collaboration and communication within teams, it does not delve into mentoring, coaching, or agile best practices in a meaningful way. The discussion is more about operational processes than about guiding teams or fostering a culture of continuous improvement.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1159,11 +1219,14 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices related to communication and task management in a distributed setting, specifically mentioning email and TFS for collaboration, which aligns with remote work practices, but it mainly focuses on the use of specific tools rather than broader remote Agile strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of email and Team Foundation Server (TFS) in the context of Scrum, which is relevant to remote working practices. It touches on maintaining communication and collaboration among team members, which aligns with the category's focus. However, it lacks a broader exploration of remote working strategies and tools, making it a secondary rather than primary focus.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
@@ -1195,39 +1258,51 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:59:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content addresses some Scrum practices and mentions the roles of Product Owners and teams, it primarily focuses on email integration with Team Foundation Server and does not deeply explore the responsibilities or practices of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the integration of Scrum practices with TFS 2010 and email management, which indirectly relates to the role of a Scrum Master in facilitating communication and collaboration within a team. However, it lacks a direct focus on the responsibilities and techniques specific to Scrum Masters, such as coaching or conducting Scrum ceremonies. The mention of Scrum is present but not central to the discussion, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of keeping team members informed and maintaining a history of task-related communications, which aligns with transparency, though it primarily focuses on tools and practices for managing email and task information.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of keeping team members informed through email communication and task management in TFS 2010, which aligns with the concept of transparency in Agile. It highlights the need for clear communication and maintaining a history of tasks to ensure all relevant parties are included in discussions. However, while it touches on transparency, it primarily focuses on specific tools and processes rather than a broader discussion of transparency principles in Agile methodologies.",
     "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses methods to maintain communication and task management within a team, which relates to working agreements, but it primarily focuses on tools and processes rather than directly on establishing team norms.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses email management and task tracking within a Scrum framework, but it primarily focuses on specific tools and processes rather than the broader principles of working agreements. While there are mentions of collaboration and communication, the discussion lacks depth on defining or implementing working agreements as a foundational aspect of teamwork.",
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:59:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "Content discusses Scrum practices and the use of TFS in the context of improving team collaboration and task management, which is relevant to software developers, though it is not solely focused on their role in Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of Scrum and Team Foundation Server (TFS) in the context of project management, which is relevant to software developers. It provides practical advice on managing tasks and communication within Agile frameworks, aligning well with the category's focus on enhancing productivity and collaboration. However, while it touches on Agile practices, it lacks a broader discussion on DevOps principles and modern engineering practices, which slightly lowers the alignment score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1267,7 +1342,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T15:37:10",
+    "calculated_at": "2025-03-15T06:59:43",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1275,7 +1350,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the integration of email communication within the Scrum framework and how it can enhance collaboration among team members. While it touches on aspects of product management, such as improving communication with the Product Owner and ensuring task history is maintained, it primarily focuses on technical implementation details and specific tools (TFS 2010, Outlook) rather than broader strategic product management concepts. The discussion lacks depth in core product management methodologies and frameworks, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",

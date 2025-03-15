@@ -1,7 +1,7 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T17:08:47",
+    "calculated_at": "2025-03-15T07:42:22",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions ALM in the context of needing to rationalise and package software, which aligns with application governance. However, it lacks a detailed discussion on the stages of the application lifecycle or best practices, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -106,7 +106,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:19:15",
+    "calculated_at": "2025-03-15T07:42:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -114,7 +114,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Visual Studio 2008 and Team Explorer, but it lacks a detailed exploration of practical techniques or tooling related to Agile or DevOps. While it touches on the installation process and the need for Team Explorer, it does not provide insights into methodologies, frameworks, or best practices that enhance team performance or collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -382,7 +382,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:51:19",
+    "calculated_at": "2025-03-15T07:42:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the installation of Visual Studio 2008 and the absence of Team Explorer as part of that installation. While it touches on the installation process, it lacks a comprehensive exploration of system configuration principles or best practices. The focus is more on personal experience and frustration rather than a structured discussion on configuration methodologies or optimisation strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -592,7 +592,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T12:16:21",
+    "calculated_at": "2025-03-15T07:42:22",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -600,7 +600,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the installation of Visual Studio 2008 and the absence of Team Explorer, which relates to software development tools. However, it primarily focuses on personal frustrations and opinions regarding the installation process rather than on methodologies or practices of software development. While it touches on a relevant tool, it lacks depth in discussing software development principles or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1099,7 +1099,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T15:18:03",
+    "calculated_at": "2025-03-15T07:42:22",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1107,7 +1107,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the installation of Visual Studio 2008 on a Windows Vista environment, which is a direct mention of the Windows operating system. However, the primary focus is on Visual Studio and its components rather than on Windows itself. While there is some alignment with the category through the mention of installation procedures, the depth of discussion is limited to a specific software application rather than broader Windows management or troubleshooting topics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1408,7 +1408,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:19:24",
+    "calculated_at": "2025-03-15T07:42:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1416,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Visual Studio 2008 and Team Explorer, with no direct mention of Scrum principles, roles, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum, making it unsuitable for classification under this category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -30,13 +30,12 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Install and Configuration
-- Application Lifecycle Management
-- Product Delivery
-- Release Management
-- Deployment Strategies
-- Pragmatic Thinking
 - Software Development
 - System Configuration
+- Release Management
+- Application Lifecycle Management
+- Product Delivery
+- Events and Presentations
 categories:
 - DevOps
 - Engineering Excellence

@@ -25,8 +25,13 @@ preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: false
 tags:
+- Change Management
+- Organisational Culture
 - People and Process
+- Resilience and Change
 - Agile Transformation
+- Discovery and Learning
+- Organisational Agility
 - Agile Leadership
 - Agile Philosophy
 sitemap:

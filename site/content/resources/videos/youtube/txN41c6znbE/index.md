@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Continuous Learning
 - Discovery and Learning
 - Software Development
 - Agile Project Management
@@ -39,7 +40,6 @@ tags:
 - Sociotechnical Systems
 - Agile Strategy
 - Agile Philosophy
-- Organisational Culture
 resourceTypes:
 - video
 categories:

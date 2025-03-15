@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up and configuring Microsoft Test Manager, which is relevant to installation and configuration, but it is primarily focused on the features and integration of the tool rather than detailed installation procedures.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the setup and configuration of Microsoft Test Manager (MTM) within Visual Studio 2010 and TFS, which aligns with the category's focus on installation and configuration processes. However, while it provides some detail on how to configure the environment and run tests, it lacks comprehensive step-by-step instructions or troubleshooting guidance, which limits its depth. The primary focus is on explaining MTM's features rather than a thorough installation guide.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -244,7 +247,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:55:59",
+    "calculated_at": "2025-03-15T06:09:39",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
@@ -252,7 +255,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which relates to testing and quality assurance in the product delivery process. However, while it touches on aspects of testing and the value of MTM for teams, it lacks a broader discussion on methodologies, deployment, or the end-to-end delivery process. The focus is primarily on the tool rather than the overarching principles of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -274,30 +277,39 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Microsoft Test Manager, a tool relevant to Agile and DevOps practices, but it primarily focuses on its features and demonstrations rather than providing a review or analysis of the product.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on Microsoft Test Manager (MTM) as a product, detailing its features and integration with Visual Studio 2010 and TFS. While it discusses a specific tool relevant to Agile and DevOps practices, it lacks in-depth analysis or reviews typical of the 'Products and Books' category. The mention of a series of webcasts adds some context but does not significantly enhance the alignment with the category's core themes.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how Microsoft Test Manager can provide value to testers and developers, indicating a focus on value delivery, but it primarily revolves around technical implementation details and features of the tool.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which can be related to value delivery in terms of enhancing testing efficiency and collaboration among teams. However, the focus is primarily on technical implementation details and features of MTM rather than on broader strategies or methodologies for delivering value to customers. While there are mentions of providing value to testers and developers, the discussion lacks depth in terms of aligning with customer needs or iterative value delivery practices.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Microsoft Test Manager and its integration with TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, the primary focus is on Test Manager rather than Azure DevOps as a whole.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which are related to Azure DevOps. However, it primarily focuses on MTM and does not explicitly mention Azure DevOps or its broader functionalities. The alignment with Azure DevOps principles is present but limited, as the discussion lacks depth on CI/CD practices or Agile project management within Azure DevOps. Overall, while there are relevant elements, the content does not sufficiently centre on Azure DevOps to warrant a higher confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -385,11 +397,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Microsoft Test Manager with TFS and Visual Studio, which relates to software testing practices and tools, but it primarily focuses on the features and usage of MTM rather than broader principles of software craftsmanship.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which touches on aspects of software testing and quality assurance. However, it primarily focuses on the tool's functionality rather than broader principles of software craftsmanship or engineering practices. While there are mentions of testing and integration, the depth of discussion is limited, and it lacks a comprehensive exploration of best practices or methodologies in software development.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -493,12 +508,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Microsoft Test Manager's integration with TFS and Visual Studio, which relates to operational practices in testing and development, but it primarily focuses on the tool's features rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which relates to operational practices in software testing. However, it primarily focuses on the features and functionalities of MTM rather than providing in-depth strategies or techniques for enhancing operational efficiency. While there are mentions of testing processes, the discussion lacks a strong emphasis on broader operational practices or methodologies like Agile, DevOps, or Lean.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -556,11 +574,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:42",
+    "ai_confidence": 52.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Microsoft Test Manager's capabilities for both manual and automated testing, but the primary focus is on manual testing processes and integration with TFS and Visual Studio, making automated testing a secondary theme.",
+    "final_score": 48.0,
+    "reasoning": "The content discusses Microsoft Test Manager (MTM) and its capabilities for both manual and automated testing. While it mentions automation, the primary focus is on manual testing and the integration of MTM with TFS and Visual Studio. The discussion lacks depth on automated testing principles, methodologies, and best practices, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -748,7 +769,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:24:21",
+    "calculated_at": "2025-03-15T06:09:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -756,7 +777,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which relates to quality assurance and testing methodologies. However, it primarily focuses on the functionality of MTM rather than broader engineering excellence principles. While there are mentions of testing practices, the depth of discussion on engineering excellence concepts such as coding standards, CI/CD, or technical debt management is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -880,11 +901,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Microsoft Test Manager, which is a tool for testing software, and its integration with Visual Studio and TFS, indicating a focus on ensuring software quality and functionality. However, it primarily centres on the tool itself rather than the broader concept of working software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which relates to the delivery of functional software. However, it primarily focuses on the testing tool rather than the broader concept of working software. While it mentions the value to testers and developers, it lacks in-depth discussion on best practices, customer feedback, or iterative development, which are key themes of the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1024,12 +1048,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Microsoft Test Manager with TFS and Visual Studio, which can enhance team collaboration in testing processes, but the primary focus is on the tool's functionality rather than team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Microsoft Test Manager and its integration with TFS and Visual Studio, which indirectly relates to team collaboration by highlighting tools that facilitate testing and communication among team members. However, it lacks a direct focus on team dynamics, shared ownership, or specific strategies for enhancing collaboration within Agile or DevOps frameworks. The mention of teams is minimal and does not delve into the core themes of the category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1069,7 +1096,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T18:07:14",
+    "calculated_at": "2025-03-15T06:09:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1077,7 +1104,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which touches on aspects of system configuration, particularly in the context of setting up testing environments. However, the primary focus is on the functionality and benefits of MTM rather than detailed methodologies or best practices for system configuration. The discussion lacks depth in terms of configuration management tools or optimisation strategies, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1225,7 +1252,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T15:05:55",
+    "calculated_at": "2025-03-15T06:09:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1233,7 +1260,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which is relevant to software developers. However, it primarily focuses on testing rather than the broader themes of Agile and DevOps methodologies. While it mentions developers and their interaction with testing, the discussion lacks depth in Agile practices and does not explore the role of developers in a collaborative context. Therefore, while there is some relevance, it does not fully align with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,11 +1273,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:10:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Microsoft Test Manager and its integration with TFS and Visual Studio, which relates to testing practices in software development. However, it primarily focuses on the tool rather than the core principles of Agile engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Microsoft Test Manager (MTM) and its integration with TFS and Visual Studio 2010, which relates to automation and testing practices in software engineering. However, while it mentions testing and automation, it lacks a deeper exploration of Agile principles or methodologies such as TDD or CI/CD. The focus is primarily on the tool rather than the underlying engineering practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -1417,7 +1447,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:46:22",
+    "calculated_at": "2025-03-15T06:09:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1425,6 +1455,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Microsoft Test Manager and its integration with Visual Studio and TFS, with no direct mention of Scrum principles, roles, or events. While it discusses team collaboration in testing, it does not align with the core themes of Scrum, such as iterative progress or empirical process control. The depth of discussion on Scrum-related topics is minimal, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

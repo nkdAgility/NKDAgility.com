@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
 - Professional Scrum
+- Scrum Team
 - Software Development
 - People and Process
 - Scrum Master
 - Agile Project Management
-- Scrum Team
 - Technical Leadership
 - Agile Frameworks
+- Coaching
 - Team Performance
-- Scrum Product Development
 categories:
 - Scrum
 preview: Wide-screen-scrum-master-3-3.jpg

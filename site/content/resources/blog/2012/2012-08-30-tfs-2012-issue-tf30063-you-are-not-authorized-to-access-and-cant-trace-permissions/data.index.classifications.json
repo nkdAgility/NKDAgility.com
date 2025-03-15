@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:44:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses permission issues in Team Foundation Server and SharePoint, which relates to technical aspects of software setup and configuration, but lacks a strong focus on broader software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in TFS and SharePoint, which is more of a troubleshooting guide than a discussion on technical mastery. While it touches on permissions management, it lacks a broader exploration of best practices, principles, or methodologies that contribute to software craftsmanship or engineering excellence. The focus is on resolving a specific error rather than on enhancing technical skills or practices.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -625,7 +628,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T15:02:50",
+    "calculated_at": "2025-03-15T05:44:31",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -633,7 +636,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses permissions and access issues related to Team Foundation Server (TFS), which is a version control system. However, the focus is primarily on troubleshooting a specific error rather than on broader best practices or methodologies in modern source control. While it mentions TFS and permissions, it lacks depth in discussing version control strategies, branching, or collaboration workflows, which are key themes in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",

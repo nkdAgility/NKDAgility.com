@@ -37,7 +37,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T19:08:08",
+    "calculated_at": "2025-03-15T07:52:25",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -45,7 +45,7 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content briefly mentions the Scrum Framework but lacks detailed exploration of Scrum roles, events, or principles. It does not provide sufficient depth or alignment with the core themes of Professional Scrum discussions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -265,7 +265,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T13:28:44",
+    "calculated_at": "2025-03-15T07:52:25",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -273,7 +273,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content provides a brief mention of the Scrum framework but lacks detailed exploration of its principles, applications, or comparative analysis with other Agile frameworks. The discussion is superficial and does not delve into the core themes or provide substantial insights into the Agile Frameworks category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -340,7 +340,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T15:23:23",
+    "calculated_at": "2025-03-15T07:52:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -348,7 +348,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the Scrum framework, which is a part of Agile methodologies in software development. However, it lacks detailed discussion or specific examples related to Scrum roles, events, or practices, resulting in a low confidence score. The mention of Scrum indicates some alignment with the category, but the overall depth of discussion is minimal.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -577,12 +577,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T17:41:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:52:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions the Scrum Framework, which is a significant aspect of Agile Project Management, but does not provide in-depth discussion on agile principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the Scrum framework, which is a key aspect of Agile Project Management. However, it lacks detailed discussion on Scrum roles, ceremonies, or principles, resulting in a low confidence score. The content does not explore the broader themes of agile methodologies or their application in project management.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -703,12 +706,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T17:41:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:52:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the Scrum framework, which is a key methodology within Agile transformation, but does not delve into broader Agile transformation strategies or principles.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the Scrum framework, which is a component of Agile transformation, but does not delve into the principles, methodologies, or strategies of Agile transformation as a whole. The discussion lacks depth and does not address the broader themes of organisational agility or change management.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -847,12 +853,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T17:41:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the Scrum framework, which is a key aspect of Agile Planning, but does not delve deeply into Agile Planning principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Scrum framework, which is a component of Agile Planning, but does not delve into the principles or practices of Agile Planning itself. The discussion lacks depth and does not explore key topics such as iterative planning, user stories, or stakeholder alignment, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1333,7 +1342,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T19:08:06",
+    "calculated_at": "2025-03-15T07:52:25",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1341,11 +1350,11 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions the Scrum Framework but lacks detailed discussion on its principles, roles, or events. While it aligns conceptually with the category, the depth of discussion is minimal, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-10T13:28:42",
+    "calculated_at": "2025-03-15T07:52:25",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1353,7 +1362,7 @@
     "non_ai_confidence": 50,
     "final_score": 28.0,
     "reasoning": "The content briefly mentions the Scrum Framework but lacks detailed discussion on its roles, events, or principles. The description is too vague to provide substantial insights into Scrum practices or implementation, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

@@ -67,39 +67,51 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content involves an interactive training workshop aimed at improving the skills of Scrum Masters, which includes elements of validated learning and assessment, indicating a focus on learning methodologies. However, the primary focus is on the Scrum framework and training rather than metrics specifically.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, discussing the workshop's structure and community-building aspects. While it touches on continuous improvement and the importance of understanding Scrum practices, it lacks a direct emphasis on metrics, data utilisation, or evidence-based decision-making, which are core to the 'Metrics and Learning' category. The discussion is more about personal development and training experiences rather than the application of metrics or learning methodologies.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:19:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses training for aspiring Scrum Masters, focusing on Scrum theory, roles, and principles, which aligns with the Professional Scrum category.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses a Professional Scrum Master workshop, highlighting the roles and responsibilities of Scrum Masters, which aligns closely with the core themes of the Professional Scrum category. It provides a detailed exploration of the training process, the importance of understanding Scrum principles, and the community aspect of ongoing learning, demonstrating a strong depth of discussion. The focus on practical applications and the theoretical foundations of Scrum further supports a high confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:19:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on training for Scrum Masters, discussing Scrum theory and principles, the importance of the Scrum framework, and the roles and responsibilities within that framework.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on Scrum, detailing a workshop for aspiring Scrum Masters and discussing the importance of understanding Scrum principles and practices. It aligns well with the core themes of Agile frameworks, particularly in promoting collaboration and continuous improvement. However, while it provides substantial insights into Scrum, it does not explore other Agile frameworks or a comparative analysis, which slightly limits its depth in the broader Agile context.",
     "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content primarily focuses on training for Scrum Masters, which is a significant aspect of the Scrum framework, but it does not directly address product development practices or iterative development.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, which is related to Scrum but does not directly address product development or the iterative processes involved in Scrum. While it discusses the roles within Scrum and the importance of understanding Scrum principles, it lacks a strong emphasis on product development practices, customer feedback integration, or specific methodologies for enhancing products. Therefore, while there is some relevance, it does not fully align with the core themes of Scrum Product Development.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -124,11 +136,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum Master accountabilities, which relates to the concept of accountability in Agile practices. However, the focus is mainly on training and not primarily about accountability itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of understanding Scrum principles, which aligns with accountability in terms of ownership and team dynamics. However, it does not explicitly focus on accountability as a primary theme, and while it mentions the responsibilities of Scrum Masters, it lacks detailed strategies for fostering a culture of accountability.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -169,12 +184,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a training program for Scrum Masters, which is relevant to Agile practices. However, the focus is primarily on Scrum roles and training rather than specifically addressing remote working practices and challenges.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a workshop for Scrum Masters, mentioning tools like Microsoft Teams and Mural, which are relevant to remote collaboration. However, the primary focus is on Scrum training rather than remote working practices. While there are elements of remote engagement, they are not the central theme, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -214,12 +232,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the use of Microsoft Teams and Mural for training sessions, indicating a secondary theme of collaboration tools, although the primary focus is on Scrum Master training and Scrum framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:19:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the use of collaboration tools like Microsoft Teams and Mural within the context of a Scrum Master workshop, which aligns with the category. However, the primary focus is on training and Scrum principles rather than an in-depth exploration of collaboration tools themselves. While there is a mention of tools and their role in enhancing communication, the overall discussion leans more towards training methodologies and Scrum practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -295,30 +316,39 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:19:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses training for Scrum Masters, emphasizing Scrum theory and principles, which is a core aspect of Software Development methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, which is a key aspect of Agile methodologies within software development. It discusses the importance of understanding Scrum principles, the role of a Scrum Master, and the interactive nature of the training, aligning well with the core themes of software development practices. The depth of discussion includes specific training activities and community building, indicating a thorough exploration of the topic. However, while it is highly relevant, it does not delve into broader software development practices outside of Scrum, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training for Scrum Masters, which includes elements of coaching and mentoring within the Agile framework, making coaching a significant secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of training, which aligns with coaching principles. However, while it touches on community building and ongoing support, it lacks a direct focus on coaching techniques or methodologies. The emphasis is more on training and Scrum practices rather than the facilitative nature of coaching.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses aspects of Scrum, which is a framework within Agile Planning, but the primary focus is on training for Scrum Masters rather than Agile Planning itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of Scrum Masters and the importance of training in Agile methodologies, which aligns with Agile Planning principles. However, it primarily focuses on training and community building rather than specific Agile planning techniques or methodologies. While it touches on relevant themes, it lacks a direct focus on Agile Planning as defined in the category.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -415,12 +445,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training and learning for Scrum Masters, which aligns with continuous learning principles, but it primarily focuses on Scrum framework knowledge rather than broader growth mindset or team improvement discussions.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:19:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of training and community in the context of Scrum, which aligns with the principles of Continuous Learning. It highlights the interactive nature of workshops, the significance of understanding Scrum practices, and the ongoing support provided to participants, all of which promote a growth mindset and knowledge sharing. However, while it touches on these themes, the primary focus remains on Scrum training rather than a broader exploration of Continuous Learning principles.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -619,11 +652,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:19:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses training for Scrum Masters and focuses on human elements in the Scrum process, such as collaboration and continuous learning, making it a major theme.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the training and development of Scrum Masters, highlighting the importance of effective training, community building, and the role of Scrum Masters in fostering collaboration and continuous improvement. It discusses team dynamics, the significance of understanding Scrum principles, and the impact of training on individual careers, aligning well with the core themes of the 'People and Process' category. The depth of discussion is substantial, covering various aspects of the workshop and its benefits, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -727,12 +763,12 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T11:36:00",
+    "calculated_at": "2025-03-15T02:19:00",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "While the content discusses Scrum and training for Scrum Masters, it primarily focuses on the roles, principles, and learning experiences rather than explicitly addressing empirical process control or its related concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -820,11 +856,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:19:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on training for Scrum Masters, which involves the Scrum framework, roles, principles, and accountabilities central to Agile Project Management.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, which is a key role in Agile Project Management. It discusses the importance of understanding Scrum principles, the interactive nature of the training, and the community aspect that supports ongoing learning. The explicit mention of Scrum and its framework, along with the emphasis on collaboration and continuous improvement, aligns well with Agile principles. The depth of discussion regarding the workshop's structure and the role of the Scrum Master further supports a high confidence score.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -1000,12 +1039,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training for aspiring Scrum Masters and refers to ongoing support and community engagement, which are elements of mentoring. However, the primary focus is on training and understanding Scrum principles rather than direct mentoring methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training and community in the context of becoming a Scrum Master, which aligns with mentoring principles. It highlights the role of trainers in guiding participants, fostering a culture of continuous learning, and providing ongoing support, which are key aspects of mentoring. However, while it touches on mentoring themes, the primary focus is on training and Scrum practices rather than direct mentoring techniques or strategies.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1018,11 +1060,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on training for Scrum Masters, emphasizing Scrum principles and practices, which are closely related to product delivery methodologies. However, it does not explicitly emphasize the end-to-end product delivery process.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, which is a specific role within Agile methodologies. While it discusses the importance of Scrum and its principles, it does not delve deeply into the broader aspects of product delivery such as deployment, testing, or customer satisfaction metrics. The discussion is more about training and community building rather than the end-to-end process of delivering software products. Therefore, while there are relevant mentions, the overall focus is not strictly on product delivery.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -1036,11 +1081,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:35:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training for Scrum Masters, which is related to Agile practices and can contribute to organisational agility, but the focus is primarily on Scrum roles and training rather than a broad discussion of organisational agility strategies or frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, which is a specific Agile methodology. While it discusses the importance of community, collaboration, and continuous improvement—key aspects of organisational agility—the main emphasis is on Scrum practices rather than broader organisational agility strategies. The direct mentions of agility are limited, and while there is some alignment with the category's themes, the depth of discussion is more centred on Scrum rather than organisational agility as a whole.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
@@ -1102,12 +1150,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:22",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses training for Scrum Masters, focusing on Scrum theory and principles, which are important for Agile methodology. However, it does not provide detailed insights into specific tools, methodologies, or frameworks directly applicable to Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a workshop for aspiring Scrum Masters, which includes practical training techniques and tools like Microsoft Teams and Mural. However, it primarily focuses on the training experience and community building rather than specific Agile and DevOps tools or methodologies. While it touches on the importance of Scrum practices, it lacks in-depth exploration of practical techniques and tooling that enhance Agile and DevOps practices.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1165,12 +1216,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:19:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content emphasizes learning opportunities and continuous engagement, which relates to discovery and learning; however, the primary focus is on Scrum Master training rather than on broader learning methodologies or processes.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of training and community in the context of Scrum, which aligns with the principles of continuous learning and knowledge sharing. It highlights interactive learning experiences and the significance of understanding Scrum theory, which supports the core themes of the category. However, while it touches on learning and community, the primary focus remains on Scrum practices rather than broader discovery methodologies, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1210,7 +1264,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T12:24:34",
+    "calculated_at": "2025-03-15T02:19:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1218,7 +1272,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on training for Scrum Masters, discussing Scrum theory and principles, which aligns with the category. However, it lacks a strong emphasis on practical problem-solving strategies or real-world applications of Agile and Scrum principles. The depth of discussion is moderate, as it outlines the structure of the training but does not delve into specific pragmatic techniques or case studies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",

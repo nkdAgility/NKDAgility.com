@@ -8,7 +8,7 @@ ResourceImportId: 9469
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-07
-weight: 385
+weight: 330
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,15 +25,15 @@ aliasesArchive:
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 tags:
 - Test First Development
-- Technical Excellence
 - Software Development
-- Test Driven Development
+- Technical Excellence
 - Engineering Practices
+- Test Driven Development
+- Test Automation
 - Working Software
 - Automated Testing
 - Software Developers
-- Technical Mastery
-- Practical Techniques and Tooling
+- Operational Practices
 categories:
 - Engineering Excellence
 - Social Technologies

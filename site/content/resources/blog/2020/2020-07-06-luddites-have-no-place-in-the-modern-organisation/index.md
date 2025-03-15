@@ -8,7 +8,7 @@ ResourceImportId: 44507
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-06
-weight: 680
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,11 +23,13 @@ aliasesArchive:
 - /luddites-have-no-place-in-the-modern-organisation
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
 tags:
+- Organisational Culture
 - People and Process
 - Organisational Change
 - Organisational Agility
 - Agile Leadership
-- Organisational Culture
+- Agile Strategy
+- Agile Transformation
 - Business Agility
 - Resilience and Change
 categories:

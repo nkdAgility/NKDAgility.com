@@ -5,7 +5,7 @@ ResourceId: ZHJtz2t0uTU
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-01-11
-weight: 770
+weight: 880
 preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -22,7 +22,6 @@ categories:
 - Social Technologies
 - Scrum
 tags:
-- Agile Project Management
 - Events and Presentations
 - Products and Books
 

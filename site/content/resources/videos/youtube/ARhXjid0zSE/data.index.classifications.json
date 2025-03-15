@@ -19,7 +19,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T15:05:09",
+    "calculated_at": "2025-03-14T21:08:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -27,7 +27,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of stakeholder engagement and feedback, which are relevant to leadership in an Agile context. However, it lacks a comprehensive discussion on leadership strategies, decision-making processes, or team dynamics, making it more of a secondary mention rather than a primary focus on leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -151,7 +151,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T10:03:04",
+    "calculated_at": "2025-03-14T21:08:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -159,7 +159,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the importance of feedback, which is a key aspect of Continuous Learning, but it does not delve deeply into techniques for knowledge sharing or fostering a growth mindset. The discussion is more focused on the consequences of a lack of feedback rather than exploring practices that promote continuous improvement or adaptability within teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -235,12 +235,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback and engagement in the context of Scrum, which relates to customer engagement strategies, but it mainly focuses on Scrum practices rather than direct customer retention strategies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which directly relates to customer retention strategies. It highlights the need for regular feedback sessions, the role of the product owner in maintaining stakeholder engagement, and the consequences of a lack of feedback on product development and team morale. These points align well with the core themes of customer retention, such as understanding customer needs and enhancing user experience. The depth of discussion is substantial, providing actionable strategies to combat disengagement, which further supports the alignment with customer retention methodologies.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -253,12 +256,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the lack of engagement and feedback, which relates to the theme of transparency in team dynamics and stakeholder involvement, but it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile processes, which directly relates to transparency. It highlights the need for open communication and regular check-ins with stakeholders, aligning well with the core themes of transparency. The depth of discussion is significant, providing strategies to combat the lack of engagement and emphasising the role of the product owner in facilitating transparency. However, while transparency is a key theme, the primary focus is on feedback and engagement, which slightly detracts from a full alignment with the category of Transparency.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -274,11 +280,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:09:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of stakeholder engagement and feedback in a Scrum context, aligning strongly with Agile Project Management principles.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Agile practices, particularly focusing on the importance of feedback and stakeholder engagement, which are core themes in Agile Project Management. It provides detailed insights into the role of the Product Owner and strategies for maintaining engagement, aligning well with Agile principles. The depth of discussion is substantial, covering consequences of disengagement and practical strategies to combat it, indicating a strong alignment with the category.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -292,12 +301,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the product owner in the context of stakeholder engagement, which is relevant to the Product Owner's responsibilities, but the primary focus is on broader issues of feedback and engagement in Scrum, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:09:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner in relation to stakeholder engagement and feedback, which is a core responsibility of the position. It highlights the importance of the Product Owner as a bridge between the team and stakeholders, aligning well with the key topics of stakeholder engagement and communication. The depth of discussion includes strategies for improving engagement and the consequences of a lack of feedback, which adds to the overall relevance. However, while the Product Owner is a significant focus, the content also touches on broader Agile principles, which slightly dilutes the primary focus on the Product Owner role.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -394,7 +406,7 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-11T11:26:00",
+    "calculated_at": "2025-03-14T21:08:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -402,7 +414,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the importance of feedback and engagement, which are relevant to product validation. However, it does not delve into specific methodologies or practices for validating product ideas with users. The discussion is more focused on the consequences of a lack of feedback rather than on validating product concepts through user engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -460,21 +472,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of stakeholder engagement and feedback in the context of Scrum, which relates to team collaboration but is more focused on the consequences of lack of engagement rather than specific team collaboration techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of feedback and engagement in Agile practices, highlighting the role of stakeholders and the product owner in fostering team collaboration. It aligns well with the core themes of team dynamics, communication, and shared ownership. The depth of discussion is significant, providing strategies for improving collaboration and engagement, which are essential for high-performance outcomes in Agile environments.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the lack of feedback, which relates to the idea of feedback loops and engagement in Agile practices, but it does not primarily focus on metrics or learning.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which aligns with the core themes of metrics and learning. It highlights the role of feedback loops and the impact of stakeholder engagement on team dynamics and product quality. However, while it touches on these concepts, it lacks detailed techniques for collecting and analysing performance data, which slightly limits its depth in the context of metrics. Overall, the focus on feedback as a metric for team performance and product alignment supports a strong confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -577,7 +595,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T18:04:27",
+    "calculated_at": "2025-03-14T21:08:41",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -585,7 +603,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on engagement and feedback, which are relevant to organisational psychology, but primarily focuses on Agile practices and Scrum roles. The discussion lacks depth in psychological theories and does not explore the broader implications of these issues on organisational performance or employee satisfaction.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -658,11 +676,14 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of feedback and stakeholder engagement, which are relevant to the Sprint Review, but does not specifically focus on the Sprint Review itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of feedback and stakeholder engagement, which are critical aspects of the Sprint Review process. However, it does not explicitly mention the Sprint Review itself or provide detailed insights into its structure or best practices. The focus is more on general Agile principles and the consequences of lack of engagement rather than a thorough exploration of the Sprint Review event.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -694,12 +715,15 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:08:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the lack of feedback and engagement, which touches on themes of accountability and communication with stakeholders. However, it is primarily focused on the challenges faced rather than providing solutions or examples related to transparency and accountability.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback and engagement, which are critical components of transparency and accountability in Agile practices. It highlights the role of regular feedback sessions and open communication, aligning well with the core themes of the category. The depth of discussion is substantial, providing strategies to combat the lack of feedback and emphasising the need for stakeholder involvement. However, while the content is focused on these themes, it does not explicitly label them as 'transparency' or 'accountability', which slightly lowers the direct mentions score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -712,12 +736,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the importance of stakeholder engagement and feedback in the context of Scrum, which relates to team dynamics and organisational culture, but it primarily focuses on an issue rather than a comprehensive analysis of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, highlighting the relationship between team dynamics and stakeholder involvement. It addresses how a lack of engagement can impact team morale and product quality, which aligns with sociotechnical principles. However, while it touches on these themes, the primary focus remains on Agile practices rather than a comprehensive exploration of sociotechnical systems as a whole.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -739,20 +766,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:58:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement with stakeholders and the importance of feedback, which are related themes in change management, but it is primarily focused on Scrum and the consequences of lack of engagement rather than a comprehensive discussion on change management strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which aligns with change management principles. It highlights strategies for fostering stakeholder involvement and creating a culture of care, which are relevant to managing change effectively. However, the primary focus is on Agile practices rather than a comprehensive exploration of change management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses feedback and engagement within the context of Scrum, which relates to the value of Openness and Respect, but primarily focuses on issues arising from a lack of these values rather than directly exploring the Scrum Values themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which indirectly relates to Scrum Values such as Openness and Respect. However, it primarily focuses on the consequences of lack of engagement and strategies to improve stakeholder involvement rather than explicitly addressing the core Scrum Values. The discussion lacks depth in exploring how these values specifically guide team interactions and decision-making processes.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -793,11 +826,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:08:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses issues related to feedback and engagement within a Scrum context, which relates to Agile Product Management, but does not primarily focus on key aspects of Agile methodologies or product management strategies.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner and the importance of stakeholder engagement, which are key aspects of Agile Product Management. It aligns well with the core themes of feedback, collaboration, and product value maximisation. The depth of discussion is substantial, providing strategies to combat the lack of feedback and engagement, which directly relates to Agile practices.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -874,12 +910,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:08:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content addresses the importance of feedback within a Scrum context, making Scrum a major theme, but it primarily focuses on stakeholder engagement rather than the full scope of Scrum product development.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile and Scrum contexts, highlighting the roles of stakeholders and the Product Owner. It aligns well with Scrum principles, particularly regarding the iterative development process and the significance of stakeholder involvement. The depth of discussion on strategies to combat feedback famine adds to its relevance, although it could benefit from more explicit references to Scrum events and practices.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -937,21 +976,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to team engagement and feedback within a Scrum framework, highlighting the importance of these factors in maintaining team motivation.",
+    "calculated_at": "2025-03-14T21:09:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of feedback and engagement, which are crucial for team motivation. It aligns well with the core themes of fostering team engagement, building trust, and recognising contributions. The depth of discussion is significant, providing strategies to combat disengagement and emphasising the role of stakeholders in maintaining team morale. Overall, the content is highly relevant to the category of Team Motivation.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses feedback in the context of Scrum, which is related to Agile principles. However, it is not primarily focused on the Agile Product Operating Model as a whole, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, particularly focusing on the role of the product owner and stakeholder involvement, which aligns with the principles of the Agile Product Operating Model. It provides a detailed exploration of the consequences of a lack of feedback and offers strategies to enhance engagement, demonstrating a strong conceptual alignment with the category. However, it does not explicitly mention the Agile Product Operating Model itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -973,12 +1018,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback and engagement in the Scrum context, which indirectly relates to the delivery of working software, but it primarily focuses on the issue of feedback rather than the characteristics or delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the critical role of feedback and engagement in Agile practices, which directly relates to the delivery of working software. It highlights the importance of stakeholder involvement and the consequences of a lack of feedback on product quality. However, while it touches on these themes, it does not delve deeply into specific characteristics of working software or provide extensive best practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1000,12 +1048,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses feedback and engagement within the context of Scrum, which is a key aspect of Agile methodologies relevant to product delivery, but it does not focus directly on the end-to-end delivery of software products.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the importance of feedback and engagement in Agile practices, which are critical components of product delivery. It discusses the role of the product owner and the necessity of stakeholder involvement, aligning well with the core themes of product delivery. The depth of discussion is substantial, providing strategies to combat the lack of feedback, which directly impacts the delivery of usable software products. Overall, the content is highly relevant to the category.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1030,11 +1081,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:08:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum and the significance of feedback and stakeholder engagement within Agile methodology, aligning well with the Software Development category.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Agile practices, specifically the importance of feedback and engagement in the Agile process. It discusses the role of the product owner and the consequences of a lack of stakeholder engagement, which are core themes in software development methodologies. The depth of discussion is substantial, providing strategies to combat the issues raised, thus aligning well with the Software Development category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1057,21 +1111,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:08:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to feedback and engagement, which are important for team dynamics and performance within Scrum, making it a significant secondary theme.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of feedback and engagement in Agile teams, highlighting the role of the product owner and the impact of stakeholder involvement on team morale and performance. It provides detailed strategies for improving team dynamics and communication, aligning well with the core themes of the 'Team Performance' category. The depth of discussion on combating the 'famine of feedback' further supports its relevance to enhancing team effectiveness.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content describes the importance of feedback and engagement in Scrum, which relates to customer value delivery, though it does not primarily focus on value delivery methodologies and strategies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the importance of feedback and engagement in Agile practices, which directly relates to value delivery. It highlights the role of the product owner and the need for regular stakeholder involvement, aligning well with the core themes of iterative development and customer value maximisation. The depth of discussion is substantial, providing strategies to combat the lack of feedback, which enhances the overall understanding of value delivery in Agile contexts.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1111,12 +1171,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content touches on the importance of feedback and engagement, which are related to Agile principles, but it's primarily discussing Scrum dynamics rather than Agile values as a central theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which aligns with Agile values such as customer collaboration and responding to change. It highlights the role of the product owner and the need for regular communication, reflecting core Agile principles. However, it primarily focuses on the challenges within Agile frameworks rather than a deep exploration of Agile values and principles themselves, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1150,21 +1213,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback in Agile processes, which relates to adaptability, but primarily focuses on Scrum roles and stakeholder engagement rather than a broader market adaptability strategy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which directly relates to market adaptability. It highlights how regular feedback loops and stakeholder involvement can enhance responsiveness to market needs, aligning well with the core themes of the category. The depth of discussion on strategies to combat feedback famine provides substantial insight into maintaining agility and adaptability in a dynamic environment.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses engagement and feedback within the context of Scrum, which relates to Agile Planning but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which aligns with Agile Planning principles. It highlights the role of the product owner and the need for regular stakeholder involvement, both of which are crucial for effective Agile Planning. The depth of discussion on strategies to combat feedback famine indicates a strong focus on Agile methodologies, although it does not delve deeply into specific Agile planning techniques or frameworks like Scrum or Kanban.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1195,11 +1264,14 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:10:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of feedback and engagement, which are critical elements of employee engagement. It highlights the consequences of a lack of engagement and the role of stakeholders and leadership in fostering a more engaged work environment.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, highlighting how a lack of stakeholder involvement can lead to disengagement among team members. It aligns well with the core themes of employee engagement, such as the role of communication, recognition, and the impact of leadership (in this case, the product owner's role). The depth of discussion is substantial, providing strategies to combat disengagement and emphasising the psychological aspects of motivation and commitment. However, the primary focus on Agile processes slightly detracts from a pure employee engagement discussion.",
     "level": "Secondary"
   },
   "One Engineering System (1ES)": {
@@ -1234,12 +1306,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:08:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback and engagement from stakeholders, which relates to customer satisfaction, but the primary focus is on Scrum roles and the implications of feedback within that framework.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which directly relates to customer satisfaction. It highlights the role of stakeholders and product owners in ensuring that the product meets user needs, aligning well with the core themes of customer satisfaction. The depth of discussion is substantial, providing strategies to enhance engagement and the consequences of neglecting feedback, which further supports the category focus.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1252,12 +1327,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a lack of feedback, which ties into the themes of transparency, inspection, and adaptation important in empirical process control. However, it primarily focuses on the challenges of engagement rather than on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the critical role of feedback and engagement in Agile practices, which aligns well with the principles of empirical process control. It highlights the importance of transparency and regular communication with stakeholders, which are essential for effective inspection and adaptation. The depth of discussion on the consequences of a lack of feedback and strategies to combat this issue demonstrates a strong understanding of the category. However, while it touches on empirical process control, it does not delve deeply into specific techniques or case studies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1270,12 +1348,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in Scrum related to stakeholder engagement and feedback, which aligns with pragmatic thinking, but it does not provide clear practical problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the importance of feedback and engagement in Agile practices, which aligns closely with pragmatic problem-solving strategies. It provides practical solutions to combat the lack of feedback, demonstrating real-world applications of Agile principles. The depth of discussion on the consequences of disengagement and strategies to enhance stakeholder involvement further supports its alignment with the category.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1288,12 +1369,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement and feedback within the context of Agile, which relates to organisational culture, but it primarily focuses on the challenges rather than a deep examination of cultural dimensions or transformations.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:19:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, highlighting how a lack of stakeholder involvement can negatively impact team morale and product quality. It explicitly mentions creating a 'culture of care' and the role of the product owner in bridging the gap between teams and stakeholders, which aligns well with the themes of organisational culture. The depth of discussion on strategies to combat disengagement and foster communication further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1306,30 +1390,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses engagement and feedback within the Scrum context, but it is not primarily focused on core Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, particularly highlighting the role of the Product Owner. While it touches on Scrum principles, it does not provide a comprehensive exploration of Scrum roles, events, or artifacts as outlined in the Scrum Guide. The focus is more on the challenges faced in Agile environments rather than a detailed examination of Scrum itself.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses feedback and engagement in the context of Scrum, which is relevant to Agile practices, but it does not primarily focus on Agile transformation as a whole or provide comprehensive insights into the topic.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses Agile practices, particularly the importance of feedback and engagement in Agile processes. It aligns well with the core themes of Agile transformation, such as fostering a culture of care and the role of the product owner. The depth of discussion is substantial, providing strategies to combat the lack of feedback, which is crucial for successful Agile transformation. However, while it focuses on Agile principles, it does not delve deeply into broader transformation strategies or frameworks, which slightly limits its overall alignment.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:08:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to engagement and feedback within Scrum, which is a part of Agile, but it does not focus on broader Agile strategy themes like alignment of vision or implementation at scale.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which aligns with the Agile Strategy category's focus on continuous value delivery and customer-centric approaches. However, while it touches on strategic elements, such as the role of the product owner and stakeholder involvement, it primarily centres on the challenges of engagement rather than a comprehensive Agile strategy. The depth of discussion is moderate, providing practical strategies but lacking a broader strategic context.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1360,12 +1453,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:09:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content touches on feedback and engagement in the context of Scrum, which relates to Agile practices, it primarily focuses on a specific issue rather than broader strategies or frameworks for organisational agility.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses the importance of feedback and engagement in Agile practices, which aligns with the principles of organisational agility. It highlights the role of stakeholders and product owners in fostering a culture of care and responsiveness, which are key themes in the category. The depth of discussion on strategies to combat the lack of feedback further supports its relevance to organisational agility, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",

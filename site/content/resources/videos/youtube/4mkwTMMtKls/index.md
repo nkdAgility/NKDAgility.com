@@ -30,7 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - People and Process
+- Agile Values and Principles
+- Agile Project Management
+- Agile Transformation
 - Organisational Agility
 resourceTypes:
 - video

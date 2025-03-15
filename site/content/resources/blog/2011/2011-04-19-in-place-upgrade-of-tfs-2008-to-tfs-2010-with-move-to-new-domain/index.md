@@ -24,9 +24,15 @@ aliasesArchive:
 - /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 tags:
 - Install and Configuration
+- Windows
 - System Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Release Management
+- Azure DevOps
+- Technical Mastery
+- Modern Source Control
 preview: metro-visual-studio-2010-128-link-24-24.png
 categories:
 - DevOps

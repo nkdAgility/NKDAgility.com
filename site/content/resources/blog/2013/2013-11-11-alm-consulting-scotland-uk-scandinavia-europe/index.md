@@ -33,14 +33,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Coaching
 - Practical Techniques and Tooling
-- Operational Practices
-- Pragmatic Thinking
 - Product Delivery
-- People and Process
-- Software Developers
-- Deployment Strategies
 categories:
 - Engineering Excellence
 - Social Technologies

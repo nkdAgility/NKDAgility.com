@@ -2,7 +2,7 @@
 title: "Unlocking Agility: How EPS Immersive Learning Transforms Your Team's Performance"
 description: Unlock your team's potential with our EPS immersive learning experience! Discover how structured feedback and coaching can enhance agility and effectiveness.
 date: 2023-08-16T07:00:03Z
-weight: 685
+weight: 675
 ResourceId: 6S9LGyxU2cQ
 ResourceType: videos
 ResourceImport: true
@@ -25,15 +25,15 @@ duration: 253
 isShort: false
 tags:
 - Coaching
+- Discovery and Learning
 - People and Process
 - Continuous Learning
-- Discovery and Learning
-- Customer Feedback Loops
 - Organisational Agility
-- Team Collaboration
+- Metrics and Learning
 - Team Performance
-- Agile Transformation
 - Empirical Process Control
+- Pragmatic Thinking
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

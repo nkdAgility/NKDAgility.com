@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/calculating-the-rank-of-your-blog-posts-or-pages
 - /calculating-the-rank-of-your-blog-posts-or-pages
 - /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
-tags:
-- Metrics and Learning
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-11-11.png
 

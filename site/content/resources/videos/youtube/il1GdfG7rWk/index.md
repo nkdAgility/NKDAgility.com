@@ -35,10 +35,10 @@ tags:
 - Professional Scrum
 - Value Delivery
 - Agile Project Management
+- Backlog Refinement
 - Product Delivery
-- Pragmatic Thinking
+- Agile Planning
 - Scrum Product Development
-- Products and Books
 resourceTypes:
 - video
 categories:

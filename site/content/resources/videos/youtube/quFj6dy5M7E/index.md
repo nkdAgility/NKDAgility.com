@@ -29,6 +29,7 @@ tags:
 - Product Delivery
 - Value Delivery
 - Pragmatic Thinking
+- Team Collaboration
 - Team Performance
 - Software Development
 sitemap:

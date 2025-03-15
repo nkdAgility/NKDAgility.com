@@ -26,8 +26,7 @@ aliasesArchive:
 - /-net-service-manager
 - /blog/-net-service-manager
 - /resources/blog/net-service-manager
-tags:
-- Software Development
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

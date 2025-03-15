@@ -8,7 +8,7 @@ ResourceImportId: 38243
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-17
-weight: 495
+weight: 395
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,15 +29,15 @@ aliasesArchive:
 - /resources/blog/backlog-not-refined-wrong
 tags:
 - Backlog Refinement
-- Scrum Product Development
-- Agile Project Management
-- Product Backlog
-- Professional Scrum
 - Software Development
+- Agile Project Management
 - Definition of Ready
+- Scrum Product Development
+- Scrum Team
 - People and Process
+- Product Backlog
+- Agile Planning
 - Agile Product Management
-- Product Delivery
 categories:
 - Scrum
 - Social Technologies

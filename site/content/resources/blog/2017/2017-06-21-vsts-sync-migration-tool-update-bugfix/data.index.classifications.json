@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:30",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updates and features of a migration tool, which relates to engineering practices but is primarily focused on tool usage rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the VSTS Sync Migration Tool, which includes features that enhance the migration process of work items, indicating a focus on technical practices. However, while it mentions TFS and VSTS, it lacks a deeper exploration of engineering methodologies or principles that would align more closely with the category of Technical Excellence. The mention of community contributions and bug fixes shows some alignment with continuous improvement but does not delve into broader engineering practices like TDD or CI/CD.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,7 +247,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T17:54:05",
+    "calculated_at": "2025-03-15T03:44:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -252,7 +255,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses updates and features of the VSTS Sync Migration Tool, which is a specific software tool rather than a broader discussion on product delivery methodologies or practices. While it mentions aspects like community contributions and bug fixes, it lacks a focus on the end-to-end process of delivering software products, such as planning, testing, or deployment strategies. Therefore, it only partially aligns with the core themes of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -391,12 +394,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updates and features of a migration tool, which relates to software engineering practices, but the primary focus is on tool updates rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses updates and features of the VSTS Sync Migration Tool, which is a technical tool related to software migration. While it mentions some technical aspects, such as bug fixes and community contributions, it lacks a deeper exploration of software craftsmanship principles, best practices, or methodologies that are central to the 'Technical Mastery' category. The focus is more on tool functionality rather than on broader engineering practices or principles.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -664,12 +670,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the VSTS Sync Migration Tool, which is related to work item management in Azure Boards, but it primarily focuses on the tool's features and bug fixes rather than Azure Boards' functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, which is related to Azure DevOps but does not focus on Azure Boards specifically. While it mentions work items, it lacks a detailed exploration of Azure Boards' functionalities, best practices, or Agile project management. The discussion is more about migration and tool updates rather than the core themes of Azure Boards.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -883,11 +892,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses updates and bug fixes for a migration tool, which relates to the delivery of functional software, but the primary focus is on the tool's features rather than broader principles of working software.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses updates and bug fixes for the VSTS Sync Migration Tool, which is a functional software tool. However, it primarily focuses on specific features and contributions rather than broader discussions on working software principles, Agile methodologies, or customer feedback integration. While it does mention user needs and contributions, it lacks depth in discussing the overall quality and effectiveness of the software in a way that aligns with the core themes of the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -973,12 +985,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updates and features of a migration tool, which relates to software delivery, but it primarily focuses on the tool's functionalities rather than broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses updates and features of the VSTS Sync Migration Tool, which relates to software delivery. However, it lacks a direct focus on release management strategies, such as planning, scheduling, or risk management. While it mentions version updates and community contributions, it does not delve into the broader practices of release management, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1000,12 +1015,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:37",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions an automated DevOps pipeline and discusses updates related to a migration tool, which is relevant to Azure DevOps, but the primary focus is on the migration tool itself rather than Azure Pipelines specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, which is related to Azure DevOps but does not focus on Azure Pipelines specifically. While it mentions an automated DevOps pipeline, the discussion lacks depth on pipeline configuration, CI/CD practices, or detailed Azure Pipelines features. The content is more about migration tools and their updates rather than the principles and practices of Azure Pipelines.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1072,7 +1090,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-13T17:01:03",
+    "calculated_at": "2025-03-15T03:44:27",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1080,7 +1098,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the VSTS Sync Migration Tool, which is related to migrating and updating work items in a system. However, it primarily focuses on features and bug fixes rather than the broader principles of system configuration. While there are mentions of installation and migration processes, the depth of discussion does not sufficiently cover best practices, optimisation strategies, or configuration management techniques, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1183,12 +1201,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses bug fixes and issues reported by users related to the VSTS Sync Migration Tool, indicating a focus on resolving specific technical problems, but it is primarily about updates and features rather than a systematic troubleshooting approach.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses updates and bug fixes for the VSTS Sync Migration Tool, which implies a focus on resolving issues users have encountered. However, while it mentions specific bugs and features, it lacks a detailed exploration of troubleshooting techniques or methodologies. The primary focus is on the tool's updates rather than a systematic approach to diagnosing and resolving technical issues.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1228,7 +1249,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T14:52:08",
+    "calculated_at": "2025-03-15T03:44:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1257,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses updates and features of the VSTS Sync Migration Tool, which is a technical tool relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and while it mentions DevOps in the context of automated pipelines, it does not explore the broader implications or practices associated with Agile or DevOps. The discussion is more about tool functionality than the role of developers within these frameworks, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1420,7 +1441,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:33:49",
+    "calculated_at": "2025-03-15T03:44:27",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1428,6 +1449,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses updates and features of the VSTS Sync Migration Tool, with no direct mentions of Scrum principles, roles, or events. While it may touch on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on tool functionality rather than Scrum practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

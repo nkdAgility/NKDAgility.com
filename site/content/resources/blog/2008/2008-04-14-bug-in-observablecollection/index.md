@@ -26,9 +26,7 @@ aliasesArchive:
 - /bug-in-observablecollection-
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
-tags:
-- Software Development
-- Troubleshooting
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-2-2.png
 

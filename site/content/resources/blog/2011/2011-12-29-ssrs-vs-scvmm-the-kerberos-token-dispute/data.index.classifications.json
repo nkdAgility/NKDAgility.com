@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:25:38",
+    "calculated_at": "2025-03-15T06:15:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses technical issues related to TFS and SCVMM, which are tools relevant to DevOps practices. However, it primarily focuses on specific problems encountered during installation and configuration rather than broader DevOps principles or practices. While there are mentions of automation and configuration management, the depth of discussion does not sufficiently cover the core themes of DevOps, such as CI/CD, cultural shifts, or metrics for success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:15:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical issues related to TFS, SCVMM, and Kerberos authentication, which touches on engineering practices and methodologies. However, the primary focus is on troubleshooting specific problems rather than broader engineering practices or methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses specific technical issues related to the installation and configuration of TFS and SCVMM, touching on aspects of system architecture and authentication protocols like Kerberos. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it mentions technical challenges and solutions, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

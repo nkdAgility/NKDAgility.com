@@ -25,14 +25,14 @@ duration: 376
 isShort: false
 tags:
 - Agile Project Management
-- Coaching
+- Software Development
 - Scrum Team
+- Coaching
+- Team Performance
 - People and Process
+- Scrum Master
 - Agile Frameworks
 - Agile Product Management
-- Team Collaboration
-- Scrum Master
-- Software Development
 - Agile Transformation
 sitemap:
   filename: sitemap.xml

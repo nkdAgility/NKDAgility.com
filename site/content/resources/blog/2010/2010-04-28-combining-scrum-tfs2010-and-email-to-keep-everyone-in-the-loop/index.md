@@ -8,7 +8,7 @@ ResourceImportId: 48
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -36,10 +36,6 @@ tags:
 - Team Collaboration
 - Agile Project Management
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Scrum Product Development
-- Agile Frameworks
-- Team Performance
 categories:
 - Social Technologies
 - Scrum

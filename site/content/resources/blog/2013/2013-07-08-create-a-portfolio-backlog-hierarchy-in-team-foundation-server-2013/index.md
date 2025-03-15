@@ -24,10 +24,16 @@ aliasesArchive:
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
 - Install and Configuration
-categories:
-- Product Management
-- Social Technologies
-- Scrum
+- Practical Techniques and Tooling
+- System Configuration
+- Azure Boards
+- Azure DevOps
+- Software Development
+- Agile Planning Tools
+- Operational Practices
+- Product Backlog
+- Portfolio Management
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

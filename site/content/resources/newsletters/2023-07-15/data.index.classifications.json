@@ -31,7 +31,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:04:57",
+    "calculated_at": "2025-03-14T22:54:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily focuses on an Agile conference and related events, with only brief mentions of product management training for product managers. While it touches on Agile principles, it lacks a deep exploration of product management strategies, methodologies, or frameworks. The discussion is more about networking and event participation rather than the strategic alignment of customer needs and business objectives, which is central to product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -52,7 +52,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:42:30",
+    "calculated_at": "2025-03-14T22:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -60,7 +60,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on an upcoming Agile conference and related events, with only brief mentions of agile principles and practices. While it discusses opportunities for learning and networking, it lacks a deep exploration of business agility concepts such as leadership roles, organisational structures, or specific strategies for fostering innovation. The overall emphasis is more on the event itself rather than on the principles and practices that enable business agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -73,7 +73,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T12:04:59",
+    "calculated_at": "2025-03-14T22:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -81,7 +81,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content mentions Scrum classes and training opportunities, which aligns with the Professional Scrum category. However, the primary focus is on an event and networking rather than an in-depth exploration of Scrum principles, roles, or practices. The discussion lacks substantial detail on Scrum's core themes, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -241,7 +241,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T18:11:21",
+    "calculated_at": "2025-03-14T22:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -249,7 +249,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily promotes an Agile conference and related training opportunities, with only brief mentions of Agile methodologies. While it touches on themes relevant to product delivery, such as Scrum and training for Scrum Masters and Product Owners, it lacks a detailed discussion on the end-to-end process of delivering software products. The focus is more on networking and personal experiences rather than the methodologies and practices that ensure effective product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -535,7 +535,7 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-03-11T17:39:10",
+    "calculated_at": "2025-03-14T22:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -543,11 +543,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the concept of change in the context of the Agile conference and the evolving nature of conferences, but it lacks a detailed discussion on organisational resilience or change management practices. While it touches on themes of adaptability and collaboration, it does not provide substantial insights or frameworks related to resilience, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-13T15:16:46",
+    "calculated_at": "2025-03-14T22:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -555,7 +555,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content mentions Agile practices and offers training classes related to Scrum, which aligns with the category. However, it primarily focuses on promoting an event and networking rather than providing in-depth discussions on practical techniques or tooling. The depth of discussion on specific methodologies and tools is limited, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -577,7 +577,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-13T15:38:39",
+    "calculated_at": "2025-03-14T22:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -585,7 +585,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on personal experiences related to attending Agile events and the enjoyment of networking, which aligns with the Personal category. However, the primary focus is on promoting the event and its offerings rather than providing in-depth personal reflections or insights. The mention of emotional support from a pet adds a personal touch, but overall, the content lacks substantial personal anecdotes or detailed discussions that would strengthen its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -619,12 +619,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T20:10:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Scrum Teams in the context of training and courses, indicating a secondary theme related to the roles and responsibilities within a Scrum Team.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions Scrum Teams in the context of training classes aimed at improving skills for Scrum Masters, Developers, and Product Owners. However, the primary focus of the content is on an upcoming Agile conference and related events, rather than an in-depth discussion of Scrum Team dynamics, roles, or collaboration techniques. While there is some alignment with the category through the mention of training for Scrum roles, the overall depth and direct discussion of Scrum Team concepts are limited.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -691,12 +694,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T20:10:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:25:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses an Agile conference that promotes networking and collaboration, which aligns with team dynamics, but it primarily focuses on the event details rather than in-depth discussions on team collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses an upcoming Agile conference, highlighting opportunities for networking and collaboration, which aligns with the category's focus on team dynamics. However, the primary emphasis is on the event itself rather than in-depth discussions on team collaboration techniques or strategies. While there are mentions of workshops and shared experiences, the depth of discussion on collaboration principles is limited.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -727,11 +733,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:11:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses an Agile conference that promotes innovation and learning through workshops and talks, but the primary focus is on the event itself rather than the processes of discovery and learning.",
+    "final_score": 58.0,
+    "reasoning": "The content mentions the Agile 2023 Scotland Experience and highlights opportunities for workshops and talks, which can foster learning and innovation. However, the primary focus is on promoting the event and networking rather than a deep exploration of discovery and learning methodologies. While there are references to double-loop learning and the importance of fresh ideas, these are not elaborated upon in detail, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Self Organisation": {
@@ -844,12 +853,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T20:11:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions coaching and training opportunities, which are related to mentoring, but the primary focus is on an event and promotional activities rather than in-depth discussions on mentoring practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on an upcoming Agile conference and related events, with only brief mentions of coaching and training opportunities. While it touches on themes of professional development and community engagement, it lacks a detailed discussion on mentoring techniques, the role of mentors, or strategies for fostering a culture of continuous learning, which are essential for a higher confidence score in the Mentoring category.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -880,21 +892,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T20:11:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile practices and offers training classes, which are relevant to operational practices, but the primary focus is on promoting an event rather than discussing specific operational techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes an upcoming Agile conference and related training opportunities, with only brief mentions of Agile practices and Scrum classes. While it touches on themes relevant to operational practices, such as improving skills for Scrum Masters and teams, it lacks a detailed discussion on techniques or strategies that enhance operational efficiency. The focus is more on event promotion and networking rather than on practical applications of methodologies that streamline processes.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T20:11:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile conference and mentions Agile principles, but primarily focuses on event details and training classes rather than the underlying philosophy.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily promotes an event related to Agile practices and mentions various Agile-related activities, but it lacks a deep discussion on the underlying principles of Agile Philosophy. While it touches on collaboration and community aspects, it does not explicitly address the core themes of Agile values or the Agile Manifesto. The focus is more on the event and its offerings rather than a philosophical exploration of Agile.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -907,11 +925,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T20:11:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions coaching services provided at the event and discusses training classes aimed at improving skills, which aligns with coaching themes, but the primary focus is on the event itself rather than coaching practices.",
+    "final_score": 43.0,
+    "reasoning": "The content mentions coaching in the context of providing free consulting and emotional support at an event, which aligns with the coaching category. However, the primary focus is on promoting the event and its activities rather than an in-depth discussion of coaching practices or techniques. The alignment with key topics is moderate, as it touches on the supportive nature of coaching but lacks detailed exploration of coaching methodologies or frameworks.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -925,11 +946,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T20:11:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training classes and workshops that promote skill development, which aligns with the theme of Continuous Learning, but it primarily focuses on an event rather than a deep exploration of Continuous Learning principles.",
+    "final_score": 57.0,
+    "reasoning": "The content mentions training classes and the concept of double-loop learning, which aligns with continuous learning principles. However, the primary focus is on promoting an event rather than an in-depth discussion of continuous learning practices. The depth of discussion is limited, primarily highlighting the event's features rather than exploring the core themes of continuous learning.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -961,12 +985,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T20:11:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions training for Product Owners and Product Managers, which is relevant to Agile Product Management, but the primary focus is on an event and networking rather than in-depth discussions on Agile principles or practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily promotes an Agile conference and mentions various Agile-related activities, but it lacks a focused discussion on Agile Product Management principles. While it briefly touches on training for Product Owners, the overall emphasis is on networking and general Agile practices rather than specific methodologies or strategies related to product management.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1006,11 +1033,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T20:11:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upcoming training classes and workshops related to Agile methodologies, which aligns with the category, but the primary focus is on the event and networking rather than specific products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses an upcoming Agile conference and related events, with only brief mentions of training classes and resources. While it touches on Agile principles and offers some insights into training opportunities, it lacks in-depth analysis or reviews of specific products or literature. The focus is more on the event and networking rather than a detailed exploration of products or books relevant to Agile methodologies.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -1033,12 +1063,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:12:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile conference and mentions workshops and training related to Scrum, indicating a focus on practical applications of Agile principles, but it primarily serves as an announcement rather than a deep exploration of pragmatic thinking.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily promotes an Agile conference and mentions workshops and training opportunities, which are relevant to Agile practices. However, it lacks a detailed discussion on practical problem-solving strategies or real-world applications of Agile, Scrum, or DevOps principles. The focus is more on event promotion rather than a deep exploration of pragmatic thinking in complex environments.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1105,12 +1138,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T20:12:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an Agile conference and training related to Scrum, which are significant aspects of software development methodologies, but the primary focus is on the event and networking rather than in-depth software development practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily promotes an Agile conference and related training opportunities, which are relevant to software development practices. However, it lacks in-depth discussion of specific methodologies or practices, focusing more on event promotion and networking rather than detailed software development techniques or frameworks.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1159,11 +1195,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T20:12:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and training for developers, but it primarily focuses on an event and general Agile practices rather than in-depth discussions on the role of software developers.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily promotes an Agile conference and mentions various training classes, including those for developers. However, it lacks a detailed discussion on the role of software developers within Agile and DevOps frameworks. While there are references to Scrum and training for developers, the overall focus is more on the event and networking rather than on best practices or methodologies that enhance developer productivity and collaboration.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1195,20 +1234,26 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T20:12:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions training for Product Owners, but the primary focus is on an event and general Agile topics rather than the specific responsibilities and practices of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions 'Product Owners / Product Managers' in the context of training classes, indicating some relevance to the Product Owner role. However, the primary focus of the content is on an event and general Agile practices, lacking in-depth discussion on the specific responsibilities, techniques, or challenges faced by Product Owners. Therefore, while there is some alignment, it is not the main focus of the content.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T20:12:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:54:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses an upcoming Agile conference, including details about speakers, workshops, and networking opportunities, which aligns with industry news and events relevant to Agile practices.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the Agile 2023 Scotland Experience, highlighting keynotes, workshops, and networking opportunities, which aligns well with industry events and updates relevant to Agile practices. It provides specific details about the event, including sponsorship, activities, and the significance of the conference in the Agile community. The depth of discussion is substantial, as it not only informs about the event but also encourages participation and engagement, making it a strong fit for the 'News and Reviews' category.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1330,21 +1375,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T20:12:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Scrum classes and training for various roles within Scrum teams, indicating a focus on Scrum principles, but it primarily discusses an event and networking rather than in-depth Scrum product development practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content mentions Scrum classes and training for various roles within Scrum teams, indicating a connection to Scrum practices. However, it primarily focuses on an event and networking rather than in-depth discussions on Scrum product development principles, roles, or processes. The alignment with core themes is moderate, and while there is some depth in discussing training, it lacks a comprehensive exploration of Scrum methodologies.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T20:12:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an Agile conference and training, which are related to organisational change, but the primary focus is on the event and networking rather than in-depth discussions on change management strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes an upcoming Agile conference and discusses networking opportunities, workshops, and training classes. While it mentions 'provoking change' and 'handling the crazy things at your organisation', these references are vague and do not delve into specific strategies or frameworks for organisational change. The focus is more on event promotion and personal experiences rather than a detailed exploration of organisational change methodologies or practices.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1357,12 +1408,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T20:12:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile conference and related training, which indicates a focus on Agile methodologies. However, it primarily promotes the event and does not delve deeply into strategic discussions or implementations of Agile principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily promotes an upcoming Agile conference and highlights networking opportunities, workshops, and training classes. While it mentions Agile principles and the importance of collaboration, it lacks a focused discussion on Agile strategy, such as organisational alignment or strategic planning. The references to Agile methodologies are more about events and training rather than a deep exploration of Agile strategy concepts.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1384,12 +1438,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:13:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an Agile conference and related training, which are relevant to organisational agility, but the primary focus is on the event itself rather than deep discussions on agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily promotes an upcoming Agile conference and highlights networking opportunities, workshops, and training classes. While it mentions Agile principles and the importance of adapting to change, it lacks a focused discussion on organisational agility strategies or frameworks. The references to Scrum and double-loop learning suggest some alignment with agile methodologies, but the overall depth of discussion on organisational agility is limited.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

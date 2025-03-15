@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/journey-professional-scrum
 tags:
 - People and Process
-- Business Agility
-- Product Delivery
-- Discovery and Learning
-- Scrum Product Development
-- Strategy
+- Professional Scrum
 - Agile Project Management
+- Software Development
+- Agile Transformation
+- Pragmatic Thinking
+- Software Developers
+- Agile Frameworks
+- Scrum Product Development
 - Organisational Agility
-- Organisational Change
-- Organisational Culture
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

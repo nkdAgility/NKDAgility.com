@@ -37,30 +37,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum in the context of team agreements and frameworks, but it primarily focuses on Kanban and the importance of working agreements, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Kanban rather than Scrum, with only brief mentions of Scrum as a framework. While it discusses the importance of team alignment and working agreements, which are relevant to Scrum, the overall emphasis is on Kanban practices. The depth of discussion on Scrum principles is minimal, leading to a low confidence score for alignment with the Professional Scrum category.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of organisational dynamics, which aligns with systems thinking principles. However, it primarily focuses on Scrum and Kanban frameworks rather than a broader exploration of organisational physics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of a working agreement within teams using Kanban and Scrum methodologies. While it touches on aspects of team dynamics and alignment, it does not explicitly engage with systems thinking principles or the broader organisational dynamics that are central to the category of Organisational Physics. The focus is more on practical team management rather than a holistic view of organisational behaviour, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team collaboration and agreement on working methods, which aligns with coaching principles, but it primarily focuses on the pitfalls of not having a working agreement rather than on coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which touches on aspects of coaching, such as defining roles and responsibilities and fostering collaboration. However, it primarily focuses on the mechanics of Kanban and Scrum frameworks rather than the coaching process itself. The discussion lacks depth in coaching techniques and does not explicitly mention coaching as a practice, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -82,7 +91,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T13:47:06",
+    "calculated_at": "2025-03-14T19:24:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -90,16 +99,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of team agreements and collaboration in the context of frameworks like Scrum and Kanban. However, it primarily focuses on the operational aspects of team dynamics rather than the strategic alignment of product management. While it touches on relevant themes, it lacks depth in discussing methodologies or frameworks that guide product managers in making informed decisions, which is essential for a higher confidence score in the Product Management category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration, which are relevant to Agile Leadership, but it primarily focuses on the technical aspects of Kanban and Scrum without a strong emphasis on leadership roles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which indirectly relates to Agile Leadership principles. However, it primarily focuses on technical practices and team processes rather than explicitly addressing leadership roles or strategies within an Agile context. The mention of frameworks like Scrum and Kanban is more about their implementation than about leadership dynamics, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -130,21 +142,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of delivering high-value products, which relates to the principles of working software. However, it primarily focuses on team dynamics and agreements rather than directly on the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of a working agreement in a team context, which indirectly relates to working software by emphasising team alignment and efficiency. However, it primarily focuses on team dynamics and processes rather than directly addressing the delivery of functional software or its quality. While it touches on methodologies like Kanban and Scrum, it lacks detailed exploration of working software characteristics, customer value delivery, or best practices for software quality.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in decision-making processes, particularly in the context of frameworks like Scrum and Kanban. However, it primarily focuses on the consequences of not having a working agreement rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which indirectly relates to decision-making processes within teams. However, it primarily focuses on the necessity of agreements and roles rather than structured, evidence-based methodologies for decision-making. While it touches on aspects of collaborative decision-making, it lacks depth in discussing empirical evidence or frameworks for evaluating options, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -178,12 +196,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration, which are cultural elements that influence team dynamics. However, it primarily focuses on the practical aspects of working agreements rather than a broader examination of organisational culture.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which touches on aspects of team dynamics and collaboration. However, it primarily focuses on practical steps for implementing Kanban rather than exploring the broader implications of organisational culture. While there are mentions of team roles and processes, the discussion lacks depth regarding cultural elements that influence agility and transformation, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -205,11 +226,14 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration, which are related to transparency in team dynamics. However, it primarily focuses on the need for a working agreement rather than explicitly addressing transparency as a central theme.",
+    "calculated_at": "2025-03-14T19:25:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of a working agreement in a Kanban context, which indirectly relates to transparency by emphasising the need for clear roles, responsibilities, and processes. However, while it touches on aspects of transparency, such as the need for alignment and clarity, it does not explicitly focus on transparency as a primary theme. The discussion is more about team alignment and efficiency rather than the broader implications of transparency in Agile methodologies.",
     "level": "Tertiary"
   },
   "Definition of Done": {
@@ -388,12 +412,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team collaboration and agreement on working practices, which aligns with Agile principles. However, it primarily focuses on the Kanban framework and does not delve deeply into Agile values or the Agile Manifesto.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the importance of a working agreement within the context of Kanban, which is a specific Agile framework. While it touches on themes of team alignment and collaboration, it does not explicitly address Agile values or principles such as customer collaboration or responding to change. The focus on Kanban and Scrum frameworks detracts from a deeper exploration of Agile's foundational beliefs, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -424,12 +451,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of working effectively, which relates to change management principles. However, it primarily focuses on the challenges of implementing frameworks like Scrum and Kanban rather than a comprehensive discussion on change management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which touches on aspects of change management, particularly in the context of Agile methodologies. However, it primarily focuses on Kanban and Scrum practices rather than broader change management strategies. The direct mentions of change management concepts are limited, and while there is some alignment with the category's themes, the depth of discussion is more about operational practices than strategic change management.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -442,12 +472,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile methodologies, particularly referencing Scrum and Kanban. However, it primarily focuses on the need for a working agreement rather than directly addressing empirical process control principles such as transparency, inspection, and adaptation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a working agreement in the context of Kanban, which indirectly relates to empirical process control through the themes of team alignment and adaptation. However, it lacks direct references to empirical process control principles and does not delve deeply into inspection or transparency, which are core to the category.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -478,11 +511,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile methodologies, particularly referencing Scrum and Kanban. However, it primarily focuses on the general concept of team dynamics rather than specific practices or roles of software developers.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a working agreement in the context of Kanban and Scrum, which are relevant to Agile methodologies. However, it primarily focuses on team dynamics and processes rather than the specific role of software developers. While it touches on concepts that align with Agile practices, the depth of discussion is more about team alignment than the developers' roles or practices directly. Therefore, it has a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -610,12 +646,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile methodologies, particularly referencing Scrum and Kanban. However, it primarily focuses on the challenges of team dynamics rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of a working agreement in the context of Kanban, which aligns with Agile principles of team alignment and adaptability. However, it primarily focuses on practical aspects of team dynamics rather than broader strategic implications of Agile methodologies. While it touches on key themes like team alignment and processes, it lacks a comprehensive exploration of Agile strategy as a whole.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -628,12 +667,15 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration, which are relevant to cross-functional teams, but it primarily focuses on the pitfalls of not having a working agreement rather than the structure or benefits of cross-functional teams themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which is relevant to cross-functional teams. However, it primarily focuses on Kanban and Scrum frameworks rather than explicitly addressing cross-functional team dynamics, characteristics, or best practices. The discussion lacks depth in exploring the specific benefits and challenges of cross-functional teams, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -646,12 +688,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in navigating complex environments, which aligns with sensemaking principles. However, it primarily focuses on the pitfalls of not having a working agreement rather than a comprehensive exploration of sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which touches on aspects of sensemaking. However, it primarily focuses on practical steps for establishing agreements within teams rather than exploring the broader principles of sensemaking in complex environments. While it mentions the need for clarity and direction, it lacks a deeper exploration of frameworks or models that aid in understanding complexity, which diminishes its alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -727,11 +772,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile frameworks like Scrum and Kanban, making Agile principles a major theme, but it is not the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a working agreement within a Kanban framework, which aligns with Agile principles. However, it primarily focuses on Kanban rather than a broader Agile transformation context. While it touches on team alignment and roles, it lacks depth in discussing Agile transformation strategies or methodologies beyond Kanban. Therefore, it has a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -772,12 +820,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Scrum, but it primarily focuses on Kanban and general team dynamics rather than Scrum-specific practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a working agreement in team alignment, which is relevant to Scrum but primarily focuses on Kanban. While it mentions Scrum and its misconceptions, the primary focus is on Kanban practices, leading to a lower confidence score in relation to Scrum Product Development.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -820,12 +871,12 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:14:11",
+    "calculated_at": "2025-03-14T19:24:16",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the importance of team agreements and collaboration, which are relevant to Scrum practices, but it primarily focuses on Kanban and general team dynamics rather than the specific role and responsibilities of a Scrum Master.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -847,11 +898,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of agile methodologies, which aligns with technical leadership principles, but it primarily focuses on the pitfalls of not having a working agreement rather than providing a comprehensive discussion on technical leadership itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a working agreement in a team setting, which is relevant to team dynamics and collaboration. However, it primarily focuses on Kanban and does not delve deeply into the principles of technical leadership or agile methodologies. While it touches on aspects of team alignment and roles, it lacks a comprehensive exploration of mentoring, coaching, or servant leadership, which are key themes in the Technical Leadership category.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -874,12 +928,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile methodologies, particularly referencing Scrum and Kanban. However, it primarily focuses on the pitfalls of not having a working agreement rather than providing a comprehensive exploration of Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of a working agreement in the context of Kanban, which aligns with Agile Planning principles. It touches on team alignment, roles, and processes, but primarily focuses on the working agreement rather than broader Agile Planning methodologies. While it mentions Scrum and Kanban, the depth of discussion on Agile Planning concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -904,11 +961,14 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile methodologies, particularly Kanban and Scrum, but it primarily focuses on the challenges of team dynamics rather than specific collaboration tools.",
+    "calculated_at": "2025-03-14T19:24:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment, which indirectly relates to collaboration tools by mentioning the need to agree on processes and tools. However, it primarily focuses on the concept of working agreements rather than specific collaboration tools or their features, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -931,12 +991,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration, which are relevant to Scrum Team dynamics, but it primarily focuses on Kanban and general team functioning rather than specific Scrum roles or practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment, which is relevant to Scrum teams. However, it primarily focuses on Kanban and does not delve deeply into Scrum-specific roles or practices. While it mentions Scrum in the context of misconceptions, the overall emphasis is on general team dynamics rather than the specific dynamics of a Scrum Team.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -976,7 +1039,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:27:13",
+    "calculated_at": "2025-03-14T19:24:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -984,7 +1047,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses the importance of a working agreement within the context of Kanban and Scrum frameworks, which indicates a focus on specific practices rather than the broader Agile philosophy. While it touches on themes of team alignment and collaboration, it does not delve deeply into the foundational principles of Agile or the mindset that underpins it. The discussion is more about operational efficiency and framework misconceptions than about the Agile values and principles themselves.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1123,20 +1186,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of product delivery methodologies, particularly referencing Scrum and Kanban. However, it primarily focuses on the challenges of team dynamics rather than the broader methodologies and practices of product delivery.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a working agreement in the context of Kanban, which is a methodology relevant to product delivery. It explicitly mentions team alignment, roles, responsibilities, and processes, all of which are crucial for effective product delivery. However, while it touches on these aspects, the focus is more on the working agreement itself rather than the broader methodologies and practices of product delivery, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile frameworks, particularly Scrum and Kanban, making Agile principles a major theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a working agreement in the context of Kanban, which is an Agile methodology. It touches on team alignment, roles, and processes, which are relevant to Agile Product Management. However, the primary focus is on Kanban rather than Agile Product Management specifically, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
@@ -1159,30 +1228,39 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in navigating complex workflows, which aligns with themes of complexity thinking. However, it primarily focuses on practical advice for team dynamics rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of a working agreement in team dynamics, particularly within Kanban and Scrum frameworks. While it touches on themes of alignment and efficiency, it does not explicitly reference complexity science or its principles. The discussion lacks depth in exploring non-linear dynamics, emergence, or uncertainty, which are central to Complexity Thinking. Therefore, while there are relevant elements, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a working agreement and collaboration among team members, which relates to accountability and alignment. However, it primarily focuses on the consequences of not having a working agreement rather than explicitly addressing transparency and accountability as central themes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment, which indirectly relates to transparency and accountability. However, it primarily focuses on the mechanics of establishing a working agreement rather than explicitly addressing transparency and accountability principles. While it mentions the need for clear roles and common goals, it lacks a deeper exploration of how these elements foster trust and accountability within Agile teams.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:24:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a working agreement within teams and touches on Scrum and Kanban methodologies, making it a major but secondary theme. However, it primarily focuses on the philosophical aspects of team collaboration rather than practical techniques or tooling.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of a working agreement in the context of Kanban, which aligns with practical techniques for improving team performance. It mentions specific methodologies and tools, such as Scrum and Kanban, and provides actionable steps for establishing a working agreement. However, while it touches on practical application, the focus is more on the consequences of not having a working agreement rather than a deep exploration of tools or methodologies themselves.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1261,12 +1339,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in delivering value, which aligns with value delivery principles, but it primarily focuses on the challenges of team dynamics rather than specific value delivery strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:24:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which aligns with the principles of iterative development and the role of cross-functional teams in delivering value. However, it primarily focuses on the necessity of agreements and roles rather than broader strategies for value delivery, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1279,21 +1360,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of agile methodologies, particularly in relation to Kanban and Scrum. While it touches on themes of organisational agility, it primarily focuses on the pitfalls of not having a working agreement rather than exploring broader strategies or frameworks for enhancing organisational agility.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a working agreement for team alignment and efficiency, which aligns with the principles of organisational agility. However, it primarily focuses on Kanban and Scrum frameworks without delving deeply into broader agile methodologies or cultural shifts necessary for organisational agility. The discussion is somewhat relevant but lacks comprehensive exploration of agility as a whole.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal insights and reflections on team dynamics and the importance of working agreements, but it primarily focuses on the technical aspects of Kanban and Scrum frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:24:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on the importance of a working agreement in a team context, discussing the implications of not having one. While it touches on team dynamics and the necessity of alignment, it lacks personal anecdotes or reflections that would qualify it for the 'Personal' category. The discussion is more technical and instructional, centred around Kanban and Scrum frameworks, rather than individual experiences or insights.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1393,12 +1480,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:25:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of Agile methodologies, particularly referencing Scrum and Kanban, but it primarily focuses on the challenges of team dynamics rather than the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of a working agreement within a Kanban framework, which is more focused on team dynamics and operational efficiency rather than the broader Agile Product Operating Model. While it touches on Agile principles, it does not delve into product-centric development or value delivery, which are core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1444,7 +1534,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:48:15",
+    "calculated_at": "2025-03-14T19:24:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1452,6 +1542,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions Scrum as part of a discussion on team dynamics and working agreements, but it primarily focuses on Kanban and the importance of collaboration in any framework. While it acknowledges Scrum, it does not delve deeply into its principles or practices, making it a secondary topic rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

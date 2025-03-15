@@ -37,9 +37,9 @@ tags:
 - People and Process
 - Software Development
 - Pragmatic Thinking
+- News and Reviews
 - Agile Frameworks
 - Agile Transformation
-- Continuous Learning
 resourceTypes:
 - video
 categories:

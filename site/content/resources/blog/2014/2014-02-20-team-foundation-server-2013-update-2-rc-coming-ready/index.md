@@ -32,11 +32,6 @@ aliasesArchive:
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
 tags:
 - News and Reviews
-- Practical Techniques and Tooling
-- Software Development
-- Install and Configuration
-- Products and Books
-- Azure DevOps
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

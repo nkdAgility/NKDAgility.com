@@ -26,11 +26,7 @@ aliasesArchive:
 - /are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
-tags:
-- Agile Project Management
-- Software Development
-- People and Process
-- Agile Frameworks
+tags: []
 categories:
 - Scrum
 - Social Technologies

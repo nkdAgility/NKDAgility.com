@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:15:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses unit testing and the complexities involved in configuring tests for web services, which relates to code quality and maintainability. However, it primarily focuses on practical implementation rather than a theoretical exploration of complexity in software development.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on the practical aspects of testing web services using MSTest, with some discussion on the complexities involved in setting up tests in different environments. However, it lacks a deeper exploration of code quality principles, complexity theory, or best practices in software development. While it touches on issues related to code and testing, it does not engage with the broader themes of complexity in software architecture or design, which are central to the 'Code and Complexity' category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -124,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:06:55",
+    "calculated_at": "2025-03-15T07:15:22",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -132,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses automated builds and testing in a CI/CD context, which aligns with DevOps principles. However, it primarily focuses on specific technical implementations rather than broader DevOps practices, limiting its depth and overall relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -247,12 +250,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:15:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing methodologies and practices related to web services, which is a significant aspect of the product delivery process, but it primarily focuses on technical implementation rather than broader product delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on testing web services using MSTest and discusses specific technical implementations rather than the broader methodologies and practices of product delivery. While it touches on aspects of testing, which is a component of product delivery, it lacks a comprehensive discussion on planning, deployment, or iterative development processes that are central to the category.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -292,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:15:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing and build processes related to Team Foundation Build Services, which is part of Azure DevOps, but it primarily focuses on technical details of unit testing rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses testing web services in the context of Team Foundation Build Services, which is part of the Azure DevOps ecosystem. However, it primarily focuses on specific technical details related to unit testing and does not provide a broader discussion on Azure DevOps functionalities or best practices. The mention of Team Foundation Server indicates a connection to Azure DevOps, but the overall focus is more on testing methodologies rather than Azure DevOps as a suite of tools.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -355,12 +364,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:15:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses testing web services and integration with Team Foundation Build Services, which relates to the deployment and maintenance stages of the application lifecycle. However, it primarily focuses on testing methodologies rather than a comprehensive view of application lifecycle management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on testing web services using MSTest and Team Foundation Build Services, which is a specific aspect of the development phase in the application lifecycle. While it touches on some relevant topics such as automated builds and testing, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as governance, deployment strategies, or maintenance practices. The content does not explicitly mention ALM or its key principles, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -403,12 +415,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:15:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing web services in a build environment, which relates to Continuous Delivery practices but predominantly focuses on unit testing and specifics of the testing framework rather than broader Continuous Delivery principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on testing web services using MSTest and Team Foundation Build Services, which is related to the automation aspect of Continuous Delivery. However, it lacks a comprehensive discussion on the broader principles and practices of Continuous Delivery, such as deployment strategies, maintaining a production-ready state, or the relationship with DevOps. The mention of build servers and automated tests indicates some alignment with Continuous Delivery, but the depth and focus are insufficient to classify it strongly within this category.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -598,12 +613,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T07:15:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content provides an in-depth discussion on testing web services using MSTest, including unit testing practices, automated builds, and integration with Team Foundation Build Services, which are central to the software development process.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on testing web services using MSTest within the context of Team Foundation Build Services. It explicitly mentions unit testing, attributes required for tests, and the challenges faced during automated builds, which are all core aspects of software development practices. The depth of the discussion includes practical code examples and solutions to common problems, demonstrating a strong alignment with software development methodologies and best practices.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -799,11 +817,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:15:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses practical problem-solving techniques related to testing web services using MSTest in a build environment, addressing real-world challenges developers face with builds and testing in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed, practical guide on testing web services using MSTest within a Team Foundation Build Services context. It discusses real-world problems encountered during automated builds and offers pragmatic solutions, such as dynamically setting endpoint addresses and using attributes to ensure tests run correctly in different environments. This aligns well with the core themes of pragmatic thinking, particularly in Agile and DevOps contexts, as it emphasises adaptability and practical problem-solving strategies. The depth of discussion is significant, with specific examples and code snippets illustrating the solutions, thus reinforcing the content's relevance to the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -862,11 +883,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T07:15:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the process of setting up automated tests for web services using MSTest within Team Foundation Build Services, including the nuances of creating and running unit tests in an automated build environment.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on testing web services using MSTest, focusing on the automation of unit tests and integration tests. It explicitly mentions the use of attributes for automated testing, the setup required for tests to run in different environments, and the challenges faced in a build server context. This aligns well with the principles and practices of test automation, particularly in the context of CI/CD. The depth of discussion on specific attributes and methods for automating tests indicates a strong focus on test automation, making it a primary topic rather than a secondary mention.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -880,11 +904,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:15:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses testing web services with MSTest within the context of setting up working software in a development environment, emphasizing practical implementation, integration, and quality assurance best practices for software.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the technical aspects of testing web services using MSTest, which is relevant to ensuring software quality and functionality. However, while it touches on the importance of tests passing in different environments, it lacks a broader discussion on how this contributes to delivering working software that meets user requirements and business objectives. The focus is more on implementation details rather than the overarching principles of working software in Agile or Scrum contexts.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -898,11 +925,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:15:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses testing in the context of Team Foundation Build Services, including how to set up automated tests to run successfully on build servers, which is central to CI practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and solutions related to running automated tests in a build environment, which is a key aspect of Continuous Integration. It provides practical examples of how to configure tests to work with build servers and addresses issues that arise during integration, such as URL redirection and environment configuration. However, while it touches on CI principles, it does not explicitly discuss broader CI practices or tools, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -997,12 +1027,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:15:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing within a build system, specifically mentioning Team Foundation Build Services, which aligns with continuous integration aspects of Azure Pipelines. However, it mainly focuses on testing mechanisms and configuration details without a strong emphasis on deploying or managing Azure Pipelines directly.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses testing web services and the challenges faced during automated builds, which are relevant to Azure Pipelines. However, it primarily focuses on MSTest and Team Foundation Build Services 2010 without explicitly addressing Azure Pipelines or CI/CD practices. While there are mentions of build servers and automated testing, the discussion lacks depth in Azure-specific configurations and practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1069,12 +1102,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:16:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses configuration of web services and settings for unit tests, which is related to system configuration but mainly focuses on testing methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the configuration of web services and the necessary attributes for testing in a development environment, which aligns with system configuration principles. However, it primarily focuses on testing practices rather than broader system configuration methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1135,12 +1171,12 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:20",
+    "calculated_at": "2025-03-15T07:15:22",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content primarily discusses unit testing and issues related to configuring tests with the ASP.NET Development Server, which is more focused on testing practices rather than deployment strategies. While there are some mentions of concepts that relate to deployment environments, the main focus does not align closely with deployment methodologies or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1192,12 +1228,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:15:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing methods, including unit tests of web services and adjustments needed for those tests to run correctly in varying environments, which implies an experimental approach to verify functionality. However, it largely focuses on practical implementation rather than a broad exploration of experimentation within Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest, with some mention of unit tests and integration tests. However, it lacks a clear emphasis on hypothesis-driven experimentation or systematic testing approaches that validate assumptions within Agile workflows. While it discusses testing methods, it does not delve into the broader implications of experimentation in Agile practices or how these tests can drive continuous improvement.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -1249,11 +1288,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:15:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses testing web services with MSTest, addressing test-driven development and continuous integration practices, while also providing specific examples of unit tests and necessary attributes for ASP.NET development. It aligns with key topics in Engineering Practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on testing web services using MSTest, which aligns with the principles of Test-Driven Development (TDD) and automation in the context of Agile engineering practices. It discusses the creation of unit tests, the importance of setting up the correct environment for tests to run, and provides detailed code examples. However, while it touches on relevant topics, it does not deeply explore the broader principles of clean code, CI/CD, or refactoring, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1375,11 +1417,14 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T07:15:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses creating unit tests, including some specifics about attributes and methods used in testing. However, it primarily focuses on practical challenges with testing web services rather than on the broader principles and methodology of TDD.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses unit testing and the use of attributes in MSTest, which are relevant to TDD practices. However, it does not explicitly mention the TDD cycle (Red-Green-Refactor) or the principle of writing tests before code, which are core to TDD. The focus is more on practical implementation details rather than the overarching principles of TDD.",
     "level": "Secondary"
   },
   "Social Technologies": {
@@ -1420,7 +1465,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:52:11",
+    "calculated_at": "2025-03-15T07:15:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1428,6 +1473,6 @@
     "non_ai_confidence": 50,
     "final_score": 16.0,
     "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and Team Foundation Build Services, with only a brief mention of Scrum in the tags. There is no substantial discussion of Scrum principles, roles, events, or practices, which are essential for a strong alignment with the Scrum category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

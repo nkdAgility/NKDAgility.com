@@ -29,11 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Agile Philosophy
-- Strategy
 - Agile Values and Principles
 - Agile Project Management
-- Product Delivery
+- Agile Philosophy
+- Agile Planning
+- Operational Practices
+- Value Delivery
+- Software Development
+- Agile Frameworks
+- Agile Transformation
 resourceTypes:
 - video
 categories:

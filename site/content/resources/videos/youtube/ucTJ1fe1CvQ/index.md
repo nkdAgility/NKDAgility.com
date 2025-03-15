@@ -34,6 +34,8 @@ tags:
 - Pragmatic Thinking
 - Continuous Learning
 - People and Process
+- Product Owner
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

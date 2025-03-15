@@ -25,8 +25,14 @@ preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
+- Agile Project Management
+- Agile Frameworks
+- Software Development
 - Pragmatic Thinking
+- Discovery and Learning
+- Professional Scrum
 - People and Process
+- Scrum Product Development
 - Agile Product Management
 - Agile Transformation
 sitemap:

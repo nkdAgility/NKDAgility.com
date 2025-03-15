@@ -30,10 +30,10 @@ tags:
 - Enterprise Agility
 - Market Adaptability
 - Discovery and Learning
+- Pragmatic Thinking
 - Organisational Physics
 - People and Process
 - Resilience and Change
-- Decision Theory
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,9 +25,16 @@ preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
 tags:
-- Agile Transformation
-- Agile Product Management
+- Agile Project Management
+- Software Development
 - People and Process
+- Agile Transformation
+- Organisational Agility
+- Agile Product Management
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Strategy
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

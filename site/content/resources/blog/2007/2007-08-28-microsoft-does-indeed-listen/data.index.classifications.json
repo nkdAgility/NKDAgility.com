@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:39:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its hosted options, which are related to application lifecycle management, but the primary focus is on user interest and marketing aspects rather than the lifecycle management processes themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its hosted options, which are related to application lifecycle management. However, it primarily focuses on user interest and feedback rather than the comprehensive management of the application lifecycle stages, best practices, or governance. The mention of ALM is brief and does not delve into the core themes of the category, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -73,11 +76,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:39:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the hosted TFS service and personal experiences related to it, but it does not directly reference Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the hosted TFS service and expresses personal opinions and experiences related to it. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it touches on topics relevant to software development and project management. However, the discussion lacks depth and actionable insights, making it more of a personal narrative rather than a structured exploration of Agile principles. The mention of TFS and its features does not align with established frameworks, thus fitting the Miscellaneous category.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -292,7 +298,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T10:50:07",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -300,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Team Foundation Server (TFS), which is a component of Azure DevOps, but it primarily focuses on user experiences and opinions rather than providing insights into Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices, integration, or agile methodologies specific to Azure DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -577,7 +583,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T15:16:14",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -585,15 +591,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Team Foundation Server (TFS) and its implications for software development, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about TFS features and marketability rather than best practices or developer roles within Agile frameworks. The depth of discussion is limited to TFS without exploring broader themes of collaboration or productivity enhancement in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:39:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a tool used in software development for project management and version control; however, the focus is more on marketability and management aspects than on software development practices themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its implications for software development, particularly in the context of hosted solutions. While it touches on relevant topics such as project management and the need for better reporting features, the focus is more on the marketing and user interest aspects rather than on software development methodologies or practices. The discussion lacks depth in terms of software engineering principles and does not provide substantial insights into the development lifecycle or best practices.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -607,12 +616,12 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses market needs and potential product improvements for TFS, but it focuses more on implementation and user requests rather than overarching product strategy and vision.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -661,7 +670,7 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-03-11T17:07:58",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -669,7 +678,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the need for improvements in TFS to make it more marketable, which touches on aspects of market share. However, it primarily focuses on user feedback and feature requests rather than specific strategies for increasing market share or competitive analysis. The discussion lacks depth in terms of market positioning or comprehensive strategies, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -853,12 +862,12 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses Hosted TFS (Team Foundation Server) as a source control option and its features, but it primarily focuses on marketing aspects and user feedback rather than on version control practices or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1051,7 +1060,7 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T15:18:23",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1059,7 +1068,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a user's experience with Microsoft and their responsiveness to feedback regarding Hosted TFS. However, it primarily focuses on the user's excitement and expectations rather than detailing mechanisms for collecting or integrating customer feedback into product development. While there are mentions of user needs and potential improvements, the discussion lacks depth in exploring structured feedback loops or methodologies for integrating feedback into development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1099,12 +1108,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:39:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is related to Windows software, but does not focus on the Windows operating system specifically. It mentions issues related to licensing and hosted options, which are closely tied to Microsoft's ecosystem but not directly to Windows itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows ecosystem. However, the focus is primarily on TFS and its hosted options rather than the Windows operating system itself. While there are mentions of Microsoft and some implications of Windows-related software, the content does not delve into installation, configuration, or troubleshooting of Windows OS. Therefore, it aligns with the Windows category only tangentially, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1198,21 +1210,21 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content mentions TFS (Team Foundation Server) and discusses the need for improvements and features that would make it more marketable, but it does not focus primarily on working software or its delivery. Instead, it revolves around TFS as a product and its potential hosted solutions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "While the content discusses user interest and some features that might make TFS more marketable, it primarily focuses on Microsoft's internal processes and licensing issues rather than methodologies for identifying customer needs and defining product features.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1234,7 +1246,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T19:02:14",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1242,7 +1254,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the need for practical features in TFS to enhance its marketability, which aligns with pragmatic thinking in terms of applying real-world needs to software development. However, it lacks a direct focus on Agile, Scrum, or DevOps frameworks, and the discussion is more about user feedback and feature requests rather than specific problem-solving strategies or case studies. The depth of discussion is moderate, as it outlines specific requirements but does not delve deeply into how these could be implemented or their implications in a broader context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1408,7 +1420,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:17:59",
+    "calculated_at": "2025-03-15T07:39:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1428,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its hosted options, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management and software development, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is minimal regarding Scrum, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

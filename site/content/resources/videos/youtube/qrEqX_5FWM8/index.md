@@ -24,11 +24,13 @@ preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
 tags:
-- People and Process
 - Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
+- People and Process
+- Software Development
 - Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

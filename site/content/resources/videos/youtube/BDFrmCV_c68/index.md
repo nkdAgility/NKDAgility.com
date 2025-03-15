@@ -31,11 +31,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Pragmatic Thinking
 - Agile Product Management
+- Discovery and Learning
+- Agile Project Management
 - Software Developers
 - Agile Philosophy
 - Metrics and Learning
+- People and Process
 resourceTypes:
 - video
 categories:

@@ -28,12 +28,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of hierarchical data management within an organisation and the potential benefits of using technology to enhance organisational processes, indicating a major but secondary theme related to sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a proposed application for managing hierarchical data within an organisation, which touches on the interplay between technology and organisational structures. However, it lacks explicit references to sociotechnical principles and does not deeply explore the impact of team dynamics or organisational culture on technology adoption. While it mentions the integration of various systems (HR, Active Directory, SharePoint), the discussion remains primarily focused on the technical implementation rather than the broader sociotechnical implications.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -247,7 +250,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T15:17:24",
+    "calculated_at": "2025-03-15T07:37:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -255,7 +258,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the idea of creating a system for managing hierarchical data within an organisation, which could relate to business agility in terms of improving operational efficiency. However, it lacks explicit discussions on the principles of business agility, strategies for fostering innovation, or the role of leadership. The focus is more on a specific application idea rather than a broader exploration of business agility concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -331,7 +334,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T15:14:51",
+    "calculated_at": "2025-03-15T07:37:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -339,7 +342,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses a concept for managing hierarchical data related to employees, which touches on organisational structure and the potential for improving processes within a company. However, it lacks explicit discussions on team dynamics, collaboration, or leadership, which are core themes of the category. The mention of editing employee data and creating reorganisations hints at human factors but does not delve deeply into the interplay between people and structured methodologies. Overall, while there are relevant elements, the primary focus remains on a technical solution rather than a comprehensive exploration of people and processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -388,7 +391,7 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-11T10:49:08",
+    "calculated_at": "2025-03-15T07:37:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -396,7 +399,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content presents an idea for a new application that aims to improve the management of hierarchical data within an organisation. However, it lacks explicit discussions on the measurement and improvement of innovation capabilities, as well as the use of Evidence-Based Management principles. While it touches on the potential business benefits and the concept of a 'single point of truth' for information, it does not delve into frameworks, metrics, or strategies for fostering a culture of innovation, which are crucial for a higher confidence score in the Ability to Innovate category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -724,7 +727,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T13:18:28",
+    "calculated_at": "2025-03-15T07:37:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -732,7 +735,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the idea of reorganising company hierarchical data and creating a system for managing employee information, which touches on aspects of organisational structure. However, it lacks explicit discussions on change management strategies, methodologies, or frameworks that are central to the category of Organisational Change. The focus is more on a technical solution rather than the principles of change management, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1072,7 +1075,7 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-11T17:07:11",
+    "calculated_at": "2025-03-15T07:37:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1080,7 +1083,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on organisational data management and the potential for reorganisations, which aligns with the category's focus on organisational dynamics. However, it lacks a direct discussion of systems thinking principles and does not delve deeply into the interplay of organisational structure, culture, or processes. The mention of a single point of truth for information hints at systems thinking but does not explore it in detail.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

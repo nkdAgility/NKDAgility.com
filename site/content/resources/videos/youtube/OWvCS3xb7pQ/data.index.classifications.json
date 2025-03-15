@@ -31,7 +31,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:05:07",
+    "calculated_at": "2025-03-14T22:55:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Agile leadership and the transition from traditional management to Agile practices, which aligns with product management principles. However, it primarily focuses on the format of training and personal experiences rather than strategic product management methodologies or frameworks. The discussion lacks depth in terms of specific product management techniques or metrics, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -76,7 +76,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T12:05:10",
+    "calculated_at": "2025-03-14T22:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -84,7 +84,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses agile leadership and the transition from traditional management to agile practices, which is relevant to Scrum. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum principles. The focus is more on leadership training rather than the core Scrum framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -172,7 +172,7 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-03-10T18:11:30",
+    "calculated_at": "2025-03-14T22:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -180,7 +180,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Agile leadership and training methods, focusing on individual Agile practices rather than the scaling of Agile across multiple teams or at an enterprise level. While it touches on the importance of leadership in Agile contexts, it lacks explicit references to frameworks for scaling Agile or coordination among multiple teams, which are central to the Scaled Agile category. The depth of discussion on leadership is notable, but it does not sufficiently address the broader themes of scaling Agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -220,7 +220,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T10:09:33",
+    "calculated_at": "2025-03-14T22:55:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -228,7 +228,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the transition to agile leadership and the challenges faced by leaders in supporting agile teams. While it touches on the importance of leadership in fostering team effectiveness, it lacks direct mentions of specific team performance metrics or practices. The focus is more on the leadership journey rather than on team dynamics or performance strategies, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -250,7 +250,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T11:32:41",
+    "calculated_at": "2025-03-14T22:55:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -258,7 +258,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile leadership and the transition from traditional management to Agile practices, which aligns with the themes of product delivery. However, it primarily focuses on the educational aspect of Agile leadership rather than the end-to-end process of delivering software products. While there are mentions of Agile methodologies, the depth of discussion on product delivery practices such as testing, deployment, or cross-functional teams is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -403,7 +403,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-13T16:47:06",
+    "calculated_at": "2025-03-14T22:55:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -411,25 +411,31 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses agile leadership and training, which indirectly relates to the role of a Scrum Master. However, it lacks direct references to Scrum Master responsibilities or practices, focusing more on general agile leadership concepts and training formats. While there is some alignment with the themes of coaching and fostering team dynamics, the depth of discussion on specific Scrum Master duties is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T20:22:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional management to agile leadership, which is a significant aspect of Agile Planning, but it primarily focuses on the immersive learning experience rather than specific Agile planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile leadership and training but does not explicitly focus on Agile Planning principles or methodologies. While it touches on the importance of adapting training to support agile practices, it lacks direct references to Agile Planning techniques, user stories, or iterative planning. The discussion is more about leadership and training formats rather than the planning aspects of Agile.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T20:22:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition to agile leadership and the importance of supporting teams, which aligns with Agile principles, but it primarily focuses on the format of training rather than the core values and principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transition to agile leadership and the importance of effective training, which aligns with Agile principles of continuous improvement and fostering collaboration. However, it primarily focuses on the training format and personal experiences rather than explicitly discussing Agile values or principles. The depth of discussion on Agile concepts is moderate, but it lacks direct references to the Agile Manifesto or its core values.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -469,12 +475,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T20:22:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of leadership in transitioning to agile practices and the importance of support in the organisational environment, indicating a focus on cultural aspects of agile leadership.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of leadership in shaping organisational culture, particularly in the context of transitioning from traditional management to agile leadership. It highlights the importance of creating an environment conducive to learning and growth, which aligns with the core themes of organisational culture. However, while it touches on cultural aspects, the primary focus is on training formats and leadership practices rather than a comprehensive exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -505,20 +514,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T20:23:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses innovative approaches to Agile leadership training, focusing on immersive learning experiences, which aligns with fostering a culture of innovation. However, it primarily centres on the training format rather than directly measuring or enhancing innovation capabilities.",
+    "calculated_at": "2025-03-14T22:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses innovative training formats and approaches to agile leadership, which aligns with the theme of fostering a culture of innovation. However, it lacks direct references to Evidence-Based Management principles and does not provide in-depth metrics or frameworks for measuring innovation capabilities. The focus is more on personal experiences and training methods rather than a structured analysis of innovation within organisations.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T20:23:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:55:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the transition from traditional management to agile leadership, focusing on the challenges and solutions in implementing Agile practices, which aligns well with Agile transformation principles.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the transformation of leadership towards Agile practices, discussing the importance of training and the shift from traditional management styles. It aligns well with Agile principles, particularly in fostering a mindset of continuous growth and adaptation. The depth of discussion on innovative training formats and their impact on Agile leadership further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -550,12 +565,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T20:23:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional management to agile leadership, which is a significant aspect of fostering adaptability and continuous improvement. However, the primary focus is on the structure of the training course rather than on broader organisational resilience strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transition from traditional management to agile leadership, which aligns with the themes of adaptability and change management. However, while it touches on the importance of training and support in fostering agile leadership, it lacks a comprehensive exploration of organisational resilience strategies or frameworks. The focus is more on personal leadership development rather than broader organisational resilience, which limits the depth of discussion in this category.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -586,20 +604,26 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T20:23:17",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content includes personal reflections on the challenges faced by course participants in transitioning to agile leadership, as well as the author's insights on improving the learning experience. However, it primarily discusses the structure of the course rather than personal anecdotes or experiences.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the author's personal reflections and experiences in agile leadership, particularly regarding the challenges of traditional training formats and the implementation of a new immersive initiative. The author shares anecdotes about participants' reactions and their own insights into the evolution of agile leadership, which aligns well with the Personal category. The depth of discussion is significant, as it explores the author's journey and the impact of their approach on others, providing a unique perspective on Agile methodologies.",
     "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T20:23:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a course format and learning journey related to Agile leadership, which is a significant aspect of professional development events, but it does not focus primarily on a specific event or presentation.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific training course related to agile leadership, which aligns with the category of events and presentations. However, it primarily focuses on the course's structure and personal reflections rather than detailing specific events or presentations. The mention of a workshop format indicates a connection to the category, but the overall emphasis is more on the training experience than on formal events or presentations.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -622,21 +646,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T20:23:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile leadership in the context of Scrum teams, but primarily focuses on the training format rather than specific Scrum team dynamics.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile leadership and training for Scrum teams, but it primarily focuses on the training format and the challenges of traditional methods rather than the specific dynamics, roles, and collaboration within a Scrum Team. While it touches on the importance of empowering Scrum teams, it lacks detailed exploration of Scrum roles, team dynamics, and practices that are central to the category.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T20:23:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of leadership in transitioning to agile practices, which is a significant aspect of scaling agility, but it primarily focuses on individual leadership development rather than broader organisational strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on agile leadership training and the transition from traditional management to agile practices. While it touches on the importance of leadership in fostering an agile culture, it lacks explicit discussions on scaling agility frameworks or techniques for aligning multiple teams. The depth of discussion is more centred on individual leadership development rather than organisational scaling, which limits its alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -685,20 +715,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T20:23:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional management to agile leadership, which is a significant aspect of change management. However, it primarily focuses on the structure of a training course rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transition from traditional management to agile leadership, which aligns with change management principles. It highlights the importance of effective training and the need for a shift in mindset, which are key aspects of managing change. However, while it touches on these themes, the primary focus is on training formats rather than broader change management strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T20:23:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to agile leadership and the importance of supporting course participants, which relates to team dynamics and collaboration, but it primarily focuses on the structure of the course rather than direct team collaboration techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition to agile leadership and the importance of training formats that foster ongoing support and relationship building among participants. While it touches on aspects of team dynamics and collaboration, it primarily focuses on leadership training rather than direct team collaboration techniques or practices. The depth of discussion on how these training methods impact team collaboration is moderate, but the primary focus remains on leadership rather than teamwork itself.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -730,38 +766,50 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition to agile leadership and the challenges of applying learnings in a professional environment, indicating a focus on learning processes, but it primarily centres on the structure of the course rather than broader discovery methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the transformation of training methods in agile leadership, highlighting the importance of continuous learning and adaptation. It mentions the shift from traditional workshop formats to immersive, regular learning modules, which aligns with the category's emphasis on fostering innovation and experimentation. However, while it touches on key themes, the primary focus is more on training methods rather than a broader exploration of discovery and learning processes.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T20:23:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional management to agile leadership, which relates to self-organisation principles, but it primarily focuses on the leadership aspect rather than self-organisation itself.",
+    "calculated_at": "2025-03-14T22:56:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses agile leadership and the transition from traditional management to agile practices, which touches on self-organisation principles. However, it primarily focuses on training formats and the role of leadership rather than directly addressing self-organisation within teams. While there are elements that align with the category, such as fostering an environment for leaders to thrive, the depth and direct mentions of self-organisation are limited.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:23:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses transitioning to agile leadership and the challenges faced by teams, which aligns with the Agile Product Operating Model, but it primarily focuses on leadership training rather than the model itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile leadership and training but does not explicitly focus on the Agile Product Operating Model. While it touches on principles of agile and the transition from traditional management, it lacks a direct connection to product-centric development and value delivery, which are core themes of the category.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T20:23:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to agile leadership and the importance of supporting course participants, which relates to employee engagement, but the primary focus is on the structure of the training and agile methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of effective training and the shift towards an immersive learning approach, which can enhance employee engagement by fostering deeper connections and ongoing support. However, while it touches on aspects of leadership and team dynamics, it primarily focuses on training methodologies rather than directly addressing broader employee engagement strategies or practices.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -775,21 +823,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T20:23:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses transitioning to agile leadership and the challenges faced by participants in applying agile principles, indicating a focus on enhancing adaptability in a professional environment.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses agile leadership and innovative training formats, which align with the principles of adaptability in a dynamic environment. However, it primarily focuses on training methods rather than specific strategies for market responsiveness, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T20:23:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership in the context of agile teams and the dynamics of learning and applying new methodologies, which relates to organisational behaviour and systems thinking, but it primarily focuses on the format of training rather than a comprehensive exploration of organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and training formats, which are related to organisational dynamics but do not explicitly focus on systems thinking or the interplay of organisational elements as defined in the category of Organisational Physics. While there are mentions of leadership and team dynamics, the primary focus is on training methodologies rather than a holistic view of organisational behaviour.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -847,11 +901,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T20:24:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:56:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the transition to agile leadership and the challenges faced by participants in applying their learnings, which aligns with mentoring themes. However, it primarily focuses on course structure rather than direct mentoring techniques or strategies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of effective training in shaping agile leaders, which aligns with mentoring principles. It highlights the importance of ongoing support and guidance, fostering relationships, and creating an environment for continuous growth, all of which are key aspects of mentoring. However, while it touches on mentoring concepts, it does not delve deeply into specific mentoring techniques or strategies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -865,39 +922,51 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T20:24:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to agile leadership and the challenges faced by participants in applying learnings, which touches on aspects of sensemaking in navigating complexity and decision-making in organisational contexts. However, the primary focus is on the structure of the training rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and training, which touches on aspects of sensemaking, particularly in navigating complex environments. However, it primarily focuses on training formats and personal experiences rather than explicitly exploring sensemaking principles or frameworks. While there are mentions of adapting to challenges and fostering relationships, the depth of discussion on sensemaking concepts is limited.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T20:24:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to agile leadership and the importance of supporting teams, which aligns with strategic themes in Agile environments, but it primarily focuses on the format of training rather than strategic planning or execution.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transformation of leadership within an Agile context, focusing on the importance of effective training and innovative approaches to leadership development. It aligns with strategic themes such as the adaptation of training methods to enhance team performance and the continuous improvement of leadership practices. However, while it touches on strategic concepts, it does not delve deeply into specific strategic frameworks or metrics, which slightly limits its depth of discussion.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T20:24:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to agile leadership and the challenges of implementing changes in a professional environment, which relates to operational practices in Agile. However, the primary focus is on the leadership journey rather than specific operational techniques or strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transition from traditional management to agile leadership and introduces a new immersive training format. While it touches on aspects of operational practices, such as enhancing learning and application in real-time, it primarily focuses on leadership development rather than specific operational efficiency techniques or methodologies. The discussion lacks depth in operational practices and does not provide concrete strategies or metrics related to improving operational efficiency.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T20:24:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional management to agile leadership, which aligns with Agile principles, but primarily focuses on the structure of a specific course rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transition from traditional management to agile leadership, emphasising the mindset required for effective agile practices. It highlights the importance of continuous growth, adaptability, and the role of training in fostering agile leadership, aligning well with the core themes of Agile Philosophy. However, while it touches on these principles, the focus on specific training formats and personal experiences slightly detracts from a broader discussion of Agile as a philosophy.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -910,12 +979,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T20:24:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional management to agile leadership, emphasising support and guidance for course participants, which aligns with coaching principles. However, the primary focus is on the structure of the course rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the transition from traditional management to agile leadership, emphasising the importance of ongoing support and guidance, which aligns with coaching principles. However, it primarily focuses on training formats rather than direct coaching techniques or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -928,11 +1000,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T20:24:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transformation of leadership towards Agile practices, emphasising the importance of ongoing learning and application in a professional environment, which aligns with the principles of Continuous Learning.",
+    "calculated_at": "2025-03-14T22:56:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the transformation of leadership through innovative training methods that promote continuous learning. It discusses the shift from traditional training formats to a more immersive, ongoing learning approach, which aligns well with the principles of Continuous Learning. The emphasis on regular learning, real-time application, and fostering relationships supports the idea of a growth mindset and knowledge sharing. The depth of discussion is substantial, detailing specific strategies and their impact on agile leadership, thus reinforcing the relevance to the category.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -964,12 +1039,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T20:24:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile leadership and the transition from traditional management to Agile practices, which is relevant to Agile Product Management, but it primarily focuses on the training format rather than specific Agile product management techniques or principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile leadership and training, which are relevant to Agile Product Management, but it does not explicitly focus on product management practices or methodologies. The emphasis is more on leadership development rather than specific product management techniques or strategies. While it touches on the importance of agile principles, the depth of discussion on product management aspects is limited.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1000,20 +1078,26 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T20:24:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional management to agile leadership, highlighting the importance of organisational support and the relationship between leaders and team members, which aligns with sociotechnical principles. However, the primary focus is on the course structure and personal experiences rather than a comprehensive exploration of sociotechnical systems.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses agile leadership and training formats, which touch on the interplay between social aspects (leadership, team dynamics) and technical practices (agile methodologies). However, it lacks explicit references to sociotechnical systems and does not deeply explore the organisational context or the integration of social and technical elements. The focus is more on personal experiences and training methods rather than a comprehensive analysis of sociotechnical interactions.",
     "level": "Tertiary"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T20:24:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile leadership course, which is relevant to Agile methodologies, but it primarily focuses on the course format and participant experiences rather than specific products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific course related to agile leadership, which aligns with the category's focus on tools and resources for Agile methodologies. However, it lacks detailed reviews or analyses of specific products or books, and the primary focus is on the author's personal experience and reflections rather than a comprehensive discussion of products or literature.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -1036,11 +1120,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:24:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:56:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical approaches to Agile leadership and the challenges of implementing learnings in a professional environment, which aligns with pragmatic thinking. However, it primarily focuses on the structure of the course rather than specific problem-solving strategies or real-world applications.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the transition from traditional management to agile leadership, focusing on practical training methods that enhance real-world application. It highlights the importance of adapting training formats to better suit participants' needs, which aligns with pragmatic thinking. The emphasis on regular learning, real-time application, and building relationships demonstrates a strong alignment with the core themes of the category. However, while the content is rich in practical insights, it does not delve deeply into specific problem-solving strategies or case studies, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1090,11 +1177,14 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T20:24:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership in the context of Agile methodologies, which touches on themes of team dynamics and support in professional environments, but primarily focuses on the structure of training rather than core psychological principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transition to agile leadership and the importance of effective training, which aligns with themes of leadership styles and employee engagement. However, it primarily focuses on training methodologies rather than deep psychological principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1108,12 +1198,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T20:24:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:56:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and training for Scrum teams, which is a significant aspect of software development methodologies, but it primarily focuses on the leadership and training approach rather than software engineering practices directly.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses agile leadership and training methodologies, which are relevant to software development practices, particularly in Agile frameworks. However, while it touches on the importance of training for Scrum teams and agile practitioners, it lacks detailed exploration of specific software development methodologies or practices. The focus is more on leadership and training formats rather than the technical aspects of software development itself.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",

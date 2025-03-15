@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions upgrading code and internal documentation, which are relevant to application lifecycle management, but the primary focus appears to be on a specific code release rather than a comprehensive discussion of ALM practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on code upgrades and documentation processes, which are tangentially related but do not delve into the core themes of ALM such as lifecycle stages, governance, or risk management.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -103,12 +106,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade and release of code related to a managed service factory, which implies practical application of tooling, but lacks a deeper exploration of methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions an upgrade and release of code related to a managed service factory, which hints at practical tooling. However, it lacks detailed discussion on specific Agile or DevOps methodologies, tools, or frameworks. The focus is more on the release process rather than exploring techniques or best practices, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -175,16 +181,19 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an upgrade and release of code related to a managed service factory, which could be seen as an update in technology. However, it lacks a broader context of industry news or reviews, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions an upgrade and release of code related to a managed service factory, which could be seen as a news update. However, it lacks a detailed discussion on Agile or DevOps practices, and does not provide a review or analysis of tools or methodologies. The focus is more on the technical aspects of the code rather than industry trends or evaluations, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T15:18:48",
+    "calculated_at": "2025-03-15T07:40:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -192,7 +201,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the release of code and the internal documentation process, which are related to product delivery. However, it lacks a detailed discussion on methodologies, practices, or strategies that are central to the category. The focus is more on the specific code release rather than the broader aspects of delivering a software product effectively.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -376,7 +385,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:15:55",
+    "calculated_at": "2025-03-15T07:40:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -384,7 +393,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions an upgrade and installation process, which relates to system configuration. However, it lacks detailed discussion on best practices, optimisation strategies, or troubleshooting, making it a secondary focus rather than a primary exploration of system configuration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -586,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code upgrading and internal documentation related to a specific managed service factory, indicating a focus on software development practices, but it's more about an individual project than overarching software development methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content mentions upgrading and releasing code, which aligns with software development practices. However, it lacks detailed discussion on methodologies or best practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -865,7 +877,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T10:50:45",
+    "calculated_at": "2025-03-15T07:40:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -873,7 +885,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions a release of code but lacks a detailed discussion on the principles of frequent releases, continuous delivery, or related strategies. It does not explore the implications of the release on user satisfaction or market responsiveness, which are key aspects of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -958,7 +970,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T19:03:04",
+    "calculated_at": "2025-03-15T07:40:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -966,7 +978,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions an upgrade and release of code related to a managed service factory, which touches on software development but lacks a detailed discussion on best practices, principles, or methodologies that define technical mastery. The focus is more on the release process rather than on craftsmanship or engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1195,7 +1207,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T17:08:22",
+    "calculated_at": "2025-03-15T07:40:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1203,7 +1215,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions an upgrade and release of code, which indicates a focus on working software. However, it lacks detailed discussion on how this software meets user needs or aligns with Agile principles. The mention of internal documentation and installation does not provide enough depth on quality assurance or customer feedback mechanisms.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",

@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:44:13",
+    "calculated_at": "2025-03-15T07:22:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS) and SQL Server, which are tools often used in DevOps environments. However, it primarily focuses on a specific technical issue (collation mismatch) rather than broader DevOps principles or practices. While there are mentions of TFS, the discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -289,7 +289,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T18:13:53",
+    "calculated_at": "2025-03-15T07:22:27",
     "ai_confidence": 42.0,
     "ai_mentions": 60.0,
     "ai_alignment": 30.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on a specific technical problem regarding SQL collation during an upgrade, lacking broader discussions on Azure DevOps functionalities or best practices. While TFS is mentioned, the content does not explore the core themes of Azure DevOps in depth, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -355,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:22:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS), which is a tool used in Application Lifecycle Management. However, the primary focus is on a specific technical issue rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS), which is a tool used in the application lifecycle management context. However, it primarily focuses on a specific technical issue (collation mismatch) rather than the broader methodologies or practices of ALM. While it does mention ALM and touches on aspects of deployment and maintenance, the depth of discussion is limited to troubleshooting a specific error, lacking comprehensive coverage of the application lifecycle stages or best practices.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:22:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading software and resolving technical conflicts between SQL collations, which aligns with technical challenges in software development. However, it primarily focuses on troubleshooting rather than best practices or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a technical issue related to upgrading TFS and SQL collation, which touches on aspects of software craftsmanship and technical problem-solving. However, it lacks a broader discussion on best practices, principles, or methodologies that would typically characterise a deeper exploration of technical mastery. The focus is primarily on a specific error and its resolution rather than on overarching engineering practices.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -628,12 +634,12 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:24",
+    "calculated_at": "2025-03-15T07:22:27",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses issues related to upgrading Team Foundation Server (TFS), which is a source control system. However, it primarily focuses on installation errors and SQL collation conflicts rather than broader themes of modern source control practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -790,7 +796,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T15:12:17",
+    "calculated_at": "2025-03-15T07:22:27",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 30,
@@ -798,7 +804,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a practical problem encountered during the upgrade of TFS, highlighting a specific error related to SQL collation. While it does not explicitly mention Agile, Scrum, or DevOps frameworks, it demonstrates pragmatic thinking through the real-world application of problem-solving techniques. The author suggests a practical solution to the issue, which aligns with the core themes of adaptability and experience-based decision-making. However, the discussion lacks depth in exploring broader implications or strategies within Agile or DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1225,7 +1231,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T12:08:38",
+    "calculated_at": "2025-03-15T07:22:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1239,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a technical issue related to upgrading Team Foundation Server (TFS) and SQL collation conflicts, which is relevant to software developers. However, it lacks explicit discussion of Agile or DevOps methodologies, and the focus is primarily on a specific technical problem rather than broader practices or principles that enhance productivity or collaboration in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

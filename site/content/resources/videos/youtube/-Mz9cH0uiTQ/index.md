@@ -24,9 +24,9 @@ preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
 tags:
+- Pragmatic Thinking
 - People and Process
 - Value Delivery
-- Pragmatic Thinking
 - Agile Philosophy
 sitemap:
   filename: sitemap.xml

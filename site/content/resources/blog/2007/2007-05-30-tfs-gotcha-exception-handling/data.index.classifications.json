@@ -220,7 +220,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T17:09:51",
+    "calculated_at": "2025-03-15T07:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 15,
@@ -228,7 +228,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses exception handling in the context of Team Foundation Server and Windows Communication Foundation, which relates to code quality and complexity. However, it primarily focuses on a specific technical issue rather than exploring broader themes of software complexity or best practices in coding. The mention of creating a custom exception indicates some understanding of code maintainability, but the overall depth and alignment with the category's core themes are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -406,12 +406,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:48",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses exceptions related to Team Foundation Server, which is part of the Azure DevOps suite, but primarily focuses on exception handling rather than Azure Repos functionalities.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses exceptions related to Team Foundation Server (TFS), which is a component of Azure DevOps, but it does not focus on Azure Repos specifically. While TFS is mentioned, the discussion is primarily about exception handling rather than source control management, branching strategies, or collaboration features that are central to Azure Repos. Therefore, the content has some relevance but lacks a direct focus on the key themes of Azure Repos.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -577,7 +580,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:52:33",
+    "calculated_at": "2025-03-15T07:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -585,7 +588,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses exception handling in the context of Team Foundation Server (TFS) and Windows Communication Foundation (WCF). While it is relevant to software developers, it does not explicitly address Agile or DevOps methodologies, nor does it explore best practices or collaborative aspects of software development. The focus is more on a specific technical issue rather than the broader themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1099,12 +1102,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses exception handling in the context of Team Foundation Server and Windows Communication Foundation, indicating relevance to the Windows operating system, but it is primarily focused on exception handling and not a broad coverage of Windows itself.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses exception handling in relation to Team Foundation Server (TFS) and its integration with Windows Communication Foundation (WCF), which are both relevant to the Windows environment. However, the primary focus is on coding practices rather than broader Windows OS topics such as installation, configuration, or troubleshooting. While there are direct mentions of Windows and some alignment with the category's themes, the depth of discussion is more technical and specific to a particular scenario rather than a comprehensive exploration of Windows as a whole.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1255,7 +1261,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:24:19",
+    "calculated_at": "2025-03-15T07:46:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1263,7 +1269,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses exception handling in the context of Team Foundation Server, which touches on coding practices but lacks a broader focus on engineering excellence principles. While it mentions a specific technical issue and provides a code example, it does not delve into best practices, quality assurance, or continuous improvement, which are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

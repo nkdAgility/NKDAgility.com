@@ -2,7 +2,7 @@
 title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
 description: Discover how to enhance continuous delivery in complex environments with audience-based strategies, testing in production, and a commitment to improvement.
 date: 2025-01-23T06:30:03Z
-weight: 400
+weight: 325
 ResourceId: 5J8RLcOAE3E
 ResourceType: videos
 ResourceImport: true

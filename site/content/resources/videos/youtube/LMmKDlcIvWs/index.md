@@ -31,6 +31,7 @@ tags:
 - Operational Practices
 - Lean Principles
 - Strategy
+- Agile Project Management
 - Metrics and Learning
 - Practical Techniques and Tooling
 - Continuous Learning

@@ -26,13 +26,16 @@ preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: true
 tags:
+- Agile Project Management
+- Scrum Values
 - Scrum Team
+- Professional Scrum
 - Scrum Product Development
 - Agile Frameworks
-- Professional Scrum
-- Scrum Master
-- Agile Project Management
 - Software Development
+- Coaching
+- Agile Transformation
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -277,11 +277,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Agile practices, particularly Scrum, making it a significant but secondary theme. While it touches on Agile principles, the primary focus is on quality measures rather than a comprehensive exploration of Agile frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Agile practices, particularly within Scrum. It provides insights into quality assurance and the relationship between DoD and acceptance criteria, which are relevant to Agile frameworks. However, while it touches on Agile principles, it does not explore a variety of frameworks or provide a comparative analysis, limiting its depth and breadth in relation to the category.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -331,12 +334,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and its implications for quality and transparency in Agile development, which aligns with engineering practices. However, it primarily focuses on the relationship between DoD and acceptance criteria rather than core engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in detail, highlighting its importance in maintaining quality and transparency in Agile development. It directly addresses the implications of acceptance criteria on the DoD, which relates to clean code and quality assurance practices. However, while it touches on key engineering practices, it primarily focuses on the DoD rather than broader engineering methodologies like TDD or CI/CD, which slightly limits its alignment with the category. The depth of discussion is substantial, but it does not cover a wide range of engineering practices, hence the score reflects a strong but not complete alignment.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -391,12 +397,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency, which are relevant to Agile principles, but it primarily focuses on specific practices rather than the core values and principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are specific practices rather than core Agile values or principles. While it touches on themes of transparency and adaptability, which are relevant to Agile principles, the focus remains on procedural aspects rather than a deep exploration of Agile's foundational beliefs. Therefore, while there is some alignment with Agile values, it does not meet the criteria for a primary focus on Agile Values and Principles.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -622,12 +631,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and value delivery, which are relevant to Agile principles. However, the primary focus is on technical practices rather than strategic alignment or broader Agile strategy discussions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, focusing on quality assurance rather than strategic alignment or broader Agile methodologies. While it touches on aspects of transparency and adaptability, which are relevant to Agile principles, it lacks a comprehensive discussion on Agile strategy, such as organisational vision alignment or implementation at scale. The depth of discussion is more technical than strategic, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -676,12 +688,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for team flexibility and quality standards, which are relevant to team performance in an Agile context. However, the primary focus is on the nuances of quality measures rather than broader team dynamics or collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications for quality and transparency in Agile practices. While it touches on aspects of team dynamics, such as flexibility and adaptability in the context of Sprints, it does not explicitly focus on broader team performance strategies or methodologies. The discussion lacks depth in terms of team collaboration, metrics, or leadership roles, which are crucial for the 'Team Performance' category. Therefore, while there are relevant elements, they are not the primary focus of the content.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -730,11 +745,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done and its relationship with acceptance criteria, which are relevant to Agile practices. However, the primary focus is on quality assurance rather than a broader discussion on Agile transformation strategies or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are relevant to Agile practices. However, while it touches on Agile principles, it does not explicitly focus on broader Agile transformation strategies or methodologies. The discussion is somewhat detailed but primarily centres on quality assurance rather than the overall transformation process, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -775,20 +793,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T18:09:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:01:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the Definition of Done within the context of Scrum, focusing on quality standards and their implications for product development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in detail, which is a crucial aspect of Scrum product development. It highlights the importance of quality and transparency in the context of Scrum practices. However, while it touches on Scrum principles, it does not explicitly mention key roles or processes like Sprint planning or the Product Backlog management, which limits its alignment with the broader category. The depth of discussion is moderate, focusing primarily on the DoD rather than a comprehensive exploration of Scrum methodologies.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and its implications for quality and transparency in Agile practices, which relates to operational efficiency. However, the primary focus is on the nuances of DoD and acceptance criteria rather than broader operational practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its implications for quality and transparency in Agile practices, which aligns with operational efficiency. It provides a detailed examination of how the DoD can be optimised to ensure quality without compromising flexibility, reflecting process optimisation techniques. However, while it touches on operational practices, it primarily focuses on the nuances of the DoD rather than broader operational strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -865,11 +889,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done and its relationship with acceptance criteria, which are relevant to Agile Planning. However, the primary focus is on quality assurance rather than broader Agile Planning methodologies or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are relevant to Agile Planning. However, it primarily focuses on quality assurance rather than the broader principles and practices of Agile Planning. While it touches on transparency and adaptability, it lacks a comprehensive exploration of Agile methodologies, techniques, or tools that would strengthen its alignment with the category.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -928,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and its implications for quality and transparency in software development, which relates to technical practices. However, the primary focus is on Scrum roles and processes rather than core technical mastery principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in detail, focusing on quality standards and transparency in software delivery, which aligns with the principles of software craftsmanship. However, it primarily revolves around Scrum practices and does not delve deeply into broader technical mastery topics such as code quality, testing, or architectural principles. While it mentions the importance of quality and standards, it lacks comprehensive exploration of methodologies or tools that enhance software engineering excellence.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -964,12 +994,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency in Agile practices, which relates to Agile principles, but primarily focuses on specific practices rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are specific practices within Agile frameworks. While it touches on themes of quality, transparency, and adaptability, it does not explicitly engage with the broader Agile Philosophy or its foundational principles. The discussion is more focused on technical aspects rather than the underlying mindset or ethos of Agile, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -991,12 +1024,15 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between the Definition of Done and acceptance criteria, which are relevant to ATDD, but the primary focus is on the DoD rather than ATDD itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses acceptance criteria in relation to the Definition of Done, which is relevant to ATDD. However, it primarily focuses on the implications of merging acceptance criteria with the Definition of Done rather than on ATDD principles or collaborative practices. The discussion lacks depth in exploring ATDD as a whole, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -1171,12 +1207,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency in Agile practices, which relates to practical techniques. However, it primarily focuses on the philosophical aspects rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are relevant to Agile practices. However, it primarily focuses on the philosophical implications and nuances rather than providing practical techniques or tooling. While it touches on the importance of quality standards and transparency, it lacks specific discussions on tools or methodologies that enhance Agile practices, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1225,12 +1264,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done and its implications in Agile practices, which aligns with the category's focus on Agile methodologies. However, it primarily centres on the concept rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications in Agile practices, which aligns with the category's focus on Agile methodologies. However, it lacks direct references to specific products or books, and while it provides a detailed analysis of the DoD, it does not delve into literature or tools that enhance Agile understanding. The mention of NKDAgility's services hints at a product offering but does not constitute a thorough discussion of a product or book.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1264,21 +1306,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and its implications for quality and transparency in software development, which relates to engineering practices. However, the primary focus is on the nuances of DoD and acceptance criteria rather than broader technical excellence methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its importance in maintaining quality and transparency in software development. It touches on the risks associated with merging acceptance criteria into the DoD, which aligns with the principles of ensuring code quality and reliability. However, while it does mention quality measures and standards, the focus is more on the philosophical implications rather than detailed engineering practices or methodologies like TDD or CI/CD. The depth of discussion is moderate, providing insights but lacking extensive technical detail, which affects the overall confidence score.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and flexibility in Agile practices, which are relevant to organisational agility, but the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, focusing on quality assurance rather than broader organisational agility. While it touches on aspects of flexibility and transparency, it does not explicitly address the core themes of organisational agility such as leadership, cross-functional teams, or continuous improvement. The discussion is more centred on project management practices within an agile framework, which limits its relevance to the category of Organisational Agility.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1291,12 +1339,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for team dynamics and flexibility in Agile processes, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its implications for quality and transparency in Agile processes, which relates to team dynamics and collaboration. However, it primarily focuses on technical aspects of the DoD rather than the human factors or team interactions involved in Agile methodologies. While there are mentions of team flexibility and adaptability, the depth of discussion on human behaviour and structured methodologies is limited.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1381,12 +1432,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:03:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and value delivery, which are relevant to the Agile Product Operating Model, but the primary focus is on the nuances of quality standards rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, focusing on quality assurance rather than the broader Agile Product Operating Model. While it touches on Agile principles, it lacks a direct discussion on product-centric development, value delivery strategies, or the role of cross-functional teams, which are core themes of the Agile Product Operating Model. The depth of discussion is limited to quality measures and does not explore the holistic approach to product development as outlined in the category definition.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

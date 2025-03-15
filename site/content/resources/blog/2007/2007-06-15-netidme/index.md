@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/netidme
 - /netidme
 - /resources/blog/netidme
-tags:
-- Windows
+tags: []
 preview: metro-sharepoint-128-link-1-1.png
 categories: []
 

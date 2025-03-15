@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/visual-studio-2008-beta-2-team-explorer
 - /visual-studio-2008-beta-2-team-explorer
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
-tags:
-- Install and Configuration
-- Products and Books
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

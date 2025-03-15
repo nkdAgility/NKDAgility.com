@@ -35,10 +35,10 @@ tags:
 - Product Discovery
 - Product Validation
 - Lean Startup
+- Ability to Innovate
 - Metrics and Learning
 - Continuous Learning
 - Products and Books
-- Decision Making
 resourceTypes:
 - video
 categories:

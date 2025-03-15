@@ -28,7 +28,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T13:27:30",
+    "calculated_at": "2025-03-15T07:51:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -36,7 +36,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the challenges developers face with a check-in policy, hinting at human factors affecting productivity. However, it lacks a comprehensive discussion on team dynamics, leadership, or structured methodologies. The focus is more on a technical solution rather than the interplay between people and processes, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -67,7 +67,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-08T13:15:52",
+    "calculated_at": "2025-03-15T07:51:45",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -75,7 +75,7 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content briefly mentions a check-in policy related to Team Foundation Server (TFS) but does not explicitly discuss Scrum principles, roles, events, or any of the key topics associated with Scrum. The focus is more on a specific tool and its potential issues rather than on Scrum as a framework for project management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -106,7 +106,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T15:22:38",
+    "calculated_at": "2025-03-15T07:51:45",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -114,7 +114,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content mentions Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it does not explicitly discuss Azure DevOps itself. The focus is more on a specific check-in policy and potential issues related to it, rather than on broader Azure DevOps functionalities or best practices. While there is some conceptual alignment with collaboration and workflow challenges, the depth of discussion is limited and lacks detailed insights into Azure DevOps services.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -238,7 +238,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T10:54:17",
+    "calculated_at": "2025-03-15T07:51:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -246,7 +246,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions a check-in policy related to Team Foundation Server (TFS), which is a tool used in the context of Application Lifecycle Management. However, the discussion primarily focuses on potential issues with the policy and suggests a solution without delving into the broader aspects of ALM such as lifecycle stages, governance, or metrics. The mention of ALM tags indicates some relevance, but the overall depth and focus on the category are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -406,12 +406,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T11:46:47",
+    "calculated_at": "2025-03-15T07:51:45",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content mentions TFS (Team Foundation Server), which is related to Azure Repos, but primarily discusses check-in policies and possible solutions without a strong central focus on Azure Repos' functionalities or best practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -550,11 +550,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:46:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:51:52",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a check-in policy related to Team Foundation Server (TFS), which pertains to collaborative development practices. However, it does not delve into detailed software development methodologies or best practices.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses a check-in policy related to Team Foundation Server (TFS), which is a tool used in software development for version control and project management. While it touches on issues developers may face, such as interruptions and task management, it lacks a detailed exploration of software development methodologies or best practices. The mention of a potential solution indicates some alignment with software development practices, but the overall depth and focus on specific methodologies are limited.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -694,11 +697,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T11:46:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:51:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses potential problems with a check-in policy in TFS and suggests a solution involving an external application, indicating a focus on addressing specific issues. However, the main topic is more about policy and tools rather than direct troubleshooting techniques.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions potential problems with a check-in policy and suggests a possible solution, indicating some level of troubleshooting. However, it lacks detailed discussion on diagnosing or resolving technical issues, focusing more on a general observation rather than systematic problem-solving techniques.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -955,7 +961,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T15:22:01",
+    "calculated_at": "2025-03-15T07:51:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -963,7 +969,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions a check-in policy related to Team Foundation Server (TFS), which is relevant to software development practices. However, it lacks a direct focus on Agile or DevOps methodologies and does not explore best practices or principles in depth. The discussion is more about a specific tool and its potential issues rather than the broader role of software developers within Agile or DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1111,12 +1117,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T11:46:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T07:51:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical challenges faced by developers regarding a check-in policy and suggests a potential solution involving an external application. This reflects practical problem-solving within the Agile context, even though it is not solely focused on Agile principles.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content briefly discusses a check-in policy related to TFS and raises practical concerns about interruptions and task management. While it hints at pragmatic problem-solving by suggesting an external application to improve the process, the overall focus is more on identifying issues rather than providing in-depth strategies or real-world applications of Agile or DevOps principles. The discussion lacks substantial detail and does not fully align with the core themes of pragmatic thinking.",
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1264,12 +1273,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T11:46:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:51:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a check-in policy in the context of Team Foundation Server (TFS), which could relate to operational practices in managing workflows. However, the primary focus seems to be on identifying issues and proposing a solution rather than a direct application of operational methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a check-in policy related to TFS and raises concerns about interruptions and task management, which are relevant to operational practices. However, it lacks a detailed discussion on techniques or strategies for improving operational efficiency, making it more of a general inquiry rather than a focused exploration of operational practices.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1282,7 +1294,7 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-11T17:11:15",
+    "calculated_at": "2025-03-15T07:51:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1290,7 +1302,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions a potential solution to improve a check-in policy, which hints at innovation. However, it lacks a comprehensive discussion on the Ability to Innovate, Evidence-Based Management, or frameworks for measuring innovation. The focus is more on a specific tool rather than broader innovative practices or strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

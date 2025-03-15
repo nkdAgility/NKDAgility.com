@@ -5,7 +5,7 @@ ResourceId: _ncZFfeCrnS
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-13T09:00:00
-weight: 265
+weight: 320
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -24,16 +24,16 @@ aliasesArchive:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Deployment Strategies
 - Software Development
+- Value Delivery
+- Working Software
+- Deployment Strategies
 - Azure DevOps
 - Continuous Delivery
 - Product Delivery
-- Value Delivery
-- Deployment Frequency
+- Organisational Agility
+- Technical Mastery
 - Frequent Releases
-- Operational Practices
-- Practical Techniques and Tooling
 categories:
 - DevOps
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg

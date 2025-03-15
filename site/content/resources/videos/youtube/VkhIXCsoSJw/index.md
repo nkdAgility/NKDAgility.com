@@ -31,10 +31,10 @@ tags:
 - Software Developers
 - Software Development
 - Technical Excellence
+- Engineering Practices
 - Product Delivery
 - Automated Testing
 - Deployment Frequency
-- Pragmatic Thinking
 resourceTypes:
 - video
 sitemap:

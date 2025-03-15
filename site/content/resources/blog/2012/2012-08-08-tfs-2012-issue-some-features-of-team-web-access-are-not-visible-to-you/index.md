@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Troubleshooting
-- System Configuration
 categories: []
 preview: metro-problem-icon-5-5.png
 

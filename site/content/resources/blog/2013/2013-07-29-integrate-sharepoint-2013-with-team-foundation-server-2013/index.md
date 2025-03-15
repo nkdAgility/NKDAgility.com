@@ -24,6 +24,8 @@ aliasesArchive:
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
 tags:
 - Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
 categories: []
 
 ---

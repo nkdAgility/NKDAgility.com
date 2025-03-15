@@ -196,7 +196,7 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-13T16:21:04",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -204,7 +204,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the migration process to Azure DevOps, which is related but does not focus specifically on Azure Repos or its functionalities. While it touches on the complexities of migration and the need for expertise, it lacks direct mentions of Azure Repos features such as source control management, branching strategies, or pull requests. The discussion is more about the overall Azure DevOps environment rather than the specific aspects of Azure Repos.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -346,7 +346,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:42:41",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -354,7 +354,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the complexities and challenges of migrating to Azure DevOps, touching on the need for expertise and training, which aligns with the principles of software craftsmanship. However, it primarily focuses on migration processes rather than broader engineering excellence practices such as coding standards or CI/CD. The depth of discussion on specific migration issues provides some insight into engineering practices, but it lacks a comprehensive exploration of the key topics outlined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -526,7 +526,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T17:20:04",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -534,7 +534,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Azure DevOps migration, which is not a direct focus on the Windows operating system. While it mentions Microsoft databases and tools, it does not delve into Windows-specific installation, configuration, or troubleshooting. The references to Microsoft are too general and do not align closely with the core themes of the Windows category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1024,7 +1024,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-10T13:54:02",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1032,7 +1032,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the need for skills and expertise in the context of Azure DevOps migration, which touches on the importance of training and knowledge sharing. However, it primarily focuses on the technical aspects of migration rather than a broader discussion on continuous learning principles. While there are mentions of training and support, the overall emphasis is more on the technical execution rather than fostering a growth mindset or creating a culture of continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -1279,7 +1279,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T17:50:28",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1287,7 +1287,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the complexities and challenges of migrating to Azure DevOps, touching on the need for technical expertise and the importance of understanding commands and tools involved in the migration process. However, while it mentions aspects of technical excellence, such as the need for deep knowledge and the flexibility of tools, it primarily focuses on the migration process rather than broader engineering practices or methodologies that enhance agility in software development. The discussion lacks a direct focus on key topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1450,7 +1450,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:48",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1458,6 +1458,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Azure DevOps migration and does not mention Scrum principles, roles, events, or artifacts. While it discusses project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also minimal regarding Scrum, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

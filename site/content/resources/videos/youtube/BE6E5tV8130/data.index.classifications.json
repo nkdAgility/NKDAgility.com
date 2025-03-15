@@ -58,20 +58,26 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile methodologies and the role of teams in decision-making, which relates to coaching principles, but the primary focus is on comparing agile and waterfall project management rather than on coaching practices specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, with a focus on decision-making and team dynamics. While it touches on the importance of collaboration and the role of teams, it lacks a direct focus on coaching practices, techniques, or the supportive nature of coaching. The mention of agile coaching is minimal and does not delve into the specifics of coaching methodologies or frameworks, which diminishes its relevance to the Coaching category.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile methodologies and their advantages over traditional project management, highlighting the importance of data and evidence in decision-making. However, the primary focus is on the differences between agile and waterfall approaches rather than a direct discussion on evidence-based leadership principles.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, touching on concepts like iteration, continuous improvement, and customer collaboration. While it mentions the importance of adapting based on evidence and customer feedback, it does not explicitly focus on evidence-based leadership principles or provide detailed discussions on metrics, KPIs, or case studies related to leadership effectiveness. The primary focus remains on project management methodologies rather than leadership practices informed by empirical evidence.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -127,12 +133,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile product development and its contrast with traditional waterfall project management, highlighting themes of business agility and the need for organisations to adapt to customer needs. However, it primarily focuses on project management methodologies rather than a strategic adoption of digital technologies for broader business transformation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile product development in contrast to traditional waterfall project management, touching on themes of business agility and the need for organisations to adapt to modern methodologies. However, it lacks a direct focus on the strategic adoption of digital technologies for transformation, which is central to the Digital Transformation category. While it mentions concepts like customer collaboration and iterative processes, it does not delve deeply into how these practices specifically enhance operational efficiency or foster innovation through digital tools.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -148,20 +157,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T09:02:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:34:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, focusing on decision-making processes, the decentralisation of decision-making, and the importance of evidence-based practices in agile environments.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses decision-making processes extensively, particularly in the context of agile versus traditional project management. It highlights the decentralisation of decision-making in agile environments, emphasising the importance of expert teams making informed choices based on customer collaboration and evidence. The depth of discussion on how agile methodologies allow for iterative decision-making and prioritisation based on feedback aligns well with the core themes of structured decision-making. However, while decision-making is a significant focus, the content also delves into broader project management concepts, which slightly detracts from a purely decision-making focus.",
     "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principles of Agile methodologies and contrasts them with traditional project management, highlighting aspects of decentralisation and team autonomy, which are relevant to self-organisation. However, the primary focus is on the differences between Agile and waterfall methodologies rather than self-organisation itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the differences between agile and traditional project management, highlighting the importance of decentralised decision-making and team autonomy, which are key aspects of self-organisation. However, while it touches on these principles, the primary focus is on contrasting agile with waterfall methodologies rather than deeply exploring self-organisation itself. The depth of discussion on self-organisation principles is moderate, as it does not provide extensive techniques or case studies specifically related to self-organising teams.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -175,20 +190,26 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile product development principles, which align with Lean principles such as minimising waste and maximising learning. However, the primary focus is on contrasting agile and waterfall methodologies rather than explicitly addressing Lean Product Development practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the differences between agile product development and waterfall project management, with a focus on agile principles rather than Lean Product Development specifically. While it touches on concepts like iteration, customer collaboration, and value delivery, it does not explicitly mention Lean principles or techniques for waste reduction. The discussion lacks depth in Lean-specific strategies and tools, leading to a lower confidence score in alignment with the Lean Product Development category.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the differences between agile and waterfall project management, touching on themes of leadership, decision-making, and team dynamics, which are relevant to organisational culture. However, the primary focus is on project management methodologies rather than a deep exploration of organisational culture itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the differences between agile and waterfall project management, highlighting the cultural implications of traditional management styles versus agile methodologies. It touches on leadership roles, decision-making decentralisation, and the importance of collaboration, which are all relevant to organisational culture. However, while it mentions cultural aspects, the primary focus remains on project management methodologies rather than a deep exploration of organisational culture itself.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
@@ -265,20 +286,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile product development and its advantages over traditional waterfall project management, highlighting aspects of iteration, continuous improvement, and customer collaboration, which are relevant to innovation. However, the primary focus is on comparing methodologies rather than directly measuring or enhancing the ability to innovate.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses agile product development in contrast to waterfall project management, touching on themes of iteration, continuous improvement, and customer collaboration, which are relevant to innovation. However, it primarily focuses on project management methodologies rather than explicitly measuring or enhancing the ability to innovate. The discussion lacks depth in terms of frameworks or metrics for A2I, and while it mentions evidence-based practices, it does not delve into them sufficiently to align closely with the category.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T09:03:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the differences between agile product development and waterfall project management, focusing on agile principles, iterative processes, and the importance of customer collaboration, which aligns closely with the themes of Agile frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed comparison between agile product development and waterfall project management, discussing key agile principles such as iteration, continuous improvement, and customer collaboration. It aligns well with the core themes of Agile frameworks, particularly in its emphasis on decentralisation and value creation. However, while it mentions agile concepts extensively, it does not delve deeply into specific Agile frameworks like Scrum or Kanban, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -301,12 +328,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile product development and its benefits, including customer collaboration and value creation, which are relevant to customer satisfaction. However, the primary focus is on comparing agile and waterfall methodologies rather than directly addressing customer satisfaction principles and practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses agile product development and its advantages over traditional waterfall project management, highlighting the importance of customer collaboration and feedback. While it does touch on customer satisfaction principles, such as delivering value and adapting to customer needs, the primary focus is on the differences between agile and waterfall methodologies rather than a dedicated exploration of customer satisfaction strategies or metrics.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -346,11 +376,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T09:03:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile and Waterfall methodologies, their differences, and implications for software development practices, making it a clear focus on software development processes.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the differences between agile product development and waterfall project management, which are core topics within the Software Development category. It provides a detailed analysis of methodologies, including the principles of agile and the implications of traditional project management practices. The depth of discussion on iterative cycles, customer collaboration, and the importance of adapting to feedback aligns well with best practices in software development. The content is focused on software engineering practices, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -382,11 +415,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T09:03:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the differences between Agile and traditional waterfall project management, focusing on Agile values such as customer collaboration, iterative development, and decentralised decision-making. It highlights the importance of Agile principles in fostering flexibility and responsiveness, making it a central theme of the discussion.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the differences between Agile and traditional waterfall project management, highlighting key Agile values such as customer collaboration, iterative development, and decentralised decision-making. It directly references the Agile Manifesto and its principles, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, providing detailed insights into how Agile fosters flexibility and responsiveness, which are central to Agile values. However, while the content is rich in Agile principles, it also includes some historical context and comparisons that slightly detract from a pure focus on Agile values alone.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -436,11 +472,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-12T09:03:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, emphasising the principles of inspection and adaptation inherent in agile methodologies, which are central to empirical process control.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the differences between Agile and waterfall project management, highlighting the importance of inspection and adaptation in Agile methodologies. It mentions iterative cycles and the value of customer collaboration, which aligns with empirical process control principles. However, the primary focus is on contrasting Agile with traditional methods rather than a deep exploration of empirical process control itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -472,11 +511,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T09:04:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:04:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the differences between agile product development and waterfall project management, focusing on agile methodologies and their implications for teams, which is relevant to software developers. However, it also delves into broader management concepts and historical context, making it a secondary theme rather than the primary focus.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, which indirectly relates to software developers by highlighting agile methodologies. However, it lacks direct mentions of software developers' roles and responsibilities within Agile or DevOps contexts. While it touches on concepts like iteration, continuous improvement, and customer collaboration, it does not delve deeply into best practices or tools specifically for developers. The discussion is more focused on project management principles rather than the specific practices and experiences of software developers.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -490,12 +532,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T09:04:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:04:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses agile product development, which includes principles of frequent releases and iterative cycles. However, the primary focus is on contrasting agile with waterfall project management rather than on frequent releases themselves.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, highlighting the iterative nature of agile and the importance of frequent delivery of working features. While it does not explicitly focus on frequent releases as a primary topic, it aligns with the principles of continuous delivery and incremental improvements. The depth of discussion on agile practices and customer collaboration supports the category, but the primary focus remains on the differences between agile and waterfall methodologies.",
+    "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -517,11 +562,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T09:04:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, with a significant focus on the concept of incremental delivery in agile, which aligns closely with the Increment category.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the concept of Increment in Agile product development, particularly in the context of delivering working features at the end of each sprint. It highlights the iterative nature of Agile, the importance of customer collaboration, and the value of delivering increments of work that can be used immediately. While the primary focus is on contrasting Agile with waterfall project management, the content provides substantial insights into the Increment's role in delivering value, aligning with customer needs, and ensuring quality through iterative cycles.",
     "level": "Secondary"
   },
   "Windows": {
@@ -562,29 +610,38 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T09:04:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical differences between agile product development and waterfall project management, emphasising real-world applications of Agile principles, iterative processes, and customer collaboration, which align closely with pragmatic thinking in complex environments.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed comparison between agile product development and waterfall project management, highlighting practical problem-solving strategies and real-world applications of Agile principles. It discusses the importance of adaptability, customer collaboration, and iterative processes, which are core themes of pragmatic thinking. The depth of discussion is significant, with multiple examples illustrating how agile methodologies can effectively navigate complexity and uncertainty in project management. However, while the content is rich in practical insights, it also includes some theoretical underpinnings, which slightly detracts from its alignment with the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile product development and its iterative nature, which implies a focus on frequent delivery and adaptation. However, it primarily contrasts agile with waterfall project management rather than focusing specifically on deployment frequency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, touching on iterative cycles and customer collaboration. However, it does not explicitly focus on deployment frequency or strategies to optimise deployment intervals. While there are mentions of delivering features in sprints and the importance of customer feedback, the primary focus remains on the differences between agile and waterfall methodologies rather than on deployment frequency itself.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T09:04:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the differences between agile and waterfall project management, focusing on agile principles, iterative development, customer collaboration, and the roles of teams in agile environments.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the differences between agile and traditional waterfall project management, highlighting key agile principles such as iterative development, customer collaboration, and decentralised decision-making. It provides a detailed exploration of how agile methodologies can enhance project delivery and adapt to changing requirements, aligning well with the core themes of Agile Project Management. The depth of discussion is significant, covering various aspects of agile practices and their advantages over traditional methods.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -598,11 +655,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T09:04:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the differences between Agile and traditional waterfall project management, focusing on Agile principles, customer collaboration, and the importance of adaptability and value delivery, which are central to Agile strategy.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily contrasts Agile product development with traditional waterfall project management, discussing key Agile principles such as iterative cycles, customer collaboration, and decentralised decision-making. While it does not explicitly focus on Agile strategy as a standalone topic, it aligns well with the core themes of adaptability, continuous value delivery, and the integration of Agile practices into organisational processes. However, the depth of strategic discussion is somewhat limited, focusing more on operational differences rather than a comprehensive Agile strategy framework.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -634,12 +694,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the differences between agile and waterfall project management, touching on themes of decision-making, adaptability, and the importance of understanding complex environments. However, the primary focus is on project management methodologies rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, focusing on the operational aspects rather than the principles of sensemaking. While it touches on themes of adaptability and decision-making in complex environments, it lacks a direct exploration of sensemaking frameworks or techniques. The discussion is more about project management methodologies than about interpreting complexity or fostering a culture of sensemaking within teams.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -706,11 +769,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T09:04:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the differences between agile product development and traditional waterfall project management, highlighting key Agile principles, iterative processes, and the importance of customer collaboration, which are central to Agile transformation.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the differences between Agile and traditional waterfall project management, highlighting Agile principles such as iterative development, customer collaboration, and decentralised decision-making. It aligns well with the core themes of Agile transformation, including the need for cultural shifts and leadership roles in fostering Agile practices. The depth of discussion is significant, providing insights into how Agile methodologies can enhance organisational agility, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -733,11 +799,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the differences between agile product development and waterfall project management, touching on themes of organisational structure, decision-making, and the need for agility in response to market demands. However, it primarily focuses on project management methodologies rather than a comprehensive discussion on organisational change strategies or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the differences between agile product development and waterfall project management, highlighting the need for organisational change towards agility. It mentions the shift from traditional management practices to agile methodologies, which aligns with the principles of organisational change. However, the primary focus is on project management techniques rather than a comprehensive exploration of organisational change strategies, which slightly limits the depth of discussion. Overall, while it touches on relevant themes, it does not fully delve into the frameworks or methodologies of organisational change, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -760,21 +829,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, touching on themes of iterative processes, customer collaboration, and decision-making decentralisation, which are relevant to operational practices. However, the primary focus is on the differences between methodologies rather than specific operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall methodologies, focusing on the theoretical aspects of project management rather than practical operational practices. While it touches on concepts like iteration, continuous improvement, and customer collaboration, it lacks specific techniques or strategies aimed at enhancing operational efficiency within Agile, DevOps, or Lean frameworks. The discussion is more about the philosophical underpinnings of agile versus traditional management rather than actionable operational practices.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile methodologies and their iterative, evidence-based approach to product development, which aligns with some principles of Evidence-Based Management. However, the primary focus is on comparing agile and waterfall project management rather than a dedicated exploration of EBM principles.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses agile product development in contrast to waterfall project management, highlighting the importance of iterative processes and customer collaboration. While it touches on concepts related to evidence-based decision-making, such as using data and customer feedback to adapt and improve, it does not explicitly focus on Evidence-Based Management principles or practices. The discussion is more centred on agile methodologies rather than a comprehensive exploration of EBM, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -823,12 +898,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile methodologies and contrasts them with traditional project management, touching on aspects of leadership and team dynamics, but it primarily focuses on the differences between agile and waterfall approaches rather than on technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall methodologies, with a focus on the principles of agile. While it touches on aspects of technical leadership, such as decentralisation of decision-making and the importance of collaboration, it lacks a direct focus on the core themes of technical leadership, such as mentoring, coaching, or specific agile practices. The discussion is more about project management methodologies rather than the nuances of leading technical teams.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -850,11 +928,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T09:05:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:04:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile principles and contrasts them with traditional waterfall project management, focusing on iterative cycles, customer collaboration, and value creation, which are relevant to Agile Planning. However, it primarily centres on the differences between Agile and waterfall methodologies rather than solely on Agile Planning practices.",
+    "final_score": 71.0,
+    "reasoning": "The content extensively discusses the differences between Agile and traditional waterfall project management, highlighting Agile principles such as iterative cycles, customer collaboration, and value creation. It aligns well with Agile Planning concepts, particularly in terms of adapting to changing requirements and optimising delivery. However, the primary focus is on contrasting methodologies rather than a deep dive into Agile Planning practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -949,11 +1030,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T09:05:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:04:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the differences between Agile and traditional waterfall project management, focusing on Agile principles such as customer collaboration, iterative development, and decentralised decision-making, which are central to the Agile Philosophy.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a comprehensive comparison between Agile and traditional waterfall project management, discussing key Agile principles such as customer collaboration, iterative development, and decentralised decision-making. It aligns well with the core themes of Agile philosophy, particularly in its emphasis on value delivery and continuous improvement. The depth of discussion is significant, covering various aspects of Agile as a mindset rather than just a set of practices, while also addressing the cultural shifts necessary for Agile adoption.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1021,12 +1105,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making processes in the context of Agile versus traditional project management, highlighting the decentralisation of decision-making and the importance of customer collaboration. However, the primary focus is on Agile methodologies rather than a comprehensive exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, focusing on methodologies rather than decision-making processes. While it touches on aspects of decision-making, such as decentralisation and collaboration, it does not delve deeply into the principles of decision theory or its application in uncertain environments. The discussion lacks explicit references to heuristics, biases, or decision-making frameworks, which are central to the category.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1051,12 +1138,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:05:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile methodologies and their adaptability compared to traditional project management, highlighting themes of continuous improvement and customer collaboration, which are relevant to resilience and change. However, the primary focus is on the differences between agile and waterfall methodologies rather than a comprehensive exploration of resilience strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile product development in contrast to waterfall project management, touching on themes of adaptability and iterative processes. However, it primarily focuses on the differences in methodologies rather than explicitly addressing organisational resilience or change management strategies. While there are mentions of adaptability and customer collaboration, the depth of discussion on resilience and change is limited, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1120,12 +1210,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile product development and its iterative processes, which include elements of experimentation and learning from customer feedback. However, the primary focus is on contrasting agile with waterfall project management rather than on discovery and learning methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, highlighting the iterative nature of agile and the importance of customer collaboration. While it touches on concepts related to discovery and learning, such as experimentation and adapting based on feedback, the primary focus is on project management methodologies rather than explicitly exploring the processes of discovery and learning. The depth of discussion on learning aspects is limited, as it primarily serves to illustrate the differences between agile and waterfall approaches.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1366,7 +1459,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:23:20",
+    "calculated_at": "2025-03-15T02:04:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1374,7 +1467,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the differences between agile and waterfall methodologies, focusing on the historical context and challenges of implementing agile practices within traditional organisational structures. While it touches on the need for decentralisation and adapting to market demands, it lacks a direct focus on leadership practices or strategies. The discussion is more about project management and organisational behaviour rather than the role of leaders in fostering agility, making it only tangentially related to the leadership category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1432,7 +1525,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:28:47",
+    "calculated_at": "2025-03-15T02:04:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1440,6 +1533,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, touching on iterative processes and the importance of adapting to customer needs. However, it lacks direct references to Scrum roles, events, or artifacts, which are central to the Scrum framework. While it aligns with some agile principles, the depth of discussion on Scrum specifically is limited, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

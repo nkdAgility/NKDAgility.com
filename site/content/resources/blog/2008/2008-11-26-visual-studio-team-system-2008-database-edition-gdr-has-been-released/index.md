@@ -30,15 +30,7 @@ tags:
 - Products and Books
 - News and Reviews
 - Software Development
-- Practical Techniques and Tooling
-- Release Management
-- Technical Excellence
-- Technical Mastery
-- Deployment Strategies
-- Install and Configuration
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 
 ---
 What a mouthful! Has there ever been any products with names as long as the Team System toolset ;), Maybe thats why it is just called [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en).

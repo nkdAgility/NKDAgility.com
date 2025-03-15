@@ -31,9 +31,6 @@ tags:
 - Install and Configuration
 - Troubleshooting
 - Windows
-- Pragmatic Thinking
-- Software Development
-- Technical Mastery
 categories: []
 
 ---

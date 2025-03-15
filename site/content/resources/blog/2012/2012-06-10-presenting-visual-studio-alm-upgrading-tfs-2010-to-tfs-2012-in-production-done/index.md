@@ -29,14 +29,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Events and Presentations
-- Working Software
 - Value Delivery
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Product Delivery
-- Pragmatic Thinking
-- People and Process
-- Products and Books
+- Working Software
+- Software Developers
 categories:
 - Engineering Excellence
 - Social Technologies

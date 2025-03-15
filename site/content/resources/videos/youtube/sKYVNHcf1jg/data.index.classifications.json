@@ -76,30 +76,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile consulting and mentions Scrum training and coaching, making Scrum a major theme, but the primary focus is on personal experiences and challenges as an agile consultant rather than an in-depth exploration of Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on agile principles and the importance of readiness and engagement, which are relevant to Scrum. However, it lacks direct references to Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific practices or theories. The discussion is more focused on personal experiences and general agile concepts rather than a thorough exploration of Professional Scrum.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and experiences of being an agile consultant, with a significant emphasis on Agile concepts like Scrum and agile coaching, making Agile frameworks a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the author's experiences as an agile consultant, highlighting themes of readiness for change and engagement, which are relevant to Agile principles. However, it lacks a direct focus on specific Agile frameworks or detailed exploration of their implementation. The mention of 'agile' and 'scrum' is present but not central to the narrative, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum in the context of consulting and coaching but does not focus primarily on Scrum product development itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses general agile principles and the importance of readiness and engagement but lacks specific references to Scrum practices, roles, or processes. While it touches on themes relevant to agile methodologies, it does not focus on Scrum product development or provide detailed insights into Scrum frameworks, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -292,20 +301,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses agile consulting and training, which is a major theme in software development but focuses more on personal experiences than on specific software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses experiences as an agile consultant, touching on key agile principles such as readiness for change and engagement. While it does mention agile and scrum, the focus is more on personal experiences and lessons learned rather than detailed methodologies or practices. The discussion lacks depth in specific software development techniques or frameworks, which affects the overall alignment with the category.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of agile consultants and touches on coaching within agile environments, but it is primarily focused on personal experiences and consultancy rather than in-depth coaching methodologies.",
+    "calculated_at": "2025-03-15T00:53:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of readiness and engagement in the context of agile consulting, which touches on coaching principles. However, it primarily focuses on the author's personal experiences and challenges rather than providing in-depth coaching techniques or frameworks. The mention of listening and engagement aligns with coaching concepts, but the overall depth and focus on coaching as a practice are limited.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -328,7 +343,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T18:19:14",
+    "calculated_at": "2025-03-15T00:53:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -336,7 +351,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges faced by an agile consultant, particularly in terms of client readiness and engagement. While it touches on the importance of communication and responsiveness, it lacks a direct focus on team dynamics, collaboration, or specific agile methodologies. The mention of recurring engagements suggests a lack of progress, which indirectly relates to team performance, but the overall discussion is more anecdotal and does not delve deeply into strategies or practices for enhancing team effectiveness.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -634,11 +649,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses the experiences of an agile consultant and emphasizes agile principles and practices, it does not explicitly delve into broader themes of business agility or operational adaptability within organizations.",
+    "calculated_at": "2025-03-15T00:53:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of readiness for change and engagement within organisations, which aligns with the principles of business agility. However, it primarily focuses on personal experiences and challenges faced as an agile consultant rather than providing a comprehensive exploration of business agility principles or strategies. The depth of discussion on readiness and engagement is notable, but it lacks broader insights into organisational structures or leadership roles in promoting business agility.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -745,7 +763,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T14:24:19",
+    "calculated_at": "2025-03-15T00:53:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -753,15 +771,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges faced by an agile consultant, particularly in terms of client readiness and engagement. While it touches on aspects of team dynamics and communication, it primarily focuses on individual experiences rather than collective team collaboration. The mention of not being listened to and the lack of progress indicates some alignment with team dynamics, but it lacks depth in exploring techniques or strategies for improving collaboration within teams. Overall, the content is more anecdotal and does not provide substantial insights into team collaboration practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum in the context of consultancy, but it primarily focuses on personal experiences rather than specific strategies for market adaptability.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of readiness for change and engagement, which are crucial for market adaptability. It highlights the challenges faced when organisations are unprepared to implement Agile practices, reflecting on the need for continuous improvement and responsiveness to feedback. However, while it touches on relevant themes, it lacks detailed strategies or methodologies that directly enhance market adaptability, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -820,12 +841,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses experiences as an agile consultant and mentions agile principles and frameworks, though it is more focused on personal experiences rather than detailed agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of readiness and engagement in the context of agile consulting, which aligns with agile principles. However, it lacks detailed exploration of specific agile methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -865,21 +889,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the importance of a happy and inspired workforce and implies a focus on team dynamics in agile environments, but it primarily revolves around personal experiences and stories as a consultant.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:53:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of readiness and engagement in an agile context, which aligns with team motivation principles. However, it primarily focuses on the author's experiences and challenges rather than providing in-depth strategies or techniques for enhancing team dynamics. The mention of engagement is relevant but not a primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content outlines a personal experience related to being an agile consultant, specifically discussing the challenges faced, which aligns with the Personal category, but it is also heavily promotional and describes services offered.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed personal reflection on a challenging experience as an Agile consultant, directly discussing the importance of readiness and engagement in Agile transformations. It includes personal anecdotes and insights that align well with the themes of the Personal category, such as individual experiences and lessons learned. The depth of discussion is significant, with multiple takeaways that illustrate personal interpretations of Agile principles. Overall, the content strongly focuses on personal experiences rather than technical discussions, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -949,7 +979,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:43:59",
+    "calculated_at": "2025-03-15T00:53:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -957,7 +987,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of readiness and engagement in an agile context, which is relevant to Scrum teams. However, it does not explicitly mention Scrum roles, team dynamics, or specific Scrum practices. The focus is more on the consultant's experience rather than the collaboration and communication within a Scrum team, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1018,11 +1048,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile and product development, which relates to product delivery methodologies, but it primarily focuses on personal experiences rather than in-depth discussions of delivery practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of readiness and engagement in the context of agile consulting, which aligns with product delivery principles. However, it primarily focuses on personal experiences rather than detailed methodologies or practices directly related to product delivery. The mention of agile concepts and continuous improvement adds to the relevance, but the overall depth and focus on practical application are limited.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -1036,12 +1069,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile consulting and emphasizes the benefits of agile methodologies, which align with the theme of organisational agility. However, it mainly focuses on the personal experiences of a consultant rather than providing an in-depth exploration of agile principles or practices, making it more of a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:31:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of readiness for change and engagement within an organisation, which aligns well with the principles of organisational agility. It highlights the need for organisations to be prepared to embrace change and the role of continuous improvement, both of which are key themes in the category. However, while the content provides valuable insights and personal experiences, it lacks a more structured exploration of agile methodologies and frameworks, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1420,7 +1456,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:26:08",
+    "calculated_at": "2025-03-15T00:53:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1428,6 +1464,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content discusses experiences as an agile consultant, touching on themes of readiness and engagement, which are relevant to Scrum principles. However, it lacks direct references to specific Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The mention of 'agile' is too broad and does not focus specifically on Scrum, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

@@ -25,11 +25,16 @@ preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Agile Product Management
-- Product Owner
+- Sprint Review
 - Agile Project Management
+- Product Owner
+- Team Collaboration
+- Agile Product Management
+- Scrum Product Development
+- Pragmatic Thinking
+- Software Development
+- Customer Feedback Loops
 - People and Process
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

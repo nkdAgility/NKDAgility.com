@@ -32,9 +32,6 @@ aliasesArchive:
 - /resources/blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 tags:
 - Troubleshooting
-- Windows
-- Install and Configuration
-- System Configuration
 preview: metro-SSWLogo-128-link-1-1.png
 categories: []
 

@@ -136,12 +136,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:07",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a well-managed Product Backlog, which is a key aspect of delivering working software. However, it primarily focuses on backlog management rather than the broader delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of a well-maintained Product Backlog, which is a crucial aspect of delivering working software. It touches on the need for transparency, clarity, and the balance between current needs and future readiness, aligning with the principles of Agile and Scrum. However, while it mentions the backlog's role in product development, it lacks a direct focus on the delivery of functional software and does not provide in-depth discussion on metrics or best practices for ensuring software quality.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -274,20 +277,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and the need for continuous reflection and adaptation, which are relevant to innovation practices. However, the primary focus is on backlog management rather than a direct exploration of innovation capabilities or Evidence-Based Management.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and the need for continuous reflection and adaptation, which aligns with the themes of innovation and improvement. However, it lacks explicit references to Evidence-Based Management or frameworks for measuring innovation capabilities, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Backlog, which is a key component of Agile frameworks, particularly Scrum. However, it primarily focuses on the nuances of managing the backlog rather than a broader exploration of Agile frameworks themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Product Backlog, which is a key component of Agile frameworks like Scrum. However, it primarily focuses on the nuances of backlog management rather than providing a comprehensive exploration of Agile frameworks as a whole. While it touches on principles relevant to Agile, such as transparency and continuous reflection, it lacks a broader discussion on various Agile methodologies or their comparative analysis.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -301,12 +310,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of transparency and understanding within the team regarding the Product Backlog, which relates to team collaboration. However, the primary focus is on product management and backlog refinement rather than direct team collaboration techniques or dynamics.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of a well-maintained Product Backlog and touches on the need for transparency and understanding among team members and stakeholders. However, while it hints at collaboration through regular reflections and meetings, it primarily focuses on backlog management rather than explicit team dynamics or collaboration techniques. The discussion lacks depth in exploring team communication or shared ownership, which are central to the Team Collaboration category.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -358,11 +370,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T18:28:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T15:02:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the Product Backlog in the context of product development, which is a significant aspect of Agile methodologies. While it primarily focuses on the management of the backlog, it touches on themes relevant to software development practices, such as transparency, stakeholder engagement, and iterative improvement. However, it does not delve deeply into specific software engineering techniques or methodologies, making it a secondary theme rather than the primary focus.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Product Backlog, a key element in Agile methodologies, particularly Scrum. It touches on concepts like lean inventory and stakeholder engagement, which are relevant to software development practices. However, while it aligns with Agile principles, it lacks detailed exploration of specific software development methodologies or practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -376,12 +391,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and touches on concepts like lead time and the balance between current needs and future readiness, which are relevant to throughput. However, the primary focus is on backlog management rather than a direct exploration of throughput as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which indirectly relates to throughput by emphasising efficiency and minimising waste. However, it lacks explicit discussions on throughput metrics, measurement techniques, or strategies for optimisation. The focus is more on backlog management and product development rather than the rate of work completion.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -421,11 +439,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-11T18:28:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:23:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the responsibilities and techniques related to managing the Product Backlog, which is a key aspect of the Product Owner's role in Agile and Scrum. It addresses backlog management, stakeholder engagement, and the importance of balancing current needs with future readiness, aligning closely with the core responsibilities of a Product Owner.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the responsibilities and techniques of managing a Product Backlog, which is a core aspect of the Product Owner's role. It discusses the importance of backlog management, stakeholder transparency, and the balance between current needs and future readiness, all of which align closely with the key topics outlined for the Product Owner category. The depth of discussion is substantial, providing insights into the challenges and strategies relevant to the Product Owner, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -457,12 +478,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the need for continuous reflection and learning, which are relevant to product validation. However, the primary focus is on backlog management rather than direct methodologies for validating product ideas with users.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which indirectly relates to product validation by emphasising the need for clarity and understanding of product value. However, it lacks direct mentions of user testing, market fit, or customer feedback loops, which are crucial for the category. The discussion is more focused on backlog management rather than validating product ideas through user engagement.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -556,11 +580,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:44",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of lead time in relation to product backlog management, but it primarily focuses on the balance between lean inventory and future readiness rather than lead time as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content briefly mentions lead time in the context of product backlog management, indicating a consideration of how long changes might take. However, the primary focus is on the structure and management of the Product Backlog rather than a detailed exploration of Lead Time as a metric. The discussion lacks depth and does not provide substantial techniques or strategies for measuring or optimising Lead Time, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Scaled Agile": {
@@ -574,11 +601,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T18:29:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for managing a Product Backlog within Agile frameworks, emphasising the balance between lean inventory and future readiness, which aligns well with pragmatic thinking in complex environments.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog while considering future implications, which aligns with pragmatic thinking in Agile contexts. It emphasises practical problem-solving strategies, adaptability, and the necessity of regular reflection to navigate complexities in product development. The metaphor of sculpting effectively illustrates the need for a balance between current needs and future readiness, showcasing real-world applications of Agile principles. However, while it touches on these themes, it does not delve deeply into specific techniques or case studies, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -592,11 +622,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T18:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of managing the Product Backlog, a key aspect of Agile methodologies, particularly in Scrum. It emphasises principles of transparency, iterative reflection, and adapting to changing requirements, which align closely with Agile Project Management principles.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses extensively on the concept of the Product Backlog, a key element in Agile methodologies, particularly within Scrum. It discusses the importance of maintaining a lean backlog, which aligns with agile principles of prioritisation and iterative development. The depth of discussion regarding the balance between current needs and future readiness, as well as the emphasis on stakeholder engagement and continuous reflection, further supports its strong alignment with Agile Project Management. Overall, the content provides a comprehensive exploration of backlog management, making it a primary focus of the discussion.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -610,12 +643,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the adaptability required in product development, which aligns with Agile principles. However, it primarily focuses on the tactical aspects of backlog management rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which aligns with Agile principles of continuous value delivery and adaptability. It emphasises the need for transparency and stakeholder understanding, which are key aspects of Agile strategy. The depth of discussion on balancing current needs with future readiness reflects strategic thinking in Agile contexts. However, while it touches on Agile concepts, it primarily focuses on the tactical aspects of backlog management rather than broader strategic implementation, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -646,11 +682,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding complexity in product development and the need for reflection on surprises encountered, which aligns with sensemaking principles. However, the primary focus is on managing the Product Backlog rather than a broader exploration of sensemaking frameworks or decision-making processes.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog while navigating complex environments, which aligns with sensemaking principles. It touches on the need for reflection and understanding surprises, indicating a grasp of complexity. However, the primary focus is on backlog management rather than a deep exploration of sensemaking frameworks or leadership roles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -664,12 +703,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of regular reflection and learning within the context of managing a Product Backlog, which relates to team dynamics and performance. However, the primary focus is on backlog management rather than direct strategies for enhancing team collaboration or performance.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and the need for regular reflection on work and surprises, which touches on team dynamics and continuous improvement. However, it primarily focuses on backlog management rather than directly addressing team performance or collaboration strategies. The mentions of team members and the need for transparency indicate some relevance, but the overall focus is more on product management than on enhancing team performance specifically.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -709,20 +751,26 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-11T18:29:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of a 'lean inventory' in the context of managing a Product Backlog, emphasising the importance of minimising waste and maximising value. It aligns well with Lean principles, particularly in relation to continuous improvement and the need for clarity and transparency in processes.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of a 'lean inventory' in the context of a Product Backlog, which aligns with Lean Principles. It mentions the importance of minimising excess and maintaining clarity, reflecting core Lean themes. However, while it touches on these principles, the discussion is more focused on product management and backlog refinement rather than a comprehensive exploration of Lean practices. The depth of discussion on Lean tools and techniques is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Backlog, which is a key element in Agile methodologies, particularly Scrum. However, it primarily focuses on the nuances of backlog management rather than broader Agile transformation strategies or principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Product Backlog, which is a key Agile artefact, and touches on principles of lean inventory and continuous reflection, aligning with Agile practices. However, it lacks explicit mention of Agile transformation strategies or frameworks, and the discussion is more focused on backlog management than on broader Agile transformation themes.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -763,29 +811,38 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T18:29:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance and management of the Product Backlog, a key aspect of Scrum product development, while also touching on iterative reflection and adaptation in the context of product management.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of the Product Backlog, a core element of Scrum, and elaborates on its management and the balance between lean inventory and future readiness. It aligns well with Scrum principles, emphasising iterative development and the need for regular reflection, which are key practices in Scrum. The depth of discussion is significant, providing insights into the complexities of backlog management and its impact on product development.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-11T18:29:44",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:27:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which aligns with process optimisation techniques in Agile methodologies. It touches on the balance between current needs and future readiness, reflecting strategies for continuous improvement. However, the focus is more on the conceptual aspects of backlog management rather than specific operational practices or metrics.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which aligns with operational efficiency principles in Agile methodologies. It touches on process optimisation and the need for continuous reflection, which are key aspects of operational practices. However, the discussion is more focused on the philosophical aspects of backlog management rather than providing concrete techniques or strategies for operational improvement, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-11T18:29:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of maintaining a lean and effective Product Backlog, which aligns closely with the principles of Backlog Refinement. It addresses the need for clarity, transparency, and continuous improvement in backlog management, making it a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of maintaining a lean and effective Product Backlog, which aligns well with the principles of Backlog Refinement. It highlights the need for clarity, transparency, and continuous reflection, all of which are key aspects of the refinement process. The metaphor of sculpting the backlog illustrates the iterative nature of backlog management. However, while it touches on relevant themes, it lacks specific techniques or methodologies for prioritisation and does not explicitly mention the role of the Product Owner or collaborative techniques, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -853,11 +910,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T18:29:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of maintaining a lean Product Backlog, which is a central aspect of Agile Planning. It explores how to balance current needs with future readiness, reflecting Agile principles of adaptability and continuous improvement.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of the Product Backlog, a core element of Agile Planning, and emphasises the need for transparency, adaptability, and continuous reflection, which are key Agile principles. It aligns well with the themes of iterative planning and stakeholder engagement, providing a detailed exploration of how to maintain a lean yet effective backlog. The depth of discussion on balancing current needs with future readiness further supports its strong alignment with Agile Planning.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -871,12 +931,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which aligns with MVP principles, but it primarily focuses on backlog management rather than MVP development or validation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which aligns with MVP principles of focusing on essential features and iterative development. However, it does not explicitly mention MVP or its direct application in testing hypotheses or validating market assumptions. The discussion is more about backlog management than MVP development, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -970,11 +1033,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-11T18:30:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of maintaining an efficient Product Backlog, which is a key aspect of Agile planning. It explores techniques for backlog management, the balance between lean inventory and future readiness, and the need for regular reflection, all of which align closely with Agile Planning Tools.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the concept of the Product Backlog, which is a crucial aspect of Agile planning. It discusses the importance of maintaining a lean backlog and the need for transparency and clarity, aligning well with the core themes of Agile Planning Tools. However, while it touches on backlog management techniques, it lacks detailed discussions on specific tools or methodologies, which limits its depth. Overall, it demonstrates a strong conceptual alignment with Agile planning but does not delve deeply into the tools or strategies typically associated with Agile Planning Tools.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -1006,12 +1072,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and the need for future readiness, which aligns with strategic objectives in product development. However, the primary focus is on operational tactics rather than long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and the need for future readiness, which touches on strategic thinking. However, it primarily focuses on operational tactics related to backlog management rather than articulating long-term strategic goals or their alignment with Agile principles. The discussion lacks explicit references to strategic objectives or frameworks for measuring them, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1024,12 +1093,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the balance between maintaining a lean Product Backlog and anticipating future needs, which touches on decision-making processes in uncertain environments. However, the primary focus is on product management practices rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the decision-making processes involved in product development. However, it primarily focuses on practical aspects of backlog management rather than explicitly addressing decision theory concepts such as heuristics, biases, or frameworks. While there are elements of decision-making and future readiness, the discussion lacks depth in exploring the theoretical underpinnings of decision theory.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1123,21 +1195,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of reflection, learning from surprises, and adapting the Product Backlog, which aligns with the themes of continuous learning and discovery. However, the primary focus is on the management of the Product Backlog rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the need for continuous learning and adaptation in product development. It mentions the necessity of regular reflection on work and surprises, which aligns with the core themes of the category. However, the primary focus is on project management aspects rather than explicit methodologies for discovery and learning, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexities of product backlog management and the need for a holistic understanding of product development within a dynamic environment, which aligns with Systems Thinking principles. However, the primary focus is on product management practices rather than a direct exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the complexities of product development. However, it primarily focuses on product management practices rather than explicitly addressing Systems Thinking principles. While there are elements of interconnectedness and the need for holistic analysis, the discussion lacks depth in exploring systemic relationships or feedback loops, which are central to Systems Thinking.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1162,12 +1240,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of the Product Backlog in product development, touching on its importance and management, which aligns with Agile practices. However, it lacks a strong focus on specific tools or methodologies, making it a secondary theme rather than a primary topic.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of a Product Backlog in product development, which is relevant to Agile practices. However, it primarily focuses on philosophical reflections and general principles rather than specific practical techniques or tooling. While it touches on the importance of keeping the backlog lean and the need for regular reflection, it lacks explicit mentions of tools or methodologies that enhance Agile practices. The depth of discussion is moderate, but it does not provide concrete examples or case studies that would strengthen its alignment with the category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1228,11 +1309,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and adapting to changing market conditions, which aligns with the principles of business agility. However, the primary focus is on product management practices rather than a broader exploration of business agility as a central theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and adapting to changing market conditions, which aligns with the principles of business agility. However, it primarily focuses on the specifics of backlog management rather than broader business agility concepts, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1267,11 +1351,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and adapting to changing contexts, which aligns with themes of organisational agility. However, it primarily focuses on product management practices rather than broader organisational strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog, which aligns with agile principles of flexibility and responsiveness. It mentions the need for regular reflection and adaptation to changing contexts, which are key aspects of organisational agility. However, while it touches on these themes, the primary focus is on the Product Backlog itself rather than broader organisational strategies or cultural shifts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1312,12 +1399,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of reflection and learning in product backlog management, which aligns with continuous improvement principles. However, it primarily focuses on the concept of the Product Backlog rather than metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of maintaining a lean Product Backlog and reflects on the need for regular reflection and learning, which aligns with the iterative learning cycle in Agile. However, it lacks explicit discussions on metrics, data collection, or evidence-based decision-making, which are central to the 'Metrics and Learning' category. The focus is more on the philosophical aspects of backlog management rather than concrete metrics or methodologies.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1330,12 +1420,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:28:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a lean Product Backlog, which aligns with the principles of Value Stream Management, particularly in terms of optimising efficiency and minimising waste. However, the primary focus is on product management practices rather than a comprehensive exploration of Value Stream Management itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of a Product Backlog in product development, focusing on keeping it lean and reflective of unrealised value. However, it primarily revolves around backlog management rather than the broader principles of Value Stream Management. While there are mentions of efficiency and minimising waste, the discussion lacks a direct focus on value stream mapping, waste elimination, or alignment with customer outcomes, which are core to Value Stream Management. The depth of discussion is moderate, but it does not sufficiently cover the key topics outlined in the category definition.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1375,11 +1468,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:49:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:27:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of maintaining a lean Product Backlog, which is central to the Agile Product Operating Model. It addresses principles of product-centric development, the need for continuous reflection, and adapting to market dynamics, aligning well with the key topics of the category.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Product Backlog in detail, emphasising its role in product-centric development and the importance of maintaining a lean inventory that reflects unrealised value. It aligns well with the principles of the Agile Product Operating Model, particularly in terms of continuous feedback and iteration. However, while it touches on key themes, it does not explicitly mention Agile methodologies or cross-functional teams, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {

@@ -24,9 +24,15 @@ aliasesArchive:
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
 - Software Development
-- Working Software
-- Engineering Practices
 - Application Lifecycle Management
+- Continuous Delivery
+- Frequent Releases
+- Release Management
+- Value Delivery
+- Working Software
+- Product Delivery
+- Acceptance Test Driven Development
+- Engineering Practices
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-18-18.png

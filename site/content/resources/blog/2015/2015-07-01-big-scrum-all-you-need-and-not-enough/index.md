@@ -8,7 +8,7 @@ ResourceImportId: 11361
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-07-01
-weight: 460
+weight: 360
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/blog/big-scrum-all-you-need-and-not-enough
 tags:
+- Software Development
+- Agile Project Management
 - Events and Presentations
-- Large Scale Agility
-- Agile Transformation
 - Professional Scrum
-- Scaling Agility
 - Scaling Scrum
-- Agile Frameworks
 - Scaled Agile
-- Scrum Product Development
+- Agile Frameworks
 - Software Developers
+- Pragmatic Thinking
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/tfs-sticky-buddy-v2-0
 - /tfs-sticky-buddy-v2-0
 - /resources/blog/tfs-sticky-buddy-v2-0
-tags:
-- Software Development
-- Technical Excellence
+tags: []
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

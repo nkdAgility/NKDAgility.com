@@ -24,6 +24,9 @@ aliasesArchive:
 - /resources/blog/creating-wcf-service-host-programmatically
 tags:
 - Windows
+- Software Development
+- Install and Configuration
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

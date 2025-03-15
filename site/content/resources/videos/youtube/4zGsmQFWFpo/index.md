@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Continuous Learning
 - Organisational Culture
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Continuous Learning
 - Discovery and Learning
+- Scrum Team
 - Scrum Master
 - Agile Leadership
-- Agile Strategy
-- Organisational Agility
+- Software Development
 resourceTypes:
 - video
 layout: video

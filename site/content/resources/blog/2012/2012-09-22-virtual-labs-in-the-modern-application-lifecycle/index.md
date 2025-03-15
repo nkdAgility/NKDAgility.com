@@ -23,16 +23,14 @@ aliasesArchive:
 - /virtual-labs-in-the-modern-application-lifecycle
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
+- Software Development
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Automated Testing
+- Pragmatic Thinking
 - Internal Developer Platform
-- Software Development
-- Operational Practices
-- Software Developers
+- Automated Testing
 - Product Delivery
-- Digital Transformation
-- Frequent Releases
+- Operational Practices
 categories:
 - DevOps
 - Engineering Excellence

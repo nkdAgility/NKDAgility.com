@@ -30,8 +30,6 @@ tags:
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Troubleshooting
 categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

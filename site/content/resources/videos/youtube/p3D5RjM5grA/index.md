@@ -29,6 +29,8 @@ tags:
 - Agile Leadership
 - Events and Presentations
 - Agile Transformation
+- Agile Project Management
+- Discovery and Learning
 - Team Collaboration
 sitemap:
   filename: sitemap.xml

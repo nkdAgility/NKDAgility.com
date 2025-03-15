@@ -23,15 +23,15 @@ aliasesArchive:
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
 - Increment
-- Product Delivery
-- Agile Project Management
-- Software Development
-- Continuous Delivery
-- Engineering Practices
-- People and Process
 - Scrum Product Development
-- Value Delivery
 - Working Software
+- Product Delivery
+- Value Delivery
+- Professional Scrum
+- Software Development
+- Agile Project Management
+- Continuous Delivery
+- Scrum Team
 categories:
 - Scrum
 - Social Technologies

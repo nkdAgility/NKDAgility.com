@@ -25,10 +25,12 @@ preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- Practical Techniques and Tooling
 - Team Collaboration
+- Practical Techniques and Tooling
+- Remote Working
 - Scrum Master
 - Scrum Team
+- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6

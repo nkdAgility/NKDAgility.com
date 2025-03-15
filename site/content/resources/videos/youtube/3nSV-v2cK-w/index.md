@@ -26,15 +26,15 @@ duration: 255
 isShort: false
 tags:
 - Team Collaboration
-- Agile Transformation
-- Agile Project Management
-- Team Motivation
-- Resilience and Change
 - Agile Philosophy
-- Organisational Agility
+- Agile Transformation
 - Software Development
-- Agile Values and Principles
-- People and Process
+- Organisational Agility
+- Team Motivation
+- Agile Leadership
+- Agile Project Management
+- Software Developers
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

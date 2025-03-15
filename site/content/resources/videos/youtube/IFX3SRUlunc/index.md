@@ -26,11 +26,12 @@ duration: 115
 isShort: false
 tags:
 - Lean
+- Lean Product Development
 - Lean Principles
 - Lean Thinking
-- Lean Product Development
-- Events and Presentations
 - Value Delivery
+- Products and Books
+- Events and Presentations
 sitemap:
   filename: sitemap.xml
   priority: 0.6

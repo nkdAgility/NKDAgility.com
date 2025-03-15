@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/time-that-task-vsts-check-in-policy
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
-tags:
-- Pragmatic Thinking
+tags: []
 
 ---
 I have found this interesting policy for TFS.

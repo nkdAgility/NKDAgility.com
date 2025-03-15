@@ -24,6 +24,10 @@ aliasesArchive:
 - /resources/blog/remote-execute-powershell-against-each-windows-8-vm
 tags:
 - Windows
+- Install and Configuration
+- Practical Techniques and Tooling
+- Software Development
+- System Configuration
 categories:
 - DevOps
 preview: image11-1-1.png

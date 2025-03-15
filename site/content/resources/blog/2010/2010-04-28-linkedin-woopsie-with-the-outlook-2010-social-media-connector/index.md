@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /resources/blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-4-4.png
 

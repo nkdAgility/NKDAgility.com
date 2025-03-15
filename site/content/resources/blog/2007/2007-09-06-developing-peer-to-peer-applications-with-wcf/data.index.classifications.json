@@ -283,7 +283,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T12:15:11",
+    "calculated_at": "2025-03-15T07:39:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
@@ -291,7 +291,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content includes personal reflections on the experience of delivering a presentation, which aligns with the Personal category. However, the primary focus is on the technical aspects of the presentation rather than on Agile, Scrum, or DevOps methodologies. The mention of stage fright and the comparison of different presentation experiences provides some personal insight, but it lacks depth in discussing broader themes related to Agile or team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -586,7 +586,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:50:04",
+    "calculated_at": "2025-03-15T07:39:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -594,7 +594,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a personal experience related to delivering a presentation on developing peer-to-peer applications with WCF. While it mentions a relevant topic in software development, the discussion lacks depth and does not delve into methodologies, best practices, or technical details that would typically characterise the Software Development category. The personal narrative and emphasis on presentation skills detract from a strong alignment with the core themes of software engineering.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -958,7 +958,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T19:02:10",
+    "calculated_at": "2025-03-15T07:39:19",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -966,7 +966,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the author's experience delivering a presentation rather than discussing technical mastery in software craftsmanship or engineering practices. While it mentions WCF and references a book on SOA, it lacks a detailed exploration of best practices, principles, or methodologies related to software development. The discussion is more personal and anecdotal, with minimal emphasis on the technical aspects that would align with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",

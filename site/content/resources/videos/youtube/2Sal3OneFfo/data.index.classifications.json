@@ -199,7 +199,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-07T12:55:11",
+    "calculated_at": "2025-03-14T18:11:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -207,7 +207,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions migration tools related to Azure DevOps, which is tangentially connected to the application lifecycle. However, it lacks a comprehensive discussion on the stages of the application lifecycle, best practices, or governance, which are core themes of Application Lifecycle Management. The focus is primarily on migration services rather than a holistic view of managing the application lifecycle.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -331,7 +331,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-10T13:57:12",
+    "calculated_at": "2025-03-14T18:11:19",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -339,7 +339,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses migration tools related to Azure DevOps, which aligns with the category's focus on tools that facilitate Agile practices. However, it lacks detailed analysis or reviews of specific products or literature, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -775,7 +775,7 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T09:52:28",
+    "calculated_at": "2025-03-14T18:11:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -783,7 +783,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions migration services related to DevOps tools, which aligns with operational practices in terms of enhancing collaboration and productivity. However, it lacks a detailed discussion on techniques or strategies for improving operational efficiency, making it more of a secondary mention rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -814,7 +814,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T17:53:37",
+    "calculated_at": "2025-03-14T18:11:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -822,7 +822,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions migration tools related to Azure DevOps, which is relevant to software developers. However, it lacks a detailed discussion on Agile methodologies, DevOps principles, or best practices that would typically enhance productivity and collaboration among developers. The focus is more on the tools themselves rather than the role of developers in leveraging these tools within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -1417,7 +1417,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:44:18",
+    "calculated_at": "2025-03-14T18:11:19",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1425,6 +1425,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses migration services related to Azure DevOps and does not explicitly mention Scrum principles, roles, or events. While there is a brief mention of collaboration and productivity, these concepts are not directly tied to Scrum practices or frameworks. The focus is on tools and services rather than the Scrum methodology itself.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

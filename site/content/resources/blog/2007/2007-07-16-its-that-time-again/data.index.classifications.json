@@ -64,7 +64,7 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-11T12:16:39",
+    "calculated_at": "2025-03-15T07:43:19",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -72,7 +72,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content touches on personal decision-making regarding career choices and contracting, which aligns with decision theory. However, it lacks a detailed exploration of decision-making frameworks or the role of probability and heuristics, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -334,7 +334,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T15:19:34",
+    "calculated_at": "2025-03-15T07:43:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -342,7 +342,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content touches on personal experiences and fears related to career transitions, which indirectly relates to human factors in the workplace. However, it lacks a structured discussion on team dynamics, leadership, or process methodologies, making it more of a personal narrative than a focused exploration of the 'People and Process' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -454,12 +454,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal considerations and fears related to making career choices, particularly about contracting versus a traditional job. While it touches on decision-making aspects like income and job satisfaction, these are not structured or evidence-based in nature, hence the category is a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the author's thoughts about transitioning to contracting, which involves decision-making elements. However, it lacks structured methodologies, empirical evidence, or collaborative insights that are central to the category of Decision Making. The discussion is primarily personal and anecdotal, focusing on fears and considerations rather than evidence-based practices.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -580,7 +583,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T19:04:14",
+    "calculated_at": "2025-03-15T07:43:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -588,11 +591,11 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the author's personal experiences and thoughts about transitioning into contracting as a software developer, which is relevant to the category. However, it lacks a direct focus on Agile or DevOps methodologies, best practices, or tools that enhance productivity and collaboration. While there are mentions of skills and experiences related to software development, the overall discussion is more personal and anecdotal rather than a deep exploration of the role of software developers within Agile and DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:09:02",
+    "calculated_at": "2025-03-15T07:43:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -600,7 +603,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content touches on personal experiences related to coding and contracting in the software development field, but it primarily focuses on the author's personal journey and feelings rather than discussing specific software development methodologies or practices. While there are mentions of skills and technologies relevant to software development, the overall discussion lacks depth and does not provide substantial insights into software engineering practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",

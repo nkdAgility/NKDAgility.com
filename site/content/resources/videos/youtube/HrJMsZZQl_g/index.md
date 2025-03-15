@@ -34,9 +34,10 @@ tags:
 - Agile Frameworks
 - Software Development
 - Pragmatic Thinking
-- Continuous Learning
-- Team Performance
+- Scrum Product Development
+- Agile Product Management
 - Discovery and Learning
+- Scrum Master
 resourceTypes:
 - video
 categories:

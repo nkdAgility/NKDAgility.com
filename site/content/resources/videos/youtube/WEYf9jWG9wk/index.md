@@ -27,13 +27,16 @@ preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
+- Software Development
+- Product Delivery
 - Discovery and Learning
+- Working Software
+- Metrics and Learning
+- Agile Values and Principles
 - Agile Philosophy
 - Customer Feedback Loops
-- Software Developers
-- Agile Product Management
-- Hypothesis Driven Development
-- Value Delivery
+- People and Process
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

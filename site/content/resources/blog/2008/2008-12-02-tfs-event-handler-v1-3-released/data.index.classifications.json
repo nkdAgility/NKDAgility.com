@@ -40,7 +40,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T12:10:03",
+    "calculated_at": "2025-03-15T07:25:57",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and its features, which does not directly discuss engineering practices or methodologies that enhance agility in software development. While it mentions technical aspects of the tool, such as its development in .NET and the ability to notify users of changes, it lacks a broader discussion on principles like TDD, CI/CD, or modular architecture. The content is more about a product update than a discourse on technical excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -154,11 +154,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the deployment and configuration of the TFS Event Handler, including specific instructions and code snippets related to setting it up, which aligns with the category. However, the primary focus is on the features and improvements of the tool rather than a comprehensive installation guide.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the TFS Event Handler, which is a tool relevant to installation and configuration within a DevOps context. It provides some details on the deployment as a system service and mentions specific configuration changes needed for groups in the Assigned To list. However, it lacks a comprehensive step-by-step installation guide or detailed troubleshooting advice, which limits its depth of discussion. Overall, while it touches on installation and configuration, it does not fully align with the core themes of the category.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -190,12 +193,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of a new version of the TFS Event Handler, which is relevant to updates in technology tools, but lacks broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the release of a specific software update (TFS Event Handler v1.3) and provides technical details about its features and improvements. While it does mention a tool relevant to Agile and DevOps, it lacks broader industry news context or reviews that would typically characterise the 'News and Reviews' category. The discussion is more technical and instructional rather than evaluative or trend-focused, which diminishes its alignment with the category's core themes.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -289,7 +295,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T15:08:47",
+    "calculated_at": "2025-03-15T07:25:57",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -297,7 +303,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the TFS Event Handler, which is related to Team Foundation Server (TFS), a predecessor to Azure DevOps. While it mentions functionalities that align with Azure DevOps, such as notifications for work items, the focus is primarily on TFS rather than Azure DevOps itself. The discussion lacks depth in terms of Azure DevOps services and best practices, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -310,12 +316,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Event Handler, which relates to managing work items in Team Foundation Server, a tool used in the application lifecycle. However, the primary focus is on the specific features and updates of the event handler rather than a comprehensive discussion on Application Lifecycle Management methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the TFS Event Handler, which is a tool related to Team Foundation Server, a platform that can be part of Application Lifecycle Management. However, the focus is primarily on the specific functionality of the event handler rather than the broader methodologies, practices, or stages of the application lifecycle. While there are mentions of notifications and work item management, the discussion lacks depth in terms of lifecycle stages, governance, or integration with Agile/DevOps principles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -445,7 +454,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:44:29",
+    "calculated_at": "2025-03-15T07:25:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -453,7 +462,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and its features, which does not directly address the principles of software craftsmanship or engineering excellence. While it provides some technical details about the tool and its implementation, it lacks a broader discussion on best practices, methodologies, or principles that contribute to high-quality software development. The mention of technical aspects is present but not the primary focus, leading to a low confidence score in the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -985,12 +994,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an event handler for Team Foundation Server (TFS) that improves notification processes, which relates to optimizing workflows and operational efficiency in a development context. However, it is primarily focused on the technical aspects of the TFS Event Handler rather than broader operational strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Event Handler and its improvements, which can enhance operational efficiency by automating notifications for work item changes. However, it lacks a direct focus on broader operational practices or methodologies like Agile, DevOps, or Lean. The mention of group notifications aligns somewhat with operational efficiency, but the overall discussion is more about a specific tool rather than a comprehensive strategy or technique for improving operational practices.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1183,7 +1195,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T18:14:27",
+    "calculated_at": "2025-03-15T07:25:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1191,7 +1203,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the TFS Event Handler, which is a tool that facilitates notifications for changes in Team Foundation Server. While it relates to collaboration by improving communication about work item changes, it does not explicitly focus on broader collaboration tools or their integration with Agile methodologies. The discussion is somewhat relevant but lacks depth and does not cover key topics such as best practices or comparisons with other tools.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1339,7 +1351,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:13:24",
+    "calculated_at": "2025-03-15T07:25:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1347,7 +1359,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the release of a software tool (TFS Event Handler) and its features, which includes some aspects of configuration, such as setting up alerts and managing work item assignments. However, it lacks a comprehensive exploration of system configuration principles, best practices, or optimisation strategies. The focus is more on the functionality of the tool rather than the methodologies of system configuration, leading to a low confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1414,7 +1426,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:56:24",
+    "calculated_at": "2025-03-15T07:25:57",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1422,6 +1434,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the TFS Event Handler and its functionalities related to Team Foundation Server, with no direct mentions of Scrum principles, roles, or events. While it touches on aspects of project management through notifications, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical implementation rather than Scrum practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

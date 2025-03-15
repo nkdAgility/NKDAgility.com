@@ -8,7 +8,7 @@ ResourceImportId: 11456
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-11-10
-weight: 375
+weight: 300
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,16 +28,16 @@ aliasesArchive:
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
 tags:
+- Operational Practices
 - Software Development
+- Engineering Practices
+- Software Developers
 - Practical Techniques and Tooling
 - Technical Mastery
 - Modern Source Control
-- Test First Development
-- Automated Testing
-- Engineering Practices
-- Operational Practices
-- Release Management
-- Software Developers
+- Pragmatic Thinking
+- Value Delivery
+- Continuous Delivery
 categories:
 - DevOps
 preview: excellence-1-1.jpg

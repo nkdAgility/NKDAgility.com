@@ -178,7 +178,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T17:04:20",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -186,7 +186,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses specific code implementations and issues related to WPF and resource management, which are technical in nature but do not explicitly address the broader themes of code quality or complexity theory. While there are mentions of code modifications and error handling, the discussion lacks depth in exploring the principles of software quality or the impact of complexity on design decisions. Therefore, it aligns only marginally with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -697,7 +697,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:56:04",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -705,7 +705,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and resource management within a Windows application context. However, it lacks explicit mentions of the Windows operating system itself, focusing instead on coding practices and error handling in WPF. While it aligns conceptually with Windows development, it does not delve deeply into installation, configuration, or troubleshooting of the Windows OS, which are key themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -847,7 +847,7 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-11T12:10:37",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -855,7 +855,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses technical implementation details related to WPF and resource management, which does not directly address the core principles of Agile engineering practices. While there are mentions of code modifications and error handling, the focus is on specific coding challenges rather than broader engineering practices like clean code, TDD, or CI/CD. The depth of discussion is moderate, but it lacks a clear connection to the key topics outlined in the Engineering Practices category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -913,12 +913,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:16",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses specific implementation details of WPF and resource dictionaries but does not focus on the broader aspects of delivering functional, high-quality software or customer value. It delves into technical issues without addressing principles related to working software in Agile or Scrum contexts.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",

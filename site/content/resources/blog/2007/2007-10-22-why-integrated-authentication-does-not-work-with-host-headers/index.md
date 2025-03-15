@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/why-integrated-authentication-does-not-work-with-host-headers
 tags:
 - Windows
+- Troubleshooting
 categories: []
 
 ---

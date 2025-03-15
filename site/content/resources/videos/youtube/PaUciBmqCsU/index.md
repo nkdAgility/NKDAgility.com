@@ -34,6 +34,7 @@ tags:
 - Transparency
 - Software Development
 - Agile Frameworks
+- Operational Practices
 resourceTypes:
 - video
 categories: []

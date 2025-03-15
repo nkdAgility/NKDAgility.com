@@ -23,8 +23,16 @@ aliasesArchive:
 - /release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
 tags:
+- Working Software
 - Release Management
 - Software Development
+- Operational Practices
+- Practical Techniques and Tooling
+- Product Delivery
+- Application Lifecycle Management
+- Continuous Delivery
+- Deployment Strategies
+- Deployment Frequency
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png

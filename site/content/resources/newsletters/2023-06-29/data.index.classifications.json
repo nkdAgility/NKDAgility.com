@@ -13,7 +13,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:06:45",
+    "calculated_at": "2025-03-14T23:14:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -21,7 +21,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on promoting agile methodologies and immersive learning experiences for agile practitioners. While it mentions concepts related to continuous improvement and collaboration, it lacks a direct emphasis on engineering practices, coding standards, or quality assurance. The discussion is more about agile training and community building rather than specific engineering excellence principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -70,7 +70,7 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-10T12:06:48",
+    "calculated_at": "2025-03-14T23:14:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -78,7 +78,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on promoting NKD Agility's training programmes and methodologies related to Agile practices. While it mentions adaptability and innovation, which are relevant to complexity thinking, it lacks a direct discussion of complexity science principles or frameworks such as the Cynefin Framework. The depth of discussion on complexity-related themes is minimal, primarily touching on the need for agile practitioners to navigate complexities without delving into the underlying theories or dynamics of complex systems.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -238,7 +238,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T14:38:05",
+    "calculated_at": "2025-03-14T23:14:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -246,7 +246,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the introduction of immersive learning experiences for agile practitioners, which implies a focus on collaboration and team dynamics. However, it does not explicitly mention specific collaboration tools or provide detailed insights into their features or integration with Agile methodologies. The emphasis is more on training and personal development rather than on the tools themselves, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -370,12 +370,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T21:13:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:14:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development of agile practitioners and the importance of adaptability and collaboration, which are relevant to enterprise agility, but it primarily focuses on individual training rather than organisational-level agility.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on training and developing individual agile practitioners rather than discussing enterprise-level agility. While it mentions adaptability and collaboration, it lacks a comprehensive exploration of organisational structures, frameworks, or strategies that support enterprise agility. The emphasis is on personal growth and skills development, which aligns more with team-level practices than the broader implications of agility on organisational performance.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -388,11 +391,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T21:14:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:14:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of agile practitioners and the importance of agile methodologies, which aligns with technical leadership themes, but it primarily focuses on training and personal development rather than direct leadership strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the introduction of immersive learning experiences aimed at developing agile practitioners, which aligns with the principles of technical leadership. However, it primarily focuses on training and personal development rather than directly addressing the nuances of guiding teams or implementing agile methodologies. While there are mentions of agile leadership and collaboration, the depth of discussion on technical leadership principles is limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -406,30 +412,39 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T21:14:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:14:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum Masters and includes references to courses designed for them, indicating that it is a major but secondary theme within a broader discussion on agile training.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the development of agile practitioners and includes a specific mention of courses for Scrum Masters, indicating a focus on the role. However, the overall emphasis is more on general agile training rather than the specific responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T21:14:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:14:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile methodologies and training for agile practitioners, which aligns with Agile Planning principles, but it primarily focuses on training and personal development rather than specific planning techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the introduction of immersive learning experiences aimed at developing agile practitioners, which aligns with Agile Planning principles. It mentions methodologies like Scrum and emphasises collaboration, adaptability, and continuous improvement, which are core themes of Agile Planning. However, the focus is more on training and personal development rather than specific Agile Planning techniques or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T21:14:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:14:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of collaboration, adaptability, and continuous learning, which are aligned with Agile values, but it primarily focuses on training and immersive learning experiences rather than a deep exploration of Agile principles.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of becoming agile practitioners and mentions values such as collaboration, adaptability, and continuous learning. However, it primarily focuses on training and specific methodologies like Scrum rather than deeply exploring the foundational Agile values and principles. While there is a clear alignment with Agile concepts, the depth of discussion on the core values and principles is somewhat limited.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -469,21 +484,27 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T21:14:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:14:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of collaboration, adaptability, and continuous learning, which are cultural elements that support Agile practices. However, the primary focus is on training and skill development rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of fostering a culture of collaboration, creativity, and continuous improvement, which aligns with the themes of organisational culture. It mentions the role of training in shaping agile practitioners and highlights the values of adaptability and learning. However, while it touches on cultural aspects, the primary focus is on training and methodologies rather than a deep exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T21:14:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development of agile practitioners and the importance of collaboration and adaptability, which are relevant to large-scale agility, but it primarily focuses on individual training rather than enterprise-level scaling practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on individual Agile training and development rather than large-scale Agile practices. While it mentions Agile methodologies and the importance of collaboration, it lacks explicit discussions on frameworks for scaling Agile, enterprise-level transformation strategies, or cross-team collaboration, which are essential for the Large Scale Agility category.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -505,20 +526,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T21:14:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adaptability and innovation in the context of agile practices, but it primarily focuses on training and development rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of adaptability and innovation in the context of agile practices, which aligns with the core themes of the Ability to Innovate category. However, it primarily focuses on training and development rather than directly measuring or enhancing innovation capabilities. While there are mentions of fostering a culture of innovation and continuous improvement, the depth of discussion on frameworks, metrics, or Evidence-Based Management principles is limited.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T21:14:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:15:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on training and developing agile practitioners, discussing methodologies such as Scrum and agile leadership, which are central to Agile transformation.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the introduction of immersive learning experiences aimed at developing agile practitioners, which aligns with the principles of Agile transformation. It mentions methodologies like Scrum and emphasises the importance of adaptability and continuous improvement, which are core themes of Agile. However, while it touches on these topics, the focus is more on training and personal development rather than a comprehensive discussion of Agile transformation strategies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -541,30 +568,39 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T21:14:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of collaboration and continuous learning in the context of agile training, which aligns with Scrum Values, but it primarily focuses on training offerings rather than a deep exploration of the values themselves.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions the values of collaboration and adaptability, which are related to Scrum Values, but does not explicitly discuss the five core Scrum Values (Commitment, Courage, Focus, Openness, Respect). The focus is primarily on promoting training and immersive learning experiences rather than a detailed exploration of Scrum Values. Therefore, while there is some alignment, it lacks depth and direct mentions of the specific values.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T21:14:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adaptability and continuous improvement in the context of agile methodologies, which aligns with the themes of resilience and change, but primarily focuses on training and skill development.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of adaptability and innovation in the context of agile methodologies, which aligns with the themes of resilience and change. However, it primarily focuses on training and skill development rather than providing in-depth strategies or frameworks for organisational resilience. The mention of fostering a culture of collaboration and continuous improvement contributes to the alignment, but the overall depth of discussion on resilience and change is limited.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T21:14:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses immersive learning experiences and training for agile practitioners, which relates to practical techniques and tooling, but it primarily focuses on the announcement of training rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses immersive learning experiences aimed at developing practical skills in Agile methodologies, particularly Scrum. However, while it mentions tools and methodologies, it lacks detailed exploration of specific tools or frameworks, and the focus is more on the learning experience rather than practical application or integration of tools in Agile and DevOps practices.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -595,11 +631,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T21:14:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:15:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses upcoming training classes and immersive learning experiences related to Agile methodologies, which aligns with the category of events and presentations.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on promoting NKD Agility's immersive learning experiences, which are structured as training classes. It discusses the nature of these classes, the skills to be gained, and the community aspect of learning. While it does not explicitly mention specific events or presentations, it aligns well with the themes of workshops and training sessions relevant to Agile and DevOps. The depth of discussion about the training format and the community aspect contributes positively to the confidence score, despite the lack of direct references to formal events.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -622,21 +661,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T21:14:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses training for Scrum roles and mentions Scrum Teams, but the primary focus is on promoting immersive learning experiences rather than in-depth exploration of Scrum Team dynamics.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions Scrum roles and the importance of collaboration and continuous improvement, which aligns with the Scrum Team category. However, it primarily focuses on promoting training and learning experiences rather than in-depth discussions about team dynamics or specific Scrum practices.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T21:14:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development of agile practitioners and the importance of collaboration and continuous improvement, which are relevant to scaling agility, but it primarily focuses on individual training rather than organisational scaling strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on training and developing individual agile practitioners rather than discussing strategies for scaling agility across an organisation. While it mentions agile methodologies and the importance of collaboration, it lacks a direct exploration of frameworks for scaling agility, leadership roles, or organisational alignment, which are key topics in the category. The depth of discussion is more about personal growth and training rather than enterprise-level agility.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -685,21 +730,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T21:14:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of individuals into agile practitioners and the importance of adaptability and continuous improvement, which are relevant to change management, but the primary focus is on training and learning experiences rather than change management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on introducing NKD Agility's training programmes for agile practitioners, which includes elements of personal and professional growth. However, it lacks a direct discussion on change management principles or strategies. While it mentions adaptability and continuous improvement, these concepts are not explored in depth or linked explicitly to change management practices. The content does not provide substantial insights into managing organisational change or stakeholder engagement, which are critical aspects of the Change Management category.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T21:14:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of collaboration and teamwork in the context of agile training, but it primarily focuses on individual learning experiences rather than team dynamics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and continuous improvement within the context of agile training. It mentions fostering a culture of collaboration and adaptability, which aligns with the core themes of team dynamics in Agile. However, the focus is primarily on individual learning experiences rather than direct team collaboration techniques or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -730,29 +781,38 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T21:15:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:15:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on immersive learning experiences designed to empower individuals in agile methodologies, emphasising continuous learning, collaboration, and the application of knowledge in real-world settings.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on immersive learning experiences aimed at developing agile practitioners, which aligns well with the themes of continuous learning and innovation. It discusses methodologies like Scrum and Agile leadership, emphasising the importance of adapting to new information and fostering a culture of collaboration and creativity. The depth of discussion is significant, detailing hands-on exercises and real-world applications, which supports the category's focus on discovery and learning processes.",
     "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T21:15:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and the development of agile practitioners, which includes elements of self-organisation, but it primarily focuses on training and learning experiences rather than self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of agile methodologies and the development of agile practitioners, which aligns with the principles of self-organisation. However, it primarily focuses on training and learning experiences rather than explicitly addressing self-organisation principles or practices. While there are mentions of collaboration and continuous improvement, the depth of discussion on self-organisation is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:15:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile methodologies and the development of agile practitioners, which aligns with the Agile Product Operating Model as a secondary theme, but it primarily focuses on training and personal development rather than the model itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the development of agile practitioners and the importance of methodologies like Scrum and agile leadership, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on training and personal development rather than directly addressing the operational model itself. While it touches on key themes such as collaboration and continuous improvement, it lacks in-depth exploration of product-centric strategies and metrics for value delivery.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -775,12 +835,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T21:15:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of agile methodologies and continuous learning, which are relevant to market adaptability, but the primary focus is on promoting training programmes rather than directly addressing strategies for responding to market shifts.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of agility and adaptability in the context of training future agile practitioners. It highlights methodologies such as Scrum and Agile leadership, which are directly related to market adaptability. The emphasis on continuous learning and collaboration aligns well with the principles of Agile and Lean methodologies. However, while the content mentions these concepts, it does not delve deeply into specific strategies or case studies that demonstrate market adaptability, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -847,11 +910,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T21:15:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences aimed at developing skills for agile practitioners, which aligns with mentoring themes, but it primarily focuses on training and course offerings rather than direct mentoring practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses immersive learning experiences aimed at developing agile practitioners, which aligns with the mentoring theme of skill and knowledge development. However, it lacks direct mentions of mentoring techniques or the role of a mentor, and the depth of discussion on mentoring practices is minimal. Overall, while it touches on relevant themes, it does not focus primarily on mentoring.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -874,30 +940,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T21:15:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of agile practitioners and the importance of methodologies like Scrum and Agile leadership, which are relevant to strategic alignment and team performance. However, it primarily focuses on training and personal development rather than strategic approaches within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on introducing NKD Agility's training programmes for agile practitioners, which includes elements of Agile methodologies. However, it lacks a direct discussion on strategic alignment or the development of strategic approaches within Agile frameworks. While it mentions the importance of adaptability and continuous improvement, these concepts are presented in a general context rather than as part of a strategic framework. The depth of discussion on strategy-related topics is limited, focusing more on training and personal development rather than strategic execution or planning.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T21:15:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of agile practitioners and the application of methodologies, which relates to operational practices, but it primarily focuses on training and personal development rather than specific operational efficiency techniques.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on introducing NKD Agility's training programmes for agile practitioners, which includes elements of Agile methodologies. However, it lacks a direct discussion on operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it mentions continuous improvement and collaboration, these concepts are not explored in depth or linked to specific operational strategies or metrics. The content is more promotional in nature rather than providing practical applications or techniques for operational efficiency.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T21:15:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:51",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of collaboration, adaptability, and continuous learning, which are key aspects of Agile Philosophy, but it primarily focuses on training and methodologies rather than the broader implications of Agile as a mindset.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transformation of work and the development of agile practitioners, highlighting values such as collaboration, adaptability, and continuous improvement. However, it primarily focuses on specific training methodologies and courses rather than a deep exploration of the Agile Philosophy itself. While it mentions key concepts, the depth of discussion on the broader implications of Agile as a mindset is limited.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -910,12 +985,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T21:15:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses immersive learning experiences aimed at developing agile practitioners, which includes elements of coaching and personal growth, but it primarily focuses on training and course offerings.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses immersive learning experiences aimed at developing agile practitioners, which aligns with coaching principles. However, it primarily focuses on training and skill acquisition rather than the nuances of coaching itself. While there are mentions of guidance and support, the depth of discussion on coaching techniques and the role of a coach is limited.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -928,11 +1006,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T21:15:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:15:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses immersive learning experiences aimed at developing agile practitioners, emphasising personal and professional growth, collaboration, and continuous improvement, which aligns well with the principles of Continuous Learning.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on introducing immersive learning experiences aimed at developing agile practitioners, which aligns well with the principles of Continuous Learning. It discusses the importance of adaptability, collaboration, and continuous improvement, which are core themes of the category. However, while it mentions these concepts, the depth of discussion on specific techniques for knowledge sharing or feedback loops is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -964,12 +1045,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T21:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:15:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile methodologies and the role of product ownership, but it primarily focuses on training and immersive learning experiences rather than specific Agile Product Management practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the development of agile practitioners and mentions methodologies such as Scrum and product ownership, which are relevant to Agile Product Management. It highlights the importance of collaboration, continuous improvement, and practical skills, aligning well with the core themes of the category. However, while it touches on these topics, it primarily focuses on training and personal development rather than specific product management practices, which slightly lowers the depth of discussion.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1000,30 +1084,39 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T21:15:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and training, which implies a focus on team dynamics and organisational culture, but it primarily centres on training offerings rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on training and developing agile practitioners, which touches on the technical aspects of agile methodologies. However, it lacks a strong emphasis on the interplay between technology and organisational structures, which is central to the Sociotechnical Systems category. While there are mentions of collaboration and team dynamics, these are not explored in depth or connected to broader organisational contexts. The content does not provide substantial insights into how these elements collectively influence software delivery or team effectiveness.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T21:15:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses NKD Agility's immersive learning experiences and training classes related to Agile methodologies, which aligns with the category as a major theme, but it primarily focuses on promoting the training services rather than providing reviews or analyses of specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on promoting NKD Agility's immersive learning experiences, which are training programmes rather than specific products or books. While it discusses methodologies like Scrum and Agile, it does not provide detailed reviews or analyses of literature or tools. The mention of discounts and class schedules indicates a promotional nature rather than a critical discussion of resources, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T21:15:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:16:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and the importance of continuous improvement, which are related to empirical process control, but it primarily focuses on training and development rather than the principles of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile methodologies and the importance of adaptability and continuous improvement, which are relevant to empirical process control. However, it primarily focuses on promoting training and immersive learning experiences rather than providing a detailed exploration of empirical process control principles. The mention of Scrum and agile practices is present but lacks depth in discussing transparency, inspection, and adaptation specifically.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",

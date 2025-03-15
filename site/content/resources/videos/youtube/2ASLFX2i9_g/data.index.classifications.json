@@ -1,12 +1,15 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding which features are actually used by customers and the need for data-driven decision-making, which aligns with hypothesis-driven development principles. However, the primary focus is on Agile practices and the concept of 'gluttony' in backlog management rather than on formulating and testing hypotheses.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of backlog management, with a focus on prioritisation and value delivery. While it touches on the importance of feedback, it lacks explicit discussions on hypothesis formulation, experimentation, or data-driven decision-making, which are central to hypothesis-driven development.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -28,21 +31,27 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of gluttony in relation to the product backlog, highlighting issues of bloating and inefficiency. While it touches on backlog management, it primarily focuses on the negative implications of poor backlog practices rather than providing a comprehensive discussion on the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the concept of a 'bloated product backlog' and the importance of backlog grooming, which are central to the Product Backlog category. It aligns well with the core themes of backlog management, prioritisation, and the role of the backlog in Sprint planning. The depth of discussion is substantial, providing insights into the consequences of an overloaded backlog and strategies for maintaining a healthy backlog. Overall, the content is highly relevant and focused on the Product Backlog, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum concepts such as the product backlog and Sprint planning, but it primarily focuses on the pitfalls of Agile practices rather than an in-depth exploration of Scrum principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:45:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles, particularly in relation to backlog management and Sprint planning, which are core aspects of the Scrum framework. However, it primarily focuses on the metaphor of 'gluttony' in Agile rather than providing a comprehensive exploration of Scrum roles or events. While it touches on relevant topics, the depth of discussion on Scrum-specific practices is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -64,12 +73,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of data collection and analysis in Agile practices, particularly in relation to product features and backlog management. While it touches on evidence-based practices, the primary focus is on Agile concepts rather than leadership decision-making.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, prioritisation, and value delivery, which are relevant to leadership in an Agile context. However, it lacks explicit references to evidence-based leadership principles, empirical data, or metrics that would strengthen its alignment with the category. The focus is more on practical Agile strategies rather than on data-driven decision-making or leadership effectiveness based on evidence.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -130,21 +142,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to backlog management and feature usage, which are relevant to the delivery of functional software. However, it primarily focuses on the concept of 'gluttony' in Agile practices rather than directly addressing the characteristics or delivery of working software.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:45:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices and the importance of prioritising tasks and features that deliver real value, which aligns with the principles of working software. However, it primarily focuses on the pitfalls of backlog management and sprint planning rather than directly addressing the characteristics or delivery of functional software. While it touches on aspects of quality and user needs, the depth of discussion on working software itself is limited.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of bloated backlogs and unused features, which relates to decision-making in prioritising work and managing product features. However, the primary focus is on the concept of 'gluttony' in Agile practices rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:46:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile practices and the importance of prioritisation and realistic goal-setting, which are relevant to decision-making. However, it primarily focuses on the pitfalls of gluttony in Agile rather than structured decision-making methodologies. While it touches on concepts like backlog grooming and value delivery, it lacks a comprehensive exploration of evidence-based decision-making principles or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -250,30 +268,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to backlog management and feature utilisation in Agile teams, which are relevant to strategic alignment and optimisation of delivery processes. However, the primary focus is on the concept of 'gluttony' in Agile practices rather than a comprehensive discussion on strategy itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:46:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses strategic approaches to managing Agile backlogs and Sprint planning, which aligns well with the Strategy category. It explicitly mentions the importance of prioritisation and maintaining a clear focus on organisational goals, demonstrating a strong conceptual alignment with strategic themes. The depth of discussion is substantial, providing detailed insights into practices that enhance team performance and value delivery, which are core to Agile strategy. However, while it is focused on Agile practices, it does not delve deeply into broader strategic frameworks or leadership roles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of managing product backlogs and features effectively, which relates to innovation capabilities. However, the primary focus is on Agile practices and the concept of 'gluttony' in backlog management rather than a direct exploration of the Ability to Innovate as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of backlog management, which are not directly related to the Ability to Innovate category. While it touches on concepts like prioritisation and value delivery, it lacks a strong focus on innovation metrics, Evidence-Based Management, or fostering a culture of innovation. The discussion is more about maintaining agility rather than enhancing innovation capabilities.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles, specifically focusing on the concept of 'gluttony' in relation to backlog management and Sprint planning, which are key aspects of Agile frameworks. However, it primarily revolves around the pitfalls of Agile practices rather than a comprehensive exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly focusing on backlog management and Sprint planning, which are core aspects of Agile frameworks like Scrum. It provides insights into avoiding common pitfalls in Agile, aligning well with the category's emphasis on practical applications and continuous improvement. However, while it touches on Agile concepts, it does not deeply explore multiple frameworks or provide a comparative analysis, which slightly limits its depth and alignment.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -286,30 +313,39 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team dynamics and issues related to backlog management and Sprint planning, which are relevant to team collaboration in Agile contexts. However, the primary focus is on the concept of 'gluttony' in Agile practices rather than on enhancing team collaboration directly.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, which indirectly relates to team collaboration. However, it primarily focuses on individual practices and pitfalls rather than explicitly enhancing team dynamics or communication. While it touches on aspects of team performance and planning, it lacks a direct emphasis on collaboration techniques or shared ownership, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer needs and the impact of unused features on customer satisfaction, making it a major but secondary theme.",
+    "calculated_at": "2025-03-14T21:45:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile practices and the importance of prioritising tasks and features that deliver real value, which indirectly relates to customer satisfaction. However, it lacks direct discussions on customer satisfaction metrics, techniques for measuring customer happiness, or explicit strategies for enhancing customer engagement. The focus is primarily on Agile methodologies rather than a holistic approach to customer satisfaction.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of waste in Agile practices, particularly in relation to bloated backlogs and unused features, which aligns with Lean principles of waste identification and elimination. However, the primary focus is on Agile methodologies rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:46:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of a 'lean approach' in the context of Agile, particularly in relation to backlog management and feature prioritisation. It aligns well with Lean Thinking principles by emphasising the importance of value delivery, waste reduction (in terms of unused features), and continuous improvement through regular reviews. While the primary focus is on Agile practices, the integration of Lean concepts is significant, providing a solid depth of discussion on how to streamline processes and enhance efficiency.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -352,7 +388,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T13:28:49",
+    "calculated_at": "2025-03-14T21:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -360,16 +396,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile practices and the pitfalls of backlog management, which are tangentially related to engineering excellence. However, it lacks a direct focus on software craftsmanship, coding standards, or quality assurance. While it touches on the importance of managing technical debt and improving processes, it does not delve deeply into best practices or metrics for assessing engineering performance, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of gluttony in Agile, particularly in relation to backlog management and the impact of excessive work on team performance and delivery timelines. While it touches on throughput-related themes, such as the consequences of bloated backlogs and the need to optimise workflows, the primary focus is on the metaphor of gluttony rather than a direct exploration of throughput as a central topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of managing backlogs and sprint planning, which indirectly relates to throughput by emphasising the need for prioritisation and realistic goals. However, it does not explicitly focus on measuring or optimising throughput, nor does it provide detailed techniques or strategies specifically aimed at improving throughput rates. The primary focus is on avoiding pitfalls in Agile rather than on throughput as a core metric.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -409,12 +448,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses backlog management and the importance of prioritising features based on customer usage, which are relevant to the Product Owner's responsibilities. However, it primarily focuses on general Agile principles and team behaviours rather than the specific role of the Product Owner.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses backlog management and prioritisation strategies, which are relevant to the Product Owner's responsibilities. However, it does not explicitly mention the Product Owner role or delve deeply into stakeholder engagement or collaboration with development teams. The focus is more on general Agile practices rather than the specific duties of a Product Owner.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -436,20 +478,26 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to backlog management and the importance of understanding feature usage, which aligns with empirical process control principles. However, it primarily focuses on the concept of 'gluttony' in Agile practices rather than a comprehensive exploration of empirical process control itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, which relates to empirical process control principles. However, it lacks direct references to empirical process control concepts such as transparency, inspection, and adaptation. The focus is more on avoiding pitfalls rather than on the core themes of empirical process control, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding which features are actually used by customers and the waste associated with unused features, which aligns with the theme of validating product ideas through user engagement. However, the primary focus is on Agile practices and backlog management, making this a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile practices and the importance of prioritising tasks and features that deliver real value, which aligns with the concept of validating product ideas. However, it primarily focuses on backlog management and sprint planning rather than directly addressing methodologies for validating product ideas through user engagement or feedback. The mention of leveraging feedback is relevant but is not the primary focus of the content, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -520,12 +568,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to backlog management and the delivery of features in Agile, which are relevant to the concept of Increment, but it primarily focuses on the pitfalls of overloading backlogs rather than the delivery of valuable software increments.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of prioritisation and value delivery, which are related to the concept of Increment. However, it primarily focuses on avoiding pitfalls like backlog overload and does not explicitly address the Increment itself or its significance in delivering potentially shippable software. The discussion lacks depth on how Increments are measured or their relationship with other Scrum artifacts.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -607,12 +658,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'gluttony' in Agile practices, particularly in relation to backlog management and feature utilisation, which are relevant to Agile strategy. However, it primarily focuses on specific practices rather than a broader strategic context.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the pitfalls of gluttony in Agile, focusing on backlog management, prioritisation, and the importance of delivering value over volume. It aligns well with Agile principles, particularly in terms of continuous value delivery and adaptability. However, while it touches on strategic aspects, it primarily focuses on practical implementations rather than a broader strategic framework, which slightly limits its depth in the context of Agile Strategy.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -709,12 +763,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses waste in the context of Agile practices, particularly focusing on bloated backlogs and unused features, which aligns with Lean principles of waste reduction and value maximisation. However, the primary focus is on Agile rather than Lean itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:46:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile practices and the concept of gluttony in relation to backlog management, which indirectly touches on Lean principles such as waste reduction and value maximisation. However, the primary focus is on Agile methodologies rather than Lean itself. While it mentions a 'Lean approach' and the importance of streamlining products, the overall discussion is more centred on Agile practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -787,21 +844,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empirical data in evaluating product features and backlog management, which aligns with Evidence-Based Management principles. However, the primary focus is on Agile practices rather than EBM itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of prioritisation and value delivery, which are relevant to Evidence-Based Management. However, it primarily focuses on avoiding pitfalls in Agile rather than explicitly applying empirical evidence to enhance decision-making processes. The discussion lacks direct references to EBM principles or techniques for measuring performance, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to backlog management and the consequences of bloated backlogs, which aligns with backlog refinement principles. However, it primarily focuses on the concept of 'gluttony' in Agile practices rather than a detailed exploration of backlog refinement techniques or best practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of backlog management and prioritisation, which aligns with backlog refinement principles. However, it primarily focuses on the pitfalls of an overloaded backlog and general Agile practices rather than providing in-depth discussions specifically about backlog refinement techniques or roles. The mentions of backlog grooming and prioritisation are relevant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -814,12 +877,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses issues related to backlog management and Sprint planning, which are relevant to the Scrum Master role, but it primarily focuses on the concept of 'gluttony' in Agile rather than the responsibilities or practices of a Scrum Master.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:45:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, which is relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities. The focus on Sprint planning and team dynamics aligns with Scrum principles, but the overall discussion is more general about Agile rather than specifically about the Scrum Master.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -841,21 +907,27 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to backlog management and feature usage, which are relevant to technical leadership in agile environments. However, it primarily focuses on the concept of 'gluttony' in Agile rather than providing a comprehensive discussion on technical leadership principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, sprint planning, and prioritisation, which are relevant to technical leadership. However, it lacks direct mentions of leadership roles or strategies for mentoring teams, which are crucial for a higher confidence score. The depth of discussion on Agile practices is substantial, but it does not fully explore the broader implications of technical leadership.",
     "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding which features are actually used by customers and the need to avoid bloating the product backlog with unused features. While it primarily focuses on Agile practices and backlog management, it touches on aspects of product discovery by highlighting the necessity of validating product features against customer needs.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on Agile practices, particularly around backlog management and sprint planning, which are more aligned with project management than product discovery. While it briefly touches on the importance of aligning features with user needs and leveraging feedback, these points are secondary to the main discussion about avoiding 'gluttony' in Agile processes. The content lacks a thorough exploration of methodologies specifically aimed at identifying customer needs or validating product ideas, which are central to product discovery.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -925,12 +997,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to backlog management and Sprint planning, which are relevant to Scrum Teams, but it primarily focuses on the concept of 'gluttony' in Agile rather than the dynamics and roles within a Scrum Team.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:45:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum in the context of avoiding pitfalls like backlog overload and overcommitment during Sprint planning. While it touches on Scrum practices, it does not delve deeply into the roles or dynamics of a Scrum Team, which limits its alignment with the category. The focus is more on Agile principles rather than specific Scrum team interactions.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -988,12 +1063,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses backlog management and Sprint planning, which are relevant to Agile Planning Tools, but it primarily focuses on the concept of 'gluttony' in Agile practices rather than the tools themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:45:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses key aspects of Agile planning, particularly focusing on backlog management and sprint planning, which are central to Agile methodologies. It explicitly mentions the importance of prioritisation and maintaining a clear backlog, aligning well with the core themes of Agile Planning Tools. However, while it provides valuable insights, the depth of discussion on specific tools or metrics is limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1060,12 +1138,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses waste in the context of Agile practices, particularly focusing on the concept of gluttony in backlogs and features that are not used by customers. While it primarily addresses Agile, it touches on Lean principles of waste reduction and value creation, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:45:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile practices and the concept of gluttony in relation to backlog management, which is primarily focused on Agile methodologies. However, it does incorporate Lean principles, particularly in the section about streamlining the product and embracing a Lean mindset. This indicates a moderate alignment with Lean concepts, but the primary focus remains on Agile, leading to a lower overall confidence score.",
+    "level": "Secondary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1117,12 +1198,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the management of product backlogs, which are relevant to product delivery, but it primarily focuses on the concept of 'gluttony' in Agile rather than providing a comprehensive overview of product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and practices related to product delivery, specifically addressing backlog management, sprint planning, and the importance of prioritising value over volume. It discusses practical strategies for maintaining a streamlined product and enhancing team efficiency, which aligns well with the core themes of product delivery. The depth of discussion is substantial, providing actionable insights and takeaways that contribute to effective product delivery. Overall, the content is highly relevant to the category.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1174,12 +1258,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:45:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the implications of bloated backlogs and features, which are relevant to practical techniques in Agile. However, it primarily focuses on the concept of 'gluttony' in Agile without providing specific tools or methodologies for improvement.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses practical techniques for managing Agile practices, particularly focusing on backlog management, sprint planning, and feature audits. It provides actionable insights and strategies that align well with the category's emphasis on tooling and methodologies. However, while it touches on Agile practices, it lacks direct references to specific tools or frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1192,11 +1279,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the importance of managing product backlogs effectively, which relates to market adaptability. However, it primarily focuses on the pitfalls of Agile implementation rather than strategies for enhancing responsiveness to market changes.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, which aligns with the principles of market adaptability. It highlights the need for prioritisation and realistic planning, which are essential for responding to market changes. However, while it touches on Lean principles and the importance of value delivery, it does not explicitly address broader market adaptability strategies or the role of data analytics and cross-functional teams, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1237,12 +1327,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and practices, particularly focusing on backlog management and the importance of delivering value, which are relevant to business agility. However, it primarily centres on the concept of 'gluttony' in Agile practices rather than a broader exploration of business agility principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:45:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, which indirectly relates to business agility. However, it primarily focuses on Scrum-specific issues rather than broader principles of business agility. While it touches on themes of prioritisation and value delivery, it lacks a comprehensive exploration of organisational adaptability and leadership roles in fostering business agility.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1276,12 +1369,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the importance of managing backlogs effectively, which relates to organisational agility. However, it primarily focuses on the pitfalls of Agile implementation rather than broader strategies or frameworks for enhancing organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:21:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile practices and the importance of backlog management, which aligns with the principles of organisational agility. It highlights the need for prioritisation and realistic planning, contributing to adaptability. However, the focus is primarily on Scrum-specific practices rather than broader organisational strategies, which limits its depth in discussing organisational agility as a whole.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",

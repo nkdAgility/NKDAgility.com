@@ -24,9 +24,7 @@ aliasesArchive:
 - /resources/blog/mvvm-for-dummies
 tags:
 - Software Development
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -26,11 +26,10 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - People and Process
-- Product Delivery
 - Value Delivery
-- Market Adaptability
-- Operational Practices
 - Software Development
+- Product Delivery
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

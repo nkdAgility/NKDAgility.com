@@ -33,10 +33,11 @@ tags:
 - Agile Project Management
 - Professional Scrum
 - Software Development
+- Transparency
 - Agile Frameworks
 - Software Developers
-- Agile Product Management
-- Product Delivery
+- Organisational Agility
+- Agile Planning Tools
 resourceTypes:
 - video
 categories:

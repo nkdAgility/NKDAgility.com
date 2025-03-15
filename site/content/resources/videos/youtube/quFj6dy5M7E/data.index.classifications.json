@@ -10,25 +10,31 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team competence and collaboration in delivering successful products, touching on Agile and DevOps principles, but it primarily focuses on individual roles and skills rather than explicit team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:04:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of collaboration and communication within teams, particularly in the context of building a high-performance delivery engine. It highlights the need for team members to adopt a product developer mindset and encourages open dialogue, which aligns well with the themes of team collaboration. However, while collaboration is a significant aspect, the content also heavily focuses on competence and individual roles, which slightly detracts from its primary focus on team dynamics. Therefore, the confidence score reflects a strong but not exclusive emphasis on team collaboration.",
+    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding business needs and testing hypotheses in product development, which aligns with MVP principles, but it primarily focuses on building high performing teams and delivery processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competence in product development and touches on Agile and Lean philosophies, which are relevant to MVP concepts. However, it lacks a direct focus on MVP as a specific product development strategy, and the discussion is more about general delivery practices rather than the iterative testing and validation of a Minimum Viable Product.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-13T16:28:07",
+    "calculated_at": "2025-03-14T17:03:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -36,7 +42,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to deployment frequency through the emphasis on Agile and DevOps philosophies. However, it lacks direct mentions of deployment frequency and does not provide specific strategies or metrics related to optimising deployment intervals, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -58,12 +64,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:05:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Lean principles in the context of building a high-performance delivery engine, but it also heavily focuses on Agile and DevOps, making Lean a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with Lean principles of maximising value and continuous improvement. However, it does not explicitly focus on Lean Product Development or provide detailed techniques for waste elimination or customer feedback integration, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -142,11 +151,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of competence and understanding in delivering successful products, which relates to innovation. However, it primarily focuses on building high performing teams and delivery processes rather than directly measuring or enhancing innovation capabilities.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to the Ability to Innovate. However, it lacks explicit references to innovation frameworks, metrics, or Evidence-Based Management principles. While it touches on continuous improvement and adapting to market demands, these concepts are not explored in depth or directly tied to innovation capabilities.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -181,12 +193,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and mentions Scrum, but it primarily focuses on building high-performing teams and delivery processes rather than specifically on the role and responsibilities of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile and Scrum as part of broader philosophies but does not specifically focus on the role of the Scrum Master or their responsibilities. While it touches on collaboration and continuous improvement, which are relevant to Scrum, it lacks detailed exploration of Scrum Master practices or techniques.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -229,20 +244,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and understanding in delivering successful products, which aligns with some principles of Evidence-Based Management, but it primarily focuses on team dynamics and practices rather than empirical evidence or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with some principles of Evidence-Based Management, such as continuous improvement and stakeholder engagement. However, it lacks explicit references to empirical evidence, metrics, or the structured application of EBM principles as outlined by Schwaber and Sutherland. The discussion is more focused on general philosophies and practices rather than a data-driven approach, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:05:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for competence in both technical and business contexts to build high performing teams, which relates to organisational change. However, it primarily focuses on software delivery processes and Agile methodologies rather than a comprehensive discussion on organisational change strategies or frameworks.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which touches on aspects of organisational change. However, it primarily focuses on technical skills and frameworks like Agile and Lean without delving deeply into change management strategies or methodologies specific to organisational transformation. The analogy of renovating a house hints at the need for careful consideration before making changes, but it lacks a thorough exploration of frameworks like ADKAR or Kotter's 8-Step Process. Overall, while there are relevant themes, the primary focus remains on delivery and technical practices rather than on organisational change itself.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -394,12 +415,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and collaboration within teams, touching on Agile principles and practices. However, it primarily focuses on individual team dynamics and product delivery rather than explicitly addressing scaling Agile across multiple teams or at an enterprise level.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles and the importance of collaboration and competence in delivery teams, which aligns with some core themes of Scaled Agile. However, it lacks explicit references to scaling Agile practices across multiple teams or frameworks like SAFe or LeSS. The focus is more on individual team dynamics and competencies rather than enterprise-level strategies or coordination among multiple teams.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -493,12 +517,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of competence in software delivery and the need for a focus on product development, which aligns with the principles of working software. However, it primarily revolves around team dynamics and business understanding rather than directly addressing the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in software delivery, aligning with the principles of working software. It touches on Agile and product development, which are relevant to the category, but lacks a direct focus on the delivery of functional software and specific practices for ensuring software quality. The depth of discussion on working software concepts is moderate, with some relevant insights but not enough to fully satisfy the category's criteria.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -538,12 +565,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:03:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding business needs, market fit, and testing hypotheses, which are relevant to Lean Startup principles. However, the primary focus is on building high-performance delivery teams and processes rather than explicitly on Lean Startup methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence in product development and touches on concepts like understanding business needs and market fit, which are relevant to Lean Startup principles. However, it lacks a direct focus on the Lean Startup methodology, such as the Build-Measure-Learn feedback loop or the concept of Minimum Viable Products (MVPs). The discussion is more centred around general delivery practices and Agile methodologies rather than specifically applying Lean principles to validate business ideas.",
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -583,12 +613,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:05:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and their application in building high performing teams, but it also covers broader topics related to business needs and team dynamics, making agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses agile principles and frameworks, particularly mentioning Agile, Scrum, and Lean, which aligns with the core themes of Agile Project Management. However, it lacks detailed exploration of specific agile practices, roles, or metrics, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -637,11 +670,14 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of formulating hypotheses related to product development and market fit, indicating a secondary theme of hypothesis-driven development within a broader context of building high-performing teams and delivery engines.",
+    "calculated_at": "2025-03-14T17:04:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions the importance of valid hypotheses in the context of product development, which aligns with the category. However, it lacks a detailed discussion on hypothesis formulation, experimentation, or data-driven decision-making, which are core aspects of Hypothesis Driven Development. The focus is more on competence and collaboration rather than on empirical testing or validated learning.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
@@ -715,12 +751,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum principles in the context of building high-performing teams and delivering products, but it also covers broader topics related to business needs and team dynamics, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in product development, which aligns with Scrum principles. It mentions Agile and Scrum as frameworks but lacks specific details on Scrum roles, events, or practices. The focus on product development and team dynamics indicates a moderate alignment with the category, but the absence of explicit Scrum discussions limits the confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -742,11 +781,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:05:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical competence and understanding of methodologies like Agile and DevOps in building high-performing teams, but it also heavily focuses on business needs and team dynamics, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of competence in software delivery and touches on Agile and DevOps philosophies, which are relevant to technical mastery. However, the primary focus is on broader concepts of product development and business needs rather than specific technical practices or methodologies. The depth of technical discussion is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -760,11 +802,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team competence and roles in delivering value, touching on Scrum as part of a broader Agile context, but it primarily focuses on general team dynamics and delivery rather than specific Scrum practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in a team context, which aligns with Scrum principles. However, it lacks direct references to specific Scrum roles or practices, and the depth of discussion on Scrum dynamics is minimal. While it mentions Scrum as part of a broader set of frameworks, it does not focus specifically on Scrum Team dynamics or practices.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -787,12 +832,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding Agile, DevOps, and Lean philosophies in building high-performing teams and delivery engines, indicating a secondary theme of trend analysis in practices. However, it primarily focuses on team dynamics and competencies rather than explicitly analysing trends.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, touching on Agile and DevOps philosophies. However, it lacks a focused analysis of trends or shifts within these frameworks, which is essential for the 'Trend Analysis' category. The discussion is more about practices and principles rather than identifying or analysing trends.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -820,11 +868,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence in teams and the need for understanding business needs and product delivery, which are relevant to digital transformation. However, it primarily focuses on team dynamics and methodologies like Agile and DevOps rather than a strategic adoption of digital technologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to digital transformation through the emphasis on Agile and DevOps methodologies. However, it lacks explicit mentions of digital technologies or strategic initiatives that enhance business agility and innovation. The focus is more on team dynamics and practices rather than on the broader implications of digital transformation in an organisational context.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -865,12 +916,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and understanding in building high performing teams, which aligns with evidence-based practices. However, it primarily focuses on team dynamics and technical skills rather than explicitly on evidence-based leadership principles or empirical decision-making.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with some principles of evidence-based leadership. However, it lacks explicit references to empirical evidence or data-driven decision-making, focusing more on personal insights and philosophies. While it touches on concepts like continuous improvement and understanding business needs, it does not provide a strong foundation in evidence-based practices or metrics, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -913,12 +967,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and understanding within teams, touching on Agile and DevOps philosophies, which are relevant to organisational culture. However, the primary focus is on building a high-performance delivery engine rather than explicitly on cultural aspects.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:03:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to organisational culture. It highlights the need for a mindset shift among team members and the role of collaboration in fostering a productive environment. However, while it touches on cultural aspects, it primarily focuses on technical skills and practices rather than a deep exploration of organisational culture itself. The discussion on Agile and DevOps philosophies adds some alignment, but the depth of cultural analysis is limited.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -931,11 +988,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and understanding within teams, which aligns with coaching principles, but it primarily focuses on building a high-performance delivery engine rather than coaching itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with coaching principles. However, it lacks direct mentions of coaching techniques or the role of a coach, focusing more on technical and business competencies. The depth of discussion on coaching-related topics is minimal, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -970,12 +1030,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of building a high-performance delivery engine, which touches on the importance of competence in software delivery and understanding business needs. However, it primarily focuses on team dynamics and philosophies rather than specific release management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in software delivery, which aligns with some aspects of release management, such as continuous improvement and stakeholder engagement. However, it lacks direct mentions of release processes, version control, or specific release management strategies, making it more of a general discussion on software delivery rather than a focused exploration of release management.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1009,11 +1072,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:06:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for competence and understanding in the context of business and Agile principles, which are relevant to change management. However, the primary focus is on building a high-performance delivery engine rather than explicitly addressing change management strategies or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to change management principles. However, it lacks explicit discussions on change management strategies, stakeholder engagement, or leadership roles in transformation. The analogy of renovating a house touches on the need for due diligence before making changes, but overall, the focus remains more on operational effectiveness rather than the core themes of change management.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -1027,12 +1093,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and frameworks in the context of building high-performing teams and delivery engines, making it a major but secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:04:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile frameworks as part of a broader conversation about building a high-performance delivery engine. While Agile is mentioned, it is not the primary focus of the content, which centres more on competence and collaboration. The discussion includes references to Agile principles but lacks in-depth exploration of specific frameworks or their comparative analysis, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -1063,21 +1132,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile, DevOps, and Lean philosophies, which are relevant to the category, but it primarily focuses on the concept of building a high-performance delivery engine rather than specific products or literature.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:05:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with Agile and DevOps principles. However, it lacks direct references to specific products or books, and while it touches on methodologies, it does not provide in-depth analysis or reviews of literature or tools. The focus is more on general practices rather than specific resources, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:05:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding business needs and making informed choices in the context of building high-performing teams and delivery engines, which aligns with decision-making processes. However, the primary focus is on Agile and DevOps practices rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, touching on decision-making indirectly through concepts like due diligence and understanding business needs. However, it primarily focuses on Agile and DevOps frameworks rather than explicitly addressing decision theory principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1135,30 +1210,39 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding interdependencies and the holistic approach required for building high performing teams and delivery engines, which aligns with Systems Thinking principles. However, it primarily focuses on Agile, DevOps, and Lean methodologies, making Systems Thinking a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:04:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with some principles of Systems Thinking, such as understanding interdependencies and fostering a holistic approach. However, it primarily focuses on Agile, DevOps, and Lean methodologies without deeply exploring Systems Thinking concepts like feedback loops or causal relationships. The mention of 'due diligence' in the context of organisational change hints at a systems perspective but lacks explicit discussion of Systems Thinking frameworks or tools.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of competence and understanding in delivering successful products, which aligns with the themes of continuous improvement and Agile principles. However, it primarily focuses on team dynamics and roles rather than specific metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, touching on Agile and DevOps philosophies. However, it lacks a direct focus on metrics, data analysis, or feedback mechanisms, which are central to the 'Metrics and Learning' category. While there are mentions of continuous improvement and collaboration, these concepts are not explored in the context of metrics or evidence-based decision-making, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:05:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding Agile principles and practices in the context of building high-performing teams and delivering successful products, making Agile a significant theme, but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with Agile principles. It mentions Agile, DevOps, Lean, and Scrum, indicating a conceptual understanding of Agile methodologies. However, the focus is more on general delivery practices rather than specific Agile product management techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1240,12 +1324,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Lean as part of a broader discussion on building high performing teams and delivery engines, but it primarily focuses on Agile and team dynamics rather than Lean principles specifically.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content briefly mentions Lean as one of several frameworks but does not delve deeply into Lean principles or methodologies. While it discusses maximising value delivery and continuous improvement, which are core Lean concepts, the overall focus is more on Agile and general delivery practices rather than a dedicated exploration of Lean. Therefore, while there is some alignment with Lean principles, the depth and direct mention are not sufficient for a higher confidence score.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1279,11 +1366,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of competence in technical and business contexts for building high performing teams, as well as the need to understand Agile and DevOps philosophies. However, it primarily focuses on the broader concepts of team dynamics and business needs rather than specific tools or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, touching on Agile and DevOps philosophies. However, it lacks specific references to practical tools or methodologies, and while it mentions concepts like continuous improvement and collaboration, it does not delve into concrete techniques or frameworks that enhance Agile and DevOps practices. The focus is more on mindset and philosophy rather than practical application, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1306,11 +1396,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and understanding within teams to build a high performing delivery engine, touching on Agile, DevOps, and Lean principles. However, it primarily focuses on team-level practices rather than broader organisational agility.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with the principles of enterprise agility. It touches on Agile, DevOps, and Lean philosophies, indicating a broader organisational context. However, the focus remains primarily on team-level practices and individual competencies rather than explicitly addressing enterprise-wide agility frameworks or structures. The depth of discussion on fostering a culture of agility and continuous improvement is present, but it lacks specific metrics or case studies that would strengthen its alignment with the category.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -1357,12 +1450,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:04:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding business needs, testing hypotheses, and leveraging emergent practices, which are relevant to discovery and learning. However, the primary focus is on building a high-performance delivery engine and team competencies, making the category a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with the themes of continuous learning and adapting to new information. It mentions the need for a mindset shift towards product development and the significance of embracing core philosophies like Agile and Lean, which are relevant to discovery and learning. However, while it touches on these concepts, the primary focus is more on competence and collaboration rather than explicitly on discovery and learning processes, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

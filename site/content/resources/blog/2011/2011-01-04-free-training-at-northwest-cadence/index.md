@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/free-training-at-northwest-cadence
 tags:
 - Events and Presentations
-- Miscellaneous
-- News and Reviews
 categories: []
 preview: metro-event-128-link-3-3.png
 

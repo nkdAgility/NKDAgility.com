@@ -31,12 +31,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of having a high-quality, usable, working product and its impact on delivering value, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:14:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the implications of technical debt on the delivery of high-quality software, emphasising the importance of maintaining a usable product and the strategies to manage technical debt effectively. While it does not explicitly mention 'working software', it aligns well with the core themes of delivering functional software that meets customer needs and highlights best practices for ensuring software quality. The depth of discussion on strategies and the impact of technical debt on delivery adds to its relevance, but it lacks direct references to Agile or Scrum frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -163,11 +166,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:07:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering value and maintaining a high-quality product, which aligns with Agile principles, but it primarily focuses on technical debt rather than Agile values or principles themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses technical debt and its implications on team dynamics and product quality, which indirectly relates to Agile principles such as delivering value and fostering empowered teams. However, it lacks direct references to Agile values or principles, and the focus is primarily on technical debt management rather than a thorough exploration of Agile methodologies.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -337,7 +343,7 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-13T15:20:47",
+    "calculated_at": "2025-03-14T17:14:45",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -345,7 +351,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the impact of technical debt on delivery speed and the importance of maintaining a high-quality product, which indirectly relates to deployment frequency. However, it does not explicitly focus on deployment intervals or strategies to optimise them, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -460,7 +466,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T14:42:00",
+    "calculated_at": "2025-03-14T17:14:45",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -468,7 +474,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of delivering a high-quality product and the implications of technical debt, which can relate to product management. However, it lacks explicit discussions on methodologies, frameworks, or strategic alignment with customer needs and business objectives, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -502,12 +508,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of technical debt in relation to delivering value and innovation, which aligns with the themes of digital transformation. However, it does not explicitly focus on the strategic adoption of digital technologies or provide a comprehensive discussion on digital transformation initiatives, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses technical debt and its implications for innovation and value delivery, which aligns with the themes of digital transformation, particularly in enhancing business agility and fostering a culture of continuous improvement. However, it does not explicitly mention digital technologies or strategies for digital transformation, which limits its direct relevance to the category. The depth of discussion on managing technical debt provides some insight into operational efficiency but lacks comprehensive coverage of digital transformation initiatives.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -757,12 +766,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality, usable, working product regularly, which aligns with the concept of Increment in Agile. However, it primarily focuses on technical debt and opportunities rather than the Increment itself, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of delivering a high-quality product and the impact of technical debt on delivery speed and team morale, which aligns with the Increment category. However, it primarily focuses on technical debt rather than the Increment itself, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -841,12 +853,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality product regularly, which relates to operational efficiency, but it primarily focuses on the concept of technical debt and its implications rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of technical debt on operational efficiency, highlighting how it affects maintenance costs, delivery speed, and team morale. It aligns well with the category by providing strategies for managing technical debt, which is crucial for improving operational practices. The depth of discussion is significant, offering actionable strategies and insights into fostering a culture of quality and agility, which are key aspects of operational excellence.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -913,7 +928,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T09:49:06",
+    "calculated_at": "2025-03-14T17:14:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -921,7 +936,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of delivering a high-quality product regularly, which aligns with Agile principles of continuous value delivery. However, it lacks explicit mentions of Agile methodologies or strategic planning, focusing more on the concept of technical debt rather than a comprehensive Agile strategy.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -985,12 +1000,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:15:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of technical debt and its implications for delivering high-quality software, which aligns with software development practices. However, it does not delve deeply into specific methodologies or frameworks, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses technical debt, its implications on software quality, and strategies for managing it, which aligns closely with software development practices. It addresses the importance of maintaining a high-quality product and incorporates methodologies like regular reviews and refactoring within sprints, demonstrating a strong alignment with core themes of the Software Development category.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1111,12 +1129,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of technical debt in relation to innovation and value delivery, indicating a secondary theme of learning from opportunities. However, it primarily focuses on the implications of technical debt rather than the processes of discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of technical debt and its implications on innovation and team performance, aligning well with the themes of continuous learning and adaptation. It highlights the importance of fostering a culture that prioritises high-quality product delivery, which is essential for innovation. The strategies provided for managing technical debt also reflect a learning mindset, encouraging teams to adapt and improve. However, while the content touches on discovery and learning, it primarily focuses on technical debt management, which slightly limits its depth in the category.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -1147,12 +1168,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of delivering value and the impact of technical debt on opportunities for innovation, which aligns with the principles of Value Stream Management. However, it primarily focuses on technical debt rather than a comprehensive discussion on value stream management itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt and its implications on product quality and delivery, which indirectly relates to value stream management by highlighting the importance of maintaining a high-quality product for value delivery. However, it does not explicitly mention value stream management principles or techniques, nor does it focus on mapping or analysing value streams. The discussion is more centred on technical debt rather than the broader strategic approach of value stream management.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1264,7 +1288,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T17:50:13",
+    "calculated_at": "2025-03-14T17:14:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1272,7 +1296,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the importance of delivering a high-quality product regularly, which hints at team dynamics and the process of delivering value. However, it lacks explicit discussions on human behaviour, collaboration, or structured methodologies, which are central to the 'People and Process' category. The focus is more on the concept of technical debt rather than the interplay between people and processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1402,11 +1426,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:02:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:15:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality product regularly, which aligns with the principles of value delivery in the Agile Product Operating Model, but it primarily focuses on technical debt rather than the broader framework.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of maintaining a high-quality product and the impact of technical debt on value delivery, which aligns with the principles of the Agile Product Operating Model. It mentions strategies for managing technical debt that can enhance agility and value delivery, indicating a conceptual alignment with the category. However, the primary focus is on technical debt rather than a comprehensive discussion of the Agile Product Operating Model itself, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -1447,7 +1474,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:34",
+    "calculated_at": "2025-03-14T17:14:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1455,6 +1482,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the importance of delivering a high-quality, usable product regularly, which aligns with Scrum's emphasis on iterative progress and delivering value. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum principles or practices, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

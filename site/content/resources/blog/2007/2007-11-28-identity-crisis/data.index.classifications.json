@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Identity Lifecycle Manager 2007, which relates to managing user identities and data consistency across systems, a component of application lifecycle management. However, the primary focus is on identity management rather than the broader application lifecycle stages.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Microsoft's Identity Lifecycle Manager (ILM) and its role in managing user identities across various systems. While it touches on aspects of lifecycle management, such as data consistency and automation, it primarily focuses on identity management rather than the broader application lifecycle management principles. The discussion lacks depth in terms of the stages of application lifecycle, governance, and integration with Agile or DevOps principles, which are key topics in Application Lifecycle Management.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -178,7 +181,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-11T17:07:01",
+    "calculated_at": "2025-03-15T07:37:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -186,7 +189,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Microsoft's Identity Lifecycle Manager 2007, providing an overview of its features and potential benefits for businesses. However, it lacks a clear focus on industry news or reviews, as it primarily serves as a personal evaluation of a specific tool rather than a broader commentary on trends or updates in Agile, DevOps, or technology. While it mentions some relevant aspects, such as operational efficiency and security, the discussion is more technical and personal than informative or evaluative in the context of industry news.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -592,12 +595,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation and evaluation of Microsoft's Identity Lifecycle Manager 2007, touching on some software solutions and automation strategies, but it is more focused on identity management than traditional software development practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Microsoft's Identity Lifecycle Manager 2007, which relates to software development in terms of automating user identity management and data consistency across systems. However, the focus is more on the product's features and benefits rather than on software development methodologies or practices. While it touches on aspects of system integration and automation, it lacks a deeper exploration of software engineering principles or frameworks, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -964,12 +970,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Microsoft Identity Lifecycle Manager and its technical features, particularly focusing on data consistency and automation processes within identity management. While it has a significant technical aspect, the primary focus is more on a specific solution rather than broader software craftsmanship principles and practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Microsoft's Identity Lifecycle Manager 2007 and its capabilities in managing user identities across various systems. While it touches on technical aspects such as data consistency, automation, and integration with existing systems, the primary focus is on the product's features rather than on broader principles of software craftsmanship or engineering practices. The discussion lacks depth in terms of best practices, clean code principles, or methodologies that contribute to high-quality software development, which are essential for a stronger alignment with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1300,11 +1309,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving operational efficiency through the use of Identity Lifecycle Manager 2007 and its capabilities that streamline identity management, which relates to operational practices in a corporate environment.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the implementation of Microsoft's Identity Lifecycle Manager (ILM) 2007, which aims to improve operational efficiency by providing a unified view of user identities and automating processes related to user account management. While it mentions operational efficiency and automation, the focus is primarily on the product features rather than broader operational practices or methodologies like Agile, DevOps, or Lean. The discussion lacks depth in terms of specific strategies or techniques for operational improvement, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Culture": {

@@ -34,11 +34,11 @@ tags:
 - Decision Making
 - Evidence Based Leadership
 - Value Delivery
+- Product Discovery
 - Metrics and Learning
 - Discovery and Learning
 - Experimentation
-- Lean Startup
-- Pragmatic Thinking
+- Product Delivery
 resourceTypes:
 - video
 categories:

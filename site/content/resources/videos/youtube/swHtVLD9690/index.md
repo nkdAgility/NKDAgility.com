@@ -37,6 +37,8 @@ tags:
 - Software Developers
 - People and Process
 - Operational Practices
+- Metrics and Learning
+- Discovery and Learning
 - Product Delivery
 resourceTypes:
 - video

@@ -30,8 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Transformation
+- Agile Project Management
+- Coaching
 - Agile Leadership
+- Organisational Agility
 - People and Process
+- Software Development
+- Agile Strategy
 resourceTypes:
 - video
 categories:

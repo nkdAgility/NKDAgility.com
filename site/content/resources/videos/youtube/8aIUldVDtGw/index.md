@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Throughput
 - Cycle Time
+- Lean Principles
+- Operational Practices
 - Value Delivery
+- Team Performance
 - Flow Efficiency
 - Lean Thinking
 - Lean
-- Agile Product Management
-- Product Delivery
-- Throughput
-- Strategy
 resourceTypes:
 - video
 categories:

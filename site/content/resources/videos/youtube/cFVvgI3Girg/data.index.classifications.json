@@ -79,7 +79,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T14:15:10",
+    "calculated_at": "2025-03-14T22:47:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -87,7 +87,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the evolution of the Product Owner role into a leadership position, which touches on Scrum principles but lacks a direct focus on the Scrum framework, roles, events, or artifacts. While it mentions the Product Owner, it does not delve deeply into Scrum practices or provide a comprehensive exploration of Scrum as outlined in the Scrum Guide. The discussion is more about personal experiences and opinions rather than a structured analysis of Scrum principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -220,7 +220,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T10:09:09",
+    "calculated_at": "2025-03-14T22:47:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -228,7 +228,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the evolution of product owners into leadership roles, touching on aspects of accountability and influence within teams. However, it lacks a direct focus on team performance metrics, collaboration techniques, or specific Agile practices that enhance team dynamics. While it mentions leadership and culture, it does not delve deeply into methodologies or strategies aimed at maximising team effectiveness, which are central to the 'Team Performance' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -250,7 +250,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T11:32:15",
+    "calculated_at": "2025-03-14T22:47:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -258,7 +258,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the evolution of product ownership into leadership roles within Agile frameworks, which touches on aspects of product delivery. However, it primarily focuses on the personal development of product owners rather than the methodologies and practices of delivering software products. While there are mentions of accountability and leadership, the discussion lacks depth in core product delivery practices such as planning, testing, and deployment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -424,12 +424,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T20:05:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:03:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of the product owner role into a leadership position, touching on themes of accountability and organisational culture, which are relevant to Agile principles. However, it primarily focuses on the role of product owners rather than the core Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its implications for leadership within Agile environments. While it touches on themes of accountability, collaboration, and creating a thriving culture, it primarily focuses on the role itself rather than explicitly discussing Agile values and principles. The mention of systems over control aligns with Agile principles, but the overall depth and direct references to Agile values are limited.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -469,21 +472,27 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T20:05:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:24:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the evolution of product owners into systemic leaders and the impact of leadership on organisational culture, highlighting how leadership shapes the culture within Agile environments.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, emphasising the importance of creating a thriving organisational culture. It highlights how leaders can influence culture and systems within teams, aligning well with the category's focus on cultural elements that support Agile practices. The depth of discussion on leadership's role in fostering a culture of accountability and collaboration further strengthens its relevance. However, while the content is rich in cultural insights, it primarily revolves around the Product Owner's journey, which slightly limits its broader applicability to organisational culture as a whole.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T20:05:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on leadership roles and organisational culture, which are relevant to large-scale Agile practices, but it primarily focuses on individual roles rather than broader scaling frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:47:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into systemic leadership, which touches on aspects of leadership and culture within Agile environments. However, it primarily focuses on individual roles and responsibilities rather than large-scale Agile frameworks or enterprise-level strategies. While there are mentions of creating systems and fostering collaboration, the content lacks a direct focus on scaling Agile practices across an organisation, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -514,12 +523,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T20:05:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:47:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into leadership roles within Agile environments, highlighting aspects of Agile leadership and organisational culture, but it is not solely focused on Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role within Agile frameworks, highlighting leadership and cultural aspects that align with Agile transformation principles. However, while it touches on Agile concepts, it lacks a comprehensive exploration of Agile methodologies or frameworks, which limits its depth in the context of Agile transformation.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -550,12 +562,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T20:05:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on leadership and organisational culture, which are relevant to resilience and change, but the primary focus is on Agile roles rather than resilience strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:47:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into systemic leadership, which touches on themes of organisational change and adaptability. However, while it mentions leadership and creating a thriving culture, it lacks a comprehensive exploration of resilience strategies or frameworks. The focus is more on individual roles and personal development rather than broader organisational resilience practices.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -586,11 +601,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T20:05:44",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses personal insights and experiences related to the evolution of a product owner into a systemic leader, reflecting on individual perspectives and anecdotes. However, it also includes significant technical discussions about roles and responsibilities within Agile frameworks.",
+    "calculated_at": "2025-03-14T22:47:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the author's personal reflections and experiences regarding the evolution of the Product Owner role into leadership within Agile environments. It discusses personal insights on accountability and leadership, aligning well with the Personal category's themes. The depth of discussion is significant, providing specific examples and encouraging engagement, which enhances its personal nature. However, it also includes some general observations about Agile practices, which slightly detracts from the personal focus.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -622,20 +640,26 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T20:05:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:47:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the evolution of the Product Owner role and touches on leadership within Agile, which relates to Scrum Team dynamics but is not primarily focused on Scrum Team collaboration or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the evolution of the Product Owner role and its implications for leadership within Agile environments. While it touches on aspects relevant to Scrum Teams, such as accountability and collaboration, it lacks a direct focus on team dynamics, roles beyond the Product Owner, and specific Scrum practices. The depth of discussion on the Product Owner's transition to leadership provides some insight into team effectiveness but does not comprehensively cover the broader themes of Scrum Team collaboration and dynamics.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T20:05:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on leadership's role in fostering an agile culture, which aligns with scaling agility. However, the primary focus remains on individual roles rather than broader organisational strategies.",
+    "calculated_at": "2025-03-14T22:48:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into systemic leadership, which touches on the broader implications of agility within an organisation. It mentions the importance of creating a thriving culture and systems that empower teams, aligning with the core themes of scaling agility. However, the focus remains primarily on the individual role rather than on organisational frameworks or strategies for scaling agility, which limits the depth of discussion.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -685,21 +709,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T20:06:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on leadership and organisational culture, which are relevant to change management, but it primarily focuses on individual roles rather than broader change management strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:48:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, which touches on aspects of change management, particularly in fostering a culture and systems that support Agile principles. However, it primarily focuses on individual roles and personal development rather than broader change management strategies or practices. While there are relevant themes, such as creating a thriving culture and systems thinking, the depth of discussion on change management principles and practices is limited.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T20:06:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into leadership roles, touching on aspects of team dynamics and culture, but primarily focuses on individual roles rather than collective team collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:48:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its impact on team dynamics and culture, which aligns with the themes of team collaboration. It mentions the importance of creating systems that empower teams and fosters a culture of collaboration, but it primarily focuses on individual roles and leadership rather than direct team collaboration techniques or practices. The depth of discussion on creating a thriving culture and systems over control contributes positively, but the overall focus on individual evolution limits the score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -730,39 +760,51 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:06:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product ownership into leadership roles, touching on aspects of organisational culture and systems, which are relevant to learning and adaptation in Agile environments. However, the primary focus is on the role of product owners rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and the importance of creating a thriving culture, which aligns with the themes of fostering innovation and continuous learning. However, it primarily focuses on leadership and accountability rather than explicitly addressing discovery and learning methodologies. The mention of the Professional Agile Leadership Essentials course adds some depth to the learning aspect, but the overall emphasis is more on leadership than on the processes of discovery and learning.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T20:06:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on themes of accountability and leadership within Agile frameworks, but it primarily focuses on individual roles rather than self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and touches on leadership and creating a thriving culture, which aligns with self-organisation principles. However, it primarily focuses on leadership rather than self-organisation itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:06:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of the product owner role into a leadership position, touching on aspects of product management and organisational culture, which are relevant to the Agile Product Operating Model, but it primarily focuses on individual roles rather than the broader model itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its implications for leadership within Agile environments, which aligns with the Agile Product Operating Model. However, it primarily focuses on individual roles and leadership rather than the broader organisational framework and principles of product-centric development. While it touches on key themes such as accountability and creating a thriving culture, it lacks a comprehensive exploration of the Agile Product Operating Model's core aspects, such as cross-functional teams and continuous feedback mechanisms.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T20:06:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of a product owner into a leadership role, touching on aspects of culture and accountability, which are relevant to employee engagement, but the primary focus is on Agile leadership and processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its impact on leadership and organisational culture, which touches on aspects of employee engagement. However, while it mentions creating a thriving culture and fostering collaboration, it lacks a direct focus on employee motivation, recognition, and feedback mechanisms that are central to the Employee Engagement category. The discussion is more centred on leadership roles and responsibilities rather than the psychological and social aspects of employee engagement.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -784,11 +826,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T20:06:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:48:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, highlighting the importance of creating systems within organisations and understanding the holistic view of organisational dynamics. However, it primarily focuses on individual roles and experiences rather than a comprehensive exploration of organisational physics principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into systemic leadership, highlighting the importance of understanding organisational dynamics and creating systems that empower teams. It aligns well with the core themes of Organisational Physics, particularly in terms of systems thinking and the interplay between leadership and organisational culture. The depth of discussion on how leaders can influence organisational systems and foster a thriving culture adds to the overall relevance, though it does not delve deeply into specific systems thinking principles or feedback loops.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -847,11 +892,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T20:06:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of a product owner into a leadership role, touching on aspects of mentoring and leadership development, but it primarily focuses on the individual's journey rather than providing direct mentoring guidance or techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, touching on aspects of accountability and creating a thriving culture, which aligns with mentoring themes. However, it lacks explicit discussions on mentoring techniques or direct coaching strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -865,21 +913,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T20:06:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on leadership and organisational culture, which are relevant to sensemaking. However, the primary focus is on Agile roles rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into systemic leadership, touching on themes of accountability and creating a thriving culture. However, it primarily focuses on leadership development and Agile practices rather than explicitly addressing sensemaking principles or frameworks. While there are elements of understanding complexity and fostering a culture that could relate to sensemaking, the discussion lacks depth in exploring how these concepts directly inform decision-making processes in complex environments.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T20:06:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the evolution of product owners into leadership roles, touching on strategic aspects of leadership and organisational culture, but it primarily focuses on individual roles rather than broader strategic frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:48:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, highlighting strategic accountability and the importance of creating a thriving culture within Agile environments. It aligns well with the Strategy category by addressing the strategic direction of products and the role of leadership in fostering a culture that supports Agile principles. However, while it touches on strategic themes, it does not delve deeply into specific strategic frameworks or metrics, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -892,12 +946,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T20:06:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on leadership and organisational culture, which are relevant to Agile philosophy, but it primarily focuses on specific roles and experiences rather than the broader principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its implications for leadership within Agile environments. While it touches on themes of accountability, culture, and systems thinking, which align with Agile principles, it primarily focuses on specific roles and responsibilities rather than the broader Agile philosophy. The mention of creating a thriving culture and systems over control reflects Agile values, but the depth of discussion remains more practical than philosophical.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -910,11 +967,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T20:06:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of a product owner into a leadership role, touching on aspects of creating a supportive culture and systems within an organisation, which aligns with coaching principles. However, the primary focus is on leadership rather than coaching itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, touching on aspects of creating a thriving culture and empowering teams, which aligns with coaching principles. However, it primarily focuses on leadership and accountability rather than direct coaching practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -928,11 +988,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T20:06:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of a product owner into a leadership role, touching on aspects of growth and accountability, which aligns with the principles of Continuous Learning. However, the primary focus is on the role and responsibilities of a product owner rather than a direct exploration of Continuous Learning practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and the importance of leadership in creating a thriving culture, which aligns with the principles of Continuous Learning. However, while it touches on aspects of growth and accountability, it does not explicitly focus on continuous learning practices or techniques for knowledge sharing, which limits its depth in this category.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -964,21 +1027,27 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T20:07:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:48:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the evolution of the Product Owner role within Agile frameworks, touching on leadership and accountability, which are relevant to Agile Product Management. However, it also includes broader themes of leadership and organisational culture that may detract from a strict focus on Agile principles.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily focuses on the evolution of the Product Owner role within Agile frameworks, discussing increased accountability and leadership responsibilities. It aligns well with Agile Product Management principles, particularly regarding the importance of the Product Owner in strategic decision-making and fostering a collaborative culture. However, while it touches on key themes, it lacks detailed exploration of specific Agile practices and techniques for prioritising backlogs or incorporating customer feedback, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T20:07:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, highlighting the importance of creating systems within organisations and understanding holistic views, which aligns with Systems Thinking principles. However, the primary focus is on Agile leadership rather than Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into systemic leadership, highlighting the importance of creating systems that empower teams and foster a thriving culture. While it touches on interconnectedness and holistic understanding, it does not delve deeply into specific Systems Thinking principles or techniques. The focus is more on Agile leadership rather than a comprehensive exploration of Systems Thinking as a primary theme.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1000,11 +1069,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T20:07:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:48:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the evolution of product ownership into leadership roles within an organisation, highlighting the interplay between individual roles, organisational culture, and systemic leadership. While it touches on sociotechnical themes, it primarily focuses on the role of product owners rather than a broader examination of sociotechnical systems.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into systemic leadership, highlighting the interplay between individual roles and organisational culture. It addresses how leadership can influence team dynamics and organisational systems, aligning well with sociotechnical principles. The depth of discussion on creating a thriving culture and systems that empower teams further supports this alignment, although it could benefit from more explicit references to sociotechnical frameworks or case studies.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1036,12 +1108,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:07:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders within Agile environments, highlighting practical leadership roles and responsibilities, which aligns with pragmatic thinking in Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its implications for leadership within Agile environments. It highlights practical aspects such as increased accountability and the importance of creating systems that empower teams, which aligns with pragmatic thinking. However, while it touches on relevant themes, the discussion lacks depth in practical problem-solving strategies and real-world applications of DevOps principles, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1090,30 +1165,39 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T20:07:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of product owners into leadership roles and touches on aspects of organisational culture and systems, which are relevant to organisational psychology, but the primary focus is on Agile and product management practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, touching on themes of accountability, culture, and systems thinking, which align with organisational psychology principles. However, it primarily focuses on Agile methodologies and specific roles rather than deeply exploring psychological theories or employee engagement strategies.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T20:07:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of the product owner role into a leadership position, touching on aspects of strategy and organisational culture, but primarily focuses on Agile leadership rather than a clear product strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:48:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its implications for leadership within Agile environments. While it touches on aspects of product management and strategic direction, it primarily focuses on leadership and team dynamics rather than explicitly addressing product strategy methodologies, frameworks, or market analysis. The discussion lacks depth in terms of product vision and roadmap development, which are core to the Product Strategy category.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T20:07:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product ownership within Agile frameworks, touching on leadership roles and responsibilities in software development contexts, but it primarily focuses on personal experiences and opinions rather than specific methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the evolution of the Product Owner role within Agile frameworks, which is a relevant aspect of software development. It touches on leadership, accountability, and creating a thriving culture in Agile environments, aligning with key topics in software development. However, while it mentions Agile and Scrum, the focus is more on leadership and personal development rather than specific software engineering practices or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1126,12 +1210,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T20:07:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a product owner within the context of Azure DevOps, specifically mentioning a notable figure from the Azure DevOps team. However, the primary focus is on Agile leadership and product ownership rather than Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the evolution of the Product Owner role within Agile leadership, with only a brief mention of Azure DevOps through the example of Brian Harry. While it touches on themes relevant to Agile and leadership, it lacks a focused discussion on Azure DevOps services or practices, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1162,11 +1249,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T20:07:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product owners into leadership roles within Agile frameworks, which is relevant to software developers, but it primarily focuses on leadership rather than the developers' roles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role within Agile frameworks, touching on leadership and accountability, which are relevant to software developers. However, it primarily focuses on the leadership aspect rather than the direct role of developers in Agile or DevOps practices. While it mentions Agile and the importance of creating a collaborative culture, it lacks detailed exploration of best practices, tools, or methodologies that directly impact software developers' productivity and collaboration.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1180,11 +1270,14 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T20:07:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:48:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of product owners into systemic leaders, touching on themes of leadership and organisational culture, which align with human-centric approaches and adaptive organisational structures. However, it primarily focuses on the role of product owners rather than a comprehensive discussion on BetaCodex principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and touches on leadership and culture within Agile environments. However, it primarily focuses on traditional leadership roles and responsibilities rather than the decentralised and adaptive principles of Beta Codex. While there are elements of human-centric leadership and creating systems that empower teams, the overall emphasis remains on individual roles rather than broader organisational design principles central to Beta Codex.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
@@ -1198,12 +1291,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T20:07:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:49:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of the Product Owner role into a leadership position, highlighting responsibilities and the broader impact on the organisation, but it also touches on themes beyond the core responsibilities of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the evolution of the Product Owner role, discussing increased accountability and leadership aspects, which aligns well with the responsibilities and growth of a Product Owner. It provides specific examples and insights into how Product Owners can transition into leadership roles, demonstrating a strong conceptual alignment with the category. However, while it touches on key themes, it lacks detailed exploration of specific techniques for backlog management or stakeholder engagement, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",

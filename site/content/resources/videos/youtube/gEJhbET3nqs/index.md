@@ -25,14 +25,15 @@ duration: 245
 isShort: false
 tags:
 - Agile Leadership
+- Organisational Agility
 - Events and Presentations
+- People and Process
 - Technical Leadership
+- Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
-- Organisational Agility
-- People and Process
-- Team Collaboration
-- Team Performance
+- Agile Frameworks
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

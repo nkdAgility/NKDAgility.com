@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses troubleshooting issues and workarounds related to Microsoft Visual Studio Team Test, which aligns with installation and configuration themes, but it is primarily focused on testing practices rather than direct installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a reference guide for Visual Studio Team Test, which includes troubleshooting and workarounds for issues encountered during testing. While it does touch on practical aspects of using the tool, it lacks explicit step-by-step installation or configuration instructions. The focus is more on summarising the guide rather than providing detailed installation or configuration insights, which affects the overall alignment with the category.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -211,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing practices and provides a reference guide for using Visual Studio Team Test, which relates to technical excellence in software development. However, it primarily focuses on a specific tool rather than broader engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a reference guide for testing tools, which aligns with the category of Technical Excellence through its focus on practical solutions and troubleshooting in software testing. However, it lacks a direct discussion of broader engineering practices or methodologies like TDD or CI/CD, which limits its depth and overall alignment with the category's core themes.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -238,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T17:03:31",
+    "calculated_at": "2025-03-15T07:24:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -246,7 +252,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on testing methodologies and tools related to Visual Studio Team Test, which is a component of the product delivery process. However, it does not explicitly discuss broader product delivery methodologies or practices such as Agile, deployment strategies, or cross-functional team roles. While it touches on practical solutions and real-world applications, the emphasis is more on testing rather than the end-to-end product delivery process, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -343,21 +349,27 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a specific guide related to testing tools, which is relevant to the technology field, but it primarily focuses on the guide itself rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on a specific guide related to Visual Studio Team Test, providing a summary and insights into its practical applications. While it does touch on real-world problems and solutions, it lacks broader industry news or reviews that would align it more closely with the 'News and Reviews' category. The discussion is more about a specific tool rather than updates or evaluations relevant to Agile or DevOps as a whole.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing tools and practices related to Visual Studio Team Test, which is a component of the application lifecycle, but it primarily focuses on testing rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses testing tools and practices related to Visual Studio Team Test, which is relevant to the application lifecycle, particularly in the testing phase. However, it lacks a comprehensive discussion on the entire application lifecycle management process, such as deployment, maintenance, or retirement. The mention of ALM and testing indicates some alignment, but the depth of discussion is primarily focused on testing rather than broader ALM methodologies or practices.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -862,11 +874,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Visual Studio Team Test for automated testing solutions and provides practical, real-world guidance related to testing, but it is more of a guide to the tool rather than a focused discussion on test automation principles or frameworks.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a reference guide related to Visual Studio Team Test, which is relevant to test automation. However, it primarily focuses on practical solutions and workarounds rather than the principles, frameworks, or best practices of test automation. While it mentions testing and provides some insights into the tools, it lacks a deep exploration of the core themes of test automation, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -880,11 +895,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:24:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing in the context of Microsoft Visual Studio Team Test and provides practical solutions for working with the software, indicating a focus on functional software quality and operational effectiveness in testing.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a reference guide for testing software, which aligns with the concept of working software by addressing real-world problems and solutions in software testing. However, it lacks direct mentions of working software principles and does not delve deeply into Agile or Scrum frameworks, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1123,12 +1141,12 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:26",
+    "calculated_at": "2025-03-15T07:24:21",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses the Visual Studio Team Test, which relates to a development tool used in the Windows environment, but it is primarily focused on testing practices and features rather than the Windows operating system itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1225,7 +1243,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T15:12:58",
+    "calculated_at": "2025-03-15T07:24:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1251,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a reference guide for testing within the context of Visual Studio Team Test, which is relevant to software development. However, it lacks explicit discussions on Agile or DevOps methodologies, and does not delve into best practices or the role of developers in these frameworks. While it touches on practical solutions for testing, it does not provide a comprehensive exploration of the themes outlined in the category description.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,11 +1264,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses practical aspects of testing and solutions associated with Microsoft Visual Studio Team Test, which aligns with best practices in software testing within engineering. However, it is not focused exclusively on Agile engineering practices such as TDD or CI/CD.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses testing in the context of Visual Studio Team Test, which aligns with the Engineering Practices category, particularly in relation to testing methodologies. However, it lacks a direct focus on Agile principles or detailed discussions on clean code, TDD, or CI/CD. The mention of real-world solutions and troubleshooting indicates some depth, but overall, the content is more of a reference guide than a comprehensive exploration of engineering practices.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -1417,7 +1438,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:55:17",
+    "calculated_at": "2025-03-15T07:24:21",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1425,6 +1446,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a reference guide for Visual Studio Team Test, discussing testing practices and tools rather than Scrum principles or frameworks. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion on Scrum is minimal, as the content does not engage with any Scrum-related concepts.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -175,7 +175,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-11T12:15:25",
+    "calculated_at": "2025-03-15T07:40:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -183,7 +183,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a personal review of the Tafiti search tool, which is a specific product rather than a broader industry update or trend. While it does provide insights into the tool's features and usability, it lacks a discussion on Agile or DevOps methodologies, and does not address industry news or reviews in a comprehensive manner. The review is more anecdotal and personal, which detracts from its alignment with the category's focus on industry relevance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -286,7 +286,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:18:33",
+    "calculated_at": "2025-03-15T07:40:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a personal experience with a new search tool, Tafiti, and reflects on its usefulness for dyslexic users. While it does provide personal insights and anecdotes, it lacks a direct connection to Agile, Scrum, DevOps, or Lean principles, which are essential for a stronger alignment with the 'Personal' category. The discussion is more focused on the tool itself rather than personal experiences related to Agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -352,7 +352,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-10T19:02:32",
+    "calculated_at": "2025-03-15T07:40:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -360,7 +360,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a specific product, Tafiti, and provides a personal review of its features and usability, particularly from the perspective of a dyslexic user. While it discusses a product, it lacks a broader context related to Agile methodologies or DevOps practices, which are central to the 'Products and Books' category. The discussion is detailed regarding the product's functionality, but it does not connect to the key topics outlined in the category definition.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -373,7 +373,7 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-10T15:16:39",
+    "calculated_at": "2025-03-15T07:40:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -381,7 +381,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides a personal review of a new search tool, Tafiti, highlighting its features and usability, particularly for dyslexic users. While it touches on user experience and mentions usability testing, it lacks a structured discussion on methodologies for validating product ideas or integrating user feedback into development. The focus is more on personal opinion rather than systematic validation practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1198,12 +1198,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:32",
+    "calculated_at": "2025-03-15T07:40:15",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content discusses a specific software application (Tafiti) and provides feedback on its usability and functionality, but it does not primarily focus on working software principles such as Agile, Scrum, or broader quality practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",

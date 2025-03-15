@@ -35,9 +35,9 @@ tags:
 - People and Process
 - Pragmatic Thinking
 - Accountability
+- Software Development
 - Agile Product Operating Model
-- Scrum Team
-- Product Delivery
+- Continuous Learning
 resourceTypes:
 - video
 layout: video

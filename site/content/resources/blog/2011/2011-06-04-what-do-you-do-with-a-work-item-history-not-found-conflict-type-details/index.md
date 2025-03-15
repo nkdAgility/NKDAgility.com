@@ -25,14 +25,7 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
-- System Configuration
-- Release Management
 - Practical Techniques and Tooling
-- Azure DevOps
-- Install and Configuration
-- Modern Source Control
-- Application Lifecycle Management
-- Pragmatic Thinking
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

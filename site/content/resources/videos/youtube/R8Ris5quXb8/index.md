@@ -25,13 +25,16 @@ preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: true
 tags:
-- Product Delivery
 - Product Backlog
-- Agile Planning
-- Agile Planning Tools
 - Agile Project Management
+- Agile Planning Tools
+- Product Delivery
+- Backlog Refinement
+- Scrum Product Development
+- Agile Planning
 - Product Owner
-- Agile Product Operating Model
+- Software Development
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

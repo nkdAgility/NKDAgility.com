@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to the Release Management Client in Visual Studio 2013, including troubleshooting steps and a solution, which aligns with practical techniques and tooling. However, it primarily focuses on a specific problem rather than a broader exploration of tools or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific issue related to the Release Management Client in Visual Studio 2013, including error handling and a workaround for adding Active Directory groups. While it touches on practical tooling, the focus is primarily on a specific problem rather than a broader exploration of techniques or methodologies. The discussion lacks depth in terms of methodologies or frameworks that enhance Agile or DevOps practices, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -283,7 +286,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T11:51:54",
+    "calculated_at": "2025-03-15T04:42:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -291,7 +294,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses an issue related to the Release Management Client in Visual Studio 2013, which is part of the Azure DevOps suite. However, it primarily focuses on a specific error encountered when adding Active Directory groups, lacking broader discussions on Azure DevOps functionalities or best practices. While it mentions Azure DevOps indirectly through the context of Release Management, it does not provide a comprehensive overview or detailed insights into Azure DevOps as a whole.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -376,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to the Release Management Client and provides a solution, but it primarily focuses on a specific problem rather than broader principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to adding Active Directory groups in Visual Studio 2013, which is a narrow focus on a particular problem rather than a broader discussion on software craftsmanship or engineering practices. While it touches on error handling and implementation issues, it lacks a comprehensive exploration of best practices, principles, or methodologies that would align it more closely with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",

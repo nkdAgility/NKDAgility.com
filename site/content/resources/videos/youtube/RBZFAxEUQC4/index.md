@@ -31,8 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Transformation
 - Agile Philosophy
 - Organisational Agility
+- Organisational Culture
 resourceTypes:
 - video
 categories:

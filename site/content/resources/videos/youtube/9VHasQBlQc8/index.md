@@ -29,13 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Agile Transformation
+- Empirical Process Control
 - Agile Philosophy
+- Organisational Agility
 - People and Process
+- Agile Strategy
 - Business Agility
-- Agile Values and Principles
-- Agile Leadership
-- Team Motivation
-- Organisational Culture
+- Pragmatic Thinking
+- Psychological Safety
 resourceTypes:
 - video
 categories:

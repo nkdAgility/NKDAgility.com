@@ -27,9 +27,14 @@ isShort: true
 tags:
 - Product Owner
 - Agile Product Management
-- Accountability
-- Scrum Product Development
+- Product Delivery
+- Value Delivery
 - Agile Project Management
+- Scrum Product Development
+- Accountability
+- Agile Product Operating Model
+- Product Strategy
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

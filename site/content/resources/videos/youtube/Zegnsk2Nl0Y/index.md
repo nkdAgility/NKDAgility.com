@@ -26,11 +26,13 @@ duration: 44
 isShort: true
 tags:
 - Products and Books
+- Software Development
 - Agile Project Management
 - Collaboration Tools
 - Scrum Team
 - Agile Planning Tools
 - Scrum Product Development
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -175,7 +175,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-10T15:14:36",
+    "calculated_at": "2025-03-15T07:37:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -183,7 +183,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions an update related to the TFS Event Handler and its popularity, which aligns with industry news. However, it lacks a detailed review or analysis of the tool, and the discussion is more personal and anecdotal rather than providing substantial insights or evaluations relevant to Agile or DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -286,7 +286,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T10:48:54",
+    "calculated_at": "2025-03-15T07:37:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions a personal experience related to the TFS Event Handler, but it lacks depth and detailed reflection on Agile methodologies. While it touches on personal pride, it does not provide substantial insights or challenges faced in Agile contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -586,7 +586,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T19:00:42",
+    "calculated_at": "2025-03-15T07:37:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -594,7 +594,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions TFS (Team Foundation Server) and an event handler related to it, which is relevant to software development. However, the discussion lacks depth and does not explore methodologies, best practices, or detailed technical aspects of software development. The focus is more on personal sentiment and popularity rather than on software engineering practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1399,7 +1399,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:16:17",
+    "calculated_at": "2025-03-15T07:37:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1407,6 +1407,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It discusses TFS (Team Foundation Server) and a specific event handler, which are related to project management tools but do not align with the Scrum framework or its core themes. The focus is on personal achievement and popularity rather than on Scrum practices or discussions.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

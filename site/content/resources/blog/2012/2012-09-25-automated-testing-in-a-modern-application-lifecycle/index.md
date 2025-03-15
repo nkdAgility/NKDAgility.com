@@ -28,6 +28,13 @@ tags:
 - Automated Testing
 - Software Development
 - Test Automation
+- Engineering Practices
+- Working Software
+- Practical Techniques and Tooling
+- Technical Mastery
+- Technical Excellence
+- Product Delivery
+- Operational Practices
 categories:
 - Engineering Excellence
 - DevOps

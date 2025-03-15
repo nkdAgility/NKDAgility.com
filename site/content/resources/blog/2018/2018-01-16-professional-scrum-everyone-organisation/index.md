@@ -8,7 +8,7 @@ ResourceImportId: 38287
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-16
-weight: 445
+weight: 480
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,15 +29,15 @@ aliasesArchive:
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
 - Agile Product Management
+- Professional Scrum
+- Agile Project Management
 - People and Process
+- Organisational Agility
+- Agile Transformation
+- Software Development
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Transparency
-- Resilience and Change
-- Agile Product Operating Model
-- Agile Project Management
-- Business Agility
-- Change Management
-- Organisational Agility
 categories:
 - Social Technologies
 - Scrum

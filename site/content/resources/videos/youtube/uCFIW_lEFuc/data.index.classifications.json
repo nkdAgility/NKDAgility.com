@@ -25,7 +25,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T11:56:50",
+    "calculated_at": "2025-03-14T21:26:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -33,7 +33,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile principles and practices, particularly focusing on the concept of sloth within Agile teams. While it touches on aspects that could relate to DevOps, such as the importance of feedback loops and the need for teams to be empowered to adapt their processes, it does not explicitly address DevOps principles, practices, or tools. The discussion is more centred on Agile methodologies and their implementation challenges, which are not strictly within the DevOps category. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -61,12 +61,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily focuses on identifying and addressing barriers to effective Agile practices within teams and organizations, which aligns with the principles of business agility. It discusses the need for adaptability, feedback loops, and the importance of leadership support, making it relevant to business agility, even though it may also touch on Agile and Scrum specifically.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T21:26:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses various signs of sloth in Agile practices, which indirectly relates to business agility by highlighting the importance of responsiveness and adaptability in teams. However, it primarily focuses on Agile methodologies rather than the broader principles of business agility. While it mentions the need for teams to adapt and respond to feedback, it lacks a comprehensive exploration of business agility as a primary focus, thus resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -82,12 +85,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:26:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content discusses Agile principles and critiques common failures in implementing Agile methodologies, which is relevant to Scrum practices, but does not focus solely on Scrum frameworks or roles.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles and practices, touching on aspects relevant to Scrum, such as delivering working software and adapting to feedback. However, it lacks a direct focus on Scrum roles, events, or artifacts, which are central to the Professional Scrum category. The discussion is more general about Agile rather than specifically about Scrum, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -100,12 +106,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile principles and practices and references the importance of feedback loops and data-driven decision-making within the context of Agile, suggesting a secondary focus on aspects related to Evidence-Based Management. However, the primary theme is more about identifying sloth in Agile practices rather than a clear, focused discussion on EBM itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and identifies signs of sloth within Agile teams, but it does not explicitly mention Evidence-Based Management or its principles. While it touches on the importance of user feedback and adapting processes, it lacks a focus on empirical evidence and data-driven decision-making, which are central to EBM. The discussion is more about Agile practices than about EBM itself.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -127,20 +136,26 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:26:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and emphasizes the importance of gathering user feedback and iterating based on that feedback, which aligns with the principles of hypothesis-driven development. However, it primarily focuses on general Agile challenges and improvement rather than detailed discussions on hypotheses and experimentation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, without a direct focus on hypothesis formulation or experimentation. While it touches on the importance of user feedback and adapting to changes, it lacks detailed discussions on formulating hypotheses, conducting experiments, or analysing data to validate assumptions, which are central to hypothesis-driven development.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:27:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile principles, particularly focusing on the concept of 'sloth' in Agile practices and how teams misunderstand or fail to implement Agile methodologies effectively. It addresses key concepts aligned with Agile frameworks, making it a central theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses various signs of sloth in Agile practices, directly referencing Agile principles and the importance of delivering working software, engaging with user feedback, and adapting processes. While it does not delve deeply into specific Agile frameworks like Scrum or Kanban, it aligns well with the core themes of Agile methodologies and their implementation challenges. The depth of discussion is substantial, providing practical insights into maintaining agility, which supports a higher confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -247,11 +262,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:27:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses Agile practices and their importance in delivering working software, gathering user feedback, empowering teams, and the overall delivery process, which aligns strongly with product delivery principles.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses Agile practices and their impact on product delivery, particularly focusing on the importance of delivering working software, engaging with user feedback, and adapting processes. It aligns well with the core themes of product delivery, such as iterative development and the role of cross-functional teams. However, while it provides substantial detail on the signs of sloth in Agile, it does not delve deeply into methodologies or best practices for planning and prioritising features, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "AI": {
@@ -265,12 +283,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and principles which relate to digital transformation, but its primary focus is on the concept of sloth in Agile teams and not on the broader strategic adoption of digital technologies for business transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, which is tangentially related to digital transformation but does not explicitly focus on the strategic adoption of digital technologies for business transformation. While it touches on aspects of agility and process improvement, it lacks a direct connection to the broader themes of digital transformation, such as the integration of digital tools or methodologies. The discussion is more about Agile principles than about leveraging digital technologies to enhance business operations.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -352,12 +373,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses issues of agility within organizations, emphasizing the need for transparency, communication, and empowerment in teams. However, it primarily focuses on team-level practices and signs of dysfunction rather than a broader organizational context.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on team-level Agile practices and the signs of sloth within those practices, which does not align with the broader organisational context required for Enterprise Agility. While it touches on some aspects of organisational structure and leadership, it lacks a comprehensive discussion on how these issues affect enterprise-level agility. The emphasis is on individual team behaviours rather than the overall organisational culture or frameworks that support agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -370,11 +394,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:27:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses various aspects of Agile practices and emphasizes the importance of team empowerment and communication. It indirectly touches on aspects related to technical leadership, such as mentoring teams and fostering a culture of feedback and adaptation. However, it primarily revolves around identifying issues in Agile implementation rather than providing a focused discussion on technical leadership principles.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses signs of sloth in Agile practices, which indirectly relates to technical leadership by highlighting the importance of team empowerment, feedback loops, and adaptability. However, it lacks a direct focus on technical leadership principles, such as mentoring or servant leadership, and does not delve deeply into strategies for fostering collaboration or continuous improvement. The discussion is more about identifying issues rather than providing leadership strategies, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -388,11 +415,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and team dynamics, indirectly relating to the role of a Scrum Master, but does not focus primarily on the responsibilities or practices specific to the Scrum Master role.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile practices and identifies signs of sloth that can hinder Agile effectiveness. While it does not explicitly mention the role of the Scrum Master, it touches on themes relevant to Scrum, such as team empowerment, feedback loops, and the importance of delivering working software. However, it lacks a direct focus on the Scrum Master's responsibilities or practices, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -418,12 +448,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:26:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile practices and emphasizes the need for teams to deliver working software iteratively and gather feedback efficiently, which relates to flow efficiency. However, it primarily critiques Agile adoption and team behaviors rather than focusing specifically on flow efficiency principles and metrics.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and identifies signs of inefficiency, such as failure to deliver working software and bureaucratic deployment processes. However, it does not explicitly focus on flow efficiency principles or techniques for optimising throughput. While it touches on related concepts, the primary focus is on identifying sloth rather than optimising flow, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -445,7 +478,7 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-13T15:12:00",
+    "calculated_at": "2025-03-14T21:26:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -453,7 +486,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Agile practices and the importance of delivering working software, which indirectly relates to Cycle Time. However, it does not explicitly mention Cycle Time or provide detailed methods for measuring it. The focus is more on identifying sloth in Agile rather than on the measurement or implications of Cycle Time itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -484,39 +517,51 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:28:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of Agile practice and indirectly touches on elements relevant to backlog refinement, such as empowering teams to change requirements based on feedback and the importance of a well-ordered backlog. However, backlog refinement is not the primary focus, resulting in a secondary theme status.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and highlights issues that can arise in Agile teams, such as failure to deliver working software and lack of user feedback. However, it does not specifically address backlog refinement or its techniques, roles, or best practices. While it touches on related themes, such as the importance of adapting requirements and empowering teams, it lacks a focused discussion on backlog refinement itself.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various aspects of agility and empowerment related to team feedback and innovation but primarily focuses on identifying and criticizing sloth in Agile practices rather than directly measuring or improving innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses issues related to Agile practices, specifically focusing on the concept of 'sloth' within teams. While it touches on the importance of delivering working software and adapting to feedback, it does not explicitly address the Ability to Innovate category or its key topics. The discussion lacks depth in terms of frameworks, metrics, or Evidence-Based Management principles, which are central to the category. Overall, the content is more about identifying problems in Agile practices rather than measuring or enhancing innovation capabilities.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:26:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses the challenges and signs of a lack of true Agile practices within organizations, highlighting key Agile principles such as delivering working software, gathering feedback, team empowerment, and adapting processes. The focus on identifying sloth in Agile practices aligns closely with Agile transformation themes.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses various signs of sloth in Agile practices, directly addressing the principles of Agile transformation. It highlights the importance of delivering working software, engaging with user feedback, and empowering teams to adapt processes, which are all core themes of Agile transformation. The depth of discussion is significant, providing detailed examples and insights into how sloth can hinder Agile practices. Overall, the content aligns well with the category, focusing on the challenges and necessary cultural shifts for successful Agile transformation.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of delivering working software, gathering user feedback, and empowering teams, which are key aspects of Agile practices. However, it primarily focuses on identifying issues and behaviors within Agile teams rather than detailing specific engineering practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:26:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices and identifies signs of sloth within Agile teams, which indirectly relates to engineering practices. However, it primarily focuses on team dynamics and organisational issues rather than specific engineering methodologies like clean code, TDD, or CI/CD. The mentions of Agile principles are present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -538,12 +583,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Agile practices that relate to adapting and changing in response to feedback and evolving environments, which are elements of resilience and change. However, the primary focus is on identifying poor practices ('sloth') within Agile implementation rather than directly discussing resilience strategies or change methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile practices and the importance of adaptability within teams, which aligns with the themes of resilience and change. However, it primarily focuses on identifying sloth in Agile rather than providing comprehensive strategies for enhancing organisational resilience or facilitating change. The mention of adapting requirements and processes indicates some alignment with the category, but the overall depth and focus remain on Agile practices rather than broader organisational resilience.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -568,7 +616,7 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-13T16:42:22",
+    "calculated_at": "2025-03-14T21:26:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -576,16 +624,19 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses Agile practices and the importance of delivering working software, but it does not explicitly focus on the Product Backlog or its management. While it touches on related concepts like user feedback and adapting requirements, it lacks a detailed exploration of backlog refinement, prioritisation techniques, or the role of the Product Owner. Therefore, it only partially aligns with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:26:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal opinions and calls for honesty and empowerment in Agile practices, but primarily discusses specific Agile practices and challenges, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses personal experiences and reflections on the challenges of Agile practices, particularly the concept of 'sloth' in Agile. However, it primarily focuses on technical aspects and signs of sloth rather than deeply personal anecdotes or subjective interpretations. While there are mentions of personal insights, the overall emphasis is more on general observations and advice rather than individual experiences, which limits its alignment with the Personal category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -616,7 +667,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:31:53",
+    "calculated_at": "2025-03-14T21:26:37",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -624,16 +675,19 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Agile principles and practices but does not specifically focus on Scrum Team dynamics or roles. While it mentions the importance of team empowerment and communication, it lacks detailed exploration of Scrum roles, collaboration techniques, or specific Scrum events. The primary focus is on general Agile issues rather than the intricacies of a Scrum Team.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Agile practices at an organisational level and touches upon leadership, communication, and the integration of Agile principles within an organisation, but the focus remains primarily on team-level challenges and practices rather than fully addressing organisational scaling.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on team-level Agile practices and the signs of sloth within those practices. While it touches on some aspects of organisational structure and leadership, it does not delve into frameworks for scaling agility or the broader organisational implications necessary for the 'Scaling Agility' category. The discussion is more about individual team behaviours rather than strategies for extending agility across the organisation.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -646,12 +700,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:26:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions related to gathering feedback from users and engaging with them to validate the value of products, which is relevant to customer retention. However, it primarily focuses on the concept of Agile practices and team dynamics rather than dedicated strategies for retaining customers.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering working software and engaging with users, which are relevant to customer retention. However, it primarily focuses on identifying issues related to Agile implementation rather than directly exploring strategies for retaining customers. The mentions of user feedback and the need for continuous delivery align with customer retention themes, but the overall depth and focus on customer retention strategies are limited.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -664,12 +721,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of gathering feedback from users and engaging with customers as part of Agile practices, indicating a secondary focus on customer satisfaction. However, it primarily centers around Agile implementation challenges.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering working software to users, which indirectly relates to customer satisfaction. However, it primarily focuses on identifying issues of sloth within Agile teams rather than exploring customer satisfaction principles or methodologies. While user feedback is mentioned, it is not the central theme, and the overall depth of discussion on customer satisfaction is limited.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -691,11 +751,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:27:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of team communication, empowerment, and feedback mechanisms, all of which are central to effective team collaboration within Agile frameworks.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of sloth in Agile, highlighting issues that can hinder team performance and collaboration. While it touches on team dynamics and the importance of communication and empowerment, it primarily focuses on identifying problems rather than exploring solutions or techniques for enhancing collaboration. The depth of discussion on team collaboration is moderate, but the primary focus remains on the negative aspects of Agile practices rather than fostering a collaborative environment.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -709,12 +772,12 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T23:36:18",
+    "calculated_at": "2025-03-14T21:26:37",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses Agile principles and practices mainly, with a touch on aspects like user feedback and interaction which are relevant to MVP concepts, but it does not primarily focus on the definition or strategic development of a Minimum Viable Product.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -727,12 +790,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:27:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of gathering user feedback, adapting processes based on learning, and fostering a culture of continuous improvement within Agile teams, making these themes significant, though not the sole focus.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and highlights the importance of user feedback and adaptability, which are relevant to the Discovery and Learning category. However, the primary focus is on identifying signs of sloth in Agile rather than exploring methodologies for fostering innovation or continuous learning. While there are mentions of feedback loops and the need for teams to adapt based on learning, the depth of discussion is more about diagnosing issues than promoting a culture of discovery and learning.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -757,12 +823,15 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:26:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses some aspects of employee empowerment and communication, but primarily focuses on Agile methodologies and processes.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile practices and the concept of sloth within teams, focusing on technical processes and methodologies rather than the human aspects of employee engagement. While it touches on team dynamics and the importance of communication, it does not delve into intrinsic or extrinsic motivation, recognition, or fostering a culture of trust, which are core to employee engagement. Therefore, the overall alignment with the category is minimal.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -823,12 +892,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:27:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "While the content primarily discusses the signs of sloth in Agile practices, it emphasizes the importance of gathering feedback and iterating on processes based on user input, which relates to metrics and learning as it includes aspects of feedback loops and continual improvement. However, the focus is more on identifying dysfunction rather than on metrics and data-driven decision-making.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and the signs of sloth within teams, but it does not explicitly focus on metrics or learning mechanisms. While it touches on the importance of feedback and adapting processes, it lacks detailed exploration of metrics, data analysis, or evidence-based decision-making, which are central to the 'Metrics and Learning' category.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -841,12 +913,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles, particularly around delivering software and gathering customer feedback, which are relevant to Lean Product Development. However, the focus is primarily on Agile practices, with Lean concepts being a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the concept of sloth within Agile teams, rather than focusing on Lean Product Development principles. While there are mentions of user feedback and the importance of delivering working software, which align with Lean's emphasis on value delivery, the overall discussion is more centred on Agile methodologies and their challenges. The depth of discussion on Lean principles is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -886,11 +961,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical techniques to identify and address inefficiencies in Agile practices, emphasizing the importance of delivering working software, gathering feedback, empowering teams, and adapting processes, which aligns closely with operational practices.",
+    "calculated_at": "2025-03-14T21:27:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses various signs of sloth in Agile practices, which directly relates to operational efficiency and delivery within Agile frameworks. It highlights specific issues that hinder Agile practices, such as failure to deliver working software, lack of communication, and bureaucratic processes, all of which are critical for optimising operations. The depth of discussion is substantial, providing concrete examples and actionable insights, although it does not delve deeply into metrics or automation, which are also key topics in operational practices.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -970,16 +1048,19 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:27:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses key aspects of Agile principles, emphasizing the importance of delivering working software, gathering customer feedback, and empowering teams within an Agile framework, which aligns closely with Agile Product Management.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly focusing on the importance of delivering working software, engaging with user feedback, and adapting processes based on feedback. It highlights the role of product charters and the need for clarity in team objectives, which aligns well with Agile Product Management. The depth of discussion is substantial, providing specific signs of sloth in Agile practices, which directly relates to the category's focus on maximising product value through Agile methodologies.",
     "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-11T16:21:23",
+    "calculated_at": "2025-03-14T21:26:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -987,7 +1068,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Agile practices and the concept of sloth within Agile teams, with little direct mention of Systems Thinking. While it touches on interconnectedness in terms of team dynamics and the importance of feedback loops, it does not delve into the foundational principles or techniques of Systems Thinking. The discussion lacks depth in exploring holistic analysis or the broader implications of Systems Thinking in organisational behaviour, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1009,11 +1090,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:27:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses issues related to Agile practices and team dynamics within organizations, implying a connection between social structures and technical processes in software delivery. However, it mainly focuses on Agile principles and team behaviors rather than a deeper analysis of sociotechnical system interactions.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile practices and the importance of team dynamics, communication, and organisational structure in achieving agility. However, it primarily focuses on identifying issues related to sloth in Agile without deeply exploring the interplay between social and technical systems. While there are mentions of organisational structure and team empowerment, the discussion lacks a comprehensive examination of sociotechnical interactions, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Products and Books": {
@@ -1027,11 +1111,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses several key aspects of Agile methodologies, primarily focusing on the importance of feedback, adaptation, transparency, and the need for teams to engage in empirical practices such as gathering user feedback and adjusting their work processes based on that feedback. It emphasizes the principles of empirical process control in Agile, making it a primary topic in the discussion.",
+    "calculated_at": "2025-03-14T21:27:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses several key aspects of Agile that align with empirical process control, such as the importance of delivering working software, engaging with user feedback, and adapting to changing requirements. It highlights the need for transparency and the ability to inspect and adapt processes, which are core principles of empirical process control. However, while it touches on these themes, the focus is more on identifying issues (sloth) rather than providing a comprehensive exploration of empirical process control itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -1045,11 +1132,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:26:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses extensively on practical problems teams face in Agile environments and provides concrete strategies for overcoming related challenges, thereby aligning well with the themes of pragmatic thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical issues related to Agile practices, specifically identifying signs of sloth that hinder Agile effectiveness. It directly addresses real-world applications of Agile principles, such as the importance of delivering working software, engaging with user feedback, and adapting processes based on team experiences. The depth of discussion is substantial, providing concrete examples and actionable insights, which aligns well with the core themes of pragmatic thinking. However, while it focuses on practical issues, it does not delve deeply into broader problem-solving strategies or case studies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1072,11 +1162,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:27:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the delivery of working software specifically in the context of Agile practices. It emphasizes the importance of regularly delivering functional software to customers and gathering feedback, which aligns closely with the category of Working Software.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the importance of delivering working software in Agile practices, highlighting specific signs of sloth that directly relate to the failure to deliver functional software. It aligns well with the core themes of the category, such as the necessity of user feedback and iterative development. The depth of discussion is substantial, providing detailed examples of how sloth manifests in Agile environments, although it could benefit from more concrete best practices or metrics for assessing software quality.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1117,11 +1210,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:26:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile principles, Scrum roles, and the importance of communication and feedback in software development practices. It aligns well with key topics in the Software Development category.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on Agile practices, specifically addressing the concept of sloth within Agile teams. It discusses key Agile principles such as delivering working software, engaging with user feedback, and adapting processes based on feedback, which are all core themes of software development methodologies. The depth of discussion is substantial, providing specific signs of sloth and their implications for Agile practices, thus demonstrating a strong alignment with the Software Development category.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1243,12 +1339,12 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T23:36:19",
+    "calculated_at": "2025-03-14T21:26:37",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses aspects of Agile methodology and team dynamics, but it does not primarily focus on the management of software applications or the specific stages of the application lifecycle.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",

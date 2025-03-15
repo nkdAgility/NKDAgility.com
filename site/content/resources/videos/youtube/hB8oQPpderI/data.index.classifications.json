@@ -10,7 +10,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T14:03:42",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Agile books and the value of attending a course for discussions, which aligns with the collaborative aspect of Social Technologies. However, it lacks detailed exploration of specific frameworks like Scrum or Kanban, and does not provide in-depth insights into the methodologies themselves.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -40,7 +40,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:13:49",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly touches on the value of attending courses over reading books, mentioning Agile concepts. However, it lacks a focused discussion on product management strategies, methodologies, or frameworks, which are essential for a higher confidence score in this category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -79,7 +79,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T14:42:04",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -87,20 +87,23 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Scrum in the context of promoting courses and interactive learning but lacks a detailed exploration of Scrum principles, roles, or practices. While it aligns with the theme of professional development, it does not provide in-depth discussions on the Scrum framework or its core components.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum courses and emphasizes interactive learning in Agile environments, making Agile a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the value of attending Agile and Scrum courses, highlighting the importance of interactive learning and collaboration, which aligns with Agile principles. However, it primarily focuses on the learning experience rather than a detailed exploration of Agile frameworks themselves. While Agile and Scrum are mentioned, the discussion lacks depth in comparing frameworks or providing case studies, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-03-13T16:51:27",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -108,16 +111,19 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions Agile and Scrum courses, indicating a connection to Scrum principles. However, it primarily focuses on the benefits of interactive learning versus reading, rather than discussing Scrum product development practices in detail. While there are references to Agile and Scrum, the content lacks a thorough exploration of Scrum roles, processes, or product development methodologies, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the value of attending courses, specifically in the context of Agile and Scrum, which can be related to the theme of events and presentations, but is primarily focused on the benefits of interactive learning rather than specific events.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the benefits of attending courses, which aligns with the category of events and presentations. It highlights the interactive nature of courses compared to reading, suggesting a focus on learning experiences. However, it does not explicitly mention specific events or presentations, which limits the direct mentions score. The depth of discussion on the value of interactive learning in Agile and Scrum contexts adds to the overall alignment, but the lack of specific event references keeps the confidence score moderate.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -229,7 +235,7 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:43:06",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -237,7 +243,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions Agile and Scrum in the context of interactive learning but does not focus on self-organisation principles or practices. It discusses the value of courses over books, which is tangentially related to collaboration but lacks depth in exploring self-organisation as a primary theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -316,16 +322,19 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of interactive learning and emphasizes Agile and Scrum courses, which involve coaching principles, though the primary focus is on the comparison between books and courses.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum courses, which aligns with coaching principles. It mentions creating an environment for collaborative learning, a key aspect of coaching. However, it primarily focuses on the comparison between reading and attending courses, with less emphasis on specific coaching techniques or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-10T18:17:06",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -333,25 +342,31 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile in the context of comparing reading a book to attending a course, but it does not delve into Agile Planning principles or methodologies. The discussion lacks depth and does not focus on Agile Planning as a primary topic, making it only tangentially related.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content focuses on the benefits of interactive learning in the context of Agile and Scrum training, making Agile principles a major theme. However, it primarily discusses educational approaches rather than a clear Agile strategy.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the value of interactive learning in Agile and Scrum courses, which aligns with Agile principles of collaboration and continuous improvement. However, it primarily focuses on the comparison between reading and attending courses rather than a strategic discussion on Agile methodologies. The mentions of Agile and Scrum are present but do not delve into strategic planning or implementation at scale, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum environments, which is related to team dynamics and collaboration but does not primarily focus on team performance itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum courses, which aligns with the theme of enhancing team dynamics and collaboration. However, it primarily focuses on the comparison between reading and attending courses rather than directly addressing team performance strategies or methodologies. The mentions of Agile and Scrum are relevant but do not delve deeply into specific practices or metrics for team performance.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -475,7 +490,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:03:44",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -483,7 +498,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile and the value of discussions in a learning environment, but it does not focus on the role of software developers or delve into Agile practices, DevOps, or modern engineering methodologies. The discussion is more about the learning experience rather than the specific practices or roles of software developers.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -505,12 +520,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:17:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of interactive learning and collaboration in Agile and Scrum environments, indicating a connection to organisational culture but is mostly focused on the learning format rather than culture itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of interactive learning and collaboration in courses, which touches on aspects of organisational culture, particularly in Agile environments. However, it primarily focuses on the comparison between reading and attending courses rather than a deep exploration of organisational culture itself. The mention of creating an environment for collaborative learning aligns with cultural elements but lacks depth and direct discussion on how these elements influence agility or transformation within teams.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -532,7 +550,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:21:44",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -540,7 +558,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly mentions Agile and the value of discussions in a learning environment, but it does not specifically address the role or responsibilities of a Scrum Master. The focus is more on the comparison between reading and attending a course rather than on Scrum practices or the Scrum Master's contributions.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -553,21 +571,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of interactive learning in Agile and Scrum environments, which indirectly relates to value delivery through improved team engagement and customer experience.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the benefits of interactive learning in Agile and Scrum courses, which indirectly relates to value delivery by emphasising customer experience and collaborative learning. However, it lacks direct discussions on value delivery principles, methodologies, or practices, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:17:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum training, emphasizing collaborative learning, which aligns with some aspects of technical leadership, but lacks a direct focus on leadership strategies or team dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the value of interactive learning in Agile and Scrum courses, which touches on aspects of collaboration and engagement relevant to technical leadership. However, it primarily focuses on the comparison between reading and attending courses rather than providing in-depth insights into technical leadership principles or practices. The mentions of Agile and Scrum are present but do not delve into the core themes of technical leadership, such as mentoring, team dynamics, or continuous improvement.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -607,7 +631,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T12:13:52",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -615,7 +639,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the value of attending a course over reading a book, mentioning discussions and sharing ideas, which could relate to organisational change in terms of fostering a culture of agility. However, it lacks explicit discussion of organisational change strategies, frameworks, or methodologies, and does not delve into the principles of Agile transformation or leadership roles in driving change. The focus is more on personal learning experiences rather than organisational transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -637,11 +661,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:17:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of interactive learning environments, particularly in Agile and Scrum courses, emphasizing collaboration, communication, and the human aspect of learning processes.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the limitations of reading books compared to attending interactive courses, emphasising the importance of human interaction, collaboration, and engagement in learning environments. It aligns well with the category by highlighting team dynamics and the value of shared experiences in Agile and Scrum contexts. The depth of discussion on how courses facilitate collaborative learning and the positive impact of a motivated workforce on customer experience further supports its relevance to the 'People and Process' category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -655,12 +682,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses the value of interactive learning through courses versus reading books, it briefly touches on Agile and Scrum principles within that context. Business agility principles are mentioned, but they are not the central focus of the content.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, which are related to business agility, but it primarily focuses on the comparison between reading and attending courses. While it touches on collaborative learning and the importance of interaction, it does not delve deeply into the principles or practices of business agility. The discussion lacks substantial detail on how these concepts contribute to organisational adaptability or innovation, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -718,12 +748,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:17:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum courses, focusing on interactive learning and collaborative environments, which are related to leadership in Agile contexts, but it is primarily about the benefits of courses versus books rather than directly addressing Agile leadership themes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum courses, which indirectly relates to Agile Leadership by emphasising collaboration and engagement. However, it lacks a direct focus on leadership roles or practices within Agile contexts, and the discussion primarily centres on learning methods rather than leadership strategies or empowerment.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -763,16 +796,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:18:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of interaction and collaboration in learning environments, particularly in Agile and Scrum courses, which aligns with team collaboration principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of reading books compared to attending interactive courses, highlighting the importance of engagement, discussion, and collaboration in learning environments. While it does mention collaboration and the benefits of interactive learning, the primary focus is on the learning experience rather than team dynamics or specific Agile methodologies. The references to Agile and Scrum courses suggest some alignment with the category, but the depth of discussion on team collaboration is limited.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-11T10:14:38",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -780,7 +816,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions Agile methodologies in the context of comparing reading a book to attending a course. However, it does not delve into any specific strategies or practices that enhance market adaptability. The discussion lacks depth and does not align closely with the core themes of market adaptability, such as responsiveness to market shifts or the implementation of Agile practices in a business context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -838,11 +874,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:18:16",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the differences between reading and attending Agile and Scrum courses, emphasizing interactive learning in the context of Agile methodologies.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the value of interactive learning in Agile and Scrum courses, which aligns with Agile Project Management principles. It mentions Agile and Scrum explicitly, indicating a focus on these methodologies. However, the primary discussion revolves around the comparison of reading versus attending courses, which, while related, does not delve deeply into Agile project management practices or frameworks. The content does not provide extensive detail on Agile principles or specific project management techniques, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -865,11 +904,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses books in the context of learning and contrasts them with interactive courses, while promoting Agile and Scrum courses, making it a significant but secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the limitations of reading books compared to attending courses, which is relevant to the category of 'Products and Books' as it touches on literature (books) and educational products (courses). However, the primary focus is on the interactive learning experience rather than a detailed analysis or review of specific books or products. The mention of Agile and Scrum courses indicates some alignment with the category, but the depth of discussion on specific products or literature is minimal.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -883,12 +925,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the main focus is on the value of interactive learning versus reading, it touches on themes of engagement, collaboration, and fostering a positive learning environment, which relate to team motivation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the benefits of interactive learning in courses compared to reading books, which indirectly touches on team dynamics and collaboration. However, it primarily focuses on the learning experience rather than specific strategies for enhancing team motivation or engagement. While it mentions the importance of a happy and inspired workforce, it lacks detailed exploration of team motivation concepts, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -931,11 +976,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:27",
+    "ai_confidence": 47.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the value of Agile and Scrum courses, highlighting the importance of collaboration and interactive learning in the Agile philosophy, though it primarily focuses on training and educational aspects rather than specific Agile product management practices.",
+    "final_score": 43.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of learning and training, but it does not delve into specific Agile Product Management practices or methodologies. While it promotes interactive learning in Agile environments, it lacks detailed discussions on product value maximisation, backlog prioritisation, or the role of the Product Owner, which are core themes of Agile Product Management.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -967,12 +1015,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum courses, highlighting interactive learning and collaboration, which aligns with team dynamics. However, the primary focus is on the value of courses rather than specifically on Scrum Team dynamics.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Scrum and Agile training, suggesting a connection to Scrum Teams, but it primarily focuses on the benefits of interactive learning versus reading. While it touches on collaboration and engagement, it lacks detailed discussion on specific Scrum roles, team dynamics, or practices that would align more closely with the category's core themes.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1012,30 +1063,39 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of interactive learning through courses related to Agile and Scrum, which implies an element of mentoring and coaching, but is primarily focused on the advantages of course participation over reading.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the benefits of interactive learning in courses compared to reading books, which indirectly relates to mentoring by emphasising the importance of engagement and discussion in learning environments. However, it lacks direct mentions of mentoring techniques or the role of a mentor, and the depth of discussion on mentoring principles is limited.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:41",
+    "ai_confidence": 68.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the interactive aspects of learning in Agile and Scrum courses, which implies a focus on collaboration and engagement, central themes in Agile philosophy, but it primarily emphasizes the benefits of the course format over books rather than deeper philosophical aspects.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum courses, highlighting collaboration and engagement, which aligns with Agile principles. However, it primarily focuses on the benefits of courses over reading rather than delving deeply into the broader Agile philosophy or its foundational principles.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum training, which are relevant to product delivery methodologies, but the primary focus is on the learning experience rather than on the delivery of software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the value of interactive learning in Agile and Scrum courses, which relates to product delivery methodologies. However, it primarily focuses on the learning experience rather than the end-to-end process of delivering software products. While Agile and Scrum are mentioned, the discussion lacks depth in terms of specific product delivery practices, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1048,21 +1108,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the importance of interactive learning in Agile and Scrum courses, which aligns with the theme of enhancing adaptability and responsiveness within an organisation through collaboration and continuous improvement.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum courses, which aligns with the principles of organisational agility by promoting collaboration and adaptability. However, it primarily focuses on the learning experience rather than broader organisational strategies or frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum courses, the importance of interactive learning in Agile environments, and touches on concepts related to Agile training and coaching, but it is primarily focused on the value of courses compared to reading books.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum courses, which aligns with the principles of Agile transformation. It mentions Agile and Scrum explicitly, indicating a focus on these methodologies. However, while it touches on the value of collaboration and engagement, it lacks in-depth exploration of Agile transformation strategies, frameworks, or change management, which limits its overall depth of discussion.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1174,11 +1240,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T00:18:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "Content discusses the importance of interactive learning and the benefits of attending courses, emphasizing a learning experience related to Agile and Scrum, although project management aspects are also highlighted.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the limitations of reading books compared to attending courses, highlighting the importance of interactive learning and engagement, which aligns well with the themes of discovery and learning. It emphasises the value of conversation and shared understanding in the learning process, which is a core aspect of fostering innovation and continuous learning. The depth of discussion is substantial, as it elaborates on how courses can facilitate collaborative learning and curiosity, although it does lean towards promoting specific courses rather than a broader exploration of methodologies. Overall, the content fits well within the category, but with a slight commercial focus.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -1219,11 +1288,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the value of interactive learning in Agile and Scrum contexts, indicating a focus on practical application and collaboration, but it primarily emphasizes the difference between reading and attending courses rather than specific pragmatic problem-solving strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the limitations of reading books compared to attending interactive courses, which aligns with the importance of practical engagement in learning environments, a key aspect of Pragmatic Thinking. It mentions Agile and Scrum courses, indicating a connection to real-world applications. However, the focus is more on the learning experience rather than specific problem-solving strategies or techniques within Agile or Scrum contexts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -1291,12 +1363,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:18:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content emphasizes collaborative learning and mentions the Agile philosophy, but primarily discusses the comparison between reading books and attending courses.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of interactive learning and collaboration, which aligns with Agile principles of customer collaboration and self-organising teams. However, it primarily focuses on the comparison between reading and attending courses rather than delving deeply into Agile values or principles. The mention of Agile and Scrum courses indicates a connection to Agile methodologies, but the discussion lacks a thorough exploration of the Agile Manifesto or its core values.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1426,7 +1501,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:24:23",
+    "calculated_at": "2025-03-15T00:17:47",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1434,6 +1509,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions agile concepts and the value of discussions in a learning environment, which could relate to Scrum principles. However, it does not explicitly discuss Scrum roles, events, or artifacts, nor does it delve into the core themes of Scrum. The focus is more on the comparison between reading and attending a course rather than on Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

@@ -25,10 +25,15 @@ duration: 159
 isShort: false
 tags:
 - People and Process
+- Agile Product Management
 - Agile Project Management
+- Personal
 - Agile Leadership
-- Organisational Culture
 - Organisational Agility
+- Organisational Culture
+- Product Owner
+- Agile Transformation
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

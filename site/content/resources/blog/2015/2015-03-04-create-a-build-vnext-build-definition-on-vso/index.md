@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
 - Software Development
-- Install and Configuration
 - Azure Pipelines
+- Install and Configuration
 - Practical Techniques and Tooling
+- Windows
 - Azure DevOps
-- Internal Developer Platform
+- Continuous Integration
 - Modern Source Control
-- Release Management
-- System Configuration
-- Software Developers
+- Azure Repos
+- Internal Developer Platform
 categories:
 - DevOps
 - Engineering Excellence

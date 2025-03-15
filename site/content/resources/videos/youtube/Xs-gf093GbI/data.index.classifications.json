@@ -250,11 +250,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a product vision in aligning teams and ensuring cohesive direction, which relates to strategic alignment in Agile environments. However, it primarily focuses on the concept of product vision rather than broader strategic approaches.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a product vision, which is crucial for strategic alignment within Agile teams. It highlights the need for a shared understanding and direction, aligning with the core themes of strategic alignment and the role of leadership in fostering a strategic mindset. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and the discussion is more focused on the concept of product vision rather than detailed strategic approaches.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -268,12 +271,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a product vision, which is relevant to Agile principles, particularly in the context of Scrum. However, the primary focus is on the concept of product vision rather than a detailed exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a product vision, which is relevant to Agile practices, particularly in Scrum. However, it does not explicitly focus on Agile frameworks or provide a detailed exploration of them. The mention of Agile and Scrum courses at the end indicates a connection, but the primary focus remains on product vision rather than Agile frameworks themselves.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -286,7 +292,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T12:12:43",
+    "calculated_at": "2025-03-15T00:07:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -294,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of a product vision in aligning team efforts towards a common goal, which touches on team collaboration. However, it primarily focuses on the concept of product vision rather than specific techniques or strategies for enhancing team dynamics or communication. While it does mention the need for shared understanding among team members, it lacks depth in exploring collaborative practices or tools, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -343,12 +349,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:08:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a product vision, which is relevant to Agile and Scrum methodologies, but it primarily focuses on the concept of product vision rather than software development practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a product vision, which is relevant to software development, particularly in Agile methodologies. However, it primarily focuses on the concept of vision rather than specific software development practices or methodologies. While it briefly mentions Agile and Scrum courses, the overall discussion lacks depth in software engineering techniques and does not provide substantial detail on the development lifecycle or best practices.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -379,12 +388,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of a product vision, which aligns with Agile principles of collaboration and shared understanding, but it primarily focuses on product vision rather than Agile values and principles themselves.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of a product vision, which aligns with Agile principles of collaboration and shared understanding. However, it does not explicitly mention Agile values or principles, nor does it delve deeply into Agile methodologies. The reference to Agile and Scrum courses at the end is too brief to significantly impact the overall confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -604,7 +616,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T10:13:57",
+    "calculated_at": "2025-03-15T00:07:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -612,7 +624,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of a product vision in aligning a team towards a common goal, which is relevant to Agile Strategy. However, it lacks explicit references to Agile methodologies or strategic planning, focusing more on the concept of vision rather than its integration into Agile practices. The discussion is somewhat aligned with the category's themes but does not delve deeply into Agile principles or their application in strategic contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -652,11 +664,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a shared product vision, which relates to team alignment and cohesion, but primarily focuses on the concept of product vision rather than team dynamics or motivation.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a product vision in providing direction and alignment for a team, which indirectly relates to team motivation. However, it lacks explicit discussions on team dynamics, engagement strategies, or psychological safety, which are core themes of the category. The focus is more on the product vision itself rather than on motivating the team or enhancing their performance.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -760,12 +775,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of a product vision, which is relevant to Scrum principles, but it does not primarily focus on Scrum practices or product development within a Scrum framework.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of a product vision, which is relevant to Scrum principles, particularly in aligning team efforts. However, it lacks explicit references to Scrum roles, events, or practices, and does not delve into specific Scrum methodologies or product development processes.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -841,12 +859,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:28:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of a product vision, which is related to understanding customer needs and aligning product development. However, it primarily focuses on the concept of vision rather than specific methodologies or practices of product discovery.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of a product vision, which is a crucial aspect of product discovery. It highlights the need for alignment and understanding among team members regarding the product's direction, which aligns with the core themes of identifying customer needs and defining valuable product features. However, it lacks specific methodologies or techniques for user research or validating ideas, which limits its depth in the context of product discovery.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -859,12 +880,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a product vision, which is relevant to Agile Planning as it relates to alignment and direction in project delivery. However, it primarily focuses on the concept of product vision rather than Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of a product vision, which is relevant to Agile Planning as it touches on alignment and direction for teams. However, it lacks direct references to Agile methodologies, techniques, or practices, and does not delve deeply into Agile planning processes or frameworks.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1108,12 +1132,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a product vision, which is a significant aspect of product delivery, but it primarily focuses on the concept of vision rather than the end-to-end delivery process.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of a product vision, which is a crucial aspect of product delivery. It highlights the need for alignment and direction within teams, which aligns with the core themes of product delivery. However, it lacks detailed discussions on methodologies, practices, or specific strategies related to the end-to-end process of delivering software products, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1129,12 +1156,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of a product vision, which relates to alignment and understanding within teams, but primarily focuses on the concept of product vision rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of a product vision, which indirectly relates to the themes of alignment and understanding within teams. However, it primarily focuses on the concept of product vision rather than exploring methodologies for discovery and learning. While there are mentions of alignment and purpose, the depth of discussion does not sufficiently cover the key topics outlined in the category, such as experimentation, feedback loops, or continuous learning.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1219,7 +1249,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-10T18:16:28",
+    "calculated_at": "2025-03-15T00:07:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1227,7 +1257,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the concept of a product vision, which is relevant to Agile methodologies, but it lacks direct references to specific products or literature. While it touches on the importance of a product vision in guiding teams, it does not provide detailed analysis or reviews of books or tools that would enhance understanding of Agile or DevOps principles. The discussion is more conceptual and lacks the depth required for a strong alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1249,12 +1279,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:07:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a product vision in aligning team efforts and ensuring a shared understanding of goals, which relates to value delivery, but it primarily focuses on the concept of product vision rather than specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of a product vision, which indirectly relates to value delivery by emphasising alignment and direction in product development. However, it lacks explicit references to Agile methodologies, iterative development, or techniques for measuring customer value, which are core to the Value Delivery category.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1267,7 +1300,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T17:43:31",
+    "calculated_at": "2025-03-15T00:07:38",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1275,7 +1308,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of a product vision, which is related to organisational alignment and direction, but it does not explicitly address organisational agility or its core themes. The mention of Agile and Scrum courses suggests a connection to agile methodologies, but the primary focus is on product vision rather than agility as a whole.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1363,7 +1396,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T13:58:26",
+    "calculated_at": "2025-03-15T00:07:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1371,16 +1404,19 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of a product vision in guiding teams towards a common goal, which aligns with the themes of collaboration and team dynamics in Social Technologies. However, it lacks direct references to specific frameworks like Scrum or Agile practices, and the depth of discussion on these methodologies is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:42:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:08:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of a product vision, which is a key aspect of product-centric development, but it does not delve deeply into Agile methodologies or the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of a product vision, which is a key aspect of the Agile Product Operating Model. It highlights the need for alignment and shared understanding among team members, which aligns with the principles of product-centric development. However, it lacks detailed exploration of Agile methodologies, metrics, or case studies, which limits its depth and overall alignment with the category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1429,7 +1465,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:23:54",
+    "calculated_at": "2025-03-15T00:07:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1437,6 +1473,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions the importance of a product vision, which is relevant to Scrum as it relates to the Product Owner's role. However, it lacks detailed discussion on Scrum principles, roles, or events, and does not provide in-depth insights into the Scrum framework or its implementation. The mention of 'agile, scrum or DevOps' at the end indicates a broader context but does not focus specifically on Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

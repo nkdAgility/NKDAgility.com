@@ -103,12 +103,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:41:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses personal development as a developer and mentions tools like TFS, but the primary focus is on personal experiences and aspirations rather than practical techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions tools like TFS and discusses personal development as a developer, but lacks a focused exploration of practical techniques or methodologies related to Agile or DevOps. The discussion is more personal and anecdotal rather than providing structured insights into tooling or techniques that enhance team performance or collaboration.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -229,7 +232,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-11T12:16:01",
+    "calculated_at": "2025-03-15T07:40:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -237,7 +240,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions a potential speaking engagement at a company conference about dyslexia, which aligns with the category. However, the primary focus is on personal development and experiences rather than structured discussions or insights from events. The mention of the conference is not detailed, and the overall content lacks depth in discussing events or presentations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -298,12 +301,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:41:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions TFS (Team Foundation Server), which is part of Azure DevOps, but the primary focus is on personal development and experiences rather than Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions TFS (Team Foundation Server), which is part of Azure DevOps, but the primary focus is on personal development and experiences rather than on Azure DevOps functionalities or practices. The discussion lacks depth and does not explore CI/CD, project management, or best practices related to Azure DevOps.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -334,7 +340,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T15:18:54",
+    "calculated_at": "2025-03-15T07:40:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -342,15 +348,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content touches on personal development and the author's journey to improve as a developer, which includes aspects of collaboration and sharing experiences with others. However, it primarily focuses on individual actions and personal reflections rather than structured methodologies or team dynamics. While there are mentions of engaging with the community and discussing dyslexia's impact on work, these elements are not deeply explored in relation to team processes or methodologies, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:41:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses personal development and learning strategies, including studying for certifications and sharing knowledge about dyslexia, which aligns with the theme of continuous learning. However, it primarily focuses on personal experiences rather than broader methodologies or processes of discovery and learning.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses personal development and learning strategies, such as studying for certifications and blogging about experiences. However, it lacks a strong focus on structured methodologies for discovery and learning within teams or product development. While there are mentions of learning and sharing knowledge, the depth of discussion on these topics is limited, and the primary focus is more on personal anecdotes rather than broader principles of innovation or experimentation.",
     "level": "Tertiary"
   },
   "Products and Books": {
@@ -580,7 +589,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T19:03:14",
+    "calculated_at": "2025-03-15T07:40:59",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -588,15 +597,18 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses personal development as a software developer, including studying for certifications and working on projects like TFS Event Handler. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While it touches on the developer's journey and community engagement, it does not delve into best practices or tools that enhance productivity and collaboration in a structured manner.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:41:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving as a developer and mentions working on a TFS Event Handler project, which are related to software development practices, but much of it is personal reflection and not solely focused on systematic software engineering topics.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses personal experiences and aspirations related to becoming a better developer, including studying for certifications and working on a TFS Event Handler project. While it touches on relevant topics like software development practices and tools, the focus is more on personal growth and experiences rather than structured methodologies or best practices in software development. The depth of discussion on specific software development techniques is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -856,7 +868,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T17:08:28",
+    "calculated_at": "2025-03-15T07:40:59",
     "ai_confidence": 12.0,
     "ai_mentions": 15.0,
     "ai_alignment": 10.0,
@@ -864,7 +876,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal development and experiences rather than discussing modern source control practices. While there is a brief mention of TFS (Team Foundation Server), it is not explored in depth or connected to broader version control strategies or methodologies. The overall discussion lacks a clear focus on the key topics outlined in the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -967,12 +979,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:41:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content mentions personal growth as a developer and some specific projects like TFS Event Handler, it primarily focuses on personal anecdotes and goals rather than deep technical practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses personal development as a developer, including studying for certifications and working on projects like the TFS Event Handler. While it touches on aspects of technical mastery, such as improving skills and engaging with the developer community, it lacks a focused discussion on best practices, methodologies, or principles of software craftsmanship. The mention of dyslexia and its benefits to developers, while interesting, does not directly contribute to the core themes of technical mastery. Overall, the content is more reflective and personal rather than a deep dive into technical excellence.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1255,7 +1270,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:21:18",
+    "calculated_at": "2025-03-15T07:40:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1263,7 +1278,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses personal development as a developer and touches on various aspects of improving skills, such as studying for certifications and engaging with the community. However, it lacks a strong focus on engineering excellence principles, best practices, or detailed discussions on software craftsmanship. The mentions of TFS and blogging about dyslexia are relevant but do not delve deeply into engineering processes or quality assurance, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1411,7 +1426,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:49",
+    "calculated_at": "2025-03-15T07:40:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1419,6 +1434,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal development as a developer, discussing various topics such as studying for certifications, working on projects, and personal experiences. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content lacks depth in relation to Scrum, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

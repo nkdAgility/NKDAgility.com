@@ -67,11 +67,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-13T17:46:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the evolution of DevOps practices, the importance of automation, cultural shifts, and continuous improvement, all of which align with enhancing an organisation's capacity to innovate. It also touches on metrics and frameworks relevant to measuring innovation capabilities.",
+    "calculated_at": "2025-03-14T14:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of DevOps and highlights the importance of cultural shifts, automation, and continuous learning, which are relevant to fostering innovation. However, it primarily focuses on personal experiences and challenges rather than explicitly measuring or enhancing innovation capabilities. While it touches on some key themes of the Ability to Innovate category, it lacks a structured approach to frameworks or metrics for measuring innovation, which limits its alignment and depth in this specific area.",
     "level": "Secondary"
   },
   "Scrum Master": {
@@ -94,11 +97,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of DevOps and its relationship with Agile methodologies, touching on cultural shifts, collaboration, and the importance of continuous learning and skill development, which are relevant to organisational change. However, the primary focus remains on technical aspects of DevOps rather than a comprehensive exploration of organisational change strategies.",
+    "calculated_at": "2025-03-14T19:13:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the evolution of DevOps and highlights challenges related to cultural shifts, tool integration, and continuous learning, which are relevant to organisational change. However, the primary focus is on DevOps practices rather than a structured discussion of organisational change methodologies or frameworks. While there are mentions of cultural shifts and the need for collaboration, the depth of discussion on organisational change principles is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -112,29 +118,38 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:03",
+    "ai_confidence": 48.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Continuous Integration as part of a broader narrative on DevOps and application lifecycle management, but it is not the primary focus. It touches on CI principles and practices, but the main emphasis is on personal experiences and the evolution of DevOps.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses Continuous Integration (CI) in the context of a broader narrative about DevOps and application lifecycle management. While CI is mentioned as a concept that was gaining traction, the focus is primarily on the evolution of DevOps, cultural shifts, and toolchain integration rather than a detailed exploration of CI principles or practices. The discussion lacks depth specifically on CI, making it a secondary theme rather than a primary focus.",
     "level": "Tertiary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of DevOps and its relationship with Agile principles, touching on cultural shifts, collaboration, and the importance of continuous learning and skill development, which are relevant to change management. However, the primary focus is on personal experiences and technical aspects of DevOps rather than a structured discussion on change management strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:13:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the evolution of DevOps and highlights challenges related to cultural shifts, tool integration, and continuous learning, which are relevant to change management. However, it primarily focuses on personal experiences and technical aspects of DevOps rather than providing a structured discussion on change management principles or strategies. While there are mentions of cultural shifts and the importance of collaboration, the depth of discussion on change management practices is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-13T17:47:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:13:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles of systems thinking, the interplay between processes and culture in DevOps, and the importance of feedback loops and continuous learning within organisational contexts. It aligns well with the key topics of Organisational Physics, particularly in how these elements affect overall performance and organisational behaviour.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses systems thinking in the context of DevOps, highlighting the importance of viewing software and processes as part of a larger ecosystem. It touches on organisational dynamics, such as cultural shifts and the integration of tools, which align with the principles of Organisational Physics. However, while it mentions systems thinking and feedback loops, the primary focus remains on DevOps practices rather than a comprehensive exploration of organisational dynamics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -265,12 +280,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server, which is related to Azure Repos, but the primary focus is on broader DevOps practices and personal experiences rather than specifically on Azure Repos functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses DevOps and mentions Azure DevOps in the context of toolchain integration and automation, but it does not focus specifically on Azure Repos or its functionalities. The discussion is more general about DevOps practices and challenges rather than delving into Azure Repos' specific features like source control management, branching strategies, or pull requests.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -283,20 +301,26 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of DevOps practices and their implications for software delivery, touching on cultural shifts, toolchain integration, and continuous learning. However, it primarily focuses on personal experiences and insights rather than a structured analysis of trends.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences and challenges faced in the adoption of DevOps rather than analysing trends within Agile or DevOps frameworks. While it touches on some relevant themes, such as the need for cultural shifts and automation, it lacks a structured analysis of emerging trends or their implications for organisations. The discussion is more anecdotal and does not provide substantial insights into how these challenges reflect broader trends in the industry.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-13T17:48:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the evolution and implementation of DevOps practices, focusing on automation, continuous integration, and the cultural shifts necessary for effective software delivery. It addresses key technical principles and methodologies that contribute to high-quality software development, aligning well with the category of Technical Mastery.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the evolution of DevOps, focusing on automation, integration, and continuous learning, which aligns well with the principles of software craftsmanship and engineering excellence. It provides specific examples and challenges faced in the DevOps journey, demonstrating a deep understanding of technical practices. However, while it touches on technical mastery, it also includes broader themes of culture and collaboration, which slightly detracts from its primary focus on technical excellence.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -355,12 +379,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses DevOps practices, including automation, continuous integration, and deployment, which are relevant to modern source control. However, the primary focus is on broader DevOps principles and personal experiences rather than specific version control methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:13:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps and its challenges, touching on automation and toolchain integration, which are relevant to modern source control. However, it primarily focuses on broader DevOps principles rather than specific version control practices, making it a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -382,12 +409,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of feedback loops in the context of DevOps and Agile methodologies, highlighting the need for continuous learning and improvement based on customer insights. However, the primary focus is on DevOps practices and personal experiences rather than a dedicated exploration of customer feedback loops.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:13:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of feedback loops in the context of DevOps, highlighting their role in continuous improvement and decision-making. However, while it touches on the concept of feedback, it does not delve deeply into specific methods for collecting or integrating customer feedback into product development, which is a core focus of the category. The discussion is more centred on DevOps practices and challenges rather than a dedicated exploration of customer feedback loops.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -454,11 +484,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-13T17:49:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting the cultural shifts, collaboration, and continuous improvement aspects that align with Agile principles. It references the Agile Manifesto and its implications, making Agile philosophy a primary theme throughout the narrative.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles, particularly in relation to DevOps, and mentions the Agile Manifesto. However, the primary focus is on DevOps practices and challenges rather than a deep exploration of Agile philosophy itself. While it touches on cultural shifts and collaboration, it does not provide extensive detail on the broader implications of Agile as a mindset.",
     "level": "Secondary"
   },
   "Forecasting": {
@@ -481,11 +514,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-13T17:49:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the evolution and implementation of DevOps, which is a key aspect of digital transformation. It highlights the integration of digital tools and methodologies to improve processes, enhance collaboration, and foster a culture of continuous learning and automation, all of which align with the principles of digital transformation.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the evolution of DevOps and its challenges, which are relevant to digital transformation. However, while it touches on automation and cultural shifts, it lacks a direct focus on broader digital transformation strategies or case studies. The primary emphasis is on DevOps practices rather than a comprehensive view of digital transformation initiatives.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -508,11 +544,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-13T17:49:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the cultural shifts necessary for successful DevOps implementation, including the importance of collaboration, continuous learning, and the role of people in the process. It highlights how organisational culture impacts the effectiveness of DevOps practices and the need for a supportive environment for automation and experimentation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the cultural and collaborative shift necessary for adopting DevOps, highlighting the importance of people and processes over tools. It mentions the need for a cultural shift towards automation and collaboration, which aligns with the category's focus on organisational culture. However, the primary focus is on the technical aspects of DevOps and personal experiences rather than a deep exploration of organisational culture itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -526,12 +565,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of cultural shifts, collaboration, and skill development within teams, which are relevant to coaching. However, the primary focus is on DevOps practices and personal experiences rather than coaching techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of cultural shifts, continuous learning, and collaboration in the context of DevOps, which aligns with some coaching principles. However, it primarily focuses on the challenges and processes of DevOps rather than on coaching techniques or the role of a coach. The mention of fostering a culture of learning and experimentation hints at coaching but lacks depth in discussing specific coaching practices or frameworks.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -598,12 +640,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses principles of DevOps, which overlaps with Lean Product Development concepts such as minimising waste and maximising learning. However, the primary focus is on DevOps practices rather than Lean principles specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:13:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses DevOps and its challenges, with only brief mentions of concepts that could relate to Lean principles, such as continuous learning and feedback loops. However, it lacks a focused discussion on Lean Product Development principles, techniques for waste elimination, or specific strategies for fostering a culture of continuous improvement, which are central to the Lean category.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -688,20 +733,26 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-13T17:50:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the importance of experimentation in DevOps, particularly in the context of continuous learning, feedback loops, and cultural shifts. It highlights how experimentation can validate processes and improve decision-making, aligning well with the key topics of the 'Experimentation' category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of fostering a culture of experimentation and learning from mistakes, which aligns with the category's focus on hypothesis-driven approaches. However, while it touches on experimentation, it does not delve deeply into specific techniques or systematic testing methods, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-13T17:50:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the author's journey and experiences as a software developer transitioning into DevOps, detailing the challenges faced, the importance of automation, and the integration of Agile and DevOps principles. It covers best practices, cultural shifts, and the role of tools in enhancing software delivery, aligning closely with the key topics outlined for the category.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed personal narrative about the author's journey as a software developer transitioning to DevOps, explicitly discussing challenges and best practices relevant to software development within Agile and DevOps frameworks. It covers key topics such as automation, cultural shifts, toolchain integration, and continuous learning, all of which align closely with the category's focus. The depth of discussion is substantial, with real-world examples and insights into the evolution of practices, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -760,11 +811,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of DevOps, continuous delivery, and automation, which are relevant to release management, but it primarily focuses on personal experiences and broader DevOps principles rather than specific release management strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the evolution of DevOps and highlights challenges related to automation, toolchain integration, and feedback loops, which are relevant to release management. However, it primarily focuses on personal experiences and broader DevOps concepts rather than specific release management strategies or practices. The mention of continuous delivery and the importance of automation aligns with release management, but the depth of discussion on release-specific topics is limited.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -796,11 +850,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T17:51:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the journey and principles of DevOps, with a strong emphasis on continuous delivery practices, automation, and the cultural shifts necessary for effective software deployment. It covers key aspects of Continuous Delivery, including the importance of automation, toolchain integration, and the need for a production-ready codebase, making it a central theme throughout the narrative.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the evolution of DevOps and highlights the importance of automation and integration, which are key aspects of Continuous Delivery. However, it primarily focuses on broader DevOps principles rather than specifically addressing Continuous Delivery practices. While there are mentions of automation and deployment processes, the depth of discussion on Continuous Delivery itself is limited, making it a secondary focus rather than a primary one.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -814,38 +871,50 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-13T17:51:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the evolution and implementation of DevOps practices, focusing on automation, process optimisation, and cultural shifts necessary for improving operational efficiency in software delivery. It provides practical insights into continuous integration, deployment challenges, and the importance of metrics and feedback loops, aligning well with the key topics of operational practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed narrative on the author's journey through DevOps, focusing on the challenges and strategies for improving operational efficiency. It discusses the importance of automation, cultural shifts, toolchain integration, and continuous learning, all of which are core themes of operational practices. The depth of discussion is significant, with real-world examples and a clear emphasis on practical applications within the DevOps framework, aligning well with the category's focus on enhancing operational efficiency.",
     "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-13T17:51:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:12:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of continuous learning and skill development within the context of DevOps, highlighting the need for a culture of experimentation, learning from failures, and the integration of feedback loops to enhance team performance.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses Continuous Learning as one of the three key challenges in adopting DevOps, highlighting the need for ongoing learning and adaptation. It aligns with the principles of a growth mindset and the importance of learning from failures. However, while it touches on these themes, the primary focus is on the broader DevOps journey and challenges rather than an in-depth exploration of Continuous Learning itself.",
     "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-13T17:51:18",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of collaboration, cultural shifts, and the integration of people, processes, and tools within DevOps, which aligns closely with the themes of teamwork and communication in Agile and DevOps frameworks.",
+    "calculated_at": "2025-03-14T19:12:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and cultural shifts within DevOps, highlighting the need for a collaborative environment and the integration of people, processes, and tools. However, while it touches on team dynamics and the necessity for a cultural shift, it primarily focuses on personal experiences and challenges faced in the DevOps journey rather than providing in-depth strategies or techniques for enhancing team collaboration. Thus, it aligns with the category but lacks comprehensive depth.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-13T17:51:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses DevOps, which is closely related to engineering practices such as automation, continuous integration, and continuous delivery. It highlights the importance of cultural shifts, toolchain integration, and the need for continuous learning within engineering teams, aligning well with the principles of Agile development.",
+    "calculated_at": "2025-03-14T19:12:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of DevOps, which aligns with engineering practices, particularly in automation and continuous integration. It mentions the importance of automation, toolchain integration, and cultural shifts towards collaboration, which are key themes in Agile engineering practices. However, while it touches on these topics, the primary focus is on personal experiences and challenges rather than a deep exploration of the principles themselves. The depth of discussion is moderate, providing examples and insights but lacking a thorough examination of clean code or TDD specifically.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -886,21 +955,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile methodologies, touching on themes of cultural shifts, continuous delivery, and the integration of Agile principles into engineering practices. However, the primary focus is on personal experiences and technical practices rather than a strategic discussion on Agile strategy itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of DevOps and its challenges, touching on Agile principles such as collaboration and continuous delivery. However, while it mentions Agile concepts, the primary focus is on DevOps practices rather than a strategic alignment with Agile methodologies. The depth of discussion on Agile strategy is moderate, but it lacks a comprehensive exploration of how these principles integrate into broader organisational strategy.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of cultural shifts and collaboration in DevOps, which relates to psychological safety, but it primarily focuses on technical processes and tools rather than explicitly addressing psychological safety as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of cultural shifts and continuous learning in the context of DevOps, which indirectly relates to psychological safety. However, it does not explicitly focus on psychological safety as a primary theme. The mention of fostering a culture of experimentation and learning from mistakes aligns with the concept, but the overall discussion is more centred on DevOps processes and challenges rather than on creating a psychologically safe environment.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -913,21 +988,27 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles in relation to DevOps, highlighting the connection between Agile methodologies and the engineering focus of DevOps. While it primarily centres on DevOps, it does touch upon Agile concepts, making it a significant but secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile principles, particularly the Agile Manifesto, and touches on cultural shifts that align with Agile methodologies. However, the primary focus is on DevOps rather than Agile Project Management specifically, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their relationship to DevOps, highlighting the cultural and process shifts necessary for effective implementation. However, the primary focus is on DevOps rather than Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses DevOps and its challenges, with a brief mention of the Agile Manifesto and its principles. However, the primary focus is on DevOps rather than Agile frameworks themselves. While there is some alignment with Agile principles, the depth of discussion on Agile frameworks is limited, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -952,12 +1033,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T17:51:53",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-14T19:12:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18.0,
+    "ai_alignment": 42.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses DevOps practices, automation, and the integration of processes and tools in software development, aligning closely with key topics in the Software Development category.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the evolution of DevOps, including its challenges, the importance of automation, and cultural shifts necessary for successful implementation. It aligns well with key topics in software development, particularly in relation to CI/CD practices and Agile methodologies. The depth of discussion on specific challenges and real-world examples enhances its relevance, making it a strong fit for the Software Development category.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1045,12 +1129,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of DevOps and its relationship with software development practices, touching on aspects of code quality, automation, and the complexities involved in deployment processes. However, the primary focus is on personal experiences and the broader context of DevOps rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the evolution of DevOps and the challenges associated with it, touching on aspects of automation and systems thinking. However, it primarily focuses on processes and cultural shifts rather than directly addressing code quality or complexity theory. While there are mentions of automation and integration, the depth of discussion on code quality principles and complexity management is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1207,21 +1294,27 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses concepts related to Lean, such as waste reduction and continuous improvement, particularly in the context of DevOps. However, the primary focus is on DevOps practices and experiences rather than Lean methodologies themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:13:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses DevOps and its challenges, with only brief mentions of concepts that could relate to Lean, such as continuous improvement and automation. However, it lacks a focused discussion on Lean principles, methodologies, or specific tools associated with Lean practices. The alignment with Lean is minimal, as the content does not delve into waste reduction or value stream mapping, which are core to Lean thinking.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the author's journey in DevOps and mentions co-authoring a book on Application Life Cycle Management, which aligns with the category. However, the primary focus is on personal experiences and insights rather than a detailed review or analysis of specific products or literature.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:13:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on personal experiences and challenges faced in the journey of adopting DevOps rather than discussing specific products or books. While it touches on concepts relevant to Agile and DevOps, it lacks direct references to literature or tools that would fit the 'Products and Books' category. The depth of discussion on DevOps principles is notable, but it does not sufficiently align with the category's focus on reviews or analyses of specific resources.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1258,12 +1351,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:13:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various aspects of DevOps, including tools like Team Foundation Server, which is part of Azure DevOps. However, the primary focus is on personal experiences and broader DevOps principles rather than specifically on Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses DevOps extensively, including a specific mention of Azure DevOps in the context of toolchain integration and automation. However, the primary focus is on general DevOps principles and challenges rather than Azure DevOps specifically. While it touches on relevant topics, the depth of discussion on Azure DevOps services is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1444,7 +1540,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:47:31",
+    "calculated_at": "2025-03-14T19:12:27",
     "ai_confidence": 12.0,
     "ai_mentions": 2,
     "ai_alignment": 15.0,
@@ -1452,6 +1548,6 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses DevOps and its challenges, with only brief mentions of Agile principles and Scrum concepts. While it touches on some themes relevant to Scrum, such as collaboration and feedback loops, the focus is predominantly on DevOps practices rather than Scrum-specific roles, events, or artifacts.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

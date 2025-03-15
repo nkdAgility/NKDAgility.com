@@ -424,12 +424,12 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T17:27:23",
+    "calculated_at": "2025-03-14T17:59:19",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content mentions the emergence of processes and practices, which aligns loosely with the concept of adaptation in empirical process control, but it does not provide a clear, primary focus on empirical process control principles or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -550,7 +550,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T17:52:10",
+    "calculated_at": "2025-03-14T17:59:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -558,7 +558,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the emergence of practices and tools, which aligns with the idea of adaptability in complex environments. However, it lacks explicit discussion of Agile, Scrum, or DevOps principles and does not provide detailed practical problem-solving strategies or real-world applications, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1102,12 +1102,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T17:27:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:59:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content suggests that processes and practices will emerge through work, indicating a theme of learning and adaptation, but it lacks depth in discussing specific methodologies or insights related to discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the emergence of practices and tools, which hints at a learning process. However, it lacks explicit discussions on experimentation, feedback loops, or methodologies that foster innovation. The mention of 'emerge' suggests a connection to discovery, but the overall depth and clarity of the discussion are insufficient to strongly align with the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1120,7 +1123,7 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-06T14:46:57",
+    "calculated_at": "2025-03-14T17:59:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1128,7 +1131,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of emergence, which is a key aspect of complexity thinking. However, it lacks explicit references to complexity science or its frameworks, and the discussion is very superficial, providing minimal detail on how these emergent practices relate to complex adaptive systems or organisational dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1261,7 +1264,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T00:19:32",
+    "calculated_at": "2025-03-14T17:59:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1269,7 +1272,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions 'processes' and 'practices', which are relevant to the category, but lacks explicit discussion on team dynamics, leadership, or specific methodologies. The alignment with core themes is moderate, as it hints at the emergence of practices through work, suggesting a human element, but does not provide substantial detail or depth on how people interact with these processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1399,7 +1402,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T14:46:55",
+    "calculated_at": "2025-03-14T17:59:19",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1407,6 +1410,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the idea of 'emergent practices', which could relate to Scrum's emphasis on continuous improvement and adaptation. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not provide sufficient detail or alignment with the core themes of the Scrum framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

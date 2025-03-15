@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:42:17",
+    "calculated_at": "2025-03-15T04:14:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, which is a specific operational task rather than a broader discussion on DevOps principles or practices. While it touches on aspects of cloud infrastructure management, it lacks explicit mentions of DevOps concepts such as CI/CD, automation, or cultural shifts. The depth of discussion is moderate, providing detailed steps but not addressing the collaborative or process-oriented aspects of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T10:23:34",
+    "calculated_at": "2025-03-15T04:14:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the practical steps for moving an Azure VM to a virtual network, which is a technical task. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does touch on technical aspects, such as configuration and deployment, it does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -382,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T17:56:09",
+    "calculated_at": "2025-03-15T04:14:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on the practical steps for moving an Azure VM to a virtual network, which is a technical task. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects, it does not delve deeply into the principles of clean code, architecture, or engineering practices that are central to the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -493,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:14:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical steps involved in configuring Azure virtual machines and networks, which relates to operational practices in cloud management, but it is primarily focused on specific technical instructions rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps required to move an Azure VM to a virtual network, which is more of a procedural guide than a discussion on operational practices. While it touches on aspects of configuration and management, it lacks a broader discussion on optimising processes or improving operational efficiency within Agile, DevOps, or Lean frameworks. The content does not provide insights into strategies for continuous improvement or metrics for measuring operational efficiency, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1123,7 +1126,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T16:44:14",
+    "calculated_at": "2025-03-15T04:14:51",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1131,11 +1134,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses moving a virtual machine within Azure, which is a cloud service and not directly related to the Windows operating system itself. While there are mentions of configuring a domain controller and virtual machines, the focus is on Azure's infrastructure rather than Windows-specific installation, configuration, or troubleshooting. The content lacks depth in discussing Windows OS features or functionalities, leading to a low confidence score in alignment with the Windows category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-11T14:54:23",
+    "calculated_at": "2025-03-15T04:14:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1143,7 +1146,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the process of moving a virtual machine within Azure, which is more about configuration and setup rather than deployment strategies. While it touches on aspects of infrastructure management, it lacks a direct discussion of deployment methodologies such as Blue-Green Deployments or Canary Releases. The content does not provide actionable insights into deployment strategies, thus resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

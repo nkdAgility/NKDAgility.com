@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Practical Techniques and Tooling
-- Decision Making
-- Metrics and Learning
-- Value Delivery
-- Evidence Based Management
-- Business Agility
-- Organisational Agility
-- Value Stream Management
 - Ability to Innovate
+- Working Software
+- Software Development
+- Product Delivery
+- Evidence Based Leadership
+- Agile Strategy
+- Flow Efficiency
+- Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

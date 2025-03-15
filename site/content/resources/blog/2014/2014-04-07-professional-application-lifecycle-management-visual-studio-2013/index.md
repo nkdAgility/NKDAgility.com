@@ -30,10 +30,7 @@ tags:
 - Products and Books
 - Application Lifecycle Management
 - Software Development
-- News and Reviews
-- Practical Techniques and Tooling
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

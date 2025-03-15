@@ -25,7 +25,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-12T10:04:51",
+    "calculated_at": "2025-03-14T16:19:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -33,11 +33,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control, which are more aligned with project management and team dynamics rather than direct engineering practices. While it touches on accountability and effectiveness, it lacks a strong focus on software craftsmanship, coding standards, or continuous improvement in engineering processes, which are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-12T10:04:45",
+    "calculated_at": "2025-03-14T16:19:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -45,7 +45,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum roles and the balance of leadership and control within Scrum teams. While it touches on themes of accountability and authority, it does not discuss DevOps principles, practices, or tools. The connection to DevOps is minimal, as it lacks direct mentions and does not align with the core themes of DevOps, such as CI/CD, automation, or cultural shifts in software delivery.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -97,7 +97,7 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-12T10:05:41",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -105,7 +105,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to leadership and authority, without any explicit mention of Lead Time or its measurement. While it touches on accountability and team effectiveness, it does not align with the core themes of Lead Time, such as its definition, measurement techniques, or strategies for reduction. The discussion lacks depth regarding Lead Time as a metric, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -121,7 +121,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-12T10:05:46",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -129,7 +129,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners within the Scrum framework, focusing on leadership and authority rather than specific events or presentations. While it touches on concepts relevant to Agile practices, it does not reference any actual events, talks, or presentations, which is essential for alignment with the 'Events and Presentations' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -145,7 +145,7 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-12T10:05:52",
+    "calculated_at": "2025-03-14T16:22:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -153,11 +153,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the roles of Scrum Masters and Product Owners in relation to authority and accountability, which indirectly touches on the Scrum Values of commitment and respect. However, it primarily focuses on leadership dynamics rather than explicitly addressing the core Scrum Values. The discussion lacks direct mentions of the values themselves and does not delve deeply into how these values guide team interactions, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-12T10:05:55",
+    "calculated_at": "2025-03-14T16:22:54",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -165,7 +165,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses leadership and authority within Scrum, which is more focused on organisational roles and responsibilities rather than decision-making processes in uncertain environments. While it touches on accountability and influence, it lacks a direct exploration of decision theory concepts such as heuristics, biases, or decision-making frameworks. The discussion is relevant to decision-making in a Scrum context but does not delve deeply into the principles of decision theory.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -181,7 +181,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-12T10:06:01",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -189,11 +189,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in Scrum, focusing on leadership, authority, and accountability rather than on collaboration tools. While it touches on team dynamics, it does not explicitly mention or explore any specific collaboration tools or their integration with Agile methodologies, which are central to the category of Collaboration Tools.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-12T10:06:06",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -201,7 +201,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses the roles of Scrum Masters and Product Owners in the context of leadership and authority within Scrum, which touches on Agile practices. However, it primarily focuses on philosophical discussions about accountability and control rather than practical techniques or tooling. While it mentions the Scrum framework, it lacks specific discussions on tools or methodologies that enhance Agile practices, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -229,7 +229,7 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-12T10:06:15",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -237,11 +237,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within that framework. While it touches on themes of accountability and authority, it does not explicitly mention Lean principles or concepts such as waste minimisation, continuous improvement, or value stream mapping. The focus is on Scrum methodology rather than Lean Thinking, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-03-12T10:06:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -249,11 +249,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within those roles, which is more focused on individual Agile practices rather than the scaling of Agile across multiple teams or at an enterprise level. While it touches on accountability and authority, it does not address the broader themes of scaling Agile methodologies or the coordination among multiple teams, which are central to the Scaled Agile category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-03-12T10:06:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -261,7 +261,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the roles of Scrum Masters and Product Owners, focusing on leadership and authority within Scrum. However, it does not explicitly address scaling Scrum across multiple teams or organisational contexts, which is the primary focus of the category. While there are elements of accountability and authority that could relate to scaling, the discussion remains largely centred on individual roles rather than frameworks or methodologies for scaling Scrum. Therefore, the confidence score reflects a moderate alignment with the category, but not a strong focus on scaling practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -301,7 +301,7 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-12T10:06:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -309,7 +309,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and authority within the Scrum framework, focusing on the roles of Scrum Masters and Product Owners. While it touches on accountability and team effectiveness, it does not explicitly address throughput, its measurement, or optimisation strategies. The discussion lacks depth in relation to throughput as a concept, making it a secondary theme rather than a primary focus.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -337,7 +337,7 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-03-12T10:06:42",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -345,11 +345,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to leadership and authority, without directly addressing the Daily Scrum event or its specific practices. While it touches on accountability and team dynamics, it does not provide insights into the structure, purpose, or best practices of the Daily Scrum itself, which is essential for a higher confidence score in this category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-12T10:06:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -357,7 +357,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, which does not align with Lean Startup principles. There are no direct mentions of MVPs, the Build-Measure-Learn feedback loop, or validated learning. The focus is on Scrum methodology rather than the iterative learning process central to Lean Startup.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -373,7 +373,7 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-12T10:06:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -381,7 +381,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to leadership and authority, rather than focusing on the delivery of software increments. While it touches on accountability and team effectiveness, it lacks a direct discussion on the Increment concept and its significance in delivering value to stakeholders. The alignment with Increment themes is minimal, and the depth of discussion does not adequately cover best practices or techniques related to Increment delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -397,7 +397,7 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-12T10:06:56",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -405,7 +405,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and authority within Scrum, with no direct mention of Cycle Time or its measurement. While it touches on accountability and team effectiveness, these themes do not align with the core topics of Cycle Time, such as workflow efficiency or strategies for reducing Cycle Time.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -457,7 +457,7 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-12T10:07:10",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -465,7 +465,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to leadership and authority, rather than focusing on backlog refinement. While it touches on accountability and team dynamics, it does not explicitly address backlog refinement techniques, practices, or its impact on sprint planning, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -493,7 +493,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-12T10:07:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -501,11 +501,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners within the Scrum framework, focusing on leadership and authority rather than specific products or literature. While it touches on concepts relevant to Agile methodologies, it does not provide reviews or analyses of books or tools, which are essential for the 'Products and Books' category. The discussion is insightful but lacks direct references to specific resources or products that would enhance understanding of Agile or DevOps principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-03-12T10:07:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -513,11 +513,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum, with no direct mention of Acceptance Test Driven Development or its principles. While it touches on accountability and authority, it does not align with the core themes of ATDD, such as acceptance criteria or collaborative development practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-12T10:07:27",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -525,7 +525,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in managing authority and accountability within Scrum, which is more focused on project management and leadership dynamics rather than on discovery and learning processes. While there are elements of continuous improvement and adaptation mentioned, they are not the primary focus of the discussion. The content lacks explicit references to experimentation, feedback loops, or fostering a culture of innovation, which are key aspects of the 'Discovery and Learning' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -541,7 +541,7 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-12T10:07:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -549,11 +549,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners in managing teams and ensuring accountability within the Scrum framework. While it touches on aspects of leadership and authority, it does not directly address product validation methodologies, user testing, or customer feedback loops. The focus is more on team dynamics and organisational structure rather than validating product ideas through user engagement.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-12T10:07:35",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -561,11 +561,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the balance of leadership and control within Scrum, touching on themes of accountability and authority. While it does mention the importance of context and the need for adaptability, it primarily focuses on Scrum roles rather than exploring the interconnectedness of systems or the principles of Systems Thinking. The discussion lacks depth in terms of holistic analysis and does not provide techniques or frameworks associated with Systems Thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-12T10:07:38",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -573,7 +573,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to leadership and authority, rather than focusing on the Product Backlog itself. While it touches on accountability and the importance of these roles in guiding teams, it does not delve into the specifics of backlog management, prioritisation, or refinement techniques. The mention of Product Owners is relevant but does not constitute a primary focus on the Product Backlog, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -589,7 +589,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-12T10:07:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -597,11 +597,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in Scrum, focusing on leadership and authority rather than providing news or reviews about Agile methodologies or tools. While it touches on relevant themes, it lacks explicit news updates or evaluations of resources, making it more of a theoretical discussion than a news or review piece.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-03-12T10:07:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -609,7 +609,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and control within the Scrum framework, focusing on accountability and authority rather than on hypothesis formulation, experimentation, or data-driven decision-making. There are no direct mentions of hypotheses or experimentation, and the discussion lacks depth in relation to the principles of hypothesis-driven development.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -625,7 +625,7 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-12T10:07:52",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 2,
     "ai_alignment": 5,
@@ -633,11 +633,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and their dynamics, particularly focusing on the balance of leadership and control within the Scrum framework. It explicitly references Scrum Masters and Product Owners, which directly ties it to Agile principles and practices. While it does touch on broader themes of leadership and accountability, the depth of discussion is heavily rooted in Scrum, making it unsuitable for the Miscellaneous category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-12T10:07:54",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -645,7 +645,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, which does not directly address software code quality or the complexities of software development processes. While it touches on accountability and authority, these themes are not aligned with the core topics of code quality, complexity theory, or best practices in coding and architecture.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -673,7 +673,7 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-12T10:08:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -681,11 +681,11 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses leadership and control within the Scrum framework, focusing on the roles of Scrum Masters and Product Owners. It does not mention AI or automation, nor does it explore how these technologies can enhance Agile practices. The discussion is centred around accountability and authority rather than the integration of AI and automation in Agile methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-12T10:08:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -693,7 +693,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the balance of leadership and control within Scrum, focusing on accountability and authority rather than directly addressing the Ability to Innovate. While it touches on aspects of leadership that could influence innovation, it lacks explicit discussions on frameworks, metrics, or Evidence-Based Management principles that are central to the A2I category. The content does not provide substantial detail on fostering a culture of innovation or empirical data analysis, which diminishes its relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -745,7 +745,7 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-12T10:08:22",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -753,11 +753,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in managing authority and accountability within Scrum, without addressing deployment frequency or its optimisation. While it touches on aspects of Agile practices, it does not focus on deployment intervals, strategies for increasing deployment frequency, or related metrics, which are essential for this category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
-    "calculated_at": "2025-03-12T10:08:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -765,11 +765,11 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses Scrum roles, leadership, and accountability without any direct mention or exploration of AI's role in Agile methodologies or DevOps practices. While it touches on themes of team dynamics and effectiveness, it does not align with the core topics of AI integration or its applications in software development.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-03-12T10:08:28",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -777,11 +777,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles, leadership, and accountability within a team context, focusing on the balance of authority and autonomy. It does not address asynchronous development principles, tools, or practices, nor does it explore team collaboration across different time zones. The mention of self-management and team dynamics is relevant but does not align with the core themes of asynchronous development.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-12T10:08:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -789,7 +789,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners within the Scrum framework, focusing on leadership and authority rather than remote working practices. While it touches on self-management and team dynamics, it does not address remote collaboration, tools, or strategies specific to remote Agile teams, which are essential for the 'Remote Working' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -829,7 +829,7 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-12T10:08:45",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -837,11 +837,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the balance of leadership and control within Scrum, focusing on accountability and authority rather than directly addressing flow efficiency or optimising work throughput. While it touches on the importance of removing impediments, which can relate to flow efficiency, the overall emphasis is on leadership dynamics rather than specific techniques or metrics for enhancing flow. Therefore, the confidence score reflects a low direct mention of flow efficiency, moderate conceptual alignment, and limited depth in discussing the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-12T10:08:47",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -849,11 +849,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within those roles, without a direct focus on release management practices or processes. While it touches on accountability and authority, it does not address key topics such as release planning, version control, or CI/CD practices, which are central to release management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-12T10:08:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -861,11 +861,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles, leadership, and accountability within Agile methodologies, without any mention or exploration of Artificial Intelligence. While it touches on themes relevant to Agile practices, it does not align with the specific focus on AI's integration or impact in these areas, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-12T10:08:53",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -873,7 +873,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and authority within Scrum, focusing on the roles of Scrum Masters and Product Owners. While it touches on the need for Scrum Masters to remove impediments, it does not provide specific techniques or methodologies for diagnosing or resolving technical issues, which is essential for the Troubleshooting category. The discussion is more about organisational dynamics than systematic problem-solving or technical troubleshooting.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -889,7 +889,7 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-03-12T10:08:59",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -897,11 +897,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, which does not directly relate to the management of a portfolio of projects. While there are mentions of accountability and organisational goals, these concepts are framed within the context of team dynamics rather than portfolio management practices. The focus is on Scrum methodology rather than strategic alignment or investment prioritisation, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-12T10:09:01",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -909,11 +909,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within that framework, which does not directly address Lean Product Development principles. While there are elements of continuous improvement and accountability, the focus is more on Scrum methodology rather than Lean principles such as waste reduction and customer value delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-03-12T10:09:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -921,7 +921,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to leadership and authority, without any direct mention of the Sprint Review process or its significance within the Scrum framework. While it touches on accountability and team dynamics, it does not align with the core themes of the Sprint Review, such as stakeholder engagement or feedback mechanisms. The discussion lacks depth regarding the specific practices or challenges associated with conducting a Sprint Review.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -937,7 +937,7 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-12T10:09:12",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -945,11 +945,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses leadership and authority within the Scrum framework, which touches on themes of autonomy and accountability. However, it primarily focuses on traditional roles and structures rather than the decentralised and adaptive principles of Beta Codex. While there are elements of self-management and team dynamics, the emphasis on authority and control detracts from a true alignment with Beta Codex principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-03-12T10:09:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -957,11 +957,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and authority within Scrum, with no direct mention of forecasting or related methodologies. While it touches on accountability and team dynamics, it does not align with the core themes of forecasting, such as predicting delivery timelines or utilising empirical data for decision-making.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-12T10:09:19",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -969,11 +969,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses leadership and authority within Scrum but does not explicitly mention Evidence-Based Management or its principles. While it touches on accountability and decision-making, it lacks a strong focus on empirical evidence or data-driven approaches that are central to EBM. The discussion is more about Scrum roles and dynamics rather than the application of evidence to enhance organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-12T10:09:22",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -981,7 +981,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control, which are more aligned with project management and team dynamics rather than the core principles of software craftsmanship. While it touches on accountability and authority, it lacks a focus on technical practices, methodologies, or principles that contribute to software quality and engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -997,7 +997,7 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-12T10:09:28",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1005,11 +1005,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, without any direct mention of Azure Boards or its functionalities. While it touches on Agile principles, it does not align with the specific focus on Azure Boards, its features, or best practices for managing Agile projects. Therefore, the confidence score reflects a very low relevance to the Azure Boards category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-03-12T10:09:31",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1017,11 +1017,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within teams, which is more focused on team-level practices rather than large-scale Agile principles. While it touches on accountability and authority, it does not address frameworks for scaling Agile, enterprise-level transformation, or cross-team collaboration, which are essential for the 'Large Scale Agility' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-12T10:09:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1029,11 +1029,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and authority within Scrum, with no direct mention of estimation techniques or practices. While it touches on accountability and team dynamics, it does not align with the core themes of estimation, such as forecasting accuracy or collaborative estimation practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-12T10:09:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1041,7 +1041,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses leadership and accountability within Scrum, touching on aspects of team dynamics and the balance of authority. However, it lacks a direct focus on continuous learning principles such as growth mindset, knowledge sharing, or feedback loops. While it mentions the importance of continuous improvement, it does not delve deeply into practices that foster a culture of learning or adaptability, which are central to the Continuous Learning category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -1057,7 +1057,7 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-03-12T10:09:42",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1065,11 +1065,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to authority and accountability, which are important aspects of team dynamics but do not directly address working agreements. While there are mentions of team autonomy and accountability, the focus is more on leadership and control rather than the establishment of norms and principles that define working agreements. Therefore, the content does not align closely with the core themes of the 'Working Agreements' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-12T10:09:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1077,7 +1077,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum roles and the balance of leadership and control within that framework. While it touches on concepts like accountability and authority, it does not explicitly discuss Lean principles, methodologies, or waste reduction. The discussion lacks depth in Lean-related topics and does not align with the core themes of Lean thinking, such as continuous improvement or value stream mapping.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1093,7 +1093,7 @@
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-12T10:09:51",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1101,7 +1101,7 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within that framework. While it touches on accountability and authority, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The focus is on Scrum methodology rather than the integration and standardisation of engineering processes across teams, which is the core of 1ES.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1129,7 +1129,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-12T10:10:01",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
@@ -1137,7 +1137,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners, focusing on leadership and authority within Scrum. While it touches on themes relevant to personal experiences in Agile environments, it lacks explicit personal anecdotes or reflections that would align it more closely with the 'Personal' category. The discussion is more technical and theoretical, making it less suitable for this classification.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1153,7 +1153,7 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-12T10:10:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1161,11 +1161,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership, authority, and accountability within Scrum, with no direct mention of psychological safety. While it touches on team dynamics and autonomy, it does not explore the supportive culture or open communication necessary for psychological safety. The focus is on the balance of control and leadership rather than fostering an environment where team members feel safe to express themselves.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-12T10:10:09",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1173,11 +1173,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the balance of leadership and control within Scrum roles, focusing on accountability and authority rather than metrics or learning processes. While it touches on aspects of team dynamics and effectiveness, it lacks explicit discussions on metrics, data analysis, or continuous improvement methodologies that are central to the 'Metrics and Learning' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-12T10:10:11",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1185,11 +1185,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and authority within Scrum, with no explicit mention of experimentation or hypothesis-driven approaches. While it touches on themes of accountability and team dynamics, it does not explore systematic testing of ideas or validation of assumptions, which are central to the category of Experimentation.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-12T10:10:14",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1197,7 +1197,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the balance of leadership and authority in Scrum, focusing on accountability rather than the supportive and collaborative nature of coaching. While it touches on aspects of guiding teams, it does not delve deeply into coaching techniques or the role of a coach in fostering growth, which are central to the Coaching category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1237,7 +1237,7 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-03-12T10:10:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1245,11 +1245,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in relation to leadership and authority, without addressing the Definition of Ready or its criteria. There are no direct mentions of backlog item readiness or the importance of clarity in user stories, which are central to the Definition of Ready. The focus is on accountability and control rather than on ensuring that backlog items are actionable before sprint planning.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-12T10:10:27",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1257,11 +1257,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Scrum roles and the balance of leadership and control, which indirectly relates to organisational agility and effectiveness. However, it lacks a direct focus on digital technologies or their strategic adoption for business transformation, which is essential for a higher confidence score in the Digital Transformation category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-12T10:10:29",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
@@ -1269,11 +1269,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses leadership and accountability within Scrum, which touches on organisational dynamics. However, it primarily focuses on Scrum roles and practices rather than core psychological principles or theories. While there are mentions of leadership and team dynamics, the depth of psychological exploration is limited, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-12T10:10:33",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1281,11 +1281,11 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses leadership roles within Scrum, focusing on the balance of authority and accountability. However, it lacks explicit references to empirical evidence or data-driven decision-making, which are central to Evidence Based Leadership. While it touches on leadership effectiveness and the need for authority, it does not provide a strong connection to evidence-based practices or metrics that inform leadership decisions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-12T10:10:35",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1293,11 +1293,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in the context of leadership and authority within Scrum, which is more aligned with project management and team dynamics than with core engineering practices. While it touches on accountability and self-management, it lacks a direct focus on engineering methodologies such as clean code, TDD, or CI/CD. The discussion is more about the balance of leadership rather than the technical practices that enhance software quality.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-12T10:10:38",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1305,11 +1305,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in managing authority and accountability within Scrum teams. While it touches on leadership and team effectiveness, it does not explicitly address customer satisfaction, customer needs, or strategies for enhancing customer experience. The focus is on internal team dynamics rather than customer-centric practices, leading to a low confidence score in alignment with the 'Customer Satisfaction' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-12T10:10:41",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1317,11 +1317,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum roles, leadership, and accountability within Agile methodologies, which are not directly related to version control practices. While it touches on aspects of team dynamics and authority, it does not address any specific topics related to modern source control, such as version control systems, branching strategies, or code management techniques.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-12T10:10:43",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1329,11 +1329,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the roles of Scrum Masters and Product Owners, touching on leadership and accountability, which are relevant to mentoring in Agile environments. However, it primarily focuses on authority and control rather than providing direct guidance or coaching techniques for mentoring. While there are elements of leadership development and team dynamics, the depth of discussion on mentoring practices is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-03-12T10:10:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1341,11 +1341,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, which does not align with the principles or practices of Value Stream Mapping. There are no direct mentions of VSM, and the discussion does not focus on visualising or optimising workflows, which are core to Value Stream Mapping.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-12T10:10:49",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1353,7 +1353,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, which is not directly related to Continuous Delivery principles or practices. While there are mentions of accountability and authority, these concepts do not align with the core themes of Continuous Delivery, such as automation, deployment strategies, or maintaining a production-ready state. The focus is on Scrum methodology rather than Continuous Delivery, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1369,7 +1369,7 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-03-12T10:10:59",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1377,11 +1377,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily focuses on the roles of Scrum Masters and Product Owners within the Scrum framework, discussing leadership and authority in a team context. While it touches on themes of accountability and organisational constraints, it does not explicitly address scaling agility across multiple teams or the broader organisational implications. The discussion is more centred on team-level practices rather than strategies for extending agility throughout the organisation, which is a key aspect of the 'Scaling Agility' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-12T10:11:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1389,11 +1389,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control, which are not directly related to Lean Principles. While there are mentions of accountability and continuous improvement, the focus is on Scrum methodology rather than Lean's core concepts of waste reduction and value maximisation. The discussion lacks depth in Lean-specific tools or practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-03-12T10:11:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1401,11 +1401,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in managing teams and authority within the Scrum framework. It does not explicitly mention MVP or its principles, nor does it focus on product development or market validation. While it touches on accountability and leadership, these themes do not align with the core topics of MVP, such as rapid iteration or user feedback.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-12T10:11:08",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1413,11 +1413,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in managing authority and accountability within Scrum teams. While it touches on leadership and team dynamics, it does not address customer feedback mechanisms, collection, or integration into product development, which are central to the 'Customer Feedback Loops' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-12T10:11:10",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1425,11 +1425,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Scrum roles and the balance of leadership and control, which indirectly relates to market adaptability through the lens of Agile methodologies. However, it lacks a direct focus on strategies for responding to market shifts or competitive pressures, and does not provide substantial detail on how these concepts enhance market adaptability.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-12T10:11:13",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1437,7 +1437,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners in managing teams, focusing on leadership and authority rather than on the principles of frequent software releases. While it touches on aspects of agility, it does not explicitly address continuous delivery, release frequency, or related practices, which are central to the 'Frequent Releases' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1453,7 +1453,7 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-03-12T10:11:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1461,7 +1461,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, which deviates from the core principles of Behaviour Driven Development. There are no direct mentions of BDD, user stories, acceptance criteria, or related tools and frameworks. The focus is on Scrum methodology rather than aligning software development with business objectives through BDD.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -1477,7 +1477,7 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-12T10:11:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1485,11 +1485,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, with no direct mention of Test Driven Development (TDD) principles or practices. While it touches on accountability and authority, it does not align with the core themes of TDD, such as the Red-Green-Refactor cycle or writing tests before code. The discussion lacks depth regarding TDD, making it clear that the focus is not on TDD methodology.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-03-12T10:11:27",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1497,11 +1497,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in Scrum, focusing on leadership and authority rather than the characteristics or benefits of cross-functional teams. While it touches on team dynamics and accountability, it does not explicitly address cross-functional teams or their formation, management, or impact on delivering value, which are key aspects of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-03-12T10:11:31",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1509,11 +1509,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses leadership and authority within Scrum roles, with no explicit mention of the Definition of Done or its criteria. While it touches on accountability and team dynamics, it does not align with the core themes of the Definition of Done, such as quality assurance or completion criteria for product increments.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-12T10:11:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1521,11 +1521,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in managing authority and accountability within Scrum, rather than focusing on Agile Planning Tools. While it touches on aspects of leadership and team dynamics, it does not delve into specific tools or methodologies that facilitate Agile planning, such as backlog management or sprint planning techniques. Therefore, the content's relevance to the category is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-12T10:11:37",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1533,11 +1533,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in the context of leadership and authority within Scrum, which is more focused on team dynamics and management rather than technical engineering practices. While it touches on aspects of accountability and influence, it lacks direct references to technical methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The discussion is more about the balance of leadership and control rather than enhancing engineering practices or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-12T10:11:40",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -1545,11 +1545,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses leadership and accountability within Scrum, which indirectly relates to employee engagement through the lens of team autonomy and effectiveness. However, it primarily focuses on technical roles and responsibilities rather than exploring intrinsic and extrinsic motivation, trust, or recognition strategies that are central to employee engagement. The discussion lacks depth in addressing the psychological and social aspects of work that contribute to employee satisfaction and productivity.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-12T10:11:43",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1557,11 +1557,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses leadership and accountability within Scrum, which touches on aspects of organisational goals and team effectiveness. However, it primarily focuses on operational roles and responsibilities rather than explicitly defining or articulating long-term strategic objectives. While there are mentions of organisational goals and the need for alignment, the discussion lacks a clear connection to broader strategic goals or frameworks for measuring them, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-12T10:11:45",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1569,11 +1569,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in managing teams and authority within the Scrum framework. While it touches on aspects of accountability and leadership, it does not focus on product strategy methodologies, vision formulation, or market analysis, which are central to the category. The discussion is more about team dynamics and Scrum practices rather than strategic planning for product development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-12T10:11:48",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1581,11 +1581,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles, leadership, and accountability, which are not directly related to Value Stream Management. While there are mentions of organisational effectiveness and agility, these concepts are framed within the context of Scrum rather than the flow of value or optimisation of processes as defined by Value Stream Management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-12T10:11:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1593,7 +1593,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and principles, focusing on leadership and accountability within Scrum teams. It does not address Platform Engineering or Internal Developer Platforms, nor does it explore themes related to enhancing developer productivity or application lifecycle management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1609,7 +1609,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-12T10:11:56",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1617,11 +1617,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the roles of Scrum Masters and Product Owners in the context of leadership and accountability within Scrum, which indirectly relates to the delivery of working software. However, it primarily focuses on the dynamics of authority and control rather than on the characteristics or practices of working software itself. While there are mentions of ensuring teams deliver value and operate effectively, the discussion lacks a direct focus on software quality, functionality, or customer feedback mechanisms, which are central to the 'Working Software' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-12T10:11:59",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1629,7 +1629,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the balance of leadership and control within Scrum, touching on themes of accountability and authority. While it does not explicitly mention sensemaking, it aligns with the category by exploring how leaders interpret complex organisational dynamics to make decisions. However, the primary focus is on Scrum roles rather than a deep exploration of sensemaking principles or frameworks, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1645,7 +1645,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-12T10:12:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1653,11 +1653,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within Scrum teams, which is more focused on Agile methodologies rather than the comprehensive management of the application lifecycle. While it touches on accountability and authority, it does not address the stages of the application lifecycle, governance, tools, or metrics relevant to Application Lifecycle Management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-12T10:12:08",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -1665,7 +1665,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses accountability and authority within Scrum, which indirectly relates to transparency in terms of team dynamics and the need for clear communication. However, it primarily focuses on leadership and control rather than explicitly addressing transparency as a core theme. The mentions of accountability and the balance of authority suggest some alignment with transparency, but the depth of discussion does not sufficiently cover the key topics outlined in the transparency category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1681,7 +1681,7 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-12T10:12:15",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1689,7 +1689,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum roles, leadership, and authority within a Scrum framework, which does not directly address product discovery methodologies or customer needs. While it touches on accountability and team dynamics, it lacks a focus on user research, feature prioritisation, or validating product ideas, which are essential aspects of product discovery.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1777,7 +1777,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-12T10:12:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1785,11 +1785,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum roles and principles, focusing on leadership and accountability within Scrum teams. It does not mention Azure DevOps or its functionalities, nor does it align with the core themes of Azure DevOps, such as CI/CD, project management, or integration with tools. The discussion is centred on Scrum methodology rather than Azure DevOps practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-12T10:12:43",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1797,7 +1797,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Product Owners in balancing leadership and authority within Scrum, which does not directly address trend analysis in Agile or DevOps. While it touches on themes of accountability and organisational effectiveness, it lacks explicit references to emerging trends or shifts in practices that inform strategic decision-making. The discussion is more focused on the dynamics of leadership rather than analysing trends or their implications.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1813,7 +1813,7 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-12T10:12:48",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1821,11 +1821,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scrum roles and the balance of leadership and control within teams, which is more aligned with project management and team dynamics than entrepreneurship. While there are elements of accountability and decision-making that could relate to entrepreneurial practices, the focus is not on innovation, risk-taking, or value-driven decision-making in the business landscape. Therefore, the confidence score reflects a low alignment with the core themes of entrepreneurship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-12T10:12:51",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1833,11 +1833,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses leadership and authority within the Scrum framework, focusing on the roles of Scrum Masters and Product Owners. While it touches on accountability and team effectiveness, it does not explicitly address technical debt or its management. The themes of leadership and control do not align with the core topics of technical debt, such as code quality or design decisions. Therefore, the confidence score reflects a very low relevance to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-12T10:12:54",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1845,7 +1845,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners in managing teams within the Scrum framework. While it touches on leadership and accountability, it does not directly address customer retention strategies, user engagement, or methodologies aimed at minimising churn. The focus is on internal team dynamics rather than customer-centric practices, leading to a low confidence score in relation to the 'Customer Retention' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

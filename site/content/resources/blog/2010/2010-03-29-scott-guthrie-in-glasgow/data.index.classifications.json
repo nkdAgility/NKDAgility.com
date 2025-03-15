@@ -211,7 +211,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T12:06:39",
+    "calculated_at": "2025-03-15T07:08:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -219,7 +219,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses new features and improvements in Visual Studio 2010, Silverlight 4, ASP.NET MVC 2, and Windows Phone 7. While it touches on some technical aspects, such as validation rules and TDD in relation to MVC, the overall focus is more on product announcements and personal opinions rather than a deep exploration of engineering practices or methodologies that enhance technical excellence. The discussion lacks a structured approach to the principles of agile engineering practices, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -268,7 +268,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-11T15:10:36",
+    "calculated_at": "2025-03-15T07:08:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -276,7 +276,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the features and updates of various software products, such as Visual Studio 2010, Silverlight 4, and ASP.NET MVC 2. While it provides some insights into these tools, it lacks a focused review or analysis that aligns with the core themes of the 'Products and Books' category. The discussion is more about personal experiences and technical features rather than a structured evaluation of how these products enhance Agile or DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -355,7 +355,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T18:12:07",
+    "calculated_at": "2025-03-15T07:08:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -363,7 +363,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scott Guthrie's talks about new features in Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, without discussing the application lifecycle stages, governance, or management practices. While there are mentions of Visual Studio ALM enhancements, they are not the main focus, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -1222,7 +1222,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:41:11",
+    "calculated_at": "2025-03-15T07:08:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1230,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Scott Guthrie's talks on various Microsoft technologies, including Visual Studio, Silverlight, and ASP.NET MVC. While it touches on topics relevant to software development, such as features and improvements in development tools, it lacks a direct focus on Agile or DevOps methodologies. The discussion is more about specific technologies rather than the role of software developers within Agile and DevOps frameworks, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

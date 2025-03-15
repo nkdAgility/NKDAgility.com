@@ -27,9 +27,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Team Collaboration
 - Practical Techniques and Tooling
 - Scrum Master
 - Scrum Team
+- Software Development
 resourceTypes:
 - video
 categories:

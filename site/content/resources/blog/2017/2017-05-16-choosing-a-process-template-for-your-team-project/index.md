@@ -23,16 +23,16 @@ aliasesArchive:
 - /choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
 tags:
-- Software Development
 - Agile Project Management
-- Agile Frameworks
+- Software Development
 - Pragmatic Thinking
-- Practical Techniques and Tooling
 - Scrum Product Development
-- Decision Making
+- Agile Frameworks
+- Practical Techniques and Tooling
+- Software Developers
 - People and Process
-- Agile Planning
-- Operational Practices
+- Azure Boards
+- Professional Scrum
 categories:
 - Scrum
 preview: IC749984-1-1.png

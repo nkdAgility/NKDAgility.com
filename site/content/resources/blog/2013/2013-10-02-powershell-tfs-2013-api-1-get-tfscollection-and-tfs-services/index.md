@@ -32,9 +32,6 @@ tags:
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
-- Technical Mastery
-- Modern Source Control
 categories: []
 preview: metro-powershell-logo-1-1.png
 

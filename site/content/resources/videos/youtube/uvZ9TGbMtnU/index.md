@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true
 tags:
-- Agile Philosophy
-- Software Developers
-- Agile Project Management
 - Agile Transformation
 - Working Software
+- Agile Project Management
+- Agile Philosophy
 - Pragmatic Thinking
+- Software Developers
 - Software Development
-- Scrum Product Development
-- Agile Strategy
-- Agile Frameworks
+- Agile Values and Principles
+- Agile Planning
+- Increment
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,12 +25,16 @@ preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
 tags:
+- Agile Values and Principles
 - Agile Philosophy
-- Business Agility
 - Organisational Agility
-- Resilience and Change
-- Agile Leadership
-- Team Collaboration
+- Pragmatic Thinking
+- Software Development
+- Agile Project Management
+- Business Agility
+- Agile Transformation
+- Continuous Learning
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

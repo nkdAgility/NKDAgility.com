@@ -52,7 +52,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:57:38",
+    "calculated_at": "2025-03-15T00:00:53",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -60,7 +60,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the roles of a product owner and agile project manager, but it primarily focuses on the distinction between project success and product success. While it hints at the importance of delivering value, it does not delve into broader principles of business agility, such as organisational adaptability or innovation strategies. The discussion lacks depth in exploring how these roles contribute to overall business agility, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -406,7 +406,7 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T16:30:25",
+    "calculated_at": "2025-03-15T00:00:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -414,7 +414,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, which are specific to Agile frameworks like Scrum. While it touches on the importance of value delivery, it does not explicitly discuss Agile values or principles, nor does it delve into the foundational beliefs of Agile methodologies. The focus is more on role differentiation rather than the underlying values of Agile, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -520,7 +520,7 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-13T15:42:08",
+    "calculated_at": "2025-03-15T00:00:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -528,7 +528,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager within the Agile framework, with no direct mention of Lean Principles or concepts such as waste reduction, value maximisation, or continuous improvement. While there is a brief reference to maximising value, it is not explored in the context of Lean thinking, and the overall focus remains on Agile roles rather than Lean methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -568,7 +568,7 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-13T16:50:32",
+    "calculated_at": "2025-03-15T00:00:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -576,7 +576,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, which is tangentially related to the Product Backlog but does not focus on it. While it touches on the responsibilities of a Product Owner, it lacks detailed discussion on backlog management, prioritisation techniques, or the relationship between the Product Backlog and Sprint Planning. Therefore, the content does not meet the criteria for a strong alignment with the Product Backlog category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -616,12 +616,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:30:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner, which is a key aspect of Scrum Teams, but does not delve into broader team dynamics or collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:28:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, which aligns with the Scrum Team category by addressing roles and responsibilities. However, it lacks depth in exploring team dynamics, collaboration, or other key aspects of Scrum Team effectiveness. The focus is more on defining roles rather than how they interact within a Scrum Team context.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -742,12 +745,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:30:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:00:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the distinction between a product owner and an agile project manager, highlighting the focus on product value delivery, which aligns with the Agile Product Operating Model. However, it primarily revolves around roles rather than a comprehensive discussion of the model itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the distinction between a Product Owner and an Agile Project Manager, which touches on the product-centric focus of the Agile Product Operating Model. However, it primarily centres on role definitions rather than broader principles or strategies of the Agile Product Operating Model. While it does mention the importance of maximising value and the differences between project and product focuses, it lacks a comprehensive exploration of the model's key topics, such as cross-functional teams or continuous feedback techniques.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -886,12 +892,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:30:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles of a product owner and an agile project manager, touching on value delivery and customer focus, which are key themes in Agile philosophy. However, it primarily centres on specific roles rather than the broader implications of Agile as a mindset.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, which are specific to Agile frameworks rather than the broader Agile Philosophy. While it touches on the importance of value delivery and the distinction between project and product focus, it lacks a comprehensive exploration of Agile principles or the mindset behind Agile practices. The discussion is more about role definitions than the underlying philosophy, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -958,11 +967,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:31:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:01:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in Agile frameworks, highlighting the distinction between a Product Owner and an Agile Project Manager, which aligns closely with Agile Product Management principles.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, which is relevant to Agile Product Management. It directly mentions the Product Owner's focus on maximising product value, aligning with key themes of the category. However, the depth of discussion is somewhat limited, focusing mainly on role definitions rather than broader Agile practices or methodologies. Overall, it provides a solid foundation but lacks extensive detail on Agile principles and practices.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1030,11 +1042,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of a product owner and an agile project manager, highlighting the practical implications of these roles in delivering value, which aligns with pragmatic thinking in Agile contexts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the roles of a Product Owner and an Agile Project Manager, which relates to practical problem-solving in Agile contexts. However, it primarily focuses on defining roles rather than providing in-depth strategies or real-world applications of Agile principles. The discussion is relevant but lacks comprehensive exploration of pragmatic techniques or case studies.",
     "level": "Tertiary"
   },
   "Lead Time": {
@@ -1075,12 +1090,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T23:31:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of maximizing value, which aligns with Lean principles, but primarily focuses on the distinction between a product owner and an agile project manager.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile roles, specifically the distinction between a Product Owner and an Agile Project Manager. While there is a brief mention of maximising value, it lacks a direct focus on Lean principles, methodologies, or waste reduction strategies. The discussion does not delve into Lean concepts such as value stream mapping, continuous improvement, or Lean tools, which are essential for a higher confidence score in the Lean category.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1093,21 +1111,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:31:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in relation to product success, which aligns with product strategy, but primarily focuses on the distinction between project management and product ownership.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, focusing on their differences rather than on product strategy itself. While it touches on the importance of a Product Owner's focus on product value, it lacks a comprehensive exploration of product strategy methodologies, frameworks, or alignment with organisational goals. The discussion is more about role definitions and Agile processes, which deviates from the core principles of product strategy.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:31:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles within Agile methodologies, specifically focusing on the distinction between a Product Owner and an Agile Project Manager, which is a significant aspect of software development practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:01:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager within the Agile framework, which is a key aspect of software development methodologies. It explicitly mentions Agile and Scrum, aligning with the core themes of the Software Development category. However, the discussion lacks depth in terms of methodologies and practices, focusing more on the distinction between roles rather than providing detailed insights into Agile practices or the software development lifecycle.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1192,11 +1216,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:31:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:01:21",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, focusing on the Product Owner's responsibility for maximising product value.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on distinguishing the roles of a Product Owner and an Agile Project Manager, which directly addresses the Product Owner's responsibilities and perspective. It discusses the unique focus of a Product Owner on maximising product value, aligning well with the core themes of the category. However, while it provides a good level of detail, it does not delve deeply into specific techniques or practices related to backlog management or stakeholder engagement, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1291,11 +1318,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:32:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:01:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the distinction between a product owner and an agile project manager, focusing on the product owner's role in maximising value delivery to customers, which aligns closely with the principles of value delivery in Agile frameworks.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles of a Product Owner and an Agile Project Manager, highlighting the focus on delivering value through the Product Owner's perspective. While it touches on the importance of maximising value, it does not delve deeply into methodologies or strategies for value delivery, which limits its alignment with the category. The discussion is more about role definitions than direct value delivery practices.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1318,21 +1348,27 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T23:32:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in relation to product success, which touches on understanding customer needs and value delivery, but primarily focuses on the distinction between project management and product ownership.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, focusing on their differences rather than exploring methodologies or practices related to product discovery. While it touches on the importance of a Product Owner's focus on product value, it lacks detailed discussions on user research, customer feedback, or defining product features, which are central to the Product Discovery category.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:32:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Product Owner, which is a key aspect of Scrum, but it primarily focuses on distinguishing between the roles of a Product Owner and an Agile Project Manager rather than on Scrum practices or product development processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:01:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the roles of a Product Owner and Agile Project Manager, which aligns with Scrum principles. However, it lacks detailed exploration of Scrum practices, such as sprint planning or backlog management, and does not provide in-depth insights into product development processes.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1354,21 +1390,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:32:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles within Agile, particularly the distinction between a product owner and an agile project manager, which relates to the alignment of roles in delivering value. However, it primarily focuses on the roles rather than broader strategic themes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, which is more focused on specific roles rather than the broader strategic implications of Agile methodologies. While it touches on the importance of value delivery and the distinction between project and product focus, it lacks a comprehensive discussion on Agile strategy, such as organisational alignment or strategic planning. Therefore, while there are relevant elements, they do not constitute a primary focus on Agile Strategy.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T23:32:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in maximising value, which relates to the Increment concept, but it primarily focuses on the distinction between project management and product ownership rather than the delivery of software increments.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, which is tangentially related to the Increment concept. While it touches on the importance of value delivery, it does not explicitly focus on the Increment itself or its significance in Agile frameworks. The discussion lacks depth regarding the delivery of potentially shippable product increments and best practices associated with them.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1381,12 +1423,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:32:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:01:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles within Agile frameworks, particularly the distinction between a product owner and an agile project manager, which relates to organisational agility but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, which are relevant to Agile methodologies. However, it lacks a broader discussion on organisational agility principles, such as adaptability, leadership roles, or cultural shifts. While it touches on the importance of focus on product value, it does not delve into how these roles contribute to organisational agility as a whole.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

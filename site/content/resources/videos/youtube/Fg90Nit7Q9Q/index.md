@@ -26,11 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Software Developers
 - Software Development
-- Working Software
-- Pragmatic Thinking
+- Software Developers
+- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

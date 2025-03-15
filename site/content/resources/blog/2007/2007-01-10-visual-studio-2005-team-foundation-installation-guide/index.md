@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/visual-studio-2005-team-foundation-installation-guide
 - /visual-studio-2005-team-foundation-installation-guide
 - /resources/blog/visual-studio-2005-team-foundation-installation-guide
-tags:
-- Install and Configuration
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

@@ -52,12 +52,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:09:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which relates to learning from failures and improving processes. However, the primary focus is on technical details and project management rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the technical aspects of build failures and management rather than focusing on discovery and learning processes. While it touches on the importance of understanding the value of builds and mentions ownership, it lacks a deeper exploration of methodologies that foster innovation or continuous learning. The discussion is more about troubleshooting and project management than about fostering a culture of experimentation or learning from failures.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -70,12 +73,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining build quality and ownership, which aligns with Lean principles of continuous improvement and value creation, but it primarily focuses on build processes rather than Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses build processes and quality assurance in software development, which touches on aspects of efficiency and quality control. However, it does not explicitly mention Lean principles or methodologies, nor does it focus on waste reduction or value stream mapping. The discussion is more centred around build management rather than Lean practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -91,12 +97,15 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of accountability in relation to broken builds and the ownership of builds, which aligns with the theme of accountability. However, it primarily focuses on technical aspects of build management rather than a broader discussion on transparency and accountability principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of accountability in the context of broken builds, highlighting the need for developers to take ownership of their contributions. It mentions the consequences of failing to maintain builds and the need for clear communication about who is responsible for issues. However, while it touches on accountability, it lacks a broader discussion on transparency and does not delve deeply into the principles of openness or trust within the team. The focus is more on technical aspects of build management rather than fostering an environment of transparency.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -109,12 +118,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:09:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of build ownership and team dynamics in maintaining build quality, which relates to sociotechnical interactions. However, the primary focus is on technical aspects of build processes rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical aspects of build processes and troubleshooting without a significant focus on the interplay between technology and organisational structures. While it touches on team ownership of builds, it lacks a broader exploration of sociotechnical interactions or organisational culture, which are central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -286,11 +298,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:09:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which relates to value delivery in terms of ensuring quality and reliability in software development. However, the primary focus is on technical details and troubleshooting rather than broader value delivery strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of maintaining a passing build and the implications of broken builds, which relates to value delivery in terms of quality assurance and customer satisfaction. However, it primarily focuses on technical aspects of build management rather than broader strategies or methodologies for delivering value to customers. While it touches on the concept of ownership and quality gates, it lacks a comprehensive exploration of value delivery principles.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -412,12 +427,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:51:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of maintaining passing builds, identifying build failures, and the value of automated build processes, all of which are key aspects of Continuous Delivery.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of maintaining a passing build and the implications of broken builds, which aligns with Continuous Delivery principles. However, it primarily focuses on the operational aspects of build management rather than the broader methodologies and practices of Continuous Delivery. While it touches on automation and quality assurance, it lacks a comprehensive exploration of Continuous Delivery strategies, metrics, or case studies.",
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -568,20 +586,26 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T07:09:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses the importance of builds being passed and mentions testing indirectly in the context of continuous integration practices, but it primarily focuses on build management and responsibilities, which is secondary to the main theme of automated testing.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of maintaining builds and the implications of broken builds, which indirectly relates to automated testing. However, it lacks explicit discussions on automated testing methodologies, types of tests, or tools. The focus is more on build management rather than the principles and practices of automated testing itself.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of maintaining builds within a team and how this affects overall developer responsibility and accountability. However, it is primarily focused on builds and technical aspects rather than broader team performance strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of maintaining a successful build process, which is crucial for team collaboration and performance. It highlights the need for developers to take ownership of builds, which aligns with fostering accountability within teams. However, while it touches on team dynamics and the impact of build failures, it lacks a broader discussion on methodologies or practices specifically aimed at enhancing team performance in an Agile context.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -643,11 +667,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T01:51:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implications of broken builds in the context of source control and emphasizes the importance of maintaining a passing build for effective collaboration and code management.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of maintaining a passing build in a version control context, highlighting issues related to broken builds, developer responsibilities, and the use of build notifications. It aligns well with modern source control practices, particularly in relation to continuous integration and the ownership of builds. However, while it provides substantial detail on the topic, it does not delve deeply into specific version control methodologies or branching strategies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -706,12 +733,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:09:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build processes, quality assurance, and the importance of maintaining passing builds, which are key components relevant to frequent releases. However, it primarily focuses on identifying and addressing build issues rather than effectively discussing release frequency or continuous delivery practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses build processes and the importance of maintaining a passing build, which is tangentially related to frequent releases. However, it does not explicitly address the principles of frequent releases, continuous delivery, or deployment strategies. The focus is more on troubleshooting and maintaining build quality rather than on the broader context of release frequency and its impact on user satisfaction or agile practices.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -790,12 +820,12 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:09:19",
+    "calculated_at": "2025-03-15T07:08:05",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses technical aspects of software builds and related notifications, with limited reference to organisational dynamics or systems thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -808,11 +838,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides practical insights into the importance of maintaining build quality, troubleshooting build failures, and instilling responsibility within a development team, which aligns well with pragmatic problem-solving in Agile and DevOps contexts.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to build failures in a software development context, which aligns well with the themes of Pragmatic Thinking. It addresses real-world applications of DevOps principles, such as the importance of maintaining build quality and ownership, and provides specific examples of issues that can arise in a development environment. The depth of discussion is substantial, covering various aspects of build management and the implications of broken builds, which further supports its alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -862,20 +895,26 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining quality and efficiency in builds, which indirectly relates to Lean principles of minimizing waste and enhancing workflow efficiency. However, it primarily focuses on build processes and software development practices rather than directly addressing Lean Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses build processes and the importance of maintaining quality in software development, which can relate to Lean principles of minimising waste and enhancing efficiency. However, it does not explicitly mention Lean Thinking concepts or tools, nor does it focus on waste identification or continuous improvement in a Lean context. The discussion is more centred on build management rather than Lean methodologies.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of builds and mentions the role of tests in the context of maintaining build quality, which aligns with test automation principles, but the main focus is on build management rather than specifically on test automation practices or tools.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses build processes and the implications of broken builds, which are related to testing practices. However, it lacks a direct focus on test automation principles, frameworks, or specific tools. The discussion is more about build management and developer responsibilities rather than the automation of testing itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -889,11 +928,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of ensuring builds pass and the implications of broken builds in the context of software development, which aligns with the principles of delivering functional and high-quality software.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of maintaining a working build and the implications of broken builds, which aligns with the concept of delivering functional software. It touches on best practices for ensuring quality and the need for developers to understand the value of a working build. However, while it provides some insights into the topic, it lacks a comprehensive exploration of working software principles and does not explicitly mention Agile or Scrum frameworks.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -907,11 +949,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance, challenges, and management of builds in a Continuous Integration context, emphasizing build failures, ownership, and quality standards.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of maintaining a successful build process, which is a core aspect of Continuous Integration (CI). It explicitly mentions the consequences of broken builds, the need for developers to ensure their code passes builds, and the role of build notifications. The discussion aligns well with CI principles, such as maintaining code quality and early problem identification. The depth of the discussion is substantial, covering various aspects of build management and the implications of build failures, although it could benefit from more detailed exploration of CI tools and practices.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -943,12 +988,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses builds and the importance of maintaining them, which relates to reliability in software systems. However, it focuses more on the build process rather than broader Site Reliability Engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses build processes and the importance of maintaining a passing build, which is tangentially related to reliability in software development. However, it lacks explicit references to Site Reliability Engineering principles, such as SLOs, SLIs, or incident response practices. The focus is more on build management rather than the broader scope of SRE, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -961,12 +1009,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:09:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the management of software builds and identifies the importance of quality control and accountability in development processes. While it involves some decision-making aspects, such as ownership of build failures and the implementation of practices like Gated Check-in, the overall primary focus is more on the technical aspects of build management rather than structured decision-making methodologies or evidence-based decision processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which indirectly relates to decision-making in a software development context. However, it lacks a structured approach to decision-making methodologies and does not provide empirical evidence or frameworks for evaluating options. The focus is more on operational issues rather than on the principles of evidence-based decision-making.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -979,11 +1030,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T07:08:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses build failures, the importance of builds passing, and strategies around maintaining build integrity, which are related to release management practices. However, the focus is more on build processes rather than comprehensive release management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of maintaining builds and the implications of broken builds, which relates to release management. However, it primarily focuses on the technical aspects of build processes rather than broader release management strategies, such as planning and scheduling. While it touches on some relevant themes, it lacks depth in discussing release management as a whole.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1006,11 +1060,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses builds in the context of Azure DevOps, addressing build failures, management, and importance, which aligns closely with Azure Pipelines.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of build processes, including the importance of passing builds, identifying build failures, and managing build notifications. It provides practical insights into how to interact with builds in the context of Azure DevOps, specifically mentioning build definitions and the implications of broken builds. However, while it touches on CI/CD principles, it lacks a comprehensive exploration of Azure Pipelines as a whole, which slightly limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1078,12 +1135,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration and management of build processes in a software development environment, including how to monitor, set up, and troubleshoot builds, which aligns well with system configuration principles.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the implications of broken builds and the importance of maintaining build integrity, which relates to system configuration. However, it primarily focuses on the development process and team dynamics rather than the technical aspects of configuring systems. While there are mentions of tools like Visual Studio and TFS, the depth of discussion on configuration management and optimisation strategies is limited.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1096,12 +1156,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:09:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the importance of maintaining builds and the ownership of build failures, showcasing aspects of technical leadership and team accountability, but lacks a clear focus on broader topics of technical leadership within agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of maintaining build quality and the responsibilities of developers in ensuring builds pass, which touches on aspects of technical leadership. However, it lacks a direct focus on agile methodologies, servant leadership, or mentoring, which are core to the category. The discussion is more about technical processes than leadership strategies.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1123,20 +1186,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of maintaining passing builds and infers the need for writing tests to ensure code quality, which relates to Test First Development principles. However, it does not primarily focus on TDD or writing tests before code, so Test First Development is a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses build failures and the importance of maintaining a passing build, which indirectly relates to testing practices. However, it does not explicitly focus on Test First Development or the principles of writing tests before code. The discussion is more about build management and developer accountability rather than the core themes of TDD or embedding quality through testing prior to implementation.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the build notification application for Visual Studio 2010 running on Windows, detailing its usage and the context of managing builds within a Windows environment.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the management of builds within a Windows environment, specifically referencing the 'Build Notifications' application installed with Visual Studio 2010 on Windows 7. It addresses installation and usage of Windows-specific applications, which aligns well with the category's focus on Windows. The discussion includes troubleshooting build failures, which is relevant to the Windows operating system's functionality. However, while the content is heavily focused on Windows, it also touches on general build management concepts that could apply to other environments, slightly reducing the overall alignment score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1186,11 +1255,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on identifying and resolving issues with broken builds in a software development context, detailing processes, tools, and best practices for troubleshooting build failures.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on identifying and resolving issues related to broken builds in a software development context. It discusses the importance of passing builds, potential causes of build failures, and methods for diagnosing these issues, which aligns well with the troubleshooting category. The depth of discussion is substantial, providing specific examples and solutions, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1231,11 +1303,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the processes associated with build management, highlights the importance of maintaining build quality, and addresses issues and strategies that software developers encounter in their workflows, particularly relating to DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of maintaining build quality, which is crucial for software developers. It addresses the implications of broken builds, the need for proper testing, and the responsibilities of developers in ensuring builds pass. While it does not explicitly mention Agile or DevOps methodologies, it aligns with modern engineering practices by emphasising the significance of build processes and developer accountability. The depth of discussion is moderate, providing practical insights but lacking extensive exploration of Agile or DevOps frameworks.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,11 +1324,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of maintaining a working build in software development, emphasizing practices like testing, build ownership, and quality gates, all of which are key aspects of engineering practices relevant to Agile development.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of maintaining a passing build, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). It highlights the need for developers to write tests and maintain code quality, which relates to Clean Code and Test-Driven Development (TDD). However, the discussion is more focused on the operational aspects of build management rather than the underlying engineering practices themselves, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1285,12 +1363,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:09:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build management and ownership, hinting at concepts of team accountability and the importance of developers taking responsibility for their code. However, it primarily focuses on technical troubleshooting and build processes rather than self-organisation principles directly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of ownership in maintaining builds, which touches on self-organisation principles. However, it primarily focuses on technical aspects of build management rather than exploring self-organisation in teams or Agile practices. The mention of ownership is brief and lacks depth in discussing how to foster a self-organising culture.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1312,12 +1393,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses build processes and notifications in the context of software development, with some reference to Team Foundation Server (TFS) and build management. However, it lacks a direct focus on Azure Repos or its specific functionalities.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses build processes and notifications, which are relevant to Azure Repos, but it primarily focuses on general build management rather than specific Azure Repos functionalities. While it mentions Team Foundation Server (TFS) and build definitions, it lacks detailed exploration of Azure Repos features like branching strategies, pull requests, or repository management. Therefore, while there is some relevance, the primary focus is not strictly on Azure Repos.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1348,12 +1432,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:08:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of ownership regarding broken builds, emphasizing that accountability lies with the developers who last broke the build. It contrasts understanding accountability with assigning blame, fostering an environment that values team responsibility.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of ownership in relation to broken builds, highlighting that the responsibility for maintaining builds lies with the team members who last broke them. It touches on the distinction between blame and accountability, particularly in the context of team dynamics. However, while it mentions accountability, the primary focus is more on the technical aspects of build management rather than a comprehensive exploration of accountability as a principle in Agile practices.",
+    "level": "Tertiary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -1366,12 +1453,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of broken builds and the importance of maintaining build quality, which affects the throughput of the development process. However, it primarily focuses on build management rather than directly measuring or optimizing throughput.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses build failures and their implications, which indirectly relates to throughput by highlighting the importance of maintaining a functional build for efficient workflow. However, it lacks a direct focus on measuring or optimising throughput, and the discussion is more centred on build management rather than the flow of work items in Agile or DevOps contexts.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1384,7 +1474,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T15:04:13",
+    "calculated_at": "2025-03-15T07:08:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1392,7 +1482,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which indirectly relates to team dynamics and collaboration. However, it lacks explicit references to Scrum, Kanban, Lean, or Agile methodologies, and does not delve deeply into the principles of these frameworks. The focus is more on technical aspects of build management rather than on social technologies or collaborative frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1423,7 +1513,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:51:41",
+    "calculated_at": "2025-03-15T07:08:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1431,6 +1521,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses build processes and issues related to software development, without any explicit mention of Scrum roles, events, or principles. While it touches on team dynamics and quality assurance, it does not align with the core themes of Scrum or provide in-depth discussion on Scrum practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

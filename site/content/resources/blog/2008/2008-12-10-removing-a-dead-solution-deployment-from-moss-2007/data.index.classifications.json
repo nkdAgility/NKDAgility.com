@@ -304,12 +304,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the removal of a failed solution deployment in MOSS 2007, which relates to the maintenance and management of an application, but it does not cover the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical issue related to removing a failed deployment in MOSS 2007. While it touches on aspects of application management, such as job definitions and deployment status, it lacks a broader discussion on the application lifecycle stages, governance, or best practices. The mention of deployment is too narrow to align with the comprehensive scope of Application Lifecycle Management.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -349,7 +352,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T15:13:18",
+    "calculated_at": "2025-03-15T07:25:47",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -357,7 +360,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to deployment in SharePoint, which is a part of the product delivery process. However, it lacks a broader discussion on methodologies, best practices, or strategies that are essential to the category of Product Delivery. The focus is primarily on a technical solution rather than the overarching principles of delivering software products effectively.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -370,7 +373,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T12:09:57",
+    "calculated_at": "2025-03-15T07:25:47",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -378,7 +381,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific technical issue related to the deployment of a solution in Microsoft Office SharePoint Server 2007. While it touches on aspects of managing deployments, such as removing a failed deployment job, it lacks a broader discussion on release management strategies, planning, or coordination with stakeholders. The focus is primarily on a technical fix rather than the overarching principles of release management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -445,12 +448,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content provides a technical solution for a deployment issue in SharePoint, discussing specific methods to manage deployment jobs, but it does not significantly cover broader principles or practices of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical issue related to Microsoft Office SharePoint Server 2007, detailing a step-by-step process to resolve a deployment problem. While it does touch on technical aspects, such as job management and error resolution, it lacks broader discussions on software craftsmanship, best practices, or principles of clean code. The depth of discussion is limited to a specific task without exploring underlying methodologies or principles that contribute to technical mastery.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -727,12 +733,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content details a specific technical procedure related to deployment management in SharePoint, which is relevant to software deployment practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical issue related to deploying solutions in Microsoft Office SharePoint Server 2007, which falls under software development practices. It provides a step-by-step guide on how to resolve deployment issues, indicating a practical application of software development methodologies. However, while it is relevant to software development, it lacks broader discussions on methodologies or best practices, which limits its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -979,12 +988,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific operational task related to managing job deployments in SharePoint, which pertains to operational practices, but it primarily focuses on a single troubleshooting scenario rather than broader operational strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a practical guide on removing a failed deployment in MOSS 2007, which touches on operational practices related to managing deployment processes. However, it lacks a broader discussion on operational efficiency, methodologies like Agile or DevOps, and does not delve into strategies for continuous improvement or metrics for measuring efficiency. The focus is primarily on a specific technical task rather than a comprehensive operational practice.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1216,7 +1228,7 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-11T17:03:45",
+    "calculated_at": "2025-03-15T07:25:47",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1224,7 +1236,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses a specific issue related to the deployment process in MOSS 2007, focusing on how to remove a failed deployment. While it touches on deployment-related actions, it lacks a broader discussion of deployment strategies or methodologies. The mention of 'deployment' is present, but the content primarily addresses a troubleshooting scenario rather than strategic deployment practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",

@@ -8,7 +8,7 @@ ResourceImportId: 55
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-09
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,11 @@ aliasesArchive:
 - /scrum-for-team-foundation-server-2010
 - /resources/blog/scrum-for-team-foundation-server-2010
 tags:
-- Events and Presentations
 - Software Development
-- Agile Planning Tools
+- Events and Presentations
 - Software Developers
-- Agile Frameworks
 - Agile Project Management
 - Practical Techniques and Tooling
-- Scrum Product Development
-- Application Lifecycle Management
-- Product Delivery
 categories:
 - Social Technologies
 - Scrum

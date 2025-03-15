@@ -26,10 +26,10 @@ preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Scrum Team
 - Agile Project Management
-- Software Development
+- Scrum Team
 - Agile Frameworks
+- Agile Product Management
 - People and Process
 sitemap:
   filename: sitemap.xml

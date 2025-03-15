@@ -20,15 +20,15 @@ aliasesArchive:
 - /blog/without-delivery--there-is-no-value
 tags:
 - Increment
-- Agile Product Management
-- Product Delivery
-- Transparency
-- Value Delivery
-- Deployment Frequency
-- Software Development
-- Customer Feedback Loops
+- Scrum Product Development
 - Frequent Releases
-- People and Process
+- Value Delivery
+- Product Delivery
+- Working Software
+- Software Development
+- Release Management
+- Transparency
+- Deployment Frequency
 categories:
 - Scrum
 - Social Technologies

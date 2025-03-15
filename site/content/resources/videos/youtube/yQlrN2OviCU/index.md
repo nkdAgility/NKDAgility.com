@@ -31,8 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
+- Team Collaboration
+- Pragmatic Thinking
 - Discovery and Learning
 - Team Performance
+- Coaching
 - People and Process
 - Team Motivation
 resourceTypes:

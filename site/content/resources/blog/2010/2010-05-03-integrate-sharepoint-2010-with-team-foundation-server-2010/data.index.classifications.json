@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:36:33",
+    "calculated_at": "2025-03-15T06:58:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is a specific implementation detail rather than a broader discussion of DevOps principles. While it touches on aspects of collaboration between tools (TFS and SharePoint), it lacks a comprehensive exploration of DevOps practices, cultural shifts, or metrics. The discussion is more about configuration and setup rather than the overarching themes of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T18:11:26",
+    "calculated_at": "2025-03-15T06:58:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration steps. While it touches on technical aspects, such as the installation of extensions and configuration settings, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The content does not explicitly mention key topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are technical elements present, they do not align closely enough with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -358,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:58:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server, which relates to managing software applications, but primarily focuses on technical setup rather than the broader aspects of application lifecycle management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is a specific implementation detail rather than a broader discussion on Application Lifecycle Management. While it touches on aspects of application deployment and configuration, it lacks a comprehensive exploration of the application lifecycle stages, governance, or best practices that are central to ALM. The discussion is more about setup and configuration rather than lifecycle management principles.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -385,7 +388,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:50:59",
+    "calculated_at": "2025-03-15T06:58:29",
     "ai_confidence": 32.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
@@ -393,7 +396,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration steps. While it does touch on technical practices, such as the setup of managed paths and permissions, it lacks a broader discussion on software craftsmanship principles, clean code, or methodologies that contribute to high-quality software development. The depth of discussion is practical but does not delve into best practices or principles of software engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1183,12 +1186,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:58:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the integration process of SharePoint 2010 with Team Foundation Server 2010, but also addresses installation issues and configuration steps which align with troubleshooting. However, the focus is more on integration than systematic problem-solving for technical issues.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the integration process between SharePoint 2010 and Team Foundation Server 2010, detailing installation and configuration steps. While it does touch on potential issues, such as limitations when installing on Windows 7 and the need for specific configurations, the main emphasis is on the procedural aspects rather than diagnosing and resolving technical issues. Therefore, it aligns moderately with the troubleshooting category but lacks depth in discussing methodologies for problem-solving.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

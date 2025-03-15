@@ -28,14 +28,14 @@ isShort: false
 tags:
 - Scrum Team
 - Scrum Master
-- Team Performance
-- Agile Product Management
 - Agile Project Management
-- Agile Frameworks
 - People and Process
 - Software Development
+- Team Performance
+- Scrum Product Development
 - Technical Leadership
-- Agile Leadership
+- Professional Scrum
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

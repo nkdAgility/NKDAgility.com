@@ -23,16 +23,12 @@ aliasesArchive:
 - /how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 tags:
-- Troubleshooting
 - Software Development
+- Troubleshooting
+- Azure Pipelines
 - Practical Techniques and Tooling
 - Azure DevOps
-- Azure Pipelines
-- Operational Practices
-- System Configuration
-- Technical Mastery
 - Install and Configuration
-- Continuous Integration
 preview: metro-SSWLogo-128-link-11-11.png
 categories:
 - DevOps

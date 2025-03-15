@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:19:32",
+    "calculated_at": "2025-03-15T05:54:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to TFS Integration Tools, which is a part of the DevOps ecosystem, but it does not explicitly address broader DevOps principles or practices. While it touches on a technical problem that could arise in a DevOps context, it lacks a comprehensive exploration of DevOps concepts such as CI/CD, automation, or cultural shifts. The focus is primarily on troubleshooting a specific error rather than on the integration of people, processes, and tools in a DevOps framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T18:05:48",
+    "calculated_at": "2025-03-15T05:54:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration Tools and provides a workaround for an access error. While it touches on a technical problem and a solution, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -292,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are part of the Azure DevOps suite, but primarily focuses on a specific error and workaround rather than broader Azure DevOps functionalities or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Tools, which is part of the Azure DevOps suite. It mentions the TFS Integration Platform and provides a workaround for an access issue, indicating a focus on Azure DevOps functionalities. However, the discussion is primarily technical and does not delve deeply into broader Azure DevOps practices or methodologies, which slightly limits its alignment with the category's core themes.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -382,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS Integration Tools and provides a workaround, which touches on software craftsmanship and problem-solving in a technical context. However, it primarily focuses on a specific error rather than broader principles of software design or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration Tools and provides a workaround for an access error. While it touches on aspects of software engineering, such as error handling and permissions, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is more on troubleshooting rather than on the principles of technical mastery.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -628,7 +634,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T15:04:23",
+    "calculated_at": "2025-03-15T05:54:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -636,7 +642,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses an issue related to TFS Integration Tools, which is a version control system, but it primarily focuses on a specific error and its resolution rather than broader practices or methodologies in modern source control. While it mentions 'Code Review' and 'Conflict', these are not explored in depth, and the overall discussion lacks a comprehensive examination of version control strategies or best practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1309,12 +1315,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are related to Azure DevOps and source control, but the primary focus is on a specific error and workaround rather than Azure Repos functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an issue related to TFS Integration Tools, which is part of the broader Team Foundation Server ecosystem. While it touches on aspects of access permissions and error handling, it does not explicitly focus on Azure Repos or its functionalities. The mention of 'Code Review' is relevant but does not delve into the specifics of Azure Repos' features or best practices. Overall, the content is more about troubleshooting a specific error rather than exploring Azure Repos as a primary topic.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

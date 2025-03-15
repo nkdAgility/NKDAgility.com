@@ -24,10 +24,8 @@ aliasesArchive:
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 tags:
 - Agile Transformation
-- Scaled Agile
-- Agile Frameworks
-- Large Scale Agility
 - Business Agility
+- Agile Frameworks
 - Organisational Agility
 - Agile Philosophy
 - Organisational Change

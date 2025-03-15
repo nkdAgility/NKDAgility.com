@@ -289,7 +289,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T10:35:19",
+    "calculated_at": "2025-03-15T05:59:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a tool related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, it lacks a direct focus on Azure DevOps functionalities, methodologies, or best practices. The mention of TFS is relevant but does not delve into broader Azure DevOps topics such as CI/CD, Agile practices, or integration with other tools. The depth of discussion is limited to the specific tool without exploring its implications within the Azure DevOps ecosystem.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on a technical tool for tracking changes in TFS work items but does not delve deeply into broader topics of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) and its functionality, which does not directly address broader principles of software craftsmanship or engineering practices. While it mentions technical aspects like prerequisites and troubleshooting, it lacks a discussion on best practices, code quality, or methodologies that contribute to technical mastery.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:59:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a tool related to TFS (Team Foundation Server) and mentions its installation prerequisites and features, which are relevant to software development practices, but it does not deeply explore methodologies or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific tool related to TFS (Team Foundation Server) and its functionality, which aligns with software development practices, particularly in the context of version control and work item tracking. However, while it provides some technical details about the tool and its prerequisites, it lacks a broader discussion on methodologies or best practices in software development, which limits its depth of discussion.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -625,7 +631,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T16:55:05",
+    "calculated_at": "2025-03-15T05:59:32",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -633,7 +639,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a tool related to TFS (Team Foundation Server) that allows users to track changes to work items, which is a form of version control. However, the focus is primarily on the tool's functionality rather than broader best practices or methodologies in modern source control. While it mentions aspects of tracking changes, it lacks depth in discussing version control strategies, branching, or collaboration workflows, which are key themes in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -871,7 +877,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T18:06:25",
+    "calculated_at": "2025-03-15T05:59:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -879,7 +885,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily describes a tool (TFS Field Annotator) that aids in tracking changes to TFS Work Items, which is a functional aspect of software. However, it lacks a direct discussion on the broader themes of working software, such as customer feedback, iterative development, or quality assurance practices. While it does mention operational functionality, it does not delve into how this tool aligns with user requirements or business objectives, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1063,7 +1069,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:04:59",
+    "calculated_at": "2025-03-15T05:59:32",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 15,
@@ -1071,7 +1077,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the TFS Field Annotator tool, focusing on its features and installation prerequisites. While it mentions troubleshooting steps, which could relate to system configuration, the overall emphasis is on the tool's functionality rather than the broader principles of system configuration. The discussion lacks depth in terms of configuration management or optimisation strategies, leading to a low confidence score in alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1414,7 +1420,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:34",
+    "calculated_at": "2025-03-15T05:59:32",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1422,6 +1428,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a tool related to TFS (Team Foundation Server) and its functionalities, with no direct mentions or discussions of Scrum principles, roles, events, or practices. While it may relate to project management in a broad sense, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical aspects of the tool rather than any Scrum-related content.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -49,12 +49,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters in relation to team performance and metrics, which touches on organisational dynamics and effectiveness. However, the primary focus is on Scrum practices rather than a comprehensive exploration of systems thinking or organisational behaviour.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:20:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and their impact on team performance and ROI, which is more about individual roles and responsibilities rather than the broader systems thinking and organisational dynamics outlined in the Organisational Physics category. While it touches on aspects of organisational structure and team dynamics, it lacks a comprehensive exploration of systems thinking principles or the interplay of organisational elements, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -100,11 +103,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their impact on team performance and ROI, which relates to Agile leadership. However, the primary focus is on technical metrics and the effectiveness of Scrum Masters rather than broader leadership strategies or principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of competent Scrum Masters and their impact on team performance and ROI, which aligns with Agile Leadership principles. However, it primarily focuses on the technical aspects of the Scrum Master's role rather than broader leadership strategies or cultural aspects of Agile leadership.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -136,12 +142,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters in improving team performance and ROI, which relates to the delivery of functional software. However, the primary focus is on Scrum roles and metrics rather than directly on working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:20:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of competent Scrum Masters in enhancing team delivery and software quality, which aligns with the principles of working software. It provides metrics for measuring the effectiveness of Scrum Masters, linking their competence to the delivery of functional software. However, the primary focus is on the Scrum Master's impact rather than directly on working software itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -157,12 +166,12 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T12:04:04",
+    "calculated_at": "2025-03-14T17:19:42",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the role of Scrum Masters and their impact on team performance and ROI, but it primarily focuses on the need for competent Scrum Masters rather than on self-organisation principles or practices. Self-organisation is mentioned in the context of teams operating without Scrum Masters, but it is not the central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -301,12 +310,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters in enhancing team performance and metrics related to team effectiveness, which aligns with team collaboration themes. However, the primary focus is on individual performance metrics and the impact of Scrum Masters rather than broader team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of competent Scrum Masters and their impact on team dynamics and performance, which aligns with the themes of team collaboration. However, the primary focus is on individual performance metrics rather than broader team collaboration strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -379,11 +391,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of competent Scrum Masters on team performance and ROI, touching on metrics that relate to throughput, such as innovation rate and usage index. However, the primary focus is on the role of Scrum Masters rather than a direct exploration of throughput as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of competent Scrum Masters in enhancing team delivery and innovation rates, which indirectly relates to throughput. However, it primarily focuses on the impact of Scrum Masters on team performance and ROI rather than explicitly measuring or optimising throughput. While there are mentions of metrics that could relate to throughput, the overall discussion does not centre on the core themes of throughput as defined in Agile and DevOps contexts.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -451,12 +466,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and measurement in relation to Scrum Masters and team effectiveness, which aligns with the principles of empirical process control. However, the primary focus is on the role of Scrum Masters and their competencies rather than a comprehensive discussion on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of competent Scrum Masters and their impact on team performance and ROI, which indirectly relates to empirical process control through the emphasis on metrics and data-driven decision-making. However, it primarily focuses on the skills of Scrum Masters rather than the core principles of empirical process control, such as transparency, inspection, and adaptation. While there are mentions of measuring effectiveness and using data, the discussion lacks depth in the specific practices and principles of empirical process control.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -478,21 +496,27 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:19:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the return on investment (ROI) in relation to Scrum Masters and team productivity, which indirectly relates to revenue per employee. However, the primary focus is on Scrum roles and metrics rather than a direct analysis of revenue per employee as a standalone topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of competent Scrum Masters on ROI, which indirectly relates to productivity and financial efficiency. However, it does not explicitly mention 'revenue per employee' or provide a focused analysis on this metric. The discussion is more centred on Scrum practices and their effects on team performance rather than a direct examination of revenue generation per employee.",
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:19:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their impact on team productivity and ROI, which relates to Agile practices. However, the primary focus is on Scrum Masters rather than software developers directly, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters, which is tangentially related to software developers but does not focus directly on their practices or methodologies in Agile and DevOps. While it touches on the impact of competent Scrum Masters on team dynamics and productivity, it lacks a detailed exploration of software development practices themselves, such as TDD, CI/CD, or specific tools used by developers. The discussion is more about leadership and management within Agile frameworks rather than the developers' roles and responsibilities.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -532,12 +556,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 40,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in improving team performance and ROI, which indirectly relates to the delivery of software increments. However, the primary focus is on Scrum Master competencies and metrics rather than the Increment itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of competent Scrum Masters in enhancing team delivery and measuring value, which indirectly relates to the concept of Increment in Agile. However, it primarily focuses on the Scrum Master's impact rather than the Increment itself, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -619,12 +646,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in improving team effectiveness and ROI, which relates to Agile principles. However, it primarily focuses on the technical aspects of Scrum roles and metrics rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:19:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Scrum Masters in delivering value and improving ROI, which aligns with Agile principles. However, it primarily focuses on the technical aspects of Scrum roles rather than broader strategic implications of Agile methodologies. While it touches on measuring success and accountability, it lacks a comprehensive discussion on organisational vision alignment or strategic planning.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -664,12 +694,12 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T12:04:04",
+    "calculated_at": "2025-03-14T17:19:42",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the role of Scrum Masters in enhancing team performance and metrics related to team effectiveness, but it primarily focuses on technical aspects and metrics rather than strategies for team motivation or dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -730,12 +760,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in Agile teams and the impact of their competencies on team performance and ROI, which aligns with Agile transformation principles. However, the focus is primarily on metrics and performance rather than broader Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters in Agile teams, focusing on their impact on team performance and ROI. While it mentions Agile principles and practices, the discussion is heavily centred on the Scrum framework and the specific competencies required for Scrum Masters, rather than a broader exploration of Agile transformation strategies or methodologies. The metrics provided for measuring effectiveness align with Agile practices, but the overall focus is more on Scrum than on the comprehensive themes of Agile transformation.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -820,12 +853,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters and the importance of metrics in measuring team effectiveness, which relates to scaling Scrum practices. However, it primarily focuses on the competencies of Scrum Masters rather than broader scaling frameworks or coordination among multiple teams.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their impact on team performance and ROI, which is relevant to Scrum practices. However, it does not explicitly address scaling Scrum across multiple teams or organisations, nor does it explore frameworks or methodologies for scaling. The focus is primarily on individual Scrum Master effectiveness rather than the broader context of scaling Scrum, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -859,12 +895,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in enhancing team performance and ROI, which relates to technical leadership. However, it primarily focuses on the metrics and effectiveness of Scrum Masters rather than broader technical leadership principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of competent Scrum Masters and their impact on team performance and ROI, which aligns with technical leadership principles. However, it primarily focuses on the role of Scrum Masters rather than broader technical leadership strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -886,21 +925,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in improving team effectiveness and ROI, which relates to Agile Planning principles. However, it primarily focuses on the competencies of Scrum Masters and metrics rather than broader Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of Scrum Masters in Agile teams, focusing on their impact on team delivery and ROI. While it touches on Agile principles, such as team dynamics and metrics for measuring success, it primarily centres on the competence of Scrum Masters rather than broader Agile planning methodologies. The discussion is relevant but lacks depth in exploring Agile planning techniques and frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-12T08:01:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:47:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of Scrum Masters in enhancing team effectiveness and accountability through measurable metrics, emphasising the importance of ownership and responsibility in achieving better ROI. It aligns well with the principles of accountability in Agile, focusing on team dynamics and the impact of competent leadership.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of competent Scrum Masters and their impact on team performance, which touches on accountability in terms of holding Scrum Masters responsible for metrics and outcomes. However, it primarily focuses on the skills and roles of Scrum Masters rather than a broader discussion on accountability as a team principle. While there are mentions of accountability in the context of measuring Scrum Master effectiveness, the overall emphasis is more on individual competence than collective team ownership.",
+    "level": "Tertiary"
   },
   "MVP": {
     "category": "MVP",
@@ -940,21 +985,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T08:01:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:07:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and their impact on team performance and ROI, aligning closely with the dynamics and responsibilities within a Scrum Team.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within a Scrum Team, discussing their impact on team dynamics, delivery, and overall effectiveness. It explicitly mentions the importance of a competent Scrum Master and provides detailed insights into how their skills influence team performance metrics. The discussion aligns well with key themes of the Scrum Team category, such as roles and responsibilities, team collaboration, and continuous improvement practices. The depth of the analysis regarding metrics and accountability further supports a high confidence score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in relation to engineering excellence and metrics that can measure team effectiveness, which aligns with the principles of technical mastery. However, the primary focus is on Scrum roles and their impact on ROI rather than on software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and their impact on team performance and ROI, which is more aligned with project management and team dynamics than with the core principles of software craftsmanship. While it touches on some technical aspects, such as engineering practices and metrics for measuring success, the focus remains on the Scrum Master's role rather than on best practices in software design, clean code, or technical debt management. Therefore, it does not fully meet the criteria for 'Technical Mastery'.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -976,21 +1027,27 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of Scrum Masters on team performance and ROI, which relates to trends in Agile practices. However, it primarily focuses on specific metrics and personal insights rather than a broader analysis of trends in Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role and impact of competent Scrum Masters rather than analysing trends within Agile or DevOps frameworks. While it touches on metrics that could relate to performance trends, it lacks a comprehensive discussion on emerging trends or shifts in practices that inform strategic decision-making. The analysis is more about individual roles and their effectiveness rather than broader trend analysis.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their impact on team effectiveness and ROI, which relates to Agile principles of value delivery and team dynamics. However, it primarily focuses on specific metrics and the Scrum framework rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role and impact of Scrum Masters within Agile teams, discussing their importance in delivering value and improving metrics. However, it does not delve deeply into the broader Agile Philosophy or its foundational principles, such as the Agile Manifesto or the cultural shifts required for Agile adoption. While it touches on value delivery and team dynamics, it remains largely centred on the practical implications of Scrum rather than the underlying Agile mindset.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1066,12 +1123,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in improving team performance and ROI, which relates to organisational effectiveness and metrics. However, it primarily focuses on team-level practices rather than broader enterprise agility concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and their impact on team performance, which is more aligned with team-level agile practices rather than enterprise-level agility. While it touches on metrics and the importance of competent leadership, it lacks a broader discussion on organisational structures, frameworks for scaling agility, or cultural aspects of enterprise agility. Therefore, it does not fully meet the criteria for the 'Enterprise Agility' category.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1111,12 +1171,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of competent Scrum Masters on team performance and ROI, touching on metrics that relate to flow efficiency, such as innovation rate and usage index. However, the primary focus is on the role of Scrum Masters rather than directly on flow efficiency principles or techniques for optimising throughput.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of competent Scrum Masters in enhancing team delivery and innovation rates, which indirectly relates to flow efficiency. However, it primarily focuses on the impact of Scrum Masters on team performance and ROI rather than directly addressing flow efficiency principles, metrics, or techniques for optimising throughput. The discussion lacks depth in flow efficiency concepts and does not explicitly mention key topics such as bottlenecks or WIP limits.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1180,12 +1243,15 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:19:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of competent Scrum Masters and their accountability for team effectiveness, which aligns with the theme of accountability. However, the primary focus is on metrics and ROI rather than transparency and accountability as central topics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of competent Scrum Masters and their impact on team performance and ROI, but it primarily focuses on the skills and metrics related to Scrum Masters rather than on transparency and accountability within Agile teams. While there are mentions of measuring effectiveness and holding Scrum Masters accountable, the overall emphasis is on competence and performance metrics rather than fostering an environment of openness and shared responsibility.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -1210,12 +1276,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of competent Scrum Masters in improving team performance and ROI, which indirectly relates to market adaptability through the lens of Agile practices. However, the primary focus is on Scrum roles and metrics rather than a direct exploration of market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competent Scrum Masters in enhancing team delivery and innovation, which indirectly relates to market adaptability. However, it primarily focuses on the role of Scrum Masters rather than explicitly addressing strategies for responding to market shifts or competitive pressures. While there are mentions of metrics that could inform decision-making, the overall discussion lacks a direct focus on Agile, DevOps, or Lean methodologies as frameworks for market adaptability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1228,7 +1297,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:49:07",
+    "calculated_at": "2025-03-14T17:19:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1305,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content discusses the role of Scrum Masters and their impact on team performance and ROI, which indirectly touches on DevOps principles like collaboration and metrics. However, the primary focus is on Scrum methodology rather than DevOps practices, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1249,21 +1318,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:19:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Scrum Masters in relation to team performance and ROI, which aligns with Agile methodologies. However, it primarily focuses on the implications of Scrum Master competence rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their impact on team performance and ROI, which indirectly relates to Agile methodologies. However, it lacks direct references to specific products or books, and while it touches on metrics and practices relevant to Agile, it does not provide in-depth analysis or reviews of literature or tools that would solidify its alignment with the 'Products and Books' category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in improving team effectiveness and ROI, which relates to business agility principles. However, the primary focus is on Scrum practices rather than a broader exploration of business agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Scrum Masters in enhancing team performance and ROI, which indirectly relates to business agility. However, it primarily focuses on Scrum practices rather than the broader principles of business agility. While it touches on innovation and team dynamics, it lacks a comprehensive exploration of business agility concepts such as organisational adaptability and leadership roles in fostering agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1288,20 +1363,26 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters in relation to engineering excellence and metrics that can measure team effectiveness, which aligns with the principles of technical excellence. However, the primary focus is on Scrum roles and their impact on ROI rather than on specific engineering practices or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:20:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and their impact on team performance and ROI, which is more focused on team dynamics and management rather than specific engineering practices or methodologies that enhance technical excellence. While it touches on some relevant aspects like defect rates and innovation, these are not explored in depth or in the context of established technical practices such as TDD or CI/CD. Therefore, the content does not align closely with the core themes of Technical Excellence.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters in enhancing team effectiveness and ROI, which relates to organisational agility. However, the primary focus is on Scrum roles and metrics rather than broader agile principles or cultural shifts.",
+    "calculated_at": "2025-03-14T17:20:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of competent Scrum Masters in enhancing team performance and ROI, which aligns with the principles of agility. However, it primarily focuses on Scrum practices rather than broader organisational agility strategies. While it touches on metrics and team dynamics, it lacks a comprehensive exploration of cultural shifts or organisational structures that support agility.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1327,11 +1408,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters in relation to team effectiveness and organisational structure, highlighting the interplay between social dynamics and technical practices. However, the primary focus is on Scrum roles and metrics rather than a broader exploration of sociotechnical systems.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Scrum Masters in relation to team dynamics and organisational structure, which aligns with sociotechnical systems. However, it primarily focuses on the technical aspects of Scrum and metrics for measuring ROI, with limited exploration of the broader sociotechnical interactions. The discussion lacks depth in addressing the interplay between social and technical systems, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1411,16 +1495,19 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:04:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:20:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters in enhancing team effectiveness and ROI, which aligns with the Agile Product Operating Model. However, the primary focus is on Scrum practices rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Scrum Masters in enhancing team performance and value delivery, which aligns with the Agile Product Operating Model. It mentions metrics related to product value and innovation, indicating a focus on product-centric development. However, the primary focus is on the Scrum Master's competence rather than a broader discussion of the Agile Product Operating Model itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T11:37:00",
+    "calculated_at": "2025-03-14T17:19:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1428,7 +1515,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the role of Scrum Masters in enhancing team performance and ROI, which touches on leadership in an Agile context. However, it primarily focuses on the technical competencies of Scrum Masters and metrics for measuring team effectiveness rather than broader leadership strategies or frameworks. While there are mentions of accountability and team dynamics, the depth of discussion is more about operational effectiveness than leadership practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

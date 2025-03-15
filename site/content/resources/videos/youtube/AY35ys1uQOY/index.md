@@ -29,10 +29,11 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
-- People and Process
+- Software Development
 - Agile Product Management
-- Scrum Product Development
+- People and Process
 - Agile Planning
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

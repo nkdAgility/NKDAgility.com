@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - People and Process
 - Professional Scrum
 - Team Collaboration
 - Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Software Development
+- Team Performance
+- Pragmatic Thinking
 - Agile Product Management
-- Value Delivery
-- Events and Presentations
-- Organisational Agility
-- Coaching
 resourceTypes:
 - video
 categories:

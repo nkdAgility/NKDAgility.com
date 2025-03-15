@@ -27,8 +27,16 @@ aliasesArchive:
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
 tags:
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- People and Process
 - Software Development
 - Agile Project Management
+- Agile Frameworks
+- Professional Scrum
+- Agile Planning
+- Agile Product Management
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png

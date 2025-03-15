@@ -10,7 +10,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T16:59:29",
+    "calculated_at": "2025-03-15T06:48:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a proof-of-concept for ranking blog posts using various data sources and algorithms, which touches on practical techniques for data collection and processing. However, it lacks a strong focus on Agile or DevOps methodologies, specific tools, or frameworks that enhance team performance or collaboration. The discussion is more about a specific implementation rather than a broader exploration of tooling or methodologies in Agile and DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -40,7 +40,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T18:10:39",
+    "calculated_at": "2025-03-15T06:48:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -48,11 +48,11 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which touches on aspects of code quality and extensibility. However, it lacks a deep exploration of complexity theory or its principles, focusing more on implementation details and algorithmic calculations rather than the interplay between code quality and complexity in software development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T15:09:00",
+    "calculated_at": "2025-03-15T06:48:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -60,7 +60,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a technical implementation of a ranking algorithm for blog posts, with limited discussion on discovery or learning processes. While it touches on the idea of exploring data to improve content visibility, it lacks a strong emphasis on methodologies for fostering innovation or continuous learning within teams. The mention of a proof-of-concept suggests some level of experimentation, but it does not delve into broader themes of learning from failures or integrating user feedback, which are key aspects of the 'Discovery and Learning' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -220,7 +220,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:03:18",
+    "calculated_at": "2025-03-15T06:48:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -228,7 +228,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts based on various metrics, which does not directly address engineering practices or methodologies that enhance agility in software development. While it touches on some technical aspects, such as the implementation of a WPF application and dynamic loading of components, it lacks a focus on core themes like TDD, CI/CD, or modular architecture. The discussion is more exploratory and lacks depth in technical excellence principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -385,7 +385,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:01:57",
+    "calculated_at": "2025-03-15T06:48:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -393,7 +393,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which touches on software design and implementation. However, it lacks a strong focus on best practices, clean code principles, or methodologies that contribute to high-quality software development. While it mentions extensibility and some technical aspects, the overall discussion is more exploratory and lacks depth in the core themes of technical mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -814,7 +814,7 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-11T10:39:37",
+    "calculated_at": "2025-03-15T06:48:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -822,7 +822,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses an innovative approach to ranking blog posts based on empirical data, which aligns with the concept of innovation. However, it lacks a structured discussion on frameworks, metrics, or Evidence-Based Management principles, which are crucial for a higher confidence score in the Ability to Innovate category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -952,12 +952,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:48:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses calculating ranks based on various metrics, which may aid in decision-making regarding content prioritization. However, it primarily focuses on technical implementation rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a method for ranking blog posts based on various metrics, which implies a decision-making process regarding content prioritisation. However, it lacks a structured, evidence-based methodology and does not delve into collaborative decision-making or cognitive biases, which are key themes of the category. The focus is more on technical implementation rather than on decision-making principles.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1123,7 +1126,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:49:56",
+    "calculated_at": "2025-03-15T06:48:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1131,7 +1134,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts using various data sources and mentions implementation details of a WPF application. While it briefly references Windows Presentation Foundation (WPF), which is a Windows technology, the overall focus is on the algorithm and data collection rather than on Windows-specific installation, configuration, or troubleshooting. Therefore, the content does not align well with the Windows category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1189,12 +1192,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:48:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a proof-of-concept approach to ranking blog posts based on various social metrics and hints at testing different algorithms or approaches, which relates to experimentation. However, it does not focus primarily on hypothesis-driven methods within Agile workflows.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which implies a form of experimentation. However, it lacks explicit mentions of hypothesis-driven approaches or systematic testing methods typical of Agile experimentation. While it touches on the idea of testing different algorithms and data collectors, it does not delve deeply into the analysis of results or iterative learning processes, which are crucial for the 'Experimentation' category.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",

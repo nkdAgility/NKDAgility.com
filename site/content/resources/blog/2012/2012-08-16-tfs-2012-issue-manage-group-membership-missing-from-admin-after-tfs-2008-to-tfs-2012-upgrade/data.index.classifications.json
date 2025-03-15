@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:46:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to permissions management in TFS, which touches on aspects of technical practices and methodologies, but it is primarily focused on a specific problem rather than broader engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to permissions in TFS after an upgrade, which is a narrow aspect of technical excellence. While it touches on the need for proper permissions and provides a solution involving command-line tools, it lacks broader discussions on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -352,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:46:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to permissions and security management during an upgrade of Team Foundation Server, which is relevant to the application lifecycle, particularly in the deployment and maintenance stages. However, it primarily focuses on a specific technical issue rather than a broader discussion of application lifecycle management practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in TFS after an upgrade, which is a narrow aspect of application management. While it touches on the upgrade process, it lacks a broader discussion on the application lifecycle stages, governance, or best practices. The focus is more on troubleshooting rather than comprehensive lifecycle management.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -490,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:46:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses solving a specific technical issue related to permissions in TFS after an upgrade, which can relate to operational practices, but it is primarily focused on troubleshooting and technical commands rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions management in TFS after an upgrade, which is more of a technical troubleshooting guide than a discussion on operational practices. While it touches on aspects of permissions and user management, it lacks a broader focus on operational efficiency, process optimisation, or methodologies like Agile, DevOps, or Lean. The depth of discussion is limited to a specific problem and solution without exploring wider operational strategies or best practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -628,11 +637,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:46:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues and solutions related to permissions and membership in Team Foundation Server (TFS), which is a version control system. While the primary focus is on a specific problem related to TFS, it is still relevant to source control practices, making it a major but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses issues related to permissions and group management in TFS (Team Foundation Server), which is a version control system. It provides specific commands and solutions for managing user permissions, which aligns with the category's focus on version control practices. However, the discussion is primarily about troubleshooting and does not delve deeply into broader best practices or methodologies of modern source control, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -745,7 +757,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:16:57",
+    "calculated_at": "2025-03-15T05:46:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -753,7 +765,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific technical issue related to permissions in TFS after an upgrade, which is more focused on troubleshooting than on broader engineering excellence practices. While it touches on aspects of permissions management, it lacks a comprehensive discussion on software craftsmanship, best practices, or continuous improvement in engineering processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1309,12 +1321,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:04",
+    "calculated_at": "2025-03-15T05:46:45",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "Content discusses issues related to Team Foundation Server (TFS), which is relevant to Azure Repos, but the primary focus is on permission management and upgrade problems rather than on Azure Repos functionalities or practices. It does not adequately address the key topics specified for this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

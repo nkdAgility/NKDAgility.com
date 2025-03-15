@@ -8,7 +8,7 @@ ResourceImportId: 44532
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-04
-weight: 495
+weight: 440
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,15 +29,15 @@ aliasesArchive:
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
 - Transparency
+- Agile Project Management
 - Empirical Process Control
 - Software Development
-- Estimation
-- Increment
-- Professional Scrum
-- Agile Project Management
-- Agile Planning
 - Scrum Product Development
-- Scrum Team
+- Professional Scrum
+- Estimation
+- Software Developers
+- Pragmatic Thinking
+- Agile Product Management
 categories:
 - Scrum
 preview: image-9-14-14.png

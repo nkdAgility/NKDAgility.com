@@ -32,16 +32,16 @@ aliasesArchive:
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 tags:
-- Organisational Culture
 - People and Process
 - Sociotechnical Systems
 - Organisational Physics
-- Organisational Change
+- Organisational Culture
 - Complexity Thinking
+- Agile Philosophy
+- Pragmatic Thinking
 - Lean
-- Lean Product Development
 - Organisational Psychology
-- Ability to Innovate
+- Employee Engagement
 categories:
 - Leadership
 - Social Technologies

@@ -28,7 +28,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T15:00:02",
+    "calculated_at": "2025-03-14T20:23:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -36,7 +36,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges product owners face in engaging stakeholders during Sprint reviews, which touches on leadership in terms of fostering collaboration and communication. However, it primarily focuses on the marketing aspect of stakeholder engagement rather than providing a comprehensive discussion on leadership practices or strategies. The mention of emotional engagement hints at leadership qualities but lacks depth in exploring leadership frameworks or techniques.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -88,7 +88,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-07T13:12:42",
+    "calculated_at": "2025-03-14T20:23:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -96,11 +96,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the challenges of engaging stakeholders during Sprint reviews, which hints at the need for transparency in communication. However, it primarily focuses on marketing issues rather than directly addressing transparency and accountability within Agile teams. The discussion lacks depth and does not provide substantial insights into the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-10T11:50:39",
+    "calculated_at": "2025-03-14T20:23:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -108,7 +108,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of stakeholder engagement and feedback in the context of Sprint reviews, which can relate to market adaptability. However, it primarily focuses on the challenges faced by product owners rather than providing a comprehensive discussion on strategies or methodologies that enhance market adaptability. The mention of marketing issues indicates a connection to the broader theme but lacks depth in discussing Agile, DevOps, or Lean principles specifically.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -124,7 +124,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T18:01:26",
+    "calculated_at": "2025-03-14T20:23:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on engagement and emotional involvement, which are relevant to organisational psychology. However, it primarily focuses on the challenges of stakeholder engagement in a Scrum context, which leans more towards project management than psychological principles. The discussion lacks depth in exploring psychological theories or concepts directly related to organisational behaviour.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -166,7 +166,7 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T11:22:59",
+    "calculated_at": "2025-03-14T20:23:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -174,7 +174,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the challenges faced by product owners in engaging stakeholders during Sprint reviews, which touches on the social aspects of software delivery. However, it primarily focuses on the marketing issue rather than a comprehensive exploration of sociotechnical systems. While there is a mention of stakeholder engagement, the discussion lacks depth in addressing the interplay between organisational structures and technology adoption, which is central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -379,12 +379,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:45:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:56:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engaging stakeholders and obtaining feedback during Sprint reviews, which relates to learning from user input. However, the primary focus is on marketing issues rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders in Sprint reviews, which indirectly relates to learning through feedback and collaboration. However, the primary focus is on marketing and communication rather than on the broader themes of discovery and learning. While it touches on the importance of feedback and creating a safe space for dialogue, it lacks a deeper exploration of methodologies or frameworks that foster continuous learning and innovation.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -442,21 +445,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses stakeholder engagement and feedback in the context of Sprint reviews, which relates to Agile principles of customer collaboration and continuous improvement, but mainly focuses on practical challenges rather than the underlying Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on strategies for improving stakeholder engagement during Sprint reviews, which is a specific Agile framework practice rather than a discussion of Agile philosophy. While it touches on the importance of collaboration and feedback, it does not delve into the broader principles of the Agile mindset or the Agile Manifesto. The mention of value delivery is present, but it is framed within the context of practical execution rather than philosophical exploration.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:16:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engaging stakeholders and securing meaningful feedback, which relates to change management strategies, but it primarily focuses on stakeholder engagement in Sprint reviews.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders during Sprint reviews, which indirectly relates to change management by addressing how to foster collaboration and feedback. However, it primarily focuses on marketing and communication tactics rather than the broader principles of change management in Agile contexts. While it touches on stakeholder engagement, it lacks a comprehensive exploration of change management strategies, leadership roles, or measuring impact, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -478,21 +487,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement of stakeholders in Sprint reviews, highlighting the importance of emotional engagement and feedback, which relates to team dynamics and motivation, but it primarily focuses on marketing aspects rather than team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders in Sprint reviews, which aligns with team motivation by emphasising the importance of collaboration, open dialogue, and creating a safe space for feedback. It highlights the role of emotional engagement and shared goals, which are key aspects of team dynamics. However, while it touches on team motivation, the primary focus is on stakeholder engagement rather than the broader team dynamics, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint Reviews and the role of Product Owners in engaging stakeholders, which are important aspects of Scrum. However, it primarily focuses on marketing strategies rather than in-depth Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses strategies for improving stakeholder engagement during Sprint reviews, which is a key event in the Scrum framework. However, while it touches on the importance of feedback and communication, it lacks a comprehensive exploration of Scrum principles, roles, and practices. The focus is more on practical marketing strategies rather than a deep dive into Scrum theory or its core values.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -532,11 +547,14 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging stakeholders and obtaining meaningful feedback during Sprint reviews, which is related to customer engagement and retention strategies. However, it primarily focuses on the challenges in marketing and stakeholder engagement rather than direct customer retention methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders during Sprint reviews, which indirectly relates to customer retention by emphasising the importance of feedback and understanding stakeholder needs. However, it primarily focuses on marketing and communication strategies rather than direct customer retention methodologies. While it touches on the value of stakeholder engagement, it lacks a comprehensive exploration of customer retention strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -568,12 +586,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of engaging stakeholders during Sprint reviews, which is related to gathering feedback for working software, making it a major, but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders in Sprint reviews, which is relevant to the delivery of working software. It highlights the importance of feedback and communication in refining the product, aligning with the core themes of working software. However, while it touches on the significance of stakeholder involvement, it does not delve deeply into the characteristics of working software or provide extensive detail on best practices for ensuring software quality.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -649,12 +670,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:23:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback in the context of Sprint reviews, which relates to customer satisfaction, but primarily positions these issues as marketing challenges rather than directly addressing customer satisfaction measures or strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders and securing feedback during Sprint reviews, which indirectly relates to customer satisfaction by emphasising the importance of stakeholder involvement in product development. However, it primarily focuses on marketing aspects and stakeholder engagement rather than directly addressing customer satisfaction principles or methodologies. The mention of feedback and its impact on product success aligns with the category, but the overall depth and focus lean more towards marketing strategies than a holistic view of customer satisfaction.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -676,12 +700,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:23:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses feedback in the context of Sprint reviews, highlighting the importance of engaging stakeholders to secure meaningful feedback, which relates to customer feedback loops; however, it primarily focuses on engagement and marketing aspects rather than on structured feedback processes.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders in Sprint reviews to secure meaningful feedback, which aligns with the concept of customer feedback loops. It highlights the importance of communication, creating a safe space for feedback, and engaging stakeholders, all of which are relevant to integrating customer feedback into product development. However, while it touches on these themes, the focus is more on stakeholder engagement and marketing rather than a comprehensive exploration of feedback loop mechanisms, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -694,11 +721,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:24:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the challenges faced by Product Owners in engaging stakeholders during Sprint reviews, highlighting the importance of stakeholder feedback in the Product Owner's role.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the challenges faced by product owners in engaging stakeholders during Sprint reviews, which is a core responsibility of the Product Owner role. It provides practical strategies for improving stakeholder engagement, aligning closely with the key topics of stakeholder communication and collaboration. The depth of discussion is substantial, offering specific techniques and insights that reflect the Product Owner's responsibilities in Agile frameworks. Overall, the content is highly relevant and focused on the Product Owner's role.",
     "level": "Secondary"
   },
   "Trend Analysis": {
@@ -769,21 +799,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content focuses primarily on stakeholder engagement during Sprint reviews and related marketing issues, it touches on the importance of feedback which is relevant to customer-centric approaches in product strategy.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on improving stakeholder engagement during Sprint reviews, which is more about team dynamics and Agile practices than product strategy itself. While it touches on the importance of stakeholder feedback and communication, it lacks a comprehensive discussion on product vision, roadmapping, or market analysis, which are core to product strategy. Therefore, while there are relevant elements, they are not the primary focus.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner in engaging stakeholders during Sprint Reviews, making it a major but secondary theme to the broader topic of Scrum dynamics.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses strategies for engaging stakeholders during Sprint reviews, which is a specific Scrum event. It mentions the role of the Product Owner and touches on communication strategies, aligning with Scrum Team dynamics. However, it lacks a broader discussion on team roles and collaboration practices, which limits its depth in the context of the Scrum Team category.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -796,12 +832,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint reviews, a key event in the Scrum framework, and touches on engaging stakeholders in the Agile process, indicating a significant but secondary theme related to Agile Transformation.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies for improving stakeholder engagement during Sprint reviews, which is a key aspect of Agile practices. It aligns with Agile principles by emphasising collaboration, feedback, and communication. However, it does not delve deeply into broader Agile transformation strategies or methodologies, focusing instead on a specific challenge within the Scrum framework. Therefore, while it is relevant, it does not fully encompass the wider scope of Agile transformation.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -832,11 +871,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:23:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of engaging stakeholders during Sprint reviews, which relates to Agile practices, but it primarily focuses on stakeholder engagement and marketing issues rather than Agile strategy as a whole.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders in Sprint reviews, which aligns with Agile principles of collaboration and continuous feedback. However, it primarily focuses on practical tactics rather than a broader strategic context, limiting its depth in discussing Agile strategy as a whole.",
     "level": "Tertiary"
   },
   "Software Developers": {
@@ -949,21 +991,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint reviews, an Agile practice, which indicates a focus on Agile frameworks, but it primarily addresses challenges in stakeholder engagement and marketing aspects rather than a deep exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on improving stakeholder engagement during Sprint reviews, which is a specific aspect of the Scrum framework. While it discusses strategies relevant to Agile practices, it does not provide a comprehensive exploration of Agile frameworks as a whole. The mention of Sprint reviews indicates a direct connection to Agile, but the overall discussion lacks depth in covering broader Agile principles or comparative analysis of different frameworks.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:23:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges in engaging stakeholders during Sprint reviews, which relates to team dynamics and communication within Agile frameworks. However, the primary focus is more on stakeholder engagement and marketing aspects rather than team performance itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on strategies to enhance stakeholder engagement during Sprint reviews, which directly relates to team performance and collaboration. It discusses techniques for fostering open dialogue, setting expectations, and creating a safe space for feedback, all of which are essential for improving team dynamics. The depth of discussion is substantial, providing actionable strategies that align well with Agile principles. However, while it touches on team performance, it does not delve deeply into metrics or broader team dynamics, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -994,20 +1042,26 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engaging stakeholders and obtaining feedback, which relates to employee engagement; however, the primary focus is on marketing issues rather than intrinsic aspects of employee motivation and commitment.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders during Sprint reviews, which aligns with the principles of employee engagement by focusing on communication, feedback, and creating a supportive environment. It explicitly mentions the importance of emotional engagement and fostering open dialogue, which are key aspects of employee engagement. However, the primary focus is on stakeholder engagement in a Scrum context rather than on employee engagement within a team, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:24:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses engaging stakeholders during Sprint reviews, which is a key aspect of Agile Project Management, highlighting the role of feedback and stakeholder involvement in the process.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses extensively on strategies for engaging stakeholders during Sprint reviews, which is a key aspect of Agile Project Management. It discusses the role of the Product Owner in facilitating these reviews and highlights the importance of feedback, collaboration, and communication—core principles of agile methodologies. The depth of discussion is significant, providing actionable strategies and insights that align well with agile practices, particularly in the context of Scrum. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -1039,12 +1093,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses engaging stakeholders and securing feedback, which relates to understanding customer needs and input in the product discovery process, though it primarily focuses on the challenges within sprint reviews.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders during Sprint reviews, which indirectly relates to understanding customer needs and gathering feedback. However, it primarily focuses on improving stakeholder participation rather than exploring methodologies for product discovery itself. While there are elements of user feedback and engagement, the content lacks a direct emphasis on defining product features or validating ideas, which are core themes of the Product Discovery category.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1057,11 +1114,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of engaging stakeholders in Sprint reviews, which touches on the emotional engagement and understanding of value within an organisational context. While the primary focus seems to be on the mechanics of Sprint reviews and feedback, there are implications about organisational culture and engagement that relate to the broader theme of organisational culture.",
+    "calculated_at": "2025-03-14T20:23:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders in Sprint reviews, which touches on aspects of organisational culture, such as creating a safe space for feedback and fostering collaboration. However, the primary focus is on practical marketing techniques rather than a deep exploration of cultural elements that influence Agile practices. While there are mentions of fostering a culture of collaboration, the overall discussion lacks depth in addressing the broader implications of organisational culture on agility and transformation.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -1084,12 +1144,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:23:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content centers around Sprint reviews in Agile, which is a significant concept in software development, but primarily discusses stakeholder engagement and marketing aspects rather than direct software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses strategies for engaging stakeholders in Sprint reviews, which is a key aspect of Agile methodologies within the Software Development category. It directly addresses the challenges faced by product owners in securing stakeholder feedback, aligning well with Agile practices. However, while it touches on important themes like communication and feedback mechanisms, it lacks in-depth technical discussions or methodologies that would further solidify its classification as a primary focus on Software Development.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1111,12 +1174,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of engaging stakeholders during Sprint reviews and emphasizes the importance of feedback, which is a significant aspect of Scrum practices. However, it primarily focuses on the marketing aspect rather than Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses strategies for improving stakeholder engagement during Sprint reviews, which is a key aspect of Scrum product development. It directly addresses the role of the Product Owner in facilitating these reviews and highlights the importance of stakeholder feedback, aligning well with Scrum principles. However, while it provides practical strategies, it lacks a deeper exploration of the Scrum framework and its roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1147,12 +1213,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint reviews, which are an important Agile practice, and highlights the need for stakeholder engagement and feedback, making Agile principles a major theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses strategies for engaging stakeholders during Sprint reviews, which is a key aspect of Agile Planning. It touches on the importance of communication, creating a safe space for feedback, and pre-review engagement, all of which align with Agile principles. However, while it provides practical advice, it lacks a deeper exploration of Agile methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1192,11 +1261,14 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses engaging stakeholders to secure feedback during Sprint reviews, which is relevant to product validation, but it primarily frames it as a marketing issue rather than focusing on validation methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders during Sprint reviews, which indirectly relates to gathering feedback and validating product ideas. However, the primary focus is on marketing and communication strategies rather than direct methodologies for product validation. While it touches on the importance of feedback, it lacks depth in exploring user testing, market fit, or evidence-based management, which are core themes of product validation.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -1273,12 +1345,15 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenge of stakeholder engagement during Sprint Reviews, which is a significant theme. However, it also touches on broader marketing issues and emotional engagement, making it a secondary rather than primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:24:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 4,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on strategies to engage stakeholders during Sprint Reviews, directly addressing the challenges faced in securing attendance and meaningful feedback. It discusses the importance of stakeholder participation, the role of effective communication, and techniques to foster an open dialogue, all of which align closely with the core themes of the Sprint Review. The depth of discussion is substantial, providing actionable insights and specific strategies, which further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -1309,12 +1384,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the practical challenge of engaging stakeholders in Sprint reviews, discussing issues related to collaboration and feedback, relevant in Agile contexts. However, it leans more towards marketing issues rather than demonstrating clear pragmatic thinking strategies or techniques.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for engaging stakeholders in Sprint reviews, which aligns with pragmatic thinking in Agile contexts. It provides actionable techniques for improving stakeholder participation and feedback, demonstrating a real-world application of Agile principles. However, while it touches on the importance of communication and engagement, it lacks a deeper exploration of complex problem-solving or case studies that would further enhance its alignment with the category.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1345,12 +1423,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Sprint Reviews and stakeholder engagement, which are relevant to the Scrum process and the role of the Scrum Master, but it primarily focuses on marketing challenges instead of Scrum Master responsibilities.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies for improving stakeholder engagement during Sprint reviews, which is a Scrum ceremony. However, it primarily focuses on the role of the Product Owner rather than the Scrum Master. While it touches on aspects relevant to the Scrum Master's responsibilities, such as facilitating discussions and fostering collaboration, the emphasis is not on the Scrum Master role itself. Therefore, while there is some alignment with the category, it is not the primary focus.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1372,12 +1453,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:24:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement during Sprint reviews, which relates to obtaining feedback that can influence future Increments, but it primarily focuses on marketing aspects rather than the delivery of Increment itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies for engaging stakeholders during Sprint reviews, which is directly related to the Increment concept in Agile. It highlights the importance of stakeholder feedback in refining the product, aligning with the Increment's role in delivering value. However, while it touches on the significance of the Increment, the primary focus is on stakeholder engagement rather than the Increment itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -1399,12 +1483,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T15:05:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engaging stakeholders and soliciting feedback during Sprint reviews, which relates to team communication and collaboration efforts, though it also diverges into marketing issues.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:24:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on enhancing stakeholder engagement during Sprint reviews, which is a crucial aspect of team collaboration within Agile frameworks. It discusses techniques for improving communication, creating a safe space for feedback, and fostering a culture of collaboration, all of which align closely with the core themes of the category. The depth of discussion is substantial, providing actionable strategies and insights that contribute to effective teamwork. Overall, the content strongly aligns with the principles of Team Collaboration.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",

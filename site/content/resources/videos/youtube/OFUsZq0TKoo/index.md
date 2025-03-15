@@ -30,8 +30,8 @@ tags:
 - Pragmatic Thinking
 - Lean Product Development
 - People and Process
-- Continuous Learning
 - Organisational Agility
+- Continuous Learning
 - Hypothesis Driven Development
 - Agile Product Management
 sitemap:

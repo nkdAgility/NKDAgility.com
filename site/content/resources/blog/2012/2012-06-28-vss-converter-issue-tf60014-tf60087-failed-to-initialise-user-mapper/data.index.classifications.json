@@ -286,7 +286,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T18:44:21",
+    "calculated_at": "2025-03-15T05:54:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses an issue related to the VSSConverter tool, which is associated with Team Foundation Server (TFS), a component of Azure DevOps. However, the focus is primarily on a specific error message and its workaround rather than a broader discussion of Azure DevOps functionalities or best practices. While it mentions TFS, it does not delve into the core themes of Azure DevOps, such as CI/CD pipelines or agile project management, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1300,7 +1300,7 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-11T16:54:31",
+    "calculated_at": "2025-03-15T05:54:57",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -1308,7 +1308,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and user mapping during a VSS to TFS import, which is relevant to Azure Repos as TFS is part of the Azure DevOps suite. However, the focus is primarily on a specific error and workaround rather than a broader discussion of Azure Repos functionalities, best practices, or integration. The mention of user permissions aligns with security management in Azure Repos, but the overall depth and breadth of the discussion do not fully encompass the key topics outlined for the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

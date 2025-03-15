@@ -22,10 +22,8 @@ aliasesArchive:
 - /blog/yorkhill-ice-bucket-challenge
 - /yorkhill-ice-bucket-challenge
 - /resources/blog/yorkhill-ice-bucket-challenge
-tags:
-- Personal
-categories:
-- Scrum
+tags: []
+categories: []
 preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---

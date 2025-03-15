@@ -30,10 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Flow Efficiency
 - Transparency
 - Operational Practices
+- Agile Frameworks
+- Flow Efficiency
+- Agile Project Management
+- Software Development
+- Pragmatic Thinking
+- Throughput
+- Continuous Learning
 - Practical Techniques and Tooling
 resourceTypes:
 - video

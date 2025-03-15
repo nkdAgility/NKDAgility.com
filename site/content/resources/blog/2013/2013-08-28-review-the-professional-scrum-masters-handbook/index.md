@@ -8,7 +8,7 @@ ResourceImportId: 9967
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-28
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,11 +31,6 @@ tags:
 - News and Reviews
 - Agile Project Management
 - Software Development
-- Agile Frameworks
-- Scrum Master
-- Scrum Team
-- People and Process
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

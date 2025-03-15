@@ -130,12 +130,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T17:24:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done, which is a key concept in Agile and Scrum frameworks related to ensuring that software increments meet quality standards. However, it does not primarily focus on the delivery of functional software or customer value, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions the concept of 'Definition of Done', which is relevant to working software, but lacks detailed discussion on its implications for delivering functional software. While it aligns with the Agile framework, the depth of exploration into how it ensures quality and meets customer needs is minimal.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -340,12 +343,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T17:24:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done, which is a key concept in Agile methodologies, particularly in Scrum. However, it lacks depth in software development practices and focuses more on the exercise structure rather than detailed methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the 'Definition of Done', which is a key concept in Agile methodologies, particularly in Scrum. It outlines a structured approach to understanding what constitutes a completed increment of work, aligning with best practices in software development. However, the content lacks depth and detail on broader software development practices, focusing primarily on a specific exercise without extensive discussion on related methodologies or frameworks.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -511,12 +517,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T17:24:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:17",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Definition of Done, which is related to the concept of an Increment in Agile, particularly in ensuring that increments are complete and meet quality standards. However, the primary focus appears to be on the Definition of Done rather than the Increment itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and includes a specific exercise on how 'Done' relates to an increment, indicating a direct mention of the Increment concept. However, the overall focus is more on the DoD rather than a comprehensive exploration of Increments in Agile. The alignment with core themes is moderate, as it touches on the importance of defining what constitutes a completed increment, but lacks depth in discussing best practices or measuring value delivered by increments.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -574,7 +583,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T00:20:32",
+    "calculated_at": "2025-03-14T17:46:14",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -582,7 +591,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions the concept of 'Definition of Done', which is relevant to Agile Project Management, particularly in the context of Scrum. However, it lacks detailed discussion on agile principles, frameworks, or methodologies, and does not explore the broader themes of agile project management. The focus is more on a specific exercise rather than a comprehensive exploration of agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -748,12 +757,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T17:24:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:19",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done, which is a key aspect of Scrum practices, but it does not provide a comprehensive exploration of Scrum product development as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the Definition of Done, which is a relevant concept in Scrum, but lacks detailed discussion on Scrum roles, processes, or product development practices. It does not provide sufficient depth or explicit alignment with the core themes of Scrum Product Development.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -901,12 +913,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T17:24:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done, which is relevant to Scrum practices, but it does not primarily focus on Scrum Team dynamics or roles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Definition of Done, which is a Scrum artefact, but does not delve into the roles, collaboration, or dynamics of a Scrum Team. The focus is more on the exercise and teaching aspects rather than team interactions or responsibilities.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1090,7 +1105,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-06T14:47:21",
+    "calculated_at": "2025-03-14T17:46:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1098,7 +1113,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the concept of 'Definition of Done', which is relevant to product delivery as it relates to ensuring that increments meet quality standards. However, it lacks detailed discussion on methodologies, practices, or the end-to-end process of delivering software products. The focus is more on a specific exercise rather than a comprehensive exploration of product delivery principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1147,12 +1162,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T17:24:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done, which is a key aspect of Agile methodologies, but it does not delve into specific tools or practical techniques for implementation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the concept of 'Definition of Done' but lacks detailed exploration of practical techniques or tooling related to Agile or DevOps. It does not provide specific methodologies, tools, or frameworks that enhance practices, nor does it delve into implementation strategies or case studies. The focus appears to be more on the concept itself rather than its practical application.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1264,7 +1282,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T17:53:09",
+    "calculated_at": "2025-03-14T17:46:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1272,7 +1290,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the Definition of Done, which is a concept relevant to Agile methodologies, but it lacks a detailed discussion on team dynamics, collaboration, or the human factors involved in the process. While it touches on an exercise related to the Definition of Done, it does not explore the interplay between people and processes in depth, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1339,7 +1357,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-06T14:47:19",
+    "calculated_at": "2025-03-14T17:46:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1347,7 +1365,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the concept of 'Definition of Done', which is relevant to Scrum practices, but lacks detailed discussion on Scrum roles, events, or the broader themes of collaboration and continuous improvement. The focus is more on the structure of a session rather than the principles of Social Technologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

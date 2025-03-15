@@ -38,7 +38,6 @@ tags:
 - Product Strategy
 - Strategy
 - Pragmatic Thinking
-- Agile Product Operating Model
 - Strategic Goals
 resourceTypes:
 - video

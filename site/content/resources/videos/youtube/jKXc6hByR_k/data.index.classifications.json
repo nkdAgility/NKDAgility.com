@@ -55,12 +55,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses maximising return on investment and delivering high-quality products, which aligns with Lean principles. However, it primarily focuses on organisational advice and does not delve deeply into Lean methodologies or waste reduction techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:54:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses maximising ROI in software development, which touches on value delivery and quality but lacks explicit references to Lean principles or waste reduction. While it mentions investing in quality and conducting regular reviews, it does not delve into Lean techniques or customer feedback mechanisms, which are central to Lean Product Development. The focus is more on general software development practices rather than a dedicated exploration of Lean methodologies.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -172,11 +175,14 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses maximising return on investment and budgeting across engineering practices, which relates to portfolio management, but it primarily focuses on team-level practices and quality of work rather than strategic alignment and management of a portfolio of projects.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses maximising ROI in software development, which touches on aspects of value optimisation and investment prioritisation. However, it primarily focuses on quality and technical expertise rather than the broader strategic alignment and management of a portfolio of projects. While there are mentions of aligning software quality with business goals, the depth of discussion on portfolio management practices and frameworks is limited.",
     "level": "Tertiary"
   },
   "Scrum Master": {
@@ -226,16 +232,19 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maximising return on investment and understanding the quality of work, which aligns with some principles of Evidence-Based Management, but it primarily focuses on organisational delivery and technical expertise rather than empirical evidence and data-driven decision-making.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses maximising ROI in software development and touches on the importance of quality and technical expertise, which aligns with some principles of Evidence-Based Management. However, it lacks explicit references to empirical evidence, metrics, or structured decision-making processes that are central to EBM. The discussion is more focused on general best practices rather than a deep exploration of evidence-based approaches.",
     "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-07T12:44:03",
+    "calculated_at": "2025-03-14T16:54:08",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -243,7 +252,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses maximising ROI in software development and the importance of quality and expertise in building teams and products. While it touches on organisational aspects and leadership roles, it primarily focuses on technical practices and investment strategies rather than the core themes of organisational change, such as Agile transformation or change management frameworks. The discussion lacks depth in addressing methodologies for organisational change, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -301,7 +310,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:16:19",
+    "calculated_at": "2025-03-14T16:54:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -309,7 +318,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses maximising ROI in software development, focusing on quality and technical expertise, which are important for Agile leadership. However, it lacks direct references to Agile leadership principles and does not delve deeply into leadership roles or practices within an Agile context. The emphasis is more on technical execution and investment strategies rather than on fostering a culture of adaptability, empowerment, or continuous improvement typical of Agile leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -403,12 +412,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of quality in software products and the role of technical expertise in maximising return on investment, which relates to software development practices, but it primarily focuses on business management and organisational strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:54:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of software development, including the importance of quality, technical expertise, and methodologies like hypothesis-driven practices. It provides actionable insights that align closely with core themes of the Software Development category, such as investing in quality and conducting regular reviews. The depth of discussion is significant, as it elaborates on how to maximise ROI through effective software development practices, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -469,30 +481,39 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of maximising return on investment and quality in software delivery, which aligns with operational efficiency themes, but it primarily focuses on broader organisational strategies rather than specific operational practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses strategies for maximising ROI in software development, which indirectly relates to operational practices by emphasising quality, regular reviews, and fostering technical expertise. However, it lacks a direct focus on specific operational methodologies like Agile or Lean, and while it touches on relevant themes, it does not delve deeply into process optimisation or continuous improvement techniques.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of decision-making related to maximising return on investment and understanding which features to prioritise, but it is primarily focused on coaching and advising rather than structured decision-making methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses maximising ROI in software development, which touches on decision-making aspects like investing in quality and conducting regular reviews. However, it lacks explicit discussions on structured methodologies or evidence-based practices, making it more of a general business strategy piece rather than a focused discussion on decision-making.",
     "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering high-quality software and maximising return on investment, which aligns with the theme of working software, but it primarily focuses on organisational practices and leadership rather than the direct delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering high-quality software and maximising ROI, which aligns with the core themes of working software. However, it lacks direct mentions of Agile or Scrum principles and does not delve deeply into specific practices or metrics for assessing software quality.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -559,7 +580,7 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-03-10T13:52:13",
+    "calculated_at": "2025-03-14T16:54:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -567,7 +588,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses maximising return on investment (ROI) and the importance of quality in software development, which indirectly relates to productivity and financial efficiency. However, it does not explicitly mention revenue per employee or provide a focused analysis on this metric. The discussion is more about general investment in software and quality rather than a specific examination of revenue generated per employee.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -634,12 +655,15 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding hypothesis-driven practices and making informed decisions about features and budgeting, indicating a secondary theme related to hypothesis-driven development.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:54:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions 'hypothesis-driven practices' as part of a broader discussion on maximising ROI in software development. While it aligns with the category's focus on experimentation and informed decision-making, the overall emphasis is more on quality and investment rather than detailed exploration of hypothesis formulation, experimentation, or data analysis. Therefore, while there is some relevant content, it does not serve as a primary focus.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -721,21 +745,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of maximising return on investment and understanding feature prioritisation, which are relevant to product strategy, but it primarily focuses on team dynamics and technical expertise rather than a clear product vision or roadmap.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses maximising ROI in software development, which touches on aspects of product strategy such as quality investment and aligning software products with business goals. However, it primarily focuses on technical execution and team dynamics rather than explicitly outlining methodologies or frameworks for product strategy. While there are mentions of strategic insights, the depth of discussion on product vision and roadmapping is limited.",
     "level": "Tertiary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding context and making informed decisions regarding investment and quality in software development, which relates to sensemaking, but it primarily focuses on project management and delivery rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding context and quality in software development, which relates to sensemaking. However, it primarily focuses on maximising ROI and technical expertise rather than explicitly exploring sensemaking principles or frameworks. The discussion lacks depth in terms of sensemaking techniques or leadership roles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -817,11 +847,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses maximising return on investment and the importance of quality in software products, which relates to digital transformation, but it primarily focuses on team dynamics and engineering practices rather than strategic adoption of digital technologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses maximising ROI in software development, which touches on aspects of digital transformation, such as investing in quality and fostering technical expertise. However, it lacks a direct focus on the strategic adoption of digital technologies or comprehensive discussions on how these practices enhance business agility or innovation. The mention of hypothesis-driven practices and the importance of technical expertise aligns somewhat with digital transformation themes, but the overall depth and explicit focus on digital transformation are limited.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -862,7 +895,7 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-13T16:27:41",
+    "calculated_at": "2025-03-14T16:54:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -870,7 +903,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses maximising ROI in software development and touches on the importance of quality and technical expertise, which are relevant to evidence-based leadership. However, it lacks direct references to empirical evidence or structured decision-making processes. While it mentions hypothesis-driven practices, it does not delve deeply into how data informs leadership decisions or organisational improvements, which are core themes of evidence-based leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -931,21 +964,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses coaching in the context of advising teams and leadership on maximising return on investment and quality in software delivery, making coaching a significant theme, but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions coaching in the context of maximising ROI in software development, but it primarily focuses on quality assurance and technical expertise rather than the collaborative and supportive nature of coaching. While there are elements that align with coaching principles, such as fostering technical expertise and conducting regular reviews, the depth of discussion on coaching techniques and team dynamics is limited.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses organisational dynamics and the importance of understanding relationships within teams and leadership roles, but it primarily focuses on delivery and investment rather than systems thinking principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of understanding the context in which teams operate and the need for technical expertise, which aligns with systems thinking principles. However, it primarily focuses on maximising ROI and quality in software development rather than explicitly addressing organisational dynamics or systems thinking in depth. The mention of organisational assets and the interplay between technical and business aspects provides some alignment, but the overall discussion lacks a comprehensive exploration of organisational physics concepts.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1072,7 +1111,7 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-10T17:49:02",
+    "calculated_at": "2025-03-14T16:54:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1080,7 +1119,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses maximising return on investment (ROI) in software development, which touches on decision-making processes related to budgeting and feature selection. However, it lacks explicit references to decision theory concepts such as heuristics, biases, or frameworks. While it aligns with the idea of making informed choices in uncertain environments, the depth of discussion on decision theory principles is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1093,20 +1132,26 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses maximising return on investment and understanding the quality of work in software development, which relates to market adaptability but is primarily focused on general business management and investment strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses maximising ROI in software development, which indirectly relates to market adaptability through the emphasis on quality and technical expertise. However, it lacks explicit discussions on Agile methodologies, DevOps practices, or Lean principles that are central to the category. The focus is more on general business management and investment strategies rather than specific practices that enhance market responsiveness.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between organisational structures, team dynamics, and the importance of understanding technical practices in delivering value, indicating a major but secondary theme related to sociotechnical systems.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding the context in which teams operate and the interplay between technical expertise and business objectives, which aligns with sociotechnical principles. However, it primarily focuses on maximising ROI and quality in software development without deeply exploring the organisational structures or team dynamics that influence these aspects. The mention of fostering technical expertise and aligning with business goals indicates some relevance, but the depth of discussion on sociotechnical interactions is moderate.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -1120,21 +1165,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of organisational value delivery and investment maximisation, which are related to agility, but it primarily focuses on project delivery and quality rather than the core principles of organisational agility.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses maximising ROI in software development with a focus on quality and expertise, which indirectly relates to organisational agility. However, it lacks explicit discussions on agile methodologies, leadership roles in fostering agility, or cultural shifts necessary for agility. The mention of hypothesis-driven practices and the importance of technical expertise aligns somewhat with agile principles, but the overall depth and focus on organisational agility are limited.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding relationships and interdependencies within an organisation to maximise return on investment, which aligns with Systems Thinking principles. However, it primarily focuses on delivery and quality in software development rather than a comprehensive exploration of Systems Thinking.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding the context in software development and the interconnectedness of quality, investment, and technical expertise. However, it primarily focuses on maximising ROI and does not explicitly mention Systems Thinking principles or techniques. The discussion lacks depth in exploring holistic analysis or feedback loops, which are central to Systems Thinking.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1234,12 +1285,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses maximising value and return on investment, which aligns with Lean principles, but it primarily focuses on software delivery and organisational roles rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses maximising ROI and quality in software development, which aligns with Lean principles of value creation. However, it primarily focuses on investment and quality assurance rather than Lean methodologies or waste reduction. The mention of 'maximising value' is present but not deeply explored in the context of Lean practices. Overall, while there are relevant themes, the content does not primarily focus on Lean strategies.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1291,16 +1345,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses maximising return on investment and delivering value, which are relevant to Value Stream Management, but it primarily focuses on general organisational practices and software quality rather than specific value stream techniques or principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses maximising ROI in software development, which touches on value delivery but lacks a direct focus on Value Stream Management principles. While it mentions the importance of quality and technical expertise, it does not delve into mapping or analysing value streams, nor does it address waste elimination or continuous improvement practices explicitly. The discussion is more aligned with general project management and investment strategies rather than the specific methodologies and metrics associated with Value Stream Management.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T13:06:01",
+    "calculated_at": "2025-03-14T16:54:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1308,7 +1365,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses maximising return on investment and the importance of quality in software development, which are relevant to enterprise agility. However, it primarily focuses on team-level practices and individual roles rather than organisational structures or broader agility frameworks. While there are mentions of leadership and organisational context, the depth of discussion does not fully align with the core themes of enterprise agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1408,11 +1465,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:58:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:54:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses maximising return on investment and quality in software development, which aligns with value delivery principles in the Agile Product Operating Model, but it primarily focuses on broader organisational strategies rather than specifically on Agile methodologies or product-centric approaches.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses maximising ROI in software development and emphasises the importance of quality and technical expertise, which aligns with the Agile Product Operating Model's focus on value delivery. However, it lacks direct references to Agile principles, product-centric development, or specific Agile methodologies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -1459,7 +1519,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:39:27",
+    "calculated_at": "2025-03-14T16:54:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1467,6 +1527,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses maximising return on investment in software development, which is tangentially related to Scrum principles of delivering value. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its implementation. The focus is more on general software quality and investment rather than specific Scrum practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

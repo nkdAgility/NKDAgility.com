@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/envisioning-vs-provisioning
 - /envisioning-vs-provisioning
 - /resources/blog/envisioning-vs-provisioning
-tags:
-- Software Development
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

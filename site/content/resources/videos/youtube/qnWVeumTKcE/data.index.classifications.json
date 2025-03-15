@@ -100,7 +100,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-07T14:20:21",
+    "calculated_at": "2025-03-15T02:23:20",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -108,7 +108,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content includes a link to a YouTube video, which may imply a presentation or event. However, it lacks explicit discussion of the event's details, such as the context of the presentation, the speakers involved, or the insights shared. The mention of 'PSM Training' suggests a connection to a training event, but without further elaboration, it does not sufficiently align with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1390,7 +1390,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:29:40",
+    "calculated_at": "2025-03-15T02:23:20",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1398,6 +1398,6 @@
     "non_ai_confidence": 30,
     "final_score": 16.0,
     "reasoning": "The content title mentions 'PSM Training from Scrum.org', indicating a connection to Scrum. However, the actual content provided is minimal and lacks any substantial discussion on Scrum principles, roles, events, or practices. The link to a video does not provide enough context or detail to significantly align with the Scrum category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

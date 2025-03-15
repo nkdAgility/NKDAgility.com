@@ -26,16 +26,16 @@ preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false
 tags:
-- Agile Product Management
-- People and Process
-- Pragmatic Thinking
-- Agile Project Management
-- Scrum Product Development
-- Team Performance
-- Agile Frameworks
 - Agile Planning
+- Agile Product Management
+- Agile Project Management
 - Product Delivery
-- Software Development
+- Scrum Product Development
+- Agile Frameworks
+- Pragmatic Thinking
+- Strategy
+- Agile Planning Tools
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

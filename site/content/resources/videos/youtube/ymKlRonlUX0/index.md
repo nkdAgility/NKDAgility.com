@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Empirical Process Control
 - Agile Planning
+- Agile Values and Principles
 - Agile Philosophy
 - Pragmatic Thinking
 - Software Development

@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- Azure DevOps
 categories: []
 preview: metro-binary-vb-128-link-2-2.png
 

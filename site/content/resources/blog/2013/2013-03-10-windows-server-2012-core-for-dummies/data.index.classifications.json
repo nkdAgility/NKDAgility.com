@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:09:53",
+    "calculated_at": "2025-03-15T05:23:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, which is more aligned with system administration than DevOps practices. While it touches on aspects like remote management and firewall configuration, it lacks a strong emphasis on DevOps principles such as Continuous Integration, Continuous Delivery, or collaboration between development and operations teams. The mention of Team Foundation Server (TFS) at the end hints at a connection to DevOps, but it is not the main focus of the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T16:51:04",
+    "calculated_at": "2025-03-15T05:23:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on practical steps for setting up and managing Windows Server 2012 Core, which includes command-line operations and configurations. While it touches on technical aspects, such as remote management and firewall settings, it lacks a deeper exploration of engineering practices or methodologies that enhance agility in software development. The discussion does not explicitly mention concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are relevant technical details, they do not align closely enough with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -595,12 +595,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:23:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up and managing Windows Server 2012 Core, with references to Team Foundation Server (TFS), which relates to software development environments. However, the primary focus is on server management rather than software development practices themselves.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, which is relevant to software development in the context of server management and deployment. It discusses command-line operations, remote management, and server roles, which are important for developers working with server environments. However, the discussion lacks depth in software development methodologies or practices, and while it mentions Team Foundation Server (TFS), it does not delve into development processes or best practices. Therefore, while it aligns with the category, it does so in a limited capacity.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -793,7 +796,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T15:01:07",
+    "calculated_at": "2025-03-15T05:23:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -801,7 +804,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides practical guidance on setting up and managing Windows Server 2012 Core, which aligns with pragmatic thinking in terms of real-world applications and problem-solving strategies. However, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, and the discussion is primarily technical rather than strategic, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

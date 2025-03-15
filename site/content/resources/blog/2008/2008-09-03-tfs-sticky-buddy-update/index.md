@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/tfs-sticky-buddy-update
 - /tfs-sticky-buddy-update
 - /resources/blog/tfs-sticky-buddy-update
-tags:
-- Troubleshooting
+tags: []
 preview: metro-aggreko-128-link-1-1.png
 categories: []
 

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to Team Foundation Server and provides a solution involving an upgrade, which aligns with practical tooling. However, the primary focus is on a specific error rather than a broader exploration of techniques or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and provides a solution involving an upgrade to a newer version. While it touches on a practical tool (TFS) and mentions a specific version update as a solution, the discussion lacks depth in exploring methodologies or frameworks that enhance Agile or DevOps practices. The focus is primarily on troubleshooting a specific error rather than a broader exploration of practical techniques or tooling.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -343,21 +346,27 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to Team Foundation Server and mentions a bug fix in a newer version, which aligns with updates in technology. However, the primary focus is on troubleshooting rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and provides a solution for a specific bug. While it mentions an update (2012.3) that resolves the issue, the focus is more on troubleshooting rather than providing a broader industry news or review context. The mention of a bug fix aligns somewhat with the category, but the depth of discussion is more technical than evaluative or trend-focused, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS) and its updates, which are part of the application lifecycle management process, particularly in the context of deployment and maintenance. However, the primary focus is on a specific error and its resolution rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and a bug fix in a particular version. While it touches on aspects of application maintenance and deployment, it lacks a comprehensive discussion on the broader application lifecycle management principles, such as governance, best practices, or integration of methodologies like Agile and DevOps. The focus is primarily on a technical issue rather than the overall management of the application lifecycle.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -586,12 +595,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses an issue related to Team Foundation Server (TFS), which is relevant to software development processes, particularly in version control and project management. However, it primarily focuses on a specific bug and resolution rather than broader software development practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS), which is a tool used in software development for version control and project management. It mentions a bug and its resolution, which aligns with software development practices. However, the discussion is primarily focused on a specific error and its solution rather than broader software development methodologies or practices. Therefore, while it is relevant, it lacks depth and broader conceptual alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -685,7 +697,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T14:59:25",
+    "calculated_at": "2025-03-15T05:09:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -693,7 +705,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions a software update (2012.3) that resolves a bug, which aligns with the concept of frequent releases. However, the primary focus is on a specific error and its resolution rather than a broader discussion on release practices, automation, or continuous delivery principles. The depth of discussion on frequent releases is minimal, primarily highlighting a single update without exploring related strategies or metrics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -787,7 +799,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:38:51",
+    "calculated_at": "2025-03-15T05:09:10",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -795,7 +807,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses a specific issue related to Team Foundation Server and provides a practical solution to a problem encountered in a real-world scenario. However, while it touches on problem-solving and the application of a fix, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The focus is more on a specific technical issue rather than a comprehensive exploration of pragmatic approaches in project management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -871,11 +883,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:17",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a bug related to a specific version of Team Foundation Server and its fix, which relates to the functionality and operation of software, but it does not focus on broader themes of working software or customer requirements.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and provides a solution that involves upgrading to a newer version to resolve a bug. While it touches on the operational aspect of software and mentions a fix that leads to improved functionality, it lacks a broader discussion on working software principles, customer value, or best practices. The focus is primarily on a technical issue rather than the delivery of functional software that meets user needs.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {

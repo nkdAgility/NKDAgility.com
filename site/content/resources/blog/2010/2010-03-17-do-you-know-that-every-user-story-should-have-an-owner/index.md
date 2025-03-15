@@ -8,7 +8,7 @@ ResourceImportId: 61
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-17
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,8 @@ aliasesArchive:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
-- Software Development
 - People and Process
-- Agile Project Management
-- Scrum Product Development
-- Agile Product Management
-- Accountability
-- Pragmatic Thinking
-- Scrum Team
-- Team Collaboration
-- Team Performance
+- Software Development
 categories:
 - Social Technologies
 - Scrum

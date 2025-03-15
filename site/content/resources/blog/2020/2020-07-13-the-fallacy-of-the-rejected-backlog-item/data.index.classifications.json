@@ -1,12 +1,15 @@
 {
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of product development, particularly around the roles and responsibilities within a Scrum framework, which aligns with Lean principles of continuous learning and value delivery. However, it primarily focuses on Scrum processes rather than explicitly addressing Lean Product Development principles or waste reduction techniques.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of the Product Owner in managing backlog items, which is more aligned with Agile methodologies than Lean Product Development. While there are elements of learning and feedback, the focus is not on minimising waste or optimising processes in the context of Lean principles. The discussion lacks explicit references to Lean techniques or frameworks, and the depth of Lean-related content is minimal.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -199,12 +202,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of the Sprint Goal and the accountability of the Development Team, which relates to the values of Commitment and Focus. However, the primary focus is on the concept of rejecting backlog items and the implications of that misunderstanding, making Scrum Values a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of the Sprint Goal and the accountability of the Development Team, which aligns with the Scrum Values of Commitment and Focus. However, while it touches on these values, the primary focus is on the mechanics of the Sprint Review and the implications of rejecting backlog items, rather than a thorough exploration of the Scrum Values themselves. The depth of discussion on the values is moderate, but it does not provide a comprehensive analysis of all five Scrum Values.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -295,12 +301,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of rejecting backlog items in Scrum, touching on technical debt and the importance of quality in software delivery. However, the primary focus is on Scrum roles and processes rather than technical practices or software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the implications of rejecting backlog items in Scrum, touching on aspects of software quality and technical debt. However, it primarily focuses on Scrum processes and team dynamics rather than deep technical practices or methodologies that contribute to software craftsmanship. While it does mention the importance of quality and the interconnectedness of code, the discussion lacks depth in technical principles and best practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -349,11 +358,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-13T22:36:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the responsibilities and challenges faced by the Product Owner, particularly in relation to backlog management and stakeholder engagement during the Sprint Review. It addresses the misconceptions about rejecting backlog items and emphasises the importance of collaboration and communication between the Product Owner and the Development Team.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of the Product Owner, particularly in the context of the Sprint Review and backlog management. It highlights the responsibilities of the Product Owner in maximising value delivery and engaging with stakeholders. The depth of discussion is significant, covering various aspects such as the implications of rejecting backlog items, the importance of communication, and strategies for effective backlog management. Overall, the content aligns well with the key topics outlined for the Product Owner category.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -367,11 +379,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-13T22:36:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the dynamics of teamwork within the Scrum framework, focusing on the roles of the Development Team and Product Owner, the importance of communication, and the collaborative nature of the Sprint Review process. It highlights how effective collaboration can lead to better understanding and outcomes, aligning well with the themes of team collaboration in Agile contexts.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the dynamics of the Scrum Team, particularly the collaboration between the Product Owner and the Development Team during the Sprint Review. It highlights the importance of communication and shared understanding, which are key aspects of team collaboration. However, while it touches on these themes, the primary focus is on the concept of backlog item rejection rather than a broader exploration of team collaboration techniques or culture. Therefore, while there is significant relevance, it does not fully meet the criteria for a primary focus on team collaboration.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -394,12 +409,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner and the Development Team in the context of Scrum, focusing on accountability, value delivery, and the importance of collaboration during the Sprint Review. While it touches on Agile principles, it primarily revolves around Scrum practices rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of the Product Owner and the Development Team in the context of Scrum, focusing on the implications of rejecting backlog items and the importance of delivering value. While it touches on Agile principles, such as transparency and adaptability, it primarily centres on technical practices and Scrum events rather than a broader Agile strategy. The discussion lacks a comprehensive exploration of strategic alignment or implementation at scale, which diminishes its relevance to the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -466,11 +484,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-13T22:36:45",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T02:58:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of the Scrum Team, particularly focusing on the interactions between the Product Owner and the Development Team during the Sprint Review. It explores team dynamics, accountability, and the importance of collaboration and communication within the Scrum framework.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the roles and responsibilities of the Scrum Team, particularly focusing on the interactions between the Product Owner and the Development Team during the Sprint Review. It highlights the importance of collaboration, communication, and the dynamics of accountability within the team. The depth of discussion is significant, covering various aspects of Scrum practices, including the implications of rejecting backlog items and the importance of transparency and feedback. Overall, the content aligns well with the key themes of the Scrum Team category.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -493,20 +514,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-13T22:36:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Development Team within the Scrum framework, focusing on accountability, quality, and collaboration with the Product Owner. It explores Agile principles and practices, particularly in the context of Sprint Reviews and backlog management, which are central to the role of software developers in Agile methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of the Development Team within the Scrum framework, focusing on the implications of backlog item management and the importance of collaboration between the Development Team and the Product Owner. It aligns well with Agile principles, particularly in terms of accountability, quality, and the iterative nature of software development. The depth of discussion on the Sprint Review process and the emphasis on communication and feedback further solidify its relevance to the Software Developers category.",
     "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-13T22:36:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Sprint Review process, including the roles of the Product Owner and Development Team, the importance of feedback, and how the review informs the Product Backlog. It addresses misconceptions about rejecting backlog items and emphasises the collaborative nature of the Sprint Review, aligning closely with the key topics outlined for this category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the Sprint Review, including its purpose, the roles of the Scrum Team and stakeholders, and the importance of feedback and transparency. It provides detailed insights into the process of inspecting the increment and adapting the product backlog, aligning closely with the key topics of the Sprint Review. The depth of discussion is significant, addressing common misconceptions and offering practical advice for effective Sprint Reviews.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -520,11 +547,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-13T22:36:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the concept of 'Done' in the context of Scrum, including the implications of meeting or not meeting the Definition of Done, and the accountability of the Development Team regarding quality. It also touches on the consequences of not being 'Done' and the importance of the Definition of Done in ensuring product quality and transparency.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the concept of 'Done' in relation to the Definition of Done, particularly in the context of accountability and quality expectations for the Development Team. It highlights the consequences of not meeting the Definition of Done and the importance of understanding what constitutes a 'Done' increment. However, while it touches on the Definition of Done, the primary focus is on the implications of rejecting backlog items and the dynamics of the Sprint Review, which detracts from a comprehensive exploration of the Definition of Done itself.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -538,11 +568,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-13T22:36:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum roles, responsibilities, and the importance of collaboration during the Sprint Review, which are central to Agile transformation practices.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the role of the Product Owner and the Development Team within the Scrum framework, focusing on the Sprint Review process and the implications of rejecting backlog items. It aligns well with Agile principles, particularly around transparency, inspection, and adaptation, which are core to Agile transformation. The depth of discussion is significant, providing insights into the responsibilities of team members and the importance of communication and collaboration in Agile practices. However, while it is deeply rooted in Scrum, it does not explicitly address broader Agile transformation strategies or change management, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "AI": {
@@ -592,11 +625,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-13T22:37:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:58:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of feedback and learning opportunities during the Sprint Review, highlighting the need for transparency, inspection, and adaptation. It touches on the learning aspects of Scrum practices, making Continuous Learning a significant theme, though it is not the primary focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of feedback and learning opportunities within the context of Scrum, particularly during the Sprint Review. It highlights how gaps between expectations and delivery can serve as learning points for the team, which aligns with the principles of Continuous Learning. However, the primary focus is on the mechanics of Scrum roles and events rather than a broader exploration of Continuous Learning practices, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -655,11 +691,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-13T22:37:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Scrum framework, focusing on the roles, responsibilities, and processes involved in Sprint Reviews, as well as the implications of rejecting backlog items. It provides insights into Scrum principles and practices, making it a central topic.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the Scrum framework, particularly focusing on the roles and responsibilities of the Product Owner and Development Team during the Sprint Review. It highlights key principles of Scrum, such as the importance of the Sprint Goal, the concept of 'Done', and the collaborative nature of the Sprint Review. The depth of discussion is significant, providing insights into the implications of rejecting backlog items and the importance of transparency and adaptation in Agile practices. Overall, the content aligns well with the core themes of Agile frameworks, particularly Scrum, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -775,29 +814,38 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-13T22:37:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of the Product Backlog in the context of Sprint Reviews, the responsibilities of the Product Owner, and the implications of backlog item management on team performance and delivery outcomes.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of the Product Backlog in the context of Sprint Reviews, emphasising the importance of backlog items and their interdependencies. It highlights the responsibilities of the Product Owner and the Development Team regarding backlog management, which aligns closely with the core themes of the Product Backlog category. The depth of discussion is significant, covering various aspects such as the implications of rejecting backlog items, the importance of transparency, and strategies for effective backlog management. Overall, the content is highly relevant and provides a thorough exploration of the Product Backlog's significance in Agile practices.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of rejecting backlog items and the importance of the Development Team's accountability for quality, which relates to engineering practices. However, the primary focus is on Scrum roles and processes rather than core engineering methodologies like clean code or TDD.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the implications of rejecting backlog items within the context of Agile practices, particularly Scrum. It highlights the importance of the Development Team's accountability for quality and the interconnectedness of backlog items, which aligns with the principles of clean code and the need for effective collaboration. While it does not delve deeply into specific engineering practices like TDD or CI/CD, it does touch on concepts such as Technical Debt and the importance of communication and flexibility in development, which are relevant to engineering practices. The depth of discussion is substantial, providing insights into the Scrum process and its impact on software quality, thus justifying a relatively high confidence score.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-13T22:37:46",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:58:46",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of the Product Owner and Development Team within the Scrum framework, particularly focusing on the Sprint Review process and the implications of rejecting backlog items. It aligns closely with Scrum principles and practices, making it a clear fit for the Professional Scrum category.",
+    "final_score": 84.0,
+    "reasoning": "The content provides a thorough exploration of the Scrum framework, particularly focusing on the roles of the Product Owner and Development Team during the Sprint Review. It discusses the implications of rejecting backlog items, the importance of the Sprint Goal, and the need for transparency and collaboration within the Scrum Team. The depth of discussion is significant, as it not only addresses the theoretical aspects of Scrum but also offers practical insights and strategies for effective implementation, aligning closely with the key topics outlined in the Professional Scrum category.",
     "level": "Primary"
   },
   "Acceptance Test Driven Development": {
@@ -829,11 +877,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-13T22:37:53",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:58:48",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities within the Scrum framework, particularly focusing on the Product Owner's role in managing the Product Backlog and the implications of rejecting backlog items. It elaborates on the Sprint Review process, the importance of the Sprint Goal, and the iterative nature of product development, aligning closely with key topics of Scrum Product Development.",
+    "final_score": 86.0,
+    "reasoning": "The content extensively discusses the roles and responsibilities within the Scrum framework, particularly focusing on the Product Owner and Development Team during the Sprint Review process. It highlights the importance of the Product Backlog, the concept of 'Done', and the iterative nature of product development, aligning closely with the key topics of Scrum Product Development. The depth of discussion is significant, providing insights into the implications of rejecting backlog items and the collaborative nature of Scrum events, thus demonstrating a strong alignment with the category.",
     "level": "Primary"
   },
   "Product Validation": {
@@ -856,12 +907,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-13T22:37:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the importance of transparency in the context of Scrum, particularly during the Sprint Review process. It highlights how transparency facilitates communication and understanding between the Scrum Team and stakeholders, and addresses the implications of rejecting backlog items on team dynamics and accountability.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the concept of transparency within the context of Agile methodologies, particularly focusing on the importance of clear communication and visibility during the Sprint Review process. It highlights how transparency facilitates collaboration and understanding between the Scrum Team and stakeholders, aligning well with the core themes of the category. The depth of discussion is significant, providing insights into the implications of transparency on accountability and the overall Agile process, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -874,11 +928,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-13T22:38:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the accountability of the Development Team and the Product Owner in the context of Scrum, particularly regarding the concept of 'Done' and the implications of rejecting backlog items. It highlights the importance of ownership and responsibility within the team dynamics, aligning well with the principles of accountability in Agile.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the concept of accountability extensively, particularly in relation to the Development Team's responsibility for quality and the implications of not meeting the Definition of Done. It highlights the distinction between accountability and blame, emphasising that gaps in delivery are learning opportunities rather than failures. The depth of discussion is significant, covering the roles of the Product Owner and Development Team, and the importance of collaboration and communication in fostering accountability. Overall, the content aligns well with the key topics of the Accountability category, making it a strong fit.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -901,30 +958,39 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T22:38:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:58:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in facilitating the Sprint Review process, the importance of collaboration between the Scrum Team and stakeholders, and the implications of backlog item management, which are central to the responsibilities of a Scrum Master.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Scrum Master indirectly by addressing the dynamics between the Product Owner and the Development Team during the Sprint Review. It highlights the importance of collaboration, communication, and the Scrum framework's principles, which are essential for a Scrum Master. However, it lacks direct references to the Scrum Master's responsibilities and practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of backlog item management within the Scrum framework, touching on accountability, quality, and the importance of communication and flexibility in the Development Team's processes. However, it primarily focuses on the theoretical aspects of Scrum roles and events rather than providing concrete operational practices or strategies for improving efficiency.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of rejecting backlog items and the importance of the Sprint Review in Scrum, which relates to operational practices in Agile. However, it primarily focuses on the theoretical aspects of Scrum roles and responsibilities rather than providing concrete techniques or strategies for improving operational efficiency. While it touches on concepts like transparency and communication, it lacks detailed discussions on process optimisation or metrics that would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T22:38:14",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:58:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses Scrum practices, specifically the implications of rejecting backlog items during the Sprint Review, which is a key aspect of Agile methodologies in software development. It addresses the roles of the Development Team and Product Owner, the importance of the Sprint Goal, and the impact on code quality and project management, all of which are central to software development practices.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Scrum practices, particularly the role of the Product Owner and the Development Team in the context of Sprint Reviews. It delves into the implications of rejecting backlog items, the importance of the Sprint Goal, and the interconnectedness of backlog items, all of which are core themes in software development methodologies. The depth of discussion is significant, providing detailed insights into Agile practices and the dynamics of team accountability, making it highly relevant to the Software Development category.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -964,47 +1030,62 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-13T22:38:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:59:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the concept of the Increment in Agile and Scrum, particularly focusing on the implications of delivering a 'DONE' Increment and the importance of feedback during the Sprint Review. It addresses the relationship between backlog items and the Increment, as well as the accountability of the Development Team and Product Owner in delivering value, which aligns closely with the key topics of the Increment category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the concept of the Increment within the context of Scrum, particularly focusing on the implications of delivering a 'DONE' Increment and the consequences of not achieving it. It highlights the importance of the Increment in delivering value, the role of the Sprint Review in inspecting the Increment, and the need for collaboration between the Scrum Team and stakeholders. The depth of discussion is significant, covering various aspects such as accountability, quality, and the relationship between backlog items and the Increment. Overall, the content aligns closely with the key topics of the Increment category.",
+    "level": "Primary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-13T22:38:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:59:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of backlog items in the context of Sprint Reviews, the importance of the Sprint Goal, and the implications of rejecting backlog items, all of which are central to Agile Planning principles and practices.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of the Product Owner, Development Team, and the importance of the Sprint Review in Agile Planning. It highlights key Agile principles such as transparency, inspection, and adaptation, which are central to Agile methodologies. The discussion on backlog items, the Sprint Goal, and the implications of rejecting backlog items aligns well with Agile Planning concepts. The depth of the discussion is significant, providing insights into team dynamics and the iterative nature of Agile processes, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of backlog item management and the importance of understanding delivery expectations, which relates to forecasting in Agile. However, the primary focus is on Scrum roles and events rather than specific forecasting methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implications of rejecting backlog items and the importance of understanding the interconnectedness of backlog items in relation to forecasting. It touches on the predictability of future sprints and the role of empirical data in assessing the quality of work done. However, while it mentions forecasting and its impact on delivery expectations, the primary focus is more on the Scrum process and team dynamics rather than on specific forecasting methodologies or practices. Therefore, it aligns moderately well with the category but does not delve deeply into forecasting techniques or empirical data usage.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-13T22:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:59:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within the context of Scrum, particularly focusing on the implications of rejecting backlog items and the importance of collaboration and communication between the Product Owner and the Development Team. It emphasises real-world applications of Agile principles and the necessity of adapting to complex project dynamics.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the practical implications of Scrum roles and the importance of understanding the interconnectedness of backlog items in achieving Sprint Goals. It emphasises real-world applications of Agile principles, particularly in navigating complexities during Sprint Reviews. The depth of discussion is significant, providing detailed insights into the consequences of rejecting backlog items and the importance of communication and flexibility in the Scrum process. Overall, it aligns well with the core themes of pragmatic thinking, focusing on practical problem-solving strategies and real-world applications.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-13T22:38:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:59:09",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the implications of not completing backlog items and how this can lead to an increase in technical debt, which is a significant theme. However, the primary focus is on Scrum roles and processes rather than a comprehensive exploration of technical debt management.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the implications of not completing backlog items and how this can lead to an increase in technical debt, which is a key aspect of the category. However, the primary focus is on Scrum processes and the roles of the Product Owner and Development Team rather than a deep exploration of technical debt management strategies or its long-term impacts. While technical debt is mentioned and its consequences are outlined, the overall discussion is more centred on Scrum practices and accountability rather than a thorough examination of technical debt itself.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -1147,12 +1228,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles and interactions within a Scrum team, particularly focusing on the relationship between the Product Owner and the Development Team, which touches on sociotechnical dynamics. However, the primary focus is on Scrum processes rather than a broader exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles and responsibilities within a Scrum team, particularly focusing on the interaction between the Product Owner and the Development Team. While it touches on aspects of team dynamics and communication, it primarily centres on technical processes and misunderstandings related to backlog management. The sociotechnical aspects are present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1252,12 +1336,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Scrum framework and the implications of backlog item management, which relates to Agile practices. However, it primarily focuses on philosophical aspects and misunderstandings rather than practical techniques or tooling. While it touches on concepts like feature flags and communication, these are not the central theme of the content.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of the Product Owner and Development Team in the context of Scrum, focusing on the implications of rejecting backlog items and the importance of collaboration and communication. While it touches on practical aspects of Agile practices, such as the Sprint Review and the use of feature flags, the primary focus is on the philosophical understanding of Scrum roles rather than a detailed exploration of specific tools or methodologies. Therefore, it aligns moderately with the category but lacks depth in practical techniques and tooling.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1336,11 +1423,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:59:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implications of rejecting backlog items in Scrum and how this affects code quality and technical debt, which are related to complexity in software development. However, the primary focus is on Scrum processes rather than a deep exploration of code quality principles or complexity theory.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the complexities of managing backlog items within the Scrum framework, highlighting the implications of rejecting items on code quality and technical debt. It touches on the interconnectedness of code and the importance of maintaining a cohesive codebase, which aligns with the themes of complexity in software development. However, the primary focus is on Scrum processes rather than a deep exploration of code quality principles or complexity theory, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {

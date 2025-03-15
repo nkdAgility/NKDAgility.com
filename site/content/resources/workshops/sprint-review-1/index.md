@@ -34,7 +34,7 @@ videos:
 - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
   embed: https://www.youtube.com/embed/1-W64WdSbF4
 date: 2024-09-17
-weight: 775
+weight: 675
 card:
   button:
     content: Learn More
@@ -43,16 +43,16 @@ card:
 categories:
 - Scrum
 tags:
-- Scrum Product Development
 - Sprint Review
+- Agile Project Management
+- Transparency
+- Scrum Product Development
 - People and Process
+- Professional Scrum
 - Agile Product Management
 - Product Delivery
 - Software Development
 - Team Performance
-- Empirical Process Control
-- Agile Planning
-- Transparency
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

@@ -193,7 +193,7 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-03-11T11:23:41",
+    "calculated_at": "2025-03-14T20:32:26",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -201,7 +201,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of patience in leadership and team dynamics, which can relate to fostering a culture of adaptability. However, it lacks explicit discussions on organisational resilience or change management practices. The mention of trust and avoiding a blame culture hints at resilience but does not delve into strategies or frameworks for change, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -409,7 +409,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T11:51:41",
+    "calculated_at": "2025-03-14T20:32:26",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -417,7 +417,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the role of product owners and the importance of patience in Agile teams, which relates to product management. However, it lacks detailed discussion on strategic alignment, methodologies, or frameworks that guide product managers. The focus is more on interpersonal dynamics rather than the core themes of product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -430,21 +430,27 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience in fostering trust and a blame-free culture, which indirectly supports the principles of Continuous Learning, particularly in relation to building trust and improving team dynamics. However, it does not primarily focus on Continuous Learning techniques or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:33:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, which indirectly supports the principles of Continuous Learning by emphasising trust, open communication, and a growth mindset. It mentions strategies for fostering a culture that encourages learning and development, aligning well with the core themes of the category. However, while it touches on relevant aspects, it does not explicitly focus on Continuous Learning as a primary topic, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content touches on concepts of trust and patience that can relate to leadership, it primarily focuses on the emotional and interpersonal aspects rather than solid empirical evidence, making evidence-based practices a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, focusing on trust, communication, and growth. However, it lacks direct references to evidence-based leadership principles, empirical data, or metrics that inform leadership decisions. While it touches on themes relevant to team dynamics and leadership, it does not provide a strong connection to evidence-based practices or decision-making frameworks.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -475,11 +481,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience in leadership and team dynamics within Agile environments, which relates to fostering a culture conducive to organisational change. However, it mostly focuses on interpersonal relationships rather than broad organisational change strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, which indirectly relates to organisational change by emphasising the need for a supportive culture and effective leadership. However, it primarily focuses on team dynamics and personal experiences rather than specific organisational change frameworks or methodologies. While it touches on relevant themes such as trust and communication, it lacks detailed exploration of structured change processes, which limits its depth in the context of organisational change.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -529,11 +538,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:33:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of patience in leadership and its impact on building trust and supporting Agile teams, making Agile leadership a primary focus.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of patience in Agile teams, highlighting how it fosters trust, supports growth, and avoids a blame culture. While it does not explicitly mention Agile leadership, it aligns with key themes such as building a culture of trust and collaboration, and it provides practical steps for leaders to cultivate patience. However, the primary focus is on patience rather than leadership roles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -556,11 +568,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Product Owners and discusses their need for patience, linking it to the broader theme of trust and team dynamics within Agile. However, it primarily focuses on the importance of patience rather than providing detailed insights into the specific responsibilities or practices of a Product Owner.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of patience in agile teams and mentions the role of the product owner in fostering trust and supporting team growth. However, it primarily focuses on general agile practices and team dynamics rather than specific responsibilities or techniques of the Product Owner. The mention of the Product Owner is limited and does not delve deeply into the core themes of the role, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lead Time": {
@@ -583,11 +598,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of patience in leadership and team dynamics, which directly relates to building trust and fostering a positive team environment essential for motivation within agile teams.",
+    "calculated_at": "2025-03-14T20:33:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of patience in fostering trust, avoiding blame culture, and supporting team growth, which are all key aspects of team motivation. It provides practical strategies for cultivating a culture of patience, aligning well with the core themes of team dynamics and motivation. The depth of discussion is substantial, offering detailed insights and actionable steps that enhance team engagement and collaboration.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -601,12 +619,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience in building trust within teams, which aligns with coaching principles, but it primarily emphasizes the need for leaders and product owners to exhibit patience rather than focusing on coaching techniques or methods.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of patience in fostering trust and collaboration within agile teams, which aligns with coaching principles. It mentions strategies for cultivating a supportive environment, but does not explicitly focus on coaching techniques or frameworks. The depth of discussion on coaching-related themes is moderate, with practical steps provided, but lacks comprehensive exploration of coaching methodologies.",
+    "level": "Secondary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -673,12 +694,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content emphasizes the importance of patience in interactions within Agile teams and touches on trust, it does not explicitly focus on mentoring relationships or provide coaching techniques, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of patience in Agile teams, which indirectly relates to mentoring by emphasising trust, communication, and support for team growth. However, it lacks direct references to mentoring techniques or the role of a mentor, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -700,30 +724,36 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience in fostering trust within teams, which is a significant aspect of team collaboration. However, it primarily emphasizes individual behaviors rather than specific team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:33:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the importance of patience in fostering trust and collaboration within Agile teams, which aligns well with the core themes of team dynamics and communication. It provides practical strategies for enhancing team collaboration, such as encouraging open communication and celebrating small wins. The depth of discussion is significant, as it explores the implications of patience on team performance and culture, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of trust and patience within teams, suggesting a connection to psychological safety, but it primarily focuses on the broader theme of cultivating patience rather than directly addressing psychological safety as the main topic.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of patience in fostering trust and avoiding a blame culture, which are key aspects of psychological safety. However, while it touches on these themes, the primary focus is on patience rather than psychological safety itself. The depth of discussion on related concepts is moderate, but it lacks a direct exploration of psychological safety as a standalone topic.",
     "level": "Tertiary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:35:17",
+    "calculated_at": "2025-03-14T20:32:26",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the importance of patience and trust in team dynamics, which contributes to a healthy environment for decision-making, but it does not primarily focus on the principles or frameworks of sensemaking in complex situations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -802,12 +832,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of trust and patience within teams, relevant to Scrum dynamics, but does not focus specifically on Scrum roles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:32:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of patience in Agile teams, touching on themes of trust, communication, and team dynamics, which are relevant to Scrum. However, it lacks direct references to specific Scrum roles or practices, making it more of a general Agile discussion rather than a focused exploration of Scrum Team dynamics.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -874,20 +907,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:56:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience within Agile teams and highlights the need for trust and a positive culture, which are relevant to change management principles. However, it does not primarily focus on change management strategies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of patience in Agile teams, which indirectly relates to change management by emphasising trust, collaboration, and a culture of learning. However, it does not explicitly focus on change management strategies or practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses patience in the context of fostering an environment of trust, it does not directly address the core Scrum Values. However, patience can be associated with respect and openness, making it a relevant but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, which indirectly relates to Scrum Values such as Openness and Respect. It mentions building trust and avoiding a blame culture, which aligns with the collaborative spirit of Scrum. However, it does not explicitly mention the Scrum Values themselves, and the focus on patience as a standalone concept detracts from a direct discussion of Scrum principles.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -1027,12 +1066,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of trust in Agile teams, which is related to transparency, but the primary focus is on patience and its role in team dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of trust and open communication, which are related to transparency, but it primarily focuses on patience as a virtue in Agile teams. While it mentions fostering an environment conducive to collaboration, it does not delve deeply into transparency as a primary theme, nor does it provide specific techniques or tools for promoting transparency.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1045,11 +1087,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the necessity of trust and the avoidance of a blame culture, which relates to accountability in Agile contexts. However, it primarily focuses on the need for patience rather than accountability as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of avoiding a blame culture and fostering trust, which aligns with accountability principles. It mentions accountability indirectly through the emphasis on patience and collaboration, but does not delve deeply into specific strategies for enhancing accountability within Agile frameworks. The focus is more on patience as a virtue rather than a direct exploration of accountability as a primary theme.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1108,21 +1153,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of patience in the context of Agile teams, touching on leadership, trust, and organizational culture, which are related to Agile principles. However, it is more focused on the implications of patience rather than an extensive discussion on Agile philosophy itself.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of patience within Agile teams, linking it to trust, collaboration, and a blame-free culture, which aligns well with Agile principles. It provides practical steps to cultivate patience, reflecting on the broader implications of Agile as a mindset. However, while it touches on Agile practices, it does not explicitly reference the Agile Manifesto or its principles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content touches on aspects of Agile practices and team dynamics relevant to software development, it primarily discusses the importance of patience and trust rather than specific software development techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of patience within agile teams, which aligns with Agile methodologies, a key topic in software development. It mentions practical steps to cultivate patience, which indirectly relates to team dynamics in software development. However, the focus is more on personal experiences and soft skills rather than technical practices or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1135,11 +1186,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of patience in fostering trust within agile teams, which aligns with the themes of team dynamics and collaboration. It highlights significant aspects of leadership support and the impact of team culture on performance.",
+    "calculated_at": "2025-03-14T20:32:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of patience in fostering trust and collaboration within agile teams, which aligns closely with the core themes of team performance. It provides practical strategies for cultivating patience, such as setting realistic expectations and encouraging open communication, which are essential for enhancing team dynamics. The depth of discussion is significant, as it explores the implications of patience on team morale and productivity, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Definition of Done": {
@@ -1180,39 +1234,48 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the need for patience in building trust and avoiding a blame culture, which aligns with Agile values of collaboration and team dynamics, but it is not primarily focused on core Agile principles or the Agile Manifesto.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of patience in Agile teams, which aligns with Agile values such as trust, collaboration, and continuous improvement. However, it does not explicitly mention the Agile Manifesto or its principles, leading to a lower score in direct mentions. The depth of discussion is moderate, focusing on practical steps to cultivate patience, but it lacks comprehensive exploration of Agile principles.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience in Agile teams, which relates to the role of software developers in Agile methodologies, but it does not primarily focus on specific Agile practices or the development process.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of patience within Agile teams, touching on themes of trust, collaboration, and team dynamics, which are relevant to software developers. However, it lacks direct mentions of specific Agile practices or tools, and the depth of discussion on the role of developers in Agile contexts is limited.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of patience for fostering trust within agile teams, aligning with themes of collaboration and respect for individuals in Agile Project Management, but does not focus directly on specific agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of patience within agile teams, touching on themes such as trust, collaboration, and the need for a supportive environment. While it does not explicitly mention agile frameworks like Scrum or Kanban, it aligns with agile principles by emphasising iterative growth and team dynamics. The depth of discussion is moderate, providing practical steps to cultivate patience, which indirectly supports agile methodologies. However, the lack of direct references to specific agile practices or roles limits the overall confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:35:17",
+    "calculated_at": "2025-03-14T20:32:26",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "While the content discusses patience within Agile teams, it does not explicitly focus on Agile Planning principles, methodologies, or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1243,12 +1306,15 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience and trust within teams, which is related to fostering a supportive work environment and enhancing employee engagement. However, it primarily focuses on the concept of patience rather than a comprehensive exploration of employee engagement strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, which aligns with employee engagement by emphasising trust, open communication, and recognition of contributions. It provides practical strategies for fostering a supportive environment, directly addressing key themes of employee engagement. However, while it touches on relevant aspects, the primary focus is on patience rather than a comprehensive exploration of employee engagement itself.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1288,21 +1354,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of trust and patience in empirical processes, suggesting a major theme related to the principles of empirical process control in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of patience in Agile teams, which indirectly relates to the principles of Empirical Process Control, such as fostering trust and supporting growth. However, it lacks direct mentions of empirical process control concepts and does not delve deeply into inspection, adaptation, or transparency, which are core themes of the category.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience in Agile teams, which is a relevant theme in navigating complexity and uncertainty, but it does not provide clear, practical problem-solving strategies or real-world examples central to the category.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of patience in Agile teams, which aligns with pragmatic thinking by emphasising practical problem-solving and fostering collaboration. However, while it touches on relevant themes, it lacks detailed exploration of specific Agile or Scrum methodologies and their application, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1315,11 +1387,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:17:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of patience and trust within teams, highlighting leadership's role in fostering a positive culture which is essential for Agile success.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of patience in fostering a healthy organisational culture, particularly in Agile teams. It highlights how patience contributes to building trust, avoiding blame culture, and supporting team growth, which are all key aspects of organisational culture. The depth of discussion is significant, providing practical steps to cultivate this culture, thus aligning well with the category's focus on cultural elements that facilitate Agile practices.",
     "level": "Secondary"
   },
   "Forecasting": {
@@ -1333,12 +1408,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:33:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of patience in fostering trust and success within Agile teams, which relates to Scrum principles like teamwork and empirical process control, but it is not primarily focused on Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of patience in agile teams, which is relevant to Scrum principles, but it lacks direct mentions of Scrum roles, events, or artifacts. The focus is more on general agile practices rather than specific Scrum methodologies, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1354,12 +1432,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:32:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of patience within Agile teams, focusing on leadership, trust, and team dynamics, which are relevant to Agile strategy but does not delve deeply into strategic alignment or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of patience within Agile teams, which aligns with the core themes of fostering an Agile culture and supporting growth. It provides practical strategies for cultivating patience, which ties into the broader context of Agile methodologies. However, while it touches on Agile principles, it does not explicitly address strategic planning or organisational vision, which slightly limits its depth in the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",

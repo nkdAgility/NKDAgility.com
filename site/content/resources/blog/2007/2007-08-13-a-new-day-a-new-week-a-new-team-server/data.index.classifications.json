@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server (TFS) and mentions ALM, indicating a connection to application lifecycle management, but the primary focus is on the upgrade process rather than a comprehensive discussion of ALM principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions ALM and discusses upgrading Team Foundation Server, which relates to application lifecycle management. However, it lacks a detailed exploration of the stages, best practices, or tools associated with ALM. The focus is more on the upgrade process rather than a comprehensive discussion of application lifecycle management principles.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -577,7 +580,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T19:02:59",
+    "calculated_at": "2025-03-15T07:40:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -585,16 +588,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions upgrading a development environment and creating a project, which relates to software development. However, it lacks explicit discussions on Agile or DevOps methodologies, best practices, or the role of developers in these contexts. The focus is more on technical tasks rather than the broader themes of collaboration, productivity, or modern engineering practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading a development environment related to Team Foundation Server, which is relevant to software development practices, but it primarily focuses on the upgrade experience rather than detailed software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses upgrading a development environment and mentions tools like TFS and Visual Studio, which are relevant to software development. However, it lacks a detailed exploration of methodologies or best practices, focusing more on personal experience with the upgrade process.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -958,7 +964,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:50:41",
+    "calculated_at": "2025-03-15T07:40:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -966,7 +972,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the upgrade process of a development environment and mentions tools like TFS and Visual Studio. While it touches on technical aspects, it lacks a focus on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The discussion is more about the installation and integration rather than a deep exploration of technical mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1096,7 +1102,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T12:15:51",
+    "calculated_at": "2025-03-15T07:40:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1104,7 +1110,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the upgrade of Team Foundation Server (TFS) and mentions Visual Studio, which are related to the Windows environment. However, it does not explicitly focus on Windows as an operating system, nor does it delve into installation, configuration, or troubleshooting of Windows itself. The primary focus is on TFS and SharePoint integration, which are secondary topics in relation to Windows. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1198,7 +1204,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:18:46",
+    "calculated_at": "2025-03-15T07:40:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1206,7 +1212,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the upgrade of a development environment and the creation of a new project, which relates to working software. However, it lacks a detailed discussion on software quality, customer feedback, or iterative development, which are core themes of the category. The focus is more on the technical aspects of installation rather than the delivery of functional software that meets user needs.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1408,7 +1414,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:35",
+    "calculated_at": "2025-03-15T07:40:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1422,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the upgrade of Team Foundation Server and mentions Visual Studio and SharePoint integration, with no direct references to Scrum principles, roles, events, or practices. The focus is on technical aspects of software development rather than Scrum methodologies, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

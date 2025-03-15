@@ -115,6 +115,94 @@ function Update-Field {
     return 
 }
 
+function Update-HashtableList {
+    param (
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$frontMatter,
+        [Parameter(Mandatory = $true)]
+        [string]$fieldName,
+        [Parameter(Mandatory = $true)]
+        [AllowEmptyCollection()]
+        [hashtable[]]$values, # Accepts only an array of hashtables
+        [string]$addAfter = $null,
+        [string]$addBefore = $null,
+        [switch]$Overwrite
+    )
+
+    # Ensure values are always an array and remove any null values
+    $values = @($values | Where-Object { $_ -ne $null })
+
+    # Convert all input hashtables to ordered hashtables while keeping their order intact
+    $values = $values | ForEach-Object {
+        if ($_ -is [System.Collections.Specialized.OrderedDictionary]) { $_ }
+        else { 
+            $orderedHash = [ordered]@{}
+            $_.GetEnumerator() | ForEach-Object { $orderedHash[$_.Key] = $_.Value }
+            $orderedHash
+        }
+    }
+
+    # If the field doesn't exist, create it with position handling
+    if (-not $frontMatter.Contains($fieldName)) {
+        $index = $null
+        if ($addAfter -and $frontMatter.Contains($addAfter)) {
+            $index = $frontMatter.Keys.IndexOf($addAfter) + 1
+        }
+        elseif ($addBefore -and $frontMatter.Contains($addBefore)) {
+            $index = $frontMatter.Keys.IndexOf($addBefore)
+        }
+
+        if ($index -ne $null) {
+            $frontMatter.Insert($index, $fieldName, $values)
+        }
+        else {
+            $frontMatter[$fieldName] = $values
+        }
+
+        Write-Debug "$fieldName added"
+    }
+    else {
+        # Ensure the field is always an array
+        if (-not ($frontMatter[$fieldName] -is [System.Collections.IEnumerable])) {
+            $frontMatter[$fieldName] = @($frontMatter[$fieldName])
+        }
+
+        if ($Overwrite) {
+            $frontMatter[$fieldName] = $values
+        }
+        else {
+            # Preserve the existing values as an ordered array
+            $existingValues = @($frontMatter[$fieldName])
+
+            # Create a lookup table of existing hashtables for deduplication
+            $existingHashtablesJson = @{}
+            foreach ($hash in $existingValues) {
+                $existingHashtablesJson[(ConvertTo-Json $hash -Compress)] = $true
+            }
+
+            # Append only unique hashtables in original order
+            foreach ($hash in $values) {
+                $hashJson = ConvertTo-Json $hash -Compress
+                if (-not $existingHashtablesJson.ContainsKey($hashJson)) {
+                    $existingHashtablesJson[$hashJson] = $true
+                    $existingValues += $hash
+                }
+            }
+
+            # Maintain the original order exactly
+            $frontMatter[$fieldName] = $existingValues
+            Write-Debug "$fieldName updated with new unique values"
+        }
+    }
+
+    # Ensure the field remains an array even if it has only one value
+    if ($frontMatter[$fieldName] -isnot [array]) {
+        $frontMatter[$fieldName] = @($frontMatter[$fieldName])
+    }
+}
+
+
+
 # Update-List function to have the same signature as Update-Field
 # Update-List -frontMatter $frontMatter -fieldName 'tags' -values @('DevOps', 'Agile', 'Scrum')
 function Update-StringList {

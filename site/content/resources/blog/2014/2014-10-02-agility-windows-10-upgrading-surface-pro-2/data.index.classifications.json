@@ -46,12 +46,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition to agile processes and the importance of user feedback in the context of Windows 10 development, which aligns with themes of continuous learning and adaptation. However, the primary focus is on the technical aspects of upgrading and using Windows 10, making learning a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the transition to continuous delivery and agile processes at Microsoft, highlighting the importance of user feedback and the iterative nature of software development. However, while it touches on themes of learning from user interactions and adapting to new methodologies, the primary focus is on the technical aspects of upgrading to Windows 10 rather than a deep exploration of discovery and learning processes. The discussion lacks sufficient depth and explicit mentions of methodologies that foster innovation, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -106,25 +109,31 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:28",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of organisational culture on technology adoption and the shift towards agile processes at Microsoft, which aligns with sociotechnical systems. However, the primary focus is on the technical aspects of upgrading to Windows 10, making the sociotechnical theme a secondary element.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the impact of organisational culture on technology adoption, particularly in the context of Microsoft's shift to agile practices. It touches on the interplay between team dynamics and software delivery, which aligns with sociotechnical systems. However, the primary focus is on the technical aspects of upgrading to Windows 10, with limited depth in exploring the broader sociotechnical implications.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:23",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the shift towards agility within Microsoft and the cultural challenges associated with change, making it a significant but secondary theme.",
+    "final_score": 52.0,
+    "reasoning": "The content discusses the transition to Windows 10 and the cultural shifts within Microsoft towards agility, which aligns with the themes of organisational resilience and change. It mentions the challenges and successes of adopting agile methodologies, highlighting the importance of culture in facilitating change. However, the primary focus is on technical aspects of the upgrade process rather than a comprehensive exploration of resilience strategies or change management practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:44:14",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,16 +141,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition of Windows to a continuous delivery model, which aligns with DevOps principles. However, the primary focus is on personal experiences with Windows 10 and the Technical Preview, rather than a comprehensive exploration of DevOps practices, tools, or cultural shifts. While there are mentions of agility and continuous delivery, the depth of discussion on DevOps-specific topics is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences and opinions related to upgrading to Windows 10, touching on themes of agility in software development but lacks a direct connection to established Agile, Scrum, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the author's personal experience with upgrading to Windows 10 and does not focus on Agile, Scrum, DevOps, or Lean principles. While it touches on the concept of agility in the context of software development, it does so in a vague manner without providing actionable insights or a direct connection to established frameworks. The discussion is anecdotal and lacks depth in relation to the core themes of the Miscellaneous category.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -154,12 +166,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions teaching the Professional Scrum Foundations course, indicating a connection to an event, but the primary focus is on the Windows 10 Technical Preview and personal experiences rather than on the event itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions teaching a Professional Scrum Foundations course, which relates to events, but the primary focus is on personal experiences with Windows 10 and technical details about the upgrade process. While there are references to Agile concepts, they are not tied to specific events or presentations, leading to a low confidence score in the 'Events and Presentations' category.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -172,29 +187,38 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the cultural shift towards agility within Microsoft and the importance of user feedback in the development process, indicating a secondary theme related to team dynamics and organisational culture.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the cultural challenges and organisational dynamics involved in adopting Agile methodologies at Microsoft, particularly in relation to the Windows 10 Technical Preview. It highlights the importance of team collaboration, user feedback, and the role of organisational culture in facilitating change. However, while these aspects are present, the primary focus remains on the technical upgrade process rather than a deep exploration of people and process dynamics.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the shift towards agility within Microsoft, particularly in relation to scaling agile practices across the enterprise, which aligns with the theme of enterprise agility. However, the primary focus is on personal experiences with Windows 10 and technical details, making enterprise agility a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the shift towards agility within Microsoft, particularly in the context of Windows 10's development and the continuous delivery model. It highlights the cultural challenges and the need for organisational change, which aligns with the principles of enterprise agility. However, the primary focus remains on the technical aspects of upgrading to Windows 10 rather than a comprehensive exploration of enterprise agility frameworks or strategies. Thus, while there are relevant mentions and some depth, the overall focus is more on individual experiences and technical details.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift towards agility in Microsoft's development processes, particularly in relation to Windows 10, and touches on the cultural changes necessary for such transformations. However, the primary focus is on the Technical Preview of Windows 10 rather than a comprehensive exploration of business agility principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the transition of Microsoft towards an agile process and highlights the importance of organisational culture in facilitating change. However, the primary focus is on the technical aspects of upgrading to Windows 10 and personal experiences rather than a comprehensive exploration of business agility principles or practices. While there are mentions of agility and continuous delivery, the depth of discussion on business agility concepts is limited.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
@@ -217,12 +241,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition to continuous delivery and agile processes at Microsoft, which relates to technical excellence, but the primary focus is on personal experiences and opinions regarding the Windows 10 Technical Preview rather than engineering practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the transition of Windows to a continuous delivery model, which aligns with the principles of Technical Excellence, particularly in relation to CI/CD practices. However, the primary focus is on personal experiences and opinions regarding the Windows 10 Technical Preview rather than a detailed exploration of engineering methodologies or practices. While there are mentions of agile processes and user feedback, these are secondary to the narrative of upgrading and personal anecdotes, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,12 +271,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition of Windows to a continuous delivery model and the importance of user feedback in shaping the product, which aligns with product delivery themes. However, it primarily focuses on personal experiences and technical details rather than broader methodologies or practices in product delivery.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the transition of Windows to a continuous delivery model, highlighting the importance of agile methodologies and user feedback in product delivery. It mentions the challenges faced during this transition and the need for an engaged user base, which aligns with key topics in the Product Delivery category. However, while it touches on relevant themes, the depth of discussion on specific methodologies and practices is somewhat limited, focusing more on personal experiences and observations rather than a structured analysis of product delivery processes.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -271,20 +301,23 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:47",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the Windows 10 Technical Preview and its implications for Agile practices at Microsoft, but it primarily focuses on personal experiences and technical details rather than providing a review or analysis of a specific product or book.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition to continuous delivery at Microsoft and the importance of user feedback in shaping product development, which aligns with value delivery principles. However, the primary focus is on personal experiences and technical details of upgrading to Windows 10, making value delivery a secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the transition of Windows to a continuous delivery model and the importance of user feedback, which aligns with value delivery principles. However, the primary focus is on personal experiences and technical details of the upgrade process, rather than a structured discussion on value delivery strategies or methodologies.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -328,12 +361,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the transition to a continuous delivery model at Microsoft, which aligns with Agile principles, but the primary focus is on the Windows 10 Technical Preview rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the transition to a continuous delivery model at Microsoft, which aligns with Agile principles. However, it primarily focuses on the Windows 10 Technical Preview and personal experiences rather than a structured discussion on the Agile Product Operating Model. While there are mentions of agility and feedback loops, the depth of discussion on product-centric development and value delivery is limited.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -349,12 +385,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Windows 10 Technical Preview and its implications for Agile practices at Microsoft, making it a major but secondary theme alongside personal experiences and technical details.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the release of Windows 10 Technical Preview, which aligns with industry news and updates. It provides insights into Microsoft's shift towards continuous delivery and agile practices, making it relevant to the themes of Agile and technology. However, the depth of discussion is more focused on personal experiences and technical details rather than a comprehensive review or analysis, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -433,11 +472,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:14",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of organisational culture on the adoption of agile processes within Microsoft, particularly in the context of the Windows team transitioning to a more agile approach. It highlights the challenges and outcomes associated with cultural change in organisational settings, making it a significant but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the influence of organisational culture on the adoption of Agile methodologies, particularly in the context of Microsoft's transition to continuous delivery. It highlights how culture can act as a barrier to agility and mentions the need for cultural change to facilitate transformation. However, the primary focus of the content is on the technical aspects of upgrading to Windows 10, with cultural discussions being secondary. The depth of cultural analysis is moderate, providing some insights but lacking comprehensive exploration of the topic.",
     "level": "Tertiary"
   },
   "Definition of Ready": {
@@ -514,11 +556,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:21",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agility in the context of Microsoft's transition to continuous delivery for Windows 10 and the cultural implications of adopting Agile practices, though it primarily focuses on the technical aspects of upgrading an operating system.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition of Microsoft towards an agile process, highlighting the importance of continuous delivery and user feedback, which aligns with Agile principles. However, the primary focus is on the technical aspects of Windows 10 and the upgrade process, with only brief mentions of Agile concepts. The depth of discussion on Agile philosophy is limited, making it a secondary theme rather than a primary focus.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -532,12 +577,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Windows 10 Technical Preview and the importance of user feedback in shaping product features, indicating a theme of product validation, though it is intertwined with opinions on agile practices and personal experiences.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the Windows 10 Technical Preview and the importance of user feedback in the development process, which aligns with the concept of product validation. However, the primary focus is on the upgrade experience and technical details rather than structured methodologies for validating product ideas. While there are mentions of user engagement and feedback, they are not the central theme of the content, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -595,30 +643,36 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Microsoft’s move towards agile software development processes and continuous delivery, but it is primarily focused on personal experiences with Windows 10 Technical Preview and general user feedback rather than on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transition of Windows to an agile development process and continuous delivery, which aligns with software development methodologies. It mentions the importance of user feedback and the challenges faced during the development of Windows 10, indicating a focus on software engineering practices. However, the primary focus is on personal experiences and opinions regarding the upgrade process, which detracts from a deeper exploration of software development principles.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:47",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "While the content mentions agile methodologies and the shift to continuous delivery, it primarily focuses on the Windows 10 Technical Preview and personal experiences with software installation, rather than discussing Agile Project Management principles or practices in depth.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition of Microsoft Windows to continuous delivery, which aligns with Agile values such as responding to change, customer collaboration, and the importance of feedback. However, it primarily focuses on a specific product upgrade rather than a comprehensive discussion of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly touches on the concept of agility in the context of Microsoft's transition to continuous delivery and the cultural challenges associated with it. However, it primarily focuses on the technical aspects of upgrading to Windows 10 and does not delve deeply into Agile values or principles. The mention of agility is secondary to the main topic of software installation and user experience, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -676,11 +730,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:45",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of agility and cultural change within Microsoft, but it primarily focuses on the Technical Preview of Windows 10 and related technical details.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the shift towards agility within Microsoft, particularly in relation to the Windows 10 Technical Preview. It touches on the cultural challenges of organisational change and the importance of feedback from users, which aligns with the themes of organisational change. However, the primary focus is on the technical aspects of upgrading to Windows 10 and personal experiences, which detracts from a deeper exploration of change management strategies or frameworks. Therefore, while there are relevant mentions and some alignment with the category, the depth of discussion is limited.",
     "level": "Tertiary"
   },
   "Lean Startup": {
@@ -742,11 +799,14 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:04",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling agile practices at Microsoft as part of the Windows 10 rollout and the culture change associated with these practices, but it primarily focuses on the Technical Preview of Windows rather than a comprehensive exploration of scaling agility across the organization.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the concept of scaling agility within Microsoft, particularly in relation to the Developer Division's success in adopting agile practices. However, the primary focus is on the Windows 10 Technical Preview and personal experiences with the upgrade process, which detracts from a deeper exploration of scaling agility as a category. While there are mentions of organisational culture and the need for change, the discussion lacks comprehensive detail on frameworks, leadership roles, or specific techniques for aligning teams, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -778,12 +838,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift towards agility within Microsoft and the impact of organisational culture on this change, which aligns with systems thinking principles and the dynamics within organisations.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the transition to agile processes within Microsoft, touching on organisational culture and the dynamics of change. However, it primarily focuses on the technical aspects of upgrading to Windows 10 and personal experiences rather than a comprehensive exploration of systems thinking or organisational dynamics. While there are mentions of culture and change, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -796,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly discusses Agile practices in the context of Microsoft's transition to Agile processes with Windows 10, highlighting practical applications and experiences that align with pragmatic thinking, but it primarily focuses on personal experiences and instructions related to the Windows upgrade.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the practical implications of upgrading to Windows 10 and the cultural shifts within Microsoft towards Agile methodologies. It mentions the importance of user feedback and adaptability in the context of software development, which aligns with pragmatic thinking. However, the focus is more on personal experiences and technical details rather than a structured discussion on problem-solving strategies or case studies in Agile or DevOps contexts.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -814,12 +880,12 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:47",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 40,
     "non_ai_confidence": 20,
     "final_score": 38.0,
     "reasoning": "The content discusses the upgrade to Windows 10 and touches on aspects of agility and feedback loops but lacks a strong, central focus on the ability to innovate within organisations or empirical data-driven practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -877,12 +943,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Agile methodology and continuous delivery relating to Windows 10, which ties into working software principles. However, the primary focus is on personal experiences and upgrades, making the topic not central enough to classify it as primarily about working software.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the upgrade to Windows 10 and the continuous delivery model adopted by Microsoft, which aligns with the concept of working software. However, the primary focus is on personal experiences and technical details of the installation process rather than a structured discussion on working software principles, Agile methodologies, or best practices for ensuring software quality. While there are mentions of user feedback and iterative development, these are not explored in depth, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -967,11 +1036,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Windows 10 and includes insights on agile development and continuous delivery, which are relevant to release management, although the primary focus is more on personal experience and opinions rather than detailed release management strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the release of Windows 10 and the shift towards continuous delivery, which aligns with some aspects of release management. However, it primarily focuses on personal experiences and opinions rather than structured release management practices. The mention of 'continuous delivery' and 'feedback' indicates some relevance, but the overall depth and focus on release management strategies are limited.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1042,11 +1114,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading to Windows 10 and touches on continuous delivery and Agile processes within Microsoft, which aligns with digital transformation concepts, but it is primarily focused on personal experience and technical details rather than a comprehensive exploration of digital transformation strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the upgrade to Windows 10 and touches on aspects of agility and continuous delivery, which are relevant to digital transformation. However, it primarily focuses on personal experiences and technical details of the installation process rather than strategic discussions or broader implications of digital transformation in a business context. While there are mentions of organisational culture and agile processes, these are not explored in depth or as a primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "MVP": {
@@ -1069,7 +1144,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:24:21",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1077,7 +1152,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses upgrading to Windows 10 and includes some technical details about the installation process, such as downloading an ISO, using USB drives, and troubleshooting. However, the primary focus is on the experience of upgrading and the cultural shift within Microsoft towards agility, rather than on systematic configuration practices or methodologies. While there are mentions of installation and some configuration aspects, they are not the main focus, leading to a low confidence score in alignment with the 'System Configuration' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1147,11 +1222,14 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:55",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Microsoft's efforts to scale Agile practices within the organization, particularly highlighting the Developer Division's role in significant cultural and operational changes. However, the overall focus is primarily on Windows 10 and its preview, making the relevance to Large Scale Agility a secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the scaling of Agile practices within Microsoft, particularly in relation to the Windows 10 Technical Preview. It mentions the cultural shifts and the need for organisational change to adopt Agile methodologies at a larger scale. However, the primary focus is on personal experiences with the Windows upgrade process rather than a comprehensive exploration of large-scale Agile frameworks or strategies. While there are relevant mentions and some alignment with the category, the depth of discussion is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -1183,21 +1261,27 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses potential issues encountered while upgrading to Windows 10 and mentions troubleshooting aspects, such as the possibility of software crashes and installation complexities. However, the primary focus is not solely on troubleshooting but on the upgrade experience and Agility in software development.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the installation of Windows 10 Technical Preview and mentions the need for users to be comfortable troubleshooting problems, which aligns with the troubleshooting category. However, the primary focus is on the upgrade process and the author's experience rather than a systematic approach to diagnosing and resolving technical issues. While there are some references to potential problems and user feedback, the depth of discussion on troubleshooting techniques is limited.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:22:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engaging with the Windows 10 Technical Preview, which implies a form of experimentation with the software. It touches on user feedback and iterative improvements, but the primary focus is on the upgrade experience and technical aspects rather than a systematic exploration of hypothesis-driven experimentation within Agile workflows.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the author's experience with the Windows 10 Technical Preview, which involves elements of experimentation, such as trying out new software and providing feedback. However, the focus is more on personal experience and technical details rather than a systematic approach to hypothesis-driven experimentation within Agile workflows. While there are mentions of user feedback and the need for an engaged user base, the content lacks depth in discussing structured experimentation techniques or Agile methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -1228,12 +1312,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the transition to Agile methodologies in software development at Microsoft, particularly in relation to Windows 10 and developer roles, though it mostly focuses on personal experiences rather than in-depth practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the upgrade to Windows 10 and touches on aspects of Agile methodologies, particularly in relation to Microsoft's development practices. However, the primary focus is on personal experiences and technical details of the upgrade process rather than a deep exploration of the role of software developers within Agile or DevOps frameworks. While there are mentions of continuous delivery and the impact of Agile on team dynamics, these are not the main focus of the content, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,12 +1333,12 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:47",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses aspects of agile practices related to Windows 10's continuous delivery model, but the main focus is on personal experiences and software installation rather than the core principles of software engineering practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1300,12 +1387,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:21:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Agile strategy adopted by Microsoft in transitioning to continuous delivery for Windows, highlighting change management, scaling Agile, and user feedback, but primarily focuses on the Technical Preview of Windows 10 and technical practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the shift towards Agile methodologies at Microsoft, particularly in the context of Windows 10's continuous delivery model. It highlights the importance of organisational culture in adopting Agile practices and mentions scaling Agile across the enterprise, which aligns with key topics in Agile Strategy. However, the primary focus is on the technical aspects of Windows 10 and personal experiences rather than a comprehensive discussion of Agile strategy itself.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1336,12 +1426,12 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T09:08:47",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "While the content discusses agile processes and Microsoft's shift to continuous delivery, it primarily focuses on personal experiences and challenges with Windows 10 rather than analyzing broader trends or their implications in Agile or DevOps contexts.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1390,7 +1480,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T12:39:13",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1398,7 +1488,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition to Agile practices within Microsoft, particularly in relation to Windows 10's development process. However, it primarily focuses on personal experiences and technical details of upgrading to Windows 10 rather than providing a structured discussion on Scrum, Kanban, Lean, or Agile methodologies. While there are mentions of Agile principles and the importance of user feedback, these are not the primary focus of the content, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1420,7 +1510,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:36:07",
+    "calculated_at": "2025-03-15T04:21:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1428,6 +1518,6 @@
     "non_ai_confidence": 50,
     "final_score": 16.0,
     "reasoning": "The content primarily discusses the upgrade to Windows 10 and the implications of continuous delivery in software development, with only a brief mention of Scrum principles in the context of agility. It lacks a focused discussion on Scrum roles, events, or artifacts, and does not delve into the core themes of the Scrum framework.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

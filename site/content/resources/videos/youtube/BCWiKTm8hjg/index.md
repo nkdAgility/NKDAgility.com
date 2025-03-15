@@ -29,12 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Culture
 - People and Process
 - Agile Leadership
+- Employee Engagement
+- Team Performance
+- Agile Project Management
 - Agile Values and Principles
 - Agile Philosophy
 - Team Collaboration
-- Team Motivation
+- Agile Strategy
 resourceTypes:
 - video
 categories:

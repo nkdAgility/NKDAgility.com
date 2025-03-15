@@ -64,12 +64,12 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T14:37:54",
+    "calculated_at": "2025-03-14T20:19:29",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the limitations of story points and advocates for flow metrics, which implies a data-driven approach to leadership decisions. However, the primary focus is on the critique of story points rather than a comprehensive discussion on evidence-based leadership principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -82,7 +82,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T14:59:25",
+    "calculated_at": "2025-03-14T20:19:29",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -90,7 +90,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the concept of story points within Agile methodologies, which is a specific aspect of product management. However, it focuses more on the critique of story points rather than on strategic product management practices. While it touches on the implications of story points for team dynamics and delivery, it lacks a broader discussion on aligning customer needs, business objectives, or technical capabilities. The depth of discussion is limited to the critique of a specific practice rather than exploring comprehensive product management strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -268,12 +268,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses story points within the context of Agile practices, highlighting their historical significance and impact on team dynamics. However, it primarily critiques the use of story points rather than exploring Agile frameworks as a whole, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses story points, a concept within Agile practices, and critiques their use, which aligns with Agile frameworks. However, it primarily focuses on the dysfunctions caused by story points rather than providing a comprehensive exploration of Agile frameworks themselves. While it touches on the principles of Agile and suggests a shift towards flow metrics, it lacks a detailed comparative analysis of different Agile frameworks or their implementation, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -286,7 +289,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T09:59:39",
+    "calculated_at": "2025-03-14T20:19:29",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -294,7 +297,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the dysfunctions caused by story points within teams, highlighting how they can lead to unhealthy competition and misalignment on value delivery. While it touches on team dynamics and the impact of metrics on collaboration, the primary focus is on critiquing story points rather than exploring broader themes of team collaboration. The discussion lacks depth in terms of strategies for improving communication or fostering trust, which are key aspects of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -367,12 +370,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:16:24",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the limitations of story points and advocates for flow metrics, including throughput, as a more effective way to measure work delivery. However, the primary focus is on the critique of story points rather than a comprehensive exploration of throughput itself.",
-    "level": "Tertiary"
+    "final_score": 80.0,
+    "reasoning": "The content discusses throughput explicitly in the context of flow metrics, which are essential for measuring work completion rates. It aligns well with the core themes of throughput, particularly in Agile environments, by contrasting it with the dysfunctional use of story points. However, the primary focus is on the critique of story points rather than a comprehensive exploration of throughput itself, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -385,12 +391,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of story points and their impact on Agile practices, highlighting the importance of focusing on value delivery rather than arbitrary metrics. While it touches on Agile principles, it primarily critiques a specific practice rather than exploring the foundational values and principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of story points within Agile, highlighting their historical context and the dysfunctions they can cause. While it touches on Agile principles like delivering value and the importance of focusing on outcomes rather than arbitrary metrics, it primarily critiques a specific practice rather than deeply exploring Agile values and principles. The discussion on flow metrics aligns more closely with Agile's emphasis on value delivery, but the overall focus remains on the critique of story points rather than a comprehensive exploration of Agile values.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -439,11 +448,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of story points and the importance of focusing on value delivery rather than arbitrary metrics, which aligns with the principles of empirical process control. However, the primary focus is on the critique of story points rather than a comprehensive discussion of empirical process control itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the limitations of story points in Agile, highlighting the shift towards flow metrics, which aligns with empirical process control principles. However, it primarily critiques story points rather than focusing on empirical process control itself, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -613,12 +625,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:20:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of story points on Agile practices and team dynamics, highlighting the need for a shift towards value delivery and flow metrics. While it touches on Agile principles, the primary focus is on the critique of story points rather than a comprehensive Agile strategy discussion.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the historical context and issues surrounding story points in Agile, highlighting the dysfunctions they create and advocating for a shift towards flow metrics. While it does not explicitly outline an Agile strategy, it aligns well with the core themes of adaptability, continuous value delivery, and the integration of Agile practices into strategic planning. The depth of discussion on the negative impacts of story points and the proposed alternative metrics indicates a strong engagement with Agile principles, justifying a relatively high confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -724,12 +739,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of story points within Agile practices, highlighting their historical context and the dysfunctions they can create in teams. While it touches on Agile principles, the primary focus is on critiquing story points rather than a broader discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of story points within Agile practices, highlighting their historical context and the dysfunctions they can cause. While it touches on Agile principles and the need for a shift towards flow metrics, the primary focus is on critiquing story points rather than a comprehensive exploration of Agile transformation strategies. The discussion is relevant but lacks depth in addressing broader Agile transformation themes such as leadership roles, change management, or case studies.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -769,21 +787,24 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:37:54",
+    "calculated_at": "2025-03-14T20:19:29",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses story points in Agile, which is related to Scrum practices, but it primarily critiques their use rather than focusing on Scrum principles or product development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges and dysfunctions associated with the use of story points in Agile, which indirectly relates to operational practices by highlighting the need for better metrics and focus on value delivery. However, the primary focus is on the critique of story points rather than on operational efficiency techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the limitations of story points in Agile practices and advocates for flow metrics as a more effective way to measure success. While it touches on operational practices, the primary focus is on critiquing a specific Agile concept rather than providing actionable strategies or techniques for improving operational efficiency. The discussion lacks depth in terms of practical application and does not fully align with the core themes of operational practices.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -868,12 +889,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses story points and their impact on Agile practices, highlighting dysfunctions and suggesting a shift towards flow metrics. While it touches on Agile principles, the primary focus is on critiquing story points rather than on Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of story points within Agile, highlighting their historical context and the dysfunctions they can cause in Agile planning. While it touches on Agile principles and the importance of value delivery, the primary focus is on critiquing story points rather than providing a comprehensive exploration of Agile planning methodologies. The mention of flow metrics as a better alternative aligns with Agile principles, but the overall depth and focus on Agile planning practices are limited.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1069,12 +1093,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of story points in Agile methodologies and how they can hinder adaptability and value delivery, which aligns with themes of organisational resilience and change. However, the primary focus is on the critique of story points rather than a comprehensive exploration of resilience strategies or change management practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the transition from story points to flow metrics, which hints at the need for adaptability in Agile practices. However, it primarily focuses on the dysfunctions caused by story points rather than providing a comprehensive discussion on organisational resilience or change management. The mention of moving forward with flow metrics suggests a slight alignment with the themes of change, but the overall depth and direct discussion of resilience and change are limited.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1096,12 +1123,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of story points and advocates for flow metrics, indicating a focus on improving throughput and value delivery, but it primarily critiques story points rather than providing a comprehensive discussion on flow efficiency principles.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content discusses the limitations of story points in Agile and advocates for the use of flow metrics, which directly relates to flow efficiency. It mentions key flow metrics like cycle time, work item aging, and throughput, aligning well with the core themes of optimising work throughput. The depth of discussion on the negative impacts of focusing on story points and the benefits of flow metrics indicates a strong understanding of flow efficiency principles.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1246,7 +1276,7 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-07T13:11:32",
+    "calculated_at": "2025-03-14T20:19:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1254,16 +1284,19 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily discusses story points and their implications within Agile methodologies, particularly critiquing their use and the dysfunctions they create. While it briefly mentions flow metrics, which are relevant to Kanban, the focus is predominantly on the drawbacks of story points rather than on Kanban principles such as visualisation, WIP limits, or continuous improvement. The mention of Daniel Vacanti, a proponent of Kanban, suggests some alignment, but the overall discussion does not centre on Kanban practices or methodologies, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of story points on value delivery and criticises their use in Agile practices, suggesting a shift towards flow metrics. However, the primary focus is on the dysfunctions caused by story points rather than a comprehensive exploration of value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content discusses the concept of story points in Agile and critiques their impact on value delivery. It highlights the dysfunctions caused by focusing on story points rather than actual value, aligning well with the principles of iterative development and customer value maximisation. The discussion on flow metrics as a better alternative to measure success further strengthens its relevance to the category. However, while the content is rich in examples and critiques, it does not delve deeply into methodologies or strategies for continuous value delivery, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1288,11 +1321,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on the author's changing perspective regarding story points in Agile, as well as anecdotes about their experiences with teams and the impact of story points on team dynamics. However, the primary focus is on the critique of story points rather than personal experiences or insights, making it a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses personal reflections on the use of story points in Agile, sharing insights from the author's experiences and observations. It includes anecdotes about dysfunctional team dynamics and personal shifts in perspective regarding estimation methods. However, the primary focus is on the technical aspects of story points and flow metrics, which detracts from the personal nature of the discussion.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -1327,12 +1363,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:19:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the limitations of story points as a metric in Agile, advocating for a shift towards flow metrics. While it touches on the importance of metrics, the primary focus is on the critique of story points rather than a comprehensive exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content discusses the transition from story points to flow metrics, highlighting the importance of measuring value rather than arbitrary numbers. It directly addresses the dysfunctions caused by story points and advocates for evidence-based metrics, aligning well with the core themes of the category. The depth of discussion on flow metrics and their benefits adds to the overall relevance, although the focus on story points detracts slightly from a broader exploration of metrics and learning.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1345,12 +1384,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:55:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on value delivery rather than story points, which aligns with Value Stream Management principles. However, the primary focus is on the critique of story points and Agile practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of story points in Agile and advocates for flow metrics, which aligns with the principles of Value Stream Management. However, it primarily focuses on the dysfunctions of story points rather than directly addressing Value Stream Management concepts. While it touches on value delivery and metrics, it lacks a comprehensive exploration of value stream mapping or waste elimination, which are key topics in the category.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1381,12 +1423,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:38:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implications of story points in Agile practices and their impact on value delivery, making it a major but secondary theme rather than a primary focus on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:20:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of story points within Agile practices, highlighting their historical context and the dysfunctions they can cause. While it touches on Agile principles, it primarily critiques a specific practice rather than focusing on the broader Agile Product Operating Model. The discussion lacks depth in terms of product-centric development and value delivery, which are core themes of the category. Overall, the content is more about Agile practices than the Agile Product Operating Model itself.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1438,7 +1483,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:51:42",
+    "calculated_at": "2025-03-14T20:19:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1446,6 +1491,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses story points, a concept related to Agile and Scrum, but primarily critiques their use rather than focusing on Scrum principles or practices. While it touches on team dynamics and the dysfunctions caused by an overemphasis on story points, it lacks a comprehensive exploration of the Scrum framework, roles, events, or artifacts. The discussion is more about the pitfalls of story points than about Scrum itself, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

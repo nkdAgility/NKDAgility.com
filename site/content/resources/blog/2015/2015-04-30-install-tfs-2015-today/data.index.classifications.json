@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2015, which is related to internal development processes. However, it does not focus on broader platform engineering principles or practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a specific tool rather than a discussion on platform engineering principles. While it touches on aspects of developer productivity and automation through TFS, it lacks a broader discussion on Internal Developer Platforms (IDPs) or the core themes of platform engineering. The mention of TFS and its features is more about the tool itself rather than the underlying principles of platform engineering, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -124,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:35:25",
+    "calculated_at": "2025-03-15T03:58:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool related to DevOps practices. However, it lacks a direct discussion of DevOps principles, cultural shifts, or broader practices such as CI/CD. While it touches on automation and configuration, it does not delve into the collaborative aspects or metrics of DevOps, leading to a low confidence score despite some relevant mentions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +220,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which touches on technical practices related to software development and delivery processes. However, it lacks a deeper discussion on methodologies or principles that enhance agility and technical excellence.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a technical task but lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it touches on aspects like configuration and installation processes, it does not delve into principles such as Test-Driven Development, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The discussion is more operational and procedural rather than strategic or methodological, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,7 +250,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:42:55",
+    "calculated_at": "2025-03-15T03:58:33",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -252,7 +258,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is more about software setup than the methodologies and practices of product delivery. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles. The depth of discussion is limited to technical steps rather than strategic insights into delivering software products effectively.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -361,12 +367,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2015, which is a tool used in the application lifecycle management process. However, the primary focus is on installation steps rather than the broader aspects of managing the application lifecycle.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool related to Application Lifecycle Management. However, it lacks a comprehensive discussion on the broader aspects of ALM, such as lifecycle stages, governance, or metrics. While it mentions upgrading and configuring TFS, it does not delve into the strategic management of the application lifecycle, making it a secondary focus rather than a primary discussion on ALM.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -388,12 +397,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2015, which touches on technical practices and tools relevant to software engineering. However, it lacks a deeper focus on principles of software craftsmanship or methodologies that contribute to high-quality software development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a technical task. However, while it provides some insights into the installation process and options available, it lacks a deeper discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The mention of tools and configuration options aligns somewhat with the category, but the overall depth and focus on technical mastery are limited.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -496,12 +508,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2015, which includes aspects of operational practices such as optimising installation processes and configuring systems for efficiency. However, the primary focus is on installation steps rather than broader operational strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is more technical and procedural rather than discussing operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While there are mentions of configuration and installation processes that could relate to operational practices, they are not the primary focus. The content lacks depth in discussing strategies for continuous improvement, metrics, or best practices that would align with the category's core themes.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -634,11 +649,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2015, which is a version control system. While it primarily focuses on installation procedures, it touches on aspects of source control practices, making it a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS 2015, which is a version control system. It includes details about the installation process, server requirements, and configuration options, aligning with the category's focus on version control systems. However, while it touches on aspects of source control, such as upgrading and server setup, it lacks a deeper exploration of methodologies, branching strategies, or collaboration workflows, which are key themes in modern source control discussions.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -751,7 +769,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:36:54",
+    "calculated_at": "2025-03-15T03:58:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -759,7 +777,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is more of a technical guide than a discussion on engineering excellence. While it touches on aspects of software craftsmanship, such as installation best practices and system requirements, it lacks a broader discussion on continuous improvement, coding standards, or quality assurance principles. The depth of technical detail is present, but it does not align closely with the core themes of engineering excellence as defined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -880,12 +898,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2015, which relates to the operational aspects of software delivery. However, it primarily focuses on installation procedures rather than the broader themes of working software, such as user requirements or iterative development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool rather than a discussion on working software itself. While it touches on aspects of software functionality and setup, it lacks a direct emphasis on delivering high-quality, functional software that meets user needs. The discussion is more technical and procedural, with limited exploration of customer feedback, iterative development, or software quality metrics.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -898,12 +919,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2015, which is a tool that supports Continuous Integration practices. However, the primary focus is on installation procedures rather than CI principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool that can be used in CI workflows. However, it does not explicitly discuss Continuous Integration principles, best practices, or the role of automated testing in CI. While there are mentions of build agents and configuration, these are secondary to the main topic of installation. The depth of discussion on CI-related topics is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -970,7 +994,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T17:55:03",
+    "calculated_at": "2025-03-15T03:58:33",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -978,7 +1002,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is more about setup than the strategic aspects of release management. While it touches on upgrading and some operational considerations, it lacks a comprehensive discussion on release planning, scheduling, or coordination with stakeholders, which are key elements of release management. Therefore, it only partially aligns with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1231,7 +1255,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T14:53:06",
+    "calculated_at": "2025-03-15T03:58:33",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1239,7 +1263,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool relevant to software developers. However, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. While it mentions some operational aspects that could relate to developer practices, it does not delve into best practices, team dynamics, or collaboration strategies that are essential to the Software Developers category. Therefore, while there are mentions of relevant tools, the overall alignment and depth of discussion do not strongly support the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1315,12 +1339,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:43",
+    "calculated_at": "2025-03-15T03:58:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses TFS (Team Foundation Server) installation and configuration, which is related to Azure DevOps but does not focus specifically on Azure Repos functionalities or best practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

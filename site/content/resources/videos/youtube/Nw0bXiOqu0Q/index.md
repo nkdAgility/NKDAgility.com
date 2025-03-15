@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Empirical Process Control
 - People and Process
 - Business Agility
+- Agile Philosophy
 - Organisational Agility
 - Value Delivery
+- Pragmatic Thinking
+- Agile Strategy
+- Software Development
 - Market Adaptability
-- Agile Project Management
-- Empirical Process Control
-- Agile Values and Principles
-- Change Management
-- Continuous Learning
 resourceTypes:
 - video
 categories:

@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Customer Feedback Loops
+- Team Collaboration
+- Agile Strategy
 - Business Agility
 - Value Delivery
-- Product Delivery
-- People and Process
-- Agile Values and Principles
-- Agile Philosophy
-- Agile Project Management
-- Agile Product Management
+- Working Software
 - Organisational Agility
-- Pragmatic Thinking
+- Software Development
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

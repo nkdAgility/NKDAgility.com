@@ -22,7 +22,20 @@
                   <p class="card-text">{{ .Description }}</p>
                   <a href="{{ .RelPermalink }}" class="btn btn-primary">Read more...</a>
                 {{ end }}
-
+                <div class="row p-2">
+                  <hr />
+                  <div class="col-12">
+                    <h6>Other Engineering Excellence & Technical Leadership posts</h6>
+                  </div>
+                  {{ range first 4 (after 1 (where .Site.RegularPages.ByWeight "Params.ResourceType" "blog")) }}
+                    <div class="col-md-12 d-flex align-items-center">
+                      <span class="mr-1"><i class="fa-solid fa-newspaper"></i></span>
+                      <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Title }} - {{ .Description }}">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                      </span>
+                    </div>
+                  {{ end }}
+                </div>
               </div>
             </div>
           </div>

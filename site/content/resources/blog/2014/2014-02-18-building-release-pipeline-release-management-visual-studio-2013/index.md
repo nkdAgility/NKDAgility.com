@@ -27,8 +27,16 @@ aliasesArchive:
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
-- Release Management
 - Software Development
+- Continuous Delivery
+- Practical Techniques and Tooling
+- Release Management
+- Software Developers
+- Product Delivery
+- Application Lifecycle Management
+- Working Software
+- Operational Practices
+- Frequent Releases
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png

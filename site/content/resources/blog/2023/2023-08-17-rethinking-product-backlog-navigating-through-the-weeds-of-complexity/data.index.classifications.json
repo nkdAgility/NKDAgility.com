@@ -49,11 +49,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-11T18:39:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:02:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the dynamics of managing a Product Backlog within complex environments, highlighting systems thinking principles, the interplay of hierarchy and complexity, and the importance of adaptability and emergent practices in organisational contexts.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the dynamics of managing a Product Backlog within complex environments, highlighting systems thinking principles such as the interplay between hierarchy and complexity. It addresses the impact of organisational structure on performance and the importance of emergent practices, aligning well with the core themes of Organisational Physics. The depth of discussion on complexity and the need for adaptive systems further supports a high confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -142,20 +145,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-11T18:39:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:23:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog in Agile development, focusing on the implications of hierarchy, the nature of complexity, and the importance of autonomy and team insights in decision-making processes.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the management of the Product Backlog in Agile environments, touching on decision-making aspects such as the implications of hierarchy, the importance of value, and the need for autonomy in decision-making. However, while it addresses some elements of decision-making, it primarily focuses on the structure and management of the backlog rather than providing a comprehensive exploration of evidence-based decision-making methodologies or frameworks.",
     "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-11T18:39:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:33:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of autonomy and adaptability in managing the Product Backlog, highlighting the need for teams to leverage their expertise and insights. It touches on the balance between strategy and autonomy, which aligns with self-organisation principles, but the primary focus is on backlog management rather than self-organisation itself.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of autonomy and adaptability in managing the Product Backlog, aligning well with self-organisation principles. It highlights the need for teams to leverage their expertise and make decisions independently, which is a core aspect of self-organisation. However, while it touches on these themes, the primary focus is on the structure of the Product Backlog rather than self-organisation itself, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -169,20 +178,26 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the management of the Product Backlog in Agile development, touching on themes of value, complexity, and the need for adaptability, which align with Lean principles. However, it primarily focuses on Agile practices rather than Lean methodologies specifically.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the Product Backlog in Agile development, touching on themes of complexity and the need for flexibility, which aligns with Lean principles. However, it primarily focuses on Agile practices and the critique of hierarchy rather than explicitly addressing Lean Product Development concepts such as waste reduction or customer feedback integration. The discussion lacks depth in Lean-specific strategies and tools, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-11T18:39:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:33:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of fostering a culture that values learning, adaptation, and autonomy within teams, which aligns with the principles of organisational culture in Agile environments.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of fostering a culture that values learning and adaptation in the context of managing a Product Backlog. It touches on the human factor in complex environments and the need for autonomy, which aligns with organisational culture themes. However, the primary focus is on the technical aspects of backlog management rather than a deep exploration of cultural elements, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -205,12 +220,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the implications of hierarchy on the Product Backlog and how it can diminish transparency, making it a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of hierarchy on the Product Backlog and how it can diminish transparency. It highlights the importance of a fluid and adaptable backlog, which aligns with the core themes of transparency in Agile. However, while it touches on transparency, it primarily focuses on the structure and management of the backlog rather than providing a comprehensive discussion on transparency itself.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -250,29 +268,38 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-11T18:39:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:33:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the relationship between strategy and the Product Backlog, emphasising the need for strategic alignment while allowing team autonomy. It touches on strategic concepts within Agile environments, making it a significant theme, though not the sole focus.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the strategic implications of managing the Product Backlog within Agile frameworks, highlighting the balance between strategy and team autonomy. It addresses the importance of aligning the backlog with value-driven approaches and the need for flexibility in complex environments, which aligns well with the core themes of the Strategy category. However, while it touches on strategic concepts, the primary focus is more on backlog management than on broader strategic frameworks, leading to a slightly lower depth score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adaptability and fostering a culture of innovation within the context of managing a Product Backlog, which aligns with the themes of the Ability to Innovate category. However, the primary focus is on backlog management rather than a direct exploration of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of adapting the Product Backlog to foster innovation and adaptability in complex environments. It touches on the need for a culture that values emergent practices and cognitive diversity, which aligns with the core themes of the Ability to Innovate category. However, it lacks explicit frameworks or metrics for measuring innovation capabilities, which limits its direct relevance.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-11T18:39:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:33:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Product Backlog within the context of Agile product development, exploring its structure, management, and implications in complex environments, which aligns closely with Agile principles and frameworks.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Product Backlog within the context of Agile product development, highlighting its importance and the implications of hierarchy. While it touches on Agile principles and the need for adaptability, the focus is more on the management of the backlog rather than a comprehensive exploration of Agile frameworks. The discussion is relevant but lacks depth in comparing frameworks or providing case studies, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -340,11 +367,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T18:40:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:33:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile product development, specifically focusing on the management of the Product Backlog, which is a key aspect of software development methodologies. It explores the implications of hierarchy in backlog management and the importance of adaptability in complex environments, aligning well with software development practices.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the Product Backlog within the context of Agile product development, which is a core aspect of software development methodologies. It addresses the implications of hierarchy in backlog management, aligning closely with Agile principles and practices. The depth of discussion on complexity, emergent practices, and the balance between strategy and autonomy further reinforces its relevance to software development. Overall, the article provides a nuanced exploration of how to manage the Product Backlog effectively in complex environments, making it a strong fit for the Software Development category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -376,11 +406,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-11T18:40:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:33:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of flexibility, team autonomy, and the value of human interactions in Agile environments, which aligns with Agile principles. However, it primarily focuses on the management of the Product Backlog rather than a direct exploration of Agile values and principles.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the Product Backlog in the context of Agile principles, particularly emphasising the importance of flexibility, team autonomy, and the value of emergent practices over rigid hierarchies. It touches on Agile's responsiveness to change and the significance of team dynamics, aligning well with Agile values. However, it primarily focuses on the management of the Product Backlog rather than a broader discussion of Agile values and principles, which limits its depth and direct mention of the category.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -403,11 +436,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-11T18:40:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:33:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog, a key responsibility of the Product Owner, and explores strategies for effective backlog organisation and the implications of hierarchy, which are central to the Product Owner's role.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the management of the Product Backlog, a key responsibility of the Product Owner. It discusses the implications of hierarchy in backlog management, which directly relates to the Product Owner's role in maximising product value. The article provides a nuanced exploration of complexity in product development, aligning well with the responsibilities and practices of a Product Owner. It also touches on stakeholder engagement and the importance of understanding customer needs, further reinforcing its relevance to the category. Overall, the depth of discussion and conceptual alignment with the Product Owner's responsibilities are strong, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -466,12 +502,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Backlog in Agile product development, touching on themes of team dynamics, autonomy, and the implications of hierarchy, which are relevant to software developers. However, it primarily focuses on the management of the Product Backlog rather than the role of developers in Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Product Backlog in Agile development, touching on the complexities of managing it and the importance of team autonomy. While it aligns with Agile principles, it lacks direct references to software developers' roles and practices, focusing more on theoretical aspects of backlog management rather than specific developer practices or tools.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -556,11 +595,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T18:40:39",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T22:33:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 42.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to managing the Product Backlog in Agile environments, emphasising adaptability and real-world applications of complex systems thinking.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the complexities of managing a Product Backlog in Agile environments, emphasising the need for adaptability and practical problem-solving. It critiques hierarchical structures and advocates for a more fluid approach, aligning well with pragmatic thinking principles. However, while it touches on key themes, the depth of practical strategies and case studies is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -574,12 +616,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T18:40:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:34:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog within the context of Agile methodologies, emphasising the importance of flexibility, responsiveness, and the dynamics of complex environments, which aligns closely with Agile Project Management principles.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the management of the Product Backlog, a core aspect of Agile methodologies, particularly in the context of Scrum. It addresses the implications of hierarchy in backlog management, emphasising the need for flexibility and responsiveness, which are key Agile principles. The article also touches on the importance of team autonomy and the role of human cognition in complex environments, aligning well with Agile values. Overall, the depth of discussion and conceptual alignment with Agile Project Management principles is strong.",
+    "level": "Primary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -592,11 +637,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T18:40:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:34:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog within the context of Agile methodologies, emphasising the importance of adaptability, strategy, and the balance between hierarchy and autonomy in complex environments.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Product Backlog in the context of Agile methodologies, highlighting the importance of adaptability and the implications of hierarchy in complex environments. It touches on strategic alignment and the need for autonomy within teams, which aligns with Agile Strategy principles. However, the primary focus is on technical practices related to backlog management rather than a broader strategic discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -628,11 +676,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-11T18:40:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:34:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the complexities of managing a Product Backlog in Agile environments, emphasising the importance of sensemaking in navigating these complexities. It explores how hierarchy can hinder effective decision-making and highlights the need for a nuanced approach that fosters adaptability and collective understanding among team members.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the complexities of managing a Product Backlog in Agile environments, highlighting the importance of sensemaking in navigating these complexities. It explicitly mentions sensemaking as a critical practice in complex product development, aligning well with the category's focus on interpreting complexity and making informed decisions. The depth of discussion on the interplay between hierarchy, complexity, and team dynamics further supports its relevance to sensemaking, although some sections veer into project management without a direct sensemaking perspective.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -646,11 +697,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the management of the Product Backlog and its implications for team dynamics and autonomy, which are relevant to team performance. However, the primary focus is on the structure and complexity of the backlog rather than direct strategies for enhancing team collaboration or performance.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the dynamics of managing a Product Backlog in Agile environments, touching on team autonomy, cognitive diversity, and the importance of collaboration. However, while it mentions aspects related to team performance, such as fostering an adaptable culture and leveraging team expertise, it primarily focuses on the structure and management of the Product Backlog rather than directly addressing team performance strategies or methodologies. Therefore, while there are relevant points, they are not the primary focus of the content.",
     "level": "Tertiary"
   },
   "AI": {
@@ -700,11 +754,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-11T18:41:13",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:34:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the management of the Product Backlog within Agile product development, highlighting the importance of adaptability and the implications of hierarchy, which are relevant to Agile transformation. However, it primarily focuses on the nuances of backlog management rather than broader Agile transformation strategies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Product Backlog within the context of Agile product development, touching on Agile principles such as responsiveness to change and the importance of team autonomy. However, while it aligns with Agile concepts, it primarily focuses on the management of the Product Backlog rather than a comprehensive discussion on Agile transformation strategies or methodologies. The depth of discussion on Agile transformation is limited, as it does not delve into broader topics like frameworks, leadership roles, or change management strategies.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -727,12 +784,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the management of the Product Backlog in Agile development, touching on themes of complexity, team autonomy, and adaptability, which are relevant to organisational change. However, the primary focus remains on product management practices rather than a comprehensive exploration of organisational change strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the management of the Product Backlog within Agile product development, touching on themes of complexity and adaptability. However, it primarily focuses on technical aspects of backlog management rather than broader organisational change strategies or frameworks. While there are mentions of fostering a culture of adaptability and the importance of team autonomy, these are secondary to the main discussion on backlog structure and management, which does not align closely with the core themes of organisational change.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -745,11 +805,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T18:41:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:34:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the management of the Product Backlog, a key aspect of Scrum, and explores its implications in complex product development environments.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the Product Backlog, a key element of Scrum, and explores its management in complex environments. It aligns with Scrum principles by emphasising the importance of value, team autonomy, and adaptability in product development. However, while it touches on Scrum concepts, it lacks explicit references to Scrum roles and events, which slightly diminishes its overall alignment and depth.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -835,11 +898,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T18:41:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:34:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog within Agile product development, focusing on the implications of hierarchy, complexity, and the need for adaptability, which are central themes in Agile Planning.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the Product Backlog, a core element of Agile Planning, and critiques traditional hierarchical structures in favour of a more flexible approach. It aligns well with Agile principles by emphasising adaptability, team autonomy, and the importance of value in backlog items. The depth of discussion on complexity and the human factor in Agile environments further supports its relevance to Agile Planning.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -934,11 +1000,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T18:42:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:34:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implications of managing the Product Backlog within the context of Agile principles, emphasising adaptability, value delivery, and the importance of team autonomy, which are central to Agile philosophy.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the Product Backlog in the context of Agile product development, touching on the importance of value, adaptability, and team autonomy, which aligns with Agile principles. However, it primarily focuses on the management of the Product Backlog rather than the broader Agile philosophy, leading to a high confidence score but not a perfect one.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -952,11 +1021,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-11T18:42:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:34:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog, which is a key aspect of Agile planning. It explores the implications of hierarchy in backlog management and the importance of a fluid approach, aligning with Agile principles. However, it also delves into broader concepts of complexity and human cognition, making Agile Planning Tools a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Product Backlog, a key Agile Planning Tool, and explores its management and the implications of hierarchy within it. However, while it touches on Agile principles and the importance of backlog management, it lacks detailed exploration of specific tools or methodologies that facilitate Agile planning. The focus is more on the conceptual understanding of backlog dynamics rather than practical applications or specific tools, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -988,12 +1060,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between strategy and the Product Backlog, highlighting the need for strategic alignment while allowing team autonomy. However, the primary focus is on Product Backlog management rather than explicitly defining long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of strategy in relation to the Product Backlog and highlights the need for a balance between strategic alignment and team autonomy. While it touches on strategic goals, the primary focus is on the management of the Product Backlog and complexity in product development, which makes it secondary to the main theme of strategic goals.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1006,20 +1081,26 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes in the context of managing a Product Backlog, particularly in complex environments. While it primarily focuses on Agile practices, it touches on themes of strategy, autonomy, and the cognitive aspects of decision-making, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the complexities of managing a Product Backlog in Agile development, touching on themes of hierarchy, complexity, and decision-making. However, it primarily focuses on Agile practices rather than explicitly exploring decision theory concepts such as heuristics, biases, or formal decision-making frameworks. While there are elements of decision-making and the influence of cognitive psychology, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management of the Product Backlog in the context of complex product development, touching on themes of adaptability and the importance of a culture that values learning and autonomy, which are relevant to enterprise agility. However, it primarily focuses on team-level practices rather than broader organisational implications.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Product Backlog in the context of Agile product development, touching on themes of complexity, adaptability, and the importance of team autonomy. While it does not explicitly mention enterprise agility frameworks or organisational structures, it aligns with the core themes of fostering a culture of adaptability and innovation. The depth of discussion on the implications of hierarchy and the need for a flexible approach contributes to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean": {
@@ -1153,12 +1234,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the management of the Product Backlog in Agile development, touching on the implications of hierarchy and complexity, which are relevant to Agile practices. However, it primarily focuses on theoretical aspects rather than specific tools or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the Product Backlog in Agile development, touching on its structure and management. However, it primarily focuses on the philosophical implications of hierarchy and complexity rather than practical techniques or specific tools. While it mentions concepts relevant to Agile practices, it lacks detailed exploration of methodologies or tooling that enhance team performance or delivery outcomes.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1210,12 +1294,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Product Backlog in Agile product development, touching on methodologies and practices relevant to Agile principles, but it does not focus on specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Product Backlog in detail, which is a key aspect of Agile methodologies. It explores the implications of hierarchy in backlog management and the importance of adapting practices to complex environments. However, it lacks direct references to specific books or products, and while it aligns conceptually with Agile principles, it does not provide in-depth analysis or reviews of literature or tools, which limits its depth of discussion in the context of the category.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1240,12 +1327,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the management of the Product Backlog in Agile development, touching on the importance of value, complexity, and team autonomy, which are relevant to value delivery. However, it primarily focuses on the structure and implications of the backlog rather than delivering value directly.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Product Backlog's role in Agile development, touching on the importance of value and the implications of hierarchy. However, while it mentions value and the need for a nuanced approach, it primarily focuses on the structure and management of the backlog rather than delivering value directly. The discussion lacks depth in terms of specific strategies or methodologies for value delivery, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1339,12 +1429,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:34:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the psychological aspects of hierarchy and cognition in the context of product backlog management, which relates to team dynamics and employee engagement. However, the primary focus is on Agile methodologies rather than organisational psychology.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the psychological aspects of hierarchy and cognition in team dynamics, which aligns with organisational psychology. However, the primary focus is on Agile methodologies and product backlog management, making the psychological elements secondary rather than the main theme.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1375,11 +1468,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:49:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:34:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the management of the Product Backlog within the context of Agile product development, focusing on value delivery, complexity, and the importance of a product-centric approach, which aligns closely with the Agile Product Operating Model.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the Product Backlog within the context of Agile product development, highlighting its importance and the implications of hierarchy versus a more fluid approach. It aligns well with the principles of product-centric development, emphasising the need for adaptability and continuous feedback, which are core themes of the Agile Product Operating Model. The depth of discussion on complexity and the human factor in product development further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Beta Codex": {

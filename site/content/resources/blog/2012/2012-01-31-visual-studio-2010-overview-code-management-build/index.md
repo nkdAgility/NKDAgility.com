@@ -35,9 +35,6 @@ tags:
 - Practical Techniques and Tooling
 - Modern Source Control
 - Application Lifecycle Management
-- Events and Presentations
-- Technical Excellence
-- Technical Mastery
 
 ---
 code-management-and-build

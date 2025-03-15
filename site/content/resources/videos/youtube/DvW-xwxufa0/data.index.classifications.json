@@ -46,7 +46,7 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-13T16:31:48",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -54,16 +54,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of external expertise in organisational learning and development, touching on themes of institutional knowledge and the limitations of self-taught learning. However, it lacks a direct focus on systems thinking principles or the dynamics of organisational behaviour as defined in the category of Organisational Physics. While it does mention organisational challenges and the role of guidance, it does not delve deeply into the interplay of organisational structure, culture, or processes, which are core to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives and guidance in problem-solving and learning, which aligns with coaching principles. However, it primarily focuses on self-taught learning and the role of external consultants rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of external perspectives and guidance in learning and development, which aligns with coaching principles. However, it primarily focuses on self-taught learning and external expertise rather than the coaching process itself. The mention of a Scrum coach indicates some relevance, but the overall emphasis is not on coaching techniques or fostering team growth directly.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -139,12 +142,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:18:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives in problem-solving and decision-making within organisations, highlighting the need for structured approaches to identify options and improve effectiveness. However, it primarily focuses on self-taught learning and the role of external input rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of external expertise in decision-making processes, particularly in the context of self-taught learning and its limitations. However, it primarily focuses on the value of diverse perspectives rather than structured, evidence-based methodologies for decision-making. While it touches on related themes, it lacks a deep exploration of decision-making frameworks or empirical evidence, which are central to the category.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -175,12 +181,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:18:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives and institutional knowledge in organisations, which relates to organisational culture. However, the primary focus is on self-taught learning and the role of external help in problem-solving, making culture a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of external expertise and the limitations of self-taught learning, which indirectly touches on aspects of organisational culture, such as institutional knowledge and team dynamics. However, it primarily focuses on individual learning and external guidance rather than explicitly addressing cultural elements that influence agility or transformation within teams. The discussion lacks depth in exploring how organisational culture specifically impacts Agile methodologies or DevOps practices.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -247,7 +256,7 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T15:01:00",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -255,11 +264,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of external expertise in the context of self-taught learning and DevOps, but it does not explicitly focus on strategic approaches within Agile, Scrum, or DevOps frameworks. While it touches on themes of continuous learning and institutional knowledge, it lacks a direct emphasis on strategic alignment or the development of value-driven strategies, which are core to the Strategy category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-11T09:52:56",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -267,7 +276,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of external perspectives in problem-solving and innovation within organisations, which aligns with the concept of fostering a culture of innovation. However, it lacks explicit references to frameworks, metrics, or Evidence-Based Management principles, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -343,16 +352,19 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-taught learning in the context of software engineering and DevOps, highlighting the importance of external perspectives and training for engineers. While it touches on relevant themes, it primarily focuses on the challenges of self-learning rather than specific software development methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:19:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of external expertise in software development and DevOps, highlighting the limitations of self-taught learning. It aligns with key themes of software development, such as continuous learning and the role of external guidance. However, the focus is more on the philosophical aspects of learning rather than specific methodologies or practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T13:37:39",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -360,7 +372,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of external perspectives in improving engineering practices and highlights the lack of formal training for engineers, which indirectly relates to engineering excellence. However, it primarily focuses on self-taught learning and the need for external input rather than specific engineering practices or standards. The discussion lacks depth in terms of established best practices or methodologies directly tied to engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -418,7 +430,7 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-13T16:23:46",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -426,7 +438,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the importance of external expertise in overcoming the limitations of self-taught learning, which indirectly relates to change management by highlighting the need for adaptability and continuous improvement. However, it lacks a direct focus on change management principles, strategies, or practices, making it a secondary topic rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -646,12 +658,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:18:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives in problem-solving and decision-making within organisations, which aligns with sensemaking principles. However, it primarily focuses on self-taught learning and the role of external input rather than a comprehensive exploration of sensemaking frameworks or techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of external perspectives in overcoming the limitations of self-taught learning, which touches on aspects of sensemaking. However, it primarily focuses on the value of external expertise rather than exploring the principles or frameworks of sensemaking in complex environments. While it mentions the need for organisations to identify problems and explore solutions, it lacks a detailed discussion on sensemaking frameworks or techniques, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -745,7 +760,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T13:57:45",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -753,7 +768,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of external perspectives in organisational learning and improvement, which aligns with the theme of organisational change. However, it primarily focuses on individual learning and self-taught knowledge rather than structured methodologies or frameworks for organisational transformation. While it touches on the need for change and improvement, it lacks depth in discussing specific strategies or practices related to organisational change, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -775,12 +790,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives in improving operational efficiency and effectiveness, particularly in the context of DevOps. However, it primarily focuses on self-taught learning and the need for training rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:19:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of external expertise in overcoming the limitations of self-taught learning, which indirectly relates to operational practices by highlighting the need for diverse perspectives and continuous improvement. However, it lacks a direct focus on specific operational techniques or methodologies within Agile, DevOps, or Lean frameworks, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -838,7 +856,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T11:16:03",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -846,7 +864,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of external perspectives in problem-solving and the limitations of self-taught learning, which indirectly relates to technical leadership. However, it lacks direct mentions of agile methodologies, servant leadership, or specific strategies for mentoring and coaching development teams. While it touches on the role of experience in guiding teams, it does not delve deeply into the principles or practices of technical leadership, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -931,7 +949,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T17:54:08",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -939,7 +957,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of external perspectives in improving organisational effectiveness and mentions self-taught engineers, but it lacks a direct focus on technical mastery principles such as software craftsmanship, clean code, or specific engineering practices. While it touches on DevOps and the need for continuous learning, it does not delve deeply into methodologies or best practices that would align it more closely with the Technical Mastery category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1072,12 +1090,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of external perspectives in problem-solving and organisational improvement, which aligns with themes of adaptability and continuous improvement. However, it primarily focuses on self-taught learning and the role of external input rather than explicitly addressing organisational resilience or change management practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of external expertise in overcoming the limitations of self-taught learning, which indirectly relates to organisational resilience by highlighting the need for diverse perspectives to adapt and improve. However, the primary focus is on learning methodologies rather than explicit strategies for resilience or change management, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1147,16 +1168,19 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives in problem-solving and organisational improvement, which aligns with Systems Thinking principles. However, it primarily focuses on self-taught learning and individual experiences rather than a comprehensive exploration of Systems Thinking concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of self-taught learning and the importance of external expertise, which touches on interconnectedness and the need for diverse perspectives. However, it primarily focuses on individual learning and development rather than the holistic analysis of systems or organisational dynamics, which are central to Systems Thinking. The discussion lacks depth in exploring systemic principles or methodologies related to Systems Thinking.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-11T00:21:22",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1164,7 +1188,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of external perspectives in problem-solving and the limitations of self-taught learning, which touches on themes of uncertainty and the need for adaptive approaches. However, it lacks direct references to complexity science principles, frameworks like Cynefin, or detailed discussions on non-linear dynamics and emergent behaviours. The focus is more on practical advice rather than a deep exploration of complexity thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1177,12 +1201,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of external perspectives and tools in improving organisational effectiveness, which aligns with the category's focus on practical techniques and tooling. However, it primarily centres on the value of self-taught learning and the need for external input rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of external expertise in software development and DevOps, touching on the limitations of self-taught learning. While it mentions tools and methodologies, the focus is more on the philosophical aspects of learning and guidance rather than practical application or specific tooling. The discussion lacks depth in terms of specific tools or methodologies that enhance Agile and DevOps practices, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1195,12 +1222,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives and continuous learning in organisations, which relates to adaptability. However, it primarily focuses on self-taught learning and the role of external insights rather than specific strategies or methodologies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of external expertise and continuous learning in the context of DevOps, which indirectly relates to market adaptability. However, it primarily focuses on self-taught learning and the limitations thereof, rather than explicitly addressing strategies for enhancing market responsiveness or agility. While there are mentions of exploring new solutions and the role of external guidance, the core themes of Agile, DevOps, and Lean methodologies are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1243,7 +1273,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-13T15:23:42",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1251,7 +1281,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of external expertise and continuous learning, which are relevant to business agility. However, it primarily focuses on self-taught learning and the limitations thereof, rather than directly addressing the principles and practices of business agility. While there are mentions of fostering innovation and exploring new solutions, the overall emphasis is not on the core themes of business agility, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1264,7 +1294,7 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-11T16:09:56",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1272,7 +1302,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of external expertise in overcoming the limitations of self-taught learning, which indirectly relates to value delivery by emphasising the need for diverse perspectives and continuous improvement. However, it lacks a direct focus on value delivery strategies or methodologies within Agile, Scrum, or DevOps frameworks, making it a secondary rather than primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1297,7 +1327,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T17:23:07",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
@@ -1305,7 +1335,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses personal experiences and insights related to self-taught learning and the importance of external expertise in the context of DevOps. While it includes personal anecdotes and reflections, the primary focus is on the broader implications of learning and development rather than strictly personal experiences. The depth of discussion on personal insights is moderate, but it does not delve deeply into individual challenges or specific Agile transformations, which limits its alignment with the 'Personal' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1321,11 +1351,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:19:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of external perspectives in organisational learning and improvement, touching on the interplay between individual learning, institutional knowledge, and organisational effectiveness. However, it primarily focuses on self-taught learning and the role of external input rather than a comprehensive exploration of sociotechnical systems.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of external expertise in the context of self-taught learning and its limitations, which touches on the interplay between individual learning and organisational effectiveness. However, it lacks a direct focus on sociotechnical systems as a primary theme, and while it mentions team dynamics and institutional knowledge, it does not delve deeply into the broader sociotechnical interactions or frameworks. The discussion is more centred on personal development and external guidance rather than a comprehensive exploration of sociotechnical systems.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1348,12 +1381,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:18:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses aspects of DevOps and application lifecycle management, but primarily focuses on self-taught learning and the importance of external perspectives rather than the structured management of the application lifecycle.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of external expertise in software development and DevOps, touching on aspects of application lifecycle management. However, it primarily focuses on self-taught learning and the limitations thereof, rather than providing a detailed exploration of the application lifecycle stages or specific ALM practices. While there are mentions of DevOps and institutional knowledge, the core themes of Application Lifecycle Management are not the primary focus.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1411,7 +1447,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-07T12:55:59",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 30,
@@ -1419,11 +1455,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of external perspectives in problem-solving and organisational improvement, which aligns with leadership's role in fostering collaboration and innovation. However, it primarily focuses on self-taught learning and the limitations of internal knowledge rather than directly addressing leadership practices or strategies. While there are mentions of guiding teams and facilitating progress, the depth of discussion on leadership frameworks or specific leadership techniques is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T11:41:05",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1431,7 +1467,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of external perspectives and continuous improvement in organisations, which aligns with the themes of collaboration and adaptation to change. However, it lacks direct mentions of specific frameworks like Scrum, Kanban, Lean, or Agile practices, and does not delve deeply into their principles or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1453,7 +1489,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:44:46",
+    "calculated_at": "2025-03-14T18:18:53",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1461,6 +1497,6 @@
     "non_ai_confidence": 50,
     "final_score": 28.0,
     "reasoning": "The content briefly mentions the role of a Scrum coach and consultant, indicating some connection to Scrum principles. However, the primary focus is on self-taught learning and the importance of external perspectives in problem-solving, which does not align closely with the core themes of Scrum. The discussion lacks depth regarding Scrum roles, events, or artifacts, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

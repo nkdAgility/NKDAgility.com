@@ -1,7 +1,7 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T13:58:00",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on project management in complex environments but does not explicitly mention or discuss any of the frameworks or methodologies associated with Social Technologies, such as Scrum, Kanban, Lean, or Agile practices. The focus is more on the limitations of traditional project management rather than on the principles of collaboration, continuous improvement, or value delivery that are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -49,12 +49,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at an agile response, indicating a major but secondary theme related to business agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques traditional project management in complex environments, which indirectly relates to business agility. However, it lacks a direct focus on business agility principles, strategies, or leadership roles. The discussion is more about the limitations of project management rather than exploring how organisations can adapt and innovate in dynamic markets.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -124,11 +127,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:32",
+    "ai_confidence": 52.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses traditional project management and its limitations in complex environments, it acknowledges the need for Agile approaches, making Agile a significant secondary theme.",
+    "final_score": 48.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at Agile methodologies as a solution. However, it does not delve deeply into specific Agile frameworks or principles, making it more of a general commentary on project management rather than a focused exploration of Agile frameworks.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -232,12 +238,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the limitations of traditional project management in delivering products effectively in complex environments, touching upon Agile as a potential solution.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of traditional project management in complex environments, which indirectly relates to product delivery. However, it primarily focuses on the limitations of project management rather than the methodologies and practices of delivering software products. While Agile is mentioned, the discussion lacks depth in terms of specific product delivery practices and does not provide detailed insights into the end-to-end process of delivering usable software.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -259,7 +268,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T10:13:43",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -267,7 +276,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the limitations of project management in complex environments, touching on the unpredictability and variance in outcomes. However, it lacks explicit references to team dynamics, collaboration, or human factors, which are central to the 'People and Process' category. The discussion is more focused on the challenges of project management methodologies rather than the interplay between people and processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -280,12 +289,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "Content discusses the limitations of traditional Project Management in complex environments and suggests Agile as a more suitable approach, making Agile a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at the need for agile methodologies as a solution. While it mentions Agile and Scrum courses, the primary focus is on the shortcomings of traditional methods rather than a detailed exploration of agile principles or practices. Therefore, it aligns with the category but lacks depth and direct discussion of agile methodologies.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -352,7 +364,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:30:39",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -360,7 +372,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments, which is tangentially related to technical leadership but does not focus on guiding development teams or agile best practices. While it mentions Agile and Scrum, it lacks depth in discussing technical leadership principles, mentoring, or fostering team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -382,21 +394,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues with traditional project management in complex environments and hints at Agile as a solution, making Agile Planning a significant theme alongside traditional project management critiques.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at Agile as a solution, but it does not delve deeply into Agile Planning principles or practices. While it mentions Agile and Scrum, the focus remains on critiquing traditional methods rather than exploring Agile Planning in detail.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at Agile approaches as a solution, indicating a secondary theme related to Agile values.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments, hinting at the need for Agile methodologies. However, it primarily focuses on project management rather than explicitly addressing Agile values and principles. While it mentions the need for a different approach in complex situations, it lacks a detailed exploration of Agile's core values or principles, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -481,11 +499,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional project management in complex environments and suggests Agile as an alternative approach, making Agile a major theme but not the primary focus.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at Agile as a solution. However, it primarily focuses on project management rather than Agile transformation principles, frameworks, or methodologies. The mention of Agile and Scrum courses suggests a potential shift towards Agile practices, but the depth of discussion on Agile transformation itself is minimal.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -517,21 +538,27 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional project management in complex environments, hinting at the need for adaptive change and potentially fostering resilience through Agile methodologies. However, it primarily focuses on project management rather than directly addressing resilience and change as central themes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments, which indirectly relates to the need for resilience and adaptability. However, it primarily focuses on project management methodologies rather than explicitly addressing organisational resilience or change management strategies. The mention of Agile as a solution hints at adaptability but lacks depth in discussing frameworks or leadership roles in guiding change.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses issues related to project management in complex environments, it briefly mentions Agile methodologies and suggests exploring Scrum courses, indicating a secondary theme related to practical techniques and tooling.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at Agile methodologies as a solution. However, it lacks direct mentions of specific tools or practical techniques, focusing more on the philosophical aspects of project management rather than providing detailed insights into Agile practices or tooling. The depth of discussion is moderate, but it does not sufficiently align with the core themes of the category.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -742,12 +769,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile's role in addressing project management failures in complex environments, indicating a secondary theme on adaptability using Agile principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments, hinting at the need for Agile methodologies. However, it primarily focuses on project management challenges rather than explicitly addressing market adaptability strategies. While it mentions Agile as a potential solution, the depth of discussion on how Agile enhances market adaptability is limited.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -832,16 +862,19 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of traditional project management in complex environments, highlighting the need for different approaches. While it touches on the importance of understanding complexity, it primarily focuses on project management rather than sensemaking as a core theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments, which touches on the principles of sensemaking. However, it primarily focuses on project management rather than exploring sensemaking as a primary theme. While it mentions the need for different approaches in complex situations, it lacks depth in discussing frameworks, techniques, or leadership roles related to sensemaking.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T16:50:43",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -849,7 +882,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the limitations of traditional project management in complex environments, which indirectly relates to strategic considerations in Agile contexts. However, it primarily focuses on project management rather than explicitly addressing strategic alignment or techniques within Agile frameworks. The mention of Agile and Scrum courses suggests a potential for strategic improvement, but the depth of discussion on strategy itself is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -937,7 +970,7 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T17:43:20",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -945,16 +978,19 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the limitations of traditional project management in complex environments, which is tangentially related to Agile principles. While it briefly mentions Agile as a potential solution, it does not delve into specific Agile product management practices or the role of the Product Owner, nor does it provide substantial detail on aligning product vision with customer needs or stakeholder engagement. The focus remains on project management rather than Agile product management specifically.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the shortcomings of traditional Project Management in complex environments, which aligns with the principles of Systems Thinking by acknowledging the complexities and interdependencies in these scenarios. However, it primarily focuses on Project Management and Agile methodologies rather than a thorough exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments, which touches on the interconnectedness of various components and the need for a different approach. However, it primarily focuses on project management methodologies rather than explicitly exploring Systems Thinking principles, techniques, or frameworks. The discussion lacks depth in terms of Systems Thinking concepts and does not provide a holistic analysis or case studies relevant to the category.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -976,16 +1012,19 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the shortcomings of traditional project management in complex environments, suggesting the need for adaptive approaches, which aligns with themes of sociotechnical interactions, but it primarily focuses on project management rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses project management in complex environments, touching on the limitations of traditional project management approaches. However, it lacks explicit references to sociotechnical systems or the interplay between social and technical elements. While it hints at the need for different approaches in complex scenarios, it does not delve into organisational culture, team dynamics, or the integration of social and technical aspects, which are central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-10T14:20:39",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -993,16 +1032,16 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content discusses project management in complex environments but does not directly reference any specific products, books, or tools related to Agile or DevOps. While it touches on themes relevant to project management, it lacks explicit mentions of literature or resources that would fit the 'Products and Books' category. The discussion is more theoretical and does not provide detailed insights or analyses of specific methodologies or frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T07:25:18",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "While the content discusses complexities in project management and contrasts traditional methods with Agile approaches, it does not primarily focus on empirical process control or its principles. The mention of Agile is not central to the discussion.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1090,11 +1129,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses project management in complex environments with a focus on Agile practices, which relates to software development methodologies, but the primary emphasis is on project management rather than software development itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses project management in complex environments, touching on Agile methodologies and the limitations of traditional project management. However, the primary focus is on project management rather than software development practices. While Agile is mentioned, the depth of discussion on software development techniques is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -1237,7 +1279,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:41:16",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1245,7 +1287,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the limitations of traditional project management in complex environments, hinting at the need for Agile approaches. However, it primarily focuses on project management rather than explicitly addressing Agile leadership principles or the role of leaders in fostering Agile practices. The mention of Agile and Scrum courses suggests a secondary focus on Agile methodologies rather than leadership, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1330,7 +1372,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-07T13:58:02",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1338,7 +1380,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the limitations of project management in complex environments, which could relate to organisational change, but it primarily focuses on project management principles rather than discussing strategies or methodologies for organisational transformation. There is minimal direct mention of organisational change concepts, and the depth of discussion does not provide substantial insights into the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1351,11 +1393,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional project management in complex environments and introduces Agile as a potential solution. While it mentions Agile, the focus is primarily on project management concepts rather than a comprehensive discussion on Agile strategy.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at Agile as a solution, but it lacks a detailed exploration of Agile strategy principles. While it mentions Agile and suggests courses, it does not deeply engage with the core themes of Agile strategy, such as continuous value delivery or leadership roles in fostering an Agile culture.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -1378,11 +1423,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:05:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of traditional project management in complex environments and hints at Agile solutions, making agility a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the limitations of traditional project management in complex environments, hinting at the need for agile methodologies. However, it primarily focuses on project management rather than organisational agility as a whole. While it mentions the need for a different approach in complex situations, it lacks detailed exploration of agile principles, leadership roles, or cultural shifts necessary for organisational agility.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1423,7 +1471,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:23:43",
+    "calculated_at": "2025-03-15T00:05:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1431,6 +1479,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on project management in complex environments but does not explicitly mention Scrum or its principles. While it hints at the challenges of managing projects with high uncertainty, it lacks a direct discussion of Scrum roles, events, or artifacts, which are essential for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

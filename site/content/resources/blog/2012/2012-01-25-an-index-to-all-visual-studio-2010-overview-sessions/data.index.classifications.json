@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Visual Studio 2010 and its features, which are tools relevant to Agile and DevOps practices, but it primarily focuses on high-level overviews rather than practical application or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content provides an overview of Visual Studio 2010 and its features, which aligns with the category's focus on tools. However, it primarily offers high-level overviews without delving into practical techniques or methodologies for implementing Agile or DevOps practices. The discussions are more about the tools themselves rather than their application in enhancing team performance or collaboration.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -118,7 +121,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:58:31",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -126,7 +129,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Visual Studio 2010 and its features, with only a brief mention of ALM (Application Lifecycle Management) practices. While there are elements related to software development and management, the focus is not on DevOps principles or practices. The discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts, which are essential for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -169,7 +172,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T15:06:07",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -177,7 +180,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the features of Visual Studio 2010 and Team Foundation Server, with only brief mentions of user interactions and processes. While it touches on how users engage with the tools, it lacks a deep exploration of team dynamics, leadership, or communication strategies, which are central to the 'People and Process' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -217,7 +220,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T10:36:32",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -225,7 +228,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content provides an overview of Visual Studio 2010 and its features, which touches on some technical aspects relevant to software development. However, it primarily focuses on high-level overviews rather than in-depth discussions of engineering practices or methodologies that enhance technical excellence. While there are mentions of tools and features that could relate to CI/CD and code management, the lack of detailed exploration into these practices and their impact on agility and quality limits the alignment with the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -277,12 +280,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:46",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses webcasts related to Visual Studio 2010, which is a software product relevant to Agile and DevOps practices, but it primarily focuses on the webcasts rather than providing in-depth reviews or analyses of the product itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the features and overviews of Visual Studio 2010 and its associated webcasts, which are tools relevant to Agile and DevOps practices. However, it lacks in-depth analysis or reviews of the product itself, focusing more on the presentation of webcasts rather than a critical evaluation or discussion of methodologies. While it does mention the product and its functionalities, the discussion does not delve deeply into how these tools enhance Agile or DevOps principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -349,11 +355,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses webcasts related to Visual Studio 2010 and its features, which may provide insights into tools relevant to Agile and DevOps. However, it primarily focuses on the webcasts themselves rather than offering a critical review or analysis of industry trends.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on providing an overview of Visual Studio 2010 and its features through a series of webcasts. While it does mention tools relevant to Agile and DevOps, such as Visual Studio ALM and Team Foundation Server, the discussion lacks depth in terms of industry news or reviews. The content is more of a promotional nature rather than an analytical review or news update, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -388,12 +397,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content provides an overview of Visual Studio ALM features and discusses aspects related to code management, testing, and architecture, which align with technical practices. However, the focus is mostly high-level and not deeply technical.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content provides an overview of Visual Studio 2010 and its features, which touches on aspects of software craftsmanship and engineering practices. However, it primarily focuses on high-level overviews rather than in-depth discussions of best practices, principles, or methodologies that contribute to technical mastery. The mention of specific features like IntelliTrace and Test Impact Analysis indicates some alignment with technical excellence, but the overall depth and focus on technical mastery principles are limited.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -496,12 +508,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio ALM and its features, which can relate to operational practices in software development but primarily serves as an overview rather than a focused discussion on specific operational efficiency techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on high-level overviews of Visual Studio ALM features rather than discussing specific operational practices or methodologies that enhance efficiency. While it mentions tools and sessions related to Agile and DevOps, it lacks detailed discussions on process optimisation, continuous improvement, or practical applications of these methodologies. The content is more promotional and descriptive rather than analytical or instructional regarding operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -559,7 +574,7 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-11T18:07:25",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -567,7 +582,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides a high-level overview of Visual Studio ALM and mentions testing tools like Microsoft Test Manager, but it lacks a focused discussion on automated testing principles, methodologies, or best practices. The references to testing are secondary and do not delve into the specifics of automated testing frameworks or their impact on software quality.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -637,12 +652,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Visual Studio 2010 and Team Foundation Server, which are related to code management and build processes, indicating that source control is a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, which are related to application lifecycle management rather than focusing specifically on modern source control practices. While there are mentions of code management, the discussion lacks depth in version control methodologies, branching strategies, or collaboration workflows that are central to the category of Modern Source Control.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -754,7 +772,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:25:07",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -762,7 +780,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides an overview of Visual Studio 2010 and its features, which may touch on aspects of software development tools and practices. However, it lacks a direct focus on engineering excellence principles, such as coding standards, quality assurance, or continuous improvement. The discussions are primarily high-level and do not delve into best practices or detailed methodologies that would align with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -802,7 +820,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T12:01:40",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -810,7 +828,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides an overview of Visual Studio ALM and its features, which touches on practical applications in software development. However, it lacks a strong focus on pragmatic problem-solving strategies or real-world applications of Agile, Scrum, or DevOps principles. The discussions are primarily high-level and do not delve deeply into the complexities or practical techniques associated with navigating challenges in these frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -868,12 +886,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses Visual Studio ALM and its features, there is a specific mention of Microsoft Test Manager, which relates to testing and may involve aspects of test automation. However, the overall focus is more on the general features of Visual Studio rather than on test automation principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content provides a high-level overview of Visual Studio 2010 and its features, including references to Microsoft Test Manager, which is related to test automation. However, the discussion lacks depth and does not focus specifically on test automation principles, frameworks, or best practices. The primary emphasis is on general features of Visual Studio and ALM rather than a dedicated exploration of test automation.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -886,11 +907,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio 2010 and its features, which relate to software development and delivery. While it is primarily focused on high-level overviews and tools rather than concrete examples of working software, it does touch upon elements important in the context of software development and quality features.",
+    "final_score": 56.0,
+    "reasoning": "The content provides an overview of Visual Studio 2010 and its features, which are relevant to software development. However, it lacks a direct focus on the delivery of functional software or discussions on quality and customer feedback. While it touches on aspects of software tools and user interaction, it does not delve deeply into the principles of working software as defined in Agile and Scrum frameworks.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1228,7 +1252,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T18:46:15",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1236,7 +1260,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses Visual Studio 2010 and its features, which are relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While there are mentions of tools that developers might use, the discussion does not delve deeply into best practices or the role of developers within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1249,12 +1273,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides an overview of features in Visual Studio 2010, including aspects of code management and testing tools, which are relevant to engineering practices, but the primary focus is more on high-level overviews rather than a deep discussion on Agile engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on high-level overviews of Visual Studio 2010 and its features, with limited direct discussion of engineering practices. While it touches on aspects of code management and testing, it does not delve into core Agile methodologies or principles such as TDD, CI/CD, or clean code practices. The depth of discussion is superficial, lacking detailed exploration of the engineering practices that enhance collaboration and efficiency within Agile teams.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1420,7 +1447,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:46:44",
+    "calculated_at": "2025-03-15T06:12:29",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
@@ -1428,6 +1455,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Visual Studio ALM and its features, with no direct mention of Scrum principles, roles, events, or artifacts. While it discusses project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion on Scrum is minimal, as the content does not engage with Scrum practices or frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

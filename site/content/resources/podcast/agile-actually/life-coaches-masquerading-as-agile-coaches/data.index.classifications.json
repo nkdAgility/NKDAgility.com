@@ -1,7 +1,7 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:08:38",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile coaching and the qualifications of Agile coaches, with only a brief mention of DevOps in the context of one of the hosts. While there is a connection to Agile methodologies, which can relate to DevOps, the focus is not on DevOps principles, practices, or tools. The discussion lacks depth regarding DevOps topics, making it a secondary theme rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -34,7 +34,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T14:24:25",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -42,7 +42,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the qualifications and roles of Agile coaches, which indirectly touches on leadership in Agile contexts. However, it lacks a direct focus on leadership practices, strategies, or frameworks. The mention of Agile coaching implies a leadership role, but the discussion does not delve into how these roles foster organisational agility or inspire teams, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -82,21 +82,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile coaching and mentions Professional Scrum trainers, but the main topic is the controversy surrounding life coaches posing as Agile coaches, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions 'Professional Scrum Trainer' in relation to the hosts, indicating a connection to Scrum. However, the primary focus is on the controversy surrounding life coaches presenting themselves as Agile coaches, which deviates from a direct exploration of Scrum principles, roles, or practices. The discussion lacks depth in Scrum-specific topics and does not provide substantial insights into the Scrum framework or its application.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily addresses the role and qualifications of agile coaches, which is a secondary theme related to Agile frameworks but does not deeply explore or compare them.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Agile coaches and their qualifications, which indirectly relates to Agile frameworks. However, it lacks a direct exploration of specific frameworks like Scrum or Kanban, and does not provide in-depth analysis or case studies. The focus is more on the controversy surrounding Agile coaching rather than on the frameworks themselves.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -301,20 +307,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Agile coaching and its implications in software development practices, but it also touches on broader themes and controversies around professional coaching and qualifications.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses Agile coaching, which is a significant aspect of software development methodologies. It mentions Agile practices and the roles of Agile coaches, aligning well with the core themes of the Software Development category. However, the discussion is somewhat focused on the controversy surrounding the qualifications of Agile coaches rather than on specific software development practices or methodologies in detail, which slightly lowers the depth of discussion. Overall, it maintains a strong relevance to software development, particularly in the context of Agile frameworks.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of agile coaches and raises concerns about the qualifications of individuals presenting themselves as coaches, making coaching a significant theme.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the distinction between life coaches and Agile coaches, highlighting the importance of professional coaching skills in Agile contexts. While it touches on coaching, it primarily critiques the qualifications of individuals presenting themselves as Agile coaches rather than exploring coaching techniques or practices in depth. The focus is more on the controversy surrounding the legitimacy of Agile coaching rather than on the supportive and developmental aspects of coaching itself.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -328,12 +340,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile coaching and its implications, which relates to Agile strategy, but does not focus primarily on the key strategic concepts outlined.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Agile coaches and the controversy surrounding individuals misrepresenting their qualifications. While it touches on Agile coaching, it lacks a direct focus on Agile strategy, such as organisational alignment or strategic planning. The discussion is more about the qualifications and roles within Agile rather than the strategic implications of Agile methodologies.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -463,7 +478,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:08:41",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 42.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
@@ -471,7 +486,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile coaching and the qualifications of Agile coaches, which indirectly relates to the role of software developers in Agile environments. However, it primarily focuses on the controversy surrounding Agile coaches rather than on software developers' practices or methodologies. While there are mentions of Agile and DevOps, the depth of discussion does not sufficiently cover the core themes of software development practices, making it a secondary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -520,7 +535,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:24:33",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -528,7 +543,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile coaching and the qualifications of Agile coaches, which indirectly relates to the role of a Scrum Master. However, it does not specifically focus on the responsibilities or practices of Scrum Masters, nor does it delve into Scrum ceremonies or team dynamics. The primary focus is on the broader concept of Agile coaching rather than the specific role of a Scrum Master.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -550,7 +565,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:33:51",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -558,7 +573,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the role of agile coaches and the qualifications necessary for effective coaching in agile environments. However, it primarily focuses on the controversy surrounding unqualified individuals presenting themselves as agile coaches rather than providing in-depth insights into technical leadership principles or practices. While there are mentions of agile coaching, the discussion lacks depth in exploring how technical leadership can influence team dynamics or foster collaboration, which are core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -598,7 +613,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T12:17:45",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -606,7 +621,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the role of Agile coaches and the controversy surrounding their qualifications, which is tangentially related to organisational change. However, it lacks a direct focus on the principles, frameworks, or methodologies of organisational change itself. While it touches on Agile practices, it does not delve into the broader themes of change management or organisational transformation, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -649,12 +664,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile coaching, which relates to business agility principles; however, it is primarily focused on the issue of qualifications for Agile coaches rather than a comprehensive exploration of business agility itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Agile coaches and the controversy surrounding their qualifications. While it touches on Agile practices, it does not explicitly address the principles of business agility or how organisations can adapt and innovate in a dynamic market. The focus is more on individual roles within Agile rather than the broader organisational strategies and frameworks that define business agility.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -712,7 +730,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:44:08",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -720,7 +738,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the role of Agile coaches and the implications of individuals misrepresenting their qualifications in Agile contexts. While it touches on leadership in terms of coaching, it primarily focuses on the qualifications and controversies surrounding Agile coaching rather than providing a deep exploration of Agile leadership principles or practices. The direct mentions of leadership are minimal, and the depth of discussion does not fully align with the core themes of Agile Leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -832,11 +850,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of Agile Coaches, but primarily focuses on the controversy surrounding life coaches presenting themselves as Agile Coaches, which makes it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of agile coaches and the qualifications necessary for effective agile coaching, which aligns with the principles of Agile Project Management. However, it primarily focuses on the controversy surrounding the legitimacy of certain individuals presenting themselves as agile coaches rather than delving deeply into agile methodologies or frameworks. While there are mentions of agile coaching and related roles, the discussion lacks depth in exploring agile principles or practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -868,12 +889,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a trend in the Agile coaching profession, providing insights into the qualifications and controversies surrounding Agile coaches. It addresses current practices and potential impacts on organizations, aligning it with industry news, but it appears more focused on discussion rather than a specific news report or review.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses a current trend in the Agile coaching industry, specifically the phenomenon of life coaches presenting themselves as Agile coaches. This aligns with the category's focus on industry news and updates. The mention of the Agile Actually Podcast suggests a review or commentary on this trend, providing insights into the implications for the Agile community. The depth of discussion is significant, as it explores the qualifications and controversies surrounding Agile coaching, which is relevant to practitioners in the field. Overall, the content is well-aligned with the 'News and Reviews' category.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -967,12 +991,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a trend related to Agile coaches and life coaches, which is a relevant theme in Agile discussions, but it primarily focuses on the controversy rather than in-depth trend analysis or implications for organizational practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a trend regarding the emergence of life coaches presenting themselves as Agile coaches, which aligns with the category of Trend Analysis. However, the discussion lacks depth and does not provide substantial insights into the implications of this trend on Agile methodologies or practices. While it mentions Agile coaching, it does not explore the broader impacts on teams or organisations, nor does it provide analytical insights or case studies that would strengthen its alignment with the category.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1003,16 +1030,19 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of agile coaches, touching on the skills and experience required for effective coaching, which aligns with the mentoring theme but is primarily focused on the controversy of life coaches presenting themselves as agile coaches.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile coaches and the controversy surrounding individuals presenting themselves as Agile coaches without adequate experience or skills. While it touches on the importance of proper qualifications in coaching, it lacks a direct focus on mentoring techniques, coaching strategies, or the development of leadership skills. The discussion is more about the qualifications and perceptions of Agile coaches rather than the mentoring process itself.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T16:53:30",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1020,16 +1050,19 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the roles and qualifications of Agile coaches rather than the underlying principles of Agile philosophy. While it touches on the importance of experience and knowledge in Agile coaching, it lacks a direct discussion of Agile values, principles, or the broader implications of Agile as a mindset. The focus is more on the controversy surrounding the qualifications of Agile coaches, which is a technical aspect rather than a philosophical one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile coaching, which is related to product delivery methodologies, but the primary focus is on the legitimacy of individuals presenting as agile coaches rather than directly discussing practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile coaching and the qualifications of Agile coaches, which are relevant to product delivery methodologies. However, it primarily focuses on the controversy surrounding the legitimacy of certain coaches rather than the end-to-end process of delivering software products. While Agile practices are mentioned, the discussion lacks depth in terms of specific product delivery methodologies, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1042,12 +1075,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:55:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Agile coaches and their qualifications, which ties into themes of Organisational Agility, but it primarily focuses on the authenticity and expertise of individuals in coaching roles rather than the broader strategies and practices of agility in organizations.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile coaches and the controversy surrounding their qualifications, which touches on aspects of organisational agility. However, it primarily focuses on the credentials and practices of Agile coaches rather than exploring broader strategies or frameworks that enhance organisational agility. The discussion lacks depth in terms of methodologies, leadership roles, or cultural shifts necessary for true agility, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1216,7 +1252,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:19:20",
+    "calculated_at": "2025-03-15T00:55:19",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1224,7 +1260,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the qualifications and experience of Agile coaches, which touches on the importance of practical experience in Agile contexts. However, it primarily focuses on the controversy surrounding the legitimacy of certain individuals presenting themselves as Agile coaches rather than providing in-depth discussions on pragmatic problem-solving strategies or real-world applications of Agile principles. The mention of Agile coaching and consulting indicates some relevance, but the overall depth and focus on pragmatic thinking are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",

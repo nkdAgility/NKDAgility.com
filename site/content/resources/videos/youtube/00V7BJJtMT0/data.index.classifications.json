@@ -1,21 +1,27 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions building an empirical, hypothesis-driven mindset within the context of Agile and DevOps, indicating that hypothesis-driven development is a significant theme, but it is not the primary focus of the discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:27:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile and DevOps, touching on concepts like rapid feedback loops and empirical process control, which are relevant to hypothesis-driven development. However, it lacks explicit focus on formulating hypotheses, conducting experiments, or analysing data to validate them. The primary emphasis is on the similarities between Agile and DevOps rather than on hypothesis-driven practices.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:27:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions an empirical, hypothesis-driven mindset within the context of Agile, but the primary focus is on the relationship between DevOps and Agile rather than on experimentation itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile and DevOps, touching on concepts like rapid feedback loops and empirical process control, which are related to experimentation. However, it does not explicitly focus on hypothesis-driven experimentation or detailed methodologies for testing ideas. The mention of evaluating performance against hypotheses indicates some alignment with experimentation, but the overall discussion is more about the relationship between Agile and DevOps rather than a deep exploration of experimentation itself.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -145,7 +151,7 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T16:55:07",
+    "calculated_at": "2025-03-15T01:27:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -153,7 +159,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile and DevOps, touching on principles like rapid feedback loops and systems thinking, which are relevant to self-organisation. However, it does not explicitly focus on self-organisation as a primary topic, nor does it delve deeply into the practices or principles that enable teams to operate autonomously. The discussion is more about the relationship between Agile and DevOps rather than self-organisation itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -247,12 +253,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, touching on principles and practices that could relate to strategic alignment and optimisation. However, it primarily focuses on the differences and similarities between the two methodologies rather than a clear strategic approach.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:27:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting their shared goals and principles, which aligns with strategic discussions in Agile environments. However, while it touches on strategic alignment and systems thinking, it lacks a focused exploration of strategic approaches or techniques, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -265,12 +274,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:28:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their relationship with DevOps, making Agile a significant theme, but the primary focus is on comparing Agile and DevOps rather than solely on Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile in relation to DevOps, highlighting their similarities and shared principles. While it does mention Agile practices and concepts, the primary focus is on comparing Agile and DevOps rather than a deep exploration of Agile frameworks themselves. The discussion touches on Agile principles and practices, but it lacks a comprehensive analysis of specific Agile frameworks or their implementation in organisations, which limits the depth of the discussion.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -313,7 +325,7 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-13T15:46:33",
+    "calculated_at": "2025-03-15T01:27:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -321,16 +333,19 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the relationship between DevOps and Agile, focusing on their similarities and the importance of tools and feedback loops. It does not explicitly mention Cycle Time or provide any detailed discussion on its measurement or implications, which are critical for the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, touching on core practices and principles relevant to engineering practices, but it primarily focuses on the differences and similarities rather than specific engineering methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:28:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their shared goals and principles, which aligns with the core themes of Engineering Practices. It mentions concepts like rapid feedback loops and systems thinking, which are relevant to Agile methodologies. However, the primary focus is on comparing DevOps and Agile rather than delving deeply into specific engineering practices like TDD or CI/CD. The discussion is somewhat broad and lacks detailed exploration of the key topics outlined in the category, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -382,12 +397,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:33:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the principles behind Agile and DevOps, highlighting the importance of accountability, shared ownership, and empirical thinking, but primarily focuses on the comparison between Agile and DevOps rather than solely on Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses Agile in relation to DevOps, highlighting shared goals and principles such as delivering value to customers and the importance of rapid feedback loops. However, it primarily focuses on the comparison between Agile and DevOps rather than delving deeply into Agile's core values and principles. While there are mentions of Agile concepts, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -589,12 +607,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:28:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their relationship with DevOps, making Agile a major theme, but it is primarily focused on comparing Agile with DevOps rather than solely on Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and their relationship with DevOps, highlighting key aspects such as rapid feedback loops, empirical process control, and the importance of collaboration. While it does not delve deeply into specific Agile frameworks like Scrum or Kanban, it does touch on Agile methodologies and their application in project management. The discussion is substantial but somewhat general, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -607,12 +628,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Agile and DevOps, touching on principles and practices relevant to Agile methodologies, but it primarily focuses on the comparison rather than a strategic discussion of Agile implementation or alignment.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:28:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting their shared goals of delivering value to customers and aligning with organisational strategy. It touches on key Agile principles such as rapid feedback loops and systems thinking, which are essential for an Agile strategy. However, while it provides a good overview of how Agile and DevOps intersect, it does not delve deeply into specific Agile strategies or case studies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -715,12 +739,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:27:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their relationship with DevOps, making Agile a significant theme, but it primarily focuses on the comparison between Agile and DevOps rather than a direct discussion on Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and practices extensively, particularly in relation to DevOps. It highlights the similarities between Agile and DevOps, focusing on shared goals such as delivering value to customers and creating effective feedback loops. However, while it touches on Agile concepts, it primarily centres on the comparison with DevOps rather than a deep exploration of Agile transformation strategies or methodologies. The depth of discussion on Agile practices is significant, but the primary focus on the relationship with DevOps slightly detracts from a pure Agile transformation narrative.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -769,12 +796,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, touching on principles and practices that could relate to operational efficiency, but it primarily focuses on the theoretical aspects rather than specific operational practices or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:28:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their shared goals and methodologies. While it touches on operational practices like rapid feedback loops and systems thinking, it lacks a focused exploration of specific techniques or strategies aimed at enhancing operational efficiency. The primary focus is on the conceptual comparison rather than practical applications, which limits its depth in operational practices.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -871,7 +901,7 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-11T16:35:28",
+    "calculated_at": "2025-03-15T01:27:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -879,7 +909,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, focusing on processes and tools rather than accountability within teams. While it touches on concepts like collaboration and value delivery, it does not explicitly address accountability, ownership, or the distinction between accountability and blame, which are central to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -964,12 +994,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:27:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Agile and DevOps, touching on Agile principles such as accountability, shared ownership, and empirical thinking, but primarily focuses on the comparison between the two concepts.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile in relation to DevOps, highlighting shared principles such as value delivery and rapid feedback loops. However, it primarily focuses on the comparison between Agile and DevOps rather than delving deeply into the Agile Philosophy itself. While it mentions key concepts like empirical process control and systems thinking, the overall emphasis is on the relationship between the two rather than a thorough exploration of Agile as a standalone philosophy.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1108,12 +1141,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their roles in delivering software products, but it primarily focuses on their differences rather than the methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:28:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, focusing on their shared goal of delivering value to customers. It explicitly mentions product delivery and the importance of methodologies in achieving this goal. The discussion includes concepts like rapid feedback loops and systems thinking, which are crucial to effective product delivery. However, while it aligns well with the category, it does not delve deeply into specific practices or metrics related to product delivery, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1135,12 +1171,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, touching on principles that align with Systems Thinking, such as accountability and shared ownership. However, the primary focus is on the comparison between DevOps and Agile rather than a deep exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:28:08",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Systems Thinking in the context of Agile and DevOps, highlighting the importance of optimising for the whole system rather than isolated improvements. While it does mention Systems Thinking explicitly, the primary focus remains on comparing Agile and DevOps, which limits the depth of discussion on Systems Thinking principles. The alignment with the category is present but not comprehensive, as it does not delve into techniques or frameworks specific to Systems Thinking.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1153,7 +1192,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-11T10:16:28",
+    "calculated_at": "2025-03-15T01:27:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1161,7 +1200,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on accountability and shared ownership within the Agile space, but it primarily focuses on the comparison between DevOps and Agile. While there are mentions of principles related to accountability, the discussion lacks depth and does not centre on transparency or accountability as primary themes. The overall focus is more on the relationship between the two methodologies rather than on fostering an environment of openness and responsibility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -1183,12 +1222,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:27:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, touching on principles that could enhance market adaptability, but it primarily focuses on defining and comparing the two methodologies rather than directly addressing strategies for market responsiveness.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting their shared goal of delivering value to customers and adapting through rapid feedback loops. It aligns well with the principles of market adaptability, particularly in terms of responsiveness to change and continuous improvement. However, while it touches on these themes, it does not delve deeply into specific strategies or case studies that would further enhance its relevance to market adaptability.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1249,12 +1291,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, touching on principles and practices that can relate to value delivery, but it primarily focuses on the similarities and perspectives of both methodologies rather than specific strategies for delivering value.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:28:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the relationship between Agile and DevOps, focusing on their shared goal of delivering value to customers. It highlights principles such as rapid feedback loops and systems thinking, which are crucial for value delivery. The depth of discussion on how both methodologies contribute to creating value aligns well with the category, although it does not delve deeply into specific techniques or metrics for measuring customer value.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1279,12 +1324,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:27:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on the relationship between DevOps and Agile, indicating the author's experiences and insights, but primarily focuses on explaining the concepts rather than personal anecdotes.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on explaining the differences and similarities between DevOps and Agile, with a strong emphasis on technical aspects and frameworks. While there are brief mentions of personal experience as a software developer and DevOps consultant, these are not elaborated upon in a personal context. The discussion lacks depth in personal reflections or anecdotes, which are essential for the 'Personal' category. Overall, the content does not align well with the core themes of individual insights or experiences related to Agile and DevOps.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1300,12 +1348,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:28:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interplay between Agile and DevOps, touching on how technical and non-technical perspectives influence software delivery. However, it primarily focuses on the methodologies rather than a deeper exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the interplay between Agile and DevOps, touching on how both methodologies aim to deliver value to customers and align with organisational strategy. It mentions systems thinking and the importance of optimising the whole system, which aligns with sociotechnical principles. However, the primary focus is on the methodologies themselves rather than a deep exploration of sociotechnical systems, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1429,7 +1480,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:27:24",
+    "calculated_at": "2025-03-15T01:27:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1437,6 +1488,6 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses DevOps and its relationship with Agile, with only a brief mention of Agile principles. There is no direct focus on Scrum roles, events, or artifacts, which are essential to the Scrum category. The discussion lacks depth regarding Scrum-specific practices and does not align with the core themes of the Scrum framework.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -8,7 +8,7 @@ ResourceImportId: 49888
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
-weight: 470
+weight: 395
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -33,7 +33,7 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Agile Product Management
-- Practical Techniques and Tooling
+- Agile Frameworks
 categories:
 - Product Management
 - Social Technologies

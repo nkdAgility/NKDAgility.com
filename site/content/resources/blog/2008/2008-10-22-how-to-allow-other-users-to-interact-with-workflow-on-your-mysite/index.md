@@ -29,9 +29,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
-- Collaboration Tools
-- People and Process
 preview: metro-sharepoint-128-link-15-15.png
 categories: []
 

@@ -13,7 +13,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T12:29:18",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -21,7 +21,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions 'Agility' and references a Professional Scrum Trainer, indicating a connection to Scrum and Agile practices. However, it lacks detailed discussion on specific frameworks or methodologies, and the primary focus is on an open Q&A format rather than an in-depth exploration of social technologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -298,7 +298,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T14:35:20",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -306,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions topics related to software development, such as DevOps and Agility, but does not delve into specific methodologies or practices. The focus is more on an open Q&A format rather than a structured discussion on software development principles or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -463,7 +463,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:27:10",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -471,7 +471,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions topics related to DevOps and Agile, indicating a connection to the role of software developers. However, it lacks detailed discussion on best practices, methodologies, or tools that would provide a deeper understanding of the developers' roles within these frameworks. The focus is more on an open Q&A format rather than a structured exploration of the category's key themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -1402,7 +1402,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:32:00",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1410,6 +1410,6 @@
     "non_ai_confidence": 50,
     "final_score": 36.0,
     "reasoning": "The content briefly mentions Scrum in the context of a professional trainer but does not delve into specific Scrum principles, roles, or practices. The focus is more on a general Q&A format rather than a detailed discussion of Scrum, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

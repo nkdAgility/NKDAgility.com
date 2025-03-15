@@ -24,14 +24,16 @@ preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
+- Transparency
+- People and Process
 - Agile Product Management
-- Agile Transformation
-- Agile Values and Principles
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
 - Empirical Process Control
+- Professional Scrum
+- Agile Project Management
+- Agile Frameworks
 - Software Development
+- Agile Philosophy
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

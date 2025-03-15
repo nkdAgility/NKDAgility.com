@@ -27,6 +27,7 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Install and Configuration
+- Products and Books
 - Software Development
 sitemap:
   filename: sitemap.xml

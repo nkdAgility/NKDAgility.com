@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/connecting-vs2010-to-tfs-2008
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-5-5.png
 categories: []
 

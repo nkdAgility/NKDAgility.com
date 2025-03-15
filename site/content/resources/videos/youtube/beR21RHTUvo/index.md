@@ -29,9 +29,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Throughput
+- Flow Efficiency
+- Value Delivery
+- Metrics and Learning
 - Agile Philosophy
 - People and Process
 - Agile Product Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

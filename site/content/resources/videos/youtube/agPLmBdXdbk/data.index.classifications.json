@@ -31,7 +31,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:14:55",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the importance of tenacity in an agile consultant, which relates to leadership qualities. However, it lacks a comprehensive discussion on leadership practices or strategies, focusing instead on personal traits without delving into how these traits influence team dynamics or organisational performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -88,7 +88,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-07T14:04:54",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -96,7 +96,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the role of an agile consultant, which is tangentially related to Agile frameworks. However, it lacks a direct discussion of specific frameworks or their principles, focusing instead on personal traits rather than the frameworks themselves. The alignment with core themes is minimal, and while there is some depth in discussing the importance of focus and tenacity, it does not delve into Agile methodologies or their applications.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -298,20 +298,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:28:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses traits of an Agile Consultant, which is related to Agile methodologies in software development. However, it mainly focuses on personal traits rather than specific software development practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the traits of an Agile Consultant, which is related to Agile methodologies, a key aspect of software development. However, it primarily focuses on personal attributes rather than specific software development practices or methodologies. While Agile is mentioned, the depth of discussion on software engineering practices is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:27:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses traits essential for an Agile Consultant, with a focus on persistence and tenacity, which are relevant to coaching but not the primary focus of the content.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the importance of tenacity in the role of an Agile Consultant, which indirectly relates to coaching. However, it primarily focuses on personal traits rather than the collaborative and supportive nature of coaching. While there are mentions of coaching success, the depth of discussion on coaching techniques or strategies is limited.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -325,7 +331,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T11:38:06",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -333,7 +339,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the role of an Agile consultant and highlights the importance of tenacity in driving change within an organisation. However, it lacks a comprehensive discussion on Agile strategy, such as alignment with organisational vision or implementation of Agile methodologies at scale. The focus is more on personal traits rather than strategic planning or decision-making processes, which diminishes its relevance to the Agile Strategy category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -391,12 +397,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:27:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the traits of an Agile Consultant, particularly tenacity, in the context of facilitating change within organizations. However, it primarily focuses on the individual's traits rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the importance of tenacity in an Agile Consultant's role, which can relate to change management in terms of persistence during organisational change. However, it lacks a direct discussion on change management principles, strategies, or practices. The focus is primarily on personal traits rather than the broader context of managing change effectively within organisations. Therefore, while there is some alignment with the category, it is not substantial enough to warrant a high confidence score.",
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -589,7 +598,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T12:14:57",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -597,7 +606,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of tenacity in an agile consultant, which indirectly relates to organisational change by emphasising the need for focus on necessary changes within an organisation. However, it lacks explicit discussions on frameworks, methodologies, or leadership roles in driving change, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -640,12 +649,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:27:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses traits of an Agile Consultant, primarily emphasizing tenacity which is important for driving change in organizations, a concept related to business agility, but the focus is more on personal qualities rather than broader business agility practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the concept of agility in the context of an Agile Consultant's traits, particularly focusing on tenacity and persistence. However, it lacks a comprehensive discussion on the principles and practices of business agility as defined in the category. While it touches on the importance of adaptability and overcoming obstacles, it does not delve into strategies, leadership roles, or case studies that would provide a deeper understanding of business agility. Therefore, the confidence score reflects a low alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -703,7 +715,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:42:38",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -711,7 +723,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the trait of tenacity in an Agile Consultant, which indirectly relates to Agile leadership by emphasising persistence in driving change. However, it lacks direct mentions of leadership roles or practices, and the focus is more on individual traits rather than the broader context of Agile leadership principles. The discussion is somewhat aligned with the need for adaptability and overcoming obstacles, but it does not delve deeply into leadership strategies or team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -823,12 +835,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:28:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses traits necessary for an Agile Consultant, which relates to Agile principles and roles, but does not primarily focus on Agile methodologies or project management.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the essential trait of tenacity for an Agile Consultant, which indirectly relates to Agile Project Management principles. While it mentions Agile concepts and roles, the focus is more on personal traits rather than specific methodologies or frameworks. The discussion lacks depth in agile practices and does not explore core themes like Scrum ceremonies or backlog management.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -997,7 +1012,7 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-13T16:52:01",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1005,11 +1020,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the trait of tenacity in an Agile Consultant, which indirectly relates to mentoring through the lens of coaching and persistence. However, it lacks direct mentions of mentoring practices or detailed discussions on coaching techniques, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-11T17:44:47",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1017,7 +1032,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the trait of tenacity in an Agile Consultant, which is relevant to Agile practices but does not explicitly address the broader Agile Philosophy or its foundational principles. While it touches on persistence and focus, it lacks a comprehensive exploration of Agile values, customer collaboration, or continuous improvement, making it more of a practical trait discussion rather than a philosophical one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1039,12 +1054,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:27:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the mindset and traits essential for an Agile Consultant, aligning with the theme of agility in adapting and responding to change, though it primarily focuses on individual qualities rather than organizational strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the trait of tenacity in an Agile Consultant, which is relevant to organisational agility but does not explicitly address the broader strategies or frameworks that enhance organisational adaptability. While it touches on persistence and focus in the context of change, it lacks a comprehensive exploration of agile principles, leadership roles, or structural alignment, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1069,12 +1087,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:27:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content emphasizes the importance of tenacity and persistence in the face of challenges, which aligns with themes of resilience and change. However, it mainly focuses on the traits of an Agile Consultant, making resilience a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the trait of tenacity in Agile consultants, which indirectly relates to resilience in the face of challenges. However, it lacks a direct focus on organisational resilience or change management practices. The mention of overcoming obstacles aligns somewhat with the themes of adaptability, but the overall depth and explicit discussion of resilience and change are minimal.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1288,12 +1309,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:27:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content primarily focuses on the trait of tenacity in an Agile Consultant, it touches on themes relevant to persistence and overcoming obstacles, which are aligned with Agile principles. However, it does not explicitly discuss core Agile values or principles in depth.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the trait of tenacity in an Agile Consultant, which indirectly relates to Agile principles such as persistence and focus on value delivery. However, it lacks direct references to Agile values or principles, and the discussion is primarily centred on personal traits rather than the foundational beliefs of Agile methodologies.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1423,7 +1447,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:24:56",
+    "calculated_at": "2025-03-15T00:27:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1431,6 +1455,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the qualities of an agile consultant, which may relate to Scrum indirectly, but it does not explicitly mention Scrum principles, roles, or practices. The focus is more on personal traits rather than the Scrum framework or its implementation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

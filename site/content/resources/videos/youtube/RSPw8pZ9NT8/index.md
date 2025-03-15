@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Forecasting
-- Strategy
-- Throughput
-- Cycle Time
-- Metrics and Learning
-- Value Delivery
-- Flow Efficiency
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Software Development
+- Operational Practices
+- Throughput
+- Strategy
+- Value Delivery
+- Events and Presentations
+- Flow Efficiency
+- Decision Theory
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

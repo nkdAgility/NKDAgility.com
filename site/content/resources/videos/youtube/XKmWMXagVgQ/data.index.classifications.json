@@ -1,11 +1,14 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning and mentions hypothesis-driven engineering and A/B testing, indicating a secondary theme related to hypothesis-driven development. However, the primary focus is on continuous learning for product owners rather than on hypothesis formulation and experimentation.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses hypothesis-driven engineering and A/B testing, which are relevant to hypothesis-driven development. However, the primary focus is on continuous learning and personal development for product owners, with only secondary references to hypothesis-driven practices. While there is some alignment with the core themes, the depth of discussion on hypothesis-driven development is not extensive enough to classify it as the primary focus.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -37,12 +40,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Product Owners and emphasises the importance of continuous learning within the context of Scrum, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Product Owner and emphasises continuous learning, which is relevant to Scrum principles. However, it lacks a direct focus on Scrum roles, events, and artifacts as outlined in the Scrum Guide. While it mentions professional training related to Scrum, the overall discussion is more about general product ownership and continuous learning rather than a deep exploration of Scrum itself.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -55,21 +61,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:20:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which aligns with coaching principles. However, it primarily focuses on self-improvement and industry knowledge rather than direct coaching practices or techniques.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous learning and personal development, which aligns with coaching principles. However, it primarily focuses on the role of a product owner rather than on coaching techniques or team dynamics. While it mentions engaging with the community and professional training, it lacks a direct emphasis on coaching methodologies or the collaborative nature of coaching.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:20:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning and mentions evidence-based management, but the primary focus is on personal development and tools for product owners rather than a comprehensive exploration of evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous learning for product owners and includes a section on evidence-based management, which aligns with the category. However, the primary focus is on personal development and tools rather than a comprehensive exploration of evidence-based leadership principles. The mention of evidence-based management is relevant but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -94,7 +106,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T16:17:11",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -102,7 +114,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily focuses on continuous learning for product owners, which is relevant to Agile practices but does not explicitly address Agile leadership roles or strategies. While it touches on concepts like team empowerment and the importance of learning, it lacks a direct discussion on leadership dynamics or the role of leaders in fostering an Agile culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -133,21 +145,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:20:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which is a significant aspect of delivering working software. However, the primary focus is on personal development and learning strategies rather than directly on the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses continuous learning for product owners, which indirectly relates to working software by emphasising the importance of tools and methodologies that can enhance software delivery. However, it lacks direct mentions of working software and does not delve deeply into Agile or Scrum principles, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which indirectly relates to decision-making by emphasising the need for knowledge and tools to make informed choices. However, the primary focus is on learning rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous learning and its importance for product owners, with a focus on making informed decisions. It mentions evidence-based management and data-driven decision-making, which align with the category's core themes. However, the primary focus is on personal development and tools rather than structured decision-making methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -169,12 +187,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses continuous learning and its importance for product owners, which aligns with Lean principles of continuous improvement. However, it primarily focuses on personal development and does not delve deeply into Lean Product Development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses continuous learning and various tools that can enhance a product owner's effectiveness, which aligns with Lean principles of continuous improvement and maximising value. However, it lacks a direct focus on Lean Product Development specifically, and while it mentions tools like Lean UX, it does not delve deeply into Lean methodologies or waste reduction strategies.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -262,20 +283,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous learning and its importance for product owners, which relates to the ability to innovate. However, the primary focus is on personal development and learning strategies rather than directly measuring or enhancing an organisation's capacity for innovation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:20:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses continuous learning and its importance for product owners, which indirectly relates to the Ability to Innovate. It mentions Evidence-Based Management as a tool for making data-driven decisions, aligning with the category's focus. However, the primary emphasis is on personal development and learning strategies rather than a direct exploration of innovation capabilities or frameworks for measuring A2I.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of continuous learning for product owners within the context of Scrum and mentions various Agile practices and frameworks, making Agile a significant theme, but it is not the primary focus.",
+    "calculated_at": "2025-03-14T20:20:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses continuous learning for product owners and mentions Agile methodologies and Scrum in a general context. However, it lacks a focused exploration of Agile frameworks themselves, such as Scrum or Kanban, and does not provide a comparative analysis or in-depth discussion of their principles. While Agile concepts are referenced, they are not the primary focus of the content.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -343,16 +370,19 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning for product owners, touching on methodologies like Scrum and Kanban, which are relevant to software development practices. However, the primary focus is on personal development and learning rather than specific software engineering techniques.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses continuous learning for product owners, touching on methodologies like Evidence-Based Management and A/B Testing, which align with software development practices. However, the primary focus is on personal development and advice rather than in-depth software engineering methodologies or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T13:11:49",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -360,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of continuous learning for product owners, which is tangentially related to engineering excellence through the lens of improving skills and knowledge. However, it primarily focuses on the role of product owners rather than engineering practices or software craftsmanship. While it mentions tools and techniques that could enhance engineering processes, it lacks a direct focus on coding standards, quality assurance, or CI/CD practices, which are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -382,11 +412,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which aligns with Agile principles of continuous improvement and adaptability. However, it primarily focuses on practical advice for product owners rather than a deep exploration of Agile values and principles.",
+    "calculated_at": "2025-03-14T20:21:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses continuous learning, which is relevant to Agile principles, particularly in fostering adaptability and improvement. However, it primarily focuses on practical advice for product owners rather than explicitly addressing Agile values or principles. While it mentions Agile methodologies and tools, it does not delve deeply into the core values or principles of Agile, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -430,25 +463,31 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which is a significant aspect of professional growth and development. However, it primarily focuses on the tools and techniques for learning rather than on mentoring or coaching relationships.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous learning and personal development for product owners, which aligns with mentoring principles. However, it primarily focuses on self-improvement and tools rather than the mentoring process itself. There are brief mentions of community engagement and professional training, but the depth of discussion on mentoring techniques or the role of a mentor is minimal.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning and evidence-based management, which are relevant to empirical process control, but the primary focus is on the role of product owners and their development rather than on empirical process control itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous learning and evidence-based management, which are relevant to empirical process control. However, the primary focus is on personal development for product owners rather than a deep exploration of empirical process control principles. While it touches on Agile methodologies and tools, it lacks a thorough examination of transparency, inspection, and adaptation as core themes.",
     "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-10T18:01:13",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -456,7 +495,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of continuous learning for product owners, which indirectly relates to product validation through the mention of evidence-based management and hypothesis-driven engineering. However, it primarily focuses on personal development and industry awareness rather than specific methodologies or practices for validating product ideas with users. The discussion lacks depth in terms of practical application of product validation techniques, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -607,11 +646,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which is a significant aspect of Agile methodologies. However, it primarily focuses on personal development and tools rather than a broader Agile strategy or organisational alignment.",
+    "calculated_at": "2025-03-14T20:21:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses continuous learning for product owners, which is relevant to Agile methodologies, particularly in the context of improving skills and decision-making. However, it lacks a direct focus on Agile strategy as defined in the category, such as organisational alignment or strategic planning. While it mentions Agile practices and tools, the primary emphasis is on personal development rather than broader strategic implications.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -661,7 +703,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T11:22:47",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -669,7 +711,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the importance of continuous learning for product owners, which indirectly relates to team performance by suggesting that a knowledgeable product owner can enhance the effectiveness of Scrum teams. However, the primary focus is on individual learning rather than team dynamics or collaboration strategies. While it mentions maximising the value of work done by Scrum teams, it lacks detailed exploration of team performance metrics, methodologies, or practices that directly align with the core themes of the 'Team Performance' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -709,20 +751,26 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous learning and its importance for product owners, which aligns with the Lean principle of continuous improvement (Kaizen). However, the primary focus is on personal development and tools rather than a comprehensive discussion of Lean principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:21:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses continuous learning and tools relevant to product ownership, with some mention of Lean UX. However, it primarily focuses on personal development and does not deeply engage with Lean principles such as waste reduction or value maximisation. The references to Lean UX and evidence-based management suggest a tangential connection, but the overall emphasis is on individual growth rather than Lean methodologies.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning for product owners, which is relevant to Agile practices, but it primarily focuses on personal development rather than a comprehensive Agile transformation strategy.",
+    "calculated_at": "2025-03-14T20:21:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses continuous learning for product owners, touching on Agile methodologies and tools like Scrum and Lean UX. However, it primarily focuses on personal development rather than the broader strategies and practices of Agile transformation. While there are relevant mentions, the depth and primary focus are more on individual growth than on organisational agility or transformation.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -772,21 +820,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:20:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning and its importance for product owners, which relates to operational practices in terms of improving skills and knowledge for better decision-making. However, it primarily focuses on personal development rather than specific operational techniques or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses continuous learning and its importance for product owners, touching on tools and techniques like evidence-based management, A/B testing, and OKRs, which align with operational practices. However, the primary focus is on personal development rather than direct operational efficiency improvements, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:20:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning and mentions evidence-based management as part of the broader context of improving decision-making for product owners, but it primarily focuses on personal development and learning strategies rather than EBM principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions Evidence-Based Management as one of several tools for product owners, but it does not delve deeply into its principles or practices. While it aligns with the theme of continuous learning and data-driven decision-making, the discussion lacks the depth and focus required for a strong alignment with the category of Evidence-Based Management.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -835,7 +889,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T17:29:45",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -843,16 +897,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on continuous learning for product owners, which is tangentially related to technical leadership but does not explicitly discuss the core principles of guiding development teams or agile methodologies. While it mentions tools and techniques that could enhance a product owner's effectiveness, it lacks a direct focus on mentoring, team dynamics, or agile practices that are central to technical leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:16:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which is relevant to understanding customer needs and product feature definition. However, it primarily focuses on personal development and tools rather than specific methodologies or practices directly related to product discovery.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses continuous learning for product owners, which indirectly relates to understanding customer needs and improving product features. However, it primarily focuses on personal development and tools rather than specific methodologies for product discovery. While it mentions concepts like evidence-based management and A/B testing, which are relevant, the overall emphasis is more on individual growth than on collaborative discovery processes.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -865,12 +922,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which is relevant to Agile principles and maximising value in project delivery. However, it primarily focuses on personal development rather than specific Agile planning methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:20:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous learning for product owners, touching on Agile methodologies and tools like Scrum and OKRs. However, it primarily focuses on personal development rather than Agile Planning principles, making it a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -919,7 +979,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:27:53",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -927,16 +987,19 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on the role of a Product Owner and the importance of continuous learning, which is relevant to Scrum but does not deeply explore the dynamics of a Scrum Team as a whole. While it mentions Scrum-related training and tools, the discussion lacks a comprehensive examination of team collaboration, roles, and the overall dynamics that define a high-performing Scrum Team.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning and the importance of understanding tools and techniques relevant to product ownership, which aligns with the principles of software craftsmanship. However, the primary focus is on the role of product owners rather than technical practices or software engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on continuous learning for product owners, which is more aligned with personal development than technical mastery. While it mentions tools and methodologies relevant to software development, such as evidence-based management and A/B testing, the discussion lacks depth in software craftsmanship principles and best practices. The emphasis is on the role of a product owner rather than on engineering excellence or technical practices.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1045,39 +1108,48 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T14:40:28",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses continuous learning and decision-making tools for product owners, but it primarily focuses on personal development and industry awareness rather than the core principles of decision theory.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous learning for product owners, which is a significant aspect of fostering a culture of agility and innovation. However, it primarily focuses on individual practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:20:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on continuous learning for product owners, which is a team-level practice rather than an organisational context. While it touches on concepts like evidence-based management and OKRs, it lacks a broader discussion on enterprise agility frameworks, organisational structures, or leadership roles that drive agility at an organisational level. The emphasis is on individual improvement and tools rather than fostering a culture of adaptability across the organisation.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses continuous learning and its importance for product owners, with a mention of Lean UX and tools that can enhance value maximisation. However, the primary focus is on continuous learning rather than Lean principles specifically.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Lean UX, which aligns with Lean principles, but the primary focus is on continuous learning and product ownership rather than Lean methodologies. While there are elements of value maximisation and process improvement, they are not explored in depth or as a primary theme.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous learning, which is a significant aspect of fostering adaptability and improvement in product ownership. However, it primarily focuses on individual development rather than organisational resilience or change management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous learning as a means for product owners to adapt and improve, which aligns with the themes of resilience and change. However, it primarily focuses on individual development rather than organisational strategies or frameworks for resilience. The mention of adapting to industry changes and the importance of learning tools provides some relevance, but the depth and primary focus remain on personal growth rather than broader organisational change management.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1117,12 +1189,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which is relevant to product delivery, but it primarily focuses on personal development rather than the methodologies and practices of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous learning for product owners, which indirectly relates to product delivery by emphasising the need for knowledge in methodologies like Agile and tools that enhance decision-making. However, the primary focus is on personal development rather than the end-to-end process of delivering software products, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1177,12 +1252,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of continuous learning and mentions various tools and techniques relevant to product ownership, but it primarily focuses on the concept of continuous learning rather than specific practical techniques or tooling.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses various tools and techniques relevant to product ownership, such as Evidence-Based Management, A/B Testing, and OKRs, which align well with the category's focus on practical techniques and tooling. It provides specific recommendations for tools and methodologies, demonstrating a clear understanding of their application in Agile practices. However, while the content is rich in practical advice, it leans slightly more towards the philosophy of continuous learning rather than a deep dive into specific tooling or methodologies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1195,12 +1273,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous learning for product owners, which is a significant aspect of adapting to market changes. However, it primarily focuses on personal development rather than specific strategies or methodologies related to market adaptability.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:21:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses continuous learning and its importance for product owners, which indirectly relates to market adaptability. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies as primary themes. While it mentions tools and techniques that could enhance adaptability, the overall discussion is more about personal development than organisational strategies for responding to market changes.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1243,7 +1324,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-13T16:38:26",
+    "calculated_at": "2025-03-14T20:20:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1251,7 +1332,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses continuous learning as a critical aspect for product owners, which indirectly supports the principles of business agility by emphasising adaptability and informed decision-making. However, it primarily focuses on personal development and specific tools rather than broader organisational strategies or frameworks that enhance business agility. The mention of Agile methodologies and Lean UX provides some alignment, but the depth of discussion remains more centred on individual practices rather than organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1264,11 +1345,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous learning for product owners, which is related to maximising value delivery. However, it primarily focuses on personal development and learning strategies rather than specific methodologies or practices directly tied to value delivery in Agile or Scrum frameworks.",
+    "calculated_at": "2025-03-14T20:20:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses continuous learning as a means to enhance the effectiveness of product owners, which aligns with the principles of value delivery. It mentions specific tools and methodologies like Evidence-Based Management and OKRs that are relevant to maximising customer value. However, the primary focus is on personal development rather than direct strategies for delivering value to customers, which slightly lowers the depth of discussion.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1282,30 +1366,39 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous learning as a key aspect for product owners, which aligns with the theme of organisational agility. However, it primarily focuses on individual development rather than broader organisational strategies or practices.",
+    "calculated_at": "2025-03-14T14:55:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses continuous learning as a critical aspect for product owners, which aligns with the principles of organisational agility. It mentions tools and techniques that enhance adaptability, such as evidence-based management and OKRs, which are relevant to agile practices. However, while the focus on continuous learning is strong, the content does not deeply explore broader organisational strategies or cultural shifts necessary for agility, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which includes personal insights and reflections on how to succeed in the role. However, it primarily focuses on general advice and resources rather than personal experiences or anecdotes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:21:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses personal experiences and insights related to continuous learning as a product owner, which aligns with the Personal category. It includes personal anecdotes, such as the impact of reading older books and the importance of engaging with the community. However, it also contains technical discussions about tools and methodologies, which slightly detracts from its alignment with the Personal category.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:21:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of continuous learning for product owners, which relates to team dynamics and personal development within Agile environments. However, it primarily focuses on individual learning rather than broader team processes or collaboration.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of continuous learning for product owners, which indirectly touches on team dynamics and personal development within a process-oriented context. However, while it mentions tools and methodologies, the primary focus remains on individual growth rather than the interplay of people and structured processes. The depth of discussion on team collaboration and leadership is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1327,12 +1420,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:40:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses continuous learning and the importance of understanding various tools and techniques, which aligns with the theme of evidence-based management and decision-making. However, it primarily focuses on personal development for product owners rather than metrics and learning as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:20:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses continuous learning and its importance for product owners, with specific mentions of evidence-based management, metrics, and tools like A/B testing and OKRs. While it aligns with the category's themes, the primary focus is on personal development rather than a deep exploration of metrics and learning principles. The discussion on metrics is present but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",

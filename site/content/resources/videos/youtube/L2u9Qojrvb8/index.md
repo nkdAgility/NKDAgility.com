@@ -29,7 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Pragmatic Thinking
+- Discovery and Learning
+- Market Adaptability
 resourceTypes:
 - video
 categories:

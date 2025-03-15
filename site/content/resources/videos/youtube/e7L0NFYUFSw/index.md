@@ -25,8 +25,11 @@ preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
 tags:
+- Agile Product Management
 - Agile Project Management
 - Agile Frameworks
+- People and Process
+- Agile Philosophy
 - Value Delivery
 sitemap:
   filename: sitemap.xml

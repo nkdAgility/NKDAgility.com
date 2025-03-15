@@ -32,9 +32,6 @@ tags:
 - Windows
 - Troubleshooting
 - Install and Configuration
-- System Configuration
-- Practical Techniques and Tooling
-- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

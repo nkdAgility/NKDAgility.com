@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Product Development
+- Sprint Review
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Agile Planning
+- Agile Transformation
 - People and Process
 - Agile Frameworks
 - Agile Product Management
-- Strategy
-- Product Owner
-- Scrum Product Development
-- Scrum Team
-- Sprint Review
-- Pragmatic Thinking
-- Scrum Master
 resourceTypes:
 - video
 categories:

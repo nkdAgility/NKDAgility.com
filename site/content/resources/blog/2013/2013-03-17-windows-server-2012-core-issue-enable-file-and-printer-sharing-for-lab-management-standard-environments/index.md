@@ -28,6 +28,10 @@ aliasesArchive:
 - /resources/blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 tags:
 - Windows
+- Install and Configuration
+- Troubleshooting
+- System Configuration
+- Practical Techniques and Tooling
 categories: []
 preview: puzzle-issue-problem-128-link-6-6.png
 

@@ -33,10 +33,6 @@ tags:
 - Install and Configuration
 - Software Development
 - Practical Techniques and Tooling
-- Windows
-- System Configuration
-- Azure DevOps
-- Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-7-7.png
 

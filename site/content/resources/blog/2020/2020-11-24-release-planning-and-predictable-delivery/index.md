@@ -8,7 +8,7 @@ ResourceImportId: 9714
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-24
-weight: 260
+weight: 270
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Product Management
+- Scrum Product Development
+- Agile Planning
+- Agile Project Management
+- Software Developers
+- Working Software
 - Product Delivery
 - Value Delivery
-- Estimation
-- Increment
-- Transparency
-- Organisational Agility
-- People and Process
-- Pragmatic Thinking
+- Operational Practices
 categories:
 - Scrum
 preview: nkdAgility-habits-16x9-1280-2-2.jpg

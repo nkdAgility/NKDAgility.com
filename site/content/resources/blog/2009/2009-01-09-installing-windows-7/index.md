@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/installing-windows-7
 tags:
 - Windows
+- Install and Configuration
 preview: nakedalm-logo-128-link-18-18.png
 categories: []
 

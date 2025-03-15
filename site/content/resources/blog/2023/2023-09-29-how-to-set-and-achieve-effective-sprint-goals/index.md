@@ -8,7 +8,7 @@ ResourceImportId: 50115
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-29
-weight: 770
+weight: 695
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Software Development
+- Scrum Team
 - Professional Scrum
 - Scrum Product Development
 - Agile Product Management
@@ -36,7 +37,6 @@ tags:
 - Product Delivery
 - Team Performance
 - Value Delivery
-- Scrum Master
 categories:
 - Scrum
 - Social Technologies

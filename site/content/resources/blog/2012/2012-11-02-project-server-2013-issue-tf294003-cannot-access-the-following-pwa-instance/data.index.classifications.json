@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:13:27",
+    "calculated_at": "2025-03-15T05:30:57",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to Team Foundation Server and Project Server integration, which touches on aspects of deployment and permissions management. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is primarily on troubleshooting a technical error rather than on the integration of people, processes, and tools that characterise DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T15:01:55",
+    "calculated_at": "2025-03-15T05:30:57",
     "ai_confidence": 35.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content primarily addresses a specific technical issue related to Team Foundation Server and Project Server integration, focusing on troubleshooting and permissions. While it does touch on technical practices, such as service account management, it lacks a broader discussion on engineering methodologies or principles that enhance agility and quality in software development. The mention of permissions and service accounts is relevant but does not delve into the core themes of Technical Excellence, such as TDD, CI/CD, or modular architecture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -292,7 +292,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T16:51:52",
+    "calculated_at": "2025-03-15T05:30:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -300,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and Project Server integration, which are components of the Azure DevOps ecosystem. However, it does not explicitly mention Azure DevOps or its services, focusing instead on a specific error and its resolution. While there is some conceptual alignment with Azure DevOps functionalities, the depth of discussion is limited to a specific problem rather than a broader exploration of Azure DevOps practices or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -385,7 +385,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T18:03:37",
+    "calculated_at": "2025-03-15T05:30:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -393,7 +393,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily addresses a specific technical issue related to Team Foundation Server and Project Server integration, which is relevant to software engineering practices. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to technical mastery. While it does provide a solution to a technical problem, the depth of discussion is limited to troubleshooting and does not explore the underlying principles of software craftsmanship or architecture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -496,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:30:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to the integration of Team Foundation Server and Project Server, including permissions and service account management, which can be seen as operational practices. However, the primary focus is on troubleshooting rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server and Project Server integration, focusing on troubleshooting and permissions. While it touches on operational aspects, such as service account management, it lacks a broader discussion on operational practices, methodologies, or strategies aimed at enhancing efficiency within Agile, DevOps, or Lean frameworks. The content does not provide detailed insights into process optimisation or continuous improvement, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",

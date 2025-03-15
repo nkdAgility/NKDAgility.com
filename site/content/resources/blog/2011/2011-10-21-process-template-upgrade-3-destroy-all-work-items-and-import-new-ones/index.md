@@ -27,7 +27,11 @@ aliasesArchive:
 - /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 tags:
+- Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
+- Azure DevOps
+- System Configuration
 preview: metro-visual-studio-2005-128-link-5-5.png
 categories:
 - Scrum

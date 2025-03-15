@@ -37,6 +37,7 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Project Management
+- Agile Transformation
 - Software Development
 resourceTypes:
 - video

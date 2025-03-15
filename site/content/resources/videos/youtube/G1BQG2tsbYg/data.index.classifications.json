@@ -37,12 +37,12 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T12:05:00",
+    "calculated_at": "2025-03-14T17:27:52",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses agile principles and their role in achieving business predictability, but it does not focus specifically on Scrum roles, events, or artifacts. While Scrum is mentioned as a potential framework, it is not the primary focus of the discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -67,11 +67,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:28:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of data-driven approaches and metrics in achieving business predictability, which aligns with evidence-based leadership principles. However, the primary focus is on Agile principles and practices rather than directly on evidence-based leadership itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which indirectly relates to evidence-based leadership through the emphasis on data-driven decision-making and continuous improvement. However, it lacks a direct focus on empirical evidence or specific leadership practices, making it more about Agile methodologies than evidence-based leadership itself.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -139,12 +142,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:05:00",
+    "calculated_at": "2025-03-14T17:27:52",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses Agile principles and their impact on business predictability, but it does not focus primarily on the delivery of functional software or its quality. The emphasis is more on organisational processes and predictability rather than on working software itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -178,12 +181,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and their role in achieving predictability in business, which aligns with Lean Product Development concepts. However, the primary focus is on Agile methodologies rather than Lean principles specifically, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles and their role in achieving predictability in business, rather than focusing on Lean Product Development specifically. While there are mentions of continuous improvement and operational efficiencies, which align with Lean concepts, the overall emphasis is on Agile methodologies and their adaptability. The depth of discussion on Lean principles is minimal, leading to a lower confidence score in this category.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -274,12 +280,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of predictability in business and how agile principles can help achieve it, which relates to the ability to innovate. However, the primary focus is on predictability rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which indirectly relates to innovation. However, it primarily focuses on operational efficiency and predictability rather than directly addressing the measurement and improvement of innovation capabilities. While there are mentions of continuous improvement and adaptability, the depth of discussion on innovation frameworks and Evidence-Based Management is limited.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -304,12 +313,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of teamwork and shared goals in achieving business predictability, which aligns with team collaboration principles. However, the primary focus is on predictability and agile principles rather than on collaboration techniques or team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:29:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles and their role in enhancing predictability, which indirectly touches on team collaboration. However, while it mentions collaboration and alignment, the primary focus is on predictability and operational efficiency rather than on enhancing team dynamics or communication. The depth of discussion on collaboration is limited, making it a secondary theme rather than a primary focus.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -349,25 +361,31 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of strategic alignment and planning to achieve business predictability, which relates to portfolio management. However, it primarily focuses on agile principles and operational efficiencies rather than explicitly managing a portfolio of projects.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses predictability in business through Agile principles, focusing on operational efficiencies and team dynamics rather than the management of a portfolio of projects. While it touches on alignment and collaboration, it lacks a direct focus on portfolio management methodologies, prioritisation frameworks, or metrics specific to portfolio performance.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:28:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and their application in business predictability, which relates to software development methodologies. However, the primary focus is on business outcomes rather than software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies and their role in enhancing predictability within organisations, which aligns with software development practices. However, the primary focus is on business predictability rather than software engineering processes, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:44:05",
+    "calculated_at": "2025-03-14T17:27:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -375,16 +393,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses business predictability through agile principles, which is more aligned with project management and organisational strategy than with engineering excellence. While it touches on aspects of agile methodologies that could relate to engineering practices, such as the importance of planning and adapting systems, it lacks a direct focus on software craftsmanship, coding standards, or quality assurance. The depth of discussion on agile principles is significant, but it does not delve into the technical aspects of engineering excellence, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:29:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses predictability in business through Agile principles, touching on operational inefficiencies and the importance of defining systems, which relates to throughput. However, the primary focus is on predictability rather than directly measuring or optimising throughput.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses predictability in business through Agile principles, touching on operational inefficiencies and the importance of optimising systems, which are related to throughput. However, it does not explicitly focus on throughput as a primary topic, nor does it provide in-depth techniques for measuring or improving throughput. The discussion is more centred on predictability and Agile methodologies rather than the specific measurement and optimisation of work completion rates.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -436,12 +457,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T07:18:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how Agile principles can be applied to achieve business predictability, which aligns with effective change management strategies. It addresses the need for systematic changes, stakeholder engagement, and the role of leadership in guiding transformation, all of which are central to change management in Agile contexts.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T14:48:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which indirectly relates to change management. However, it primarily focuses on predictability and operational efficiency rather than the core themes of change management, such as stakeholder engagement or leadership in transformation. While there are mentions of aligning goals and adapting processes, the depth of discussion on change management practices is limited.",
+    "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -490,11 +514,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:28:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and their impact on business predictability, which is relevant to software developers. However, the primary focus is on business outcomes rather than the specific role of software developers within Agile and DevOps contexts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile methodologies and their role in enhancing predictability within businesses, which indirectly relates to software developers. However, it primarily focuses on business outcomes rather than the specific practices and challenges faced by software developers in Agile and DevOps contexts. While Agile principles are mentioned, the depth of discussion on software development practices is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -571,20 +598,26 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:28:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their application in achieving business predictability, touching on themes of collaboration and alignment, but it does not focus primarily on scaling Agile practices across multiple teams or at an enterprise level.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, but it primarily focuses on individual Agile practices rather than scaling Agile across multiple teams or at an enterprise level. While it mentions Agile methodologies and includes a case study of Microsoft's Agile transformation, it lacks a comprehensive exploration of frameworks for scaling Agile or the coordination among multiple teams, which are central to the Scaled Agile category.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T07:19:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical strategies for achieving predictability in business through Agile principles, emphasising real-world applications, adaptability, and critical thinking in navigating complexities within organisations.",
+    "calculated_at": "2025-03-14T15:07:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses practical strategies for achieving predictability in business through Agile principles, highlighting real-world applications and challenges. It aligns well with the core themes of pragmatic thinking, such as adaptability, critical thinking, and evidence-based management practices. The depth of discussion is significant, providing detailed insights into how Agile methodologies can enhance predictability, supported by a case study of Microsoft's transformation. Overall, the content is highly relevant and focused on pragmatic approaches.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -598,11 +631,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T07:19:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of agile principles in achieving business predictability, including the importance of planning, feedback loops, and adapting agile methodologies like Scrum and Kanban to unique business contexts.",
+    "calculated_at": "2025-03-14T17:27:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Agile methodologies and their role in enhancing predictability within businesses. It covers key Agile principles such as empowerment, adaptability, and iterative planning, aligning closely with the core themes of Agile Project Management. The depth of discussion is significant, including practical steps, case studies, and the importance of collaboration, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -616,11 +652,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T07:19:22",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses how Agile principles can enhance business predictability, aligning organisational goals with Agile methodologies. It addresses strategic planning, adaptability, and the integration of Agile practices into business processes, making it a clear focus of the discussion.",
+    "calculated_at": "2025-03-14T17:27:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses how Agile methodologies contribute to achieving predictability in business, aligning with the core themes of Agile Strategy. It covers the integration of Agile principles into strategic planning, the importance of adaptability, and provides a case study on Microsoft's Agile transformation, demonstrating a deep understanding of the subject. The discussion is detailed and focused, making Agile principles a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -652,11 +691,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:29:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses predictability in business and the role of Agile principles in achieving it, which relates to sensemaking in terms of understanding complexity and uncertainty. However, the primary focus is on Agile practices rather than a deep exploration of sensemaking principles or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses predictability in business and the role of Agile methodologies, which are related to sensemaking. However, it primarily focuses on practical steps and challenges rather than deeply exploring the principles of sensemaking or frameworks for understanding complexity. While Agile is mentioned as a tool for enhancing predictability, the discussion lacks a thorough examination of sensemaking concepts or leadership's role in fostering a culture of sensemaking.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -670,12 +712,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of teamwork and alignment towards common goals, which is relevant to team performance. However, it primarily focuses on business predictability and agile principles rather than specific strategies or practices aimed at enhancing team dynamics or collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles and their role in enhancing predictability, which indirectly relates to team performance. It mentions collaboration, alignment, and the importance of clear goals, which are relevant to team dynamics. However, the primary focus is on predictability rather than directly on team performance, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -724,11 +769,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T07:19:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T17:27:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how Agile principles can enhance business predictability, focusing on the mindset shift, the role of Agile in organisational processes, and the importance of planning and feedback loops, which are central to Agile transformation.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Agile principles and their role in enhancing predictability within organisations. It covers key Agile concepts such as empowerment, adaptability, and iterative planning, aligning well with the core themes of Agile transformation. The case study of Microsoft's Agile transformation provides depth and practical insights, demonstrating a strong understanding of the challenges and strategies involved in adopting Agile methodologies. Overall, the content is focused on Agile transformation, making it a primary discussion point.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -751,11 +799,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T07:19:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Agile principles in achieving business predictability, which aligns with the themes of organisational change, particularly in terms of transforming processes and fostering a culture of agility. It addresses the need for systematic change, leadership involvement, and the integration of methodologies to enhance organisational performance, making it a central topic.",
+    "calculated_at": "2025-03-14T17:28:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile principles and their role in enhancing predictability within organisations, which aligns with the themes of organisational change. It mentions the importance of aligning business goals and adapting processes, which are relevant to change management. However, the primary focus is on predictability rather than a comprehensive exploration of organisational change methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -769,30 +820,36 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T12:05:00",
+    "calculated_at": "2025-03-14T17:27:52",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses agile principles and their role in achieving business predictability, but it does not focus specifically on Scrum practices or product development within a Scrum framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T07:19:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how to achieve predictability in business through the application of Agile principles, focusing on operational inefficiencies, planning, and the importance of defining systems to improve predictability. It addresses techniques for enhancing operational efficiency and delivery, aligning closely with the key topics of the Operational Practices category.",
+    "calculated_at": "2025-03-14T17:28:04",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the role of Agile methodologies in enhancing predictability, which directly relates to operational practices. It addresses operational inefficiencies, the importance of clear goals, and the need for continuous improvement, all of which are core themes of the category. The depth of discussion includes practical steps and real-world examples, particularly highlighting Microsoft's approach to Agile, which further solidifies its relevance to operational efficiency.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of data-driven approaches and metrics in achieving business predictability, which aligns with some principles of Evidence-Based Management. However, the primary focus is on Agile principles and practices rather than a direct discussion of EBM itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which aligns with some aspects of Evidence-Based Management, particularly in terms of using data-driven insights and continuous improvement. However, it lacks a direct focus on EBM principles, metrics, or empirical evidence, and instead centres on Agile methodologies and practical steps for predictability without a strong emphasis on evidence-based decision-making.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -832,12 +889,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-12T07:20:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T17:28:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of predictability in business and how Agile principles can enhance this predictability. It touches on planning, metrics, and the role of empirical data in improving business outcomes, which aligns with forecasting practices. However, the primary focus is on general Agile principles and business predictability rather than specific forecasting methodologies within Agile and Scrum frameworks.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses predictability in business through Agile principles, which aligns with forecasting methodologies. It mentions the role of Agile in enhancing predictability, the importance of clear goals, and the use of data-driven insights, all of which are relevant to forecasting. However, while it touches on forecasting concepts, it does not delve deeply into specific forecasting techniques or empirical data usage, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -868,20 +928,26 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T07:20:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T17:28:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how Agile principles can enhance predictability in business, focusing on planning, goal alignment, and iterative processes, which are central to Agile Planning methodologies.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses how Agile methodologies contribute to predictability in business, aligning closely with Agile Planning principles. It covers key topics such as the importance of clear goals, iterative planning, and the role of collaboration, all of which are central to Agile Planning. The depth of discussion is significant, providing practical steps and real-world examples, particularly highlighting Microsoft's approach to Agile. Overall, the content is a strong fit for the Agile Planning category.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of ownership and responsibility within teams in the context of achieving predictability through Agile principles, making accountability a significant theme, though not the primary focus.",
+    "calculated_at": "2025-03-14T17:28:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses accountability in the context of Agile methodologies, particularly highlighting the importance of ownership and empowerment within teams. It mentions accountability as a key principle that enhances predictability and team performance. However, while it touches on the concept, the primary focus of the content is on predictability rather than a deep exploration of accountability itself. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "MVP": {
@@ -958,20 +1024,26 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:28:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Agile principles in achieving business predictability, touching on trends in Agile methodologies and their implications for organisational practices. However, it primarily focuses on the concept of predictability rather than a comprehensive analysis of trends.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which aligns with the category's focus on Agile methodologies. It mentions trends in Agile practices and provides a case study on Microsoft's transformation, showcasing how these trends can inform strategic decision-making. However, while it touches on relevant themes, the primary focus is on practical steps for predictability rather than a deep analysis of trends themselves.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T07:20:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T17:28:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Agile principles in achieving business predictability, emphasising the importance of a mindset shift from rules to principles, and the need for continuous improvement and adaptability, which are central themes of Agile philosophy.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Agile principles and their role in achieving predictability in business. It directly mentions Agile methodologies, emphasises adaptability, empowerment, and continuous improvement, which are core themes of Agile philosophy. The depth of discussion includes practical steps and real-world examples, particularly Microsoft's approach, showcasing a strong alignment with the Agile mindset. Overall, the content is focused on the broader implications of Agile rather than just specific frameworks.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -985,11 +1057,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of Agile principles in achieving business predictability, touching on planning and the importance of aligning goals within an organisation. However, it primarily focuses on broader Agile concepts rather than specific Agile Planning Tools or methodologies.",
+    "calculated_at": "2025-03-14T17:29:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, but it does not focus specifically on Agile Planning Tools or their functionalities. While it mentions Agile methodologies and touches on planning, it lacks detailed exploration of specific tools or techniques for backlog management, sprint planning, or metrics related to Agile Planning Tools.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -1021,11 +1096,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-12T07:20:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of clear goals and strategic alignment in achieving business predictability, which is central to enhancing business agility and competitive advantage. It addresses long-term objectives and the need for a cohesive strategy within an organisation, aligning well with the category of Strategic Goals.",
+    "calculated_at": "2025-03-14T17:28:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of aligning business goals for predictability, which touches on strategic objectives. However, while it mentions the need for clear goals and alignment, it primarily focuses on operational aspects and the role of Agile methodologies in achieving predictability rather than deeply exploring long-term strategic goals. The discussion lacks a comprehensive framework for setting and measuring strategic objectives, which is crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Continuous Learning": {
@@ -1039,12 +1117,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:29:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes within the context of Agile principles and business predictability, highlighting the importance of clear goals and planning. However, it primarily focuses on Agile methodologies rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses predictability in business and the role of Agile methodologies, which indirectly relates to decision-making processes. However, it primarily focuses on operational challenges and Agile practices rather than explicitly exploring decision theory concepts such as heuristics, biases, or frameworks for decision-making under uncertainty.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1060,12 +1141,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and their role in achieving predictability in business, with some references to Lean thinking and methodologies. However, the primary focus is on Agile rather than Lean, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile principles and their role in achieving predictability in business, with only brief mentions of concepts that could relate to Lean, such as continuous improvement and operational efficiencies. However, it lacks a direct discussion of Lean methodologies, tools, or principles, which diminishes its alignment with the Lean category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1141,21 +1225,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:28:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their role in achieving predictability in business, touching on aspects of learning from feedback and adapting processes. However, the primary focus is on project management and predictability rather than a deep exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which touches on aspects of learning and adaptation. However, the primary focus is on project management and operational efficiency rather than on discovery and learning methodologies. While there are mentions of continuous improvement and feedback, these are not explored in depth, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding complex systems within an organisation to achieve predictability, highlighting interdependencies and the need for holistic approaches. However, the primary focus is on Agile principles rather than Systems Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of systems in achieving predictability, which aligns with Systems Thinking principles. It touches on the importance of understanding systems and optimising processes, indicating a conceptual alignment. However, the primary focus is on Agile methodologies rather than a comprehensive exploration of Systems Thinking, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1177,12 +1267,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and their application to achieve business predictability, touching on methodologies and frameworks like Scrum and Kanban. However, it primarily focuses on the philosophical aspects of Agile rather than specific practical techniques or tooling.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:28:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which aligns with the category's focus on practical techniques. However, it lacks specific discussions on tools or methodologies, and while it mentions Agile practices, it does not delve deeply into the application of specific tools or frameworks. The case study of Microsoft provides some practical insights, but overall, the content is more focused on the philosophy of Agile rather than concrete tooling or methodologies.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1360,12 +1453,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses predictability in business and touches on operational efficiencies, which are relevant to Value Stream Management. However, it primarily focuses on Agile principles and practices rather than a direct exploration of value stream mapping or waste elimination.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:29:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which indirectly relates to Value Stream Management. However, it primarily focuses on general Agile practices and does not explicitly address value stream mapping, waste elimination, or direct alignment with customer value, which are core aspects of Value Stream Management.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",

@@ -31,7 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Software Development
 resourceTypes:
 - video
 categories:

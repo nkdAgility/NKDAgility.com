@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - Software Development
 resourceTypes:
 - video

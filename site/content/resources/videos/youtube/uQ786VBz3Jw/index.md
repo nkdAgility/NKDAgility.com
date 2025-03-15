@@ -28,13 +28,13 @@ tags:
 - Agile Planning
 - People and Process
 - Agile Planning Tools
+- Agile Product Management
+- Scrum Product Development
 - Agile Project Management
 - Product Delivery
 - Professional Scrum
-- Transparency
-- Agile Frameworks
-- Team Performance
-- Agile Product Management
+- Software Development
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

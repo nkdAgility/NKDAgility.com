@@ -67,11 +67,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:29:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses optimisation and waste reduction in the context of Scrum, which aligns with Lean principles, but the primary focus is on Scrum practices rather than Lean methodologies.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the optimisation of processes and minimisation of waste, which aligns with Lean principles. However, the primary focus is on Scrum and estimation techniques, with Lean concepts being secondary. The depth of discussion on Lean-related topics is moderate, but the overall emphasis remains on Agile methodologies rather than Lean itself.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
@@ -103,12 +106,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the dynamics of Scrum teams and the importance of communication and collaboration in the context of estimation practices, which aligns with sociotechnical principles. However, the primary focus is on Scrum methodologies rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Scrum framework and the role of estimation within teams, touching on team dynamics and communication. However, it primarily focuses on technical practices (estimation techniques) without a strong emphasis on the broader sociotechnical interactions or organisational structures. While there are mentions of team learning and optimisation, the discussion lacks depth in exploring how these practices integrate with organisational culture or influence project outcomes, which are key aspects of sociotechnical systems.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -139,12 +145,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to estimation in Scrum, highlighting the importance of discussions and optimising processes, which aligns with decision theory principles. However, the primary focus is on Scrum practices rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses estimation in Scrum and the implications of adopting a No Estimates approach, which touches on decision-making processes. However, it primarily focuses on Scrum practices rather than explicitly exploring decision theory concepts such as heuristics, biases, or frameworks. While there are elements of decision-making present, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -214,7 +223,7 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-10T14:37:00",
+    "calculated_at": "2025-03-15T03:27:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -222,25 +231,31 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and estimation practices, with only brief mentions of Kanban principles such as WIP and flow metrics. While it touches on some Kanban concepts, the focus remains on Scrum methodologies, which detracts from its alignment with the Kanban category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses optimisation of processes and metrics related to Scrum teams, which aligns with technical excellence, but the primary focus is on Scrum practices rather than engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses estimation practices within Scrum, which touches on aspects of technical excellence, particularly in relation to optimising processes and metrics for continuous improvement. However, the primary focus is on Scrum methodology rather than specific engineering practices or technical excellence principles. While it mentions the importance of metrics and optimisation, it lacks a deep exploration of TDD, CI/CD, or modular architecture, which are core themes of the category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the optimisation of Scrum processes and the importance of team discussions, which aligns with complexity thinking principles, but it primarily focuses on Scrum practices rather than complexity science itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the concept of estimation within Scrum and touches on the importance of team discussions and learning, which aligns with complexity thinking principles. However, it primarily focuses on practical Scrum practices rather than explicitly addressing complexity science or its frameworks. The mention of optimisation and flow hints at non-linear dynamics but lacks depth in exploring these concepts in relation to complexity theory.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -283,21 +298,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the No Estimates approach and references resources such as the Kanban Guide for Scrum Teams and Actionable Agile Metrics for Predictability, indicating a focus on methodologies and tools relevant to Agile practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of No Estimates in Scrum, which is relevant to Agile methodologies. It references specific resources like the Kanban Guide for Scrum Teams and Actionable Agile Metrics for Predictability, indicating a connection to literature and tools that support Agile practices. However, the primary focus is on the discussion of estimation practices rather than a detailed review or analysis of specific products or books, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of estimation in Scrum and how it relates to delivering value through improved team communication and process optimisation, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of estimation within Scrum and its impact on team dynamics and delivery processes. While it touches on the importance of discussions and learning in the estimation process, it does not explicitly focus on broader value delivery strategies or methodologies. The mention of metrics like Cycle Time and Throughput indicates some alignment with value delivery principles, but the depth of discussion remains limited to the context of estimation rather than a comprehensive exploration of value delivery practices.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -337,20 +358,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and metrics, which are relevant to Agile methodologies, but it primarily focuses on estimation techniques rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses estimation practices within Scrum, which is a specific Agile framework, rather than the broader Agile Product Operating Model. While it touches on concepts like continuous improvement and metrics, it lacks a direct focus on product-centric development or the holistic approach to value delivery that characterises the Agile Product Operating Model. The discussion is more about Scrum mechanics than the overarching principles of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the importance of continuous improvement, which are relevant to organisational agility, but the primary focus is on estimation techniques rather than broader organisational agility strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the concept of estimation within Scrum, which is a specific Agile methodology. While it touches on aspects of continuous improvement and team optimisation, it does not explicitly focus on broader organisational agility principles or cultural shifts. The discussion is more about Scrum practices than organisational strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -391,12 +418,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation techniques and metrics in the context of Scrum, which relates to software development practices. However, the primary focus is on Scrum methodologies rather than broader technical mastery principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Scrum practices and estimation techniques, which are more aligned with project management and team dynamics rather than the core principles of software craftsmanship. While it touches on optimisation and metrics that could relate to technical delivery, the focus is not on software design, architecture, or engineering excellence. Therefore, it does not fully meet the criteria for 'Technical Mastery'.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -583,11 +613,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T18:26:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:27:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of estimation practices on Scrum teams, focusing on team dynamics, communication, and continuous improvement, which aligns well with the category of Team Performance.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of estimation in Scrum teams, emphasising the importance of communication and learning through estimation activities. It aligns well with the category by addressing team dynamics, continuous improvement, and the impact of metrics on team performance. The depth of discussion on optimising processes and metrics like Cycle Time and Throughput further supports its relevance to team performance. However, it does not focus exclusively on team collaboration or conflict resolution, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -610,20 +643,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T18:26:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:27:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum practices, estimation techniques, and metrics relevant to software development, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the concept of estimation within Scrum, a key Agile framework in software development. It provides a detailed exploration of how estimation impacts team dynamics and workflow optimisation, aligning closely with core themes of software development methodologies. The depth of discussion on metrics and continuous improvement further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T18:26:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:27:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum practices, estimation techniques, and metrics relevant to Agile Project Management.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the concept of estimation within the context of Scrum, which is a key framework in Agile Project Management. It explicitly mentions Scrum roles, ceremonies, and the importance of iterative improvement, aligning well with Agile principles. The depth of discussion on metrics and team dynamics further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -637,11 +676,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T18:26:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:27:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses estimation within the context of Scrum, focusing on its implications for Scrum Teams and continuous improvement, making it a significant theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of estimation within Scrum, which is relevant to Scrum practices. It touches on the importance of discussions in estimation and the evolution of a Scrum Team's approach to metrics, aligning with the themes of continuous improvement and Scrum roles. However, it primarily focuses on the No Estimates movement, which is a specific approach rather than a comprehensive exploration of Scrum principles, roles, and practices. The depth of discussion is moderate, providing insights but lacking a thorough examination of the Scrum framework as a whole.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -655,11 +697,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T18:26:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:27:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of discussion and learning in estimation processes within Scrum, which aligns with empirical process control principles. However, it primarily focuses on the topic of estimation rather than a broader discussion on empirical process control.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of estimation within Scrum and highlights the importance of team discussions and learning, which aligns with empirical process control principles. However, it primarily focuses on the No Estimates approach and does not deeply explore the broader themes of transparency, inspection, and adaptation. While it mentions metrics and optimisation, the depth of discussion on empirical process control is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -811,11 +856,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T18:26:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:28:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within a Scrum context, focusing on the value of estimation discussions, optimisation of processes, and the application of metrics for continuous improvement.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the practical implications of estimation in Scrum, emphasising the importance of discussion and learning over mere numbers. It aligns well with the core themes of pragmatic thinking by addressing real-world applications of Scrum principles, particularly in optimising processes and minimising waste. The depth of discussion is significant, as it explores the transition from basic estimation techniques to more advanced metrics, demonstrating a clear understanding of the complexities involved in Agile environments.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -838,11 +886,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T18:26:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:28:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum practices, particularly around estimation and metrics, which are central to Scrum product development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of estimation within Scrum teams, highlighting its importance in facilitating discussions and improving team understanding. It aligns with Scrum principles by addressing the iterative nature of product development and the need for continuous improvement. However, while it touches on relevant topics, it does not provide a comprehensive exploration of Scrum practices or frameworks, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -892,11 +943,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T18:26:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:28:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the delivery of working software within the context of Scrum, focusing on estimation practices and metrics that contribute to continuous improvement and effective delivery. However, the primary focus is on the estimation process rather than directly on working software itself.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of delivering working software within the context of Scrum, particularly focusing on estimation practices and metrics that can enhance the delivery process. While it does mention working software, the primary focus is on estimation techniques and team dynamics rather than directly addressing the characteristics or best practices of working software itself. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -937,12 +991,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of discussions and learnings within a Scrum Team, which relates to sensemaking in understanding their processes and optimising their workflow. However, the primary focus is on Scrum practices rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of estimation within Scrum and highlights the importance of discussions and learnings that arise from estimation activities. However, it primarily focuses on technical aspects of Scrum practices rather than exploring the broader themes of sensemaking in complex environments. While there are mentions of optimisation and team dynamics, the depth of discussion does not fully align with the core themes of sensemaking, which limits its relevance to the category.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1000,11 +1057,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T18:27:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:28:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses Cycle Time as one of the key metrics for Scrum teams and its importance in optimising workflow, making it a primary topic.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Cycle Time as one of the key metrics for Scrum teams, indicating its importance in optimising workflow and improving processes. It provides a clear mention of Cycle Time alongside other metrics, demonstrating a solid understanding of its role in Agile practices. However, while it touches on the concept, the depth of discussion on Cycle Time specifically could be more extensive, focusing more on its measurement and implications rather than just listing it among other metrics.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -1036,11 +1096,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T18:27:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:28:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of team discussions and communication in the context of estimation within Scrum, highlighting how these interactions can enhance team understanding and collaboration. However, the primary focus is on estimation techniques rather than broader team collaboration strategies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the dynamics of Scrum teams and the importance of communication during estimation processes, which aligns with team collaboration. However, it primarily focuses on the topic of estimation rather than broader team collaboration techniques or culture. While it touches on the value of discussions within the team, it lacks depth in exploring trust, psychological safety, or cross-functional collaboration, which are key themes in the category.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1108,11 +1171,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-14T18:27:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:28:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the value of estimation in Scrum, the role of Story Points and Velocity, and the transition to alternative metrics, making estimation a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses estimation in the context of Scrum, highlighting its value in team discussions and the learning process. It mentions specific estimation techniques like Story Points and Planning Poker, and addresses the evolution of estimation practices as teams mature. The depth of discussion is significant, covering both the benefits and potential pitfalls of estimation, as well as alternative metrics. However, the focus on 'No Estimates' introduces a nuanced perspective that may detract slightly from traditional estimation practices, hence the high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1180,11 +1246,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-14T18:27:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:28:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of discussions and learnings within a Scrum Team, as well as the evolution of metrics for continuous improvement, which aligns with the principles of Continuous Learning. However, the primary focus is on estimation practices rather than a broader exploration of Continuous Learning principles.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of discussions and learning within a Scrum Team, particularly around estimation and metrics for continuous improvement. It highlights the value of team discussions and the evolution of practices as teams mature, which aligns with the principles of Continuous Learning. However, the focus is more on specific Scrum practices rather than a broader exploration of Continuous Learning principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -1207,11 +1276,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T18:27:50",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:28:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of estimation within a Scrum Team and touches on Scrum practices such as Sprint Retrospectives and team optimisation, making it a major theme, though not the sole focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of estimation within a Scrum Team and touches on the importance of team discussions and continuous improvement, which are relevant to the Scrum Master role. However, it lacks a direct focus on the responsibilities and practices of a Scrum Master, making it more of a secondary mention rather than a primary discussion. The depth of the discussion on Scrum practices is moderate, but it does not delve deeply into the Scrum Master's specific contributions or techniques.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1234,11 +1306,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T18:27:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:28:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Scrum teams in Agile development, focusing on estimation practices and metrics that enhance team productivity and collaboration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the role of Scrum teams in the context of Agile methodologies, particularly focusing on estimation practices and their impact on team dynamics and productivity. It aligns well with the category by exploring best practices in Agile development, the importance of communication within teams, and the continuous improvement of processes. The depth of discussion is substantial, providing insights into metrics that can enhance team performance, which is crucial for software developers working within Agile frameworks.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1300,21 +1375,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T18:28:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:28:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum practices, particularly around estimation and metrics, which are central to the Scrum framework. It explores the implications of adopting No Estimates within a Scrum Team, making it a significant discussion on Agile frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the Scrum framework, particularly focusing on estimation practices within Scrum teams. It directly mentions Scrum and its associated practices, which aligns well with the category of Agile Frameworks. The discussion on metrics and continuous improvement reflects core Agile principles, although it does not delve deeply into comparative analysis with other frameworks. Overall, the content provides a solid exploration of Scrum's application, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of estimation practices within Scrum teams, which relates to Agile methodologies and continuous improvement, but primarily focuses on technical practices rather than strategic alignment.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of estimation within Scrum, which is a tactical aspect of Agile methodologies. While it touches on the importance of team discussions and continuous improvement, it lacks a broader strategic context regarding organisational vision or the integration of Agile principles into strategic planning. The focus is primarily on technical practices and metrics rather than on high-level Agile strategy, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1327,21 +1408,27 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation and metrics related to Scrum, which are relevant to forecasting, but the primary focus is on the No Estimates approach and its implications rather than on forecasting methodologies directly.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses estimation and its role in Scrum, touching on metrics like Velocity and Story Points, which are relevant to forecasting. However, the primary focus is on the No Estimates approach and its implications rather than on forecasting methodologies themselves. While there are mentions of metrics that can aid in forecasting, the depth of discussion does not fully align with the core themes of forecasting as defined in the category.",
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:28:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses optimisation and minimising waste in the context of Scrum, which aligns with Lean principles, but the primary focus is on Scrum practices rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses estimation in Scrum and touches on minimising waste and optimising processes, which aligns with Lean principles. However, the primary focus is on Scrum practices rather than Lean Product Development specifically. The mention of waste reduction and continuous improvement is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1372,11 +1459,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-14T18:28:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:28:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the importance of throughput as a metric for optimising flow in Scrum teams, alongside other related metrics like cycle time and WIP. It emphasises the transition from estimation to focusing on throughput, making it a primary topic.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses throughput as one of the metrics that Scrum Teams should focus on for optimising their flow. It mentions the importance of cycle time, throughput, WIP, and work item aging, which aligns with the core themes of the category. However, the primary focus of the content is on estimation practices and the value of discussions within the Scrum framework, which detracts from a deeper exploration of throughput itself. The discussion is relevant but not exhaustive, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Test Driven Development": {

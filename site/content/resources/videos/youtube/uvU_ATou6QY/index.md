@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Product Owner
 - Agile Product Management
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

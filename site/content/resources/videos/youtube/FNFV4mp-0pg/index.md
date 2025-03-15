@@ -26,16 +26,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Performance
-- Professional Scrum
-- Software Development
-- Self Organisation
-- Agile Leadership
 - Agile Project Management
 - Scrum Team
+- Agile Leadership
+- People and Process
+- Team Performance
+- Coaching
 - Team Collaboration
+- Professional Scrum
 - Agile Frameworks
-- Agile Transformation
+- Team Motivation
 resourceTypes:
 - video
 categories:

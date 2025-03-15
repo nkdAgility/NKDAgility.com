@@ -136,7 +136,7 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-13T16:28:34",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -144,7 +144,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of delivering high-quality software and the shift-left approach, which indirectly relates to the concept of Increment in Agile. However, it does not explicitly mention Increments or their significance in Agile frameworks. The focus is more on quality assurance and collaboration rather than the delivery of potentially shippable product increments, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -193,7 +193,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T09:48:55",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -201,7 +201,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the importance of delivering high-quality products and the concept of 'shift left' in software development, which can indirectly relate to team performance. However, it lacks explicit discussions on team dynamics, collaboration, or Agile methodologies. The focus is more on quality assurance practices rather than strategies for enhancing team effectiveness or collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -277,7 +277,7 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T17:19:37",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -285,7 +285,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the 'shift left' approach, which is related to quality assurance and early testing in the software development lifecycle. While it touches on aspects that can contribute to Continuous Delivery, such as early involvement of QA and continuous feedback, it does not explicitly focus on Continuous Delivery principles or practices. The discussion lacks depth in terms of Continuous Delivery methodologies, deployment strategies, and the relationship with DevOps, which are crucial for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -316,7 +316,7 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-10T17:50:01",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -324,7 +324,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the concept of 'shift left', which relates to integrating quality assurance earlier in the development cycle, a principle that can be associated with Continuous Integration. However, it does not explicitly discuss CI practices, tools, or the integration of code changes into a shared repository. The focus is more on quality assurance rather than CI itself, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -481,12 +481,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of quality engineering and the shift left concept, which relates to improving operational efficiency in software development. However, it primarily focuses on quality rather than broader operational practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:07:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 34.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the 'shift left' approach in software development, which aligns with operational practices aimed at improving quality assurance and delivery efficiency. It provides detailed insights into early involvement of QA, continuous feedback, and collaboration, all of which are key to enhancing operational efficiency. The depth of discussion on practical steps for implementation further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -673,7 +676,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T13:07:02",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -681,7 +684,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of delivering high-quality software regularly, which aligns with the principles of frequent releases. However, it primarily focuses on the 'shift left' concept in quality assurance rather than on the broader practices of continuous delivery or deployment. While it touches on the idea of regular cadence, it lacks detailed exploration of release processes, metrics, or specific strategies for frequent releases.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1036,7 +1039,7 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-11T11:12:25",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1044,7 +1047,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the concept of 'shift left', which aligns with the idea of integrating quality early in the development process, a principle related to Test First Development. However, it does not explicitly discuss Test-Driven Development (TDD) or the specific practices of writing tests before code. The discussion lacks depth and detail on the principles, benefits, and tools associated with Test First Development, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1225,7 +1228,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-13T14:46:21",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1233,7 +1236,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the 'shift left' approach in software development, which relates to quality assurance and its integration into the development process. While it touches on aspects of code quality and the importance of early involvement of QA, it does not delve deeply into the complexities of software architecture or the theoretical underpinnings of complexity theory. The primary focus is on practical implementation rather than a thorough exploration of the interplay between code quality and complexity, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1324,11 +1327,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:47:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses quality engineering and the shift left concept, which are relevant to the development stage of the application lifecycle, but it does not comprehensively cover the broader aspects of Application Lifecycle Management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the 'shift left' approach in software development, which relates to quality assurance and early involvement in the development cycle. However, it does not explicitly mention the broader aspects of Application Lifecycle Management, such as deployment, maintenance, or retirement stages. While it touches on some principles that align with ALM, such as collaboration and continuous feedback, the focus remains primarily on quality assurance rather than the entire lifecycle of applications.",
     "level": "Tertiary"
   },
   "Organisational Psychology": {
@@ -1408,12 +1414,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:01:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:12:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering value and quality in software development, which aligns with Agile principles, but it primarily focuses on the concept of 'shift left' in quality assurance rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the 'shift left' approach in software development, which aligns with Agile principles of continuous feedback and collaboration. However, it primarily focuses on quality assurance rather than the broader Agile Product Operating Model. While it touches on aspects like cross-functional teamwork and iterative improvement, it lacks a comprehensive exploration of product-centric development and value delivery, which are central to the Agile Product Operating Model.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1453,7 +1462,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:23",
+    "calculated_at": "2025-03-14T17:12:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1461,6 +1470,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the importance of delivering a high-quality product regularly, which aligns with Scrum's emphasis on delivering working software frequently. However, it primarily focuses on the concept of 'shift left' in quality assurance, which is not a Scrum-specific principle. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth regarding Scrum practices or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

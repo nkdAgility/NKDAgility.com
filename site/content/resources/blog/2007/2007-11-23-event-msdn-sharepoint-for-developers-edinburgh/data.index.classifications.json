@@ -100,11 +100,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses specific tools related to SharePoint and Visual Studio, but the primary focus is on personal experiences and insights from an event rather than a structured exploration of practical techniques or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses specific tools related to SharePoint and Visual Studio, providing insights into their functionalities and limitations. However, it lacks a structured exploration of methodologies or frameworks that enhance Agile and DevOps practices, which is essential for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -286,7 +289,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:17:16",
+    "calculated_at": "2025-03-15T07:37:22",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
@@ -294,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a technical event related to SharePoint and does not focus on personal experiences or reflections related to Agile, Scrum, or DevOps. While there are some personal insights about the speakers and the content of the presentations, these do not align closely with the core themes of the Personal category, which requires deeper personal anecdotes or reflections on Agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -325,7 +328,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T12:14:16",
+    "calculated_at": "2025-03-15T07:37:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -333,7 +336,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a personal experience at a SharePoint event, discussing various features and tools related to SharePoint and Visual Studio. While it touches on some technical aspects, such as SharePoint Designer and workflow projects, it lacks a direct focus on engineering practices or methodologies that enhance agility in software development. The discussion is more about the tools and their functionalities rather than the principles of Technical Excellence, which diminishes its relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -346,21 +349,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses insights gained from attending a SharePoint event, highlighting learning experiences and knowledge acquisition, but it primarily focuses on specific presentations rather than broader methodologies or processes of discovery and learning.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses insights gained from attending a SharePoint event, highlighting learning experiences and key takeaways from presentations. It mentions the importance of understanding tools like SharePoint Designer and InfoPath, which aligns with the category's focus on continuous learning and knowledge sharing. However, the primary focus is on specific tools and presentations rather than broader methodologies or processes of discovery and learning, which limits the depth of discussion.",
     "level": "Tertiary"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses tools and software related to SharePoint, which aligns with the category, but the primary focus is on the event and presentations rather than a detailed review or analysis of specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses a specific event related to SharePoint, including insights on tools like SharePoint Designer and Visual Studio 2008. While it touches on software products relevant to Agile and DevOps, the primary focus is on the event and personal experiences rather than a structured review or analysis of products or literature. The discussion lacks depth in terms of methodology or frameworks, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -571,7 +580,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T17:07:04",
+    "calculated_at": "2025-03-15T07:37:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -579,11 +588,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses SharePoint and its features, which are relevant to collaboration tools. However, it primarily focuses on a specific event and personal experiences rather than providing a comprehensive overview or best practices related to collaboration tools in Agile environments. The discussion lacks depth in terms of Agile methodologies and does not explore the impact of such tools on team performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T19:00:54",
+    "calculated_at": "2025-03-15T07:37:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -591,15 +600,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a SharePoint event and provides insights into specific tools and features relevant to developers, such as SharePoint Designer and Visual Studio 2008. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. The discussion is more about specific technologies rather than the broader role of software developers within Agile and DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of software development related to SharePoint and Visual Studio, making the topic a major but secondary theme within a broader context of event reporting.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses SharePoint and its integration with Visual Studio, which relates to software development practices. However, it primarily focuses on a personal experience at an event rather than a structured discussion on methodologies or best practices in software development. While there are mentions of tools and features relevant to developers, the overall depth and focus on software engineering principles are limited.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -721,7 +733,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T10:49:03",
+    "calculated_at": "2025-03-15T07:37:22",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -729,7 +741,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses insights gained from attending a SharePoint event, highlighting specific learnings and the value of knowledge sharing. However, it lacks a strong focus on the principles of Continuous Learning, such as growth mindset or team improvement practices. While it mentions learning and insights, it does not delve deeply into the broader implications of Continuous Learning in Agile or DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -967,12 +979,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses certain aspects of SharePoint and Visual Studio, highlighting some technical points and insights, but the primary focus is on specific event experiences, which makes the alignment with Technical Mastery only secondary.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses specific technical aspects of SharePoint and Visual Studio, which aligns with the principles of software craftsmanship. However, it primarily focuses on personal experiences and opinions from an event rather than a structured discussion on best practices or methodologies in software engineering. The mentions of tools and features are relevant but lack depth in exploring their implications for technical mastery.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1102,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses SharePoint, which operates on the Windows platform, and mentions Visual Studio 2008, but the focus is primarily on SharePoint rather than Windows operating system itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses SharePoint, which is a Microsoft product that operates within the Windows environment, but it does not focus specifically on Windows itself. While there are mentions of Windows SharePoint Services and Visual Studio, the primary focus is on SharePoint functionalities rather than Windows OS installation, configuration, or troubleshooting. Therefore, the direct mentions are low, but there is some conceptual alignment with Windows as a platform for SharePoint. The depth of discussion is moderate, as it provides insights into SharePoint features but lacks comprehensive coverage of Windows-specific topics.",
     "level": "Tertiary"
   },
   "Lean Principles": {

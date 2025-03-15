@@ -46,12 +46,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile event that promotes exposure to experts and learning opportunities, but the primary focus is on the event itself rather than the processes of discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses an Agile event in Africa, highlighting the importance of community and exposure to Agile practices. However, while it mentions the event and the speakers, it lacks a direct focus on the processes of discovery and learning. The mention of the Kano project with children hints at a learning aspect, but overall, the content primarily revolves around the event's organisation and personal experiences rather than a deep exploration of methodologies that foster innovation or continuous learning.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -127,11 +130,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an Agile event in Africa and personal experiences related to it, but it does not delve into specific Agile methodologies or frameworks, making it a major but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses an Agile event in Africa, highlighting personal experiences and reflections rather than specific Agile methodologies or frameworks. While it mentions Agile and related events, the focus is more on the event's atmosphere and personal anecdotes, which aligns with the Miscellaneous category. However, the repeated references to Agile events and community involvement indicate a moderate connection to Agile concepts, preventing a lower score.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -241,7 +247,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:42:28",
+    "calculated_at": "2025-03-15T03:52:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -249,7 +255,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses an Agile event in Africa, focusing on the community and personal experiences rather than the methodologies and practices of product delivery. While Agile is mentioned, the discussion lacks depth on how Agile methodologies specifically contribute to product delivery processes. The content does not provide substantial insights into planning, testing, or deployment phases, which are critical to the category of Product Delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -337,12 +343,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile event and the community's efforts to promote agility in Africa, but it primarily focuses on the event itself rather than the principles and practices of organisational agility.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses an Agile event in Africa, highlighting the importance of community and exposure to Agile practices. However, it lacks a direct focus on organisational agility principles, such as leadership roles or structural alignment. While it mentions the potential for improving development practices, it does not delve deeply into strategies or frameworks that enhance organisational adaptability.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -511,7 +520,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T17:01:36",
+    "calculated_at": "2025-03-15T03:52:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -519,7 +528,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses an Agile event in Africa and mentions the community aspect of Agile, but it lacks a direct focus on the foundational principles of Agile Philosophy. While it touches on collaboration and community involvement, it does not delve into the core themes such as the Agile Manifesto or continuous improvement. The discussion is more about the event and personal experiences rather than a thorough exploration of Agile as a mindset.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -541,12 +550,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile event in Africa and mentions the importance of bringing agility to the region, but it primarily focuses on the event itself rather than the principles or methodologies of Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses an Agile event in Africa, highlighting the community and the enthusiasm around Agile practices. However, it lacks a direct focus on Agile transformation strategies, methodologies, or frameworks. While it mentions Agile and the community's efforts, it does not delve into the principles or practices of Agile transformation, making it more of a promotional piece rather than a detailed discussion on the topic.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -595,21 +607,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile event and the community around it, which is a major theme in software development, but it primarily focuses on the event itself rather than specific software development practices or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses an Agile event in Africa, which is related to software development methodologies, particularly Agile practices. However, the focus is more on the event's organisation and personal experiences rather than in-depth discussions of Agile principles or software development practices. While it mentions Agile and the community, it lacks detailed exploration of methodologies or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile event and the community around it, but does not delve into specific Agile methodologies or project management practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses an Agile event in Africa and mentions the community and speakers involved, but it lacks a detailed exploration of Agile principles, methodologies, or practices. While it touches on the importance of community and events related to Agile, it does not delve into specific Agile frameworks or project management techniques, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -868,7 +886,7 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-11T10:21:56",
+    "calculated_at": "2025-03-15T03:52:13",
     "ai_confidence": 42.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
@@ -876,7 +894,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses an Agile event in Africa, highlighting the challenges and opportunities in promoting agility in the region. While it touches on the entrepreneurial spirit of bringing innovation to developing areas, the primary focus is on the event itself rather than the broader principles of entrepreneurship. The mention of investment and the potential for profit aligns with entrepreneurial themes, but the depth of discussion on risk-taking, value creation, or the entrepreneurial mindset is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -1153,12 +1171,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Agile in Africa event and the community aspect of agility, highlighting the commitment of speakers and the collaborative spirit, which relates to team motivation. However, it primarily focuses on the event itself rather than specific strategies or practices for enhancing team motivation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses an Agile event in Africa and highlights the commitment of speakers who paid their own way to participate, which suggests a level of engagement and ownership. However, it primarily focuses on the event's logistics and personal experiences rather than exploring strategies for enhancing team motivation or dynamics in an agile context. While there are elements of team spirit and community, the discussion lacks depth in addressing the core themes of team motivation as outlined in the category definition.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1225,7 +1246,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T18:30:37",
+    "calculated_at": "2025-03-15T03:52:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1254,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses an Agile event in Africa, which is relevant to the category of Software Developers. However, it primarily focuses on the event's organisation and personal experiences rather than the specific role of software developers within Agile frameworks. While there are mentions of Agile practices, the depth of discussion on how these practices enhance developer productivity or collaboration is minimal. The content lacks detailed exploration of best practices, tools, or methodologies that directly impact software developers, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1291,12 +1312,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile event and mentions Agile frameworks like XP and Scrum, but it primarily focuses on the event's organisation and personal experiences rather than a detailed exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses an Agile event in Africa and mentions various Agile-related events, such as XP Day and Scrum Day. However, it lacks a detailed exploration of Agile frameworks themselves, focusing more on the event's atmosphere and personal experiences rather than the principles, applications, or comparative analysis of Agile frameworks. While there are mentions of Agile, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1420,7 +1444,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:34:16",
+    "calculated_at": "2025-03-15T03:52:13",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -1428,6 +1452,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions 'Scrum Day Africa' as part of an event series but does not delve into Scrum principles, roles, or practices. While it discusses Agile in a broader context, it lacks a focused discussion on Scrum itself, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

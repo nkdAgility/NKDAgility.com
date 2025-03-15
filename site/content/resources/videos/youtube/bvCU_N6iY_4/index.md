@@ -26,8 +26,9 @@ preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true
 tags:
-- Agile Frameworks
-- Agile Project Management
+- Business Agility
+- People and Process
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

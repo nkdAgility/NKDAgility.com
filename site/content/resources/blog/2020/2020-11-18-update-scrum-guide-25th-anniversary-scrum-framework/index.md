@@ -8,7 +8,7 @@ ResourceImportId: 45077
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-18
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,9 +34,9 @@ tags:
 - Professional Scrum
 - Software Development
 - News and Reviews
-- Agile Planning
 - People and Process
-- Agile Product Management
+- Increment
+- Team Collaboration
 categories:
 - Scrum
 - Social Technologies

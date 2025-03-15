@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/visual-studio-team-system-2008-team-foundation-server-power-tools
 - /visual-studio-team-system-2008-team-foundation-server-power-tools
 - /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
-tags:
-- News and Reviews
-- Products and Books
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

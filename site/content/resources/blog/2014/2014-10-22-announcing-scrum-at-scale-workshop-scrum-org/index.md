@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
+- Scaling Scrum
+- Agile Project Management
 - People and Process
 - Events and Presentations
-- Agile Project Management
-- Change Management
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- Scaled Agile
 - Large Scale Agility
-- Organisational Agility
-- Organisational Change
-- Organisational Culture
 - Scaling Agility
-- Scaling Scrum
 categories:
 - Scrum
 - Social Technologies

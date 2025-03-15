@@ -31,6 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
+- Software Development
+- Agile Transformation
+- Organisational Agility
 - Technical Leadership
 - Business Agility
 - Agile Product Management

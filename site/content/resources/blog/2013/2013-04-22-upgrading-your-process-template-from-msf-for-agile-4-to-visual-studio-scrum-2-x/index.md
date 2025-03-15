@@ -26,13 +26,7 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
-- Agile Project Management
 - Pragmatic Thinking
-- Software Developers
-- System Configuration
-- Azure DevOps
-- Operational Practices
-- Azure Boards
 categories:
 - Social Technologies
 - Scrum

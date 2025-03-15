@@ -367,7 +367,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T14:40:26",
+    "calculated_at": "2025-03-14T23:49:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -375,7 +375,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on the process of creating a sprint goal within a Scrum team, which is a specific agile practice. While it touches on aspects of team dynamics and strategic alignment, it lacks a broader discussion on technical leadership principles, mentoring, or fostering a culture of continuous improvement. The depth of discussion is limited to the mechanics of sprint goal creation rather than exploring the role of a technical leader in guiding the team through these processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -487,7 +487,7 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-13T16:49:53",
+    "calculated_at": "2025-03-14T23:49:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -495,7 +495,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the process of creating a sprint goal, which involves selecting items from the product backlog. However, it does not explicitly focus on backlog refinement as a primary topic. While there are mentions of backlog items and their importance in achieving sprint goals, the discussion lacks depth on techniques, best practices, or the role of the Product Owner in backlog management. Overall, the content aligns with some themes of backlog refinement but does not provide a comprehensive exploration of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -508,12 +508,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:01:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum roles and events, which are relevant to Agile transformation, but does not address broader strategies or methodologies for Agile transformation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:28:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, specifically the process of creating a sprint goal. While it discusses Agile principles and practices, it does not delve into broader Agile transformation strategies or cultural shifts. The mention of Scrum roles and the importance of aligning with strategic and tactical directions indicates some alignment with Agile transformation, but the depth is limited to a specific Scrum practice rather than a comprehensive discussion on Agile transformation as a whole.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -571,12 +574,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:01:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:49:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the selection of items from the product backlog for Sprint planning, indicating a major but secondary theme related to the Product Backlog.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the process of selecting items from the Product Backlog to create a Sprint Goal, which directly relates to the Product Backlog's role in Agile. It mentions the importance of understanding the backlog in the context of strategic and tactical directions, indicating a solid conceptual alignment. However, while it touches on backlog management, the primary focus is on Sprint Goal creation, which slightly diminishes the depth of discussion regarding the Product Backlog itself.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -616,11 +622,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:01:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:49:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the process of creating a Sprint goal, which involves collaboration and roles within a Scrum Team, particularly the Product Owner's influence and the team's collective decision-making.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the Scrum team's role in creating a Sprint Goal, highlighting the collaboration and decision-making processes involved. It aligns well with the core themes of team dynamics and responsibilities, providing a detailed exploration of how the team interacts with the product backlog and strategic direction. The depth of discussion on the nuances of crafting a Sprint Goal indicates a strong focus on the Scrum Team category.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -688,12 +697,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:01:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:49:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the collaborative process of a Scrum team in creating a sprint goal, highlighting the importance of team discussions and shared understanding, but it primarily focuses on the mechanics of Scrum rather than broader themes of team collaboration.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Scrum team's process of creating a sprint goal, which involves collaboration and communication among team members. However, while it touches on teamwork dynamics, it primarily focuses on the mechanics of sprint goal creation rather than broader themes of team collaboration, such as trust, psychological safety, or cross-functional teamwork. The discussion is relevant but lacks depth in exploring the collaborative aspects in detail.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -733,21 +745,27 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T23:01:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:49:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of creating a Sprint goal, which involves team collaboration and decision-making, indicating a secondary theme of self-organisation within the Scrum framework.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the process of creating a Sprint Goal within a Scrum team, which touches on aspects of self-organisation, such as team autonomy in decision-making and collaboration. However, it primarily focuses on the tactical elements of goal creation rather than exploring the broader principles of self-organisation or the culture that supports it. The discussion lacks depth in addressing how self-organisation is fostered or the role of leadership in this context, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:01:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of product direction and value delivery in the context of a Scrum team, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:49:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, specifically the process of creating a sprint goal, which is a tactical aspect of Agile methodologies. While it touches on the importance of aligning with product strategy and stakeholder value, it does not delve into the broader principles of the Agile Product Operating Model, such as continuous value delivery or cross-functional team dynamics. Therefore, while there are relevant elements, the primary focus remains on Scrum practices rather than the overarching Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -805,12 +823,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:02:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of creating a Sprint goal, which involves decision-making based on various inputs and strategic considerations. However, it primarily focuses on Scrum roles and events rather than structured, evidence-based methodologies for decision-making.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the process of creating a Sprint Goal within a Scrum team, which involves decision-making based on strategic and tactical information. However, it lacks explicit references to structured methodologies or evidence-based practices, focusing more on the nuances of the Scrum process rather than a comprehensive exploration of decision-making principles.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -859,21 +880,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:02:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of creating a Sprint goal, which involves interpreting various pieces of information and context to make informed decisions. However, the primary focus is on Scrum roles and events rather than a broader exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the process of creating a Sprint Goal within a Scrum team, which involves gathering and interpreting information from various sources. However, while it touches on aspects of sensemaking, such as understanding strategic and tactical directions, the primary focus is on Scrum practices rather than a deep exploration of sensemaking principles or frameworks. The discussion lacks sufficient depth and does not fully align with the core themes of sensemaking, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:02:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the strategic direction and tactical considerations involved in creating a Sprint goal, indicating a major but secondary theme related to strategy within the Scrum framework.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the creation of a Sprint Goal within the Scrum framework, highlighting the importance of strategic and tactical directions. It explicitly mentions the need for the Scrum team to consider the strategic context of the product, which aligns well with the core themes of strategic alignment and value-driven approaches in Agile. The depth of discussion is substantial, as it elaborates on the process of selecting backlog items that align with the sprint goal, indicating a thorough understanding of the strategic implications. However, while it touches on strategy, the primary focus remains on the tactical execution of creating a sprint goal, which slightly limits its overall strategic depth.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -958,11 +985,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:02:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner and the process of creating a Sprint goal, which aligns with Agile principles and practices in product management.",
+    "calculated_at": "2025-03-14T23:50:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, specifically the role of the Scrum team in creating a sprint goal, which is a key aspect of Agile Product Management. It discusses the importance of aligning the sprint goal with strategic and tactical directions, which directly relates to prioritising product backlogs based on customer value and business objectives. The depth of discussion is substantial, as it explores the nuances of selecting backlog items and the collaborative nature of the Scrum team. Overall, the content aligns well with the core themes of Agile Product Management, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1012,12 +1042,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:02:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of decision-making within a Scrum team, which relates to empirical process control, but it primarily focuses on the creation of a sprint goal rather than the broader principles of empirical process control.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the process of creating a Sprint Goal within a Scrum team, which touches on aspects of decision-making and the importance of context. However, it lacks explicit references to empirical process control principles such as transparency, inspection, and adaptation. While it aligns with Agile methodologies, the focus is more on tactical execution rather than the empirical process itself.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1030,12 +1063,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:03:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical process of creating a Sprint goal within a Scrum team, highlighting the importance of context and prioritisation, which aligns with pragmatic problem-solving in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the practical aspects of creating a Sprint Goal within a Scrum team, highlighting the need for strategic and tactical considerations. It aligns with pragmatic thinking by emphasising real-world applications and problem-solving strategies in an Agile context. However, while it touches on important themes, the depth of discussion on broader pragmatic techniques and evidence-based practices is limited.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1057,12 +1093,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of creating a sprint goal, which is related to delivering value and aligning with customer needs, but it primarily focuses on Scrum roles and events rather than the broader concept of working software.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the process of creating a sprint goal within a Scrum team, which is a component of Agile methodologies. While it touches on the importance of aligning backlog items with stakeholder value, it does not explicitly focus on the delivery of functional software or the characteristics of working software. The discussion is more about the strategic and tactical aspects of goal setting rather than the operational quality of the software itself.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1093,20 +1132,26 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:03:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the strategic direction of the product and the importance of aligning with stakeholder value, which relates to product strategy. However, it primarily focuses on Scrum processes and team dynamics, making product strategy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the creation of a sprint goal within the Scrum framework, which touches on strategic aspects but primarily focuses on tactical execution and team dynamics. While it mentions the importance of understanding the product's strategic direction, it does not delve deeply into product strategy methodologies or frameworks, making it more of a secondary discussion rather than a primary focus.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:03:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:50:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the process of creating a sprint goal within a Scrum framework, which is a key aspect of Agile methodologies in software development.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses extensively on the Scrum framework, a key Agile methodology within software development. It discusses the process of creating a sprint goal, which is a fundamental aspect of Scrum practices. The discussion includes strategic and tactical considerations, aligning with core themes of software development methodologies. The depth of the content is significant, providing insights into the decision-making process of a Scrum team, which enhances its relevance to the Software Development category.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1156,12 +1201,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:03:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the process of creating a sprint goal within a Scrum team, which is relevant to Agile practices and the role of software developers, but it does not delve deeply into broader Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the process of creating a sprint goal within a Scrum team, which is a key aspect of Agile methodologies. It directly mentions the Scrum team and their roles, indicating a focus on software developers' practices. However, while it aligns with Agile principles, it lacks depth in discussing broader DevOps integration or specific engineering practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1192,11 +1240,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:04:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner in relation to the Sprint goal and backlog management, but it primarily focuses on the Scrum team's process rather than the specific responsibilities and practices of the Product Owner.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the process of creating a sprint goal within a Scrum team, which indirectly involves the Product Owner's role in providing strategic and tactical direction. However, the focus is primarily on the Scrum team's activities rather than the specific responsibilities and practices of the Product Owner. While there are mentions of the Product Owner's influence on the backlog and strategic direction, the depth of discussion regarding the Product Owner's role is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1291,11 +1342,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:04:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the process of creating a Sprint goal, which directly relates to delivering value to stakeholders by aligning team efforts with strategic and tactical directions.",
+    "calculated_at": "2025-03-14T23:50:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the process of creating a Sprint Goal within a Scrum team, which is related to value delivery as it focuses on identifying the most important tasks that can drive value for stakeholders. However, while it touches on the importance of aligning backlog items with stakeholder value, it lacks a broader discussion on methodologies or strategies for continuous value delivery, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1327,11 +1381,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:04:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:50:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the process of creating a Sprint goal, which is a key aspect of Scrum product development, including the roles of the Product Owner and the Development Team.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the process of creating a Sprint Goal, which is a core aspect of Scrum practices. It aligns well with the key topics of Scrum roles, the importance of the Product Backlog, and iterative development. The depth of discussion is substantial, providing insights into strategic and tactical considerations, as well as the importance of stakeholder value, which are crucial for effective product development in a Scrum environment.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -1354,39 +1411,51 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:04:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of a Scrum team's efforts with strategic and tactical directions, indicating a connection to Agile principles, but primarily focuses on the technical aspects of creating a sprint goal.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:50:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the creation of a Sprint Goal within the Scrum framework, touching on the importance of aligning with strategic and tactical directions. While it does mention strategic context, the primary focus is on the tactical aspects of Scrum practices rather than a broader Agile strategy. The depth of discussion on strategic alignment is moderate, but it lacks comprehensive exploration of Agile principles or long-term strategic planning.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T23:04:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of selecting items from the product backlog that provide value to stakeholders, which relates to the concept of delivering a valuable Increment, but it primarily focuses on the process of creating a sprint goal.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the process of creating a Sprint Goal, which is closely related to the concept of Increment in Scrum. It highlights the importance of aligning backlog items with stakeholder value, indicating a focus on delivering valuable software. However, it primarily centres on the goal-setting aspect rather than the Increment itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T23:04:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:44",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the alignment of a Sprint goal with the strategic direction of the product, indicating a connection to strategic objectives, but primarily focuses on the tactical aspects of Scrum rather than long-term strategic goals.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses the creation of a Sprint Goal within the Scrum framework, touching on the importance of aligning with strategic and tactical directions. However, it primarily focuses on operational tactics rather than long-term strategic objectives. While there are mentions of strategic context, the depth of discussion does not fully explore the broader implications of strategic goals in business agility.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:04:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:50:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum that relate to team collaboration and prioritisation, which are relevant to organisational agility, but it primarily focuses on the mechanics of creating a sprint goal rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and the specific process of creating a sprint goal, which is a tactical aspect of Agile methodologies. While it touches on strategic and tactical directions, it does not delve into broader organisational agility concepts such as leadership roles, cultural shifts, or continuous improvement strategies. The discussion is more about the mechanics of Scrum rather than how these practices contribute to overall organisational agility.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

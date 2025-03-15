@@ -31,7 +31,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:24:16",
+    "calculated_at": "2025-03-15T02:15:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses training and coaching that promotes a people-first culture and encourages learning and growth, which aligns with leadership principles. However, it lacks direct mentions of leadership practices and does not delve deeply into specific leadership strategies or frameworks, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -79,21 +79,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on a training program that covers Scrum concepts and methodologies, but also includes broader aspects of professional training and coaching, indicating Scrum as a major theme but not the sole focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:16:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions 'Professional Scrum' in the context of community access but does not delve into Scrum principles, roles, or practices. While it discusses training and a people-first culture, it lacks a focused exploration of Scrum as outlined in the Scrum Guide, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses Professional Scrum training and incorporates themes related to Scrum and Kanban, but it focuses more on the delivery of training rather than an exploration of Agile frameworks as a primary topic.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-15T02:16:12",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 43.0,
+    "reasoning": "The content discusses training methods that promote agility and collaboration, which aligns with Agile principles. However, it primarily focuses on the flipped learning approach and does not delve deeply into specific Agile frameworks like Scrum or Kanban. While there are mentions of Agile concepts and a community related to Scrum, the overall discussion lacks a thorough exploration of Agile frameworks themselves.",
+    "level": "Tertiary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -106,11 +112,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a training course that includes live virtual sessions, which fits well within the Events and Presentations category. It emphasizes interactive workshops and participant engagement, making events central to the topic.",
+    "calculated_at": "2025-03-15T02:16:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses training courses and workshops, which are relevant to the category of Events and Presentations. However, it lacks explicit references to specific events or presentations, focusing instead on the training methodology and community engagement. The mention of interactive workshops and virtual sessions aligns with the category's themes, but the overall depth of discussion on formal events is limited.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -151,12 +160,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the importance of a happy and motivated workforce impacting client experience, indicating a focus on customer satisfaction, but the primary focus is on training and course offerings.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and engagement strategies that contribute to a positive learning environment, which indirectly relates to customer satisfaction through employee satisfaction and development. However, it lacks direct references to customer satisfaction metrics or methodologies, and the primary focus is on training rather than customer experience.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -169,12 +181,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:16:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a training program that includes live virtual sessions, which could relate to remote working. However, the primary focus is on the training itself rather than remote working strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses training methods and engagement strategies that could be relevant to remote working, particularly through virtual sessions. However, it lacks a direct focus on remote working challenges or Agile practices specifically related to distributed teams. The mention of virtual sessions is brief and does not delve into the unique aspects of remote collaboration or Agile methodologies.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -214,11 +229,14 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the use of Microsoft Teams and Mural for live interactive sessions, which relates to collaboration tools, but the primary focus is on Scrum training and coaching rather than on collaboration tools themselves.",
+    "calculated_at": "2025-03-15T02:15:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the use of Microsoft Teams for virtual sessions, which is a collaboration tool, but it primarily focuses on the flipped learning approach and training methodologies rather than on collaboration tools themselves. While there are elements of collaboration and engagement mentioned, the overall emphasis is on training and personal development rather than on the tools that facilitate collaboration within Agile teams.",
     "level": "Tertiary"
   },
   "Self Organisation": {
@@ -295,20 +313,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses training and coaching in Scrum practices, which is a major theme in software development, but also includes significant elements related to learning methods and corporate culture.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses training methodologies, particularly the flipped learning approach, which aligns with educational practices in software development. However, it lacks direct references to software engineering processes or frameworks, and the depth of discussion on software development topics is minimal.",
     "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:16:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses coaching sessions and emphasizes a people-first culture that encourages learning and growth, indicating that coaching is a significant theme, albeit not the primary focus compared to training and course delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses coaching in the context of training and development, highlighting personalised support and a people-first culture. It aligns with coaching principles by emphasising collaboration, growth, and self-discovery. However, while coaching is a significant aspect, the primary focus is on training methodologies and engagement strategies, which slightly dilutes the direct emphasis on coaching itself.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -322,21 +346,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile training and coaching, which are related to Agile methodologies. However, it primarily focuses on training delivery rather than strategic alignment and implementation at an organizational level.",
+    "calculated_at": "2025-03-15T02:15:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses training methods and a people-first culture, which are relevant to Agile principles. However, it lacks a direct focus on strategic alignment or implementation of Agile methodologies at scale. The mention of a community for ongoing learning hints at Agile practices but does not delve into strategic planning or decision-making processes.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training and learning in the context of Scrum and Agile, emphasizing collaboration and improvement within teams, but does not focus specifically on team performance metrics or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:15:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses training methodologies that promote team collaboration and continuous improvement, aligning with the core themes of team performance. It mentions fostering a people-first culture and encourages support among team members, which are relevant to enhancing team dynamics. However, while it touches on these aspects, it lacks detailed exploration of specific Agile practices or metrics for measuring team performance, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -385,11 +415,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a people-first culture and changing mindsets, which aligns with change management themes, but primarily focuses on training and knowledge acquisition.",
+    "calculated_at": "2025-03-14T15:34:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses fostering a people-first culture and continuous improvement, which aligns with change management principles. However, it primarily focuses on training methods and engagement strategies rather than in-depth change management practices or frameworks. The mention of a people-first culture and the emphasis on collaboration suggest some alignment with change management, but the lack of explicit discussion on managing change initiatives or stakeholder engagement limits the depth of the content in this category.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
@@ -412,11 +445,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses training approaches that emphasize continuous improvement, self-study, and interactive learning, which aligns well with the principles of Continuous Learning in Agile environments.",
+    "calculated_at": "2025-03-15T02:16:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses continuous improvement and a growth mindset through the flipped learning approach, which aligns well with the principles of Continuous Learning. It details methods for knowledge sharing, such as self-study materials and interactive workshops, and emphasises the importance of a supportive culture for learning. The depth of discussion is substantial, covering various aspects of training and community engagement that promote ongoing education and collaboration.",
     "level": "Secondary"
   },
   "Organisational Physics": {
@@ -457,7 +493,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:19:26",
+    "calculated_at": "2025-03-15T02:15:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -465,7 +501,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses training and coaching for Agile methodologies, which is relevant to software developers. However, it primarily focuses on the training approach and the benefits of a people-first culture rather than directly addressing the role of software developers in Agile or DevOps contexts. The mention of Agile concepts is present but lacks depth in discussing specific practices or tools that developers would use. Therefore, while there is some alignment, it is not the primary focus of the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -487,12 +523,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a people-first culture and its positive impact on the workforce and organizational success, which relates to organizational culture. However, the primary focus is on training and teaching methodologies rather than an in-depth examination of cultural elements themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:15:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of fostering a people-first culture and highlights strategies for continuous improvement and collaboration, which are key aspects of organisational culture. It explicitly mentions creating a supportive environment and encourages learning and growth, aligning well with the category's focus. However, while it touches on cultural elements, the primary focus is on training methods rather than a comprehensive exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -532,16 +571,19 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training aimed at fostering a people-first culture and improving client experience, which aligns with the broader themes of customer satisfaction and value delivery, though it does not focus primarily on those concepts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses training methodologies and a people-first culture, which indirectly relate to value delivery by fostering team engagement and continuous improvement. However, it lacks explicit focus on value delivery principles, such as iterative development or customer feedback mechanisms, which are central to the category.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:37:24",
+    "calculated_at": "2025-03-15T02:15:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -549,7 +591,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses training and a people-first culture, which are relevant to fostering collaboration and continuous improvement. However, it lacks direct mentions of technical leadership principles, agile methodologies, or specific strategies for mentoring and coaching development teams, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -610,20 +652,26 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile principles and includes references to Scrum and Kanban, which are related to Lean Thinking, but the primary focus is on Scrum training rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:16:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training methodologies and a people-first culture, which are somewhat aligned with Lean principles of continuous improvement and value creation. However, it lacks direct mentions of Lean concepts such as waste identification or specific Lean tools. The focus is more on training and engagement rather than Lean Thinking itself.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content emphasizes the importance of a people-first culture, team dynamics during training, and the role of collaborative learning environments in Agile methodologies, which aligns closely with the category's focus.",
+    "calculated_at": "2025-03-15T02:16:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of a people-first culture, team collaboration, and the role of training in enhancing team dynamics. It highlights methods that foster engagement and continuous improvement, aligning well with the core themes of the category. The depth of discussion on how flipped learning and interactive workshops contribute to team development further supports a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -637,12 +685,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:16:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on professional Scrum training, which is related to agile methodologies and fostering a culture of learning and improvement, aligning with the principles of business agility. However, it lacks a direct and comprehensive discussion on business agility as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses training methods that promote a people-first culture and continuous improvement, which aligns with the principles of business agility. However, it primarily focuses on the flipped learning approach and does not explicitly mention business agility or its key topics. The depth of discussion on fostering a culture of innovation and adaptability is present, but it lacks comprehensive exploration of business agility as a primary focus.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -655,7 +706,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T14:29:36",
+    "calculated_at": "2025-03-15T02:15:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -663,7 +714,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses training and coaching methods that could influence team dynamics and employee engagement, which are relevant to organisational psychology. However, it primarily focuses on the technical aspects of training delivery and does not delve deeply into psychological theories or principles. The mention of a 'people-first culture' and the positive impact of a motivated workforce aligns with the category, but the overall discussion lacks depth in psychological concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -826,21 +877,27 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses training and coaching in Scrum and Kanban, which are frameworks in agile project management, but does not deeply explore agile principles or practices.",
+    "calculated_at": "2025-03-15T02:15:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses training methods that promote agility and collaboration, which aligns with agile principles. However, it lacks direct references to specific agile frameworks like Scrum or Kanban, and does not delve deeply into agile project management practices. The focus is more on training and personal development rather than the management of agile projects.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a people-first culture that encourages learning and growth, which relates to psychological safety, but the primary focus is on Scrum training and course structure.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses fostering a supportive environment and a people-first culture, which aligns with the themes of psychological safety. However, it primarily focuses on training methods and engagement strategies rather than explicitly addressing psychological safety as a primary topic. The mention of encouraging collaboration and divergent thinking hints at psychological safety but lacks depth in exploring its direct impact on team dynamics or performance.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -853,11 +910,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific training program related to Scrum, which falls under the broader category of Agile methodologies, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a training programme that employs a flipped learning approach, which is relevant to Agile methodologies. However, it primarily focuses on the training process and the environment at Naked Agility Limited rather than specific products or books. While there are mentions of resources and community access, the discussion lacks depth in terms of specific literature or tools that enhance Agile practices.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -871,12 +931,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a people-first culture and the positive impact of a motivated workforce, making team motivation a significant theme, but it primarily focuses on training and learning approaches without in-depth strategies for team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:16:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses fostering a people-first culture and enhancing team engagement through flipped learning and collaborative workshops. It explicitly mentions the importance of a motivated workforce and encourages support among team members, aligning well with the core themes of team motivation. However, while it touches on these aspects, it does not delve deeply into specific strategies for building trust or psychological safety, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -916,7 +979,7 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T17:49:57",
+    "calculated_at": "2025-03-15T02:15:28",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -924,7 +987,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses training methods and a people-first culture, which are relevant to Agile principles, but it lacks a direct focus on Agile Product Management specifically. While it mentions concepts like collaboration and continuous improvement, it does not delve into key topics such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement in product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1000,11 +1063,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content primarily focuses on Scrum training and delivery methods, it includes aspects of mentoring and coaching within the learning experience, making mentoring a significant secondary theme.",
+    "calculated_at": "2025-03-15T02:16:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses training and support mechanisms that align with mentoring principles, such as personalised support and fostering a people-first culture. However, it lacks direct references to mentoring roles or techniques, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -1039,12 +1105,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily focuses on training and education in Scrum and Kanban, it touches upon themes of continuous improvement, a people-first culture, and adaptation in learning, which are relevant to organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:16:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the flipped learning approach and its role in fostering a people-first culture, which aligns with the principles of organisational agility. It emphasises continuous improvement, collaboration, and adaptability, key themes in the category. However, while it touches on these concepts, it does not explicitly mention organisational agility or agile methodologies in detail, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1069,12 +1138,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content primarily discusses training and educational methodologies, it touches on creating a people-first culture that encourages learning and growth, which can relate to fostering adaptability and continuous improvement within organizations.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T02:16:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses fostering a culture of continuous improvement and a people-first approach, which aligns with the themes of resilience and adaptability. However, it primarily focuses on training methodologies rather than explicit change management strategies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1105,11 +1177,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:16:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training and methodologies related to Scrum and Kanban, but it primarily focuses on training and learning experiences rather than practical tools or specific techniques.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a flipped learning approach and training methodologies, which are relevant to Agile practices. However, it lacks direct mentions of specific Agile or DevOps tools and frameworks, focusing more on the training philosophy and culture rather than practical techniques and tooling. The depth of discussion on practical application is limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Sensemaking": {
@@ -1168,11 +1243,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:16:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses training methodologies and the importance of continuous learning, along with fostering a culture of growth and innovation, which aligns with the themes of discovery and learning.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the flipped learning approach, which is a method of fostering continuous learning and engagement. It aligns well with the core themes of the category, such as the importance of reflection, practice, and collaboration in learning. The depth of discussion is significant, detailing how self-study materials and interactive workshops contribute to a culture of learning and innovation. Additionally, the emphasis on a people-first culture and community access further supports the principles of discovery and learning, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -1186,12 +1264,15 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:16:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the primary focus of the content is on Scrum training and educational methodologies, it does touch on concepts of workforce happiness, motivation, and a people-first culture, which are relevant to employee engagement. However, these themes are secondary to the main discussion about training processes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses fostering a people-first culture and the importance of collaboration and support in learning, which aligns with employee engagement principles. It mentions engagement in the context of training and development, highlighting intrinsic motivation through personal growth and community access. However, the primary focus is on training methodologies rather than direct employee engagement strategies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1213,7 +1294,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:23:40",
+    "calculated_at": "2025-03-15T02:15:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1221,7 +1302,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses a training approach that incorporates self-study and interactive workshops, which aligns with practical problem-solving strategies in Agile contexts. However, it lacks direct mentions of specific Agile, Scrum, or DevOps principles and does not delve deeply into pragmatic techniques for navigating complexity or uncertainty. The focus is more on the training format rather than on applying pragmatic thinking in real-world scenarios.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1306,11 +1387,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:15:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training for Scrum and Kanban which relates to team dynamics and organisational culture, but it primarily focuses on training logistics and methodologies rather than a deep exploration of sociotechnical systems.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a people-first culture and collaborative learning, which aligns with sociotechnical principles. However, it primarily focuses on training methods and individual development rather than explicitly addressing the interplay between technology and organisational structures. The mention of community access and engagement strategies indicates some understanding of sociotechnical systems, but the depth of discussion on these interactions is limited.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -1396,12 +1480,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:16:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training and coaching in Scrum and Agile practices, which includes elements of operational practices. However, the focus is more on the training experience rather than direct techniques or strategies for improving operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses training methodologies, particularly the flipped learning approach, which indirectly relates to operational practices by promoting continuous improvement and engagement. However, it lacks direct mentions of specific operational efficiency techniques or metrics, and the focus is more on training and culture rather than concrete operational strategies.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1423,7 +1510,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:29:14",
+    "calculated_at": "2025-03-15T02:15:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1431,6 +1518,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions Scrum in the context of a community and training but lacks a detailed discussion on Scrum principles, roles, or events. The focus is more on a flipped learning approach and general agile practices rather than specific Scrum methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade and migration processes of Team Foundation Server (TFS), which relates to internal developer platforms and tools that enhance developer productivity. However, the primary focus is on specific upgrade steps rather than a broader discussion of platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS (Team Foundation Server) and the migration of data from VSS (Visual SourceSafe) to TFS. While it touches on aspects of internal development processes, such as consolidating team projects and customising process templates, it lacks a direct focus on the principles of Platform Engineering. The discussion is more about specific technical procedures rather than the broader themes of enhancing developer productivity or optimising application lifecycles, which are central to Platform Engineering.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -172,12 +175,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the process of upgrading TFS and consolidating team projects, which involves team dynamics and methodologies, but it primarily focuses on technical aspects rather than the human factors or team collaboration.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, with limited discussion on team dynamics, collaboration, or human factors. While there are mentions of process templates and some references to team projects, the overall emphasis is on technical procedures rather than the interplay between people and processes.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -550,12 +556,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade of TFS and customization of process templates related to Agile practices, which suggests a secondary theme of Agile transformation within the context of tools and methodologies.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data from VSS to TFS, with minimal reference to Agile principles or transformation strategies. While it mentions the use of a Scrum process template, it does not delve into Agile transformation methodologies, change management, or cultural shifts necessary for Agile adoption.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -616,12 +625,12 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-03-15T05:54:13",
     "ai_confidence": 40,
     "non_ai_confidence": 30,
     "final_score": 39.0,
     "reasoning": "The content primarily discusses upgrading TFS and VSS migration, with limited direct focus on agile methodologies or principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -643,11 +652,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T21:31:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the upgrading and migration of Team Foundation Server (TFS) and also involves aspects of version control systems, particularly regarding managing code and team project data in the context of TFS. It includes details on version control processes, migration strategies, and integrates discussions about version control with project management in contemporary development environments.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) and migrating from Visual SourceSafe (VSS) to TFS, which are both relevant to modern source control practices. It discusses version control systems, migration strategies, and the importance of maintaining version control during upgrades. The depth of discussion includes specific steps, troubleshooting, and best practices for managing version control during the upgrade process, indicating a strong alignment with the category's core themes.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -670,12 +682,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process from TFS 2010 to TFS 2012, including customization of process templates, which is relevant to Azure Boards. However, the focus is primarily on TFS and its migration rather than specifically on Azure Boards' functionalities and best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the upgrade process from TFS 2010 to TFS 2012, focusing on migration and configuration rather than the specific functionalities and best practices of Azure Boards. While there are mentions of work item tracking and process template customisation, these are not explored in depth or within the context of Agile project management as outlined in the category description.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -808,11 +823,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:31:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:54:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content details practical strategies and experiences related to upgrading TFS and migrating data in a real-world context, which aligns well with pragmatic thinking in Agile and DevOps environments.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed account of upgrading TFS and migrating data, showcasing practical problem-solving strategies and real-world applications of Agile and DevOps principles. It discusses specific challenges faced during the upgrade process, the importance of trial runs, and the need for documentation, all of which align closely with the themes of pragmatic thinking. The depth of discussion is significant, with numerous examples and references to troubleshooting, indicating a strong focus on practical application rather than theoretical concepts.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -835,12 +853,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses upgrading TFS to support Scrum processes, including customizing process templates and managing team projects, which suggests a connection to Scrum practices, but it primarily focuses on technical migration and upgrade procedures rather than deeply engaging with Scrum principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and migrating data, which is more related to technical implementation than Scrum product development. While there are mentions of process templates and team projects, the discussion lacks a clear connection to Scrum principles, roles, or iterative product development.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -889,11 +910,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the technical aspects of upgrading TFS and migrating data, which relates to ensuring operational software functionality but is not primarily focused on the principles of Agile or working software delivery. It does touch on processes central to working software but emphasizes implementation details more than broader best practices or user feedback mechanisms.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, which are operational tasks rather than discussions on working software as defined in the category. While it touches on aspects of software functionality and user requirements, it lacks a comprehensive exploration of best practices, customer feedback integration, or iterative development principles that are central to the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -979,11 +1003,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T21:31:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:54:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on the process of upgrading and migrating Team Foundation Server (TFS), detailing version control management, upgrade planning, and customization of process templates, which aligns with key aspects of release management.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS, which is a critical aspect of release management. It discusses planning, execution, and troubleshooting of software releases, aligning well with the core themes of release management. The depth of detail provided about the upgrade steps, including version control and process template customisation, indicates a strong focus on release management practices.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1051,12 +1078,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading TFS, including migration, consolidation of team projects, and utilizing new features, which involves strategic use of digital technologies for business process improvement. However, it is more focused on technical upgrade details rather than broader digital transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, which are operational tasks rather than strategic discussions on digital transformation. While it mentions the use of modern tools and processes, it lacks a broader discussion on how these upgrades enhance business agility or foster innovation. The content does not provide insights into change management practices or the impact of these technologies on organisational culture, which are key themes in digital transformation.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,12 +1108,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:31:19",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T05:54:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the processes involved in upgrading Team Foundation Server (TFS) and migrating data from Visual SourceSafe (VSS). It outlines configuration steps, best practices, and common issues related to the configuration of these systems, aligning well with system configuration discussions.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, which are key components of system configuration. It discusses best practices for software installation, configuration management, and troubleshooting common issues, aligning well with the core themes of the category. The depth of discussion is substantial, providing detailed steps and considerations for the upgrade process, including configuration files and migration strategies. Overall, the content is highly relevant to system configuration.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1132,21 +1165,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server (TFS), which runs on the Windows operating system, and mentions several Windows-related aspects such as installation, configuration, and troubleshooting. However, the primary focus is on TFS and its upgrade process rather than directly on the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) from 2010 to 2012, which is closely related to the Windows environment as TFS operates on Windows servers. There are direct mentions of Windows XP and the installation of .NET, indicating some focus on the Windows operating system. However, the content is more centred on TFS and its migration processes rather than providing a comprehensive discussion on Windows itself, which limits its alignment with the category. The depth of discussion on Windows-specific topics is minimal, focusing instead on TFS functionalities and issues.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T21:31:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:54:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses heavily on the methodologies and practices of upgrading Team Foundation Server (TFS) from one version to another, including detailed steps for migration, planning for upgrades, and ensuring minimal downtime, which aligns well with deployment strategies.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS from 2010 to 2012, detailing steps and issues encountered during migration. While it touches on aspects of deployment, such as trial upgrades and production upgrades, it lacks a comprehensive discussion of deployment strategies like Blue-Green Deployments or Canary Releases. The content is more about the specific upgrade process rather than broader deployment methodologies.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1186,12 +1225,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:54:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the process of upgrading TFS and VSS migration, including specific issues encountered, solutions applied, and lessons learned, which falls squarely within troubleshooting technical issues.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues encountered during the upgrade of TFS from 2010 to 2012, detailing specific problems, their resolutions, and methodologies for addressing them. It includes direct mentions of troubleshooting specific errors (e.g., TF60014, TF54000) and provides insights into the processes involved in diagnosing and resolving these issues. The depth of discussion is substantial, with detailed steps and considerations for successful upgrades, making it highly relevant to the troubleshooting category.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1231,12 +1273,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T21:31:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the practical aspects of upgrading TFS and migrating data, which is relevant to software developers. However, it focuses more on technical procedures and less on Agile, DevOps practices, or developer collaboration.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, which is relevant to software developers. However, it lacks a strong emphasis on Agile or DevOps methodologies, and does not explore best practices or team dynamics in depth. While it mentions tools and processes that developers use, the discussion is more about implementation details rather than the broader context of developer roles within Agile or DevOps frameworks.",
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1249,12 +1294,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:54:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various aspects of upgrading and migrating Team Foundation Server (TFS) systems, including aspects of process template customization, which relates to engineering practices. However, the primary focus is on the migration process rather than Agile engineering practices specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, which are more operational than foundational engineering practices. While it touches on some relevant topics like process template customisation and the importance of planning for upgrades, it lacks a strong emphasis on core Agile engineering practices such as clean code, TDD, or CI/CD. The discussion is more about implementation details and troubleshooting rather than promoting high-quality software engineering methodologies.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1276,7 +1324,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:56:02",
+    "calculated_at": "2025-03-15T05:54:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1284,7 +1332,7 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on technical implementation details related to upgrading TFS and migrating data from VSS, which does not align with the strategic aspects of product management. While there are brief mentions of process templates and team features, these are overshadowed by the technical nature of the content, lacking a focus on customer needs, business objectives, or methodologies relevant to product management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",

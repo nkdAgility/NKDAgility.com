@@ -25,11 +25,12 @@ preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
-- Engineering Practices
-- Test First Development
-- Technical Excellence
 - Software Development
+- Engineering Practices
 - Technical Mastery
+- Test First Development
+- Test Driven Development
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

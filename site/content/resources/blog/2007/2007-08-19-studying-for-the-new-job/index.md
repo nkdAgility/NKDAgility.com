@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/studying-for-the-new-job
 tags:
 - Products and Books
-- Windows
 preview: metro-sharepoint-128-link-1-1.png
 categories: []
 

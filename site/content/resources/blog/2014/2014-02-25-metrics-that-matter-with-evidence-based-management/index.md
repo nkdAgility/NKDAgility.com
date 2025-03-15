@@ -26,6 +26,13 @@ tags:
 - Evidence Based Management
 - Evidence Based Leadership
 - Metrics and Learning
+- Decision Making
+- Trend Analysis
+- Value Delivery
+- Ability to Innovate
+- Practical Techniques and Tooling
+- Operational Practices
+- Software Development
 categories:
 - Product Management
 - Engineering Excellence

@@ -24,8 +24,10 @@ aliasesArchive:
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 tags:
 - Install and Configuration
-categories:
-- Scrum
+- System Configuration
+- Practical Techniques and Tooling
+- Software Development
+categories: []
 preview: metro-sharepoint-128-link-25-25.png
 
 ---

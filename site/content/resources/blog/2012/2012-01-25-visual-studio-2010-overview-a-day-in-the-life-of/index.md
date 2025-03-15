@@ -34,11 +34,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
 tags:
 - Events and Presentations
-- Software Development
-- Practical Techniques and Tooling
-- Application Lifecycle Management
-- Agile Planning
-- Product Delivery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Scrum

@@ -8,7 +8,7 @@ ResourceImportId: 49507
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-03
-weight: 470
+weight: 415
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,9 +25,9 @@ aliasesArchive:
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 tags:
 - Software Development
+- Agile Philosophy
 - People and Process
 - Agile Values and Principles
-- Agile Philosophy
 - Agile Transformation
 - Agile Project Management
 - Software Developers

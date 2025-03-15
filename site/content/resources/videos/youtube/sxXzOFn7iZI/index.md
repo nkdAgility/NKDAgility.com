@@ -30,10 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Coaching
 - Mentoring
+- Agile Project Management
+- Agile Transformation
 - Agile Leadership
 - Technical Leadership
-- Coaching
+- Software Development
+- Organisational Agility
 - People and Process
 - Agile Frameworks
 resourceTypes:

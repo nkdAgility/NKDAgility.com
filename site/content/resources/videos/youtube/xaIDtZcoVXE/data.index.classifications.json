@@ -91,7 +91,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-10T11:47:52",
+    "calculated_at": "2025-03-14T19:49:24",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -99,7 +99,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the concept of understanding delivery times through metrics, which relates to accountability in terms of measuring performance. However, it lacks explicit discussions on transparency and does not delve deeply into the principles of open communication or team dynamics. The focus is more on metrics rather than fostering an environment of trust and accountability.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -166,7 +166,7 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T11:21:08",
+    "calculated_at": "2025-03-14T19:49:24",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -174,7 +174,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on organisational capability and metrics related to time to market, which hints at the interplay between technology and organisational structures. However, it lacks explicit discussions on team dynamics, communication tools, or the broader sociotechnical interactions that are central to the category. The focus is more on metrics than on the integration of social and technical aspects.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -238,7 +238,7 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-11T17:28:05",
+    "calculated_at": "2025-03-14T19:49:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -246,7 +246,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses metrics related to Time to Market and decision-making in an Agile context, but it primarily focuses on operational efficiency rather than the theoretical aspects of decision-making under uncertainty. While it touches on decision-making processes, it lacks a deep exploration of decision theory principles such as heuristics, biases, or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -262,7 +262,7 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-13T15:06:08",
+    "calculated_at": "2025-03-14T19:49:24",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
@@ -270,7 +270,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of delivering value quickly and metrics related to Time to Market, which aligns with Lean principles of efficiency and value creation. However, the primary focus is on Agile methodologies and Evidence-Based Management rather than Lean itself, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -325,21 +325,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:06:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses metrics related to time to market and delivery value, which are central to understanding product delivery processes.",
+    "calculated_at": "2025-03-14T14:54:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of Time to Market, which is a critical aspect of product delivery. It provides detailed insights into various metrics that impact delivery efficiency, such as Lead Time, Cycle Time, and Time to Pivot. The discussion aligns well with the core themes of product delivery, focusing on methodologies and practices that enhance the delivery of usable software products. The depth of the discussion is significant, offering practical recommendations and personal experiences that illustrate the importance of these metrics in an Agile context.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:06:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:14:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to organisational capability and time to market, which are relevant to enterprise agility, but it does not fully explore the broader implications or frameworks associated with the category.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of Time to Market and its importance in delivering value quickly, which aligns with the principles of Enterprise Agility. It mentions metrics that are crucial for measuring agility at an organisational level, such as Lead Time and Cycle Time, and highlights the need for cross-functional teams and continuous improvement. However, the focus is primarily on team-level practices and metrics rather than a broader organisational context, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -352,21 +358,27 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T14:06:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:49:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses metrics related to the delivery of value, which aligns closely with the principles of Value Stream Management.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Time to Market and its associated metrics, which are relevant to Value Stream Management. However, it primarily focuses on Evidence-Based Management and Agile practices rather than a comprehensive exploration of Value Stream Management principles. While it touches on the importance of delivering value and improving efficiency, it lacks a deeper analysis of value stream mapping, waste elimination, and continuous improvement practices specific to Value Stream Management.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:06:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to value delivery, which aligns with the Agile Product Operating Model, but it does not primarily focus on the model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of Time to Market and its importance in delivering value within an Agile context, which aligns with the Agile Product Operating Model. It mentions key metrics relevant to product development and emphasises continuous improvement and cross-functional teams, which are core themes of the model. However, while it touches on these topics, the primary focus is on specific metrics rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -382,20 +394,26 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:06:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to understanding delivery times and organisational capability, which aligns with the theme of learning from processes, but it primarily focuses on measurement rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of metrics related to Time to Market, which aligns with the category's focus on continuous learning and improvement in Agile environments. It explicitly mentions learning from customer feedback and the significance of metrics in driving decisions, which are core themes of Discovery and Learning. However, while it touches on these aspects, the primary focus remains on project management and metrics rather than a deeper exploration of methodologies for fostering innovation and experimentation.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:06:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:49:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses metrics such as lead time and cycle time, which are directly related to flow efficiency and the optimisation of work throughput.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses metrics related to Time to Market, such as Lead Time and Cycle Time, which are directly tied to flow efficiency. It aligns well with the core themes of optimising throughput and minimising bottlenecks, providing practical recommendations for improving these metrics. The depth of discussion on continuous improvement and the importance of delivering value quickly further supports its strong alignment with the Flow Efficiency category.",
     "level": "Secondary"
   },
   "One Engineering System (1ES)": {
@@ -457,12 +475,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to understanding organisational capabilities and timelines in delivering value, which can be related to change management processes. However, it primarily focuses on evidence-based management and does not delve into change management strategies or practices in depth.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on metrics related to Time to Market and Evidence-Based Management, which are important in Agile contexts but do not directly address Change Management principles. While there are mentions of adaptability and continuous improvement, the discussion lacks depth in exploring strategies for managing change or engaging stakeholders, which are core to Change Management. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -475,11 +496,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:50:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses lead time as part of a broader discussion on various metrics related to delivering value, making it a significant but secondary theme rather than the primary focus.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses Lead Time as a key metric within the broader context of Time to Market. It provides a clear definition of Lead Time, its importance in measuring efficiency, and includes a personal example of improving Lead Time through process optimisation. The discussion aligns well with the core themes of the category, focusing on the measurement and impact of Lead Time on delivery efficiency and customer satisfaction. The depth of the discussion is substantial, offering practical recommendations for improvement, which further supports the high confidence score.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -574,29 +598,38 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to delivering value, which is connected to the delivery of working software, but it does not primarily focus on software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of Time to Market, which is directly related to delivering working software efficiently. It provides detailed metrics that are essential for assessing and improving the delivery of functional software, aligning well with the core themes of the category. The depth of discussion on metrics like Lead Time and Cycle Time, along with practical recommendations for improvement, further supports its relevance to the Working Software category.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to delivery times which ties into release management concepts, but the focus is more on general delivery value rather than specific release management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Time to Market and various metrics related to it, which are relevant to release management. However, it primarily focuses on Agile practices and metrics without delving deeply into the specific strategies and practices of release management itself. While it touches on important aspects like lead time and cycle time, it lacks a comprehensive exploration of release planning, scheduling, and coordination among stakeholders, which are critical to the category.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:50:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to organisational capability in delivering value, which is relevant to the themes of agility and responsiveness in organisational change. However, it does not primarily focus on the broader strategies or methodologies of organisational change.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses metrics related to Time to Market and Agile practices, which are relevant to organisational change. However, it primarily focuses on operational efficiency and specific Agile methodologies without delving deeply into broader organisational change strategies or frameworks. The mention of Evidence-Based Management and the importance of metrics indicates some alignment with organisational change, but the depth of discussion is limited to operational aspects rather than comprehensive change management principles.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
@@ -619,21 +652,27 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses evidence-based management and its metrics related to time to market, which aligns closely with evidence-based leadership principles.",
+    "calculated_at": "2025-03-14T19:50:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its application in measuring Time to Market, which is a core aspect of evidence-based leadership. It provides detailed metrics and practical recommendations for improving delivery speed, aligning well with the principles of data-driven decision-making. The depth of discussion on metrics and their importance in leadership decisions further supports a high confidence score.",
     "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:50:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of time to market and metrics related to delivering value, which can be relevant to digital transformation initiatives. However, it does not primarily focus on the adoption of digital technologies or strategies for transformation, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Time to Market and various metrics related to Agile methodologies, which indirectly relate to digital transformation by emphasising efficiency and value delivery. However, it lacks a direct focus on the strategic adoption of digital technologies or comprehensive discussions on organisational change, which are central to the Digital Transformation category.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -646,12 +685,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:50:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management and metrics related to understanding delivery times, which are tools that can support empirical process control, but it is not primarily focused on the broader principles of empirical process control or Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the concept of Time to Market within the framework of Evidence-Based Management, which is closely related to empirical process control. It highlights the importance of metrics, transparency, and continuous improvement, aligning well with the core themes of the category. The depth of discussion on various metrics and their implications for Agile practices further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -709,12 +751,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:50:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to delivery time, which could inform trend analysis, but it does not primarily focus on identifying trends or shifts in Agile methodologies or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Time to Market and various metrics related to Agile practices, which aligns with the themes of trend analysis in Agile methodologies. However, it primarily focuses on practical metrics and personal experiences rather than a broader analysis of trends or shifts in Agile or DevOps practices. While it touches on relevant concepts, it lacks a comprehensive exploration of how these trends impact organisational practices or strategic decision-making.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -739,12 +784,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses time to market and metrics related to delivering value, which aligns with Lean principles. However, it does not extensively cover Lean Product Development practices or techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Time to Market and its associated metrics, which align with Lean principles of efficiency and value delivery. However, it primarily focuses on Agile methodologies and Evidence-Based Management rather than explicitly addressing Lean Product Development principles. While there are mentions of continuous improvement and customer feedback, the depth of discussion on Lean-specific techniques and frameworks is limited.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -814,11 +862,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:49:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses metrics related to operational efficiency, specifically focusing on time to market and various time metrics that are essential for understanding delivery value in an organisational context.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the concept of Time to Market and its associated metrics, which are crucial for enhancing operational efficiency in Agile environments. It provides detailed insights into various metrics like Lead Time, Cycle Time, and Time to Pivot, aligning well with the core themes of operational practices. The depth of discussion includes practical recommendations for streamlining processes and automating tasks, which directly contribute to improving operational performance.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -841,12 +892,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of delivering value and metrics related to time to market, which are important in the context of Agile Strategy, but it focuses more on specific metrics rather than a broader strategic alignment or implementation of Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the concept of Time to Market within an Agile context, highlighting its importance in delivering value efficiently. It aligns well with Agile Strategy by focusing on metrics that support continuous value delivery and adaptability. The depth of discussion on various metrics and practical recommendations for improvement further solidifies its relevance to Agile Strategy.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -868,12 +922,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:50:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to time to market, which can be tied to strategic goals in understanding organizational capability and performance. However, it primarily focuses on metrics rather than long-term strategic objectives.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Time to Market and various metrics that can enhance delivery efficiency, which aligns with the concept of strategic goals in terms of improving business agility. However, it primarily focuses on operational metrics and tactics rather than explicitly defining long-term strategic objectives. While it touches on the impact of these metrics on competitive advantage, the depth of discussion on strategic goals is limited.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -904,11 +961,14 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:50:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses delivering value and metrics related to organisational capability, which are relevant to entrepreneurship, but the primary focus is on evidence-based management rather than entrepreneurship itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of delivering value quickly and efficiently, which aligns with entrepreneurial principles of innovation and value creation. It mentions key metrics that can help businesses improve their Time to Market, reflecting a focus on calculated risk-taking and competitive advantage. However, the primary focus is on Agile methodologies and metrics rather than a broader discussion of entrepreneurship, which slightly limits the depth of the entrepreneurial context.",
     "level": "Tertiary"
   },
   "Asynchronous Development": {
@@ -931,20 +991,26 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content focuses on metrics related to delivery time and organizational capability, it indirectly touches on aspects of transparency in understanding and measuring these times, which is a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of metrics in understanding and improving Time to Market, which indirectly relates to transparency in Agile processes. It highlights how metrics provide visibility into work progress and facilitate better decision-making, aligning with the core themes of transparency. However, the primary focus is on metrics rather than transparency itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses Evidence-Based Management and metrics related to delivering value, which aligns well with the Ability to Innovate category as it focuses on measuring and improving organizational innovation capabilities.",
+    "calculated_at": "2025-03-14T19:50:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its role in measuring Time to Market, which is a key aspect of the Ability to Innovate category. It aligns well with the core themes of measuring and improving innovation capabilities through metrics and continuous improvement. The depth of discussion is substantial, providing detailed metrics and practical recommendations for enhancing delivery speed and value, which are crucial for fostering innovation.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -958,21 +1024,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses time to market and metrics related to value delivery, which are relevant to Agile practices, but does not focus specifically on Agile frameworks themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and metrics related to delivering value, particularly through Evidence-Based Management. While it touches on Agile concepts like Time to Market and includes references to Agile practices, it lacks a focused exploration of specific Agile frameworks such as Scrum or Kanban. The discussion is more about metrics and processes rather than a deep dive into Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics important for understanding delivery and performance, which relates to team effectiveness, but does not directly focus on team dynamics or collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the concept of Time to Market, which is a critical metric for Agile teams. It discusses various metrics that directly relate to team performance and efficiency, such as Lead Time and Cycle Time, and provides practical recommendations for improving these metrics. The emphasis on continuous improvement and the importance of cross-functional teams aligns well with the core themes of Team Performance. However, while the content is rich in detail and relevant metrics, it could further elaborate on team dynamics and collaboration strategies to enhance its alignment with the category.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1021,12 +1093,15 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to time to deliver value, which aligns with the idea of using data and evidence to inform decisions. However, it does not explicitly focus on hypothesis formulation or experimentation, making it a secondary theme rather than a primary one.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses metrics related to Time to Market and the importance of delivering value quickly, which aligns with some principles of hypothesis-driven development. However, it lacks explicit discussions on formulating hypotheses, conducting experiments, or validating learning, which are central to the category. The focus is more on metrics and processes rather than on hypothesis formulation and experimentation.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1093,12 +1168,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Evidence-Based Management in the context of metrics related to software delivery, which is a significant aspect of software development practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Agile methodologies, particularly Evidence-Based Management, and key metrics related to Time to Market, which are central to software development practices. It provides detailed insights into metrics like Lead Time and Cycle Time, aligning well with best practices in software development. The depth of discussion on improving delivery speed and value delivery further solidifies its relevance to the Software Development category.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1120,12 +1198,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses metrics related to time to market, which is relevant to product development, but does not specifically focus on Scrum principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of Time to Market and its associated metrics, which are relevant to Agile and Scrum practices. However, it primarily focuses on Evidence-Based Management rather than explicitly detailing Scrum roles, events, or the iterative development process central to Scrum. While it touches on Agile principles, it lacks a comprehensive exploration of Scrum-specific methodologies and practices.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1183,12 +1264,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:49:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses time metrics related to value delivery, which aligns with Lean principles, but it does not primarily focus on the Lean Startup concepts such as MVP or the Build-Measure-Learn feedback loop.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics related to Time to Market and Agile principles, which are relevant to Lean Startup concepts. However, it primarily focuses on Evidence-Based Management and does not explicitly mention Lean Startup principles like MVP or the Build-Measure-Learn feedback loop. The discussion lacks depth in Lean Startup methodology, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1201,12 +1285,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management and metrics related to delivering value, which can relate to product validation methodologies, but it primarily focuses on organizational capabilities rather than directly on validating product ideas with user engagement.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:49:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of Time to Market and its associated metrics, which are relevant to product validation. It highlights the importance of understanding lead time, cycle time, and customer feedback loops, aligning with the core themes of validating product ideas through user engagement. However, while it touches on these topics, the primary focus is more on metrics and efficiency rather than direct user testing or validation methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -1219,12 +1306,15 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses metrics related to delivering value, it is primarily focused on time-related metrics and not on managing a portfolio of projects or aligning them with strategic objectives.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Time to Market and metrics related to Agile delivery, which are more focused on operational efficiency rather than the strategic alignment and management of a portfolio of projects. While it touches on the importance of metrics and continuous improvement, it lacks a direct focus on portfolio management practices, frameworks, or strategic alignment with business goals.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -1264,12 +1354,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics that relate to understanding delivery timelines and improving value delivery, which aligns with forecasting practices in Agile and Scrum, but the primary focus is on organizational capabilities rather than specific forecasting techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:50:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses various metrics related to Time to Market, which directly ties into forecasting delivery timelines and improving decision-making based on empirical data. It provides a detailed exploration of metrics like Lead Time and Cycle Time, which are essential for effective forecasting in Agile. The emphasis on continuous improvement and better decision-making aligns well with the core themes of the category, although it does not focus exclusively on forecasting methodologies.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1318,11 +1411,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:40:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:49:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 34.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses on evidence-based management metrics that relate directly to practical problem-solving in delivering value within organizational capabilities, aligning well with pragmatic thinking principles in Agile environments.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses practical strategies for improving Time to Market within an Agile context, focusing on metrics and real-world applications. It provides specific examples and recommendations, demonstrating a strong alignment with pragmatic thinking principles. The emphasis on Evidence-Based Management and continuous improvement further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1444,7 +1540,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:50:08",
+    "calculated_at": "2025-03-14T19:49:24",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1452,6 +1548,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of delivering value, which is relevant to Scrum's focus on customer collaboration and iterative progress. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or principles in detail. The discussion on metrics like lead time and cycle time is more aligned with general project management practices rather than specific Scrum methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

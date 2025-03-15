@@ -27,12 +27,7 @@ tags:
 - Application Lifecycle Management
 - News and Reviews
 - Practical Techniques and Tooling
-- Modern Source Control
 - Events and Presentations
-- Azure DevOps
-- Operational Practices
-- Technical Excellence
-- Working Software
 categories:
 - Kanban
 - Social Technologies

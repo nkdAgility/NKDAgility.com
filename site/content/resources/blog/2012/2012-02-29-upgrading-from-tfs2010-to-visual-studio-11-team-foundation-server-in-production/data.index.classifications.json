@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:22:33",
+    "calculated_at": "2025-03-15T06:03:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server (TFS) from an older version to a newer one. While it touches on aspects of software deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and its installation process is relevant to DevOps tools, but the content does not explore the integration of people, processes, or the continuous delivery of value, which are core to the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:04:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, which involves technical practices and methodologies relevant to software development and delivery. However, it lacks a deeper focus on broader engineering principles or methodologies that enhance agility, making it a secondary theme rather than a primary one.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical steps for upgrading Team Foundation Server, which includes some technical details about installation and configuration. However, it lacks a deeper discussion on engineering practices or methodologies that enhance agility in software development. While it mentions aspects of the upgrade process, it does not explicitly address concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, the confidence score reflects a low alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:04:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, which is related to software deployment and configuration. However, it lacks a broader discussion on methodologies or practices that encompass the end-to-end product delivery process.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server, which is more about software installation and configuration rather than the broader methodologies and practices of product delivery. While it touches on aspects of deployment, it lacks a comprehensive discussion on planning, testing, or iterative development, which are key themes in the Product Delivery category.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -496,12 +502,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:04:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server (TFS), which relates to operational practices in the context of software development and management. It includes practical steps and considerations for the upgrade process, touching on administration and environment preparation, which can enhance operational efficiency. However, the primary focus is more on the upgrade process itself rather than direct operational efficiency improvements, placing it in a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it mentions some operational aspects, such as the need for admin access and configuration, it lacks a broader discussion on process optimisation, continuous improvement, or metrics for operational efficiency. The content is more of a procedural guide than a strategic discussion on operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -634,12 +643,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:04:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses upgrading Team Foundation Server (TFS), which relates to source control practices but mainly focuses on installation and configuration rather than best practices or methodologies in modern source control.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a version control system. While it does mention aspects related to source control, such as installation and configuration, it lacks a focus on broader modern source control practices like branching strategies, code review processes, or collaboration workflows. The discussion is more about the technical steps involved in upgrading TFS rather than best practices or methodologies in modern source control.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -796,12 +808,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:04:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the practical steps and considerations needed to upgrade Team Foundation Server, detailing real-world application of technical knowledge. However, it lacks broader discussions on Agile, Scrum, or DevOps principles, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the practical steps involved in upgrading Team Foundation Server, which aligns with pragmatic thinking in terms of applying real-world problem-solving techniques. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the complexities or adaptability required in such environments. The practical nature of the content is evident, but it does not fully explore the key topics outlined in the category definition.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -877,7 +892,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:05:23",
+    "calculated_at": "2025-03-15T06:03:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -885,7 +900,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server, which is a tool for managing software development. While it does touch on aspects of working software, such as ensuring the environment is ready for the upgrade and the importance of updates, it lacks a strong emphasis on delivering functional software that meets user needs or business objectives. The discussion is more procedural and technical rather than centred on the principles of Agile or Scrum, which diminishes its alignment with the 'Working Software' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1129,21 +1144,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:39:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:03:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content focuses primarily on upgrading Visual Studio Team Foundation Server, which operates within the Windows environment. It discusses installation, configuration, and dependencies related to Windows updates and SQL Server, aligning closely with Windows management and operations.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) within a Windows environment, detailing installation and configuration steps that are specific to Windows. It discusses prerequisites such as SQL Server updates, which are relevant to Windows systems, and provides a comprehensive guide on the upgrade process, including troubleshooting and configuration settings. The depth of discussion is significant, covering various aspects of the installation and upgrade process, which aligns well with the key topics outlined for the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:04:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the process of upgrading TFS in production, which is related to deployment but focuses heavily on the upgrade steps and prerequisites rather than broader deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the process of upgrading Team Foundation Server rather than discussing deployment strategies. While it touches on aspects of installation and configuration, it lacks a direct discussion of methodologies like Blue-Green Deployments or Canary Releases. The content does not provide actionable insights into deployment strategies, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1183,11 +1204,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:39:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:03:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily describes the process of upgrading Team Foundation Server and includes troubleshooting steps such as running readiness checks, resolving SQL Server update issues, and addressing specific integration warnings, which directly relate to identifying and resolving technical issues.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, which includes several troubleshooting aspects such as identifying issues with SQL Server updates and configuration errors. It discusses specific problems encountered during the upgrade process, such as the need for service packs and the handling of warnings related to Lab Management and SharePoint configuration. The detailed steps and personal experiences shared provide a practical insight into troubleshooting during software upgrades, aligning well with the core themes of the category.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1228,12 +1252,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:04:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides detailed instructions for upgrading Team Foundation Server, a tool used by software developers, but does not focus on Agile or DevOps practices specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server, which is relevant to software developers. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it mentions tools and processes that developers use, it does not delve into best practices or the impact of these tools on productivity or collaboration, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

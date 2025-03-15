@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/live-framework
 - /live-framework
 - /resources/blog/live-framework
-tags:
-- Software Development
+tags: []
 preview: metro-cloud-azure-link-2-2.png
 categories: []
 

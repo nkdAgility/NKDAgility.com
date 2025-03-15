@@ -29,12 +29,10 @@ aliasesArchive:
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
-- Install and Configuration
-- Windows
-- System Configuration
-- Software Development
 - Troubleshooting
-- Practical Techniques and Tooling
+- Windows
+- Install and Configuration
+- System Configuration
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

@@ -19,7 +19,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T15:05:28",
+    "calculated_at": "2025-03-14T21:11:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -27,7 +27,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of communication within Agile teams, which is a leadership concern, but it does not explicitly focus on leadership practices or strategies. The mention of silence as a barrier to effective communication hints at leadership challenges but lacks depth in exploring how leaders can address these issues or foster an environment of open communication. Overall, while there are relevant themes, the primary focus is not on leadership itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -67,7 +67,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:23:46",
+    "calculated_at": "2025-03-14T21:11:25",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -75,7 +75,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on communication issues within Agile teams, which is relevant to product management, particularly in the context of stakeholder engagement and team collaboration. However, it lacks a direct focus on product management strategies or methodologies, and the discussion is more about general Agile practices rather than specific product management frameworks or decision-making processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -88,7 +88,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T15:05:30",
+    "calculated_at": "2025-03-14T21:11:25",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
@@ -96,7 +96,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the issue of silence in Agile teams, which could be seen as a personal reflection on communication challenges. However, it primarily focuses on a general problem rather than personal experiences or insights. The mention of booking a coffee suggests a willingness to engage personally, but the overall content lacks depth in personal anecdotes or subjective interpretations, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -274,12 +274,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses communication gaps within Agile teams, which is a significant aspect of Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of communication within Agile teams, which aligns closely with Agile principles. It addresses the consequences of silence and offers strategies to foster open dialogue, reflecting key themes of collaboration and iterative improvement. The depth of discussion is substantial, providing specific scenarios and actionable strategies, which enhances its relevance to Agile Project Management.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -454,11 +457,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of communication within Agile teams, specifically addressing issues of silence that hinder teamwork and value delivery, which aligns directly with the central themes of team collaboration dynamics in Agile.",
+    "calculated_at": "2025-03-14T15:19:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of communication within Agile teams, addressing the detrimental effects of silence on team dynamics and performance. It aligns well with the core themes of team collaboration by providing strategies to enhance communication and foster a culture of openness. The depth of discussion is significant, offering detailed examples and actionable strategies, which further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
@@ -472,12 +478,15 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the issue of silence in teams, which is closely related to psychological safety, as it implies a lack of willingness to speak up due to fear or discomfort. However, it primarily focuses on communication gaps in Agile teams rather than directly addressing the broader concepts of psychological safety.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of open communication and the negative consequences of silence within Agile teams, which directly relates to psychological safety. It highlights strategies for fostering a culture where team members feel safe to express their thoughts, aligning well with the core themes of the category. The depth of discussion is substantial, providing specific examples and actionable strategies, though it could benefit from more explicit references to psychological safety as a concept.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -703,12 +712,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses communication issues within Agile teams, which relates to team dynamics and the social aspects of software delivery. However, it primarily focuses on the problems of silence and does not delve deeply into the broader sociotechnical interactions or frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of communication within Agile teams, which aligns with the sociotechnical systems theme of team dynamics and the role of communication in effective teamwork. However, it primarily focuses on the issue of silence rather than a broader exploration of sociotechnical interactions or organisational structures. While it touches on relevant aspects, it lacks a comprehensive examination of how these elements collectively influence software delivery and team effectiveness.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -790,12 +802,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses communication gaps within Agile teams, which relates to Agile principles, but does not primarily focus on product management practices or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:11:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of communication within Agile teams, which is relevant to Agile Product Management. It highlights the consequences of silence and offers strategies to foster open dialogue, aligning with the need for stakeholder engagement and collaboration. However, it lacks direct mentions of specific Agile roles or practices, and while it touches on the importance of delivering value, it does not delve deeply into product management techniques or metrics.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -925,7 +940,7 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-10T14:08:42",
+    "calculated_at": "2025-03-14T21:11:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -933,25 +948,28 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of speaking up in Agile teams, which relates to accountability, but it primarily focuses on communication gaps rather than ownership or team dynamics. While it touches on the consequences of silence in relation to accountability, it does not delve deeply into strategies for fostering accountability or the distinction between accountability and blame.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of communication within agile teams, highlighting how silence can negatively impact team dynamics and performance. While it primarily addresses communication gaps, the implications of silence relate to team motivation and engagement, making it a significant secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T14:58:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the importance of communication within Agile teams, which directly relates to team motivation. It highlights the negative impacts of silence on team dynamics, trust, and performance, aligning well with the core themes of fostering engagement and collaboration. The depth of discussion is substantial, providing specific strategies to encourage open dialogue and empower team members, which are crucial for enhancing motivation. Overall, the content effectively addresses the psychological and social aspects of team dynamics, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:00",
+    "calculated_at": "2025-03-14T21:11:25",
     "ai_confidence": 25,
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "Content touches on communication issues within Agile teams but does not focus on the Agile Product Operating Model or product-centric development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1000,12 +1018,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content focuses on communication issues within Agile teams, which can impact product delivery, it primarily emphasizes the concept of silence rather than discussing specific product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:11:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of communication within Agile teams, which is a critical aspect of product delivery. It highlights how silence can hinder value delivery and team alignment, directly linking to the core themes of effective product delivery. However, while it touches on Agile methodologies and their implications for product delivery, it does not delve deeply into specific practices or metrics related to the end-to-end delivery process, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1030,12 +1051,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile methodologies and the impact of communication on Agile teams, which is a major theme related to software development practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses communication gaps within Agile teams, which is a core aspect of Agile methodologies in software development. It explicitly mentions Agile principles and practices, indicating a direct connection to the Software Development category. The discussion aligns well with the themes of team dynamics and communication in Agile, contributing to effective software development. However, while it provides practical strategies for improvement, the depth of technical detail regarding software engineering practices is somewhat limited, focusing more on interpersonal dynamics than on coding or technical methodologies.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1069,12 +1093,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of communication gaps on value delivery in Agile teams, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of communication in Agile teams and how silence can hinder value delivery. It highlights the consequences of poor communication on customer satisfaction and team alignment, which aligns with the core themes of value delivery. However, while it touches on relevant aspects, it does not delve deeply into specific methodologies or strategies for maximising customer value, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1165,12 +1192,12 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:36:00",
+    "calculated_at": "2025-03-14T21:11:25",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "While the content discusses communication issues in Agile teams, it does not primarily focus on Agile Planning methodologies or practices. It touches on Agile concepts but is not centrally about planning.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1219,12 +1246,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses communication gaps and their impact on Agile teams, implying a focus on Agile principles, but does not primarily explore various Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of communication within Agile teams, which is a relevant aspect of Agile frameworks. However, it primarily focuses on the issue of silence rather than providing a comprehensive exploration of Agile frameworks themselves. While it touches on Agile principles and the consequences of poor communication, it lacks a detailed analysis of specific frameworks or their implementation. Therefore, while there is a connection to Agile concepts, the primary focus is not on the frameworks themselves.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1273,12 +1303,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:36:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses communication issues in Agile teams, which is relevant to practical problem-solving in Agile environments. However, it does not delve into specific pragmatic strategies or real-world applications, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of communication in Agile teams, highlighting practical strategies to combat silence and improve collaboration. While it does not explicitly mention 'Pragmatic Thinking', it aligns well with the core themes of practical problem-solving and real-world applications in Agile contexts. The depth of discussion on strategies for fostering open dialogue and addressing communication gaps demonstrates a solid understanding of navigating complexity in project management.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1291,12 +1324,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:36:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses communication gaps in Agile teams, which is related to organisational culture, but the primary focus is on the symptoms of poor communication and its impact on Agile practices rather than an in-depth exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:11:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of communication within Agile teams, which is a critical aspect of organisational culture. It highlights how silence can hinder team dynamics and collaboration, aligning well with the core themes of the category. The depth of discussion is significant, providing strategies for fostering a culture of open communication and addressing the consequences of silence, which directly relates to employee engagement and continuous improvement. Overall, the content is focused on cultural aspects rather than technical practices, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1318,21 +1354,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses communication gaps in Agile teams, which is relevant to Agile transformation, but it is more focused on the symptoms of communication issues rather than explicitly outlining Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses the importance of communication within Agile teams, which is a critical aspect of Agile transformation. It aligns well with the core themes of fostering a culture of openness and addressing challenges that hinder Agile practices. The depth of discussion is substantial, providing specific scenarios and strategies to combat communication gaps, which are essential for successful Agile transformations.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:36:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:12:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses communication issues within Agile teams and its impact on value delivery, which relates to Agile principles. However, the primary focus is on communication gaps rather than a comprehensive discussion of Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of communication within Agile teams, which is crucial for aligning with Agile principles. It highlights the consequences of silence, such as stagnation and failure to deliver value, which directly relates to the core themes of Agile Strategy. The strategies proposed for fostering open communication also align with the integration of Agile practices into strategic planning. However, while the content is relevant, it primarily focuses on communication issues rather than broader strategic implementation, which slightly limits its depth in the context of Agile Strategy.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1363,21 +1405,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:36:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses communication gaps within Agile teams, which is a significant aspect of organisational agility, but it primarily focuses on the issue of silence rather than broad agility principles.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the importance of communication within Agile teams, which is a critical aspect of organisational agility. It highlights the consequences of silence and the need for open dialogue, aligning well with the core themes of adaptability and responsiveness. The depth of discussion is substantial, providing specific strategies to foster a culture of communication, which is essential for enhancing agility. However, while it focuses on communication, it does not delve deeply into broader organisational structures or leadership roles, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:11:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses communication gaps in Agile teams, which is related to business agility, but the primary focus is on Agile practices rather than broader business agility principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of communication within Agile teams, which is a crucial aspect of business agility. It highlights the consequences of poor communication and offers strategies to foster open dialogue, aligning with the principles of adaptability and innovation. However, while it touches on relevant themes, it does not explicitly focus on broader business agility concepts or provide in-depth analysis of organisational structures or leadership roles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",

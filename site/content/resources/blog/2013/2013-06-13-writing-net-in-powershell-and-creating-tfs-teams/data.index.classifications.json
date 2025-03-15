@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the use of PowerShell for .NET programming and touches on code quality aspects, such as readability and maintainability, but primarily focuses on practical coding examples rather than a deep exploration of code complexity or best practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the use of PowerShell to interact with .NET and TFS, focusing on specific coding techniques and syntax. While it touches on code quality and the challenges of using PowerShell compared to C#, it lacks a broader discussion on complexity theory or the principles of software architecture. The mention of coding practices is present, but the depth of discussion on complexity and its management in codebases is minimal, leading to a low confidence score in alignment with the 'Code and Complexity' category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1066,7 +1069,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T14:59:37",
+    "calculated_at": "2025-03-15T05:09:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1074,7 +1077,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server) and create teams programmatically. While it touches on aspects of configuration, such as referencing assemblies and using specific commands, it lacks a comprehensive discussion on broader system configuration principles or best practices. The mention of PowerShell and TFS is relevant but does not delve deeply into configuration management or optimisation strategies, which are key themes of the category. Therefore, the confidence score reflects a moderate alignment with the category, primarily due to the technical nature of the content but insufficient depth in system configuration topics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1177,12 +1180,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Although the content primarily discusses writing PowerShell scripts to interact with TFS and is mostly about programming techniques, it does touch on resolving specific issues and challenges encountered when working with PowerShell, which aligns it more closely with troubleshooting as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses challenges faced while using PowerShell to create a Team in TFS, which aligns with troubleshooting aspects. However, the primary focus is on the coding process and syntax rather than systematic problem-solving techniques or methodologies. While there are mentions of issues encountered, such as confusion with syntax and error handling, the depth of discussion on troubleshooting techniques is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1222,7 +1228,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:29:19",
+    "calculated_at": "2025-03-15T05:09:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1236,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server) and create teams programmatically. While it discusses programming practices and some technical details, it does not explicitly address Agile methodologies, DevOps principles, or the role of software developers within those frameworks. The discussion is more about the technical implementation of PowerShell and .NET rather than the broader context of software development practices. Therefore, while there are mentions of software development, the content lacks a strong alignment with the key themes of the 'Software Developers' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

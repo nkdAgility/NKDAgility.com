@@ -103,7 +103,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T15:19:56",
+    "calculated_at": "2025-03-15T07:46:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -111,7 +111,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content provides a detailed technical guide on creating a WCF service host programmatically, which aligns with practical techniques and tooling. However, it lacks explicit references to Agile or DevOps methodologies, and while it discusses specific coding practices and configurations, it does not delve into broader tool selection or integration strategies. The focus is primarily on implementation rather than on the exploration of methodologies or frameworks that enhance team performance or collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -436,12 +436,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementation details relevant to creating a WCF service programmatically, which could be seen as part of software engineering practices, but it focuses primarily on a specific implementation rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, which does not directly address the core principles of Agile engineering practices such as clean code, TDD, or CI/CD. While there are mentions of coding practices and service behaviours, these are more about specific technical details rather than overarching engineering methodologies. The discussion lacks depth in terms of Agile principles and does not promote high-quality software engineering practices that enhance collaboration or adaptability within Agile teams.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1120,11 +1123,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes reference to issues encountered with proxy settings on a corporate network, which suggests a troubleshooting aspect, but it primarily focuses on the technical implementation of creating a WCF Service Host rather than a systematic discussion on resolving technical issues.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses creating a WCF service host and mentions issues encountered with DNS host entries and proxy settings, which aligns with troubleshooting aspects. However, the primary focus is on implementation rather than systematic problem-solving or methodologies for diagnosing issues, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -1255,7 +1261,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:24:14",
+    "calculated_at": "2025-03-15T07:46:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1263,7 +1269,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical implementation of a WCF service, which does not explicitly discuss engineering excellence or best practices in software craftsmanship. While it touches on aspects of coding standards and technical implementation, it lacks a broader discussion on continuous improvement, quality assurance, or team collaboration, which are key themes of the Engineering Excellence category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -33,8 +33,8 @@ tags:
 - Strategy
 - Agile Product Operating Model
 - Agile Product Management
+- Products and Books
 - Decision Making
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

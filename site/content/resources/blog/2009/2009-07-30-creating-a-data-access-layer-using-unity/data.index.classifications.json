@@ -40,7 +40,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T17:02:41",
+    "calculated_at": "2025-03-15T07:21:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves some aspects of code quality and design patterns. However, it lacks a thorough exploration of complexity theory or its implications on software architecture. While there are mentions of maintainability and design principles, the discussion does not deeply engage with the interplay between code quality and complexity, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -493,7 +493,7 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T18:13:36",
+    "calculated_at": "2025-03-15T07:21:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -501,7 +501,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical implementation of a data access layer using Unity, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While there are elements of design patterns and configuration management, these do not align with the core themes of operational efficiency or continuous improvement strategies outlined in the category definition.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -751,7 +751,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:42:58",
+    "calculated_at": "2025-03-15T07:21:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -759,7 +759,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves technical details about coding practices and design patterns. However, it lacks explicit discussions on broader engineering excellence principles such as quality assurance, coding standards, or continuous improvement processes. While it touches on some aspects of software craftsmanship, the depth of discussion is more about specific implementation rather than promoting high standards in software development practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -799,7 +799,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T12:08:22",
+    "calculated_at": "2025-03-15T07:21:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -807,7 +807,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on technical implementation details of a data access layer using Unity, which lacks a direct discussion on pragmatic thinking principles. While it touches on practical problem-solving through the use of dependency injection and factory patterns, it does not explicitly address Agile, Scrum, or DevOps frameworks. The discussion is more about coding practices than about navigating complexity or applying experience-based strategies in project management contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1246,12 +1246,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:21:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of a data access layer using the Unity framework, which touches upon clean code principles and could imply methodologies relevant to Agile practices. However, the primary focus is more on implementation details rather than significant discussions on Agile engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves some engineering practices such as dependency injection and factory patterns. However, it lacks explicit discussions on Agile methodologies, clean code principles, or test-driven development. While it touches on automation through configuration and the use of interfaces, these aspects are not deeply explored in the context of Agile engineering practices. Therefore, the content aligns with the category but does not fully meet its core themes.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

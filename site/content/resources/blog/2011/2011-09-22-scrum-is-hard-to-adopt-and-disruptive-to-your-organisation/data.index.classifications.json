@@ -13,12 +13,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the practical application of Scrum, including training, mentoring, and the challenges of adoption, which are relevant to the category, but it primarily focuses on the difficulties and philosophical aspects of Scrum rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the practical application of Scrum, including the need for training, mentoring, and dedication to adopt the framework effectively. It provides insights into the challenges of Scrum adoption and the importance of team alignment and support, which aligns with the category's focus on practical techniques. However, it lacks detailed exploration of specific tools or methodologies beyond Scrum, which limits its depth and direct mentions.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,12 +34,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum and the need for empirical evidence in decision-making, but it primarily focuses on Scrum practices rather than a comprehensive exploration of Evidence-Based Management principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum adoption and its challenges, referencing Ken Schwaber's views, but it primarily focuses on the practical aspects of implementing Scrum rather than on evidence-based management principles. While it touches on the need for metrics and the importance of trust between business and IT, it lacks a thorough exploration of empirical data application or systematic evaluation of organisational performance, which are core to Evidence-Based Management.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -49,11 +55,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and processes of adopting Scrum, including the importance of training, mentoring, and learning from failures, which aligns with the themes of discovery and learning. However, the primary focus is on Scrum adoption rather than a broader exploration of discovery and learning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and highlights the importance of training, mentoring, and dedication in the process. It mentions the need for a feedback loop and learning from failures, which aligns with the core themes of the category. However, the primary focus is on Scrum adoption rather than broader discovery and learning methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -67,12 +76,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 15,
+    "ai_depth": 14,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum and its challenges, mentioning lean thinking as part of the framework. However, the primary focus is on Scrum rather than Lean principles, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, with only brief references to Lean principles, such as 'lean thinking' in the context of Scrum. While it touches on concepts like iterative development and value optimisation, it lacks a comprehensive exploration of Lean methodologies, tools, or waste reduction techniques. The focus remains on Scrum adoption challenges rather than Lean strategies, resulting in a low confidence score for the Lean category.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -154,12 +166,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a Scrum foundation course and mentions training and mentoring, which are related to events and presentations, but the primary focus is on the challenges of adopting Scrum rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and mentions a Scrum Foundation course, which implies a training event. However, it lacks explicit references to specific events, presentations, or discussions that align with the category. The focus is more on theoretical concepts and personal experiences rather than structured learning experiences or formal presentations.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -184,12 +199,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum within an organisation and touches on the need for change management and leadership support, which are relevant to enterprise agility. However, the primary focus remains on Scrum practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum adoption and its challenges, which touches on aspects of enterprise agility, such as the need for organisational change and leadership support. However, it primarily focuses on team-level practices and does not provide a comprehensive view of enterprise-wide agility frameworks or strategies. The discussion lacks depth in organisational structures and metrics, which are crucial for a full alignment with the category.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -277,12 +295,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum and references a specific book by Ken Schwaber, making it a major theme, but it primarily focuses on the practical aspects of Scrum implementation rather than a review or analysis of products or literature.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and references Ken Schwaber's work, which aligns with the category. However, it primarily focuses on the difficulties and processes of Scrum adoption rather than providing a detailed review or analysis of specific products or books. The mention of the 'Scrum Foundation' course indicates some relevance, but the overall depth and focus on specific literature or tools are limited.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -418,12 +439,12 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:09:11",
+    "calculated_at": "2025-03-15T06:24:08",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses Scrum adoption and its challenges in organizations but does not primarily focus on defining or articulating long-term strategic goals. It touches on elements of organizational change and improvement, but these topics are not clearly linked to strategic goals as defined in the category criteria.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -490,30 +511,39 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of customer feedback during the Scrum implementation process, specifically mentioning how feedback helps improve team dynamics and product development. However, the primary focus is on the challenges of adopting Scrum rather than comprehensively detailing customer feedback loops.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the importance of feedback loops in the context of Agile practices. However, it primarily focuses on the difficulties and processes of Scrum adoption rather than explicitly detailing mechanisms for integrating customer feedback into product development. While there are mentions of feedback from the Product Owner and the need for collaboration with the business, the overall emphasis is on Scrum implementation rather than a structured exploration of customer feedback loops.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges and strategies related to Scrum adoption and highlights operational improvements through training, mentoring, and dedication, which are relevant to improving operational practices within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the need for training, mentoring, and dedication, which are operational practices relevant to Agile methodologies. However, while it touches on these aspects, the primary focus is on the difficulties and cultural shifts required for Scrum adoption rather than specific techniques or strategies for operational efficiency. The depth of discussion on practical applications is moderate, but it lacks a strong emphasis on metrics, KPIs, or process optimisation techniques.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses challenges and approaches related to Scrum adoption, mentioning team roles, the necessity of training and mentoring, and aspects of team dynamics, though it also includes broader discussions on Agile principles and organizational impact.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and highlights the importance of training, mentoring, and dedication within a Scrum Team. It mentions roles indirectly, such as the Development Team and the Product Owner, and touches on team dynamics and the need for trust. However, it lacks a focused exploration of specific Scrum roles and practices, which limits its depth in the category.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -544,20 +574,26 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and strategies associated with adopting Scrum, a fundamental Agile framework, and emphasizes the change processes involved in transitioning to Agile practices, which are central to Agile Transformation.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the challenges and strategies associated with adopting Scrum, a key Agile framework, and highlights the need for training, mentoring, and dedication in the transformation process. It aligns well with the principles of Agile transformation, particularly in addressing cultural shifts and leadership roles. The depth of discussion on the difficulties of Scrum adoption and the emphasis on change management further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the importance of mentoring during Scrum adoption, emphasizing that teams benefit from having a mentor to provide guidance and support during the transition. This aligns well with the mentoring category, as it focuses on the role of a mentor in Agile environments.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of mentoring in the context of Scrum adoption, highlighting how ongoing support from a mentor can facilitate the team's adaptation to Scrum practices. While it does mention mentoring explicitly, the overall focus is more on the challenges of Scrum adoption rather than a comprehensive exploration of mentoring techniques or strategies. Therefore, while there is a relevant mention, the depth and alignment with the core themes of mentoring are moderate.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -571,11 +607,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum, the importance of team training, mentoring, and dedication to improve team performance, and highlights the role of self-managing teams in product development. It aligns well with strategies and practices aimed at maximizing effectiveness and collaboration within agile teams.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of Scrum adoption, including the importance of training, mentoring, and dedication, which are crucial for enhancing team performance. It highlights the need for teams to adapt to new practices and the role of leadership in guiding this change. The mention of conflict resolution and the dynamics between business and IT also align with the category's focus on team collaboration and effectiveness. However, while the content touches on these themes, it does not delve deeply into specific metrics or tools for measuring performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -598,21 +637,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum as a software development framework, focusing on its adoption, challenges, and methodologies, which are central to the topic of software development.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Scrum, an Agile framework, and its adoption challenges, which are central to software development practices. It provides detailed insights into the iterative nature of Scrum, the importance of training and mentoring, and the cultural shifts required within organisations. The discussion aligns well with key topics in software development, such as Agile methodologies and team dynamics, while also addressing the broader implications of adopting Scrum in a business context.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the challenges of adopting Scrum within organizations, emphasizing the Agile framework's iterative nature, cross-functional teams, and the need for training and dedication, aligning well with Agile Project Management principles.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses Scrum, its challenges, and the importance of training and mentoring in adopting Agile practices. It aligns well with Agile principles, emphasising iterative development, cross-functional teams, and the need for organisational change. The depth of discussion on Scrum roles and the iterative process further supports a high confidence score.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -625,11 +670,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses challenges and strategies related to Scrum adoption, including training, mentoring, dedication, and addressing both organizational and team dynamics, which align with core Scrum principles and practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and highlights the importance of training, mentoring, and dedication in the process. It references Scrum principles and the need for a change in mindset, which aligns with the core themes of Professional Scrum. However, the focus is more on the difficulties and personal experiences rather than a structured exploration of Scrum roles, events, or artifacts, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -652,12 +700,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Scrum adoption and the challenges faced, with some mention of the need for dedication and commitment, which relates to Scrum values. However, the primary focus is on implementation challenges and organizational disruption rather than a direct exploration of the specific Scrum values.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and mentions the need for dedication and commitment, which aligns with the Scrum Values. However, it primarily focuses on the difficulties and processes of Scrum adoption rather than explicitly discussing the core Scrum Values themselves. The mention of 'dedication' is relevant but not deeply explored, and the overall discussion lacks a comprehensive examination of all Scrum Values.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -679,11 +730,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T22:42:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and processes involved in adopting Scrum, which relates to organisational change by highlighting the need for commitment, adaptation, and the transition from old habits to new practices. It addresses the transformational nature of Scrum within organizations, as well as the implications of such change, aligning well with the category's focus on strategies and methodologies for organisational change.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges and processes involved in adopting Scrum, which is a framework for organisational change. It highlights the need for training, mentoring, and dedication to facilitate this change, aligning with the principles of Agile transformation. However, while it touches on organisational change, the primary focus is on Scrum adoption rather than broader organisational change strategies, which limits its depth and direct mentions.",
     "level": "Secondary"
   },
   "Lean Startup": {
@@ -715,12 +769,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum within an organization, which relates to the broader theme of Scaling Scrum, but it does not primarily focus on scaling practices or the application of Scrum principles in large organizations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the need for training and mentoring, which are relevant to Scrum implementation. However, it lacks a direct focus on scaling Scrum practices across multiple teams or frameworks designed for scaling, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -928,12 +985,12 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T09:09:11",
+    "calculated_at": "2025-03-15T06:24:09",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses the challenges of adopting Scrum and how organizations can adapt to a new methodology. However, it primarily focuses on Scrum implementation details and struggles rather than explicitly addressing sensemaking principles or frameworks in complex environments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -964,12 +1021,12 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T09:09:11",
+    "calculated_at": "2025-03-15T06:24:09",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses Scrum, an Agile framework, and its challenges rather than focusing on Lean principles like waste reduction and continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1018,20 +1075,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T22:42:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses primarily on the challenges and processes related to adopting Scrum, highlighting the need for change within organizations, the cultural shifts required, and the resistance that may arise. It emphasizes the importance of training, mentoring, and dedication to change initiatives, which aligns well with key topics in change management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges and processes involved in adopting Scrum, which inherently involves change management. It highlights the need for training, mentoring, and dedication to facilitate this change, aligning with the principles of effective change management in Agile environments. However, while it touches on these aspects, the primary focus remains on Scrum adoption rather than a broader discussion of change management strategies, which slightly limits its depth and direct mentions.",
     "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T22:42:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T06:24:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum and the necessity for training, mentoring, and commitment in a team context, indicating strong connections to team processes within Agile frameworks.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the importance of team dynamics, such as mentoring and training, which are relevant to team collaboration. However, it primarily focuses on the difficulties and processes of Scrum adoption rather than directly enhancing team collaboration or communication. While it touches on aspects of teamwork, the depth of discussion on collaboration techniques and shared ownership is limited.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1045,11 +1108,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Scrum adoption and challenges within organizations, it touches on themes of change management, the necessity of cultural shifts, and improving business agility through iterative processes, which are relevant to digital transformation. However, the focus is more on Scrum specifically rather than providing a broad view of digital transformation.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum adoption and its challenges, which indirectly relates to digital transformation by highlighting the need for change in organisational practices and culture. However, it primarily focuses on Scrum as a framework rather than on broader digital technologies or strategic initiatives for business transformation. The mention of trust issues between IT and business does touch on organisational culture, but the overall discussion lacks depth in exploring digital tools or methodologies that enhance business agility or innovation.",
     "level": "Tertiary"
   },
   "MVP": {
@@ -1090,11 +1156,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-15T22:42:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T06:24:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the adoption of Scrum and the need for mentoring and training in agile environments, which relates to the principles of technical leadership and fostering team dynamics. However, it primarily focuses on the challenges of Scrum adoption rather than concrete strategies of technical leadership.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the importance of training and mentoring, which are relevant to technical leadership. However, it primarily focuses on the difficulties of Scrum implementation rather than providing in-depth strategies or principles of technical leadership. While it touches on mentoring and team dynamics, it lacks a comprehensive exploration of the core themes of technical leadership.",
     "level": "Secondary"
   },
   "Estimation": {
@@ -1198,12 +1267,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the challenges in adopting Scrum, and mentions the role of training and mentoring, which are relevant to Scrum Masters. However, the primary focus is more on the general adoption of Scrum rather than the specific responsibilities or practices of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the importance of training and mentoring, which are relevant to the Scrum Master role. However, it lacks a direct focus on the specific responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1225,20 +1297,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:42:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the adoption of the Scrum framework, its implications for software development teams, and the challenges developers face in Agile environments.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum, a key Agile framework, and provides insights into the roles and responsibilities of development teams within this context. It addresses the need for training, mentoring, and dedication, which are crucial for software developers in Agile environments. The discussion aligns well with the category's focus on enhancing productivity and collaboration among developers, although it could benefit from more specific examples of best practices and tools used in Agile and DevOps.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses mentoring and training in the context of Scrum adoption, indicating some focus on coaching practices, but it's largely centered around the challenges and processes of Scrum implementation rather than exploring coaching techniques in depth.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of training and mentoring in the context of Scrum adoption, which aligns with coaching principles. However, it primarily focuses on the challenges of adopting Scrum and the need for organisational change rather than on coaching techniques or the role of a coach. While there are mentions of mentoring and the need for support, the overall emphasis is more on the difficulties and processes of Scrum implementation rather than on fostering individual or team growth through coaching.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -1282,30 +1360,39 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses self-managing teams as part of the Scrum framework, but the primary focus is on the challenges of Scrum adoption and not on self-organisation principles directly.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses self-managing teams and the importance of autonomy in Scrum, which aligns with self-organisation principles. However, it primarily focuses on the challenges of adopting Scrum and the need for training and mentoring, rather than deeply exploring self-organisation as a primary theme. The discussion on leadership's role and the need for change indicates some alignment, but the overall focus is more on the difficulties of implementation rather than the principles of self-organisation itself.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T22:42:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:24:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Scrum framework, its adoption challenges, practical implications for organizations, and emphasizes principles of Scrum implementation, which align with the category of Agile Frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Scrum, discussing its adoption challenges, principles, and the need for training and mentoring. It aligns well with the core themes of Agile frameworks, particularly in terms of promoting collaboration and addressing organisational change. The depth of discussion is significant, providing insights into the practical application of Scrum and its impact on organisational culture. However, while it mentions other Agile concepts, the primary focus remains on Scrum, which slightly limits its broader applicability to all Agile frameworks.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum adoption, organizational trust in IT, and the challenges of implementing Agile practices in a business context, indicating a significant connection to Agile Strategy, but it primarily focuses on Scrum rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the need for organisational change, which aligns with Agile Strategy principles. It mentions the importance of training, mentoring, and dedication in the context of Scrum adoption, reflecting on how these elements contribute to an organisation's ability to adapt and deliver value. However, the focus is more on the practical aspects of Scrum rather than a strategic overview of Agile methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1345,12 +1432,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:25:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses some elements of accountability related to trust and ownership in Agile and Scrum contexts, but it primarily focuses on challenges of adopting Scrum and does not primarily center on accountability as a topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum and the need for trust between IT and business, which touches on accountability. However, it primarily focuses on the difficulties of implementation and the need for training and mentoring rather than a deep exploration of accountability as a principle within Agile teams. The mention of trust and the need for commitment indicates some alignment with accountability, but it lacks a thorough discussion of ownership and collective responsibility.",
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",

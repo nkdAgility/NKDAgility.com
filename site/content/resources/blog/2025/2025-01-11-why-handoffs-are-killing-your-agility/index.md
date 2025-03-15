@@ -20,15 +20,15 @@ aliasesArchive:
 - /blog/why-handoffs-are-killing-your-agility
 tags:
 - Software Development
-- Operational Practices
-- Agile Project Management
 - Business Agility
 - Cross Functional Teams
 - Organisational Agility
 - Product Delivery
-- Software Developers
 - Team Collaboration
-- Value Delivery
+- Operational Practices
+- Lean Principles
+- People and Process
+- Team Performance
 categories:
 - Social Technologies
 - Engineering Excellence

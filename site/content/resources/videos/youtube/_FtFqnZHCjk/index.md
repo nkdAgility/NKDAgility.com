@@ -34,10 +34,10 @@ tags:
 - Agile Values and Principles
 - Product Delivery
 - Value Delivery
-- Pragmatic Thinking
-- Agile Product Operating Model
+- Agile Transformation
+- Agile Strategy
+- Software Development
 - Agile Philosophy
-- Agile Planning
 resourceTypes:
 - video
 layout: video

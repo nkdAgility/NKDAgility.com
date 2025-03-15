@@ -28,12 +28,9 @@ aliasesArchive:
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
 - Events and Presentations
-- Windows
 - Practical Techniques and Tooling
 - Software Development
-- Product Owner
 - Release Management
-- Troubleshooting
 - Azure DevOps
 - News and Reviews
 categories:

@@ -26,11 +26,6 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Windows
-- Azure DevOps
-- Troubleshooting
-- Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

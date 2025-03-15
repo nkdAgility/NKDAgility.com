@@ -10,7 +10,7 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-06T15:04:26",
+    "calculated_at": "2025-03-14T20:59:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses complexity in the context of Scrum and Agile methodologies, touching on the importance of understanding complexity and empiricism. However, it primarily focuses on Scrum practices rather than explicitly exploring Systems Thinking principles. While there are mentions of complexity and the need for transparency and adaptation, these concepts are framed within a linear problem-solving approach typical of Agile, rather than a holistic analysis of interconnected systems. The depth of discussion on Systems Thinking is limited, as it does not delve into feedback loops, interdependencies, or broader organisational dynamics, which are central to the Systems Thinking category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -31,7 +31,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-07T13:21:26",
+    "calculated_at": "2025-03-14T20:59:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -39,11 +39,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Agile concepts and practices, particularly focusing on Scrum and complexity, but it does not explicitly mention any specific events, presentations, or workshops. While it aligns with the themes of Agile and provides insights into Scrum practices, the lack of direct references to events or structured learning experiences limits its classification under 'Events and Presentations'. The depth of discussion on Scrum practices is notable, but it remains theoretical without a connection to actual events.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-10T11:54:25",
+    "calculated_at": "2025-03-14T20:59:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -51,7 +51,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of understanding complexity and empiricism in Scrum, which relates to learning and adapting processes. However, it primarily focuses on Scrum practices and project management rather than explicitly exploring methodologies for fostering innovation or continuous learning. While there are mentions of experiential learning through exercises, the overall emphasis is more on Scrum roles and events than on discovery and learning as a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,7 +64,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-10T14:08:06",
+    "calculated_at": "2025-03-14T20:59:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -72,7 +72,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses complexity in the context of Scrum and Agile methodologies, focusing on how complexity affects planning and processes. However, it primarily addresses project management and team dynamics rather than software code quality or complexity theory as it relates to coding practices. While there are mentions of complexity and its implications, the discussion lacks depth in terms of software architecture, code quality, or specific coding practices, which are central to the 'Code and Complexity' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -193,11 +193,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Scrum, complexity, and the importance of transparency and inspection, which relates to operational practices, but the focus is primarily on understanding Scrum roles and principles rather than direct operational efficiency techniques.",
+    "calculated_at": "2025-03-14T21:00:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on complexity and its impact on team effectiveness. While it touches on aspects of operational practices, such as transparency, inspection, and adaptation, it lacks a direct focus on techniques or strategies specifically aimed at enhancing operational efficiency within Agile, DevOps, or Lean frameworks. The discussion is more theoretical and does not provide detailed practical applications or metrics for measuring operational efficiency.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
@@ -277,11 +280,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:00:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and key concepts related to Agile methodologies such as transparency, inspection, and adaptation, which are central to Agile Project Management.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Agile and Scrum, focusing on principles such as transparency, inspection, and adaptation, which are core to Agile Project Management. It provides detailed insights into managing complexity within Scrum teams and emphasises the importance of these concepts in enhancing team effectiveness. The depth of discussion on practical applications and experiential learning further supports its strong alignment with Agile methodologies.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -295,12 +301,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:01:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of transparency and the product backlog in Scrum, which relates to the responsibilities of a Product Owner, but it primarily focuses on the general complexities and practices of Scrum rather than solely on the Product Owner role.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile and Scrum principles, focusing on complexity and transparency, but does not specifically address the responsibilities or practices of a Product Owner. While it touches on aspects relevant to Scrum, it lacks direct references to the Product Owner's role, making it more of a general discussion on Scrum rather than a focused examination of the Product Owner's responsibilities.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -460,21 +469,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Scrum and emphasizes the importance of transparency and collaboration in the context of complexity in Agile team settings. However, it primarily focuses on understanding complexity rather than directly addressing team collaboration as a primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:00:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of transparency, inspection, and adaptation within Scrum, which are essential for team collaboration. However, while it touches on collaboration and continuous improvement, the primary focus is on understanding complexity and its impact on Scrum processes rather than directly addressing team dynamics or collaboration techniques. The depth of discussion on collaboration is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses the concepts of complexity and empirical processes in Scrum, it also touches upon the importance of transparency, inspection, and adaptation, which relate to learning and metrics in Agile practices. However, the core focus seems to be more on Scrum dynamics rather than a deep exploration of metrics and data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity, transparency, inspection, and adaptation. However, it lacks explicit references to metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. While it touches on continuous improvement, it does so in a general sense without delving into specific methodologies or evidence-based practices. Therefore, while there is some alignment with the category, the primary focus remains on Scrum practices rather than metrics and learning.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -487,20 +502,23 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T23:35:45",
+    "calculated_at": "2025-03-14T20:59:54",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses principles of transparency and inspection which are relevant to evidence-based practices in a Scrum context, but it primarily focuses on the Scrum framework rather than directly addressing evidence-based leadership as a primary topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T20:59:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses understanding complexity within Agile and Scrum contexts, touching on how to navigate high variance work and make informed decisions based on transparency and adaptation. It emphasizes principles relevant to sensemaking, but it's mainly focused on Scrum practices, making sensemaking a secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses complexity in the context of Agile and Scrum, which aligns with the principles of sensemaking. It explicitly mentions the importance of understanding complexity and how it impacts decision-making processes within teams. The discussion on transparency, inspection, and adaptation further supports the core themes of sensemaking. However, while it provides valuable insights, the focus remains primarily on Scrum practices rather than a broader exploration of sensemaking frameworks or leadership roles, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -541,12 +559,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:01:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Scrum roles and practices, it touches upon mitigating risk and managing complexity, which are relevant to decision-making processes in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses complexity and its impact on planning and execution within Scrum, touching on principles like transparency, inspection, and adaptation. However, it lacks a direct focus on structured decision-making methodologies or evidence-based practices, which are central to the category of Decision Making. While there are relevant themes, the discussion remains more about Agile practices than about decision-making frameworks or empirical evidence.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -607,12 +628,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum roles and events, focusing on practices related to complexity and team dynamics, but it does not primarily address specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity and its impact on team effectiveness. However, it lacks direct mentions of specific tools or methodologies that enhance Agile practices, which is a key requirement for this category. While it aligns conceptually with the themes of transparency, inspection, and adaptation, it does not provide in-depth discussions on practical techniques or tooling, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -655,12 +679,15 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of transparency in the context of Scrum artifacts, which relates to the Sprint Review, but it is primarily focused on complexity in Agile rather than solely on the Sprint Review itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of transparency, inspection, and adaptation, which are relevant to the Sprint Review process. However, it primarily focuses on complexity in Agile and Scrum rather than specifically addressing the Sprint Review itself. While there are mentions of the Sprint Review, they are not the primary focus, and the depth of discussion on the Sprint Review is limited.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -691,11 +718,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:57:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of transparency in various Scrum artifacts and how it relates to effective Agile practices, making it a central theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses transparency as a key principle in Scrum, highlighting its importance in visibility and clarity of work. However, while it touches on transparency, the primary focus is on complexity and Agile Product Strategy rather than a comprehensive exploration of transparency and accountability. The depth of discussion on accountability is minimal, and the content does not provide extensive techniques or strategies for enhancing accountability within teams.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -709,12 +739,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements of Scrum and the management of complexity and transparency in team environments, which pertains to sociotechnical systems. However, the focus remains primarily on Scrum practices and concepts, making sociotechnical aspects secondary.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity, transparency, inspection, and adaptation. While it touches on team dynamics and collaboration, it lacks a direct exploration of the interplay between technology and organisational structures, which is central to sociotechnical systems. The discussion is more centred on Scrum practices rather than the broader sociotechnical context, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -745,12 +778,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses transparency, which is one of the Scrum Values, and emphasizes its importance in relation to Scrum artifacts. However, the primary focus is on complexity and agile product strategy, making Scrum Values a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of transparency, which is one of the Scrum Values, and connects it to the principles of inspection and adaptation. However, the primary focus is on complexity and Agile Product Strategy rather than directly on Scrum Values. While there are relevant mentions and some alignment with the core themes, the depth of discussion on the values themselves is not extensive enough to classify it as a primary focus.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -793,11 +829,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:00:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content predominantly discusses concepts related to Scrum, complexity, and the importance of transparency and backlogs, which are essential elements of Agile Product Management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile and Scrum principles extensively, particularly focusing on the importance of transparency, inspection, and adaptation, which are core to Agile Product Management. It also touches on the role of teaching Agile Product Strategy to Scrum teams, indicating a direct engagement with product management practices. However, while it aligns well with Agile concepts, it lacks specific discussions on product backlog prioritisation and stakeholder engagement, which are key topics in Agile Product Management.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -865,20 +904,26 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content primarily discusses complexity in Scrum and related principles like transparency and the importance of artifacts, it also touches on planning aspects such as the product backlog and sprint planning. However, the main focus is not on Agile planning tools themselves, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity and its impact on planning and execution. However, it does not explicitly mention Agile Planning Tools or delve into specific tools or methodologies that facilitate planning within Agile frameworks. While there is some alignment with the core themes of Agile planning, the depth of discussion on tools and techniques is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:00:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum practices, emphasizing the importance of artifacts like the product backlog and sprint backlog, while also addressing complexity in product development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses key Scrum principles such as transparency, inspection, and adaptation, which are essential for effective product development. It also highlights the importance of the product backlog and the role of complexity in planning and execution. However, while it touches on these topics, the focus on Agile Product Strategy and experiential learning exercises may detract from a more direct discussion of Scrum practices, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -949,11 +994,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:01:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts that are relevant to the Agile Product Operating Model, such as complexity, transparency, and the role of product backlogs, but it primarily focuses on Scrum practices and events.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity and the importance of transparency, inspection, and adaptation. However, it does not explicitly address the Agile Product Operating Model or its core themes such as product-centric development or value delivery strategies. While there are relevant insights, they are more aligned with Scrum practices than the broader Agile Product Operating Model, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -976,11 +1024,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum roles and the importance of transparency in the product backlog and Sprints, which are related to the principles of working software. However, the primary focus is more on complexity and Scrum processes than on the direct delivery of functional software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity and the importance of transparency, inspection, and adaptation. However, it does not explicitly address the delivery of functional software or customer feedback mechanisms, which are central to the 'Working Software' category. The discussion is more theoretical and instructional rather than focused on practical examples of working software delivery.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -1003,12 +1054,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles, complexity in processes, and the importance of transparency and artifacts in Agile practices, making it a secondary theme related to product delivery.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile and Scrum methodologies, focusing on complexity and its impact on planning and execution, which aligns with product delivery principles. However, while it touches on key aspects like transparency, inspection, and adaptation, it lacks detailed exploration of deployment, testing, and cross-functional team dynamics, which are crucial for a comprehensive understanding of product delivery.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1033,56 +1087,74 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:00:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum practices and principles, focusing on complexity, transparency, and Agile methods, which are central to software development processes.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing key principles such as complexity, transparency, inspection, and adaptation, which are central to software development practices. It provides detailed insights into how these concepts can transform Scrum teams, demonstrating a strong alignment with the core themes of the Software Development category. The depth of discussion is significant, as it includes practical examples and experiential exercises, enhancing the understanding of complex environments in software development.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:01:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses complexity in relation to Agile and Scrum practices, emphasizing the understanding and management of complexity and its impact on planning and risk mitigation.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses complexity in the context of Agile and Scrum, highlighting its importance in planning and execution. It aligns well with core themes of Complexity Thinking, such as the distinction between low and high complexity environments and the principles of transparency, inspection, and adaptation. The depth of discussion is significant, providing practical examples and experiential exercises that illustrate the concepts. Overall, the content effectively integrates complexity science into Agile practices, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:01:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of transparency in the product backlog and the connection to sprint planning, but it primarily addresses complexity and empirical processes in Scrum.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity, transparency, inspection, and adaptation. However, it does not explicitly mention backlog refinement or delve into techniques and practices specific to it. The discussion is more about general Agile practices rather than the specific category of backlog refinement, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-14T21:00:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses elements of Scrum, including complexity, artifacts, and their influence on team dynamics and workflow, but it primarily focuses on the topic of complexity and processes rather than directly on team performance.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of understanding complexity in Scrum, which directly relates to team performance and effectiveness. It highlights principles such as transparency, inspection, and adaptation, which are crucial for enhancing team dynamics and collaboration. The depth of discussion on how these principles can transform team approaches to Scrum indicates a strong alignment with the category, although it does not delve deeply into specific metrics or tools for measuring performance.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile concepts focused on complexity and the importance of transparency in Scrum which relates to delivering value, however, the primary focus appears to be on complexity and risk management rather than direct strategies for value delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:00:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity, transparency, inspection, and adaptation, which are relevant to value delivery. However, while it touches on these concepts, it does not explicitly frame them within the context of delivering value to customers or aligning product development with customer needs. The depth of discussion on these principles is moderate, but it lacks a strong focus on strategies for maximising customer value or continuous delivery practices.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions the Definition of Done as part of a broader discussion on Scrum principles and transparency but does not primarily focus on the Definition of Done itself.",
+    "calculated_at": "2025-03-14T21:00:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions the 'definition of done' in the context of transparency but does not delve into its criteria or importance in detail. While it aligns with some core themes of the Definition of Done, such as transparency and inspection, the overall focus is more on complexity and Agile principles rather than a thorough exploration of the Definition of Done itself.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -1144,12 +1216,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements of complexity and empiricism in Scrum, as well as transparency and inspection which are relevant to Evidence-Based Management principles, but the focus is more on Scrum processes and practices rather than directly on EBM as a primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:00:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of transparency, inspection, and adaptation, which are relevant to Evidence-Based Management. However, it lacks explicit references to empirical data or metrics, and the focus is more on Agile practices rather than a thorough exploration of EBM principles. The discussion is insightful but does not delve deeply into the core themes of EBM, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1162,20 +1237,26 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:01:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of understanding complexity and empiricism in Scrum, emphasizing Agile principles such as transparency and the role of backlogs in planning, which aligns well with Agile Planning practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles, particularly in relation to Scrum, and highlights the importance of transparency, inspection, and adaptation, which are key aspects of Agile Planning. However, while it touches on planning and execution in complex environments, it does not delve deeply into specific Agile Planning techniques or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:00:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of the product backlog in relation to transparency and Scrum practices, making it a significant theme in the discussion of Agile complexity.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of the product backlog in relation to transparency, inspection, and adaptation within Scrum. While it does mention the product backlog explicitly, the primary focus is on complexity and Agile principles rather than a detailed exploration of backlog management. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1216,11 +1297,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:00:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, and explores concepts of complexity and empiricism within that context, emphasizing key Scrum artifacts and practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, discussing its principles and the importance of transparency, inspection, and adaptation in complex environments. It provides insights into teaching Agile concepts and their application in Scrum teams, which aligns well with the core themes of the category. However, while it delves into specific aspects of Scrum, it does not extensively cover a comparative analysis of different Agile frameworks or broader Agile principles, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Frequent Releases": {
@@ -1252,29 +1336,38 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:00:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles of empirical process control, emphasizing transparency, inspection, and adaptation in the context of Scrum. It highlights the importance of understanding complexity and the need for evidence-based practices, indicating a strong alignment with the category.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the principles of transparency, inspection, and adaptation, which are core to empirical process control. It provides a detailed exploration of how these principles apply in complex environments, particularly within Scrum. The author shares insights from teaching the Agile Product Strategy class, illustrating the importance of these concepts in practice. However, while the content is rich in relevant themes, it does not delve deeply into specific case studies or tools that facilitate empirical process control, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:00:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Scrum and Agile practices, it touches on decision-making aspects related to managing complexity and mitigating risk, which aligns it as a secondary theme within the broader context of decision theory.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing complexity and its impact on planning and execution. While it touches on concepts like risk mitigation and the importance of transparency, inspection, and adaptation, it does not explicitly engage with decision-making processes or the core principles of Decision Theory. The discussion lacks depth in terms of decision-making frameworks or behavioural economics, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:01:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the practical implications of complexity in Scrum and focuses on how teams can adapt their practices to navigate variability and risk in project management. It emphasizes real-world applications of Agile principles and the importance of transparency in Scrum processes.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the importance of understanding complexity within Agile and Scrum contexts, which aligns well with pragmatic thinking. It provides practical insights into navigating complex environments and emphasises the principles of transparency, inspection, and adaptation, which are crucial for effective problem-solving in Agile frameworks. The depth of discussion is significant, with real-world applications and experiential exercises highlighted, demonstrating a strong alignment with the category's core themes.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -1306,11 +1399,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:00:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum principles, particularly around transparency, inspection, adaptation, and the importance of Scrum artifacts.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses key Scrum principles such as transparency, inspection, and adaptation, which are central to the Scrum framework. However, it primarily focuses on the concept of complexity in Agile environments rather than providing a comprehensive exploration of Scrum roles, events, or artifacts. While it touches on important Scrum concepts, the depth of discussion on Scrum-specific practices is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Transformation": {

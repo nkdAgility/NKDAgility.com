@@ -32,9 +32,6 @@ tags:
 - Software Development
 - System Configuration
 - Release Management
-- Azure DevOps
-- Application Lifecycle Management
-- Troubleshooting
 categories:
 - DevOps
 

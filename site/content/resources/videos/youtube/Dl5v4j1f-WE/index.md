@@ -35,6 +35,7 @@ tags:
 - People and Process
 - Personal
 - Scrum Values
+- Agile Project Management
 - Transparency and Accountability
 resourceTypes:
 - video

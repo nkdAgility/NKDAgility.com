@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Events and Presentations
-- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

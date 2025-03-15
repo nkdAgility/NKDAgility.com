@@ -30,6 +30,7 @@ tags:
 - Technical Excellence
 - Technical Leadership
 - Engineering Practices
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,15 +29,12 @@ aliasesArchive:
 - /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
+- Windows
+- Troubleshooting
 - Install and Configuration
 - System Configuration
 - Software Development
-- Windows
-- Troubleshooting
 - Practical Techniques and Tooling
-- Azure DevOps
-- Release Management
-- Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-2-2.png
 

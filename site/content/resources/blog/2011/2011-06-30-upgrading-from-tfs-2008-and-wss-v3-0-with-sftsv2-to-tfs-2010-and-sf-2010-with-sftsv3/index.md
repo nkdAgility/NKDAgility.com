@@ -23,9 +23,16 @@ aliasesArchive:
 - /upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 - /resources/blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 tags:
-- System Configuration
 - Install and Configuration
+- Windows
+- System Configuration
+- Practical Techniques and Tooling
+- Software Development
 - Troubleshooting
+- Azure DevOps
+- Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

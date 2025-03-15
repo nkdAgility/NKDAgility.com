@@ -1,7 +1,7 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T13:58:53",
+    "calculated_at": "2025-03-15T00:11:51",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concepts of motivation and discipline without any explicit reference to social technologies, Agile methodologies, or frameworks like Scrum or Kanban. While there is a tangential connection to work ethic, it does not align with the core themes of value delivery, collaboration, or continuous improvement within teams.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -43,7 +43,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T14:21:12",
+    "calculated_at": "2025-03-15T00:11:51",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -51,11 +51,11 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on concepts of motivation and discipline, which can relate to leadership in terms of personal effectiveness. However, it lacks explicit discussions on leadership practices, strategies, or frameworks relevant to Agile or DevOps. The focus is more on individual attributes rather than the role of leaders in fostering team dynamics or organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-10T14:21:15",
+    "calculated_at": "2025-03-15T00:11:51",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -63,7 +63,7 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content briefly touches on concepts of motivation and discipline, which are relevant to personal productivity but does not explicitly discuss business agility principles, strategies, or practices. The focus is more on individual attributes rather than organisational adaptability or agility.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -217,7 +217,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T18:16:44",
+    "calculated_at": "2025-03-15T00:11:51",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on motivation and discipline, which are relevant to individual performance but does not explicitly discuss team dynamics, collaboration, or Agile methodologies. It lacks depth and direct relevance to the core themes of team performance in an Agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -247,7 +247,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T14:41:45",
+    "calculated_at": "2025-03-15T00:11:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -255,7 +255,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile and Scrum, which are relevant to product delivery. However, it primarily focuses on the philosophical debate rather than practical methodologies or practices directly related to the end-to-end process of delivering software products. While it touches on Agile principles, it lacks detailed discussions on planning, testing, deployment, or metrics that are crucial for product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -277,7 +277,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T10:14:16",
+    "calculated_at": "2025-03-15T00:11:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -285,7 +285,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the concepts of motivation and discipline, which are relevant to human behaviour in a work context. However, it lacks explicit discussions on team dynamics, structured methodologies, or processes that enhance productivity. The focus is more on individual attributes rather than the interplay between people and structured processes, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -373,12 +373,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses motivation and discipline in the context of Agile and Scrum, which can relate to technical leadership in agile environments, but it does not primarily focus on technical leadership principles or strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile and Scrum, which are relevant to technical leadership. However, it primarily focuses on personal perspectives rather than providing concrete strategies or practices for leading teams. While it touches on the importance of discipline in adhering to Scrum values, it lacks depth in discussing technical leadership principles, mentoring, or fostering team dynamics.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -391,30 +394,39 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the interplay between discipline and motivation in Agile and Scrum contexts, indicating it relates to Scrum Master themes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation within the context of Agile and Scrum, highlighting their importance in the Scrum process. However, it does not explicitly focus on the role of the Scrum Master or provide in-depth insights into Scrum Master responsibilities or practices. While it touches on Scrum values and ceremonies, the primary focus is on the broader Agile transformation rather than the specific role of a Scrum Master.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of motivation and discipline in Agile transformation, touching upon Scrum principles, which are relevant to Agile Planning, but it does not focus primarily on Agile Planning itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile and Scrum, which indirectly relates to Agile Planning. However, it does not explicitly focus on Agile Planning methodologies or practices. The discussion touches on Scrum values and the importance of maintaining Agile principles, but lacks detailed exploration of planning techniques, user stories, or iterative processes that are central to Agile Planning.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 40,
-    "final_score": 49.0,
-    "reasoning": "The content discusses the importance of discipline and motivation in the context of Agile and Scrum principles, although it primarily focuses on the concepts of motivation and discipline rather than directly addressing Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile transformation, which aligns with Agile values. However, it primarily focuses on the relationship between these two concepts rather than explicitly detailing Agile principles or values. While it mentions Scrum values and the importance of discipline in adhering to Agile practices, the discussion lacks depth on the core Agile principles and does not reference the Agile Manifesto or its twelve principles directly.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -454,11 +466,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:11:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile transformation, which touches on thematic elements of organisational culture, although it primarily focuses on personal attributes and behaviors rather than cultural dynamics within organizations.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile transformation, which relates to organisational culture. It highlights how motivation can drive Agile initiatives and how discipline ensures adherence to Agile practices, reflecting on cultural elements that influence team dynamics. However, the focus is more on individual attributes rather than a broader cultural analysis, which slightly limits the depth of discussion on organisational culture itself.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -499,11 +514,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:12:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the relationship between discipline and motivation in the context of Agile transformation, emphasizing their roles in the adoption of Scrum principles.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the importance of motivation and discipline in the context of Agile transformation, making direct references to Scrum principles and the Agile journey. It aligns well with the core themes of Agile transformation, particularly in how motivation initiates the process and discipline sustains it. The depth of discussion is substantial, as it explores the interplay between these two concepts and their relevance to Agile practices. However, while it is focused on Agile transformation, it does not delve deeply into specific frameworks or methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -526,21 +544,27 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses commitment, courage, focus, openness, and respect in relation to discipline in an Agile context, making Scrum values a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the relationship between discipline and motivation in the context of Agile and Scrum, explicitly mentioning Scrum values such as commitment, courage, focus, openness, and respect. However, the primary focus is on the debate between discipline and motivation rather than a thorough exploration of Scrum values themselves. While it aligns with the core themes of Scrum values, the depth of discussion on each value is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile transformation, emphasizing the interplay of motivation and discipline, which are relevant to fostering a culture of adaptability and continuous improvement in organizations. However, it focuses primarily on the concepts of discipline and motivation rather than directly on organizational resilience or change management practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile transformation, which indirectly relates to organisational resilience and adaptability. However, it lacks a direct focus on resilience strategies or change management practices. The discussion is primarily centred on personal and team dynamics rather than organisational frameworks or methodologies for resilience and change.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -571,11 +595,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal reflections on the relationship between discipline and motivation in the context of Agile transformation, indicating a personal viewpoint, but it also contains a significant amount of general discussion regarding Agile and Scrum principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses personal reflections on the interplay between discipline and motivation in the context of Agile transformations. It provides insights into the author's perspective on how these concepts impact Agile practices, which aligns with the Personal category. However, while it includes personal anecdotes, the discussion is somewhat general and leans towards a theoretical analysis of Agile principles rather than deeply personal experiences or challenges faced in Agile implementations.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -673,20 +700,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:11:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile transformation, particularly the roles of motivation and discipline, which are relevant to navigating change in Agile environments. However, it primarily focuses on these concepts rather than broader change management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile transformation, which is related to change management. However, it does not explicitly focus on change management strategies or practices, making it a secondary topic rather than a primary focus. The discussion touches on the importance of motivation and discipline in Agile environments, but lacks depth in exploring change management principles, stakeholder engagement, or leadership roles in transformation.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses motivation and discipline in the context of Agile and Scrum, which are relevant to team dynamics and collaboration, but does not primarily focus on team collaboration techniques or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile and Scrum, which indirectly relates to team dynamics and collaboration. However, it primarily focuses on individual attributes rather than explicit team collaboration techniques or shared ownership. The discussion lacks depth in exploring how these concepts impact team communication or trust, which are key themes in the Team Collaboration category.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -745,11 +778,14 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses motivation as a key driver in Agile transformation, which is related to employee engagement but primarily focuses on Agile methodology rather than broad employee engagement strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses motivation, which is a key aspect of employee engagement, but it primarily focuses on the context of Agile and Scrum rather than broader employee engagement strategies. While it touches on the importance of motivation and discipline in team dynamics, it lacks a comprehensive exploration of employee engagement practices, such as recognition, feedback, and creating a supportive work environment.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -904,12 +940,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the concepts of motivation and discipline in the context of Agile and Scrum, which relates to coaching but is more focused on the debate rather than specifically on coaching practices.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the concepts of motivation and discipline in the context of Agile and Scrum, which are relevant to coaching practices. However, it primarily focuses on the debate between these two concepts rather than providing in-depth coaching techniques or strategies. While it mentions Agile coaching and the importance of a motivated and disciplined team, it lacks detailed exploration of coaching methodologies or frameworks, which limits its alignment with the core themes of the Coaching category.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -958,12 +997,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the relationship between discipline and motivation in the context of Agile transformation, touching on Scrum principles, but does not primarily focus on Agile Product Management topics.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of motivation and discipline in the context of Agile and Scrum, which are relevant to Agile Product Management. However, it does not delve deeply into specific product management practices or methodologies, focusing instead on the broader concepts of motivation and discipline. While it mentions Scrum values and the Agile transformation journey, it lacks detailed discussions on product backlog prioritisation, stakeholder engagement, or customer feedback integration, which are key topics in Agile Product Management.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1030,12 +1072,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of discipline and motivation within the context of Agile and Scrum but does not extensively focus on practical, experience-based problem-solving techniques in complex environments.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile and Scrum, which aligns with pragmatic thinking by emphasising practical problem-solving strategies. It highlights the importance of both concepts in successfully navigating Agile transformations, demonstrating a real-world application of Agile principles. However, while it touches on relevant themes, the depth of discussion on specific pragmatic techniques and case studies is somewhat limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1084,11 +1129,14 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses motivation, which is a key theme in Organisational Psychology, but primarily focuses on Agile and Scrum practices, which are not central to the category.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concepts of motivation and discipline, which are relevant to organisational psychology, particularly in the context of Agile transformation. However, the primary focus is on Agile methodologies rather than a deep exploration of psychological principles. While it touches on motivation as a driving force and discipline as a necessary component for success, it does not delve into broader psychological theories or their implications for organisational behaviour. The discussion is somewhat superficial regarding the psychological aspects, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1102,12 +1150,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the concepts of discipline and motivation within the context of Agile and Scrum methodologies. While the primary focus is on the motivational aspects, it relates significantly to Agile practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation within the context of Agile and Scrum, which are key methodologies in software development. It explicitly mentions Agile transformation and Scrum principles, indicating a strong focus on software development practices. The depth of discussion is substantial, as it explores how both concepts contribute to successful Agile adoption, aligning well with the core themes of the Software Development category.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1156,11 +1207,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:11:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum principles, which are relevant to software development, but primarily focuses on the philosophical debate of discipline versus motivation rather than practical applications for software developers.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of discipline and motivation in the context of Agile and Scrum, which are relevant to software developers. It highlights how these concepts impact Agile transformation and team dynamics, aligning with the category's focus. However, it lacks specific technical discussions or best practices directly related to software development, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1258,11 +1312,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T00:12:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile transformation, emphasizing the significance of motivation in engaging teams and driving them towards common goals, which aligns with themes of team dynamics and motivation.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the interplay between motivation and discipline in the context of Agile transformation, highlighting how motivation drives team engagement and the importance of maintaining discipline within Scrum practices. It aligns well with the core themes of team motivation, particularly in fostering engagement and collaboration. However, while it touches on these aspects, it does not delve deeply into specific strategies or practices for enhancing team dynamics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1330,20 +1387,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches upon Scrum principles and highlights the importance of discipline and motivation in Agile and Scrum environments, but it primarily focuses on the general concepts of motivation and discipline rather than specific Scrum practices or product development processes.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of discipline and motivation in the context of Agile and Scrum, touching on Scrum values and principles. However, it does not delve deeply into specific Scrum practices or product development processes, making it more of a general discussion on Agile rather than a focused examination of Scrum Product Development.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:11:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of motivation and discipline in the context of Agile transformation, which relates to organisational change, but is primarily focused on Agile principles rather than broader organisational change strategies or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile transformation, which is relevant to organisational change. However, it primarily focuses on Agile and Scrum practices rather than the broader strategies and methodologies of organisational change. While it touches on the importance of motivation and discipline in the Agile process, it lacks detailed exploration of frameworks or leadership roles in driving change, which are key aspects of the category. Therefore, while there is some alignment, the depth and direct mentions are limited.",
     "level": "Tertiary"
   },
   "Definition of Done": {
@@ -1357,12 +1420,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile transformation and Scrum principles, highlighting their importance in successful Agile adoption.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile transformation, which aligns with Agile principles. However, it lacks a direct focus on strategic planning or implementation at scale, which are key aspects of Agile Strategy. The discussion is more about personal perspectives on Agile practices rather than a comprehensive strategy, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1384,12 +1450,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:12:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the balance between discipline and motivation in the context of Agile transformation, which is relevant to organisational agility as it aligns with the cultural shifts necessary for successful Agile practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile transformation, which aligns with the principles of organisational agility. It highlights the importance of motivation as a catalyst for change and discipline as a sustaining force, reflecting on how these elements contribute to successful Agile practices. However, while it touches on Agile methodologies, it does not delve deeply into specific strategies or frameworks that enhance organisational agility, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1429,7 +1498,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:24:05",
+    "calculated_at": "2025-03-15T00:11:51",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1437,6 +1506,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, or events. While it touches on concepts of motivation and discipline, which can be relevant to team dynamics in a Scrum context, it lacks direct references to Scrum practices or frameworks. The discussion is too general and does not provide sufficient depth or alignment with Scrum-specific themes.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

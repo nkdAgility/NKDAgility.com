@@ -43,12 +43,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 7,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses practices such as Continuous Delivery, Refactoring, and Test Driven Development, which relate to code quality and complexity management. However, the primary focus is on Scrum methodology rather than a deep exploration of code complexity.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which is more focused on project management and Agile methodologies rather than the interplay between code quality and complexity. While it touches on concepts like Continuous Delivery, Refactoring, and Test Driven Development, these are presented in the context of Scrum rather than as a deep exploration of code complexity or quality principles. The discussion lacks a thorough examination of complexity theory or its application to software architecture and design, which are key themes of the 'Code and Complexity' category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -70,12 +73,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to flow and Kanban, which are relevant to Lean methodologies, but the primary focus is on Scrum practices rather than Lean principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, with only brief mentions of Lean concepts such as Kanban. While it touches on continuous delivery and efficiency, it does not delve deeply into Lean principles or methodologies, making Lean a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -106,12 +112,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the flow of work across Sprint boundaries, which touches on team dynamics and organisational processes. However, it primarily focuses on technical practices rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and methodologies, focusing on workflow across Sprint boundaries and Continuous Delivery. While it touches on team dynamics and the importance of maintaining transparency, it lacks a comprehensive exploration of the interplay between social and technical systems within an organisational context. The discussion is more technical than sociotechnical, with limited emphasis on organisational culture or structure.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -124,7 +133,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T18:28:54",
+    "calculated_at": "2025-03-15T03:33:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -132,7 +141,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which are more aligned with Agile methodologies than with DevOps principles. While Continuous Delivery (CD) is mentioned, it is not the main focus, and the discussion lacks depth on DevOps practices, tools, or cultural shifts. The content does not sufficiently address the integration of development and operations teams or the broader DevOps framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -235,12 +244,12 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T09:08:40",
+    "calculated_at": "2025-03-15T03:33:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses Scrum practices and the flow of work across Sprint boundaries, but it primarily focuses on Scrum methodology rather than complexity science or its principles. While it touches on aspects of uncertainty and adaptability, these are not the central themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -283,12 +292,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the flow of work across Sprint boundaries in Scrum and references the 'Kanban Guide for Scrum Teams' and a training class, indicating a secondary theme related to products and resources that support Agile practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the flow of work across Sprint boundaries in Scrum, referencing the Scrum Guide and suggesting resources like the Kanban Guide for Scrum Teams and Professional Scrum with Kanban classes. While it does mention specific resources, the primary focus is on Scrum practices rather than a detailed review or analysis of products or books. The depth of discussion on the topic of flow and Scrum practices is substantial, but it lacks a comprehensive exploration of the resources mentioned, which affects the overall alignment with the 'Products and Books' category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -397,11 +409,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engineering practices such as Continuous Delivery, Refactoring, and Test Driven Development, which are relevant to software craftsmanship. However, the primary focus is on Scrum roles and processes, making Technical Mastery a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which is more aligned with project management and Agile methodologies rather than the core principles of software craftsmanship and technical excellence. While it touches on concepts like Continuous Delivery and Refactoring, these are secondary to the main focus on Scrum processes. The depth of technical discussion is limited, focusing more on procedural aspects than on best practices in software design or architecture.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -472,12 +487,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between the Sprint Review and the Product Backlog, as well as the implications of flowing work across Sprints, which are relevant to backlog management. However, the primary focus is on Scrum practices and workflow rather than the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the flow of work across Sprint boundaries and its implications for Scrum practices, including references to the Product Backlog during Sprint Planning and Review. However, the primary focus is on workflow and Continuous Delivery rather than on the Product Backlog itself. While it touches on backlog management, it does not provide in-depth discussion or techniques specific to backlog refinement or prioritisation, which are key aspects of the category.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -523,11 +541,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T18:43:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum roles, the importance of the Sprint Goal, and how work can flow across Sprint boundaries, which are central to Scrum Team dynamics.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the dynamics of Scrum Teams, particularly focusing on the roles of the Development Team and the importance of maintaining the Sprint Goal while allowing work to flow across Sprint boundaries. It touches on key Scrum events like Sprint Planning and Sprint Review, and highlights the need for transparency and empirical process control, which are essential for effective team collaboration. However, while it provides valuable insights into Scrum practices, it also references Kanban, which slightly detracts from its primary focus on Scrum Team dynamics.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -559,11 +580,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-14T18:43:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum practices and the concept of allowing work to flow across Sprint boundaries, which are central to Agile methodologies. It also touches on Continuous Delivery and its relationship with Scrum, indicating a focus on Agile transformation principles.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses Scrum practices, particularly the concept of allowing work to flow across Sprint boundaries, which is a nuanced aspect of Agile transformation. It directly references Scrum principles and methodologies, aligning well with Agile transformation themes. However, while it provides substantial detail on Scrum and related practices, it does not extensively cover broader change management strategies or leadership roles in Agile transformation, which slightly limits its depth in the context of the category.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -586,21 +610,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T18:43:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the flow of work across Sprint boundaries and its implications for team dynamics, Scrum practices, and Continuous Delivery, which are central to enhancing team performance and collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the flow of work across Sprint boundaries, which directly relates to team performance and the effectiveness of Scrum practices. It mentions the importance of maintaining the Sprint Goal and creating a Done Increment, which are crucial for team dynamics and productivity. The depth of discussion includes various practices like Continuous Delivery, Feature Flags, and Test Driven Development, all of which contribute to enhancing team performance. However, while the content is rich in detail, it primarily focuses on technical aspects rather than broader team dynamics or collaboration strategies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-14T18:43:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the concept of Increment in the context of Scrum, emphasising the importance of delivering working software and maintaining transparency. It also addresses the relationship between Increments and Scrum events, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the concept of Increment within the context of Scrum, highlighting its importance in delivering working software and maintaining transparency. It directly mentions the need for a 'Done Increment' and how it relates to the Sprint Goal and empirical process control. The depth of discussion includes various practices that support Continuous Delivery and the significance of the Increment in Scrum events like Sprint Review and Sprint Planning. Overall, the content aligns well with the key topics of the Increment category.",
+    "level": "Primary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -613,21 +643,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T18:43:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:28",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum practices, Continuous Delivery, and related methodologies, which are central to software development processes.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses Scrum practices, including the flow of work across Sprint boundaries, Continuous Delivery, and the importance of maintaining a Definition of Done. It aligns closely with key topics in software development, particularly Agile methodologies and practices. The depth of discussion is significant, providing detailed insights into Scrum roles, events, and engineering considerations, which are central to effective software development.",
+    "level": "Primary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T18:43:27",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T03:33:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and the concept of work flowing across Sprint boundaries, which are central to Agile Project Management.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses Scrum principles, including the flow of work across Sprint boundaries, the importance of the Sprint Goal, and the role of the Definition of Done. It aligns well with Agile Project Management by emphasising iterative development, transparency, and empirical process control. The depth of discussion on Scrum roles and practices, as well as references to Kanban, further solidifies its relevance to the category.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -640,11 +676,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T18:43:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum principles, particularly the flow of work across Sprint boundaries, and how it relates to Scrum roles, events, and the importance of maintaining the Sprint Goal.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the Scrum framework, particularly the flow of work across Sprint boundaries, which is a nuanced aspect of Scrum practice. It references key Scrum events and roles, such as the Sprint Review and Sprint Goal, and emphasises the importance of maintaining a Done Increment. The discussion is grounded in the Scrum Guide and addresses empirical process control, aligning well with the core themes of Professional Scrum. The depth of the content is significant, providing detailed insights into how Scrum can be adapted while still adhering to its principles.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -658,12 +697,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T18:43:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the principles of Scrum and how they relate to empirical process control, particularly in the context of maintaining transparency and adapting workflows across Sprint boundaries.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the principles of empirical process control within the context of Scrum, particularly emphasising the importance of transparency, the role of the Sprint Goal, and the necessity of delivering a Done Increment. It provides detailed insights into how allowing work to flow across Sprint boundaries can still align with Scrum practices, thereby reinforcing the core themes of empirical process control. The depth of discussion includes practical techniques and considerations for maintaining flow and adapting to changing circumstances, which are central to the category. Overall, the content is highly relevant and aligns well with the principles of empirical process control.",
+    "level": "Primary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -814,11 +856,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T18:44:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for managing workflow across Sprint boundaries in Scrum, emphasising real-world applications of Agile principles and the importance of adaptability in project management.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for managing workflow across Sprint boundaries, emphasising real-world applications of Scrum principles. It provides detailed insights into how teams can adapt their processes to enhance efficiency and maintain transparency, aligning well with the core themes of Pragmatic Thinking. The depth of discussion on techniques like Continuous Delivery, Feature Flags, and Test Driven Development further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -841,12 +886,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T18:44:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses Scrum principles, roles, and practices related to managing work across Sprint boundaries, which is central to Scrum product development.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly the flow of work across Sprint boundaries, which is a nuanced aspect of Scrum product development. It addresses key Scrum roles, the importance of the Sprint Goal, and the necessity of delivering a Done Increment, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into practices like Continuous Delivery, Feature Flags, and Test Driven Development, all of which are relevant to enhancing product development within a Scrum framework.",
+    "level": "Primary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -877,12 +925,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Continuous Delivery (CD) and mentions Test Driven Development (TDD) as part of practices that support automation, making test automation a significant theme, but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, with only a brief mention of Test Driven Development (TDD) as a complementary practice. The focus is not on test automation principles, frameworks, or best practices, which are essential for the Test Automation category.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -895,11 +946,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T18:44:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of working software within the context of Scrum, including the importance of delivering increments of working software, maintaining transparency, and the implications of allowing work to flow across Sprint boundaries.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of working software within the context of Scrum, emphasising the importance of delivering a 'Done Increment' at the end of each Sprint. It aligns well with the core themes of the category, such as the necessity of maintaining transparency and the role of Continuous Delivery in achieving working software. The depth of discussion is significant, covering various practices that support the delivery of functional software, including Feature Flags, Refactoring, and Test Driven Development. Overall, the content is highly relevant and provides a comprehensive view of working software in Agile frameworks.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -1210,21 +1264,27 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, particularly around the flow of work across Sprint boundaries, which is relevant to the Scrum Master role. However, it primarily focuses on technical aspects and methodologies rather than the responsibilities and coaching aspects of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Scrum framework and the role of the Scrum Master in facilitating Scrum processes, particularly regarding the flow of work across Sprint boundaries. It touches on key Scrum events like Sprint Planning and Sprint Review, which are relevant to the Scrum Master’s responsibilities. However, the focus is more on technical practices and Continuous Delivery rather than on the Scrum Master’s role in coaching or team dynamics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-14T18:45:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the importance of maintaining transparency in Scrum processes, particularly regarding the Definition of Done and the flow of work across Sprint boundaries. It emphasises the need for clear communication and visibility of work to uphold trust and accountability within the team.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the importance of maintaining transparency within the Scrum framework, particularly in relation to the Definition of Done and the flow of work across Sprint boundaries. It highlights how transparency is essential for empirical process control and trust-building within teams. The depth of discussion includes practical techniques and considerations for achieving transparency, such as Continuous Delivery and the role of the Sprint Review. Overall, the content aligns closely with the core themes of transparency in Agile methodologies.",
+    "level": "Primary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1237,11 +1297,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T18:45:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum practices, Continuous Delivery, and the role of development teams in Agile methodologies, which are central to the role of software developers.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of software developers within the Scrum framework, particularly focusing on how they can manage workflow across Sprint boundaries. It directly mentions practices such as Continuous Delivery (CD), Test-Driven Development (TDD), and the importance of maintaining a Definition of Done, which are all relevant to the Software Developers category. The depth of discussion is significant, providing detailed insights into Scrum events and engineering practices that enhance developer productivity and collaboration. Overall, the content aligns well with the key topics outlined for the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1255,11 +1318,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-14T18:45:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses various engineering practices such as Continuous Delivery, Refactoring, and Test-Driven Development (TDD) within the context of Scrum, making it a primary topic.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various engineering practices such as Continuous Delivery (CD), Refactoring, and Test-Driven Development (TDD), which are core to the Engineering Practices category. However, the primary focus is on Scrum and its application rather than a deep exploration of engineering methodologies. While it mentions key practices, the depth of discussion on these practices is somewhat limited, and the content is more centred on Scrum principles than on engineering practices themselves.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1273,16 +1339,19 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-14T18:45:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:53",
+    "ai_confidence": 75.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Sprint Review process, including the importance of presenting completed work, gathering feedback, and updating the Product Backlog based on the Increment. It also addresses the relationship between the Sprint Review and the concept of flow across Sprints, making it a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Sprint Review in the context of inspecting the increment and updating the product backlog, which aligns with the core themes of the category. However, the primary focus is on the concept of work flowing across Sprint boundaries and Continuous Delivery, which detracts from a deeper exploration of the Sprint Review itself. While it mentions the purpose of the Sprint Review and its relation to transparency and empirical process control, the overall emphasis is more on workflow and practices rather than a thorough examination of the Sprint Review process.",
     "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:30:29",
+    "calculated_at": "2025-03-15T03:33:13",
     "ai_confidence": 42.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1290,33 +1359,42 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily discusses Scrum practices and methodologies, which are relevant to product management but focuses heavily on technical implementation details rather than strategic alignment of customer needs and business objectives. While it touches on aspects like Sprint Goals and the importance of transparency, it lacks a broader discussion on product management frameworks and decision-making processes that drive product success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum and Continuous Delivery that relate to team autonomy and the ability to manage work across Sprint boundaries, which are relevant to self-organisation. However, the primary focus is on Scrum practices rather than self-organisation principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the flow of work across Sprint boundaries, which touches on self-organisation principles by suggesting that teams can manage their workflow autonomously. However, it primarily focuses on Scrum practices and techniques rather than deeply exploring self-organisation as a core theme. While it mentions the importance of team autonomy and the role of the Sprint Goal, the overall discussion is more about Scrum mechanics than fostering a culture of self-organisation.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T18:45:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum principles and practices, particularly the concept of allowing work to flow across Sprint boundaries, which is a central theme in Agile frameworks. It also references Kanban in relation to Scrum, indicating a comparative analysis of Agile frameworks.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Scrum, a key Agile framework, and explores the concept of allowing work to flow across Sprint boundaries, which is a nuanced aspect of Scrum practice. It provides detailed insights into Scrum roles, events, and the importance of maintaining a Definition of Done, which aligns well with the principles of Agile frameworks. Additionally, it references Kanban as a complementary practice, further reinforcing its focus on Agile methodologies. The depth of discussion is significant, covering various aspects of Scrum and its implementation, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the flow of work across Sprint boundaries and its implications for Scrum practices, which relates to Agile methodologies. However, it primarily focuses on technical practices rather than strategic alignment or broader Agile strategy discussions.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Scrum practices and technical aspects of workflow management, particularly around the concept of allowing work to flow across Sprint boundaries. While it touches on Agile principles, such as the importance of the Sprint Goal and the Definition of Done, it lacks a strong focus on strategic alignment or broader Agile strategy discussions. The depth of discussion is more technical than strategic, which diminishes its relevance to the Agile Strategy category.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -1330,12 +1408,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum that relate to planning and managing work across Sprints, which includes elements of forecasting, but the primary focus is on workflow and Scrum practices rather than specific forecasting methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum practices and the flow of work across Sprint boundaries, which indirectly relates to forecasting in terms of planning and managing work. However, it lacks a direct focus on forecasting methodologies or empirical data usage for predicting delivery timelines. The mention of Sprint Planning and the need for a forecast indicates some relevance, but the overall discussion is more about Scrum practices than forecasting itself.",
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -1366,30 +1447,39 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban principles within the Scrum framework, particularly regarding the flow of work across Sprint boundaries. While it touches on Kanban, the primary focus remains on Scrum practices, making Kanban a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and how work can flow across Sprint boundaries, which is not a direct focus on Scaling Kanban. While it mentions Kanban in the context of Scrum, the discussion does not delve into the principles of Kanban at scale, nor does it explore the application of Kanban in large organisations. The references to Kanban are secondary and serve more as a supplementary tool within the Scrum framework rather than a primary focus on scaling Kanban practices.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-14T18:45:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:33:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the concept of allowing work to flow across Sprint boundaries, which directly relates to improving throughput in Scrum. It emphasises the importance of maintaining flow and reducing batch sizes to enhance team performance and delivery timelines.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the concept of allowing work to flow across Sprint boundaries, which relates to throughput by suggesting that this practice can improve the value delivered by increasing team throughput. However, while it touches on throughput, the primary focus is on Scrum practices and roles rather than a detailed exploration of throughput metrics or optimisation strategies. The mention of Continuous Delivery and its relationship to throughput adds some depth, but the overall discussion is more about Scrum than throughput itself.",
     "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:34:10",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Test Driven Development (TDD) as part of a broader discussion on Continuous Delivery and Scrum practices, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Test Driven Development (TDD) as part of a broader discussion on Continuous Delivery and Scrum practices. While TDD is acknowledged as a complementary practice, it is not the primary focus of the content, which centres around Scrum roles, workflow, and the importance of maintaining a Definition of Done. The mention of TDD lacks depth and does not explore its principles or practices in detail, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

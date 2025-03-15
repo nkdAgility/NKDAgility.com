@@ -27,9 +27,10 @@ duration: 287
 isShort: false
 tags:
 - Pragmatic Thinking
+- Continuous Learning
+- Discovery and Learning
 - People and Process
-- Agile Project Management
-- Software Development
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

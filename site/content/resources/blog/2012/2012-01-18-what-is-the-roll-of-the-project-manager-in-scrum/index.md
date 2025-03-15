@@ -29,14 +29,8 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Software Development
-- Scrum Product Development
 - People and Process
 - Scrum Team
-- Agile Frameworks
-- Agile Product Management
-- Professional Scrum
-- Agile Transformation
-- Transparency
 categories:
 - Scrum
 - Social Technologies

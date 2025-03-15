@@ -28,13 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Agile Project Management
 - Accountability
-- Product Owner
-- Agile Product Management
+- Scrum Product Development
 - Scrum Team
 - Transparency and Accountability
-- Personal
+- Product Owner
+- Software Development
 resourceTypes:
 - video
 categories:

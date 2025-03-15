@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical processes related to SharePoint migration and consolidation, including installation steps and PowerShell scripts, which are relevant to engineering practices. However, the primary focus is on specific tasks rather than broader engineering methodologies or principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in migrating and consolidating SharePoint environments, which aligns with technical practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility and quality in software development. While it provides detailed instructions and technical insights, it does not explicitly address concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -241,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:49:25",
+    "calculated_at": "2025-03-15T05:08:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -249,7 +252,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, which is more aligned with implementation details rather than the broader methodologies and practices of product delivery. While it does touch on aspects of deployment and environment setup, it lacks a comprehensive discussion on planning, iterative development, or cross-functional team collaboration, which are key themes in product delivery. The depth of technical detail is significant, but it does not contribute to a holistic understanding of delivering software products effectively.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -490,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical steps for consolidating and upgrading SharePoint, which aligns with operational practices and improving processes in a technical context, though it does focus more on troubleshooting specific migration tasks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in migrating and consolidating SharePoint environments, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While there are mentions of processes and steps that could relate to operational efficiency, the discussion lacks a clear focus on methodologies or strategies that streamline operations or improve performance in an organisational context.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1039,12 +1045,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical processes and challenges involved in upgrading and consolidating SharePoint, which relates to digital transformation in terms of integrating modern digital technologies for improved operational efficiency. However, it primarily focuses on specific technical steps rather than a broader strategic discussion on digital transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint and Team Foundation Server, which are specific tasks rather than a broader discussion on digital transformation strategies or their impact on business agility and innovation. While it does touch on the use of digital tools (SharePoint and TFS), it lacks a strategic perspective on how these technologies enhance business processes or culture, which is essential for a higher confidence score in the Digital Transformation category.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1123,11 +1132,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the installation and configuration of SharePoint Server 2013 on Windows Server 2012, making Windows a major but secondary theme. However, the primary focus is on SharePoint and its migration, not specifically on Windows itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the installation and configuration of SharePoint Server 2013 on Windows Server 2012, which aligns with the Windows category. However, the primary focus is on SharePoint and Team Foundation Server migrations rather than Windows itself. While there are mentions of Windows Server and some related PowerShell commands, the overall discussion is more centred on SharePoint processes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {

@@ -24,16 +24,16 @@ aliasesArchive:
 - /product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
-- Discovery and Learning
-- Value Delivery
-- Business Agility
-- Organisational Agility
-- Agile Product Management
 - Experimentation
-- Resilience and Change
-- Market Adaptability
-- Agile Product Operating Model
-- Agile Project Management
+- Discovery and Learning
+- Evidence Based Leadership
+- Value Delivery
+- Agile Strategy
+- Business Agility
+- Decision Making
+- Organisational Agility
+- Hypothesis Driven Development
+- Pragmatic Thinking
 categories:
 - Product Management
 - Leadership

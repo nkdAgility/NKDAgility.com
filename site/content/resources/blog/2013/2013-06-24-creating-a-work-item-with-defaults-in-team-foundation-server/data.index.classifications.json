@@ -1,7 +1,7 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T14:59:21",
+    "calculated_at": "2025-03-15T05:08:50",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content briefly mentions creating a Product Backlog Item (PBI) in Team Foundation Server, which is related to Agile practices. However, it lacks a comprehensive discussion on Agile Product Management principles, such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. The focus is primarily on technical implementation rather than strategic alignment or customer value maximisation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -244,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T18:01:08",
+    "calculated_at": "2025-03-15T05:08:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -252,7 +252,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is related to product delivery in terms of managing backlog items. However, it lacks a comprehensive discussion on methodologies, practices, or strategies that are central to the product delivery category. The focus is more on technical implementation rather than the broader aspects of delivering software products effectively.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -358,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which relates to the application lifecycle, but primarily focuses on a specific implementation detail rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server (TFS) and does not explicitly discuss the broader aspects of Application Lifecycle Management (ALM). While it touches on aspects of application management, such as customisation and user guidance, it lacks a comprehensive exploration of the application lifecycle stages, governance, or integration of methodologies like Agile or DevOps. The discussion is more technical and specific to TFS rather than addressing the overarching principles of ALM.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -385,12 +388,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses creating work items with defaults in Team Foundation Server, which involves technical aspects of using TFS, the primary focus seems to be on the practical application of these features rather than broader principles of software craftsmanship and engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, which is more about practical implementation than discussing broader principles of software craftsmanship or engineering excellence. While it touches on customisation and user guidance, it lacks a deep exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The discussion is more procedural and lacks the depth required for a strong alignment with the Technical Mastery category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -457,12 +463,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses creating a Product Backlog Item in Team Foundation Server, which relates to backlog management, but the main focus is on technical implementation rather than on Product Backlog concepts or practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions creating a Product Backlog Item (PBI) and discusses a method for pre-populating fields in a work item. However, it lacks a comprehensive discussion on the Product Backlog's purpose, management, or best practices. The focus is more on technical implementation rather than the strategic aspects of backlog management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -493,12 +502,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical implementation methods for creating work items in Team Foundation Server, which aligns with operational efficiency but is primarily focused on a specific feature rather than broader operational practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses creating a Work Item with defaults in Team Foundation Server, which relates to operational practices in terms of streamlining the process of work item creation. However, it lacks a broader discussion on operational efficiency, continuous improvement, or metrics, which are key aspects of the category. The focus is more on a specific implementation rather than a comprehensive exploration of operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -604,12 +616,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses creating Product Backlog Items in Team Foundation Server, which is relevant to Agile Project Management, but is primarily focused on technical implementation rather than core Agile principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is related to managing project tasks but lacks a direct focus on Agile principles or methodologies. While it mentions 'Product Backlog Item', it does not delve into Agile frameworks, roles, or iterative processes, resulting in a low confidence score for alignment with Agile Project Management.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -796,11 +811,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical methods for creating work items in Team Foundation Server and customizing them, which aligns with pragmatic approaches to problem-solving in development environments.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses practical strategies for creating Work Items in Team Foundation Server, which aligns with pragmatic problem-solving in Agile contexts. It provides a real-world application of TFS features, demonstrating adaptability and efficiency in project management. However, while it touches on relevant themes, the depth of discussion is somewhat limited, focusing primarily on technical implementation rather than broader Agile principles.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -823,12 +841,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses creating Product Backlog Items (PBIs) in Team Foundation Server, which is relevant to Scrum and product development, but the focus is more on a technical implementation rather than the Scrum framework itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions creating a Product Backlog Item (PBI) in Team Foundation Server, which is relevant to Scrum. However, it lacks a comprehensive discussion on Scrum principles, roles, or iterative development processes. The focus is more on technical implementation rather than the broader Scrum framework or product development methodologies.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -877,21 +898,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:08:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which relates to software functionalities and development processes. However, the main focus is on technical implementation rather than broader themes of working software or Agile principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which relates to the operational aspect of software development. However, it lacks a direct focus on the broader themes of working software, such as customer feedback, iterative development, or quality assurance. While it provides some practical guidance on using TFS to create work items, it does not delve deeply into how this contributes to delivering functional software that meets user needs.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses creating work items in Team Foundation Server, which can be related to backlog management in Agile planning, but it does not sufficiently focus on Agile Planning Tools as a central topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating a Work Item in Team Foundation Server (TFS), which is a tool that can be used in Agile planning. However, the focus is primarily on the technical implementation of creating templates and defaults rather than on broader Agile planning methodologies or tools. While it touches on backlog items, it lacks a comprehensive exploration of Agile planning tools, techniques, or strategies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -976,7 +1003,7 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-11T16:49:31",
+    "calculated_at": "2025-03-15T05:08:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -984,7 +1011,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, which is a technical implementation detail rather than a discussion on the responsibilities or practices of a Product Owner. While it mentions 'Product Backlog Item', it does not delve into the Product Owner's role, backlog management techniques, or stakeholder engagement, which are central to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1222,7 +1249,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T11:54:20",
+    "calculated_at": "2025-03-15T05:08:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1257,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily focused on a specific technical implementation rather than broader themes of collaboration, productivity, or best practices in software development. While it touches on customisation and user guidance, it does not delve into the core principles or practices that define the role of software developers in Agile and DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1414,7 +1441,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:40:26",
+    "calculated_at": "2025-03-15T05:08:50",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1422,6 +1449,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions 'Product Backlog Item', which is a Scrum artifact, but does not discuss Scrum principles, roles, or events in any meaningful way. The focus is primarily on creating work items in Team Foundation Server, which is more related to project management tools than to Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

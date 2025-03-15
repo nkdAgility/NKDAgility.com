@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/microsoft-does-indeed-listen
 - /microsoft-does-indeed-listen
 - /resources/blog/microsoft-does-indeed-listen
-tags:
-- News and Reviews
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

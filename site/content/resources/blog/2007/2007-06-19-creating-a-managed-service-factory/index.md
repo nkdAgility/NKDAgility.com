@@ -24,9 +24,7 @@ aliasesArchive:
 - /resources/blog/creating-a-managed-service-factory
 tags:
 - Software Development
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-merilllynch-128-link-3-3.png
 
 ---

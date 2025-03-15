@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/sharepoint-solutions-rant
 - /sharepoint-solutions-rant
 - /resources/blog/sharepoint-solutions-rant
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-sharepoint-128-link-2-1.png
 

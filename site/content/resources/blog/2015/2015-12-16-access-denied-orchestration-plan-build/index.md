@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/access-denied-for-orchestration-plan-on-build
 - /resources/blog/access-denied-orchestration-plan-build
 tags:
-- Troubleshooting
 - Install and Configuration
+- Windows
 - Software Development
 - Azure DevOps
-- Windows
-- Practical Techniques and Tooling
-- Pragmatic Thinking
-- System Configuration
 - Azure Pipelines
+- Troubleshooting
+- System Configuration
+- Practical Techniques and Tooling
 - Azure Repos
+- Pragmatic Thinking
 categories:
 - DevOps
 - Engineering Excellence

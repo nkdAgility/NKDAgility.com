@@ -29,8 +29,7 @@ aliasesArchive:
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
 categories: []
-tags:
-- Miscellaneous
+tags: []
 
 ---
 what-would-you-like-to-see-

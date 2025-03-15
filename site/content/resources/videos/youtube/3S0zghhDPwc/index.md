@@ -28,9 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Definition of Done
+- Software Development
+- Agile Values and Principles
+- Product Delivery
+- Agile Transformation
+- Operational Practices
 - Agile Product Management
 - Agile Frameworks
-- People and Process
+- Agile Strategy
 resourceTypes:
 - video
 layout: video

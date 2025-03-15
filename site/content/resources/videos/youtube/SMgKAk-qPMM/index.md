@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Planning
+- Operational Practices
 - Agile Project Management
 - Agile Philosophy
 - People and Process
 - Software Development
 - Agile Values and Principles
+- Value Delivery
 - Agile Frameworks
 - Agile Transformation
-- Software Developers
-- Agile Product Management
 resourceTypes:
 - video
 categories:

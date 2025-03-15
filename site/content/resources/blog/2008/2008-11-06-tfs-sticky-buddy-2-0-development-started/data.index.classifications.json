@@ -37,7 +37,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T12:10:42",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -45,7 +45,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which aligns with modular architecture, a key topic under Technical Excellence. However, the discussion lacks depth and does not explicitly address broader engineering practices or methodologies that enhance agility in software development. The focus is primarily on the development of a specific application rather than a comprehensive exploration of technical excellence principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -148,7 +148,7 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T18:14:46",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -156,7 +156,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content mentions the release of installation files and describes the application as a ClickOnce application, which implies some level of installation process. However, it lacks detailed step-by-step instructions or configuration best practices, and the primary focus is on development updates rather than installation and configuration guidance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -178,12 +178,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:27:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of Composite Application blocks for WPF, which relates to modular design, a key aspect of managing complexity in software development. However, the primary focus is on the development process and updates rather than a deep exploration of code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which relates to modular design, a key aspect of managing complexity in codebases. However, it lacks a detailed discussion on code quality principles or the impact of complexity on software architecture. The focus is primarily on the development process and updates rather than a thorough exploration of the interplay between code quality and complexity.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -304,12 +307,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:27:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions ALM and discusses aspects of application development and updates, but it primarily focuses on the development of a specific application rather than the broader principles of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on the development of a specific application and its features, lacking depth in lifecycle management concepts such as governance, deployment, or maintenance.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -367,7 +373,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-10T15:09:36",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -375,7 +381,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions the release of a new version (v2.0 CTP) and discusses the use of ClickOnce for updates, which relates to release management. However, it lacks detailed discussion on planning, scheduling, or coordination aspects of release management. The focus is more on development and features rather than the broader strategies and practices of release management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -397,7 +403,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T15:13:58",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -405,7 +411,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions the release of a new version (v2.0 CTP) and discusses the use of ClickOnce for automatic updates, which aligns with the principles of frequent releases. However, the focus is more on the development process and specific features rather than a comprehensive discussion on continuous delivery or deployment practices. The depth of discussion on strategies or metrics for frequent releases is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -445,7 +451,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:56:10",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -453,7 +459,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which aligns with software design principles. However, it lacks a detailed discussion on best practices, methodologies, or principles of software craftsmanship, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -646,7 +652,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:49:17",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -654,7 +660,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which relates to software craftsmanship, but lacks a detailed discussion on best practices or continuous improvement. The focus is more on the development process and features rather than on engineering excellence principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -676,7 +682,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T13:11:59",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -684,7 +690,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the development of a specific application (TFS Sticky Buddy 2.0) and mentions technical aspects like implementing Composite Application blocks for WPF. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or broader software development practices. While there is some technical detail, it does not delve into the role of software developers within Agile or DevOps contexts, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -919,7 +925,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T17:04:23",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -927,7 +933,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the development of a specific software application and mentions the implementation of modular design principles, which aligns with the concept of working software. However, it lacks explicit discussions on customer feedback, quality assurance, or iterative development practices, which are crucial for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1417,7 +1423,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:57:09",
+    "calculated_at": "2025-03-15T07:27:16",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1425,6 +1431,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the development of a specific application and mentions technical aspects related to WPF and modularity. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum. The content lacks depth in discussing any Scrum-related topics, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -8,7 +8,7 @@ ResourceImportId: 10800
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,11 +26,6 @@ tags:
 - Agile Philosophy
 - People and Process
 - Agile Transformation
-- Organisational Agility
-- Agile Values and Principles
-- Agile Project Management
-- Agile Frameworks
-- Pragmatic Thinking
 categories:
 - Social Technologies
 - Scrum
