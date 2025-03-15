@@ -21,15 +21,23 @@ $Counter = 1
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
+Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $resources.Count
+$resourceCount = $resources.Count
+$progressStep = [math]::Ceiling($resourceCount / 10)  # Calculate step for 10% progress
 $hugoMarkdownObjects = @()
-$TotalFiles = $resources.Count
-Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $TotalFiles
-$resources | ForEach-Object {
-    if ((Test-Path $_)) {
+
+$resources | ForEach-Object -Begin { $index = 0 } -Process {
+    if (Test-Path $_) {
         $hugoMarkdown = Get-HugoMarkdown -Path $_
         $hugoMarkdownObjects += $hugoMarkdown
     }
+
+    $index++
+    if ($index % $progressStep -eq 0 -or $index -eq $resourceCount) {
+        Write-InformationLog "Progress: $([math]::Round(($index / $resourceCount) * 100))% complete"
+    }
 }
+
 $TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $TotalItems
 ### FILTER hugoMarkdownObjects
@@ -213,13 +221,16 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 50 -byLevel -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
-
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+    #$categoriesMeta = $categoryClassificationOrdered | ForEach-Object { [ordered]@{ category = $_.category; final_score = $_.final_score } }
+    #Update-HashtableList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categoriesMeta' -addAfter "categories" -values $categoriesMeta -Overwrite
     #-----------------Tags-------------------
     $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -classifications $tagClassification | Select-Object -First 10
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+    #$tagsMeta = $tagClassificationOrdered | ForEach-Object { [ordered]@{ category = $_.category; final_score = $_.final_score } }
+    #Update-HashtableList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tagsMeta' -addAfter "tags" -values $tagsMeta -Overwrite
     # =================COMPLETE===================
     $eeResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
     $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
