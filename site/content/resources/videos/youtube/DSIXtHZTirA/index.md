@@ -30,11 +30,11 @@ tags:
 - Software Development
 - Technical Mastery
 - Technical Excellence
+- Shift-Left Strategy
 - Azure DevOps
 - Customer Satisfaction
 - Engineering Practices
 - Practical Techniques and Tooling
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
