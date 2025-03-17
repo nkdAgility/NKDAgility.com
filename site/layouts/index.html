@@ -18,7 +18,14 @@
             <div class="card text-center card-left-border">
               <div class="card-body">
                 {{ range first 1 (where .Site.RegularPages.ByWeight "Params.ResourceType" "blog") }}
-                  <h3 class="card-title">{{ .Title }}</h3>
+                  <h3 class="card-title">
+                    {{ if .Draft }}
+                      <i class="fa-brands fa-firstdraft pe-1"></i>
+                    {{ end }}
+                    {{ if gt .Date (now) }}
+                      <i class="fa-regular fa-flux-capacitor pe-1"></i>
+                    {{ end }}{{ .Title }}
+                  </h3>
                   <p class="card-text">{{ .Description }}</p>
                   <a href="{{ .RelPermalink }}" class="btn btn-primary">Read more...</a>
                 {{ end }}
@@ -29,7 +36,13 @@
                   </div>
                   {{ range first 4 (after 1 (where .Site.RegularPages.ByWeight "Params.ResourceType" "blog")) }}
                     <div class="col-md-12 d-flex align-items-center">
-                      <span class="mr-1"><i class="fa-solid fa-newspaper"></i></span>
+                      <span class="mr-1"><i class="fa-solid fa-newspaper pe-1"></i></span>
+                      {{ if .Draft }}
+                        <i class="fa-brands fa-firstdraft px-1"></i>
+                      {{ end }}
+                      {{ if gt .Date (now) }}
+                        <i class="fa-regular fa-flux-capacitor px-1"></i>
+                      {{ end }}
                       <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Title }} - {{ .Description }}">
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
                       </span>
