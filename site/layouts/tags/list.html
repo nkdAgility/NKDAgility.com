@@ -72,7 +72,7 @@
         {{ range $category, $pages := .Site.Taxonomies.categories }}
           <div class="col-md-3 d-flex align-items-center">
             <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
-              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+              <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
             </span>
             {{- $count :=  len (where $pages "Draft" "!=" true) }}
             <span class="ms-1">({{ $count }})</span>
@@ -87,7 +87,7 @@
         {{ range $category, $pages := .Site.Taxonomies.tags }}
           <div class="col-md-3 d-flex align-items-center">
             <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
-              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+              <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
             </span>
             {{- $count :=  len (where $pages "Draft" "!=" true) }}
             <span class="ms-1">({{ $count }})</span>

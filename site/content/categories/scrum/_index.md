@@ -22,4 +22,6 @@ headline:
   subtitle: A framework for collaborative problem-solving that maximises value delivery through iterative learning and continuous improvement.
   content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
   updated: 2025-02-13T21:02:24Z
+
 ---
+
