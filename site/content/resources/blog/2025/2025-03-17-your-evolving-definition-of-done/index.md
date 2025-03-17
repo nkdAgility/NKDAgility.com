@@ -1,13 +1,35 @@
 ---
-title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
+title: Your Evolving Definition of Done
+description: Evolve your Definition of Done (DoD) to align with organisational goals, ensuring quality and strategic value in every product increment.
+ResourceId: 5wIEg7lD_Xd
 ResourceType: blog
 ResourceImport: false
 date: 2025-03-31T09:00:00
-weight: 245
+weight: 225
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
+aliases:
+  - /resources/5wIEg7lD_Xd
+aliasesArchive:
+  - /your-evolving-definition-of-done
+  - /blog/your-evolving-definition-of-done
+categories:
+  - Social Technologies
+  - Scrum
+tags:
+  - Definition of Done
+  - Software Development
+  - Scrum Product Development
+  - Strategy
+  - Professional Scrum
+  - Value Delivery
+  - Engineering Practices
+  - Product Delivery
+  - Agile Product Management
+  - Practical Techniques and Tooling
+  - Shift-Left Strategy
 ---
 
 The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that Scrum Teams build on a solid foundation, aligning technical execution with strategic goals.
@@ -18,7 +40,7 @@ The [Definition of Done (DoD) is an objective, measurable standard of quality]({
 
 For a product to deliver real value, its quality criteria must align with organisational and market expectations. It should meet a minimum quality standard that ensures usability while safeguarding the organisation, its employees, and its users. Any failure to do so could damage the organisation’s reputation and trust in the product.
 
-This means organisations should define a Business DoD that may include:
+This means organisations should define a business DoD that may include:
 
 - Regulatory compliance
 - Market readiness (e.g., beta testing completion, go-to-market strategies)
@@ -29,8 +51,11 @@ This means organisations should define a Business DoD that may include:
 Without this business-level perspective, teams risk optimising for technical completeness while missing the broader value delivery picture. The result of many iterations of the organisational definition of done for a product might look like:
 
 > Live an in production
+>
 > gathering telemetry
+>
 > supporting or diminishing
+>
 > the starting hypothesis
 
 This short sentence packs a lot into it, and it's a commercial product definition of "done" for a team I have collaborated closely with for over 17 years.
@@ -45,27 +70,27 @@ None of these elements define the "why" or "what" of what we're building—those
 
 ## Definition of Done - Translating Organisational Standards into Team Practice
 
-While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that balances autonomy with accountability . Scrum isn’t anarchy; it’s a [social technology]({{< ref "/categories/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
+While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/categories/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
 
 Each Scrum Team must interpret the organisational Definition of Done within their context, shaping an engineering-level DoD that aligns with it. While examples can guide them, it's the team’s responsibility to determine what Done means within organisational constraints.
 
-In addition to supporting the organisational definition of done, a robust DoD ensures that work meets a consistent level of quality before it is considered complete. This includes engineering practices, preferably within the bounds of a shift-left strategy, such as:
+In addition to supporting the organisational definition of done, a robust DoD ensures that work meets a consistent level of quality before it is considered complete. This includes [engineering practices]({{< ref "/tags/engineering-practices" >}}), preferably within the bounds of a [shift-left strategy]({{< ref "/tags/shift-left-strategy" >}}), such as:
 
-- **Writing Unit and Integration Tests** – with a preference for shifting testing earlier by adopting Test-Driven Development (TDD) and automated integration testing, ensuring issues are caught before coding progresses too far—and preferably making tests a prerequisite for writing new code. &#x20;
+- **Writing Unit and Integration Tests** – with a preference for shifting testing earlier by adopting Test-Driven Development (TDD) and automated integration testing, ensuring issues are caught before coding progresses too far—and preferably making tests a prerequisite for writing new code.
 
-- **Performing Code Reviews** – Rather than manual code reviews create automate code quality checks using static analysis and enforce good practices before manual reviews, allowing developers to focus on deeper logic and architectural concerns—and preferably integrating peer reviews into the development workflow, such as pair or mob programming. &#x20;
+- **Performing Code Reviews** – Rather than manual code reviews create automate code quality checks using static analysis and enforce good practices before manual reviews, allowing developers to focus on deeper logic and architectural concerns—and preferably integrating peer reviews into the development workflow, such as pair or mob programming.
 
-- **Adhering to Security and Compliance Requirements** – try embeding security scanning into CI/CD pipelines with automated dependency checks and policy enforcement, catching vulnerabilities before they reach production—and preferably treating security as code, ensuring it evolves alongside development. &#x20;
+- **Adhering to Security and Compliance Requirements** – try embeding security scanning into [CI/CD pipelines]({{< ref "/tags/continuous-delivery" >}}) with automated dependency checks and policy enforcement, catching vulnerabilities before they reach production—and preferably treating security as code, ensuring it evolves alongside development.
 
-- **Maintaining Updated Documentation** – Automate as much of your documentation updates as possible using tools that generate API references and architecture diagrams directly from code, keeping documentation relevant and accurate—and preferably making documentation a non-negotiable part of the Definition of Done (DoD). &#x20;
+- **Maintaining Updated Documentation** – Automate as much of your documentation updates as possible using tools that generate API references and architecture diagrams directly from code, keeping documentation relevant and accurate—and preferably making documentation a non-negotiable part of the Definition of Done (DoD).
 
-- **Ensuring Deployments are Automated and Repeatable** – Implement Infrastructure as Code (IaC) and continuous deployment pipelines to guarantee consistent, error-free releases—and preferably shifting validation left with feature flags, automated rollback strategies, and deployment previews.&#x20;
+- **Ensuring Deployments are Automated and Repeatable** – Implement Infrastructure as Code (IaC) and continuous deployment pipelines to guarantee consistent, error-free releases—and preferably shifting validation left with feature flags, automated rollback strategies, and deployment previews.
 
-Each aspect contributes to quality, reducing the likelihood of defects and technical debt. However, quality isn’t just a technical concern—it is an economic and strategic one.
+Each aspect contributes to quality, reducing the likelihood of defects and [technical debt]({{< ref "/tags/technical-debt" >}}). However, quality isn’t just a technical concern—it is an economic and strategic one.
 
 ## The Evolution of Done Over Time
 
-New teams often start with a weak DoD that doesn’t yet guarantee releasability. A brownfield product with legacy constraints may have a DoD that initially excludes automation, testing, or continuous deployment due to existing technical debt. Over time, through Sprint Retrospectives and deliberate improvements, the DoD should:
+New teams often start with a weak DoD that doesn’t yet guarantee releasability. A brownfield product with legacy constraints may have a DoD that initially excludes automation, testing, or [continuous deployment]({{< ref "/tags/deployment-frequency" >}}) due to existing technical debt. Over time, through Sprint Retrospectives and deliberate improvements, the DoD should:
 
 1. Start at a minimal viable level (e.g., basic testing, peer reviews).
 2. Expand to include automated testing, security checks, and CI/CD.
