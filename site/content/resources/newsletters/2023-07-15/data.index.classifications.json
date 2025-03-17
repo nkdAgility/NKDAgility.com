@@ -1495,5 +1495,17 @@
     "final_score": 64.0,
     "reasoning": "The content mentions Scrum in the context of upcoming training classes and briefly discusses the roles of Scrum Masters and Scrum Teams. However, the primary focus of the content is on an Agile conference and related activities, with only a limited exploration of Scrum principles and practices. The discussion lacks depth and does not cover key Scrum events or artifacts in detail, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:59:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an upcoming Agile conference and related events, with no explicit discussion of the Shift-Left Strategy. While it mentions Agile principles, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. The content lacks depth and detail on the topic, resulting in a very low confidence score.",
+    "level": "Ignored"
   }
 }

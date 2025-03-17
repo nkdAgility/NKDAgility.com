@@ -1528,5 +1528,17 @@
     "final_score": 52.0,
     "reasoning": "The content discusses the transition to a Scrum developer, which implies a focus on Scrum principles, particularly around continuous delivery and Agile practices. However, it lacks explicit references to specific Scrum roles, events, or artifacts, which limits its depth. The mention of continuous practices aligns with Agile principles but does not delve deeply into Scrum's framework or its implementation, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:00:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous practices, but it does not explicitly mention the Shift-Left Strategy or its core principles. While there are references to continuous testing and delivery, these concepts are framed within the context of Agile and Scrum rather than a proactive Shift-Left approach. The discussion lacks depth in addressing how to integrate testing and security early in the development process, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

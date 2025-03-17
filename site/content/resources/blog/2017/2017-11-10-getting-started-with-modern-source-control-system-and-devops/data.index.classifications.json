@@ -1528,5 +1528,17 @@
     "final_score": 54.0,
     "reasoning": "The content briefly mentions Scrum in the context of software development practices and the importance of becoming a professional Scrum team. However, the primary focus is on source control and DevOps practices, with only a limited discussion of Scrum principles and roles. The alignment with Scrum concepts is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:14:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses modern source control and DevOps practices, touching on aspects of quality and automation, which are relevant to the Shift-Left Strategy. However, it primarily focuses on source control systems and general software development practices rather than explicitly integrating testing, security, and compliance earlier in the development lifecycle. The discussion lacks depth in the specific principles and techniques of the Shift-Left Strategy, leading to a lower confidence score.",
+    "level": "Ignored"
   }
 }

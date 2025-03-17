@@ -1498,5 +1498,17 @@
     "final_score": 61.0,
     "reasoning": "The content briefly mentions Agile practices and the role of Azure DevOps in supporting agile teams, which aligns with Scrum principles. However, it primarily focuses on Azure DevOps and its features rather than discussing Scrum roles, events, or artifacts in detail. The discussion lacks depth on Scrum-specific topics, resulting in a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:46:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Azure DevOps and common pitfalls in its usage, with a focus on agile practices rather than explicitly addressing the Shift-Left Strategy. While there are mentions of traceability and collaboration, which are relevant to Shift-Left principles, the overall discussion does not delve deeply into integrating testing, security, or compliance earlier in the development process. Therefore, the content aligns with the category only in a limited capacity.",
+    "level": "Ignored"
   }
 }

@@ -1534,5 +1534,17 @@
     "final_score": 88.0,
     "reasoning": "The content extensively discusses various aspects of Scrum, including the roles of Developers and Product Owners, the importance of delivering quality software, and the accountability of Scrum Teams. It directly references Scrum events like Sprint Reviews and emphasises the need for continuous improvement, aligning well with Scrum principles. The depth of discussion is significant, providing insights into the implications of quality in software delivery and the responsibilities of team members within the Scrum framework.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:11:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of quality in software development and mentions the need for accountability among developers, which aligns with the Shift-Left Strategy's focus on integrating quality earlier in the development process. However, it primarily revolves around Scrum practices and does not explicitly address the integration of testing, security, or compliance early in the lifecycle, leading to a lower confidence score.",
+    "level": "Ignored"
   }
 }

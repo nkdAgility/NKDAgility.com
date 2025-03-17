@@ -1519,5 +1519,17 @@
     "final_score": 54.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile practices and training, indicating some relevance to the Scrum category. However, the primary focus is on testing tools and Visual Studio, with Scrum being a secondary topic. The discussion lacks depth regarding Scrum roles, events, or artifacts, which are central to the category. Therefore, while there is some alignment, it does not meet the criteria for a primary focus on Scrum.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:29:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses tools and training related to testing and collaboration between developers and testers, which aligns with some aspects of the Shift-Left Strategy. However, it lacks a direct focus on integrating testing and security earlier in the development lifecycle, and does not provide in-depth discussion on the principles or benefits of the Shift-Left approach. The mention of agile practices is also too general and does not specifically address the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

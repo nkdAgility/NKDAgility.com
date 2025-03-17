@@ -1699,5 +1699,17 @@
     "final_score": 83.0,
     "reasoning": "The content discusses the importance of delivery in the context of Agile and Scrum, highlighting key principles such as frequent releases, feedback loops, and the risks of delayed delivery. It explicitly mentions Scrum as a framework that supports these practices, aligning well with the core themes of the category. However, while it touches on Scrum principles, the focus is more on delivery and value realisation rather than a comprehensive exploration of Scrum roles, events, or artifacts, which slightly lowers the depth score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:36:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of frequent releases and feedback loops, which aligns with the Shift-Left Strategy's emphasis on early validation and integration of processes. However, it primarily focuses on delivery and Agile principles rather than explicitly addressing testing, security, or compliance integration early in the development lifecycle. The discussion lacks depth in terms of specific Shift-Left techniques or tools, leading to a moderate confidence score.",
+    "level": "Ignored"
   }
 }

@@ -1567,5 +1567,17 @@
     "final_score": 59.0,
     "reasoning": "The content briefly mentions Scrum alongside other frameworks like Agile and DevOps, indicating some awareness of Scrum principles. However, it does not delve deeply into specific Scrum roles, events, or artifacts, which are crucial for a strong alignment with the Scrum category. The discussion focuses more on general team dynamics and competencies rather than the structured practices of Scrum, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:38:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to the Shift-Left Strategy. However, it does not explicitly mention integrating testing, security, or compliance early in the development process, nor does it focus on the proactive identification of issues. The discussion is more centred on general Agile and DevOps principles rather than the specific themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

@@ -1531,5 +1531,17 @@
     "final_score": 79.0,
     "reasoning": "The content extensively discusses Evidence-based Management, which is a framework associated with Scrum, and highlights its importance in measuring value and success in agile practices. It mentions Scrum roles, metrics, and the iterative nature of Scrum, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into metrics and their implications for Scrum implementation, thus justifying a high confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:10:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics and evidence-based management in software organisations, which indirectly relates to the Shift-Left Strategy by emphasising the importance of measuring value and improving processes. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, or compliance earlier in the development lifecycle. The discussion is more centred on agile practices and metrics rather than the proactive identification of issues typical of a Shift-Left approach.",
+    "level": "Ignored"
   }
 }

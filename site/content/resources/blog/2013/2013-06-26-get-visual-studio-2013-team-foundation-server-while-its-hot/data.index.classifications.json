@@ -1525,5 +1525,17 @@
     "final_score": 61.0,
     "reasoning": "The content discusses Agile Portfolio Management and mentions backlogs, which are relevant to Scrum practices. However, it primarily focuses on Team Foundation Server features rather than the Scrum framework itself. The discussion lacks depth on Scrum roles, events, and empirical process control, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:22:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses features of Team Foundation Server 2013, including testing and collaboration tools, but does not explicitly mention the Shift-Left Strategy or its principles. While there are references to testing and agile practices, the focus is primarily on new features rather than integrating testing and security earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is weak, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

@@ -1501,5 +1501,17 @@
     "final_score": 66.0,
     "reasoning": "The content discusses the Visual Studio Scrum 2.0 process template and its application in the context of migrating and consolidating Team Projects. While it mentions Scrum in relation to the process template, the primary focus is on the technical aspects of migration and integration rather than on Scrum principles, roles, or events. The discussion lacks depth in Scrum-specific practices and does not explore the broader Scrum framework or its implementation, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:27:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the migration and consolidation of Team Projects within Team Foundation Server (TFS) without explicitly addressing the Shift-Left Strategy. While it touches on aspects of process improvement, it lacks a clear focus on integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

@@ -1423,5 +1423,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses various aspects of Scrum, including roles, team dynamics, and the importance of agile principles. It features conversations about product ownership, backlog management, and the challenges of maintaining team engagement, which are all central to Scrum practices. The dialogue reflects a deep understanding of Scrum concepts, although it occasionally veers into broader agile discussions and personal anecdotes, which slightly dilutes the focus on Scrum specifically.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:12:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of quality and feedback in agile development, which aligns with some principles of the Shift-Left Strategy. However, it primarily focuses on cultural aspects and mindset rather than explicitly integrating testing, security, or compliance earlier in the development process. The mention of practices like code reviews and continuous feedback hints at Shift-Left concepts but lacks depth in discussing how these practices are implemented early in the lifecycle.",
+    "level": "Ignored"
   }
 }

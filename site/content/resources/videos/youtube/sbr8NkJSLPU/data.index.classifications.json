@@ -1504,5 +1504,17 @@
     "final_score": 4.0,
     "reasoning": "The content focuses exclusively on Kanban practices and does not mention Scrum or its principles, roles, events, or artifacts. While it discusses workflow and team collaboration, these concepts are framed within the context of Kanban, which is explicitly excluded from the Scrum category. Therefore, the confidence score is very low.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:46:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on defining and visualising workflows within a Kanban framework, which does not directly address the Shift-Left Strategy. While there are elements of process improvement and efficiency, the discussion lacks explicit mentions of integrating testing, security, or compliance earlier in the software development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
   }
 }

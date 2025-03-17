@@ -1474,5 +1474,17 @@
     "final_score": 47.0,
     "reasoning": "The content briefly mentions Scrum in the context of a retrospective at the end of a sprint, indicating some alignment with Scrum principles. However, the primary focus is on technical issues related to building a Silverlight application using Team Foundation Build Services, with limited depth on Scrum roles, events, or practices. The mention of Scrum is not substantial enough to classify the content as primarily about Scrum.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:34:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical issues related to building a Silverlight application using Team Foundation Build Services, without addressing the Shift-Left Strategy. While it touches on build processes and troubleshooting, it does not integrate testing, security, or compliance earlier in the development lifecycle, nor does it discuss the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
   }
 }

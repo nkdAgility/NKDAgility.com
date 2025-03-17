@@ -1474,5 +1474,17 @@
     "final_score": 22.0,
     "reasoning": "The content briefly touches on concepts related to collaboration and productivity, which are relevant to Scrum principles, but it primarily focuses on test-driven development (TDD) and pair programming without explicitly discussing Scrum roles, events, or artifacts. The alignment with Scrum is minimal, as it does not delve into the Scrum framework or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:39:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are practices that can align with the Shift-Left Strategy by promoting early issue detection and enhancing code quality. However, it does not explicitly mention the Shift-Left Strategy or its principles, focusing instead on TDD and pair programming as standalone concepts. While there is a clear connection to the benefits of addressing issues early in the development process, the primary focus remains on TDD and pair programming rather than a comprehensive discussion of the Shift-Left Strategy itself.",
+    "level": "Tertiary"
   }
 }

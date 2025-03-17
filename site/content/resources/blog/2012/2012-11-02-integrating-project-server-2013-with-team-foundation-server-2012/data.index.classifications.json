@@ -1525,5 +1525,17 @@
     "final_score": 34.0,
     "reasoning": "The content briefly mentions Scrum in the context of integrating Project Server with Team Foundation Server, specifically referencing the Visual Studio Scrum template and the roles of Product Owners and Development Teams. However, the primary focus of the content is on Project Server and Team Foundation Server integration, with only a superficial connection to Scrum principles. The discussion lacks depth regarding Scrum practices, roles, and events, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:24:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012. While it touches on project management and agile processes, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

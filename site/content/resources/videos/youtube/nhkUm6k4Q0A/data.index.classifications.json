@@ -1525,5 +1525,17 @@
     "final_score": 61.0,
     "reasoning": "The content mentions Scrum explicitly as a preferred practice of the author, indicating a direct mention. It discusses the importance of understanding Scrum principles within the broader context of agile coaching, which aligns with the core themes of Scrum, particularly the emphasis on principles and practices. However, the focus is more on agile coaching and the concept of agnosticism in practice rather than a deep dive into Scrum itself, which slightly lowers the depth score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:52:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of flexibility and agnosticism in practices. While it touches on principles of Agile, Lean, and Scrum, it does not explicitly discuss the Shift-Left Strategy or its integration into the software development lifecycle. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
   }
 }

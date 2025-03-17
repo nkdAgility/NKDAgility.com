@@ -1525,5 +1525,17 @@
     "final_score": 83.0,
     "reasoning": "The content extensively discusses various aspects of Scrum, including its principles, recent changes to the Scrum Guide, and practical checklists for assessing Scrum implementation. It directly mentions Scrum roles, events, and artifacts, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, providing insights into both the challenges and adaptations within the Scrum framework, which supports a high confidence score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:29:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum practices and principles, with a focus on the Scrum framework and its implementation. While it briefly mentions the importance of automated testing and builds, which could relate to a Shift-Left approach, the overall discussion does not centre on integrating testing, security, or compliance earlier in the development lifecycle. Therefore, it does not align well with the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

@@ -1522,5 +1522,17 @@
     "final_score": 83.0,
     "reasoning": "The content extensively discusses the challenges and nuances of adopting Scrum, including its principles, the need for training and mentoring, and the importance of iterative development. It directly references Scrum's framework and its implications for team dynamics and organisational change, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, providing detailed insights into the adoption process and the difficulties faced, which supports a high confidence score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:30:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum adoption and its challenges, with no explicit mention of integrating testing, security, or compliance earlier in the development process. While it touches on iterative development and feedback loops, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in the software development lifecycle.",
+    "level": "Ignored"
   }
 }

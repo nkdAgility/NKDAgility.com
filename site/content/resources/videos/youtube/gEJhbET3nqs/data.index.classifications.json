@@ -1522,5 +1522,17 @@
     "final_score": 75.0,
     "reasoning": "The content primarily focuses on a workshop designed to enhance agile leadership skills, specifically within the context of Scrum. It discusses the role of leaders in supporting agile teams, which aligns with Scrum principles. The mention of Scrum training and the emphasis on agile capabilities indicate a strong connection to the Scrum framework. However, while it touches on Scrum concepts, it does not delve deeply into specific Scrum roles, events, or artifacts, which slightly lowers the depth score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:11:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and the Professional Agile Leadership Essentials workshop, with no direct mention of the Shift-Left Strategy. While it discusses collaboration and alignment within agile teams, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth regarding the principles and benefits of the Shift-Left approach, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

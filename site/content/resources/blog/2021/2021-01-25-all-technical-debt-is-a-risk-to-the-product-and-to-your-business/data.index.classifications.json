@@ -1537,5 +1537,17 @@
     "final_score": 62.0,
     "reasoning": "The content discusses Scrum in the context of addressing technical debt and improving delivery through shorter Sprints. While it does mention Scrum and its implementation at Microsoft, the primary focus is on technical debt rather than Scrum principles or practices. The discussion provides some depth regarding the transition to Sprints and the resulting transparency, but it does not delve deeply into the Scrum framework or its roles, events, and artifacts.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:10:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its implications on software quality and delivery, which indirectly relates to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, or compliance earlier in the development process. The discussion is more centred on the risks of technical debt rather than proactive strategies to mitigate those risks through early integration of critical processes.",
+    "level": "Ignored"
   }
 }

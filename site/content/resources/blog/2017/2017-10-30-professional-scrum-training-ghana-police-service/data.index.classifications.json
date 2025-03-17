@@ -1528,5 +1528,17 @@
     "final_score": 83.0,
     "reasoning": "The content extensively discusses the implementation of Scrum within the Ghana Police Service, detailing the training process, Scrum roles, events, and the iterative nature of the framework. It highlights the practical application of Scrum principles in a non-software context, demonstrating a strong alignment with Scrum's core themes. The depth of discussion is significant, covering various aspects of the Scrum framework and its adaptation for the audience, which further supports a high confidence score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:14:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on teaching Scrum to the Ghana Police Service, discussing the practical application of Scrum principles rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile concepts, it does not explicitly address the Shift-Left Strategy or its core themes.",
+    "level": "Ignored"
   }
 }

@@ -1531,5 +1531,17 @@
     "final_score": 64.0,
     "reasoning": "The content discusses Evidence-based Management (EBM) and its application in software delivery, which is relevant to Scrum principles. However, it primarily focuses on metrics and KPIs rather than the core Scrum framework, roles, events, or artifacts. While it mentions the Agility Index from Scrum.org, the overall emphasis is more on metrics than on Scrum practices, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:19:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics and evidence-based management in software development but does not explicitly focus on integrating testing, security, or compliance earlier in the development lifecycle, which is central to the Shift-Left Strategy. While there are mentions of quality indicators and metrics that could relate to early testing, the primary focus is on reporting and decision-making rather than the proactive identification of issues typical of a Shift-Left approach.",
+    "level": "Ignored"
   }
 }

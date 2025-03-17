@@ -1525,5 +1525,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses various aspects of Scrum, including branching strategies specifically tailored for Scrum teams, the importance of sprints, and the roles of team members in the Scrum process. It provides detailed guidance on how to manage code during sprints, including merging strategies and handling bugs, which aligns well with Scrum principles. However, it also mentions branching strategies in a broader context, which slightly detracts from its primary focus on Scrum.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:33:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams and does not explicitly address the Shift-Left Strategy. While there are mentions of testing and quality gates, these are not integrated into the development process as part of a proactive Shift-Left approach. The focus remains on branching and merging practices rather than on early integration of testing, security, or compliance.",
+    "level": "Ignored"
   }
 }

@@ -1489,5 +1489,17 @@
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on setting up a release management environment in Azure and discusses tools like Visual Studio and Application Insights. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content is more technical and operational rather than related to Scrum practices.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:16:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, detailing the setup and configuration of various tools and services. While it touches on aspects of deployment and application insights, it does not explicitly discuss integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth in addressing the proactive identification of issues or the benefits of early integration, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

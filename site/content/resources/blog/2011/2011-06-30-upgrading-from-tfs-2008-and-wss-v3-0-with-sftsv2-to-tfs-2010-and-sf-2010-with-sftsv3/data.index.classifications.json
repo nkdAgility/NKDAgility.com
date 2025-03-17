@@ -1510,5 +1510,17 @@
     "final_score": 75.0,
     "reasoning": "The content primarily focuses on upgrading the Scrum for Team System process templates, detailing the migration from SfTSv2 to SfTSv3. It discusses specific Scrum-related elements such as work item types, team projects, and the implications of using Scrum within Team Foundation Server. The depth of discussion includes practical steps and commands related to Scrum, indicating a strong alignment with Scrum principles and practices. However, while Scrum is a significant focus, the content also delves into technical aspects of TFS and SharePoint, which slightly detracts from a pure Scrum classification.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:30:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server and SharePoint, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on project management and process templates, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

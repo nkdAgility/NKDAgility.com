@@ -1489,5 +1489,17 @@
     "final_score": 46.0,
     "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and includes references to work item types such as 'User Story' and 'Product Backlog Item', which are relevant to Scrum. However, the primary focus is on technical instructions for migration rather than on Scrum principles, roles, or events. While there are mentions of Scrum-related terms, the depth of discussion on Scrum practices is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:27:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and does not discuss integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of work item management, it lacks a clear connection to the principles or benefits of the Shift-Left Strategy, making it largely irrelevant to the category.",
+    "level": "Ignored"
   }
 }

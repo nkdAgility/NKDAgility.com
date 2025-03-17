@@ -1486,5 +1486,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Visual Studio 2010 features, specifically IntelliTrace and Test Impact Analysis, with no direct mention of Scrum principles, roles, or events. While it briefly references Agile environments, it does not delve into Scrum-specific practices or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:29:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that aim to improve bug detection and regression testing, which aligns with the Shift-Left Strategy's goal of integrating testing earlier in the development process. However, the primary focus is on specific tools rather than a broader discussion of the Shift-Left principles or methodologies. The mention of Agile environments suggests some alignment, but the depth of discussion on the Shift-Left Strategy itself is limited.",
+    "level": "Tertiary"
   }
 }
