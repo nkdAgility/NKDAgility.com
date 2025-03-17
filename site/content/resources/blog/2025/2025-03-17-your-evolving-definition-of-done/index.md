@@ -11,27 +11,26 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 aliases:
-  - /resources/5wIEg7lD_Xd
+- /resources/5wIEg7lD_Xd
 aliasesArchive:
-  - /your-evolving-definition-of-done
-  - /blog/your-evolving-definition-of-done
+- /your-evolving-definition-of-done
+- /blog/your-evolving-definition-of-done
 categories:
-  - Social Technologies
-  - Scrum
+- Social Technologies
+- Scrum
 tags:
-  - Definition of Done
-  - Software Development
-  - Scrum Product Development
-  - Strategy
-  - Professional Scrum
-  - Value Delivery
-  - Engineering Practices
-  - Product Delivery
-  - Agile Product Management
-  - Practical Techniques and Tooling
-  - Shift-Left Strategy
----
+- Definition of Done
+- Software Development
+- Scrum Product Development
+- Strategy
+- Professional Scrum
+- Value Delivery
+- Engineering Practices
+- Product Delivery
+- Agile Product Management
+- Practical Techniques and Tooling
 
+---
 The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that Scrum Teams build on a solid foundation, aligning technical execution with strategic goals.
 
 The [Definition of Done (DoD) is an objective, measurable standard of quality]({{< ref "/resources/blog/2025/2025-01-03-definition-of-done-objective-vs-subjective" >}})—not a negotiable target. Keep it clear, enforceable, and automated to ensure every Increment meets professional expectations.

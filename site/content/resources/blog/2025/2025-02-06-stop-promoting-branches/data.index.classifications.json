@@ -1612,5 +1612,17 @@
     "final_score": 9.0,
     "reasoning": "The content primarily discusses branching strategies and software delivery models, focusing on Git Flow, GitHub Flow, and Release Flow. While it touches on concepts like agility and delivery, it does not explicitly mention Scrum principles, roles, or events, nor does it delve into the Scrum framework or its implementation. Therefore, it aligns very minimally with the Scrum category.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:36:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the flaws of traditional branch promotion models and advocates for continuous integration and delivery, which aligns with the Shift-Left Strategy's principles of integrating processes earlier in the development lifecycle. However, it primarily focuses on branching strategies rather than explicitly addressing testing, security, or compliance integration, leading to a lower confidence score. The depth of discussion on alternative models like GitHub Flow and Release Flow provides some relevant insights but does not fully explore the Shift-Left Strategy's core themes.",
+    "level": "Ignored"
   }
 }

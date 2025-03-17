@@ -1507,5 +1507,17 @@
     "final_score": 4.0,
     "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, with no direct mentions of Scrum roles, events, or principles. While it touches on concepts related to Agile practices, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum implementation or continuous improvement techniques.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:23:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the setup of Standard Environments for automated deployment and testing, which aligns with the Shift-Left Strategy by emphasising early integration of testing in the development process. It mentions automated tests and deployment pipelines, which are key components of a Shift-Left approach. However, while it touches on relevant topics, it lacks a comprehensive exploration of the principles and benefits of the Shift-Left Strategy, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

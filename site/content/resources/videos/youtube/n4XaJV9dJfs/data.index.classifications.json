@@ -1537,5 +1537,17 @@
     "final_score": 79.0,
     "reasoning": "The content explicitly discusses key Scrum concepts such as complexity, transparency, inspection, adaptation, and the importance of Scrum artifacts like the product backlog and sprint backlog. It provides a detailed exploration of how these elements relate to managing complexity in Scrum, indicating a strong alignment with the core themes of the category. The depth of discussion is significant, as it not only mentions Scrum but also elaborates on its principles and practices, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:52:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum principles, particularly around complexity and team dynamics, without any explicit discussion of the Shift-Left Strategy. While it touches on concepts like risk mitigation and adaptation, these are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

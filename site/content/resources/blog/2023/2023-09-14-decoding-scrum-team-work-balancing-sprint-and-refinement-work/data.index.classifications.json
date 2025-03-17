@@ -1513,5 +1513,17 @@
     "final_score": 83.0,
     "reasoning": "The content extensively discusses Scrum principles, specifically focusing on the roles of Sprint Work and Refinement within a Scrum Team. It provides detailed explanations of how these two types of work interact and contribute to the overall success of Scrum operations. The article also highlights the importance of visualisation tools like Azure DevOps, which aligns with Scrum practices. The depth of discussion is significant, covering both the theoretical aspects and practical applications, thus justifying a high confidence score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum roles and the balance between Sprint work and Refinement, without explicitly discussing the Shift-Left Strategy or its principles. While there are mentions of preparing for future work, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

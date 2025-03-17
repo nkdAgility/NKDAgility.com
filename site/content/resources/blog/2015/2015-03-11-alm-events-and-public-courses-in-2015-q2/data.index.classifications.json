@@ -1474,5 +1474,17 @@
     "final_score": 54.0,
     "reasoning": "The content briefly mentions Scrum in the context of upcoming training courses, specifically a Professional Scrum Master course. However, the primary focus is on ALM events and training schedules rather than a detailed discussion of Scrum principles, roles, or practices. The alignment with Scrum concepts is minimal, and the depth of discussion is very low, primarily serving as an announcement rather than an exploration of Scrum methodologies.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:15:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on scheduling public courses related to ALM and Scrum, with no explicit discussion of the Shift-Left Strategy or its principles. While it mentions DevOps and project management, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

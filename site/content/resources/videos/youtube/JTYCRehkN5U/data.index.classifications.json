@@ -1552,5 +1552,17 @@
     "final_score": 72.0,
     "reasoning": "The content discusses Scrum principles, particularly the importance of delivering a usable working product at the end of each iteration, which aligns with Scrum's focus on iterative progress. However, while Scrum is mentioned, the primary focus is on technical excellence and risk mitigation rather than a comprehensive exploration of Scrum roles, events, or artifacts. The depth of discussion on Scrum is limited, as it primarily serves to support the broader argument about technical excellence in Agile development.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:45:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of technical excellence and delivering a usable product at the end of each iteration, which aligns with the Shift-Left Strategy's focus on integrating quality early in the development process. However, it primarily centres on Agile principles and technical debt rather than explicitly addressing the Shift-Left Strategy itself. While there are relevant themes, such as risk mitigation and the need for a strong Definition of Done, the discussion lacks a direct focus on integrating testing, security, and compliance earlier in the lifecycle, which is crucial for a higher confidence score.",
+    "level": "Ignored"
   }
 }

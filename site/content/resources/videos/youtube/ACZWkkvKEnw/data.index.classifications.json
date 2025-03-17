@@ -1402,5 +1402,17 @@
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, or events. While it discusses the concept of optimisation within a system, it does not align with Scrum's core themes of collaboration, iterative progress, or team dynamics. The discussion is more about governance and local optimisation rather than Scrum practices, resulting in a very low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:36:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of integration and collaboration within an organisation, which aligns with the Shift-Left Strategy's emphasis on early integration of processes. However, it does not explicitly mention testing, security, or compliance, nor does it focus on software development specifically, leading to a lower confidence score.",
+    "level": "Ignored"
   }
 }

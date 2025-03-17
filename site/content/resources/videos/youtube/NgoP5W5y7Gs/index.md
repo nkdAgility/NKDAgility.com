@@ -23,6 +23,7 @@ preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
+- Shift-Left Strategy
 - Software Development
 - Technical Mastery
 - Pragmatic Thinking

@@ -1531,5 +1531,17 @@
     "final_score": 70.0,
     "reasoning": "The content extensively discusses Scrum principles, particularly the flexibility of work across Sprint boundaries, which is a nuanced interpretation of Scrum practices. It mentions key Scrum roles, events, and the importance of maintaining a Done Increment, aligning well with the core themes of the Scrum framework. However, it also references Kanban, which slightly detracts from its focus on Scrum alone, affecting the overall confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:13:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which does not directly address the Shift-Left Strategy. While there are mentions of Continuous Delivery and some practices that could relate to early testing and validation, the focus remains on Scrum methodology rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
   }
 }

@@ -1528,5 +1528,17 @@
     "final_score": 70.0,
     "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing the importance of marketing the product vision and engaging stakeholders during Sprint reviews. It directly mentions the Product Owner role and references Scrum events like Sprint reviews, indicating a clear connection to Scrum principles. However, while it touches on key aspects of the role, the discussion lacks depth in covering the broader Scrum framework and its practices, which slightly lowers the confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:50:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in marketing and stakeholder engagement, with no direct mention of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on feedback loops and alignment, these concepts are not explicitly tied to the Shift-Left Strategy, which diminishes its relevance to the category.",
+    "level": "Ignored"
   }
 }

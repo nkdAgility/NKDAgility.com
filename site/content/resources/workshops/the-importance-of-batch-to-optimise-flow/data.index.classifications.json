@@ -1561,5 +1561,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses a workshop designed for Scrum teams, focusing on the impact of breaking down large backlog items into smaller pieces, which aligns with Scrum principles of iterative progress and delivering value. It explicitly mentions Scrum teams and includes facilitation steps that reflect Scrum events and practices. However, while it touches on Scrum concepts, it does not delve deeply into the roles or specific Scrum events, which slightly lowers the depth score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:42:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces to optimise flow, which is somewhat related to the Shift-Left Strategy in terms of improving processes early in development. However, it primarily focuses on batch size and flow rather than explicitly addressing testing, security, or compliance integration, which are core aspects of the Shift-Left Strategy. The discussion lacks depth in terms of specific Shift-Left practices or metrics, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

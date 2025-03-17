@@ -1474,5 +1474,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses branch policies in TFVC and does not mention Scrum roles, events, or principles. While it touches on aspects of project management, it lacks direct references to Scrum or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:15:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses branch policies and their implementation in a source control system, which is related to software development processes. However, it does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements of proactive measures (like code reviews and work item requirements) that could align with Shift-Left practices, the focus is primarily on branch management rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the confidence score reflects a low alignment with the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

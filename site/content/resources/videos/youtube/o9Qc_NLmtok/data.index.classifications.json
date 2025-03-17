@@ -1522,5 +1522,17 @@
     "final_score": 64.0,
     "reasoning": "The content mentions Scrum.org and discusses immersive learning related to Scrum, indicating a direct mention of the category. However, it lacks detailed exploration of Scrum roles, events, or principles, resulting in a moderate confidence score. The focus on practical application and feedback aligns with Scrum's iterative nature but does not delve deeply into the framework itself.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:02:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Scrum, with no direct mention or discussion of the Shift-Left Strategy. While it touches on collaborative feedback and practical assignments, these elements do not specifically relate to integrating testing, security, or compliance earlier in the software development lifecycle. Therefore, the content does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

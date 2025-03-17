@@ -1666,5 +1666,17 @@
     "final_score": 88.0,
     "reasoning": "The content extensively discusses Scrum principles, particularly the importance of delivery as a measure of progress, which aligns closely with Scrum's focus on delivering value. It explicitly mentions key Scrum concepts such as Done Increment, the role of Scrum Teams, and the need for continuous delivery, demonstrating a deep understanding of the framework. The depth of discussion is significant, providing actionable insights and best practices for Scrum Teams, which further supports a high confidence score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:36:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the importance of delivery in Scrum and does not explicitly address the Shift-Left Strategy. While it touches on aspects of quality and feedback, it lacks a direct focus on integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

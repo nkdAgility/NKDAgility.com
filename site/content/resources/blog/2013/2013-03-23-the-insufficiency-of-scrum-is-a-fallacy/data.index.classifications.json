@@ -1525,5 +1525,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the insufficiency of Scrum and highlights the importance of good engineering practices alongside Scrum principles. It mentions Scrum roles, such as the Scrum Master, and emphasises the need for effective retrospectives, which are key Scrum events. The discussion is detailed and critiques common misconceptions about Scrum, indicating a strong alignment with Scrum principles. However, it also touches on other Agile frameworks, which slightly detracts from its primary focus on Scrum.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:23:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of good engineering practices, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are references to preventing technical debt and improving software quality, the focus is primarily on Scrum and Agile methodologies rather than integrating testing and security earlier in the development process. Therefore, the alignment with the Shift-Left Strategy is limited.",
+    "level": "Ignored"
   }
 }

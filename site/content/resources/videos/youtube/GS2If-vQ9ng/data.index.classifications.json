@@ -1432,5 +1432,17 @@
     "final_score": 29.0,
     "reasoning": "The content briefly mentions 'agile' but does not specifically discuss Scrum principles, roles, or events. It focuses more on the distinction between agile training and consulting without delving into Scrum's framework or practices, resulting in a low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:56:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and benefits. It does not mention the Shift-Left Strategy or its principles, techniques, or metrics. The discussion is centred around Agile practices without addressing the integration of testing, security, or compliance earlier in the software development lifecycle, which is essential for a Shift-Left classification.",
+    "level": "Ignored"
   }
 }

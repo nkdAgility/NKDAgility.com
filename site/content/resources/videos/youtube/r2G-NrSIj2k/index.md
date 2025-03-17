@@ -23,6 +23,7 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
+- Shift-Left Strategy
 - Software Development
 - Practical Techniques and Tooling
 - Code and Complexity

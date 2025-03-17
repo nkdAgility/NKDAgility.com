@@ -1525,5 +1525,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses Scrum principles and challenges common misconceptions about its rigidity. It mentions key Scrum concepts such as the Definition of Done and the role of the Development Team and Product Owner. However, it also diverges into Continuous Delivery, which, while related, is not strictly within the Scrum framework. The depth of discussion is substantial, but the focus on Continuous Delivery slightly detracts from a pure Scrum classification.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:29:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of Continuous Delivery and the importance of integrating testing and quality measures early in the development process, which aligns with the Shift-Left Strategy. However, the primary focus is on Scrum and Continuous Delivery rather than explicitly on the Shift-Left Strategy itself. The discussion lacks depth in terms of specific Shift-Left techniques and metrics, leading to a lower confidence score.",
+    "level": "Ignored"
   }
 }

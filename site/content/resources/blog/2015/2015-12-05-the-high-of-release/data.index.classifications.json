@@ -1504,5 +1504,17 @@
     "final_score": 9.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no direct mention of Scrum principles, roles, or events. While there is a brief reference to team needs, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on tooling rather than Scrum practices, resulting in a very low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:15:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices without explicitly addressing the Shift-Left Strategy. While there are mentions of building reliable release pipelines, the focus is on orchestration and integration rather than on integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in terms of Shift-Left principles and does not provide techniques or case studies related to the category.",
+    "level": "Ignored"
   }
 }

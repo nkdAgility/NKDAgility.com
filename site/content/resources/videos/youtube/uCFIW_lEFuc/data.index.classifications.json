@@ -1546,5 +1546,17 @@
     "final_score": 73.0,
     "reasoning": "The content discusses various aspects of Agile practices, particularly focusing on the principles of Scrum, such as delivering working software, gathering feedback, and empowering teams to adapt their processes. It explicitly mentions Agile principles and critiques common failures in Agile implementations, which aligns well with Scrum's emphasis on iterative progress and continuous improvement. However, while Scrum is a significant focus, the content also touches on broader Agile concepts and critiques, which slightly dilutes its primary focus on Scrum specifically.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:54:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile practices and the signs of sloth within Agile teams, without any direct mention or focus on the Shift-Left Strategy. While it touches on aspects of feedback loops and delivery, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

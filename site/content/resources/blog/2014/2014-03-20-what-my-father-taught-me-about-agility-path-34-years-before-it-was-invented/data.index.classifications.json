@@ -1525,5 +1525,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses Evidence-based Management in the context of Scrum, mentioning Scrum.org and its practices. It aligns with Scrum principles by focusing on value delivery, team dynamics, and continuous improvement. However, while it references Scrum, the primary focus is on Evidence-based Management rather than Scrum itself, which slightly lowers the confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:19:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Evidence-based Management and its application in organisational improvements, with only a tangential reference to software development. While it touches on metrics and practices that could relate to a Shift-Left approach, it does not explicitly focus on integrating testing, security, or compliance earlier in the development lifecycle. The discussion lacks depth in the specific principles and benefits of the Shift-Left Strategy, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

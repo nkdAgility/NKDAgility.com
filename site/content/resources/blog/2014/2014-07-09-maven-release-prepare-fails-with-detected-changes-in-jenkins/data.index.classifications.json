@@ -1468,5 +1468,17 @@
     "final_score": 9.0,
     "reasoning": "The content primarily discusses issues related to Jenkins integration with TFS and Maven, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:18:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses a specific issue related to Jenkins and TFS integration, focusing on build processes and file management. While it touches on aspects of software development, such as build failures and file handling, it does not explicitly address the Shift-Left Strategy or its principles. The mention of ignoring certain files could be seen as a minor alignment with the concept of early issue identification, but the overall focus is on troubleshooting and migration rather than proactive integration of testing or security earlier in the development lifecycle.",
+    "level": "Ignored"
   }
 }

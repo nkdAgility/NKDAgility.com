@@ -1528,5 +1528,17 @@
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile principles and discusses process improvement, which are relevant to Scrum, but it primarily focuses on TFS and Visual Studio rather than the Scrum framework itself. The discussion lacks depth in Scrum-specific roles, events, and artifacts, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:27:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, touching on Agile methodologies and process improvement, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are elements of early integration and continuous value delivery, the primary focus is on TFS capabilities rather than on integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
   }
 }

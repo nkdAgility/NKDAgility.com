@@ -1483,5 +1483,17 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the process of upgrading a process template specifically for 'Scrum for Team System', which directly relates to Scrum practices. It mentions various Scrum roles and work item types, such as 'Product Backlog Item', 'Sprint', and 'Sprint Retrospective', indicating a clear focus on Scrum principles. However, while it provides some detail on the commands and processes involved, it lacks a comprehensive exploration of Scrum's core themes, such as team dynamics and continuous improvement, which slightly lowers the confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:29:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on upgrading a process template in TFS and does not discuss integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of process management, it lacks a clear connection to the principles and benefits of the Shift-Left Strategy, making it largely irrelevant to the category.",
+    "level": "Ignored"
   }
 }

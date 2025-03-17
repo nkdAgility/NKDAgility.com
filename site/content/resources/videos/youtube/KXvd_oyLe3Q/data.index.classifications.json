@@ -1558,5 +1558,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses DevOps and its implementation in a large organisation, with no direct mention of Scrum principles, roles, or events. While it touches on themes of team collaboration and process improvement, these are framed within a DevOps context rather than Scrum. The lack of specific references to Scrum practices or frameworks significantly lowers the confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:43:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses DevOps transformation and the importance of refactoring and simplification, which are related to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, or compliance early in the development process. The primary focus is on addressing technical debt and improving organizational effectiveness rather than on the proactive measures typical of a Shift-Left approach.",
+    "level": "Ignored"
   }
 }

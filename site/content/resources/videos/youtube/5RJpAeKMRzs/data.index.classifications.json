@@ -1549,5 +1549,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses various aspects of Agile, with a significant focus on Scrum principles, such as backlog management, Sprint planning, and team dynamics. It mentions Scrum roles and events, particularly in the context of common pitfalls and best practices. However, while Scrum is a primary focus, the content also delves into broader Agile concepts and critiques, which slightly dilutes its alignment with the strict definition of the Scrum category.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:46:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and common pitfalls in Agile transformations, without any explicit mention or focus on the Shift-Left Strategy. While it touches on themes of accountability and value delivery, these are not directly related to integrating testing, security, or compliance earlier in the development process, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

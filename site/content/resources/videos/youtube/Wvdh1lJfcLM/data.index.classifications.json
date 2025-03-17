@@ -1462,5 +1462,17 @@
     "final_score": 34.0,
     "reasoning": "The content briefly mentions Scrum in the context of migrating from TFS to Azure DevOps, specifically in relation to changing process templates. However, the primary focus is on migration services and tools rather than Scrum principles or practices. The discussion lacks depth regarding Scrum roles, events, or empirical process control, which are core themes of the category. Therefore, while there are mentions of Scrum, they are secondary to the main topic of migration.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:44:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, discussing tools and strategies for a smooth transition. While it touches on the importance of validation and testing, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing and security early in the development lifecycle, which is central to the Shift-Left concept.",
+    "level": "Ignored"
   }
 }

@@ -1426,5 +1426,17 @@
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the concept of technical debt, which is relevant to software development but does not explicitly mention Scrum or its principles, roles, or events. The discussion lacks depth regarding Scrum practices and does not align with the core themes of the Scrum framework, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:38:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses strategies for improving code quality and addressing technical debt, which aligns with the Shift-Left Strategy's focus on integrating testing and quality assurance earlier in the development process. It mentions automated testing and code reviews, which are techniques that support a Shift-Left approach. However, the primary focus is on technical debt rather than explicitly on the Shift-Left Strategy itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

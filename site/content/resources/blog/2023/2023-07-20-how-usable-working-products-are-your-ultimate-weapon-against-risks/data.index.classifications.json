@@ -1543,5 +1543,17 @@
     "final_score": 61.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering usable working products, which aligns with Scrum's emphasis on iterative development and customer collaboration. However, it lacks direct references to specific Scrum roles, events, or artifacts, resulting in a moderate confidence score. The focus is more on general Agile practices rather than a detailed exploration of Scrum itself.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:59:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of delivering a usable working product and the role of feedback loops in Agile practices, which aligns with some principles of the Shift-Left Strategy. However, it primarily focuses on Agile methodologies and does not explicitly address integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in terms of Shift-Left techniques and tools, leading to a lower confidence score.",
+    "level": "Ignored"
   }
 }

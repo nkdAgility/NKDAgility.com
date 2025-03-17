@@ -1402,5 +1402,17 @@
     "final_score": 34.0,
     "reasoning": "The content briefly mentions Scrum in the context of the author's credentials as a professional Scrum trainer, but the primary focus is on TFS (Team Foundation Server) and its features, which are not strictly aligned with Scrum principles or practices. While there are references to backlog items and work item tracking, the discussion lacks depth regarding Scrum roles, events, or the empirical process control that defines the framework. Overall, the content does not provide a comprehensive exploration of Scrum, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:20:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on TFS Preview and its features for project management, with no explicit discussion of the Shift-Left Strategy. While it mentions testing as part of the TFS capabilities, it does not delve into integrating testing or security early in the development process, which is central to the Shift-Left concept. The overall discussion is more aligned with Agile project management rather than the proactive measures of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

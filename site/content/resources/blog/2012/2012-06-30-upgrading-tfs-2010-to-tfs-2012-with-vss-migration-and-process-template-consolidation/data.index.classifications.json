@@ -1480,5 +1480,17 @@
     "final_score": 64.0,
     "reasoning": "The content primarily focuses on upgrading TFS and migrating data, with only brief mentions of Scrum in the context of process templates. While it touches on aspects of project management and team collaboration, it lacks a comprehensive discussion of Scrum principles, roles, events, or artifacts, which are essential for a higher confidence score in this category.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:27:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data from VSS, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on project management and process templates, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

@@ -1474,5 +1474,17 @@
     "final_score": 70.0,
     "reasoning": "The content primarily focuses on upgrading to the Visual Studio Scrum 3.0 process template, which directly relates to Scrum practices and tools. It discusses specific steps and considerations for implementing Scrum within Team Foundation Server (TFS), indicating a strong alignment with Scrum principles. The depth of discussion includes practical guidance on customising and importing Scrum templates, showcasing a detailed understanding of Scrum's application in a software development context. However, while it is rich in practical advice, it lacks broader discussions on Scrum roles, events, or empirical process control, which slightly lowers the overall confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:22:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on upgrading the Visual Studio Scrum process template in TFS 2013, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile practices, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

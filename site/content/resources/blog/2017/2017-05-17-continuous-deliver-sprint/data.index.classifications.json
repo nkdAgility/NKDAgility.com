@@ -1528,5 +1528,17 @@
     "final_score": 88.0,
     "reasoning": "The content extensively discusses the concept of Sprints within the Scrum framework, highlighting their importance in empirical process control, communication, and predictability. It directly references Scrum roles, events, and the necessity of delivering working software, aligning closely with Scrum principles. The depth of discussion is significant, providing detailed insights into how Sprints function and their benefits, thus justifying a high confidence score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:14:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and continuous delivery, focusing on the cadence and planning aspects of Sprints rather than integrating testing, security, or compliance earlier in the development process. While it touches on the importance of delivery frequency, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

@@ -1456,5 +1456,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Microsoft Test Manager and its integration with Visual Studio and TFS, with no direct mention of Scrum principles, roles, or events. While it discusses team collaboration in testing, it does not align with the core themes of Scrum, such as iterative progress or empirical process control. The depth of discussion on Scrum-related topics is minimal, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:28:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Microsoft Test Manager and its integration with TFS and Visual Studio, which relates to testing processes. However, it does not explicitly mention the Shift-Left Strategy or its principles. While it touches on testing and automation, it lacks a comprehensive discussion on integrating these processes earlier in the development lifecycle, which is central to the Shift-Left concept. The focus is more on the tool's functionality rather than the strategic approach of shifting testing left.",
+    "level": "Ignored"
   }
 }

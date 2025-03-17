@@ -1540,5 +1540,17 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the roles of Scrum practitioners (Scrum Master, Product Owner, Developer) and touches on Agile principles, particularly the importance of measuring performance and its impact on team dynamics. However, while it mentions Scrum and Agile, the focus is more on systemic issues rather than specific Scrum practices or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:55:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses systemic issues and measurement in agile environments, which indirectly relates to the Shift-Left Strategy by highlighting the importance of addressing underlying processes that affect delivery. However, it does not explicitly mention Shift-Left practices or focus on integrating testing, security, or compliance early in the development lifecycle, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

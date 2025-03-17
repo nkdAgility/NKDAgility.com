@@ -1507,5 +1507,17 @@
     "final_score": 79.0,
     "reasoning": "The content extensively discusses Scrum principles, particularly the empirical process and its advantages over traditional models. It mentions Scrum roles and the importance of delivering a usable working product at the end of each Sprint, which aligns well with Scrum practices. The depth of discussion on visibility, change management, and operational risk in the context of Scrum further supports a high confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:09:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and empirical models, focusing on visibility, change, operational risk, and realised value. While these concepts are relevant to software development, they do not explicitly address the Shift-Left Strategy or its principles. The discussion lacks direct mentions of integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   }
 }

@@ -1504,5 +1504,17 @@
     "final_score": 70.0,
     "reasoning": "The content discusses Scrum practices in the context of using TFS 2010 and email to enhance team collaboration. It explicitly mentions Scrum principles and rules, indicating a strong focus on Scrum. The depth of discussion includes practical advice on managing tasks and communication within a Scrum framework, aligning well with the core themes of Scrum. However, the content also diverges into specific tools and processes, which slightly reduces the overall alignment score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:33:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses email management and task tracking within Scrum and TFS 2010, with no explicit mention of integrating testing, security, or compliance earlier in the development process. While it touches on collaboration and communication, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development.",
+    "level": "Ignored"
   }
 }

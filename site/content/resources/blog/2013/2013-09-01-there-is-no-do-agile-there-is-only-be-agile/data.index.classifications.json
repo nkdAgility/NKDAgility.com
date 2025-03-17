@@ -1525,5 +1525,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses various aspects of Scrum, including the importance of understanding agile principles beyond just the mechanics, which aligns with the Scrum framework. It mentions Scrum practices, such as empirical process control, and highlights the need for organisational change to truly embrace agility. The depth of discussion is significant, as it explores the challenges of adopting Scrum and the importance of team dynamics and collaboration. However, while Scrum is a primary focus, the content also touches on broader agile concepts, which slightly dilutes the score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:20:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of organisational change rather than focusing on the Shift-Left Strategy. While it touches on practices like TDD, it does not explicitly integrate testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy. The discussion is more about Agile adoption and cultural shifts than about the proactive integration of critical processes in the software development lifecycle.",
+    "level": "Ignored"
   }
 }

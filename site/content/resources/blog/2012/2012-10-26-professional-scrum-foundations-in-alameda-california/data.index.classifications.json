@@ -1528,5 +1528,17 @@
     "final_score": 83.0,
     "reasoning": "The content extensively discusses the Professional Scrum Foundations course, detailing its structure, objectives, and the Scrum framework, including roles, events, and artifacts. It provides a thorough exploration of the course's practical application of Scrum principles, such as self-organisation and iterative progress through sprints. The depth of discussion is significant, with specific examples of sprints and team dynamics, aligning well with the core themes of Scrum. The content is primarily focused on Scrum, with minimal mention of unrelated frameworks, justifying a high confidence score.",
     "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:24:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Foundations course, discussing Scrum roles, sprints, and team dynamics without explicitly addressing the Shift-Left Strategy. While there are mentions of early feedback and collaboration, these concepts are not explored in the context of integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
   }
 }

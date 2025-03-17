@@ -1540,5 +1540,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses backlog management, which is a crucial aspect of Scrum, particularly in relation to the Product Backlog. It mentions the importance of ordering backlog items and the implications of hierarchy, which aligns with Scrum principles. However, while it touches on Scrum concepts, it also incorporates broader agile principles and tools, which dilutes its focus on Scrum specifically. The depth of discussion on Scrum roles and events is limited, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:46:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses backlog management and the benefits of a flat structure in Agile practices, without any explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile principles, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion lacks depth regarding Shift-Left practices, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

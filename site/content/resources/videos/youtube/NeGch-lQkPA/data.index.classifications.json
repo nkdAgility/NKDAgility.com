@@ -1546,5 +1546,17 @@
     "final_score": 61.0,
     "reasoning": "The content discusses Scrum in the context of applying flow metrics, which is a secondary focus on Kanban. While it mentions Scrum roles and events like Sprint planning and Daily Scrum, the primary emphasis is on Kanban strategies rather than Scrum principles. The discussion does provide some insights into how these metrics can benefit Scrum teams, but it lacks a deep exploration of Scrum's core themes and practices, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:47:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating Kanban metrics into Scrum practices, which does not directly address the Shift-Left Strategy. While there are elements of continuous improvement and value delivery, the discussion lacks explicit references to early integration of testing, security, or compliance in the software development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
   }
 }

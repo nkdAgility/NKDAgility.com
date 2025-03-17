@@ -1522,5 +1522,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the process of adding a bug to the sprint backlog and mentions Scrum practices, such as not assigning tasks directly to team members and bringing issues up in Scrum meetings. However, the primary focus is on debugging and build processes rather than a comprehensive discussion of Scrum principles or frameworks.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:34:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses debugging a failing build and the importance of code reviews, which are tangentially related to the Shift-Left Strategy. However, it does not explicitly mention integrating testing or security earlier in the development process, nor does it provide a comprehensive exploration of the Shift-Left principles or techniques. The focus is more on immediate troubleshooting rather than proactive quality assurance.",
+    "level": "Ignored"
   }
 }
