@@ -16,13 +16,14 @@ headline:
   cards:
     - image: null
       title: engagement
-      content: Empowering Growth Through Incremental immersive learning, Outcome-Based assignements, and Facilitated Reflections.
+      content: Empowering Growth Through Incremental Immersive Learning, Outcome-Based Assignments, and Facilitated Reflections.
     - image: null
-      title: experiance
+      title: experience
       content: We literally wrote the book on Agile with Azure DevOps and spent 15 years in the field as Developer, DevOps Consultant, and Agile Coach.
     - image: null
       title: effectiveness
-      content: FContiniously adapting our way of working to maximise the value for all participoants of our training.
+      content: Continuously adapting our way of working to maximise the value for all participants of our training.
+
 sections:
   - title: Kanban Training Courses
     content: "**Interactive, activity-based** training in Professional Kanban and complementary practices for various learning levels, roles and needs. NKDAgility offers professional Kanban training courses that [ProKanban.org](https://prokanban.org) accredits"
