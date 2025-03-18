@@ -1,18 +1,28 @@
 {{- define "headline" }}
-  <section class="container my-2" style="max-width: 700px !important">
-    <div class="row p-2">
-      <div class="col-12">
+  <section class="container-fluid resources-headline py-md-4">
+    <section class="container my-2" style="max-width: 900px !important">
+      <div>
         {{- partial "publications/resourceType.html" . }}
-        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
-        {{- if .Params.subtitle }}
-          <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
-        {{- end }}
-        {{- partial "publications/craft.html" . }}
-        {{- partial "publications/share-bar.html" . }}
+        <div class="row">
+          <div class="col-12 col-xl-8">
+            <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+            {{- if .Params.subtitle }}
+              <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+            {{ else }}
+              <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+            {{- end }}
+            {{- partial "publications/craft.html" . }}
+          </div>
+          <div class="col-xl-4 d-none d-xl-flex justify-content-center align-items-center"><img src="/images/technically-agile-logo.png" /></div>
+        </div>
       </div>
-    </div>
+    </section>
+  </section>
+  <section class="container my-2" style="max-width: 900px !important">
+    {{- partial "publications/share-bar.html" . }}
   </section>
 {{- end }}
+
 {{- define "main" }}
   <section class="container my-5" style="max-width: 700px !important">
     <div class="ratio ratio-16x9 mb-4">
@@ -61,7 +71,7 @@
   <section class="container my-5" style="max-width: 700px !important">
     {{- partial "publications/tag-cloud.html" . }}
   </section>
-  <section class="container my-5" style="max-width: 700px !important">
+  <section class="container my-5" style="max-width: 900px !important">
     {{- partial "publications/share-bar.html" . }}
   </section>
   <section class="container my-5 p-2" style="max-width: 700px !important">

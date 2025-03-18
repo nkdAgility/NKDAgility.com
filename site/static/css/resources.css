@@ -1,0 +1,42 @@
+.resources-headline {
+  background-color: var(--primary-color) !important;
+  color: whitesmoke;
+}
+
+.resources-headline h1,
+.resources-headline h2,
+.resources-headline h3,
+.resources-headline h4,
+.resources-headline h5,
+.resources-headline h6 {
+  color: whitesmoke;
+}
+
+.resources-headline .text-muted {
+  color: whitesmoke !important;
+  font-size: 0.8em;
+}
+
+.resources-headline a {
+  color: var(--accent-color);
+}
+
+.resources-headline .btn-nkdagility-primary {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+.resources-headline .btn-nkdagility-primary:hover {
+  background-color: var(--accent-color-light);
+  color: white;
+}
+
+.resources-headline .btn-nkdagility-secondary {
+  background-color: var(--secondary-color);
+  color: white;
+}
+
+.resources-headline .btn-nkdagility-secondary:hover {
+  background-color: var(--secondary-color-light);
+  color: white;
+}
