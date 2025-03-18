@@ -3,6 +3,7 @@ title: TFS Sticky Buddy 2.0 development started…
 description: Discover the exciting start of TFS Sticky Buddy 2.0 development! Explore new features and modular design with WPF for enhanced productivity. Stay updated!
 ResourceId: TxY4h-j1YTB
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 173
 ResourceImportSource: Wordpress

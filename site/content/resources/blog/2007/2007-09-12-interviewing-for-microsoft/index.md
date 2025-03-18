@@ -3,6 +3,7 @@ title: Interviewing for Microsoft
 description: Explore my journey interviewing for a dream job at Microsoft, the challenges faced, and valuable lessons learned in software development and public speaking.
 ResourceId: ldGtzdVxYwE
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 315
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: TFS Event Handler in .NET 3.5 Part 1 - The Architecture
 description: Explore the architecture of a resilient TFS Event Handler in .NET 3.5. Learn to leverage Team Suite features for scalable solutions. Dive in now!
 ResourceId: LZnn3eQy53a
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3487
 ResourceImportSource: Wordpress

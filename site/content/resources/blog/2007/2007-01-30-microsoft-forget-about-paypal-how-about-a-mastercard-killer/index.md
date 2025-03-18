@@ -3,6 +3,7 @@ title: 'Microsoft: forget about PayPal, how about a MasterCard killer?'
 description: Explore the rise of digital payment alternatives as Microsoft challenges PayPal's dominance. Discover insights on the future of online transactions!
 ResourceId: i3ovxH1TSqK
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 439
 ResourceImportSource: Wordpress

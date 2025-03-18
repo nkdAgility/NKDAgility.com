@@ -3,6 +3,7 @@ title: What's in a burndown?
 description: Discover the essentials of burndown charts in Agile. Learn how to visualize progress and enhance team communication for successful sprints.
 ResourceId: SdYtGr9X2KV
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 5002
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Linked in Codeplex developers group
 description: Join the Codeplex LinkedIn groups for developers and coordinators to connect, collaborate, and enhance your project experience. Get involved today!
 ResourceId: UJU5tO1-TLi
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 227
 ResourceImportSource: Wordpress

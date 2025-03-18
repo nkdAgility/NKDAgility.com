@@ -3,6 +3,7 @@ title: Does your organisation have both Project Mangers as well as Product Owner
 description: Explore the challenges of having both Project Managers and Product Owners in your organization. Discover how to achieve true agility and team alignment.
 ResourceId: 2s_5i0e0NBx
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10489
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: The trouble with IIS6, .pac files and DNS
 description: Explore the challenges of using IIS6 with .pac files and DNS. Learn practical solutions to common proxy server issues in this insightful blog post.
 ResourceId: R2MUioX4tLG
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 448
 ResourceImportSource: Wordpress

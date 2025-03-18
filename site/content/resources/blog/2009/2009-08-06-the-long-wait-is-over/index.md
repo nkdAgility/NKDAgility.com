@@ -3,6 +3,7 @@ title: The long wait is over
 description: Discover the excitement of Windows 7's release! Learn how it outshines Vista and why it's the OS you've been waiting for. Upgrade your experience now!
 ResourceId: Ahz5CpOOGZl
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 93
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: 'TFS Event Handler: CTP 1 Delayed'
 description: Discover the delays in the TFS Event Handler CTP 1 and explore enhancements made to improve functionality. Stay updated on development progress!
 ResourceId: m_vdrvzZrol
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 381
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: TeamPlain - Revisit
 description: Discover a clever workaround for long project names in TeamPlain. Enhance your project management with this practical JavaScript solution. Read more!
 ResourceId: 74iowBMHVfu
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 419
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Uncommitted changes messing up your sync in Git with Visual Studio
 description: Learn how uncommitted changes in Git can disrupt your sync in Visual Studio. Discover effective strategies to manage your workflow and enhance productivity.
 ResourceId: CuWpL0GPBwN
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10732
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Free training at Northwest Cadence
 description: Discover free training sessions at Northwest Cadence! Join engaging Coffee Talks to enhance your skills in ALM and Quality Assurance. Don't miss out!
 ResourceId: uZaKwlACVT_
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 19
 ResourceImportSource: Wordpress

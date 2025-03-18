@@ -3,6 +3,7 @@ title: Be a kid again and upgrade to Windows Phone 8.1 Developer Preview
 description: Rediscover the joy of technology with the Windows Phone 8.1 Developer Preview. Upgrade now for exciting features and a fresh experience!
 ResourceId: CDwU__r19XS
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10515
 ResourceImportSource: Wordpress

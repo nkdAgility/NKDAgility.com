@@ -3,6 +3,7 @@ title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
 description: Unlock the full potential of your MSDN subscription! Discover how to use Visual Studio Ultimate for free at home and enhance your development skills.
 ResourceId: 3-L2Y2t-oE7
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4828
 ResourceImportSource: Wordpress

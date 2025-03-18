@@ -3,6 +3,7 @@ title: Linked in VSTS Group
 description: Join the LinkedIn VSTS Developer group to connect with fellow developers customizing Visual Studio Team System. Share insights and enhance your skills!
 ResourceId: HSVy1vwtnsH
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 226
 ResourceImportSource: Wordpress

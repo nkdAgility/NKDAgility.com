@@ -3,6 +3,7 @@ title: Not just happy, but ecstatic
 description: Discover how a consultant transformed a challenging deployment process into a streamlined success with TFS 2010, enhancing efficiency and collaboration.
 ResourceId: C7FpzXTFpU_
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3783
 ResourceImportSource: Wordpress

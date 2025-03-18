@@ -3,6 +3,7 @@ title: 'TFS Integration Tools: TF237165: The Team Foundation Server could not up
 description: Resolve the TF237165 error in TFS Integration Tools with effective troubleshooting tips. Learn how to fix validation issues and streamline your workflow!
 ResourceId: -dhZywZGtrn
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 6179
 ResourceImportSource: Wordpress

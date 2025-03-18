@@ -3,6 +3,7 @@ title: Are you doing Scrum? Really?
 description: Explore the evolving landscape of Scrum and discover a simple checklist to ensure you're truly practicing it. Embrace adaptability for better results!
 ResourceId: X1Hm4PJt0CV
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4049
 ResourceImportSource: Wordpress

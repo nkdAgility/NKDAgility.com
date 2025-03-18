@@ -3,6 +3,7 @@ title: Professional Scrum teams build software that works
 description: Discover how Professional Scrum Teams can deliver high-quality software that works. Learn to enhance accountability and trust in your development process.
 ResourceId: vCeqzJIgF1F
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 22774
 ResourceImportSource: Wordpress

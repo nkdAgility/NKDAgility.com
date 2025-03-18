@@ -3,6 +3,7 @@ title: Modelling Teams in Team Foundation Server 2013
 description: Master Team Foundation Server 2013 with expert insights on modeling teams, managing projects, and optimizing source control for enhanced collaboration.
 ResourceId: Km0aNB0A6C1
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9777
 ResourceImportSource: Wordpress

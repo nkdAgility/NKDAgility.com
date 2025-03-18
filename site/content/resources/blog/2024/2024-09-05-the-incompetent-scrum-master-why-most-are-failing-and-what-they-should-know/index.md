@@ -3,6 +3,7 @@ title: Why Most Scrum Masters Are Failing and What They Should Know
 description: Discover why many Scrum Masters fail and learn essential skills for success. Elevate your Agile practices and ensure your team's effectiveness today!
 ResourceId: VTjU5Wl2XWU
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 51730
 ResourceImportSource: Wordpress

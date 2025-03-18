@@ -3,6 +3,7 @@ title: 'Project Server 2013 Issue - TF294003: Cannot access the following PWA in
 description: Resolve the TF294003 error in Project Server 2013 with our step-by-step guide. Learn how to configure permissions for seamless integration with TFS 2012.
 ResourceId: YXA8oHuhkaD
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9096
 ResourceImportSource: Wordpress

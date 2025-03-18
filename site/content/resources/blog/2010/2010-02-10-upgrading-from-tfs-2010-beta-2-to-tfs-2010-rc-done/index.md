@@ -3,6 +3,7 @@ title: Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done
 description: Discover the smooth upgrade process from TFS 2010 Beta 2 to RC, ensuring your development team is up and running efficiently. Get expert tips and insights!
 ResourceId: dg9tlise6Bd
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 70
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: 'Evidence-based Management: Gathering the metrics'
 description: Discover how to effectively gather metrics for Evidence-based Management in software organizations to enhance value delivery and drive agile success.
 ResourceId: mK5twHwVcIg
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 10528
 ResourceImportSource: Wordpress

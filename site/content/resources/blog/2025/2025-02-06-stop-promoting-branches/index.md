@@ -3,6 +3,7 @@ title: Stop Promoting Branches
 description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
 ResourceId: x7ra7pQCDX5
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-06T09:00:00
 weight: 305

@@ -3,6 +3,7 @@ title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
 description: Discover the future of Agile training with immersive learning insights from Scrum.org's webinar. Enhance your skills and drive real change in your organization!
 ResourceId: Ax5c4JFICyO
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 50979
 ResourceImportSource: Wordpress

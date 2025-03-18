@@ -3,6 +3,7 @@ title: TFS Process Templates
 description: Explore the extensibility of TFS process templates and learn how to configure them effectively for your projects. Enhance your development process today!
 ResourceId: gJqTAngPe0a
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 386
 ResourceImportSource: Wordpress

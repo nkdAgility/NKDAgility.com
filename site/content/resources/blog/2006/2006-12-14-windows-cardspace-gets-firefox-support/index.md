@@ -3,6 +3,7 @@ title: Windows CardSpace gets Firefox support
 description: Discover how Windows CardSpace now supports Firefox with a new plug-in, enhancing digital identity management. Download it today for seamless integration!
 ResourceId: S4ZOLBDIh7u
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 458
 ResourceImportSource: Wordpress

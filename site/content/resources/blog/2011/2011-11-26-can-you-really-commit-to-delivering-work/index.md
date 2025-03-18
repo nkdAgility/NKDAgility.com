@@ -3,6 +3,7 @@ title: Can you really commit to delivering work?
 description: Explore the shift from commitment to forecasting in Scrum. Discover how this change fosters transparency and trust within your development team.
 ResourceId: uvzKTaweOnW
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4089
 ResourceImportSource: Wordpress

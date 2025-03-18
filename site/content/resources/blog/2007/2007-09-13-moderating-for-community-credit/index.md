@@ -3,6 +3,7 @@ title: Moderating for Community-Credit
 description: Join me as I share my experience moderating submissions for Community-Credit, a platform that rewards honesty and community engagement. Sign up and win prizes!
 ResourceId: ChsE6EP6OC4
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 313
 ResourceImportSource: Wordpress

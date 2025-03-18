@@ -3,6 +3,7 @@ title: TFS Process Template migration script updated
 description: Discover how to easily migrate TFS process templates with our updated script. Follow five simple steps to streamline your Agile and Scrum processes!
 ResourceId: __k7mlKoTxt
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10558
 ResourceImportSource: Wordpress

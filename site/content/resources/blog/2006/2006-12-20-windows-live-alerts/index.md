@@ -3,6 +3,7 @@ title: Windows Live Alerts
 description: Stay updated with Windows Live Alerts! Sign up to receive notifications for new blog posts and enjoy free features with a touch of advertising.
 ResourceId: kr2gucSHKSd
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 454
 ResourceImportSource: Wordpress

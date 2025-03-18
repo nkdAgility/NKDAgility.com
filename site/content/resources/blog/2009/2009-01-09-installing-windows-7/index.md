@@ -3,6 +3,7 @@ title: Installing Windows 7
 description: Discover the step-by-step process of installing Windows 7 in a virtual environment. Join Martin Hinshelwood for tips and insights on a smooth setup experience!
 ResourceId: il4oYdn6wqL
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 148
 ResourceImportSource: Wordpress

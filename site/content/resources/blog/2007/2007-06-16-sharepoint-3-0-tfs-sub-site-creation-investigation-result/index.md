@@ -3,6 +3,7 @@ title: Sharepoint 3.0 TFS Sub-Site creation investigation result
 description: Explore the challenges of automating SharePoint 3.0 TFS sub-site creation. Discover insights and manual workarounds to streamline your project setup.
 ResourceId: eel2kPfabid
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 383
 ResourceImportSource: Wordpress

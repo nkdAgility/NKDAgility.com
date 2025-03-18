@@ -3,6 +3,7 @@ title: What about hosting the Tfs Automation Platform
 description: Explore the hosting options for the TFS Automation Platform, balancing functionality and server-side components for optimal performance in cloud environments.
 ResourceId: je145Y3qB7P
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3365
 ResourceImportSource: Wordpress

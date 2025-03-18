@@ -3,6 +3,7 @@ title: TeamPlain - Install and initial views
 description: Discover how to quickly install TeamPlain and explore its features for enhanced web access. Overcome project name challenges and improve user experience!
 ResourceId: SlsFZ5kO1Jc
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 421
 ResourceImportSource: Wordpress

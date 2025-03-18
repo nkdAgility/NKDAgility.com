@@ -3,6 +3,7 @@ title: TFS Sticky Buddy Update
 description: Discover the latest updates for TFS Sticky Buddy, including fixes for key issues. Enhance your workflow with version 1.6 and improve your productivity!
 ResourceId: 6FP0Axpic3s
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 200
 ResourceImportSource: Wordpress

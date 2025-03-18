@@ -3,6 +3,7 @@ title: 'TFS 2012 Issue: TF215097 an error occurred while initializing a build fo
 description: Resolve the TF215097 error in TFS 2012 builds with our detailed guide. Learn to load custom assemblies and streamline your build process effectively!
 ResourceId: Esy-i2Fcamk
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9446
 ResourceImportSource: Wordpress

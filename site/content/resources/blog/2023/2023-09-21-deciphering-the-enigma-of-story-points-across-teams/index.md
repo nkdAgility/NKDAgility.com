@@ -3,6 +3,7 @@ title: Deciphering the Enigma of Story Points Across Teams
 description: Explore how to effectively use Story Points in agile teams. Discover better metrics for performance and value delivery to enhance your team's success.
 ResourceId: LKp5S7_4Kbw
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 49888
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: 'Agility and Windows 10: Upgrading my Surface Pro 2'
 description: Join Martin Hinshelwood as he shares his experience upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring agility and user feedback in tech.
 ResourceId: yn8SQ53TMaP
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10746
 ResourceImportSource: Wordpress

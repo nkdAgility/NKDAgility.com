@@ -3,6 +3,7 @@ title: Stop normalizing unprofessional behaviour in the name of agility
 description: Discover why unprofessional behavior undermines agility in Scrum. Learn to uphold professionalism for true agile success and better team dynamics.
 ResourceId: mqbD3iIhRg4
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 46108
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: What's new in Visual Studio 2013 and TFS 2013 RC
 description: Discover the latest features in Visual Studio 2013 and TFS 2013 RC. Enhance your development experience with powerful tools and agile improvements!
 ResourceId: _YCdFNYKYcM
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10019
 ResourceImportSource: Wordpress

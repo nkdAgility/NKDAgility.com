@@ -3,6 +3,7 @@ title: 'Microsoft Surface: Wow'
 description: Discover the excitement of Microsoft Surface technology! Explore how this innovative device could revolutionize entertainment and your digital experience.
 ResourceId: FWXk82xEnqi
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 387
 ResourceImportSource: Wordpress

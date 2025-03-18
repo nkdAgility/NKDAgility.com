@@ -3,6 +3,7 @@ title: 'Risk Mitigation: Agile Usable Products vs Documentation in Traditional P
 description: Explore how Agile's focus on usable products enhances risk mitigation compared to traditional documentation methods in project management. Adapt and thrive!
 ResourceId: vkqr5T9YVsf
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 49495
 ResourceImportSource: Wordpress

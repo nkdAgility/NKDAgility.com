@@ -3,6 +3,7 @@ title: TFS Usage Statistics
 description: Explore TFS usage statistics, including user activity, work items, and version control metrics. Discover insights to enhance your team's productivity!
 ResourceId: s5nBJ6ec37-
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 187
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: How do you handle conflict in a Scrum Team?
 description: Discover effective strategies for resolving conflicts in Scrum teams. Learn from expert Martin Hinshelwood on fostering collaboration and team harmony.
 ResourceId: xIWBb8Cy_Rv
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 39851
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Hiring a Professional Product Owner
 description: Discover the essential qualities of a Professional Product Owner. Learn how to maximize product value and enhance team collaboration for success.
 ResourceId: Stln5As7Fof
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 46138
 ResourceImportSource: Wordpress

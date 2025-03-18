@@ -3,6 +3,7 @@ title: How Usable Working Products Are Your Ultimate Weapon Against Risks
 description: Discover how delivering usable working products can mitigate risks in Agile practices. Embrace feedback loops and automation for true agility!
 ResourceId: UnSs37BlBV7
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 49501
 ResourceImportSource: Wordpress

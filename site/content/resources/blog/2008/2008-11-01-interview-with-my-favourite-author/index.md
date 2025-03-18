@@ -3,6 +3,7 @@ title: Interview with my favourite author
 description: Join me as I interview my favorite author, David Webber, and explore the captivating world of Military Sci-Fi that has inspired my reading journey!
 ResourceId: 7fvyK7-tU4O
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 175
 ResourceImportSource: Wordpress

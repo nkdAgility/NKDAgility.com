@@ -3,6 +3,7 @@ title: Windows 8.1 Preview Issue - The update is not applicable to your computer
 description: Facing the 'update not applicable' error on Windows 8.1? Discover effective solutions to install the update and enhance your system performance!
 ResourceId: a6j_DLQHNUq
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9914
 ResourceImportSource: Wordpress

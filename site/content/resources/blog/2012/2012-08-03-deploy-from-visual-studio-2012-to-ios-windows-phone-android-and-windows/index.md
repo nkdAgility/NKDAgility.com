@@ -3,6 +3,7 @@ title: Deploy from Visual Studio 2012 to iOS, Windows Phone, Android and Windows
 description: Discover how to deploy apps from Visual Studio 2012 to multiple platforms like iOS, Android, and Windows, streamlining your development process effectively.
 ResourceId: n5gPXqsSzYn
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 6950
 ResourceImportSource: Wordpress

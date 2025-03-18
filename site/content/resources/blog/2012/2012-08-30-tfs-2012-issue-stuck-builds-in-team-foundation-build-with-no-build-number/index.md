@@ -3,6 +3,7 @@ title: 'TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build nu
 description: Resolve stuck builds in TFS 2012 with our troubleshooting guide. Discover key insights and solutions to get your Team Foundation Build back on track!
 ResourceId: NARdkNvqUei
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 7760
 ResourceImportSource: Wordpress

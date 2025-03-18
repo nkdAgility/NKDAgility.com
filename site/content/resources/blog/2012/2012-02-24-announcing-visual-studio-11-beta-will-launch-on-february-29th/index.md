@@ -3,6 +3,7 @@ title: Announcing Visual Studio 11 Beta will launch on February 29th
 description: Discover the launch of Visual Studio 11 Beta on February 29th! Learn why going live is safe and how Northwest Cadence can support your development journey.
 ResourceId: oP62ZJrRzkU
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4560
 ResourceImportSource: Wordpress

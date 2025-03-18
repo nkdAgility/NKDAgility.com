@@ -3,6 +3,7 @@ title: Using multiple email alias with your existing Microsoft ID
 description: Learn how to manage multiple email aliases with your Microsoft ID, simplifying your online experience and keeping your accounts organized. Discover more!
 ResourceId: 3drabM1j0WE
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10496
 ResourceImportSource: Wordpress

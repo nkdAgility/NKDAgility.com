@@ -3,6 +3,7 @@ title: Sprint Goal is an Immediate Tactical Goal
 description: Discover how to define effective Sprint Goals as tactical steps towards your Product Goal, enhancing value delivery and user engagement in Agile projects.
 ResourceId: sLRE2HdkUCS
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 45310
 ResourceImportSource: Wordpress

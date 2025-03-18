@@ -3,6 +3,7 @@ title: Office Mobile 2007
 description: Discover the enhancements of Office Mobile 2007 on Windows Mobile 6, including RSS feeds and OneNote integration. Upgrade your mobile productivity today!
 ResourceId: E0X7Vjy0zKw
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 346
 ResourceImportSource: Wordpress

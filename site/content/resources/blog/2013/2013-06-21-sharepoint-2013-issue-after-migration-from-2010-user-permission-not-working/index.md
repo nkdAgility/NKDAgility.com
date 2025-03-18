@@ -3,6 +3,7 @@ title: SharePoint 2013 Issue - After migration from 2010 user permission not wor
 description: Resolve SharePoint 2013 migration issues with user permissions. Discover effective PowerShell solutions to ensure seamless access and authentication.
 ResourceId: M-S-kXIX-ar
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9906
 ResourceImportSource: Wordpress

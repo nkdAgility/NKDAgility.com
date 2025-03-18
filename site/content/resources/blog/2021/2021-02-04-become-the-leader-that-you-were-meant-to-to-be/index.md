@@ -3,6 +3,7 @@ title: Become the leader that you were meant to to be
 description: Unlock your leadership potential! Discover how to inspire and lead effectively in modern organizations. Become the leader you were meant to be!
 ResourceId: -Oo9b3G-8Zw
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 45806
 ResourceImportSource: Wordpress

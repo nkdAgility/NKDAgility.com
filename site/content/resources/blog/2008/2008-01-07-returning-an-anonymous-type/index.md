@@ -3,6 +3,7 @@ title: Returning an Anonymous type...
 description: Discover how to return an anonymous type in VB.NET and enhance your coding skills. Learn practical examples and improve your development process today!
 ResourceId: ZD6hMyXVz9s
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 268
 ResourceImportSource: Wordpress

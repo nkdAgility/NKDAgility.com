@@ -3,6 +3,7 @@ title: 'NDC London 2014: Why TFS no longer sucks and VSO is awesome'
 description: Discover why TFS has transformed and how VSO enhances your development process. Join Martin Hinshelwood's insights from NDC London 2014 for agile success!
 ResourceId: Lz8JHBC_e2Z
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10980
 ResourceImportSource: Wordpress

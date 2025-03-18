@@ -3,6 +3,7 @@ title: Do you know when to send a done email in Scrum?
 description: Learn when to send a 'done' email in Scrum to enhance communication and ensure task completion. Boost your team's efficiency with these essential tips!
 ResourceId: iHdkPl8gwwm
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 51
 ResourceImportSource: Wordpress

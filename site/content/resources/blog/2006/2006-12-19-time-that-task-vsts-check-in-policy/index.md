@@ -3,6 +3,7 @@ title: Time That Task VSTS Check-In Policy
 description: Explore the challenges of VSTS check-in policies and discover innovative solutions for developers to manage tasks effectively. Join the discussion now!
 ResourceId: 3-mqIx3Xkgv
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 446
 ResourceImportSource: Wordpress

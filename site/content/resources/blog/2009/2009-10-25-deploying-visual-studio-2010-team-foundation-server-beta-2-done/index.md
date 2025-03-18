@@ -3,6 +3,7 @@ title: Deploying Visual Studio 2010 Team Foundation Server Beta 2 - Done
 description: Join Martin Hinshelwood as he shares his experience migrating to Visual Studio 2010 Team Foundation Server Beta 2, highlighting key steps and team efforts.
 ResourceId: n3zK02HdExl
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 81
 ResourceImportSource: Wordpress

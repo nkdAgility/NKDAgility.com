@@ -3,6 +3,7 @@ title: 'TFS 2010 Work Item Seed: TFS Work Item system.id at a predefined number'
 description: Learn how to set TFS 2010 Work Item IDs to start at a predefined number, avoiding conflicts with existing systems. Discover a supported API method!
 ResourceId: rRCNKBm5xct
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 21
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Studying for the new job
 description: Prepare for your new job by mastering essential technologies like BizTalk and SharePoint. Discover study tips and resources to enhance your skills!
 ResourceId: Vt_AB1py8ZH
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 330
 ResourceImportSource: Wordpress

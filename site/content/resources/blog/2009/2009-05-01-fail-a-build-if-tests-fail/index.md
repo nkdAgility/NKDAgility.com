@@ -3,6 +3,7 @@ title: Fail a build if tests fail
 description: Learn how to configure TFS2008 to fail builds when tests fail, ensuring quality in your development process. Enhance your build management today!
 ResourceId: VuY5udPg1uD
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 127
 ResourceImportSource: Wordpress

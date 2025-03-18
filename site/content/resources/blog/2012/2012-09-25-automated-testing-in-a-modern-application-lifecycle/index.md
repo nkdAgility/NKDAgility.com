@@ -3,6 +3,7 @@ title: Automated Testing in a modern application lifecycle
 description: Discover the essential role of automated testing in modern application lifecycles. Learn how to enhance software quality and streamline your development process.
 ResourceId: IOUOjgnp-hB
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 8868
 ResourceImportSource: Wordpress

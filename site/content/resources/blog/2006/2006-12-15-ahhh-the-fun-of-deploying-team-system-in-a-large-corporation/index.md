@@ -3,6 +3,7 @@ title: Ahhh, the fun of deploying Team System in a large corporation
 description: Discover the challenges and solutions of deploying Team System in a large corporation. Learn tips and tricks to navigate server access issues effectively!
 ResourceId: w548lro11wJ
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 447
 ResourceImportSource: Wordpress

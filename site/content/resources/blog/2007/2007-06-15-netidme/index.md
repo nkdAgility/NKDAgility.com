@@ -3,6 +3,7 @@ title: NetIDme
 description: Explore NetIDme, a service for online identity verification that enhances user interaction and security across platforms like SharePoint and more. Discover the future!
 ResourceId: QY3BJhuGqTa
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 384
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: I always wanted to be an Admiral!
 description: Join Martin Hinshelwood as he reflects on his dream of becoming an Admiral, inspired by Battlestar Galactica. Dive into personal insights and fun quizzes!
 ResourceId: GsQob9JDjYK
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 251
 ResourceImportSource: Wordpress

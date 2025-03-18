@@ -3,6 +3,7 @@ title: 'TFS EventHandler: Now on CodePlex'
 description: Discover the TFS EventHandler now on CodePlex! Join the development journey as it transitions to a more reliable system. Get involved and share your thoughts!
 ResourceId: 24Qmd0tzO5s
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 408
 ResourceImportSource: Wordpress

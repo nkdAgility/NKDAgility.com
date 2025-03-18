@@ -3,6 +3,7 @@ title: Do you know about the Visual Studio 2010 Architecture Guidance?
 description: Discover the Visual Studio 2010 Architecture Guidance! Enhance your development skills with practical tips, hands-on labs, and easy access to essential tools.
 ResourceId: _88PkXdkKu8
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 16
 ResourceImportSource: Wordpress

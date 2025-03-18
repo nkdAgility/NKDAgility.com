@@ -3,6 +3,7 @@ title: Windows Vista Pre-SP1 Performance and Reliability Updates Result
 description: Discover how Windows Vista's pre-SP1 updates enhanced performance and reliability, making even older laptops run faster and smoother. Upgrade your experience!
 ResourceId: -jMZpToD5Kr
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 338
 ResourceImportSource: Wordpress

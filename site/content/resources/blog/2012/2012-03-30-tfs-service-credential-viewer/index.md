@@ -3,6 +3,7 @@ title: TFS Service Credential Viewer
 description: Discover the TFS Service Credential Viewer to easily manage your Team Foundation Service credentials for automated connections. Simplify your workflow today!
 ResourceId: X946f3k8qX8
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 5032
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: 'TFS 2012 - Issue: Manage Group Membership missing from admin after TFS 2
 description: Discover how to resolve the 'Manage Group Membership' issue after upgrading from TFS 2008 to TFS 2012. Get expert solutions and regain your permissions!
 ResourceId: bKcrt-7tHMX
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 7176
 ResourceImportSource: Wordpress

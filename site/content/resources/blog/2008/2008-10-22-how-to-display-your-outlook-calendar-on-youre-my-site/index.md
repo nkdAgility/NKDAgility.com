@@ -3,6 +3,7 @@ title: 'How-To: Display your Outlook calendar on you’re My Site'
 description: Learn how to display your Outlook calendar on your My Site with this step-by-step guide. Enhance your SharePoint experience effortlessly!
 ResourceId: 9eJE-0v9BjB
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 184
 ResourceImportSource: Wordpress

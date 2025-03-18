@@ -3,6 +3,7 @@ title: Connecting to SQL Server using DNS update
 description: Learn how to connect to SQL Server using DNS updates and manage SPNs effectively for seamless database access. Enhance your infrastructure setup today!
 ResourceId: P0XjI6SRWz-
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 255
 ResourceImportSource: Wordpress

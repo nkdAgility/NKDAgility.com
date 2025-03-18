@@ -3,6 +3,7 @@ title: Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and Windo
 description: Discover the powerful features of Visual Studio 2013 and TFS 2013, now available for download! Upgrade your development experience with the latest tools.
 ResourceId: 6g2Cp_ZpsHo
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10214
 ResourceImportSource: Wordpress

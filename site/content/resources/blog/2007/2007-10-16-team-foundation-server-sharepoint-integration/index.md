@@ -3,6 +3,7 @@ title: Team Foundation Server SharePoint Integration
 description: Explore the integration challenges between Team Foundation Server and SharePoint 2007. Discover insights on enhancing workflows and managing work items effectively.
 ResourceId: Dn2_7F_mhyC
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 300
 ResourceImportSource: Wordpress

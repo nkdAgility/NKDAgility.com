@@ -3,6 +3,7 @@ title: The fallacy of the rejected backlog item
 description: Explore the fallacy of rejecting backlog items in Scrum. Understand the impact on development and learn how to enhance collaboration and transparency.
 ResourceId: Ewu5coIz9qm
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 9876
 ResourceImportSource: Wordpress

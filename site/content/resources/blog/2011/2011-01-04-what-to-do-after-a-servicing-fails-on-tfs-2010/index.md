@@ -3,6 +3,7 @@ title: What to do after a servicing fails on TFS 2010
 description: Discover essential steps to take when a servicing fails on TFS 2010. Learn from real-world challenges and expert solutions to ensure a smooth upgrade.
 ResourceId: 3MtCtNaIpU3
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 20
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: About Me
 description: Discover the journey of Martin Hinshelwood, a tech enthusiast sharing insights and experiences while striving to stand out in a world of football fame.
 ResourceId: sLyEoCihMuc
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 329
 ResourceImportSource: Wordpress

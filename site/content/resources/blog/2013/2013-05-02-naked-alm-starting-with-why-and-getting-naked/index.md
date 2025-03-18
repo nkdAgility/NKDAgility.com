@@ -3,6 +3,7 @@ title: 'Naked ALM: starting with why and getting naked'
 description: Discover the essence of Application Lifecycle Management with Martin Hinshelwood. Learn to improve software delivery by starting with 'why' and embracing agility.
 ResourceId: SrQHWVkcvAL
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9499
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Search just got better
 description: Discover Tafiti, a revolutionary search tool designed for dyslexic users. Experience intuitive features that enhance your search efficiency and ease.
 ResourceId: TUpvQFU0NSg
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 323
 ResourceImportSource: Wordpress

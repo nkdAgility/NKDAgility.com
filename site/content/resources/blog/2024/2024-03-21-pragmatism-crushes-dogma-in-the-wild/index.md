@@ -3,6 +3,7 @@ title: Pragmatism crushes Dogma in the wild
 description: Discover how pragmatism triumphs over dogma in Scrum through real-world challenges in Minecraft, fostering adaptability and resilience in product development.
 ResourceId: mkdhLrKu8sh
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 51362
 ResourceImportSource: Wordpress

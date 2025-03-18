@@ -3,6 +3,7 @@ title: Installing TFS 2013 from scratch is easy
 description: Learn how to easily install TFS 2013 from scratch with step-by-step videos. Discover basic and advanced setups for efficient configuration and management.
 ResourceId: VfADNDpkNbe
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10332
 ResourceImportSource: Wordpress

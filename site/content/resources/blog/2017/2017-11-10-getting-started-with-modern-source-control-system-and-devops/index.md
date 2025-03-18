@@ -3,6 +3,7 @@ title: Getting started with a modern source control system and DevOps
 description: Discover how to choose a modern source control system that enhances your DevOps practices and supports your software development lifecycle effectively.
 ResourceId: bkiQSbbO78R
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 11456
 ResourceImportSource: Wordpress

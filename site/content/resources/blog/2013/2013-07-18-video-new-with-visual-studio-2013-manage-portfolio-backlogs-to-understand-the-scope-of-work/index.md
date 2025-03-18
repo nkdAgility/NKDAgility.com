@@ -3,6 +3,7 @@ title: 'Video: New with Visual Studio 2013: Manage portfolio backlogs to underst
 description: Discover how to effectively manage portfolio backlogs in Visual Studio 2013 to enhance your project scope understanding. Watch the video for insights!
 ResourceId: i-oFFVJd0PN
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9718
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Upgrading Windows 7 to Windows 8 remotely over Team Viewer for parents in
 description: Learn how to upgrade Windows 7 to Windows 8 remotely using Team Viewer, making tech support for your parents across the globe a breeze!
 ResourceId: Ks6r6mfVUxy
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 7712
 ResourceImportSource: Wordpress

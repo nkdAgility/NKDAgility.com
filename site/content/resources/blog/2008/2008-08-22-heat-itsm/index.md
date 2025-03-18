@@ -3,6 +3,7 @@ title: Heat ITSM
 description: Discover how to integrate Heat ITSM with TFS for efficient support call management. Streamline your workflow and enhance productivity with our insights!
 ResourceId: YKQN4PBqwk2
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 207
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Quality enablement with Visual Studio 2012
 description: Discover how Visual Studio 2012 enables continuous quality in software development, helping you meet modern user expectations and enhance brand differentiation.
 ResourceId: YcLApPV4Zgj
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9487
 ResourceImportSource: Wordpress

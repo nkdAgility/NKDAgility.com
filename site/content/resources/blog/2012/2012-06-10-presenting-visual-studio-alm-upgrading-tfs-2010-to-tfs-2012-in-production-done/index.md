@@ -3,6 +3,7 @@ title: Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in produc
 description: Discover how to successfully upgrade from TFS 2010 to TFS 2012 and unlock the full potential of Visual Studio ALM for your organization. Learn more!
 ResourceId: XVaSDKBKQvb
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 5432
 ResourceImportSource: Wordpress

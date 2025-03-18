@@ -3,6 +3,7 @@ title: Can the Definition of Done change per Sprint?
 description: Explore how the Definition of Done can evolve in Scrum. Learn to enhance quality without compromising standards in your agile development process.
 ResourceId: LdmZbBlwgM-
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 40168
 ResourceImportSource: Wordpress

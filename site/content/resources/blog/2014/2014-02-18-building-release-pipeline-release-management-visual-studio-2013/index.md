@@ -3,6 +3,7 @@ title: Building a release pipeline with Release Management with Visual Studio 20
 description: Learn to build a scalable release pipeline with Visual Studio 2013's integrated release management. Enhance your DevOps practices for continuous delivery success!
 ResourceId: Q7mjPfg5d4Q
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10372
 ResourceImportSource: Wordpress

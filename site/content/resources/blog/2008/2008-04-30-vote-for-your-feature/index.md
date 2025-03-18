@@ -3,6 +3,7 @@ title: Vote for your feature
 description: Cast your vote for the next features in TFS Sticky Buddy! Help shape version 2.0 by selecting the enhancements you want to see. Join the discussion now!
 ResourceId: 0gvfwOdoE6v
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 234
 ResourceImportSource: Wordpress

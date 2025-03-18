@@ -3,6 +3,7 @@ title: Upgrade your server to Windows Server 2012 R2 Update 1
 description: Upgrade your server to Windows Server 2012 R2 Update 1 with our step-by-step guide. Ensure your systems are up-to-date for optimal performance and security.
 ResourceId: KyDt7UnJIhX
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10472
 ResourceImportSource: Wordpress

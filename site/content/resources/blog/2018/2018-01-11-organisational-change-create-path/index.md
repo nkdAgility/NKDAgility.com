@@ -3,6 +3,7 @@ title: Create your own path to Organisational Agility
 description: Discover how to tailor your path to organisational agility with evidence-based strategies. Empower your team and drive meaningful change today!
 ResourceId: RdwxVidD26i
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 11214
 ResourceImportSource: Wordpress

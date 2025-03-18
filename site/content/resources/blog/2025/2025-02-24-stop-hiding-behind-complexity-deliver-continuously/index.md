@@ -3,6 +3,7 @@ title: Stop Hiding Behind Complexity and Start Delivering Continuously
 description: Unlock continuous delivery for any software, regardless of complexity. Invest in fixing technical debt and automate processes for faster, reliable releases.
 ResourceId: 7hEAycZIn8w
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-24T09:00:00
 weight: 250

@@ -3,6 +3,7 @@ title: 'Lab Management Issue: Enable File and Printer Sharing for Lab Management
 description: Resolve file and printer sharing issues in Visual Studio 2012 Lab Management on Windows 8 and Server 2012. Follow our guide for seamless integration!
 ResourceId: JuqjGCN5X6g
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9288
 ResourceImportSource: Wordpress

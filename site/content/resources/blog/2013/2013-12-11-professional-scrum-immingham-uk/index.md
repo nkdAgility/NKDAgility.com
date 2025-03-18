@@ -3,6 +3,7 @@ title: Professional Scrum in Immingham, UK
 description: Join the Professional Scrum course in Immingham, UK, and enhance your team's collaboration and efficiency. Discover the value of co-located training today!
 ResourceId: b-WImy6z9no
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10301
 ResourceImportSource: Wordpress

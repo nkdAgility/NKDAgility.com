@@ -3,6 +3,7 @@ title: 'Team Foundation Server Error TF30177: Team Project Creation Failed  - Pa
 description: Troubleshoot Team Foundation Server error TF30177 with expert insights. Learn to resolve project creation issues in SharePoint effectively. Read more!
 ResourceId: -H--7dlWeGE
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 327
 ResourceImportSource: Wordpress

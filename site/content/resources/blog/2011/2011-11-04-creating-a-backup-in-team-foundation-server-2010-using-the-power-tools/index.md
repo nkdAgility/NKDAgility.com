@@ -3,6 +3,7 @@ title: Creating a backup in Team Foundation Server 2010 using the Power Tools
 description: Learn how to effectively back up Team Foundation Server 2010 using Power Tools. Discover essential tips and troubleshooting for a smooth backup process.
 ResourceId: 9fVxqpOPzX8
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4025
 ResourceImportSource: Wordpress

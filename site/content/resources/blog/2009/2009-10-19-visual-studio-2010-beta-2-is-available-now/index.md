@@ -3,6 +3,7 @@ title: Visual Studio 2010 Beta 2 is available Now!
 description: Discover the new features of Visual Studio 2010 Beta 2 now available for download! Simplify your development process with enhanced tools and editions.
 ResourceId: 8vMRaXfImnd
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 86
 ResourceImportSource: Wordpress

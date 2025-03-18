@@ -3,6 +3,7 @@ title: Team System Web Access finally released
 description: Discover the release of Team System Web Access, featuring enhanced stability and new features. Learn how it improves TFS usability for developers!
 ResourceId: 8tIDL2NtDSj
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 354
 ResourceImportSource: Wordpress

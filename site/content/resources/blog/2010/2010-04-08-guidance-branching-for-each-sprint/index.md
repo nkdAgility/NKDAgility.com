@@ -3,6 +3,7 @@ title: Guidance - Branching for each Sprint
 description: Master your branching strategy for Scrum sprints! Discover how effective branching can streamline development and enhance collaboration in your projects.
 ResourceId: hPGpt57lpYZ
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 56
 ResourceImportSource: Wordpress

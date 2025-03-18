@@ -3,6 +3,7 @@ title: Creating your own Event Handler
 description: Learn to create your own event handler with Team Foundation Server. This guide simplifies the process, empowering developers to enhance their workflows.
 ResourceId: 53h9G1A5o8G
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 378
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Hiring a Professional Scrum Master
 description: Discover essential insights for hiring a Scrum Master. Learn key skills, certifications, and role expectations to find the perfect fit for your team.
 ResourceId: 1EEAZ-ldcTz
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress

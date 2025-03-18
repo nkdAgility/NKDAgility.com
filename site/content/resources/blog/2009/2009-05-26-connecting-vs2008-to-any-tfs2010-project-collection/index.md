@@ -3,6 +3,7 @@ title: Connecting VS2008 to any TFS2010 Project Collection
 description: Learn how to connect Visual Studio 2008 to TFS 2010 effortlessly. Follow our guide for seamless integration and enhance your development workflow!
 ResourceId: f6DE_mA4Fk1
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 108
 ResourceImportSource: Wordpress

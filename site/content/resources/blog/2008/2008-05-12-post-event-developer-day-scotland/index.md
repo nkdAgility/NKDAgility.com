@@ -3,6 +3,7 @@ title: 'Post event: Developer Day Scotland...'
 description: Discover insights from Developer Day Scotland, featuring expert talks on ADO.NET, Anti-Patterns, and Test Driven Development. Join the conversation!
 ResourceId: gVVlURec7mu
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 229
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: 'VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user ma
 description: Resolve VSS to TFS import issues with our guide on TF60014 & TF60087 errors. Learn how to fix user mapping problems and streamline your migration process.
 ResourceId: a2ptmGZFk8P
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 6124
 ResourceImportSource: Wordpress

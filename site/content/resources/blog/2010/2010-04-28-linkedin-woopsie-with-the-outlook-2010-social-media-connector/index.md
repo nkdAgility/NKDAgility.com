@@ -3,6 +3,7 @@ title: LinkedIn Woopsie with the Outlook 2010 Social Media Connector
 description: Discover how a LinkedIn account suspension led to insights on the Outlook 2010 Social Media Connector. Learn from my experience and avoid pitfalls!
 ResourceId: 4lmIuDVmx2V
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 47
 ResourceImportSource: Wordpress

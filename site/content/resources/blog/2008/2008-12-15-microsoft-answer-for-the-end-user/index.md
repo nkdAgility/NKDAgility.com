@@ -3,6 +3,7 @@ title: Microsoft Answer for the end-user
 description: Discover the new Microsoft Answers forum for Windows Vista users, offering straightforward support and real solutions without the technical jargon. Join now!
 ResourceId: KIMZ-rpIxds
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 151
 ResourceImportSource: Wordpress

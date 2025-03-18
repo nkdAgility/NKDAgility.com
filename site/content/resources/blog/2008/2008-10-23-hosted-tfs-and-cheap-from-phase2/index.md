@@ -3,6 +3,7 @@ title: Hosted TFS, and cheap….from Phase2
 description: Discover affordable hosted TFS solutions from Phase2, featuring full support and custom bundles. Enhance your team's productivity without contracts!
 ResourceId: UAYEfY1bHiv
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 183
 ResourceImportSource: Wordpress

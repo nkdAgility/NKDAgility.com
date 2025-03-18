@@ -3,6 +3,7 @@ title: 'TeamPlain Error: TF14002'
 description: Encountering the TF14002 error in TeamPlain? Discover insights and potential solutions to this common issue affecting source control access. Read more!
 ResourceId: PHs0D35ZIo4
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 424
 ResourceImportSource: Wordpress

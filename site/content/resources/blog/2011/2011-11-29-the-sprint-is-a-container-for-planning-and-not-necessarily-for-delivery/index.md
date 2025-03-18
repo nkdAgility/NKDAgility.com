@@ -3,6 +3,7 @@ title: The Sprint is a container for Planning and not necessarily for Delivery
 description: Explore how Scrum can enhance planning without strict delivery schedules. Learn to embrace Continuous Delivery for better software development practices.
 ResourceId: 6USQKO75YgH
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4092
 ResourceImportSource: Wordpress

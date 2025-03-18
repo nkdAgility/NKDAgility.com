@@ -3,6 +3,7 @@ title: From Unused Gym Memberships to Agile Implementation The Parallels of Misa
 description: Explore the parallels between unused gym memberships and agile implementation. Discover how commitment and consistent effort drive true transformation in both realms.
 ResourceId: mzVDd2JFtHO
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 49507
 ResourceImportSource: Wordpress

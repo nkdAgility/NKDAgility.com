@@ -3,6 +3,7 @@ title: Silverlight 4, MVVM and Test-Driven Development
 description: Join Jesse Liberty in Edinburgh to explore Silverlight 4, MVVM, and test-driven development. Enhance your coding skills and register now!
 ResourceId: n9sGWuBTtUf
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 49
 ResourceImportSource: Wordpress

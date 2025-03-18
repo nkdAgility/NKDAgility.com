@@ -3,6 +3,7 @@ title: I'm Luke Skywalker according to the Star Wars personality test.
 description: Discover your Star Wars personality with a fun test! Join me as I share my surprising results and thoughts on being Luke Skywalker. May the Force be with you!
 ResourceId: q9eDYUo8WyX
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 409
 ResourceImportSource: Wordpress

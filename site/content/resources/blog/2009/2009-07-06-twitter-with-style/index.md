@@ -3,6 +3,7 @@ title: Twitter with style
 description: Discover how Twikini enhances your Twitter experience on Windows Mobile 6.5. Learn tips and features that make tweeting stylish and efficient!
 ResourceId: eIU0OIoHUfa
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 105
 ResourceImportSource: Wordpress

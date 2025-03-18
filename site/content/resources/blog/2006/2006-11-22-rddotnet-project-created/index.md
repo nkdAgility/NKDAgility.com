@@ -3,6 +3,7 @@ title: RDdotNET Project Created
 description: Discover the RD.NET Community Foundation, a powerful new project enhancing service-oriented architecture with globalisation, relationship, and shell services.
 ResourceId: cD1LS3C3pX0
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 460
 ResourceImportSource: Wordpress

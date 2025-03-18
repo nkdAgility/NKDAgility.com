@@ -3,6 +3,7 @@ title: Balance of Leadership and Control in Scrum
 description: Explore the balance of authority and accountability in Scrum. Discover how Scrum Masters and Product Owners can empower teams while driving effective outcomes.
 ResourceId: UH6M7ujV-kB
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-03-17T09:00:00
 weight: 460

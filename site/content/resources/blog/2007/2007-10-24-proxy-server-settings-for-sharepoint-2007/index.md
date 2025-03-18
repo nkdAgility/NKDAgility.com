@@ -3,6 +3,7 @@ title: Proxy server settings for SharePoint 2007
 description: Discover essential proxy server settings for SharePoint 2007 to enhance connectivity and authentication. Simplify your setup with expert guidance!
 ResourceId: 5_4fz8bD4UU
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 295
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Uninstalling Visual Studio 2010 Beta 1
 description: Learn how to uninstall Visual Studio 2010 Beta 1 effectively, troubleshoot common issues, and ensure a smooth transition to the latest version. Get started now!
 ResourceId: 2ZvRKJUmrD9
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 115
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: You are doing it wrong if you are not using test first
 description: Unlock the power of Test First principles in software development. Learn how TDD and ATDD can enhance quality, reduce bugs, and meet customer needs effectively.
 ResourceId: yqHaiUlMNTP
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 9469
 ResourceImportSource: Wordpress

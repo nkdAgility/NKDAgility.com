@@ -3,6 +3,7 @@ title: Virtual Labs in the modern application lifecycle
 description: Explore how virtual labs enhance the modern application lifecycle, enabling agile development and efficient testing in complex environments. Rise to the challenge!
 ResourceId: SXJ7aTQkyMj
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 8803
 ResourceImportSource: Wordpress

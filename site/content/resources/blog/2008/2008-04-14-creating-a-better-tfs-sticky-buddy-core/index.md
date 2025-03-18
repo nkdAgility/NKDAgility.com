@@ -3,6 +3,7 @@ title: Creating a better TFS Sticky Buddy (Core)
 description: Explore innovative techniques for enhancing TFS Sticky Buddy with WPF. Learn to manage hierarchical data effectively and improve your coding skills!
 ResourceId: NNnyeihSpHg
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 241
 ResourceImportSource: Wordpress

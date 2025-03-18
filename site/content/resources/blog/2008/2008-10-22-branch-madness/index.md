@@ -3,6 +3,7 @@ title: Branch madness!
 description: Explore the chaos of branching in TFS and learn how to regain control of your source code. Discover essential steps to streamline your development process!
 ResourceId: s2fykp0ti2Y
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 186
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: New laptop and Windows 7
 description: Discover our journey to find the perfect pink laptop running Windows 7! Join us as we explore features, performance, and the ultimate WAF boost.
 ResourceId: XCiJC8QfDPG
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 139
 ResourceImportSource: Wordpress

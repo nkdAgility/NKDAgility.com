@@ -3,6 +3,7 @@ title: Configuring Microsoft Teams for Live Virtual Training
 description: Master Microsoft Teams for Live Virtual Training with expert tips on setup and configuration to enhance your students' learning experience. Get started now!
 ResourceId: Xc0Lh3NbXfK
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 44452
 ResourceImportSource: Wordpress

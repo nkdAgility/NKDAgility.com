@@ -3,6 +3,7 @@ title: Why do we care about software factories?
 description: Discover the importance of software factories and how they enhance development practices. Explore insights and visuals that make complex concepts accessible.
 ResourceId: cdrcglA4d9D
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 362
 ResourceImportSource: Wordpress

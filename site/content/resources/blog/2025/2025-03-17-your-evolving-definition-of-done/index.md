@@ -3,6 +3,7 @@ title: Your Evolving Definition of Done
 description: Evolve your Definition of Done (DoD) to align with organisational goals, ensuring quality and strategic value in every product increment.
 ResourceId: 5wIEg7lD_Xd
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-03-31T09:00:00
 weight: 225

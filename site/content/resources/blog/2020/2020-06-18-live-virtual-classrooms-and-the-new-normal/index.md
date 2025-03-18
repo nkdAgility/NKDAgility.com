@@ -3,6 +3,7 @@ title: Live Virtual Classroom's and the new normal
 description: Explore the shift to Live Virtual Classrooms and discover how they enhance learning experiences, making training more accessible and effective in the new normal.
 ResourceId: wS3GaFbyzDv
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 44418
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Visual Studio 2010 Overview - Introduction
 description: Explore the features of Visual Studio 2010 in this overview, designed to enhance your understanding of ALM and guide you to deeper-dive sessions. Watch now!
 ResourceId: 2d6IQ5TVE-_
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4131
 ResourceImportSource: Wordpress

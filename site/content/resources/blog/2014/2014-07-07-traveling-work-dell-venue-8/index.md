@@ -3,6 +3,7 @@ title: Traveling for work and the Dell Venue 8
 description: Discover how the Dell Venue 8 enhances travel productivity for professionals. Join Martin Hinshelwood as he shares tips and insights from his journeys.
 ResourceId: Y8cHV08YFNc
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10645
 ResourceImportSource: Wordpress

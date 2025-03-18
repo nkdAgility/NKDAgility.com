@@ -3,6 +3,7 @@ title: Is ALM a useful term?
 description: Explore the significance of ALM in modern software development. Discover how Agile practices enhance quality and adaptability for all organizations.
 ResourceId: hnvOLuqmQk7
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4576
 ResourceImportSource: Wordpress

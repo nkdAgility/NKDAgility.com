@@ -3,6 +3,7 @@ title: 'Project Server 2013 Issue – TF294026: The following work item field do
 description: Resolve the TF294026 error in Project Server 2013 with our guide. Learn how to add missing work item fields for seamless Team Foundation Server integration.
 ResourceId: zTaVoXPnTVP
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9103
 ResourceImportSource: Wordpress

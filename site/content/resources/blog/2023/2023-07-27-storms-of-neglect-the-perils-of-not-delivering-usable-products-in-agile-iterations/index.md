@@ -3,6 +3,7 @@ title: Storms of Neglect The Perils of Not Delivering Usable Products in Agile I
 description: Explore the critical consequences of neglecting usable products in Agile iterations. Learn how to maintain trust, adaptability, and team morale for success.
 ResourceId: G1N1dQ6DNEV
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 49502
 ResourceImportSource: Wordpress

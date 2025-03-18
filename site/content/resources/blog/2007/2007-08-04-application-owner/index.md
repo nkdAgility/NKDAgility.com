@@ -3,6 +3,7 @@ title: Application Owner
 description: Explore the role of an Application Owner in managing production applications, vendor relations, and SOX audits. Discover insights for effective tech management.
 ResourceId: JqwdfuCbOrt
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 348
 ResourceImportSource: Wordpress

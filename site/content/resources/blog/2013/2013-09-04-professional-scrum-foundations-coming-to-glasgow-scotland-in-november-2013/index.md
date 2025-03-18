@@ -3,6 +3,7 @@ title: Professional Scrum Foundations coming to Glasgow, Scotland in November 20
 description: Join the Professional Scrum Foundations course in Glasgow this November 2013. Enhance your team's understanding of Scrum and drive agile adoption effectively!
 ResourceId: SO1wlCfiUu4
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10094
 ResourceImportSource: Wordpress

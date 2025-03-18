@@ -3,6 +3,7 @@ title: Do you know that every user story should have an owner?
 description: Discover why every user story needs an owner for effective Scrum management. Enhance your team's communication and streamline project success!
 ResourceId: OOCAnXLzP9r
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 61
 ResourceImportSource: Wordpress

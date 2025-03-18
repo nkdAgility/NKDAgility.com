@@ -3,6 +3,7 @@ title: Configure a Build vNext Agent
 description: Learn how to configure a Build vNext Agent on VSO with this comprehensive guide. Simplify your build process and enhance your development workflow today!
 ResourceId: hyJFelRdglq
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 11021
 ResourceImportSource: Wordpress

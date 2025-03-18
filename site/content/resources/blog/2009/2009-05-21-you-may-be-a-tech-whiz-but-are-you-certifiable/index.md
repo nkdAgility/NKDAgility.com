@@ -3,6 +3,7 @@ title: You May Be a Tech Whiz, but Are You Certifiable?
 description: Test your tech knowledge with a fun Microsoft game! Discover if you're certifiable and see if you can make it to the leaderboard. Join the challenge now!
 ResourceId: kxyjGP3saZX
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 110
 ResourceImportSource: Wordpress

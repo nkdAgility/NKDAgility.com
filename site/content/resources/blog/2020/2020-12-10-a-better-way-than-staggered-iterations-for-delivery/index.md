@@ -3,6 +3,7 @@ title: A better way than staggered iterations for delivery
 description: Discover a superior approach to delivery that enhances agility and reduces technical debt. Learn how to implement effective cross-functional teams today!
 ResourceId: DOMFzBBMzfq
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 9915
 ResourceImportSource: Wordpress

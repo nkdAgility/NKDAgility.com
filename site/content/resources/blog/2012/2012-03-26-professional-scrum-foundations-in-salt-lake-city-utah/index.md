@@ -3,6 +3,7 @@ title: Professional Scrum Foundations in Salt Lake City, Utah
 description: Join Martin Hinshelwood in Salt Lake City for an engaging Professional Scrum Foundations course, empowering teams to excel in Agile practices and collaboration.
 ResourceId: f7cHTAGDbeh
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4980
 ResourceImportSource: Wordpress

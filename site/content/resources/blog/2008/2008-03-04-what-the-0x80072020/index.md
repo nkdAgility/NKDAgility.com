@@ -3,6 +3,7 @@ title: What the 0x80072020?
 description: Discover the 0x80072020 error in .NET 3.5 and learn how to securely access Active Directory with user credentials. Find solutions and insights here!
 ResourceId: ts3nKVfoy1j
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 243
 ResourceImportSource: Wordpress

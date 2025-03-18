@@ -3,6 +3,7 @@ title: Disable a timer at every level of your ASP.NET control hierarchy
 description: Learn how to disable timers in your ASP.NET control hierarchy effortlessly. Discover a simple extension method to enhance user experience on your web pages!
 ResourceId: DPQr4iigMBP
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 98
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Ten Ways to Use LinkedIn
 description: Discover ten innovative ways to leverage LinkedIn for networking, job hunting, and partnerships. Unlock the full potential of your professional connections!
 ResourceId: f_wB3o4HlXs
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 451
 ResourceImportSource: Wordpress

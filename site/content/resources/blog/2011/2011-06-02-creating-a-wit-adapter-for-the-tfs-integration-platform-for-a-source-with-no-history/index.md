@@ -3,6 +3,7 @@ title: Creating a WIT Adapter for the TFS Integration Platform for a source with
 description: Learn how to create a WIT adapter for the TFS Integration Platform, enabling seamless integration with Test Track Pro, even without historical data.
 ResourceId: bSv-E4Y5zk0
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3408
 ResourceImportSource: Wordpress

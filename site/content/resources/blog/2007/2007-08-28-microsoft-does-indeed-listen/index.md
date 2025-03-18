@@ -3,6 +3,7 @@ title: Microsoft does indeed listen
 description: Discover how Microsoft is evolving TFS with hosted options, addressing user needs, and enhancing project management features. Join the conversation!
 ResourceId: vZZ_DZ3emxB
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 318
 ResourceImportSource: Wordpress

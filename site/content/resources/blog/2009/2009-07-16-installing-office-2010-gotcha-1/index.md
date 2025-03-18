@@ -3,6 +3,7 @@ title: Installing Office 2010 gotcha 1
 description: Discover the challenges of installing Office 2010 on a 64-bit system. Learn about upgrade limitations and tips to streamline your setup process.
 ResourceId: cbNAkHnRhAW
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 104
 ResourceImportSource: Wordpress

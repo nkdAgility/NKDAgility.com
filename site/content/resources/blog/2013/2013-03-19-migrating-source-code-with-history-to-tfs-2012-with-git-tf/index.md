@@ -3,6 +3,7 @@ title: Migrating source code with history to TFS 2012 with Git-Tf
 description: Learn how to migrate source code with history to TFS 2012 using Git-Tf. Discover robust methods for seamless transitions and efficient version control.
 ResourceId: tiIa1A7zPP-
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9313
 ResourceImportSource: Wordpress

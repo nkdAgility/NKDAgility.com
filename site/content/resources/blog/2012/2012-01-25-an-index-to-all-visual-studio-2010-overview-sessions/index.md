@@ -3,6 +3,7 @@ title: Visual Studio 2010 Overview Webcasts
 description: Explore essential webcasts on Visual Studio 2010 and Team Foundation Server features. Enhance your ALM knowledge with engaging overviews and insights!
 ResourceId: _EPy7wea5xE
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4128
 ResourceImportSource: Wordpress

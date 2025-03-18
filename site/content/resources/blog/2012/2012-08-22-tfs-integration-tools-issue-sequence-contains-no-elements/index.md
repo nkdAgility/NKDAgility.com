@@ -3,6 +3,7 @@ title: 'TFS Integration Tools - Issue: Sequence contains no elements'
 description: Discover solutions for the 'Sequence contains no elements' error in TFS Integration Tools. Learn effective workarounds to streamline your migration process!
 ResourceId: 0vuwjXdRGyv
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 7377
 ResourceImportSource: Wordpress

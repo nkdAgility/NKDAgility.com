@@ -3,6 +3,7 @@ title: If your backlog is not refined then you are doing it wrong
 description: Ensure your Scrum team's success by refining your Product Backlog. Discover effective strategies to enhance clarity and quality in Sprint Planning.
 ResourceId: 4ukwclfJlXy
 ResourceType: blog
+ResourceContentOrigin: Hybrid
 ResourceImport: true
 ResourceImportId: 38243
 ResourceImportSource: Wordpress

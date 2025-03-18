@@ -3,6 +3,7 @@ title: Does your company culture resemble Survivor?
 description: Is your company culture a 'Survivor' game? Discover how fostering collaboration can enhance agility and team success in your organization.
 ResourceId: 1VbvpOX1Hg0
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9716
 ResourceImportSource: Wordpress

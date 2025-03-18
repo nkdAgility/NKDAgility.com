@@ -3,6 +3,7 @@ title: Gears of War Update starting 9-Jan-2007
 description: Get ready for the Gears of War update on January 9, 2007! Discover new multiplayer maps and fixes for ranked matches. Don't miss out!
 ResourceId: M-6kKMAcLiM
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 449
 ResourceImportSource: Wordpress

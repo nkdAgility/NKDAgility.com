@@ -3,6 +3,7 @@ title: Yorkhill Ice Bucket Challenge
 description: Join Martin Hinshelwood in the Yorkhill Ice Bucket Challenge to support ALS and Yorkhill Children's Charity. Discover his inspiring journey and donate today!
 ResourceId: dALLwF2kL-U
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10682
 ResourceImportSource: Wordpress

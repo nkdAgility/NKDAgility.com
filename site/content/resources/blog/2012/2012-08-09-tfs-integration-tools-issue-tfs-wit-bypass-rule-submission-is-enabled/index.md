@@ -3,6 +3,7 @@ title: 'TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled
 description: Resolve TFS WIT bypass-rule submission errors with our guide. Learn how to add accounts to the Service Accounts Group and streamline your TFS Integration.
 ResourceId: sb9e7R72Ioq
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 7104
 ResourceImportSource: Wordpress

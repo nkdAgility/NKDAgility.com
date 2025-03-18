@@ -3,6 +3,7 @@ title: Simpsonize Me!
 description: Discover how to 'Simpsonize' yourself! Join Martin Hinshelwood as he shares his fun experience and tips for creating your own animated character.
 ResourceId: vThsgxwl-Tv
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 355
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Kerberos problems
 description: Explore common Kerberos double hop issues and discover useful resources for troubleshooting. Join the journey to resolve your network security challenges!
 ResourceId: 0Of8b0Njxtf
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 235
 ResourceImportSource: Wordpress
