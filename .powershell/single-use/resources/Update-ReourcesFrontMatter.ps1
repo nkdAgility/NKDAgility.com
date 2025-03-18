@@ -116,14 +116,38 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     else {
         $ResourceId = New-ResourceId
     }
+
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
+
     #=================ResourceType=================
     $ResourceType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath
     if ($null -eq $ResourceType) {
         $ResourceType = $hugoMarkdown.FrontMatter.type
     }
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
-
+    #=================ResourceContentOrigin=================
+    if ($hugoMarkdown.FrontMatter.Contains("ResourceContentOrigin")) {
+        $ResourceContentOrigin = $hugoMarkdown.FrontMatter.ResourceContentOrigin
+    }
+    else {
+        switch ($ResourceType) {
+            "blog" { 
+                if ([DateTime]::Parse($hugoMarkdown.FrontMatter.date) -gt [DateTime]::Parse("2018-01-01")) {
+                    $ResourceContentOrigin = "Hybrid"
+                }
+                else {
+                    $ResourceContentOrigin = "Human"
+                }    
+            }
+            "videos" { 
+                $ResourceContentOrigin = "AI"
+            }
+            default { 
+                $ResourceContentOrigin = "Human"
+            }
+        }
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceContentOrigin' -fieldValue $ResourceContentOrigin -addAfter 'ResourceType'
+    }
     #=================ResourceImport+=================
     if ( (Test-Path (Join-Path $hugoMarkdown.FolderPath "data.yaml" )) -or (Test-Path (Join-Path $hugoMarkdown.FolderPath "data.json" ))) {
         $ResourceImport = $true
@@ -200,7 +224,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter 'aliases'
     }
 
-    Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404'
+
 
     # Interim save, before posible longer actions
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
@@ -268,6 +292,35 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     }
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+
+    ## Save seperate files for resources for use
+    if ($hugoMarkdown.FrontMatter.Contains("ResourceContentOrigin")) {
+        $origin = $hugoMarkdown.FrontMatter.ResourceContentOrigin
+        $dateString = $hugoMarkdown.FrontMatter.date
+        $slug = $hugoMarkdown.FrontMatter.slug
+    
+        if (-not $slug) {
+            $slug = $hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-'
+        }
+    
+        # Convert date to DateTime object for proper comparison
+        $date = [DateTime]::Parse($dateString)
+        $cutoffDate = [DateTime]::Parse("2018-01-01")
+    
+        if ($origin -ne "AI" -and $date -gt $cutoffDate) {
+            $directoryPath = [System.IO.Path]::Combine(".\.resources", $ResourceType)
+    
+            # Ensure the directory exists
+            if (-not (Test-Path -Path $directoryPath -PathType Container)) {
+                New-Item -Path $directoryPath -ItemType Directory -Force | Out-Null
+            }
+    
+            $SavedLocation = [System.IO.Path]::Combine($directoryPath, "$($date.ToString("yyyy-MM-dd")).$slug.$origin.md")
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $SavedLocation
+        }
+    }
+    
+    
     
     # If there are any batches for this item add it to the batch queue for reprocessing
     $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
