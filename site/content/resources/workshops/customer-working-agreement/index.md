@@ -4,6 +4,7 @@ description: Establish a clear Working Agreement in a 60-minute workshop, ensuri
 ResourceId: hjlKdneL4t8
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 resourceTypes: workshop
 layout: workshop
 aliases:

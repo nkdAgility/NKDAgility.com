@@ -4,6 +4,7 @@ description: Join our Professional Product Validation and Discovery Workshop to 
 ResourceId: w5rxdL8YHNa
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2024-07-17
 weight: 850
 author: MrHinsh

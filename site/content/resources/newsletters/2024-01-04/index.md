@@ -4,6 +4,7 @@ description: Master Scrum in 2024 with NKD Agility! Join our expert-led courses 
 ResourceId: Knb7n17SqYe
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2024-01-04
 weight: 715
 preview: naked-agility-technically-agile-1280×720-January2024.jpg

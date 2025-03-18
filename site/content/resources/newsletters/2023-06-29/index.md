@@ -4,6 +4,7 @@ description: Join NKD Agility's immersive learning experiences to master agile m
 ResourceId: A1Gq5rHDvzC
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-06-29
 weight: 530
 author: MrHinsh

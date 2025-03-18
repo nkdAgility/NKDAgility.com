@@ -4,6 +4,7 @@ description: Join us on Agile Actually as Ralph Jocham explores whether strong p
 ResourceId: dKyRYit_4xO
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 date: 2023-04-27
 weight: 1000
 categories:

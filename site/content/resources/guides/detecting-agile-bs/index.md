@@ -4,6 +4,7 @@ description: The purpose of this document is to provide guidance to DoD program 
 ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png

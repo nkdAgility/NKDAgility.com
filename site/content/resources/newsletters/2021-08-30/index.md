@@ -4,6 +4,7 @@ description: Transform your training with engaging live-virtual workshops! Join 
 ResourceId: 7oAVt27r_UY
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2021-08-30
 weight: 865
 preview: class-marketing-Q32021.jpg

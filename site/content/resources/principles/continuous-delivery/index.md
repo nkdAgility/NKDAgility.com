@@ -4,6 +4,7 @@ description: Continuous delivery of valuable product to at least some subset of 
 ResourceId: ThwZ-YCKBf-
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 resourceTypes: principles
 layout: principles
 recommendedContent: 

@@ -4,6 +4,7 @@ description: Join our Referral Programme! Share your unique code, earn credits f
 ResourceId: TJDLWyX3cZt
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-08-28
 weight: 1000
 preview: naked-agility-technically-agile-1280×720-September-2023.jpg

@@ -4,6 +4,7 @@ description: Join our immersive Agile training this year! Explore PSPO, PSM, and
 ResourceId: hz-iCoxHxxa
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2024-02-13
 weight: 700
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg

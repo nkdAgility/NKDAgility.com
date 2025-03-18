@@ -4,6 +4,7 @@ description: Join our 60-minute workshop to discover how breaking down large Bac
 ResourceId: kwS9oPiz-Ny
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 resourceTypes: workshop
 layout: workshop
 aliases:

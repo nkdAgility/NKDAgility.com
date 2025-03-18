@@ -4,6 +4,7 @@ description: Explore the Definition of Done (DoD) in this 4-hour workshop, featu
 ResourceId: IgRDk1wrh65
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 resourceTypes: workshop
 layout: workshop
 aliases:

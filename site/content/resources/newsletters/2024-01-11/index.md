@@ -4,6 +4,7 @@ description: Kickstart 2024 with our Scrum training! Enrol in January and get a 
 ResourceId: ZHJtz2t0uTU
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2024-01-11
 weight: 880
 preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg

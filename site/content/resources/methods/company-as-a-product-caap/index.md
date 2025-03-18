@@ -4,6 +4,7 @@ description: Discover how Company as a Product (CaaP) transforms businesses into
 ResourceId: 9InuUGAkHO4
 ResourceImport: false
 ResourceType: methods
+ResourceContentOrigin: Human
 weight: 1000
 draft: true
 resourceTypes: method

@@ -4,6 +4,7 @@ description: The Scrum Guide contains the definition of Scrum.
 ResourceId: 59gcHh1fYtC
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 aliases:

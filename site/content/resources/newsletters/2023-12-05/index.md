@@ -4,6 +4,7 @@ description: Join our acclaimed immersive learning classes! Enjoy a 20% discount
 ResourceId: -wdSJlbQQbK
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-12-05
 weight: 615
 preview: naked-agility-technically-agile-1280×720-December2023.jpg

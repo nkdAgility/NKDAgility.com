@@ -4,6 +4,7 @@ description: "Join Simon Reindl and Martin Hinshelwood in this month's podcast a
 ResourceId: Z1FuzHOIZD5
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 date: 2023-06-29
 weight: 1000
 categories:

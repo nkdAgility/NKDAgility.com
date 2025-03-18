@@ -4,6 +4,7 @@ description: Discover how to enhance business agility beyond teams with evidence
 ResourceId: KD08D48Weks
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 date: 2024-09-17

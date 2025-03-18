@@ -4,6 +4,7 @@ description: It seems that the resource details are incomplete. Please provide m
 ResourceId: g4aUBoHHLme
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

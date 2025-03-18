@@ -4,6 +4,7 @@ description: Master Sprint Planning with this guide! Learn to craft effective go
 ResourceId: D1dSEM9ni3C
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 resourceTypes: recipe
 layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg

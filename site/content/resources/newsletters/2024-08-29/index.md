@@ -4,6 +4,7 @@ description: "\U0001F680 Last chance! Join our Product Validation Workshop with 
 ResourceId: bvPDNFJju4h
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2024-08-29
 weight: 995
 author: MrHinsh

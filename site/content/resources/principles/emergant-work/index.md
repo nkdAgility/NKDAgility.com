@@ -4,6 +4,7 @@ description: The work needed will emerge as we do the work and help others do it
 ResourceId: g4M_sdh5Fg2
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 recommendedContent: 
 date: 2024-09-17
 weight: 1000

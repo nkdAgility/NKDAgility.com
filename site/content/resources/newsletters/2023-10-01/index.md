@@ -4,6 +4,7 @@ description: "Join Dr. Joanna Płaskonka & Martin Hinshelwood for an exclusive 1
 ResourceId: 9YRzr3RR2Da
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-10-01
 weight: 695
 author: MrHinsh

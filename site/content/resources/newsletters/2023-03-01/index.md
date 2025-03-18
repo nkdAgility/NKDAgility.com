@@ -4,6 +4,7 @@ description: Transform your learning with our Immersion Program! Engage in real-
 ResourceId: Y8ySIcajwoP
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-03-01
 weight: 855
 preview: naked-agility-technically-agile-1280×720-March2023.jpg

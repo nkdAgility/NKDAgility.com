@@ -4,6 +4,7 @@ description: Focus on delivering value to the stakeholders
 ResourceId: HzW0lKldLP9
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 recommendedContent: 
 date: 2024-09-17
 weight: 1000

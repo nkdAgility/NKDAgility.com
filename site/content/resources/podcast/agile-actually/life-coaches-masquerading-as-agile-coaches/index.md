@@ -4,6 +4,7 @@ description: Join Simon Reindl and Martin Hinshelwood in this month's Agile Actu
 ResourceId: lcekkOc8X02
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 date: 2023-04-01
 weight: 855
 categories:

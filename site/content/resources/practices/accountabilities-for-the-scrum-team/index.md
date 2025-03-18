@@ -4,6 +4,7 @@ description: Explore key accountabilities within our organisation for a deeper u
 ResourceId: D4IlRdnMoRB
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

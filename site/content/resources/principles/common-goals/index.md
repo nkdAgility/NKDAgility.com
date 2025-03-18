@@ -4,6 +4,7 @@ description: All participants and stakeholders should understand the overall str
 ResourceId: K-0Kt7CHeQw
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 resourceTypes: principles
 layout: principles
 recommendedContent: 

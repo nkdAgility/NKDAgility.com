@@ -4,6 +4,7 @@ description: Discover the Nexus framework for scaling Scrum, enabling multiple t
 ResourceId: iC8MlA3TE7S
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 aliases:

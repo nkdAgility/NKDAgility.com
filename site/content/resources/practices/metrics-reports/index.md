@@ -4,6 +4,7 @@ description: Monitor key metrics for team and project performance at [Company] t
 ResourceId: 26FWeqJuu0P
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

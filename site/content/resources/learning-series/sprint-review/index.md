@@ -4,6 +4,7 @@ description: The Sprint Review is not about the past, it's about the future. Its
 ResourceId: 9omxdDJCVDL
 ResourceImport: false
 ResourceType: learning-series
+ResourceContentOrigin: Human
 resourceTypes: learning-series
 layout: resources/learning-series
 draft: true

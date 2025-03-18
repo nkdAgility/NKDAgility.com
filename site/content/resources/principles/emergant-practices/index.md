@@ -4,6 +4,7 @@ description: Processes, practices and tools necessary will emerge as we do the w
 ResourceId: _MbvqRG_XNM
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 date: 2024-09-17
 weight: 1000
 resourceTypes: principles

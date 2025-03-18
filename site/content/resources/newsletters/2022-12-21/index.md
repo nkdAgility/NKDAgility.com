@@ -4,6 +4,7 @@ description: Exciting news for 2023! Naked Agility expands with new trainers, a 
 ResourceId: Tx-0zZJ1biI
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2022-12-21
 weight: 1000
 preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg

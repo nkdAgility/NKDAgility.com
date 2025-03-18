@@ -4,6 +4,7 @@ description: Kanban is a strategy for optimizing the flow of value through a pro
 ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 aliases:

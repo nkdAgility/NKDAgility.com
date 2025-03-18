@@ -4,6 +4,7 @@ description: A starter recipe for a Sprint Planning event with suggested facilit
 ResourceId: K4kkSAG3R7m
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 resourceTypes: recipe
 layout: recipe
 date: 2024-09-17

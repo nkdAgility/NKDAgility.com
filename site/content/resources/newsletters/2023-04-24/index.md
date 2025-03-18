@@ -4,6 +4,7 @@ description: Future-proof your career with NKD Agility! Join our community, expl
 ResourceId: 6h1D_YPjPuU
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-04-24
 weight: 530
 author: MrHinsh

@@ -4,6 +4,7 @@ description: Unlock your Scrum potential! Join our Applying Professional Scrum c
 ResourceId: WAc9JUyPY5M
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-04-06
 weight: 700
 author: MrHinsh

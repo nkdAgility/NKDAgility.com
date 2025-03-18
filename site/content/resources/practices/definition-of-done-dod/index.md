@@ -4,6 +4,7 @@ description: Getting Started with the Definition of Done (DoD). Every team shoul
 ResourceId: mAZrKmLwc3L
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 subtitle: Getting Started with the Definition of Done (DoD)
 creator: Martin Hinshelwood
 resourceTypes: practice

@@ -4,6 +4,7 @@ description: Explore common failures in project management, including lack of co
 ResourceId: U-6FN9nj1fM
 ResourceImport: false
 ResourceType: methods
+ResourceContentOrigin: Human
 date: 2024-09-17
 weight: 1000
 creator: Martin Hinshelwood

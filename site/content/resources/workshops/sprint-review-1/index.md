@@ -6,6 +6,7 @@ description: The purpose of the Sprint Review is to maintain transparency of the
 ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops
+ResourceContentOrigin: Human
 aliases:
 - /workshops/Sprint-Review-1.html
 - /learn/agile-delivery-kit/workshops/Sprint-Review-1

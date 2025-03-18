@@ -4,6 +4,7 @@ description: Join NKDAgility at Agile 2023 Scotland for inspiring talks, worksho
 ResourceId: x0sJSqJhVRG
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-07-15
 weight: 995
 preview: nkdagility-agile-2023-Scotland-Experiance.png

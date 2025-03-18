@@ -4,6 +4,7 @@ description: Join industry experts Dr. Joanna Płaskonka and Martin Hinshelwood 
 ResourceId: GdoDhtTM-Rn
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-09-28
 weight: 1000
 preview: NKDAgility-Webinar.jpg

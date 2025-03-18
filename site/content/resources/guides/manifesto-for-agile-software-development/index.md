@@ -4,6 +4,7 @@ description: We are uncovering better ways of developing software by doing it an
 ResourceId: poyC7fUGitC
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 aliases:

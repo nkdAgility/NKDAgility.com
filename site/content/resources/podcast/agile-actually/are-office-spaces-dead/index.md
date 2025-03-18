@@ -4,6 +4,7 @@ description: Join Martin and Simon in this month's Agile Actually as they discus
 ResourceId: HRq1a_8gAJF
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 date: 2023-06-01
 weight: 1000
 categories:

@@ -4,6 +4,7 @@ description: Professional Sprint Planning is a practice that helps teams to plan
 ResourceId: v_AGzuOgZ0g
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

@@ -4,6 +4,7 @@ description: "Master Scrum's Product Backlog Management with our expert-led cour
 ResourceId: 2G_gVI5phMC
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-10-09
 weight: 810
 preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg

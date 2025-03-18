@@ -4,6 +4,7 @@ description: Join Simon Reindl and Martin Hinshelwood in this podcast as they di
 ResourceId: U_pzYjx6qk6
 ResourceImport: false
 ResourceType: podcast
+ResourceContentOrigin: Human
 date: 2024-04-25
 weight: 1000
 categories:

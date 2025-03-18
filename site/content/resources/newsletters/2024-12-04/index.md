@@ -4,6 +4,7 @@ description: "\U0001F334 Martin is working from Cancun until Jan 23, 2025! Meeti
 ResourceId: I3QFLrCOXnN
 ResourceImport: false
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2024-12-10
 weight: 1000
 preview: class-marketing-Q32021.jpg

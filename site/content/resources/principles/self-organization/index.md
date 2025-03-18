@@ -4,6 +4,7 @@ description: Self Organizing teams have the autonomy to determine how to achieve
 ResourceId: eyXbQF80i4R
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 recommendedContent: 
 date: 2024-09-17
 weight: 720

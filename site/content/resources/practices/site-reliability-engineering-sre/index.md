@@ -4,6 +4,7 @@ description: Site Reliability Engineering (SRE), part of the shift-left movement
 ResourceId: K0i7PIZARDw
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

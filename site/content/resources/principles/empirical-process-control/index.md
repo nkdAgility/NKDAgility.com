@@ -4,6 +4,7 @@ description: Team and stakeholders should be transparent about the work, inspect
 ResourceId: VBf7KL90jRm
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 recommendedContent: 
 date: 2024-09-17
 weight: 1000

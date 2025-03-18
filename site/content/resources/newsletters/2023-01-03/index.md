@@ -4,6 +4,7 @@ description: Explore NKDAgility's latest edition, focusing on the vital role of 
 ResourceId: -D7_0lz9GU6
 ResourceImport: true
 ResourceType: newsletters
+ResourceContentOrigin: Human
 date: 2023-01-03
 weight: 1000
 preview: naked-agility-technically-agile-1280×720-Jan2023.jpg

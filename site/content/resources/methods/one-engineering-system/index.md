@@ -4,6 +4,7 @@ description: Unify engineering tools with the One Engineering System (1ES) to bo
 ResourceId: 6z97VZamnQQ
 ResourceImport: false
 ResourceType: methods
+ResourceContentOrigin: Human
 shorttitle: 1ES
 date: 2024-09-17
 weight: 365

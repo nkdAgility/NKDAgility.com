@@ -4,6 +4,7 @@ description: Maximise your Daily Scrum's impact! Focus on collaboration, transpa
 ResourceId: M4qDhvrXwp-
 ResourceImport: false
 ResourceType: recipes
+ResourceContentOrigin: Human
 resourceTypes: recipe
 layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg

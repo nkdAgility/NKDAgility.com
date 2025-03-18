@@ -4,6 +4,7 @@ description: The flow-based perspective of Kanban can enhance and complement the
 ResourceId: Z3HzXH_nmmz
 ResourceImport: false
 ResourceType: guides
+ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
 aliases:

@@ -4,6 +4,7 @@ description: A Product Increment is a tangible outcome of development, showcasin
 ResourceId: m1DWI59M-Tf
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

@@ -4,6 +4,7 @@ description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource th
 ResourceId: dN0v6E1KsNd
 ResourceImport: false
 ResourceType: methods
+ResourceContentOrigin: Human
 date: 2024-09-17
 weight: 1000
 creator: Martin Hinshelwood

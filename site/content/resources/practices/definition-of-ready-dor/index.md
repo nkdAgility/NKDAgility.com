@@ -4,6 +4,7 @@ description: Definition of Ready can result in significant anti-patterns in team
 ResourceId: afLYe__TZKq
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

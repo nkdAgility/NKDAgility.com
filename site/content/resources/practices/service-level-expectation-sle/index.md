@@ -4,6 +4,7 @@ description: A service level expectation (SLE) forecasts how long it should take
 ResourceId: b7fi5SAsyNb
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:

@@ -4,6 +4,7 @@ description: Update the work based on market and user feedback on timelines shor
 ResourceId: T6DrE9pN0ds
 ResourceImport: false
 ResourceType: principles
+ResourceContentOrigin: Human
 recommendedContent: 
 date: 2024-09-17
 weight: 1000

@@ -4,6 +4,7 @@ description: Discover the essentials of a Product Backlog and its items, key com
 ResourceId: HbKuUsE28mC
 ResourceImport: false
 ResourceType: practices
+ResourceContentOrigin: Human
 resourceTypes: practice
 layout: practice
 aliases:
