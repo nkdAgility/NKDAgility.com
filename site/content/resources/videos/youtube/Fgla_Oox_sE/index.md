@@ -5,6 +5,7 @@ date: 2023-12-15T07:00:05Z
 weight: 995
 ResourceId: Fgla_Oox_sE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Fgla_Oox_sE

@@ -5,6 +5,7 @@ date: 2024-04-09T08:00:20Z
 weight: 715
 ResourceId: jcs-2G99Rrw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jcs-2G99Rrw

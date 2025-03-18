@@ -5,6 +5,7 @@ date: 2020-04-10T18:32:34Z
 weight: 1000
 ResourceId: GwrubbUKBSE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GwrubbUKBSE

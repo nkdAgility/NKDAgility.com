@@ -5,6 +5,7 @@ date: 2023-04-13T14:25:06Z
 weight: 1000
 ResourceId: AaCM_pmZb4k
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: AaCM_pmZb4k

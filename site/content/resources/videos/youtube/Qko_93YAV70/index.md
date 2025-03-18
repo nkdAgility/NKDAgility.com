@@ -5,6 +5,7 @@ date: 2024-08-13T07:04:49Z
 weight: 1000
 ResourceId: Qko_93YAV70
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Qko_93YAV70

@@ -5,6 +5,7 @@ date: 2023-07-06T07:08:30Z
 weight: 810
 ResourceId: TzhiftXOJdw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TzhiftXOJdw

@@ -5,6 +5,7 @@ date: 2023-06-22T11:00:25Z
 weight: 460
 ResourceId: cv5IIVUgack
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cv5IIVUgack

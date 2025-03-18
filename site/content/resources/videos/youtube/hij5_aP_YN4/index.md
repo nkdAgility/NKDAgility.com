@@ -5,6 +5,7 @@ date: 2023-11-16T11:00:37Z
 weight: 700
 ResourceId: hij5_aP_YN4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hij5_aP_YN4

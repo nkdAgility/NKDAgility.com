@@ -5,6 +5,7 @@ date: 2020-04-07T20:33:45Z
 weight: 1000
 ResourceId: iCDEX6oHy7A
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: iCDEX6oHy7A

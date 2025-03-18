@@ -5,6 +5,7 @@ date: 2021-10-22T10:52:48Z
 weight: 1000
 ResourceId: fayDa6ihe0g
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fayDa6ihe0g

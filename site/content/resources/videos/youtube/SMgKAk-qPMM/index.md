@@ -5,6 +5,7 @@ date: 2023-12-05T07:00:10Z
 weight: 1000
 ResourceId: SMgKAk-qPMM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: SMgKAk-qPMM

@@ -5,6 +5,7 @@ date: 2020-04-10T18:35:30Z
 weight: 1000
 ResourceId: isdope3qkx4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: isdope3qkx4

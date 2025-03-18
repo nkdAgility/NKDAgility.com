@@ -5,6 +5,7 @@ date: 2023-10-26T07:00:29Z
 weight: 720
 ResourceId: kORUKHu-64A
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kORUKHu-64A

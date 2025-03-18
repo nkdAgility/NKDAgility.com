@@ -5,6 +5,7 @@ date: 2020-03-25T16:17:15Z
 weight: 1000
 ResourceId: OCJuDfc-gnc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OCJuDfc-gnc

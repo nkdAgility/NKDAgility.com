@@ -5,6 +5,7 @@ date: 2023-11-07T07:36:21Z
 weight: 1000
 ResourceId: T07AK-1FAK4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: T07AK-1FAK4

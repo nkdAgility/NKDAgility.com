@@ -5,6 +5,7 @@ date: 2023-04-25T07:00:06Z
 weight: 645
 ResourceId: FNFV4mp-0pg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FNFV4mp-0pg

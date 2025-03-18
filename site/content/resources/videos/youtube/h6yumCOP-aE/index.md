@@ -5,6 +5,7 @@ date: 2024-03-01T07:00:17Z
 weight: 720
 ResourceId: h6yumCOP-aE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: h6yumCOP-aE

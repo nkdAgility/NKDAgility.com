@@ -5,6 +5,7 @@ date: 2024-01-24T11:00:29Z
 weight: 1000
 ResourceId: cbLd-wstv3o
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cbLd-wstv3o

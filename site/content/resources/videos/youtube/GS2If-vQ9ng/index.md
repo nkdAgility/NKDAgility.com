@@ -5,6 +5,7 @@ date: 2023-09-07T07:00:08Z
 weight: 1000
 ResourceId: GS2If-vQ9ng
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GS2If-vQ9ng

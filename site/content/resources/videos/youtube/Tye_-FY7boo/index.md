@@ -5,6 +5,7 @@ date: 2023-12-14T06:45:02Z
 weight: 1000
 ResourceId: Tye_-FY7boo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Tye_-FY7boo

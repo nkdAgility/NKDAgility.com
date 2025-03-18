@@ -5,6 +5,7 @@ date: 2023-03-15T07:00:19Z
 weight: 1000
 ResourceId: wa4A_KQ-YGg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wa4A_KQ-YGg

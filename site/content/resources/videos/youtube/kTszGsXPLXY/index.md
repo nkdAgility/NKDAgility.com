@@ -5,6 +5,7 @@ date: 2024-02-14T07:00:19Z
 weight: 1000
 ResourceId: kTszGsXPLXY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kTszGsXPLXY

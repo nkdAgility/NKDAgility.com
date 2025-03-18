@@ -5,6 +5,7 @@ date: 2024-09-03T09:57:36Z
 weight: 1000
 ResourceId: 2Sal3OneFfo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2Sal3OneFfo

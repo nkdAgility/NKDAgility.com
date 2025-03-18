@@ -5,6 +5,7 @@ date: 2023-10-15T07:00:31Z
 weight: 1000
 ResourceId: utI-1HVpeSU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: utI-1HVpeSU

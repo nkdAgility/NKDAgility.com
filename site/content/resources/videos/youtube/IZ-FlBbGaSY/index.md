@@ -5,6 +5,7 @@ date: 2024-11-22T07:00:08Z
 weight: 215
 ResourceId: IZ-FlBbGaSY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IZ-FlBbGaSY

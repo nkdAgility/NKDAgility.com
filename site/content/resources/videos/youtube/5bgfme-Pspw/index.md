@@ -5,6 +5,7 @@ date: 2023-05-16T07:00:02Z
 weight: 1000
 ResourceId: 5bgfme-Pspw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5bgfme-Pspw

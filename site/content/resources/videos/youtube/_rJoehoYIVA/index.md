@@ -5,6 +5,7 @@ date: 2024-07-31T09:25:17Z
 weight: 855
 ResourceId: _rJoehoYIVA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _rJoehoYIVA

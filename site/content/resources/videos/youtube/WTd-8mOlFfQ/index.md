@@ -5,6 +5,7 @@ date: 2023-07-07T14:00:33Z
 weight: 810
 ResourceId: WTd-8mOlFfQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WTd-8mOlFfQ

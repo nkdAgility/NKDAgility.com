@@ -5,6 +5,7 @@ date: 2023-07-13T07:38:00Z
 weight: 1000
 ResourceId: 3nSV-v2cK-w
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3nSV-v2cK-w

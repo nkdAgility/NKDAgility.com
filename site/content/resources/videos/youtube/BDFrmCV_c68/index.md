@@ -5,6 +5,7 @@ date: 2023-10-13T07:00:05Z
 weight: 1000
 ResourceId: BDFrmCV_c68
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BDFrmCV_c68

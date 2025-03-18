@@ -5,6 +5,7 @@ date: 2024-11-27T06:00:25Z
 weight: 330
 ResourceId: r2G-NrSIj2k
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: r2G-NrSIj2k

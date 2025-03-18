@@ -5,6 +5,7 @@ date: 2023-09-29T07:00:14Z
 weight: 700
 ResourceId: LxM_F_JJLeg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LxM_F_JJLeg

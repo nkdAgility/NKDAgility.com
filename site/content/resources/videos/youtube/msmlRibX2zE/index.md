@@ -5,6 +5,7 @@ date: 2013-07-25T19:42:35Z
 weight: 1000
 ResourceId: msmlRibX2zE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: msmlRibX2zE

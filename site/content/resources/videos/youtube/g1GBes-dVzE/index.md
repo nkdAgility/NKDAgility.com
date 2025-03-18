@@ -5,6 +5,7 @@ date: 2023-08-31T07:00:17Z
 weight: 700
 ResourceId: g1GBes-dVzE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: g1GBes-dVzE

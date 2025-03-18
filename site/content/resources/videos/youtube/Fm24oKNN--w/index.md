@@ -5,6 +5,7 @@ date: 2017-07-27T18:16:30Z
 weight: 650
 ResourceId: Fm24oKNN--w
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Fm24oKNN--w

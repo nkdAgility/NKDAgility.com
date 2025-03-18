@@ -5,6 +5,7 @@ date: 2025-02-18T07:08:05Z
 weight: 545
 ResourceId: KWiWgLFalyA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KWiWgLFalyA

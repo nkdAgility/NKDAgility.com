@@ -5,6 +5,7 @@ date: 2023-05-17T14:00:17Z
 weight: 1000
 ResourceId: Xs-gf093GbI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Xs-gf093GbI

@@ -5,6 +5,7 @@ date: 2021-09-18T13:32:34Z
 weight: 300
 ResourceId: 1-W64WdSbF4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1-W64WdSbF4

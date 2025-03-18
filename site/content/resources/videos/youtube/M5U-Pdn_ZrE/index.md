@@ -5,6 +5,7 @@ date: 2023-12-18T11:00:15Z
 weight: 1000
 ResourceId: M5U-Pdn_ZrE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: M5U-Pdn_ZrE

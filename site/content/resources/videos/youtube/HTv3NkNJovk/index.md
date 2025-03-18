@@ -5,6 +5,7 @@ date: 2023-02-01T07:00:10Z
 weight: 515
 ResourceId: HTv3NkNJovk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HTv3NkNJovk

@@ -5,6 +5,7 @@ date: 2023-12-13T07:00:07Z
 weight: 995
 ResourceId: DBa5_WhA68M
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DBa5_WhA68M

@@ -5,6 +5,7 @@ date: 2024-03-06T07:00:17Z
 weight: 1000
 ResourceId: Ir8QiX7eAHU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Ir8QiX7eAHU

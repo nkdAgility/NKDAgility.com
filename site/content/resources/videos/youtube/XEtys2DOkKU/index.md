@@ -5,6 +5,7 @@ date: 2024-09-18T11:59:33Z
 weight: 1000
 ResourceId: XEtys2DOkKU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XEtys2DOkKU

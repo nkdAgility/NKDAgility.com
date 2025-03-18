@@ -5,6 +5,7 @@ date: 2013-08-17T07:27:19Z
 weight: 1000
 ResourceId: XCwb2-h8pZg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XCwb2-h8pZg
