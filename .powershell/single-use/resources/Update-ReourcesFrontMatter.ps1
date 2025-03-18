@@ -151,17 +151,17 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         switch ($ResourceType) {
             "blog" { 
                 if ([DateTime]::Parse($hugoMarkdown.FrontMatter.date) -gt [DateTime]::Parse("2018-01-01")) {
-                    $ResourceContentOrigin = "Hybrid"
+                    $ResourceContentOrigin = "hybrid"
                 }
                 else {
-                    $ResourceContentOrigin = "Human"
+                    $ResourceContentOrigin = "human"
                 }    
             }
             "videos" { 
-                $ResourceContentOrigin = "AI"
+                $ResourceContentOrigin = "ai"
             }
             default { 
-                $ResourceContentOrigin = "Human"
+                $ResourceContentOrigin = "human"
             }
         }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceContentOrigin' -fieldValue $ResourceContentOrigin -addAfter 'ResourceType'
@@ -347,13 +347,15 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     }
 }
 
-
+Write-Progress -id 1 -Completed
+Write-DebugLog "All markdown files processed." 
+Write-DebugLog "--------------------------------------------------------"
 
 # Save the yearly aggregated content files per ResourceType
 # Iterate over each ResourceType in the catalogue
 foreach ($ResourceType in $ResourceCatalogue.Keys) {
     foreach ($year in $ResourceCatalogue[$ResourceType].Keys) {
-        $directoryPath = [System.IO.Path]::Combine(".\.resources", $ResourceType, $year)
+        $directoryPath = [System.IO.Path]::Combine(".\.resources", $ResourceType)
 
         # Ensure the directory exists
         if (-not (Test-Path -Path $directoryPath -PathType Container)) {
@@ -371,13 +373,16 @@ foreach ($ResourceType in $ResourceCatalogue.Keys) {
             }
 
             # Save individual post file
-            $SavedLocation = [System.IO.Path]::Combine($directoryPath, "$($date.ToString("yyyy-MM-dd")).$slug.$origin.md")
-            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $SavedLocation
-
+            $SaveLocation = [System.IO.Path]::Combine($directoryPath, $year)
+            if (-not (Test-Path -Path $SaveLocation -PathType Container)) {
+                New-Item -Path $SaveLocation -ItemType Directory -Force | Out-Null
+            }
+            $SavedFile = [System.IO.Path]::Combine($SaveLocation, "$ResourceType.$($date.ToString("yyyy-MM-dd")).$slug.$origin.md")
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $SavedFile
         }
 
         # Save aggregated yearly content
-        $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$year.yaml")
+        $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$ResourceType.$year.yaml")
         $count = $ResourceCatalogue[$ResourceType][$year].Count
         $yearContent = $ResourceCatalogue[$ResourceType][$year] | ConvertTo-Yaml
         $tokens = Get-TokenCount -Content $yearContent
@@ -386,6 +391,3 @@ foreach ($ResourceType in $ResourceCatalogue.Keys) {
     }
 }
 
-Write-Progress -id 1 -Completed
-Write-DebugLog "All markdown files processed." 
-Write-DebugLog "--------------------------------------------------------"
