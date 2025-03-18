@@ -45,15 +45,15 @@ $TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $TotalItems
 ### FILTER hugoMarkdownObjects
 $hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending #| Select-Object -First 200 
-$hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { 
-    if ($_.FrontMatter.date) { 
-        $date = [DateTime]::Parse($_.FrontMatter.date)
-        return $date -gt $ResourceCatalogueCutoffDate
-    }
-    else {
-        return $false  # Skip objects with null/empty dates
-    }
-} | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
+# $hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { 
+#     if ($_.FrontMatter.date) { 
+#         $date = [DateTime]::Parse($_.FrontMatter.date)
+#         return $date -gt $ResourceCatalogueCutoffDate
+#     }
+#     else {
+#         return $false  # Skip objects with null/empty dates
+#     }
+# } | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
 
 
 # Display the filtered results
@@ -365,7 +365,7 @@ foreach ($ResourceType in $ResourceCatalogue.Keys) {
         foreach ($hugoMarkdown in $ResourceCatalogue[$ResourceType][$year]) {
             $date = [DateTime]::Parse($hugoMarkdown.FrontMatter.date)
             $slug = $hugoMarkdown.FrontMatter.slug
-            $origin = $hugoMarkdown.FrontMatter.ResourceContentOrigin
+            $origin = ($hugoMarkdown.FrontMatter.ResourceContentOrigin).ToLower()
 
             # Ensure slug is formatted properly
             if (-not $slug) {

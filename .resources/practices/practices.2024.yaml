@@ -1,4 +1,45 @@
 - FrontMatter:
+    title: Site Reliability Engineering (SRE)
+    description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
+    ResourceId: K0i7PIZARDw
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+    - /resources/K0i7PIZARDw
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+    references:
+    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)'
+      url: https://nkdagility.net/ndcoslo19-LiveSiteCulture
+    recommendedContent:
+    - collection: strategies
+      path: _strategies/one-engineering-system.md
+    videos:
+    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
+      embed: https://www.youtube.com/embed/CIDFB6XfoCg
+    date: 2024-09-17
+    weight: 690
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
+      title: Site Reliability Engineering (SRE)
+    categories:
+    - DevOps
+    - Engineering Excellence
+    tags: []
+  BodyContent: |
+    With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
+
+    We will cover the importance of transparency, telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre
+- FrontMatter:
     title: Sprint Planning Event
     description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
     ResourceId: v_AGzuOgZ0g
@@ -150,46 +191,38 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment
 - FrontMatter:
-    title: Site Reliability Engineering (SRE)
-    description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
-    ResourceId: K0i7PIZARDw
+    title: Product Backlog
+    description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
+    ResourceId: HbKuUsE28mC
     ResourceImport: false
     ResourceType: practices
     ResourceContentOrigin: Human
     resourceTypes: practice
     layout: practice
     aliases:
-    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-    - /resources/K0i7PIZARDw
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    - /resources/HbKuUsE28mC
     aliasesArchive:
-    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-    references:
-    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)'
-      url: https://nkdagility.net/ndcoslo19-LiveSiteCulture
-    recommendedContent:
-    - collection: strategies
-      path: _strategies/one-engineering-system.md
-    videos:
-    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
-      embed: https://www.youtube.com/embed/CIDFB6XfoCg
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    recommendedContent: 
     date: 2024-09-17
-    weight: 690
+    weight: 1000
     creator: Martin Hinshelwood
     card:
       button:
         content: Learn More
-      content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
-      title: Site Reliability Engineering (SRE)
-    categories:
-    - DevOps
-    - Engineering Excellence
+      content: Discover more about Product Backlog and how it can help you in your Agile journey!
+      title: Product Backlog
+    categories: []
     tags: []
   BodyContent: |
-    With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
+    ## What is a Product Backlog?
 
-    We will cover the importance of transparency, telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre
+    ## What is a Product Backlog Item?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
 - FrontMatter:
     title: Metrics and Reports
     description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
@@ -672,37 +705,4 @@
     [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
-- FrontMatter:
-    title: Product Backlog
-    description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
-    ResourceId: HbKuUsE28mC
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /practices/product-backlog.html
-    - /learn/agile-delivery-kit/practices/product-backlog
-    - /resources/HbKuUsE28mC
-    aliasesArchive:
-    - /practices/product-backlog.html
-    - /learn/agile-delivery-kit/practices/product-backlog
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Product Backlog and how it can help you in your Agile journey!
-      title: Product Backlog
-    categories: []
-    tags: []
-  BodyContent: |
-    ## What is a Product Backlog?
-
-    ## What is a Product Backlog Item?
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
 
