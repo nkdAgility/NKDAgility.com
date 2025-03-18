@@ -1,0 +1,708 @@
+- FrontMatter:
+    title: Site Reliability Engineering (SRE)
+    description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
+    ResourceId: K0i7PIZARDw
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+    - /resources/K0i7PIZARDw
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+    references:
+    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)'
+      url: https://nkdagility.net/ndcoslo19-LiveSiteCulture
+    recommendedContent:
+    - collection: strategies
+      path: _strategies/one-engineering-system.md
+    videos:
+    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
+      embed: https://www.youtube.com/embed/CIDFB6XfoCg
+    date: 2024-09-17
+    weight: 690
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
+      title: Site Reliability Engineering (SRE)
+    categories:
+    - DevOps
+    - Engineering Excellence
+    tags: []
+  BodyContent: |
+    With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
+
+    We will cover the importance of transparency, telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre
+- FrontMatter:
+    title: Sprint Planning Event
+    description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
+    ResourceId: v_AGzuOgZ0g
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/sprint-planning-event
+    - /resources/v_AGzuOgZ0g
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/sprint-planning-event
+    references: 
+    recommendedContent:
+    - collection: recipes
+      path: _recipes/sprint-planning-recipe.md
+    - collection: guides
+      path: _guides/manifesto-for-agile-software-development.md
+    - collection: guides
+      path: _guides/scrum-guide.md
+    videos:
+    - title: What is the most common mistake in sprint planning?
+      embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
+    - title: What is sprint planning?
+      embed: https://www.youtube.com/embed/nMkit8zBxG0
+    - title: 'What is your #1 tip for effective sprint planning?'
+      embed: https://www.youtube.com/embed/uQ786VBz3Jw
+    - title: How does a scrum team plan and prioritize work effectively?
+      embed: https://www.youtube.com/embed/sPmUuSy7G3I
+    date: 2024-09-17
+    weight: 810
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Sprint Planning Event and how it can help you in your Agile journey!
+      title: Sprint Planning Event
+    categories:
+    - Scrum
+    tags:
+    - Scrum Product Development
+    - Scrum Team
+    - Professional Scrum
+    - Agile Planning
+    - Agile Frameworks
+    - Agile Project Management
+    - Software Development
+    - People and Process
+    - Agile Product Management
+    - Product Delivery
+  BodyContent: |
+    We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
+
+    ![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)
+
+    ## What is Sprint Planning?
+
+    The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event the greater the degree of understanding tha the Scrum Team has going in the shorter it will be. That is, if the Product Backlog is well understood, and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood, or the Product Goal is not clear, then the Sprint Planning will be longer.
+
+    > Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team. <br /><br />
+    > The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.<br /> > [Scrum Guide](./../_guides/scrum-guide.md#sprint-planning)
+
+    ![naked Agility Scrum Framework Sprint Planning Flow](./../assets/images/naked-agility-scrum-framework-sprint-planning-flow.jpg)
+
+    I would expect a typical [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) to take from 30-120 minutes is there is clear understanding.
+
+    See [Sprint Planning Recipe](./../_recipes/sprint-planning-recipe.md) for look at how Sprint Planning might run.
+
+    ## Why is this important?
+
+    The [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is where the initial transparency of the Sprint Backlog emerges.
+
+    ## The Sprint Goal
+
+    Part of Sprint Planning is to create a Sprint Goal. The Sprint Goal is a short statement that describes what the Scrum Team intends to achieve in the Sprint. It is a commitment by the Scrum Team to the stakeholders. It is a marketing statement that helps stakeholders to understand what the Scrum Team is doing and why. It is a statement that helps stakeholders to understand how they can support the Scrum Team in their work.
+
+    ## Sprint Planning as a Planning Event
+
+    The Sprint Planning event is a planning event. It is where the Scrum Team plans the work that they will do in the Sprint. It is where they create the Sprint Backlog. This plan is a forecast of the work that the Scrum Team believes they can complete in the Sprint. It is a forecast because it is based on the current understanding of the Product Backlog and the current understanding of the Scrum Team's capacity and capability.
+
+    ## Sprint Planning is a Marketing Event
+
+    Many Scrum Teams lament on the fact that they are not able to get the support they need from stakeholders. This is often because they have not communicated their intentions and plans to stakeholders in a way that they can understand.
+
+    The Scrum Team should be aware of the external stakeholder view of the Sprint Goal and what they are working on and deliberately craft this to engage stakeholders and help them to understand how they can support the Scrum Team in their work.
+
+    If this means working on somethign other than the highest priority item in the Product Backlog then that is fine as long as it serves the purpose of maximizing the value of the work done by the scrum team.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event
+- FrontMatter:
+    title: Product Scorecard
+    description: It seems that the resource details are incomplete. Please provide more information about the resource so I can help you create an engaging description.
+    ResourceId: g4aUBoHHLme
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/product-scorecard
+    - /resources/g4aUBoHHLme
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/product-scorecard
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Product Scorecard and how it can help you in your Agile journey!
+      title: Product Scorecard
+    categories: []
+    tags: []
+  BodyContent: |
+    The purpose of the
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard
+- FrontMatter:
+    title: Product Increment
+    description: A Product Increment is a tangible outcome of development, showcasing new features or improvements that enhance the product's value in each iteration.
+    ResourceId: m1DWI59M-Tf
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/product-increment.html
+    - /learn/agile-delivery-kit/practices/product-increment
+    - /resources/m1DWI59M-Tf
+    aliasesArchive:
+    - /practices/product-increment.html
+    - /learn/agile-delivery-kit/practices/product-increment
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Product Increment and how it can help you in your Agile journey!
+      title: Product Increment
+    categories: []
+    tags: []
+  BodyContent: |
+    ## What is a Product Increment?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment
+- FrontMatter:
+    title: Product Backlog
+    description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
+    ResourceId: HbKuUsE28mC
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    - /resources/HbKuUsE28mC
+    aliasesArchive:
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Product Backlog and how it can help you in your Agile journey!
+      title: Product Backlog
+    categories: []
+    tags: []
+  BodyContent: |
+    ## What is a Product Backlog?
+
+    ## What is a Product Backlog Item?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
+- FrontMatter:
+    title: Metrics and Reports
+    description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
+    ResourceId: 26FWeqJuu0P
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/metrics-reports
+    - /resources/26FWeqJuu0P
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/metrics-reports
+    recommendedContent:
+    - practices/Metrics-Reports/
+    - practices/Metrics-Reports.html
+    - metrics-reports
+    - metrics-reports.html
+    date: 2024-09-17
+    weight: 370
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
+      title: Metrics and Reports
+    categories:
+    - Product Management
+    - Engineering Excellence
+    - DevOps
+    tags:
+    - Metrics and Learning
+    - Operational Practices
+    - Transparency
+    - Flow Efficiency
+    - Product Delivery
+    - Value Delivery
+    - Team Performance
+    - Evidence Based Management
+    - Evidence Based Leadership
+    - Throughput
+  BodyContent: |
+    In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
+
+    ###Background material
+
+    - [EBM Guide]
+
+    ## Product/Project/Organisation Focus
+
+    Here are the key metrics that should be collected and made transparent for every Product/Project/Organisation.
+
+    - **Customer Satisfaction** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.
+    - **Employee Satisfaction** - Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.
+    - **Defect Trend** - Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don't work as intended.
+    - **Mean Time to Repair** - The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.
+    - **Release Stabilization** - The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.
+    - **Deployment / Release Frequency** - The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.
+
+    ## Team Focus
+
+    At the team level we should focus on the flow of value to the stakeholders. For this to work we should collect and monitor the following:
+
+    - **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a Scrum Team uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
+    - **Cycle Time** - The amount of elapsed time between when a work item starts and when a work item finishes.
+    - **Work Item Age ** - The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
+    - **Throughput** - The number of work items finished per unit of time.
+
+    ![image.png](/.attachments/image-780125d0-ecac-43a2-8bfe-b1ad2939d02f.png =800x)
+
+    Things that we should not monitor (but the Team can for their own edification if they desire):
+
+    - Story Points
+    - Velocity
+    - Remaining Work
+    - Original Estimate
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports
+- FrontMatter:
+    title: Definition of Ready (DoR)
+    description: Definition of Ready can result in significant anti-patterns in teams.
+    ResourceId: afLYe__TZKq
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/Definition-of-Ready-DoR.html
+    - /learn/agile-delivery-kit/practices/definition-of-ready-dor
+    - /resources/afLYe__TZKq
+    aliasesArchive:
+    - /practices/Definition-of-Ready-DoR.html
+    - /learn/agile-delivery-kit/practices/definition-of-ready-dor
+    recommendedContent:
+    - /practices/Definition-of-Ready-DoR.html
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Definition of Ready (DoR) and how it can help you in your Agile journey!
+      title: Definition of Ready (DoR)
+    categories:
+    - Scrum
+    tags:
+    - Agile Project Management
+    - Software Development
+    - Definition of Ready
+    - Agile Product Management
+    - Scrum Product Development
+    - Professional Scrum
+    - Product Backlog
+    - Software Developers
+    - People and Process
+  BodyContent: |
+    From the perspective of Scrum, the idea of Ready, as applied to a Backlog Item, represents everyone's (Developers, Product Owner, & Stakeholders) understanding of what is needed to implement that Backlog Item. Since this is subjective and not objective, having a definition of what constitutes ready is not possible.
+
+    The danger of having a defined definition of Ready (DoR) is:
+
+    - **False sense of Ready** - First that it creates a false sense of Ready that encompasses the objective points that we can focus on, but misses the subjective. This can lead to false gating, where participants hold each other accountable for failing to achieve something that was not defined in the first place.
+    - **Neglecting Refinement** - If things are "ready" then why would we have to understand it better!
+    - **False Equivalence with DoD** - Using the DoR terminology generally leads participants to feel that the DoD and the DoR have an equivalence. This is dangerous as the DoD is an absolute boolean proposition, while the subjective nature of the DoR may lead it to be only partially implemented. If it's OK to only partially achieve the DoR, the logical fallacy is that the DoD can also be partially implemented.
+
+    A solution that may enable the effective use of this practice may be to a different formula of naming to create disambiguation between the DoR and the DoD.
+
+    ## Backlog Candidacy Test
+
+    Every candidate Backlog Item should have:
+
+    - has a clear outcome or objective.
+    - contains a clear hypothesis.
+    - defignes clear telemetry to be collected.
+
+    Once candidacy is achieved then the Team & Stakehodlers can determin Ready with conversation.
+
+    ## Rule of Thumb
+
+    _As a general rule Developers should not take Backlog Item into a Sprint that they do not fully understand and agree, as a team, that there is a reasonable likelihood of being successful._
+
+    ## INVEST
+
+    - I (Independent). The PBI should be self-contained and it should be possible to bring it into progress without a dependency upon another PBI or an external resource.
+    - N (Negotiable). A good PBI should leave room for discussion regarding its optimal implementation.
+    - V (Valuable). The value a PBI delivers to stakeholders should be clear.
+    - E (Estimable). A PBI must have a size relative to other PBIs.
+    - S (Small). PBIs should be small enough to estimate with reasonable accuracy and to plan into a time-box such as a Sprint.
+    - T (Testable). Each PBI should have clear acceptance criteria which allow its satisfaction to be tested.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-ready-dor\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-ready-dor
+- FrontMatter:
+    title: Definition of Done (DoD)
+    description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
+    ResourceId: mAZrKmLwc3L
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    subtitle: Getting Started with the Definition of Done (DoD)
+    creator: Martin Hinshelwood
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/Definition-of-Done-DoD.html
+    - /learn/agile-delivery-kit/practices/definition-of-done-dod
+    - /resources/mAZrKmLwc3L
+    aliasesArchive:
+    - /practices/Definition-of-Done-DoD.html
+    - /learn/agile-delivery-kit/practices/definition-of-done-dod
+    references:
+    - title: Getting started with a Definition of Done (DoD)
+      url: https://www.scrum.org/resources/blog/getting-started-definition-done-dod
+    - title: DONE Understanding Of The Definition Of "Done”
+      url: https://www.scrum.org/resources/blog/done-understanding-definition-done
+    - title: Scrum.org Learning Series - Definition of Done
+      url: https://www.scrum.org/resources/what-definition-done
+    recommendedContent:
+    - collection: guides
+      path: _guides/scrum-guide.md
+    videos:
+    - title: Why is done so important in the Reporting & Data Space?
+      embed: https://www.youtube.com/embed/RzWFeLfSnP0
+    - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
+      embed: https://www.youtube.com/embed/QA2QdBG5uLE
+    date: 2024-09-17
+    weight: 410
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Definition of Done (DoD) and how it can help you in your Agile journey!
+      title: Definition of Done (DoD)
+    categories:
+    - Scrum
+    - Social Technologies
+    tags:
+    - Increment
+    - Transparency
+    - Definition of Done
+    - Scrum Product Development
+    - Software Development
+    - Working Software
+    - Professional Scrum
+    - Product Delivery
+    - Agile Project Management
+    - Empirical Process Control
+  BodyContent: |
+    Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
+    {: .lead}
+
+    [Developers](./../_guides/scrum-guide.md#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. Working Software is not specific to a PBI; it’s applied regardless of PBI to the entire delivery.
+
+    ![Definition of Done (DoD)](./../../assets/images/naked-agility-scrum-framework-definition-of-done.jpg)
+
+    > “The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of > > Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.”\\
+    > --<cite>[The 2020 Scrum Guide](./../_guides/scrum-guide.md)</cite>
+
+    If you can’t ship working software at least every 30 days then by its very definition, you are not yet doing Scrum. Since [Professional Scrum Teams build software that works](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by “working” continuously, and at least on a regular cadence.
+
+    **The purpose of the definition of done is to provide transparency of what has been done!** This provides the team with focus on whats needed and commitment to the minimum level of quality needed. Every team has full control over the level of quality that they provide.
+
+    A clear shared definition of done allows us to:
+
+    1.  Maintain Transparency of what we have Done
+    2.  Understand how much work is required to deliver an item
+    3.  Create an agreement of what we show at the Sprint Review
+    4.  Protect our Brand!
+
+    > Live and in production, collecting telemetry supporting or diminishing the starting hypothesis.\\
+    > --<cite>from Definition of Done (DoD) for the Azure DevOps Product Teams</cite>
+    > {: .blockquote}
+
+    ## What is Done?
+
+    Done does not reflect the requirements, value, or stories. It is a shared understanding of quality.
+
+    If you were creating a definition of done for a bakery that would make a number of products you would likely like the following to always be true:
+
+    1. Kitchen is clean at time of preparation
+    2. All ingredients are fresh
+    3. All items cooked to the appropriate temperature.
+    4. Each batch taste tested
+
+    This short measurable checklist that reflects quality should be true regardless of what the bakery is creating; baguettes, donuts, or meat pies. All must meet this simple definition of done to be sellable and not risk the customers, its employees, or the business.
+
+    Before you cut a single line of code, you need to decide what done means for your product and your company. It will be defined very differently if you are building firmware for pacemakers or if you are creating an e-commerce portal. Here are some characteristics of a Definition of Done:
+
+    - **A short, measurable checklist** – try and have things on your DoD that can be measured, that you can test the outcome, preferably in an automated fashion.
+    - **Mirrors shippable** – While you might not have shipped your product, [although we recommended it](https://nkdagility.com/blog/continuous-deliver-sprint/), you should have that choice. Your [Product Owner](./../_guides/scrum-guide.md#product-owner) should be able to say, at the [Sprint Review](./../_guides/scrum-guide.md#sprint-review): “That’s Awesome… lets ship it.”.
+    - **No further work** – There should be no further work required from the [Developers](./../_guides/scrum-guide.md#developers) to ship your product to production. Any additional work means that you were not Done, and it takes away from the [Product Owner](./../_guides/scrum-guide.md#product-owner) capacity for the next iteration. Ideally, you have a fully automated process for delivering software, and [never use staggered iterations for delivery](https://nkdagility.com/blog/a-better-way-than-staggered-iterations-for-delivery/).
+
+    A simple definition of DOD from Scrum: "a shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Scrum Team."
+
+    _Your short, measurable checklist that mirrors usable and results in no further work required to ship your product needs to be defined._ A great way to do this is to get the Scrum Team (the Product Owner plus the Developers and any relevant Stakeholders) into a [facilitated DoD Workshop](./../_workshops/definition-of-done.md). Without a Definition of Done we don’t understand what working software means, and without working software we cant have predictable delivery. Your Product Owner can’t reject a Backlog Item, only whether the Increment is working or not.
+
+    No mater what you are building you should have a clear and concise definition of done that can be understood and articulated by the whole Team, and ideally by your stakeholders.
+
+    ## Done Means Releasable
+
+    When the [Product Backlog](./../_guides/scrum-guide.md#product-backlog) item or an [Increment](./../_guides/scrum-guide.md#increment) is described as Done, everyone must understand what that means. Although this varies significantly per team, members must have a shared understanding of what it means for work to be complete to ensure transparency, the foundation of any empirical system. This is the definition of done for the team and is used to assess when work is complete on the product increment. The same definition guides the developers in knowing how many [Product Backlog items](./../_guides/scrum-guide.md#product-backlog) they can select during [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning). The purpose of each [Sprint](./../_guides/scrum-guide.md#the-sprint) is to deliver [Increments](./../_guides/scrum-guide.md#increment) of releasable functionality that adhere to the team's current definition of done.
+
+    An explicit and concrete definition of done may seem small, but it can be the most critical checkpoint of work. Without a consistent meaning of "Done", we cant know what it takes to get something finished. Conversely, a common definition of done ensures that the increment produced at the end of iteration is of high quality, with minimal defects. The Definition of Done is the soul of Scrum, and mature Developers will resist demonstrating at the Sprint Review (let alone deploying) any increment that is not Done.
+
+    ![Scrum Requires Done](../assets/images/scrum-requires-done.png){: style="width:250px"}\\
+    [Scrum Requires Done (PDF)](../assets/attachments/scrum-requires-done.pdf)
+
+    #### Releasable
+
+    A releasable product is one that has been designed, developed and tested and is therefore ready for distribution to anyone in the organisation for review or even to any external stakeholder. This isn't a prototype or a demo-only release. This is ready for production. Adhering to a list of acceptance criteria ensures that the Increment is truly releasable, meaning:
+
+    - All aspects of quality are ready
+    - No corners were cut during development
+    - All acceptance criteria were met and verified
+    - The Product Owner accepts it
+
+    The Product Owner can accept the work at any time during the Sprint. The Sprint Review should not be an "acceptance meeting", but rather an opportunity to inspect the Increment and adapt the Product Backlog.
+
+    ## My First Definition of Done (DoD)
+
+    Your Definition of Done does not just magically appear, and your software does not magically comply with it once it has been created. Making your Software comply with your definition of done is hard work, and while your definition of done should organically grow, you need to create the seed that you can build on.
+
+    I recommend that you [run a DoD Workshop](./../_workshops/definition-of-done.md) with the entire Scrum Team, and likely some other domain experts or interested parties. If there are _stage gates_ that your software has to pass after Developers are Done, then you need representatives from those gates to participate in the workshop. Regardless of your product you likely need representatives with the following expertise; Code, Test, Security, UX, UI, Architecture, etc. You may have this expertise on your team, or you may need to bring in an expert from your organisation, or even external to your organisation.
+
+    Here is a list of things that you should consider for your DoD:
+
+    - **Quality code base (clean, readable, naming conventions)** - Agree with Stakeholder(s) / Developers
+    - **Architectural conventions respected** - Agree with Stakeholder(s) / Developers
+    - **According to design/style guide** - Agree with Stakeholder(s) / Developers
+    - **Documented** - Agree with Stakeholder(s) / Developers
+    - **Service levels guaranteed (uptime, performance, response time)** - Agree with Stakeholder(s) / Developers
+    - **Tested** - Agree with Stakeholder(s) / Developers on the amount of Testing with regard to Integration, Performance, Stability, & Regression
+
+    Ultimately ask your self: *"Would you be happy to release this increment to production and support it? You are on call tonight!"*.
+
+    Whatever Definition of Done you come up with it is unlikely that your entire Product currently meets the criteria. You are not yet doing Scrum. Before you start Sprinting, you need to focus on making sure that your current Increment meets your new Definition of Done. Focus on Quality, which is what the Developers are accountable for, and make sure that your Increment meets that new quality bar before you start. The next Increment can only reach the quality bar of all those that came before do.
+
+    **The Definition of Done is the commitment to quality for the Increment!**
+
+    Create a usable increment that meets your definition of done and then start sprinting. Keeping your software in a working state [will require a modern source control system that provides you with the facility to implement good DevOps](https://nkdagility.com/getting-started-with-modern-source-control-system-and-devops/) practices.
+
+    ## A Starting Point for any Team
+
+    Some examples of things for a software team to put on their definition of done:
+
+    - **Increment Passes SonarCube checks with no Critical errors** – You will be increasing over time, so maybe you need to say “Code Passes SonarCube checks with no more than 50 Critical errors” then work on it over time.
+    - **Increment’s Code Coverage stays the same or gets higher** – Looking at a specific measure, like 90%, of code coverage is a read hearing and tells you nothing of code quality. However, it might be advantageous to monitor and measure for adverse change in code coverage, and we always advocate for TDD practices.
+    - **Increment meets agreed engineering standards** – You should decide rules for naming of methods, tests, variables and everything in-between. Start small and add over time. Link to your agreed standards on a Wiki and continuously improve and expand your rules. Automate if possible.
+    - **Acceptance Criteria for Increment pass** – Making sure you at least meet the prescribed criteria is a laudable goal and automating them with ATDD practices is even better.
+    - **Acceptance Tests for Increment are Automated** – Make sure that you automate all of your tests. If you think something will break, then you should have a test for it.
+    - **Security Checks Pass on Increment** – Use an automated tool as part of your build and check for known security vulnerabilities. You will not find all of your security issues, but at least don’t do things we know to be reflective of poor Security.
+    - **Increment meets agreed UX standards** – Again, have a Wiki page and make sure that you check it twice. If you are not using an automated DoD entry, then you need to agree as a Team that you have met the criteria.
+    - **Increment meets agreed Architectural Guidelines** – Wiki’s are fantastic for this, but automate what you can.
+
+    There are 4 key layers to your DOD that you should consider:
+
+    1.  **Meets organizational DOD** - what is minimum quality level required by your organization to protect its brand and reputation.
+    2.  **Meets Practice DOD** - Your practice may add additional elements to DONE based on the technical domain within which you are working.
+    3.  **Meets Customer DOD** - Additional quality standards required by the customer.
+    4.  **Your Teams DOD** - Run a DOD workshop to identify what you need from 1,2, & 3 as well as anything that your Scrum Team feels that they need to add.
+
+    ## Growing your Definition of Done (DoD)
+
+    It’s super important that quality is always increasing, and that means that you will need to at least reflect on your Definition of Done on a regular cadence. In Scrum, this cadence is defined by your Sprint length, and you have a Kaizen moment at the Sprint Retrospective. That does not mean that you don’t reflect on your DOD all the time, you do. You reflect continuously on whether your increment currently meets your DoD, and what youd need to do to get it there. You should always be reflecting on whether your DoD fits your needs. If your Developers finds that something is missing from the DoD halfway through the Sprint, then they should go ahead and add it, making sure that they are not endangering the Sprint Goal.
+
+    You may discover that you have a performance problem with your product as David Corbin pointed out in my previous post. How do we make sure that we fix that issue? As I see it there are two pieces to this once you are in flight. You can Scrumble (stop Sprinting because of poor quality), and fix it, or you can integrate this new knowledge into your product cycle.
+
+    If it is a significant issue that results in you not having working software, then you need to stop and fix. In Scrum, this is called a Scrumble, as a reflection that the Developers stumbled because something is missing. You should stop adding new features and create a usable increment before you continue Sprinting and adding new features. Once you have repaired the issue, you can increase your Definition of Done to make sure that all future Increments meet the new requirements.
+
+    If it is less significant, you might want to keep working and add what you need to your Product Backlog. You can then deliver improvements over the next few Sprints that mitigate and then resolve the identified issue. Once you have resolved it, you can then pin the outcome by adding something to your DoD.
+
+    **Always look for ways that you can increase your quality. What does your definition of done look like today?**
+
+    ## Example Definitions of Done
+
+    Here are some examples of Done from various teams, real and fictitious.
+
+    ### Azure DevOps
+
+    - Live in production, collecting telemetry supporting or diminishing the starting hypothesis.
+
+    ### FABRIKAM TEAM
+
+    - A new feature is driven by one or more tests
+    - No known duplication
+    - No known bugs
+    - Continuous build between DEV and STAGE
+    - All available data in the system has been imported into STAGE database
+
+    ### CONTOSO TEAM
+
+    - Coding is complete
+    - Code review performed
+    - Coding standards met
+    - All tests pass
+    - Release notes created
+    - User manual updated
+    - Developers OK with work
+    - Product Owner OK with work
+
+    ### NORTHWIND TEAM
+
+    - Peer reviewed
+    - All test cases pass (including security and performance tests)
+    - No open blocking, critical, high or medium bugs
+    - Automated tests have been created (unit or integration depending on what is more relevant) and the conditional coverage is at least 50+% for UI, 60+% for services, and 80+% for utility classes.
+    - Documentation completed
+    - Included in the installer
+    - Reviewed by the Product Owner
+    - Deployed to the DEMO environment
+    - Remaining hours for the task set to zero and the story/task is closed in JIRA.
+
+    ### TAILSPIN TEAM
+
+    - Documentation has been created/updated
+    - Documentation has been peer-reviewed
+    - Code has been checked-in to Subversion
+    - Code/solution has been reviewed by peer
+    - Code is written according to guidelines
+    - Code has sufficient comments
+    - Code runs without errors in DEV
+    - No errors are detected in TEST during normal test operations
+    - New functionality has been tested
+    - Sample/test data has been created
+    - Ad-hoc, exploratory Testing has been performed
+    - Best-effort unit tests have been created, executed, and return no warnings or errors
+    - Best-effort integration tests have been created, executed, and return no warnings or errors
+    - Best-effort user Acceptance tests have been created, executed, and return no warnings or errors
+    - Best-effort regression testing has been performed and returns no warnings or errors
+    - All rework and retest work has been completed
+    - Functionality has been promoted from DEV/TEST to STAGE
+    - Functionality has been approved by the Product Owner
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-done-dod\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-done-dod
+- FrontMatter:
+    title: Accountabilities for the Scrum Team
+    description: Explore key accountabilities within our organisation for a deeper understanding of roles and responsibilities in agile project management.
+    ResourceId: D4IlRdnMoRB
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/Accountabilities-for-the-Scrum-Team.html
+    - /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
+    - /resources/D4IlRdnMoRB
+    aliasesArchive:
+    - /practices/Accountabilities-for-the-Scrum-Team.html
+    - /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
+      title: Accountabilities for the Scrum Team
+    categories:
+    - Scrum
+    - Social Technologies
+    tags: []
+  BodyContent: |
+    While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.
+
+    ![image.png](/.attachments/image-30f57fc2-f9b2-4d99-90f4-6c3990d43cdc.png =750x424)
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team
+- FrontMatter:
+    title: Service Level Expectation (SLE)
+    description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
+    ResourceId: b7fi5SAsyNb
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    - /resources/b7fi5SAsyNb
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    recommendedContent:
+    - practices/Service-Level-Expectation-SLE.html
+    - practices/Service-Level-Expectation-SLE/
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
+      title: Service Level Expectation (SLE)
+    categories:
+    - Scrum
+    - Social Technologies
+    tags:
+    - Forecasting
+    - Software Development
+    - Metrics and Learning
+    - Agile Project Management
+    - Throughput
+    - Scrum Team
+    - Cycle Time
+    - Scrum Product Development
+    - Flow Efficiency
+  BodyContent: |
+    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
+
+    The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team's historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
+
+    A reasonable SLE should be less than your Sprint length and shorter improves predictability.
+
+    ![image.png](/.attachments/image-8dc3304f-74c4-438e-935d-ad9fc5eed118.png)
+
+    ## Resources
+
+    - [The Kanban Guide for Scrum Teams](/Project-Management/Agile-Ways-of-Working/Guides-&-WhitePapers/Kanban-Guide-for-Scrum-Teams)
+
+    [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
+

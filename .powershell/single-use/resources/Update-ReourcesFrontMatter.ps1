@@ -21,6 +21,9 @@ $Counter = 1
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
+$ResourceCatalogue = @{}
+$ResourceCatalogueCutoffDate = [DateTime]::Parse("2018-01-01")
+
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $resources.Count
 $resourceCount = $resources.Count
 $progressStep = [math]::Ceiling($resourceCount / 10)  # Calculate step for 10% progress
@@ -41,8 +44,22 @@ $resources | ForEach-Object -Begin { $index = 0 } -Process {
 $TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $TotalItems
 ### FILTER hugoMarkdownObjects
-$hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending #| Select-Object -First 20 
-Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($TotalItems)
+$hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending #| Select-Object -First 200 
+# $hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { 
+#     if ($_.FrontMatter.date) { 
+#         $date = [DateTime]::Parse($_.FrontMatter.date)
+#         return $date -gt $ResourceCatalogueCutoffDate
+#     }
+#     else {
+#         return $false  # Skip objects with null/empty dates
+#     }
+# } | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
+
+
+# Display the filtered results
+#$hugoMarkdownObjects | Select-Object FrontMatter
+
+Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
 ### Convert hugoMarkdownObjects to queue
 $hugoMarkdownQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
@@ -59,6 +76,7 @@ Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batche
 $runBatchCheck = $false
 $batchCheckCount = 0
 $batchCheckCountMax = 0
+
 while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if (($hugoMarkdownBatchQueue.Count -le $batchesInProgress)) {
         $runBatchCheck = $false
@@ -133,17 +151,17 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         switch ($ResourceType) {
             "blog" { 
                 if ([DateTime]::Parse($hugoMarkdown.FrontMatter.date) -gt [DateTime]::Parse("2018-01-01")) {
-                    $ResourceContentOrigin = "Hybrid"
+                    $ResourceContentOrigin = "hybrid"
                 }
                 else {
-                    $ResourceContentOrigin = "Human"
+                    $ResourceContentOrigin = "human"
                 }    
             }
             "videos" { 
-                $ResourceContentOrigin = "AI"
+                $ResourceContentOrigin = "ai"
             }
             default { 
-                $ResourceContentOrigin = "Human"
+                $ResourceContentOrigin = "human"
             }
         }
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceContentOrigin' -fieldValue $ResourceContentOrigin -addAfter 'ResourceType'
@@ -293,35 +311,26 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
 
-    ## Save seperate files for resources for use
+    
+   
+    #=================ResourceCatalogue=================
     if ($hugoMarkdown.FrontMatter.Contains("ResourceContentOrigin")) {
         $origin = $hugoMarkdown.FrontMatter.ResourceContentOrigin
-        $dateString = $hugoMarkdown.FrontMatter.date
-        $slug = $hugoMarkdown.FrontMatter.slug
-    
-        if (-not $slug) {
-            $slug = $hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-'
-        }
-    
-        # Convert date to DateTime object for proper comparison
-        $date = [DateTime]::Parse($dateString)
-        $cutoffDate = [DateTime]::Parse("2018-01-01")
-    
-        if ($origin -ne "AI" -and $date -gt $cutoffDate) {
-            $directoryPath = [System.IO.Path]::Combine(".\.resources", $ResourceType)
-    
-            # Ensure the directory exists
-            if (-not (Test-Path -Path $directoryPath -PathType Container)) {
-                New-Item -Path $directoryPath -ItemType Directory -Force | Out-Null
+        $ItemDate = [DateTime]::Parse($hugoMarkdown.FrontMatter.date)
+        if ($origin -ne "AI" -and $ItemDate -gt $ResourceCatalogueCutoffDate) {
+            $year = $ItemDate.ToString("yyyy")
+            # Aggregate yearly content per ResourceType
+            if (-not $ResourceCatalogue.ContainsKey($ResourceType)) {
+                $ResourceCatalogue[$ResourceType] = @{}
             }
-    
-            $SavedLocation = [System.IO.Path]::Combine($directoryPath, "$($date.ToString("yyyy-MM-dd")).$slug.$origin.md")
-            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $SavedLocation
+            if (-not $ResourceCatalogue[$ResourceType].ContainsKey($year)) {
+                $ResourceCatalogue[$ResourceType][$year] = @()
+            }
+            $ResourceCatalogue[$ResourceType][$year] += $hugoMarkdown
         }
     }
-    
-    
-    
+
+    #=================Batch=================  
     # If there are any batches for this item add it to the batch queue for reprocessing
     $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
     if ($resources.Count -gt 0) {
@@ -338,7 +347,47 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     }
 }
 
-
 Write-Progress -id 1 -Completed
 Write-DebugLog "All markdown files processed." 
 Write-DebugLog "--------------------------------------------------------"
+
+# Save the yearly aggregated content files per ResourceType
+# Iterate over each ResourceType in the catalogue
+foreach ($ResourceType in $ResourceCatalogue.Keys) {
+    foreach ($year in $ResourceCatalogue[$ResourceType].Keys) {
+        $directoryPath = [System.IO.Path]::Combine(".\.resources", $ResourceType)
+
+        # Ensure the directory exists
+        if (-not (Test-Path -Path $directoryPath -PathType Container)) {
+            New-Item -Path $directoryPath -ItemType Directory -Force | Out-Null
+        }
+
+        foreach ($hugoMarkdown in $ResourceCatalogue[$ResourceType][$year]) {
+            $date = [DateTime]::Parse($hugoMarkdown.FrontMatter.date)
+            $slug = $hugoMarkdown.FrontMatter.slug
+            $origin = ($hugoMarkdown.FrontMatter.ResourceContentOrigin).ToLower()
+
+            # Ensure slug is formatted properly
+            if (-not $slug) {
+                $slug = $hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-'
+            }
+
+            # Save individual post file
+            $SaveLocation = [System.IO.Path]::Combine($directoryPath, $year)
+            if (-not (Test-Path -Path $SaveLocation -PathType Container)) {
+                New-Item -Path $SaveLocation -ItemType Directory -Force | Out-Null
+            }
+            $SavedFile = [System.IO.Path]::Combine($SaveLocation, "$ResourceType.$($date.ToString("yyyy-MM-dd")).$slug.$origin.md")
+            Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $SavedFile
+        }
+
+        # Save aggregated yearly content
+        $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$ResourceType.$year.yaml")
+        $count = $ResourceCatalogue[$ResourceType][$year].Count
+        $yearContent = $ResourceCatalogue[$ResourceType][$year] | ConvertTo-Yaml
+        $tokens = Get-TokenCount -Content $yearContent
+        Set-Content -Path $yearlyFilePath -Value $yearContent -Encoding UTF8
+        Write-InfoLog "$ResourceType $year : {files}/{tokens} : {yearlyFilePath}" -PropertyValues $count, $tokens, $yearlyFilePath
+    }
+}
+

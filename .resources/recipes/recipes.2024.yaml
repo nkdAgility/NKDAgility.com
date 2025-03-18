@@ -1,0 +1,434 @@
+- FrontMatter:
+    title: Sprint Review Recipe
+    description: A starter recipe for a Sprint Planning event with suggested facilitation options.
+    ResourceId: K4kkSAG3R7m
+    ResourceImport: false
+    ResourceType: recipes
+    ResourceContentOrigin: Human
+    resourceTypes: recipe
+    layout: recipe
+    date: 2024-09-17
+    weight: 775
+    image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
+    aliases:
+    - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+    - /resources/K4kkSAG3R7m
+    aliasesArchive:
+    - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+    creator: Martin Hinshelwood
+    recommendedContent:
+    - collection: guides
+      path: _guides/manifesto-for-agile-software-development.md
+    - collection: guides
+      path: _guides/scrum-guide.md
+    - collection: practices
+      path: _practices/service-level-expectation-sle.md
+    - collection: technologies
+      path: _technologies/liberating-structures/shift-share.md
+    - collection: technologies
+      path: _technologies/liberating-structures/what-so-what-now-what.md
+    - collection: workshops
+      path: _workshops/sprint-review-1.md
+    videos:
+    - title: Overview of The Scrum Framework
+      embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+    - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+      embed: https://www.youtube.com/embed/1-W64WdSbF4
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
+      title: Sprint Review Recipe
+    categories:
+    - Scrum
+    - Social Technologies
+    tags:
+    - Sprint Review
+    - Software Development
+    - Increment
+    - Scrum Product Development
+    - Product Owner
+    - Professional Scrum
+    - Agile Product Management
+    - Product Delivery
+    - Pragmatic Thinking
+    - Agile Planning
+  BodyContent: |
+    When designing a flow for an event, it is hugely important to be clear on the purpose. For the Sprint Review, the purpose is to inspect the increment that was created during the Sprint as well as to adapt the Product Backlog based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.
+
+    _This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_
+
+    ![Scrum Framework Sprint Review](./../assets/images/naked-agility-scrum-framework-sprint-review.jpg)
+
+    ## Flow Steps
+
+    This workshop leverages a simple flow and consists of the following:
+
+    The Product Owner presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.
+
+    Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.
+
+    ### Part 1: Product Owner Presents Product Vision and Goal [5 mins]
+
+    The purpose here is for the Product Owner to set the tone and direction. Let's be 100% clear to stakeholders, ourselves, and the customer that they are in control of what we build and if they get value or not.
+
+    ### Part 2: Sprint Summery - What was done, and was not [5 mins]
+
+    There will always be Backlog Items that we were unable to complete during a Sprint. This is OK and just needs to be presented as here are the things that we did, and here are the things we did not get to. Did we meet the Sprint Goal?
+
+    ![Cycle Time Scatter Plot](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
+
+    Review both the **Cycle Time Scatter Plot** and the **Throughput Run Chart** to understand what happened during this Sprint.
+
+    ### Part 3: Sprint Demo - Show what was created [~15 mins]
+
+    Depending on the scale there are many ways to facilitate this. The more engaging the better. If you have a lot of stakeholder participation then more advanced techniques involving [liberating structures](../_technologies/liberating-structures.md) encourage the most engagement.
+
+    #### Facilitation Options
+
+    - Just Present your Features [15 mins]
+    - Provide short videos of the features before the event. [0 min]
+    - [Shift & Share](../_technologies/liberating-structures/shift-share.md) [40 mins]
+
+    ### Part 4: Feedback - Gather feedback from Stakeholders [~30 min]
+
+    The main purpose of the Sprint Review is actionable feedback and updating the Product Backlog to reflect what's next, based on what just happened. Guide the feedback and facilitate the engagement of stakeholders. It is never good enough to just ask for feedback!
+
+    #### Facilitation Options
+
+    - [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) [30 min]
+    - [Sprint Review 1](../_workshops/sprint-review-1.md) [240 Min]
+
+    ### Part 5: What's Next? - Likely Sprint Goal and Forecast [10 mins]
+
+    Share what is the rough draft plan for the next Sprint. Share your teams [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) and what the options are for Sprint Goals.
+
+    ![Throughput Run Chart.png](./../assets/images/naked-agility-kanban-throughput-run-chart.jpg)
+
+    You can use a **Throughput Run Chart** to present predictions based on empirical data with your expected confidence levels.\_
+
+    ### Part 6: Release Projections & Budgeting [10 mins]
+
+    Based on our historical data and our [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) you should be able to answer any Stakeholder questions on "When will I get feature A?" or "When will Feature B ship?". Express all your predictions coupled with your confidence level of achieving it.
+
+    ![image.png](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
+
+    Use a **Monte Carlo How Many** or **Monte Carlo When**n to answer Stakeholder questions like "What will I get by 23/01/2024?" and "When will item x be completed?" As this is calculated using your team's historical data you will need to discuss the [Service Level Expectation](../_practices/service-level-expectation-sle.md) for the Team(s).
+
+    ### Part 7: Compliance Summery [10 mins]
+
+    Do you have architectural reviews, technology overviews or legal compliance? Discuss them here.
+
+    ### Part 8: Any Other Business
+
+    Just as it says!
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-review-recipe\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-review-recipe
+- FrontMatter:
+    title: Sprint Planning Recipe
+    description: Master Sprint Planning with this guide! Learn to craft effective goals, select backlog items, and create actionable plans for successful sprints.
+    ResourceId: D1dSEM9ni3C
+    ResourceImport: false
+    ResourceType: recipes
+    ResourceContentOrigin: Human
+    resourceTypes: recipe
+    layout: recipe
+    image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
+    creator: Martin Hinshelwood
+    date: 2024-09-17
+    weight: 810
+    aliases:
+    - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+    - /resources/D1dSEM9ni3C
+    aliasesArchive:
+    - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+    recommendedContent:
+    - collection: practices
+      path: _practices/professional-sprint-planning.md
+    - collection: guides
+      path: _guides/manifesto-for-agile-software-development.md
+    - collection: guides
+      path: _guides/scrum-guide.md
+    videos:
+    - title: What is the most common mistake in sprint planning?
+      embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
+    - title: What is sprint planning?
+      embed: https://www.youtube.com/embed/nMkit8zBxG0
+    - title: 'What is your #1 tip for effective sprint planning?'
+      embed: https://www.youtube.com/embed/uQ786VBz3Jw
+    - title: How does a scrum team plan and prioritize work effectively?
+      embed: https://www.youtube.com/embed/sPmUuSy7G3I
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
+      title: Sprint Planning Recipe
+    categories:
+    - Scrum
+    - Social Technologies
+    tags:
+    - Software Development
+    - Scrum Product Development
+    - Scrum Team
+    - Agile Planning
+    - Professional Scrum
+    - Agile Product Management
+    - Product Delivery
+    - Agile Project Management
+    - Practical Techniques and Tooling
+    - Agile Planning Tools
+  BodyContent: |
+    The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the Scrum Team has going in, the shorter it will be. That is, if the Product Backlog is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.
+
+    I would expect a typical Sprint Planning to take from 30-120 minutes if there is a clear understanding.
+
+    See [Professional Sprint Planning](../_practices/professional-sprint-planning-event.md) for a more detailed description of the practice.
+
+    ## What is a recipe?
+
+    This recipe serves as an example of how to run a Sprint Planning.
+
+    ## An example flow for a Sprint Planning
+
+    When designing a flow, it is hugely important to be clear on the purpose. For the Sprint Planning, the purpose is to inspect the Product Backlog, taking into account your [Definition of Done](./../_practices/definition-of-done-dod.md) and Team History, and craft a Sprint Goal, Select backlog Items, and an implementation plan for at least the first 24h.
+
+    Sprint Planning is about answering the question: “Based on the Product Goal and the current Product Backlog what can we tactically do to make progress?”.
+
+    ![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)
+
+    ## Overview of Flow for Sprint Planning
+
+    This workshop leverages a simple flow and consists of the following:
+
+    The Product Owner presents the Product Goal, and the Scrum Team reviews the draft Sprint Goal. The Scrum Team then collaborates on selecting a Sprint Goal before then selecting the Backlog Items for that Sprint. Other than feedback from the previous Sprint Planning there should be few surprises and the expected work should be sized appropriately and ready for the Scrum Team to pull.
+
+    Once the Scrum Team has a Sprint Backlog they should ask themselves **"Do they feel, as a team, that there is a reasonable degree of certainty that they can achieve the Sprint Goal?"**
+
+    ![naked Agility Scrum Framework Sprint Planning Flow](./../assets/images/naked-agility-scrum-framework-sprint-planning-flow.jpg)
+
+    _Although Scrum Masters can certainly facilitate the Sprint Planning, there is nothing holding others back from facilitating. Since Sprint Planning is particularly important for the Developers, as they will be doing the work, it makes sense for them to also play a role;_
+
+    ### Suggested Flow Steps
+
+    ### Part 1: Product Owner Presents Product Vision, Product Goal, and possible Sprint Goals [~5 mins]
+
+    This sets the scene and focuses the Scrum Team on the purpose of the event.
+
+    #### Part 2: Create a Sprint Goal [~5 mins]
+
+    Use the Sprint Planning to make the Sprint Goal clear with "[Nine Whys](./../_technologies/liberating-structures/nine-whys.md)". Sentences that help write clear purpose statements are "This Sprint exists in order to", or “This Sprint exists to stop…”, or “When we achieve this Sprint Goal, what has clearly changed or improved from the perspective of stakeholders?”.
+
+    ##### Facilitation Options
+
+    - Discuss and Agree on a Sprint Goal [5 min]
+    - [Nine Whys](./../_technologies/liberating-structures/nine-whys.md) [30 min]
+
+    #### Part 3: Select Backlog Items [~60 mins]
+
+    - **Step 1: Review the current Throughput Run Chart & Monte Carlo How Many** - This will give the team an indication of the number of items that they can expect to deliver during this Sprint.
+    - ![naked Agility Scrum Framework Sprint Planning Forecast](./../assets/images/naked-agility-scrum-framework-sprint-planning-forecast.jpg)
+
+    - **Step 2: Review Team Capacity for this Sprint** - Take into account vacation, as well as known pre-booked events
+
+    - **Step 3: Select Backlog Items for the current Sprint Goal** - Try “Min Specs” to help the team discover the essential work for this first day of the new Sprint. The Sprint Backlog, as defined during Sprint Planning, can be considered as the ‘Max Specs': all the work, currently known, necessary to achieve the Sprint Goal.
+
+    ##### Facilitation Options
+
+    - Select from the Product Backlog [60 min]
+    - Min Specs Liberating Structure
+
+    #### Part 4: Create Actionable Plan for 24h [~120 min]
+
+    This is where the Scrum Team creates their actionable plan for at least the first 24 hours of the Sprint. It is recommended not to assign items, and instead to identify the work and create a pull system for that work.
+
+    ##### Facilitation Options
+
+    - Create a Plan [120 min]
+
+    #### Part 5: Clear communication to Stakeholders [~5 mins]
+
+    After the Sprint Review, the Scrum Team should have a clear understanding of what they will be working on, and what they will be delivering. This should be communicated to the stakeholders.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-planning-recipe\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-planning-recipe
+- FrontMatter:
+    title: Daily Scrum Recipe
+    description: Maximise your Daily Scrum's impact! Focus on collaboration, transparency, and strategic planning to overcome challenges and achieve your Sprint Goal.
+    ResourceId: M4qDhvrXwp-
+    ResourceImport: false
+    ResourceType: recipes
+    ResourceContentOrigin: Human
+    resourceTypes: recipe
+    layout: recipe
+    image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
+    creator: Martin Hinshelwood
+    aliases:
+    - /recipes/Daily-Scrum-Recipe.html
+    - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+    - /resources/M4qDhvrXwp-
+    aliasesArchive:
+    - /recipes/Daily-Scrum-Recipe.html
+    - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+    recommendedContent:
+    - collection: guides
+      path: _guides/manifesto-for-agile-software-development.md
+    - collection: guides
+      path: _guides/scrum-guide.md
+    videos:
+    - title: Overview of the Scrum Framework?
+      embed: https://youtu.be/Q2Fo3sM6BVo
+    - title: How to Facilitate the Daily Scrum
+      embed: https://youtu.be/V2hYKB8xLNc
+    - title: The Daily Scrum is NOT a Status Meeting!
+      embed: https://youtu.be/i7_RPceEIYE
+    references:
+    - title: What is a Daily Scrum?
+      url: https://www.scrum.org/resources/what-is-a-daily-scrum
+    - title: Avoid the Bug as Task anti-pattern in Azure DevOps
+      url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
+    date: 2024-09-17
+    weight: 555
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
+      title: Daily Scrum Recipe
+    categories:
+    - Scrum
+    - Social Technologies
+    tags:
+    - Daily Scrum
+    - Software Development
+    - Agile Project Management
+    - Scrum Product Development
+    - Scrum Team
+    - People and Process
+    - Software Developers
+    - Professional Scrum
+    - Team Performance
+    - Transparency
+  BodyContent: |
+    The Daily Scrum is an essential event in the Scrum framework. It offers the
+    Developers an opportunity to reflect on their progress, and plan for the next 24
+    hours. But it's essential to approach it with the right mindset and intent.
+
+    ### Purpose of the Daily Scrum
+
+    The primary objective of the Daily Scrum is not merely to go through a checklist
+    of questions. Instead, it's to actively manage ongoing work and strategize on
+    how best to achieve the Sprint Goal. This meeting is a platform for Developers
+    to discuss their work, challenges, and any impediments they might be facing. By
+    doing so, they can effectively strategize on their next steps and ensure that
+    they are on the right track.
+
+    ### Beyond the Three Questions
+
+    While the three standard questions—What did I do yesterday? What will I do
+    today? Are there any impediments in my way?—provide a structure, they shouldn't
+    become a monotonous routine. Developers should not feel compelled to answer
+    these questions robotically or feel the unnecessary pressure for everyone to
+    speak. The focus should be on meaningful conversation and collaboration.
+
+    ### Beyond the Three Questions
+
+    Rather than discussing every item, the team should concentrate on elements in
+    the Sprint Backlog that require intervention or are at risk. By honing in on
+    these areas, the team can proactively address potential challenges and ensure
+    they remain on course.
+
+    ### Emergent Practices
+
+    It's crucial to understand that there's no one-size-fits-all approach to the
+    Daily Scrum. What works for one team might not necessarily work for another.
+    Practices should emerge based on the team's unique needs, challenges, and
+    dynamics. Over time, as the team evolves and matures, so will their practices.
+
+    ### Asking more interesting questions
+
+    The Daily Scrum is not just a routine check-in. It's an opportunity for the team
+    to come together, collaborate, and strategise. By focusing on the right areas
+    and fostering open communication, teams can remain aligned with the Sprint Goal
+    and continue delivering value. Remember, the method in which the team conducts
+    the Daily Scrum can vary, and what's presented here is just one of many ways!
+
+    ![Scrum Framework Sprint
+    Review](../../assets/images/naked-agility-scrum-framework-daily-scrum.jpg)
+
+    ## Overview of Flow for Daily Scrum
+
+    This recipe leverages a simple flow and consists of the following:
+
+    The Developers review their progress towards the Sprint Goal. They should
+    actively manage the work that is in progress and maintain transparency of the
+    present as reflected in the Sprint Backlog.
+
+    _The Developers should own this event and facilitate it, although Scrum Masters
+    may certainly facilitate as requested or as needed._
+
+    ### Why recipe?
+
+    You follow a recipe a few times to build muscle memory and understand the
+    intended outcomes. Once learned one can tweak or change the recipe to adapt the
+    outcomes to one's own taste.
+
+    ## Suggested Flow Steps
+
+    ### Part 1: Review the Work in Process [\~5 mins]
+
+    The Developers should review the work currently underway and identify any
+    problems, issues, or missing information required to get to the Sprint Goal.
+
+    Getting to the more interesting questions and enabling us to focus only on the
+    most valuable conversations requires that we maintain transparency of the Sprint
+    Backlog so that we can easily see what is going on. We can then visualise that
+    data in ways that allow us to identify those interesting items.
+
+    #### Facilitation Options
+
+    You can use the following visualisations:
+
+    - **Work Item Aging Graph** - A very effective way to review the work that is
+      in progress is to use a Work Item Aging graph and pay particular attention
+      to the oldest items. By actively managing based on the age of items, the
+      Developers can see clearly which items need the most focus, what is blocked,
+      and how long they have been in progress.  
+       ![Work Item Aging Graph at the Daily
+    Scrum](../../assets/images/naked-agility-DailyScrum-WorkItemAging.jpg) An
+      advanced form of this is shown here, where we are also overlaying the 50th,
+      70th, 85th, and 95th percentiles for each of the columns in our process.
+      Highlighted are 5 anomalies to discuss at this team's Daily Scrum in the
+      order of risk to delivery.
+
+    - **Review the Boards** - Another critical visualisation for the Daily Scrum
+      is of the work currently in progress using a Board that shows the movement
+      of the smallest unit of value, a Backlog Item.  
+      ![image.png](../../assets/images/nkdAgility-ProductValueBoard.png)  
+      In this visualisation, the work in progress is everything that is within the
+      bounds of the red box. We can immediately see that validation and
+      development are both at capacity, so neither can take on any additional
+      work. Using WIP Limits in this way, and inspecting them at the Daily Scrum
+      allows teams to easily see constraints and identify bottlenecks in this
+      process. In this case, we may need to focus on validation to get things into
+      done to free up space further “upriver”.
+
+    ### Part 2: Create an Actionable Plan for 24h [\~10 min]
+
+    The outcome of the Daily Scrum should be an increase in the transparency of the
+    work underway, which should be reflected in the Sprint Backlog. What has
+    happened in the last 24 hours that needs to be reflected on the Sprint Backlog,
+    and what is the plan for the next 24 hours? Does the Sprint Backlog still
+    represent the most essential work to get to the Sprint Goal?
+
+    We should leave the Daily Scrum with a plan for the next 24 hours!
+
+    #### Facilitation Options
+
+    - Create a Plan [10 min]
+
+    # Some Common Anti-patterns
+
+    ![image.png](/.attachments/image-61d227be-fe84-4577-860b-179b95e3a3d3.png)
+
+    # Reference
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\daily-scrum-recipe\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\daily-scrum-recipe
+
