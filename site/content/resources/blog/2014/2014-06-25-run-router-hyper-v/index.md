@@ -3,6 +3,7 @@ title: Run a router on Hyper-V
 description: Learn how to run a router on Hyper-V for seamless VM internet access in corporate and hotel networks. Discover efficient setup tips and solutions!
 ResourceId: 0Ly3betXY-6
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10617
 ResourceImportSource: Wordpress

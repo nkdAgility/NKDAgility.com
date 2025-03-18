@@ -3,6 +3,7 @@ title: Would anyone be interested in hosted Visual Studio Team System (LinkedIn 
 description: Explore the potential of a hosted Visual Studio Team System for small businesses. Discover customization options and ease of management for your projects!
 ResourceId: aGh8Dn3evEi
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 400
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Why you need to tag your build servers in TFS
 description: Discover why tagging your build servers in TFS is essential for managing complexity and improving efficiency in your development projects. Learn more!
 ResourceId: TCVlqzWwtNc
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 40
 ResourceImportSource: Wordpress

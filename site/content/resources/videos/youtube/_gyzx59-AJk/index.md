@@ -5,6 +5,7 @@ date: 2025-02-06T10:20:34Z
 weight: 305
 ResourceId: _gyzx59-AJk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _gyzx59-AJk

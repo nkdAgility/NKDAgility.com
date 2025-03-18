@@ -3,6 +3,7 @@ title: Outlook 2007 users angry? Well maybe not users.
 description: Discover why the uproar over Outlook 2007 changes may not concern users. Embrace the evolution of email as documents for better organization and efficiency.
 ResourceId: JdM99GWW5Pw
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 442
 ResourceImportSource: Wordpress

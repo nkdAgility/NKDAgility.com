@@ -3,6 +3,7 @@ title: TFS Event Handler CTP1 Released
 description: Discover the newly released TFS Event Handler CTP1! Explore its features, limitations, and plans for future updates to enhance your development workflow.
 ResourceId: iC_oZlW88n0
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 261
 ResourceImportSource: Wordpress

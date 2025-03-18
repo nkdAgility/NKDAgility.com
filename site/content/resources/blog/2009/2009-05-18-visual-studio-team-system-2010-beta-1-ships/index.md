@@ -3,6 +3,7 @@ title: Visual Studio Team System 2010 Beta 1 Ships
 description: Discover the features of Visual Studio Team System 2010 Beta 1, now available for download. Enhance your development experience with powerful new tools!
 ResourceId: -TRUW1RsR2n
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 121
 ResourceImportSource: Wordpress

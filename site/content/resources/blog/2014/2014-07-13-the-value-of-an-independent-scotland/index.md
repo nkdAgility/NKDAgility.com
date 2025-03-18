@@ -3,6 +3,7 @@ title: The value of an independent Scotland for me
 description: Explore the personal value of an independent Scotland through self-determination, economic control, and a brighter future for generations. Join the debate!
 ResourceId: kmgdXtKVzGS
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10655
 ResourceImportSource: Wordpress

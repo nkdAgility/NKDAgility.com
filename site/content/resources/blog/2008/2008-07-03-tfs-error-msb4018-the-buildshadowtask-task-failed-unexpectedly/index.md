@@ -3,6 +3,7 @@ title: 'TFS Error: MSB4018 The "BuildShadowTask" task failed unexpectedly'
 description: Discover solutions for the MSB4018 error in TFS when using Accessors in Unit Tests. Learn how to resolve build issues and enhance your development process.
 ResourceId: xi_wQ8zFW_U
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 219
 ResourceImportSource: Wordpress

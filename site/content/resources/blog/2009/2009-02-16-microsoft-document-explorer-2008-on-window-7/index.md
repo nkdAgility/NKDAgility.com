@@ -3,6 +3,7 @@ title: Microsoft Document Explorer 2008 on Window 7
 description: Discover how to successfully install Microsoft Document Explorer 2008 on Windows 7 with troubleshooting tips from Martin Hinshelwood. Enhance your setup now!
 ResourceId: kCaERZgxgy3
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 138
 ResourceImportSource: Wordpress

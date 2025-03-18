@@ -3,6 +3,7 @@ title: 'A change for the better #2 - Aggreko to SSW'
 description: Discover my journey from Aggreko to SSW as a Senior Software Architect, embracing change and productivity through innovative rules and practices.
 ResourceId: 4gwofOJZOmj
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 82
 ResourceImportSource: Wordpress

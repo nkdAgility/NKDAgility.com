@@ -5,6 +5,7 @@ date: 2024-07-12T06:45:00Z
 weight: 500
 ResourceId: CPYTApf0Ibs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CPYTApf0Ibs

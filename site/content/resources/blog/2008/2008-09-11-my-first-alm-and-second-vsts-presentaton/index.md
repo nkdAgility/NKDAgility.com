@@ -3,6 +3,7 @@ title: My first ALM and second VSTS presentaton!
 description: Join Martin Hinshelwood as he reflects on his first ALM and VSTS presentations, sharing insights on preparation, delivery, and the evolving tech landscape.
 ResourceId: v3tFzfmLkHa
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 193
 ResourceImportSource: Wordpress

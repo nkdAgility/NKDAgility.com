@@ -3,6 +3,7 @@ title: The great Xbox update
 description: Discover the exciting new Xbox Live experience in this update! Get ready for fresh features and a smoother gaming journey. Don't miss out!
 ResourceId: X8DVH4Nrsye
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 166
 ResourceImportSource: Wordpress

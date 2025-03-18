@@ -3,6 +3,7 @@ title: Microsoft has acquired TeamPlain
 description: Discover how Microsoft’s acquisition of TeamPlain offers free access to powerful tools for enhancing your Visual Studio 2005 experience. Download now!
 ResourceId: uXJxvyaVhda
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 425
 ResourceImportSource: Wordpress

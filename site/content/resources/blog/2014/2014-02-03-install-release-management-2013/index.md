@@ -3,6 +3,7 @@ title: Install Release Management 2013
 description: Learn to install and configure Release Management 2013 with Visual Studio 2013 in under 10 minutes. Streamline your deployment process effortlessly!
 ResourceId: 1m73SCOy0k9
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10353
 ResourceImportSource: Wordpress

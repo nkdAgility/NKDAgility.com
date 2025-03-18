@@ -3,6 +3,7 @@ title: Configure features in Team Foundation Server 2013
 description: Unlock the full potential of Team Foundation Server 2013 by configuring essential features with our step-by-step guide. Enhance your project management today!
 ResourceId: MbkXNCfuEU2
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9912
 ResourceImportSource: Wordpress

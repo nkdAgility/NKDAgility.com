@@ -3,6 +3,7 @@ title: Do you know about the Visual Studio ALM Rangers Guidance?
 description: Discover the Visual Studio ALM Rangers Guidance for 2010. Explore valuable insights and resources to enhance your development experience and tools.
 ResourceId: X_Bw0WdCwEc
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 15
 ResourceImportSource: Wordpress

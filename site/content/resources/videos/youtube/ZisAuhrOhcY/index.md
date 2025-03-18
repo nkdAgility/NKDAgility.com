@@ -5,6 +5,7 @@ date: 2024-02-23T07:00:12Z
 weight: 1000
 ResourceId: ZisAuhrOhcY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZisAuhrOhcY

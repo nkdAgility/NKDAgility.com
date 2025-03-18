@@ -3,6 +3,7 @@ title: Do you know the minimum builds to create on any branch?
 description: Discover the essential builds for any branch in your project. Learn how to set up Gate, CI, and Nightly builds to ensure code quality and collaboration.
 ResourceId: wPA1p1UQ6Bi
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 60
 ResourceImportSource: Wordpress

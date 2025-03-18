@@ -3,6 +3,7 @@ title: Selling the benefits of Team System
 description: Master the art of selling Team System to your team and management with practical tips and strategies to ensure successful implementation and buy-in.
 ResourceId: _jpQbjqxlCl
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 410
 ResourceImportSource: Wordpress

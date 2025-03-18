@@ -5,6 +5,7 @@ date: 2023-01-04T14:35:57Z
 weight: 555
 ResourceId: uJaBPyixNlc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uJaBPyixNlc

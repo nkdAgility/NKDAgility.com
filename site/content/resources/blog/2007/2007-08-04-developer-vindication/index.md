@@ -3,6 +3,7 @@ title: Developer vindication
 description: Discover my journey as a .Net developer and the unexpected opportunity from Microsoft. Join me as I navigate career changes and visa challenges!
 ResourceId: YexFt6yC4wk
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 350
 ResourceImportSource: Wordpress

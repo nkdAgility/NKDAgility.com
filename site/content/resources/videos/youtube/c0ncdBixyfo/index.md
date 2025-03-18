@@ -5,6 +5,7 @@ date: 2023-10-17T11:00:23Z
 weight: 695
 ResourceId: c0ncdBixyfo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: c0ncdBixyfo

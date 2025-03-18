@@ -5,6 +5,7 @@ date: 2023-12-15T11:00:17Z
 weight: 1000
 ResourceId: KhP_e26OSKs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KhP_e26OSKs

@@ -5,6 +5,7 @@ date: 2023-03-10T07:00:27Z
 weight: 1000
 ResourceId: jFU_4xtHzng
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jFU_4xtHzng

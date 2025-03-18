@@ -3,6 +3,7 @@ title: A new day, a new week, a new Team Server
 description: Discover the seamless upgrade to TFS2008 and explore new project capabilities with Visual Studio 2005. Enhance your development environment today!
 ResourceId: 6c2D94gL-Fn
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 333
 ResourceImportSource: Wordpress

@@ -5,6 +5,7 @@ date: 2024-12-21T06:00:00Z
 weight: 360
 ResourceId: KhKFVRcdbGo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo

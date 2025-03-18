@@ -3,6 +3,7 @@ title: Engaging with complexity - Team Foundation Server Edition
 description: Explore the complexities of Team Foundation Server migrations in Silicon Valley. Learn strategies to streamline processes and enhance development efficiency.
 ResourceId: xr1jtRnRNvp
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9703
 ResourceImportSource: Wordpress

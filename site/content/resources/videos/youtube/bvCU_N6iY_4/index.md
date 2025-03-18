@@ -5,6 +5,7 @@ date: 2022-07-27T18:45:14Z
 weight: 855
 ResourceId: bvCU_N6iY_4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: bvCU_N6iY_4

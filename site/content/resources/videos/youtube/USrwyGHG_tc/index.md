@@ -5,6 +5,7 @@ date: 2023-04-24T07:00:18Z
 weight: 630
 ResourceId: USrwyGHG_tc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: USrwyGHG_tc

@@ -3,6 +3,7 @@ title: 'DDD Scotland v2.0: 2nd of May 2009'
 description: Join us for Developer Day Scotland 2009! Discover insights, connect with peers, and enjoy a fantastic event in Glasgow. Will you be there?
 ResourceId: 6LNVlHaSuxS
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 169
 ResourceImportSource: Wordpress

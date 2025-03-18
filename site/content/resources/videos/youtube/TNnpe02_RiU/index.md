@@ -5,6 +5,7 @@ date: 2023-04-27T09:30:06Z
 weight: 560
 ResourceId: TNnpe02_RiU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TNnpe02_RiU

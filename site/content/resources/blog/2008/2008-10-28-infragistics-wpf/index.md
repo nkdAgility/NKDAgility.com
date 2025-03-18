@@ -3,6 +3,7 @@ title: Infragistics WPF
 description: Explore Infragistics WPF controls and learn how to effectively use their Ribbon components. Overcome documentation challenges with practical coding examples!
 ResourceId: qNzd15yz5fn
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 179
 ResourceImportSource: Wordpress

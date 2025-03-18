@@ -5,6 +5,7 @@ date: 2025-02-27T07:00:10Z
 weight: 315
 ResourceId: DsvMKLto30o
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DsvMKLto30o

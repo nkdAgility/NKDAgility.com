@@ -3,6 +3,7 @@ title: Using Visual Studio 2008
 description: Explore the enhanced features of Visual Studio 2008, from a sleek interface to multi-framework support, and elevate your development experience today!
 ResourceId: lO6Rlwe1r6f
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 328
 ResourceImportSource: Wordpress

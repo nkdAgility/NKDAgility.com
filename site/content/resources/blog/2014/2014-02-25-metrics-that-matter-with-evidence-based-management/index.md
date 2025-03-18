@@ -3,6 +3,7 @@ title: Metrics that matter with evidence-based management
 description: Discover how Evidence-Based Management can enhance your metrics and KPIs for better decision-making in software development. Elevate your team's performance!
 ResourceId: ezNZJBiEwYA
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10367
 ResourceImportSource: Wordpress

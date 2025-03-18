@@ -3,6 +3,7 @@ title: Professional Scrum Foundations in Alameda, California
 description: Join the Professional Scrum Foundations course in Alameda, CA, to enhance your team's agility and collaboration skills through practical, hands-on learning.
 ResourceId: If3c0gr1udB
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 8981
 ResourceImportSource: Wordpress

@@ -4,6 +4,7 @@ description: Explore the Agile Product Operating Model, a framework designed to 
 ResourceId: cBWi9iKD1Sa
 ResourceImport: false
 ResourceType: methods
+ResourceContentOrigin: Human
 weight: 1000
 draft: true
 resourceTypes: method

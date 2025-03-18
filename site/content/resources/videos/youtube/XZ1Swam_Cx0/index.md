@@ -5,6 +5,7 @@ date: 2023-10-30T07:00:13Z
 weight: 1000
 ResourceId: XZ1Swam_Cx0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XZ1Swam_Cx0

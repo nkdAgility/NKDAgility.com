@@ -5,6 +5,7 @@ date: 2024-04-04T11:34:59Z
 weight: 380
 ResourceId: icX4XpolVLE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: icX4XpolVLE

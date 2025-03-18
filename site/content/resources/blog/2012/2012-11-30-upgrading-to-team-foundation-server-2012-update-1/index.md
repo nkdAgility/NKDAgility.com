@@ -3,6 +3,7 @@ title: Upgrading to Team Foundation Server 2012 Update 1
 description: Upgrade your Team Foundation Server to 2012 Update 1 effortlessly with our step-by-step guide. Ensure a smooth transition and enhance your development environment!
 ResourceId: vKHJlHHjnpC
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9161
 ResourceImportSource: Wordpress

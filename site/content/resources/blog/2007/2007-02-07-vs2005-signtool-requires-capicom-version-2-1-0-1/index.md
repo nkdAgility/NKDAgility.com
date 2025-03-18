@@ -3,6 +3,7 @@ title: VS2005 - Signtool requires CAPICOM version 2.1.0.1
 description: Resolve SignTool errors in VS2005 by installing CAPICOM 2.1.0.1. Follow our step-by-step guide to ensure smooth project publishing with ClickOnce.
 ResourceId: XiAV2LaArje
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 435
 ResourceImportSource: Wordpress

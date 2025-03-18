@@ -3,6 +3,7 @@ title: 'Subversion to TFS 2010: The migration engine is unable to resolve a conf
 description: Navigate the challenges of migrating from Subversion to TFS 2010. Discover solutions for resolving conflicts and ensure a smooth transition for your projects.
 ResourceId: z1EKAHhrUI7
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3769
 ResourceImportSource: Wordpress

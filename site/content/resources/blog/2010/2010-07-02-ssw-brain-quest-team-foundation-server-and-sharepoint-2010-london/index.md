@@ -3,6 +3,7 @@ title: 'SSW Brain Quest: Team Foundation Server and SharePoint 2010 (London)'
 description: Join the SSW Brain Quest in London to master Team Foundation Server and SharePoint 2010. Enhance your project management skills and boost productivity!
 ResourceId: 8OkQ_qWcpPi
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 36
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: 'Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server'
 description: Discover my journey to passing the Beta Exam 71-510 for Visual Studio 2005 Team Foundation Server and my next steps towards MCPD certification!
 ResourceId: KuQewTMxwar
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 414
 ResourceImportSource: Wordpress

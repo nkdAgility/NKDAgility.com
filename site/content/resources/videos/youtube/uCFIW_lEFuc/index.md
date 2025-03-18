@@ -5,6 +5,7 @@ date: 2023-10-20T16:01:48Z
 weight: 415
 ResourceId: uCFIW_lEFuc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uCFIW_lEFuc

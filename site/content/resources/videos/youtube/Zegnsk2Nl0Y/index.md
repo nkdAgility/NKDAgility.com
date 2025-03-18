@@ -5,6 +5,7 @@ date: 2023-09-28T07:00:22Z
 weight: 1000
 ResourceId: Zegnsk2Nl0Y
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Zegnsk2Nl0Y

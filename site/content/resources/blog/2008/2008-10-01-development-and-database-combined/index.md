@@ -3,6 +3,7 @@ title: Development and Database combined
 description: Discover the exciting merger of Visual Studio Team Editions for Developers and Database Developers, enhancing your development experience. Learn more!
 ResourceId: 9u4z7lAsHAh
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 190
 ResourceImportSource: Wordpress

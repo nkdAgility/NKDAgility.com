@@ -5,6 +5,7 @@ date: 2024-11-19T16:55:41Z
 weight: 365
 ResourceId: CWxkBJJduCE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CWxkBJJduCE

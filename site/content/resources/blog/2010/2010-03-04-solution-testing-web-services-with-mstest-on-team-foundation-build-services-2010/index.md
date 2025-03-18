@@ -3,6 +3,7 @@ title: 'Solution: Testing Web Services with MSTest on Team Foundation Build Serv
 description: Learn how to effectively test web services using MSTest on Team Foundation Build Services 2010. Overcome common challenges and streamline your testing process!
 ResourceId: VfWTqYc6S-M
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 68
 ResourceImportSource: Wordpress

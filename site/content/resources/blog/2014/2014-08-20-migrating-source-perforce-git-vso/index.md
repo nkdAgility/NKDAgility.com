@@ -3,6 +3,7 @@ title: Migrating source from Perforce to Git on VSO
 description: Learn how to migrate from Perforce to Git on VSO with expert tips and strategies for a smooth transition to modern version control. Start your journey now!
 ResourceId: bvuzuOYg8gs
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10677
 ResourceImportSource: Wordpress

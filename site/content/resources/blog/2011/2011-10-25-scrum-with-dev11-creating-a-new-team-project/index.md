@@ -3,6 +3,7 @@ title: Scrum with Visual Studio 11 - Creating a new Team Project
 description: Learn how to effortlessly create a Team Project in the cloud with Visual Studio 11. Join Martin Hinshelwood for a quick and easy guide to agile project setup!
 ResourceId: 04eLjqdYkiX
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3976
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Installing Visual Studio Team Foundation Server Service Pack 1
 description: Learn how to install Visual Studio Team Foundation Server Service Pack 1 smoothly, troubleshoot common issues, and enhance your development environment.
 ResourceId: LpdTshxayAB
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 8
 ResourceImportSource: Wordpress

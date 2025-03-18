@@ -3,6 +3,7 @@ title: TFS Stick Buddy v0.4.0 CTP2 released
 description: Discover the latest TFS Stick Buddy v0.4.0 CTP2 release! Customize your work item display and enhance your project management experience. Download now!
 ResourceId: G2LTuEadTg9
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 238
 ResourceImportSource: Wordpress

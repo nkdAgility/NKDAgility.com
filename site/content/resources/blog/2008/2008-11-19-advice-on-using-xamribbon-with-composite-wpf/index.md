@@ -3,6 +3,7 @@ title: Advice on using XamRibbon with Composite WPF
 description: Discover expert advice on integrating XamRibbon with Composite WPF. Enhance your applications with practical tips and code examples from Martin Hinshelwood.
 ResourceId: gEnb0c6i-3I
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 164
 ResourceImportSource: Wordpress

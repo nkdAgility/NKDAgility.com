@@ -5,6 +5,7 @@ date: 2024-06-24T06:48:02Z
 weight: 1000
 ResourceId: BFDB04_JIhg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BFDB04_JIhg

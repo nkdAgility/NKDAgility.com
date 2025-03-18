@@ -3,6 +3,7 @@ title: Are Scrum Masters agents for change?
 description: Explore how Scrum Masters drive change in organizations. Learn the importance of effective Scrum implementation and the value of Professional Scrum Master training.
 ResourceId: d3jujAd6f6r
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3823
 ResourceImportSource: Wordpress

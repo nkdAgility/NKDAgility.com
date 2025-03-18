@@ -3,6 +3,7 @@ title: Deployment documentation
 description: Explore effective deployment strategies for complex applications across multiple environments. Learn how to gain control and streamline updates with ease.
 ResourceId: 154BNVcnbaU
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 363
 ResourceImportSource: Wordpress

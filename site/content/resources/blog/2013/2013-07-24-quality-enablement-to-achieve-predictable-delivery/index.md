@@ -3,6 +3,7 @@ title: Quality enablement to achieve predictable delivery
 description: Achieve predictable software delivery by establishing quality enablement. Learn key strategies to enhance your development process and reduce bugs.
 ResourceId: Qvzmat4E5NB
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9737
 ResourceImportSource: Wordpress

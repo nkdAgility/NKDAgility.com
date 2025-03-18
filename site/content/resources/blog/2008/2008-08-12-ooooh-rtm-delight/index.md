@@ -3,6 +3,7 @@ title: Ooooh, RTM Delight
 description: Discover the latest in Visual Studio 2008 and Team Foundation Server 2008 with performance boosts and new features that enhance your development experience!
 ResourceId: i8GZ_Yop1t_
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 212
 ResourceImportSource: Wordpress

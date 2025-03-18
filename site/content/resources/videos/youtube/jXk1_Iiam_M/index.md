@@ -5,6 +5,7 @@ date: 2023-11-22T07:00:18Z
 weight: 775
 ResourceId: jXk1_Iiam_M
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jXk1_Iiam_M

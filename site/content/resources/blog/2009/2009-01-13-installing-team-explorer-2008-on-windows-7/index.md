@@ -3,6 +3,7 @@ title: Installing Team Explorer 2008 on Windows 7
 description: Learn how to install Team Explorer 2008 on Windows 7, troubleshoot common issues, and enhance your development experience with helpful tips and tools.
 ResourceId: eriIolF997p
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 145
 ResourceImportSource: Wordpress

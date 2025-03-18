@@ -3,6 +3,7 @@ title: 'Scrum Tapas: The Importance of Professionalism'
 description: Explore the significance of professionalism in software teams with Scrum Tapas. Discover how to elevate your team's performance and embrace engineering excellence.
 ResourceId: sdlfWR5wHx7
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 11942
 ResourceImportSource: Wordpress

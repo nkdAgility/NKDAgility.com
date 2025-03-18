@@ -3,6 +3,7 @@ title: Do you want to be an ALM Consultant?
 description: Join Northwest Cadence as an ALM Consultant! Leverage your expertise in software development and help clients build better software efficiently.
 ResourceId: VWFF90m9BYG
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 17
 ResourceImportSource: Wordpress

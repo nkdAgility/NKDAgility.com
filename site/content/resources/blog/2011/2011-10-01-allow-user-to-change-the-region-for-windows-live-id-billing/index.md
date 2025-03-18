@@ -3,6 +3,7 @@ title: Allow user to change the region for Windows Live ID billing
 description: Discover how to navigate the challenges of changing your Windows Live ID billing region. Learn from real experiences and advocate for better solutions!
 ResourceId: v_DNTz1r6-H
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3830
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: 'TFS Event Handler: CTP1 Imminent'
 description: Discover the upcoming TFS Event Handler CTP1 release! Join Martin Hinshelwood as he shares insights and updates on this essential tool for developers.
 ResourceId: VWTrf8PCadG
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 403
 ResourceImportSource: Wordpress

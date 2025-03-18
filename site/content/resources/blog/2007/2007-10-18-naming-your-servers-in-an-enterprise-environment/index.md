@@ -3,6 +3,7 @@ title: Naming your servers in an enterprise environment
 description: Discover effective server naming strategies for enterprise environments. Learn how to create meaningful, consistent names that enhance identification and management.
 ResourceId: LahLCH4hO9O
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 299
 ResourceImportSource: Wordpress

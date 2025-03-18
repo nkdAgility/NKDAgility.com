@@ -3,6 +3,7 @@ title: 'Found GDR Bug: At least I think it is.'
 description: Discover a potential GDR bug affecting SQL views and derived tables. Join the discussion and help improve Data Dude with your insights and votes!
 ResourceId: LjS_IaGaE9R
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 198
 ResourceImportSource: Wordpress

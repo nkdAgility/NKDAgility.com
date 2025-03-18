@@ -3,6 +3,7 @@ title: Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 
 description: Learn to install Visual Studio 2010 Team Foundation Server on Windows Vista in just 3 minutes. Simplify your setup with our step-by-step guide!
 ResourceId: 1915ua1v0mc
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 84
 ResourceImportSource: Wordpress

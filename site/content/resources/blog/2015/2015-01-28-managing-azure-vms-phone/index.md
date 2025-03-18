@@ -3,6 +3,7 @@ title: Managing your Azure VM's with your Phone
 description: Manage your Azure VMs effortlessly with your phone! Discover how the Mobile Azure Manager app simplifies cloud management on the go. Save time and costs!
 ResourceId: N-rk9OlMyUm
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 11152
 ResourceImportSource: Wordpress

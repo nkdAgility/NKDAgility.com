@@ -3,6 +3,7 @@ title: Scottish Visual Studio 2010 Launch event with Jason Zander
 description: Join us for the Visual Studio 2010 launch in Edinburgh with Jason Zander. Discover new tools for Windows, Web, and Cloud development. Don't miss out!
 ResourceId: 6uW7o7pk9WZ
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 57
 ResourceImportSource: Wordpress

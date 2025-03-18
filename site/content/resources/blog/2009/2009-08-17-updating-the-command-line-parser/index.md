@@ -3,6 +3,7 @@ title: Updating the Command Line Parser
 description: Discover how to enhance your command line applications with a versatile parser in VB.NET. Streamline multiple commands and improve your coding efficiency!
 ResourceId: ZMPPpD1TIuP
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 91
 ResourceImportSource: Wordpress

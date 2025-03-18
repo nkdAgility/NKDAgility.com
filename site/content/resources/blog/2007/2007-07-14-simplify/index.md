@@ -3,6 +3,7 @@ title: Simplify
 description: Discover how I simplified my blog categories for better organization and clarity. Join the conversation and share your thoughts on enhancing user experience!
 ResourceId: CEZVS03cb-9
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 372
 ResourceImportSource: Wordpress

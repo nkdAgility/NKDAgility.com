@@ -5,6 +5,7 @@ date: 2023-09-28T08:29:48Z
 weight: 995
 ResourceId: IFX3SRUlunc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IFX3SRUlunc

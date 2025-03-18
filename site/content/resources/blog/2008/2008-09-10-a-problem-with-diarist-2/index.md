@@ -3,6 +3,7 @@ title: A problem with Diarist 2!
 description: Frustrated with Diarist 2? Discover a rant about a frustrating blog writing experience and share your thoughts on improving Windows Mobile 6 blogging!
 ResourceId: Pq0Hdy2qZ05
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 195
 ResourceImportSource: Wordpress

@@ -5,6 +5,7 @@ date: 2023-05-12T14:00:02Z
 weight: 645
 ResourceId: 3YBrq-cle_w
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3YBrq-cle_w

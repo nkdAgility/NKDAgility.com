@@ -5,6 +5,7 @@ date: 2024-02-19T07:00:09Z
 weight: 700
 ResourceId: NeGch-lQkPA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: NeGch-lQkPA

@@ -5,6 +5,7 @@ date: 2023-05-15T07:00:21Z
 weight: 810
 ResourceId: sidTi_uSsdc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sidTi_uSsdc

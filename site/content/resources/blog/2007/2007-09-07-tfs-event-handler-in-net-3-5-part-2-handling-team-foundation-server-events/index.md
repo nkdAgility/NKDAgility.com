@@ -3,6 +3,7 @@ title: TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Ev
 description: Learn to create a resilient TFS Event Handler in .NET 3.5. This guide covers handling events effectively, enhancing your development workflow.
 ResourceId: 8LCPn1m44qL
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3469
 ResourceImportSource: Wordpress

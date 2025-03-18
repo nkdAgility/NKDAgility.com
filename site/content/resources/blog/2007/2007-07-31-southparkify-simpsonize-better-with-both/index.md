@@ -3,6 +3,7 @@ title: 'Southparkify / Simpsonize : better with both!'
 description: Explore the fun of Southparkify and Simpsonize! Discover how combining these two can create a unique representation of yourself. Join the creative journey!
 ResourceId: PEl4lRY2qjH
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 353
 ResourceImportSource: Wordpress

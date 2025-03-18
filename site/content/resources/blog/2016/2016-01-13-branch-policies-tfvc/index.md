@@ -3,6 +3,7 @@ title: Branch Policies for TFVC
 description: Explore effective branch policies for TFVC to streamline your development process. Learn how to implement checks and improve code quality with ease!
 ResourceId: _26VFOA-vCe
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 11424
 ResourceImportSource: Wordpress

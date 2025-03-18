@@ -5,6 +5,7 @@ date: 2023-10-23T07:00:21Z
 weight: 700
 ResourceId: vhBsAXev014
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vhBsAXev014

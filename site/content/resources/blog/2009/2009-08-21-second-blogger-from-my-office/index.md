@@ -3,6 +3,7 @@ title: Second blogger from my office
 description: Discover the journey of my colleague Roddy as he navigates corporate blogging. Check out his insightful first post on SQL Server functions!
 ResourceId: uzDvrUVCXdK
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 89
 ResourceImportSource: Wordpress

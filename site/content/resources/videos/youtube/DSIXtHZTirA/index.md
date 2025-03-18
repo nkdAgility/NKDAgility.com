@@ -5,6 +5,7 @@ date: 2024-11-23T07:00:12Z
 weight: 265
 ResourceId: DSIXtHZTirA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DSIXtHZTirA

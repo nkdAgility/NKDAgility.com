@@ -3,6 +3,7 @@ title: 'VSS Converter – Issue: TF54000: Cannot update the data because the ser
 description: Encountering TF54000 during VSS import? Discover the cause and a simple workaround to resolve the server clock issue for a smooth migration process.
 ResourceId: dyEMgbMXhgq
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 6127
 ResourceImportSource: Wordpress

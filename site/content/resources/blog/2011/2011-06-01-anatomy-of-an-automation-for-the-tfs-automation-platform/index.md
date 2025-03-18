@@ -3,6 +3,7 @@ title: Anatomy of an Automation for the Tfs Automation Platform
 description: Explore the anatomy of automations for the TFS Automation Platform. Learn how to integrate and deploy extensions effectively for enhanced productivity.
 ResourceId: 5naWQQ14MHe
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3361
 ResourceImportSource: Wordpress

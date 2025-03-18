@@ -3,6 +3,7 @@ title: Festive holiday studying
 description: Join Martin Hinshelwood as he shares his festive holiday plans, Xbox gaming, and insights on mastering WPF for .NET development. Embrace the holiday spirit!
 ResourceId: tUIp9FEu7QH
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 273
 ResourceImportSource: Wordpress

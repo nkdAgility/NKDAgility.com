@@ -3,6 +3,7 @@ title: Project of Projects with team Foundation Server 2010
 description: Discover best practices for using Team Foundation Server 2010 effectively. Learn to structure projects intuitively for enhanced collaboration and efficiency.
 ResourceId: qiY3IH2aMYV
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 18
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Do you have a contract between the Product Owner and the Team?
 description: Discover the importance of a Sprint Contract between the Product Owner and Team in Scrum. Enhance collaboration and clarity for successful project delivery.
 ResourceId: 8d4KN3bxVfX
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 52
 ResourceImportSource: Wordpress

@@ -5,6 +5,7 @@ date: 2024-07-24T06:45:04Z
 weight: 405
 ResourceId: rN1s7_iuklo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rN1s7_iuklo

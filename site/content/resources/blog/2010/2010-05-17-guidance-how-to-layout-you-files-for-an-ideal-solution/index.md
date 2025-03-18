@@ -3,6 +3,7 @@ title: 'Guidance: How to layout you files for an Ideal Solution'
 description: Master the art of file layout for maintainable solutions in TFS. Discover best practices and enhance your development workflow with expert guidance.
 ResourceId: qHU7H_raZge
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 42
 ResourceImportSource: Wordpress

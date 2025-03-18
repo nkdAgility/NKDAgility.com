@@ -5,6 +5,7 @@ date: 2023-05-19T07:00:31Z
 weight: 1000
 ResourceId: o-wVeh3CIVI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: o-wVeh3CIVI

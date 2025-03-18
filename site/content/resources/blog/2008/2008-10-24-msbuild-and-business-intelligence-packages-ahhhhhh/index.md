@@ -3,6 +3,7 @@ title: MSBuild and Business Intelligence Packages, Ahhhhhh!
 description: Explore the challenges of automating Business Intelligence builds with MSBuild. Discover solutions for SSIS and SSAS package deployment and testing.
 ResourceId: lttzdaIlzel
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 182
 ResourceImportSource: Wordpress

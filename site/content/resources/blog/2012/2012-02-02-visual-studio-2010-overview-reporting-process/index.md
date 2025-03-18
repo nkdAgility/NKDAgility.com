@@ -3,6 +3,7 @@ title: Visual Studio 2010 Overview - Reporting & Process
 description: Explore Visual Studio 2010's reporting and process templates to enhance team collaboration and continuous improvement. Unlock your development potential today!
 ResourceId: Ryiemqc7hnZ
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 4138
 ResourceImportSource: Wordpress

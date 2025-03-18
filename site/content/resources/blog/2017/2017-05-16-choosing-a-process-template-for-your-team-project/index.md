@@ -3,6 +3,7 @@ title: Choosing a Process Template for your Team Project
 description: Discover the best process template for your agile team project. Learn why the Scrum template minimizes friction and enhances your development workflow.
 ResourceId: dGSGEOYRJAo
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10356
 ResourceImportSource: Wordpress

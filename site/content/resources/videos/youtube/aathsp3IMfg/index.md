@@ -5,6 +5,7 @@ date: 2023-04-11T07:00:00Z
 weight: 1000
 ResourceId: aathsp3IMfg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: aathsp3IMfg

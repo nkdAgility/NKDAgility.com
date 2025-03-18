@@ -3,6 +3,7 @@ title: Setting up SharePoint for the Enterprise
 description: Learn how to effectively set up SharePoint for a global enterprise. Discover essential strategies for deployment across multiple continents and enhance collaboration.
 ResourceId: q0Nsf_xfijz
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 252
 ResourceImportSource: Wordpress

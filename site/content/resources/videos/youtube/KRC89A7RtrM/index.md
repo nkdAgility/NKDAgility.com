@@ -5,6 +5,7 @@ date: 2014-01-15T14:55:37Z
 weight: 1000
 ResourceId: KRC89A7RtrM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KRC89A7RtrM

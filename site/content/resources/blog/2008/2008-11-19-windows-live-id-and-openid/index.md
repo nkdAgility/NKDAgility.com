@@ -3,6 +3,7 @@ title: Windows Live ID and OpenID
 description: Explore how Microsoft integrates Windows Live ID with OpenID, enabling seamless authentication and single sign-on for developers and users alike.
 ResourceId: OsETJoX5w_V
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 165
 ResourceImportSource: Wordpress

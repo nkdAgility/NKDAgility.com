@@ -3,6 +3,7 @@ title: 'TFS EventHandler: MSMQ Refactor'
 description: Explore the TFS EventHandler MSMQ Refactor as Martin Hinshelwood shares insights on streamlining event handling with a modular approach. Stay tuned for updates!
 ResourceId: 1monS4nfW6w
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 407
 ResourceImportSource: Wordpress

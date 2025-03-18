@@ -3,6 +3,7 @@ title: Mozy Backup Space Gathering update
 description: Join my quest for free Mozy backup space! Discover how referrals can boost your storage and get tips on maximizing your online backup experience.
 ResourceId: Ijl3My1sDG-
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 286
 ResourceImportSource: Wordpress

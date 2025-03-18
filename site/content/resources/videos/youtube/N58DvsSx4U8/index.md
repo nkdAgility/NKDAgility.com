@@ -5,6 +5,7 @@ date: 2023-04-18T07:00:08Z
 weight: 445
 ResourceId: N58DvsSx4U8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: N58DvsSx4U8

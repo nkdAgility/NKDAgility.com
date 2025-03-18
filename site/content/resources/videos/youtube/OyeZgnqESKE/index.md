@@ -5,6 +5,7 @@ date: 2024-02-01T07:00:09Z
 weight: 1000
 ResourceId: OyeZgnqESKE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OyeZgnqESKE

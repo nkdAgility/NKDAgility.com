@@ -3,6 +3,7 @@ title: Reformat your CSS on the fly
 description: Learn how to dynamically reformat your CSS for different environments using .NET. Simplify your web development process and enhance your workflow today!
 ResourceId: elcSY_VSAVs
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 142
 ResourceImportSource: Wordpress

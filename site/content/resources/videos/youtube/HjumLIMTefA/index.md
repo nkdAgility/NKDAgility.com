@@ -5,6 +5,7 @@ date: 2024-02-04T11:00:23Z
 weight: 1000
 ResourceId: HjumLIMTefA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HjumLIMTefA

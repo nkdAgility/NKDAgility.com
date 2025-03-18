@@ -3,6 +3,7 @@ title: 'How-To: Allow other users to interact with workflow on your MySite'
 description: Learn how to enable user interaction with workflows on MySite. This guide covers permissions, task lists, and best practices for effective collaboration.
 ResourceId: JUQrPR1RNmh
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 185
 ResourceImportSource: Wordpress

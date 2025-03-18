@@ -3,6 +3,7 @@ title: Microsoft Surface 3 unable to boot from USB
 description: Struggling to boot your Microsoft Surface 3 from USB? Discover the solution to this frustrating issue and get your device back on track with our guide!
 ResourceId: a3t-_ypf_UJ
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10907
 ResourceImportSource: Wordpress

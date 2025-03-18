@@ -5,6 +5,7 @@ date: 2020-03-25T21:07:01Z
 weight: 1000
 ResourceId: i_DglXgaePM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: i_DglXgaePM

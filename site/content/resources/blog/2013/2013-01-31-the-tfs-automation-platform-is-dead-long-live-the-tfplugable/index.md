@@ -3,6 +3,7 @@ title: The TFS Automation Platform is dead, long live the TfPlugable
 description: Discover the TfPlugable, a revolutionary solution for TFS automation. Simplify deployment and management of extensions with our innovative platform!
 ResourceId: cMYx4JN2az5
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9229
 ResourceImportSource: Wordpress

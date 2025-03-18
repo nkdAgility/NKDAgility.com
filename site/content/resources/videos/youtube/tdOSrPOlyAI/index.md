@@ -5,6 +5,7 @@ date: 2024-11-30T06:00:00Z
 weight: 240
 ResourceId: tdOSrPOlyAI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tdOSrPOlyAI

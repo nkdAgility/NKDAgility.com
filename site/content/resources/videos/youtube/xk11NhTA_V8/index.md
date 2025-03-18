@@ -5,6 +5,7 @@ date: 2023-11-01T11:30:27Z
 weight: 700
 ResourceId: xk11NhTA_V8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xk11NhTA_V8

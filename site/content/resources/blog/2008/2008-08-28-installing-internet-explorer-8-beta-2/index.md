@@ -3,6 +3,7 @@ title: Installing Internet Explorer 8 Beta 2
 description: Discover how to install Internet Explorer 8 Beta 2 with essential links and guidance for a smooth setup. Get started on your upgrade today!
 ResourceId: JYf3i9TAak5
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 204
 ResourceImportSource: Wordpress

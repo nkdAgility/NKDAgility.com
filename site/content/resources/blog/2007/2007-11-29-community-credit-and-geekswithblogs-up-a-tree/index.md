@@ -3,6 +3,7 @@ title: Community Credit and GeeksWithBlogs up a tree...
 description: Discover the exciting integration of GeeksWithBlogs and Community Credit! Celebrate this union and explore the benefits for the blogging community.
 ResourceId: hEA0D2QOf3l
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 282
 ResourceImportSource: Wordpress

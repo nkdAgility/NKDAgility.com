@@ -3,6 +3,7 @@ title: Unlikely bloggers…
 description: Discover the inspiring journey of unlikely bloggers like Eric McCarthy and join the conversation in the blogosphere. Everyone has a voice—share yours!
 ResourceId: cFVF2mb9dJ8
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 177
 ResourceImportSource: Wordpress

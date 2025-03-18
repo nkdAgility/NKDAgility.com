@@ -3,6 +3,7 @@ title: Rangers shipped Visual Studio 2010 Database Guide
 description: Unlock the potential of Visual Studio 2010 with the ALM Rangers' Database Guide, featuring hands-on labs and practical tips for real-world projects.
 ResourceId: cPIxk6Q_Dan
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 30
 ResourceImportSource: Wordpress

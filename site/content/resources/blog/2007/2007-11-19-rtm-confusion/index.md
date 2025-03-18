@@ -3,6 +3,7 @@ title: RTM Confusion
 description: Confused about the RTM release of VS2008? Discover insights on Team Explorer, Team Suite, and essential downloads to streamline your development process.
 ResourceId: S8tFRw6ao4M
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 292
 ResourceImportSource: Wordpress

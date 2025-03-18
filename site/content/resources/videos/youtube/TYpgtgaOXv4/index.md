@@ -5,6 +5,7 @@ date: 2023-12-01T07:00:11Z
 weight: 1000
 ResourceId: TYpgtgaOXv4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TYpgtgaOXv4

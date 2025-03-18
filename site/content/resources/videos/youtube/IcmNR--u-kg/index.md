@@ -5,6 +5,7 @@ date: 2023-07-31T07:00:12Z
 weight: 855
 ResourceId: IcmNR--u-kg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IcmNR--u-kg

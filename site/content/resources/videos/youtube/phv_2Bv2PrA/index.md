@@ -5,6 +5,7 @@ date: 2022-10-07T10:41:41Z
 weight: 530
 ResourceId: phv_2Bv2PrA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: phv_2Bv2PrA

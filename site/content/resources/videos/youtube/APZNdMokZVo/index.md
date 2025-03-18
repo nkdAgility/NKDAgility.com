@@ -5,6 +5,7 @@ date: 2023-11-13T06:56:47Z
 weight: 420
 ResourceId: APZNdMokZVo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: APZNdMokZVo

@@ -5,6 +5,7 @@ date: 2024-08-16T07:18:10Z
 weight: 355
 ResourceId: sXmXT_MDXTo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sXmXT_MDXTo

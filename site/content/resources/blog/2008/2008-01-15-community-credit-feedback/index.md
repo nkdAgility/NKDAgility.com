@@ -3,6 +3,7 @@ title: Community-Credit feedback
 description: Join the discussion on enhancing Community Credit! Share your feedback and suggestions to improve features and user experience in this vibrant forum.
 ResourceId: HElvJm048ib
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 264
 ResourceImportSource: Wordpress

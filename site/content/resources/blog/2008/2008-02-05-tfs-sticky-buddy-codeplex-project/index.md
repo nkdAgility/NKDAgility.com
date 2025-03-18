@@ -3,6 +3,7 @@ title: TFS Sticky Buddy Codeplex project
 description: Explore the TFS Sticky Buddy project, a digital whiteboard solution for Team Foundation Server that enhances project visibility and team collaboration.
 ResourceId: g0bjuq5cIqX
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 250
 ResourceImportSource: Wordpress

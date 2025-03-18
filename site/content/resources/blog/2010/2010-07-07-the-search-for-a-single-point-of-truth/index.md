@@ -3,6 +3,7 @@ title: The search for a single point of truth
 description: Discover effective strategies for syncing your contacts across platforms and achieving a single point of truth. Streamline your connections today!
 ResourceId: nWNc5jUb0Up
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 34
 ResourceImportSource: Wordpress

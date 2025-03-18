@@ -5,6 +5,7 @@ date: 2024-05-08T06:45:02Z
 weight: 630
 ResourceId: VOUmfpB-d88
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: VOUmfpB-d88

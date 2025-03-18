@@ -5,6 +5,7 @@ date: 2023-09-04T07:00:13Z
 weight: 715
 ResourceId: Juonckoiyx0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Juonckoiyx0

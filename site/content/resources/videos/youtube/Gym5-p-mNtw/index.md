@@ -5,6 +5,7 @@ date: 2024-12-17T06:00:00Z
 weight: 395
 ResourceId: Gym5-p-mNtw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Gym5-p-mNtw

@@ -3,6 +3,7 @@ title: The evolution of naked ALM with Pagelines DMS for Wordpress
 description: Discover the evolution of naked ALM with Pagelines DMS for WordPress. Learn how to enhance your site’s customization and functionality effortlessly!
 ResourceId: csMYp4a7yBd
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9964
 ResourceImportSource: Wordpress

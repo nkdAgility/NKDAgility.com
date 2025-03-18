@@ -5,6 +5,7 @@ date: 2023-06-05T11:00:38Z
 weight: 855
 ResourceId: o9Qc_NLmtok
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: o9Qc_NLmtok

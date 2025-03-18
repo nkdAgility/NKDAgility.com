@@ -3,6 +3,7 @@ title: Windows Mobile 6 Black Shadow (4.0)
 description: Discover the benefits of updating to Windows Mobile 6 Black Shadow (4.0) with expert tips and a step-by-step guide for a smooth installation experience!
 ResourceId: zVL1JtizXQg
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 375
 ResourceImportSource: Wordpress

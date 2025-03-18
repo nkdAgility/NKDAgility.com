@@ -3,6 +3,7 @@ title: Move your Active Directory domain to another server
 description: Learn how to successfully move your Active Directory domain to a new server with expert tips and a detailed video guide. Simplify your migration process!
 ResourceId: koQQ-rllpsw
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10334
 ResourceImportSource: Wordpress

@@ -3,6 +3,7 @@ title: Avoid the Bug as Task anti-pattern in Azure DevOps
 description: Learn to avoid the Bug as Task anti-pattern in Azure DevOps to enhance team communication, transparency, and software quality. Improve your agile processes now!
 ResourceId: ppfe8CkVNf0
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 10662
 ResourceImportSource: Wordpress

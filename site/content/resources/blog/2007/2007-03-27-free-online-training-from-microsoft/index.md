@@ -3,6 +3,7 @@ title: Free Online training from Microsoft
 description: Unlock your potential with free online training from Microsoft! Explore workshops and courses on Visual Studio 2005 and SQL Server 2005. Limited time only!
 ResourceId: BGC7JkOCdJs
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 423
 ResourceImportSource: Wordpress

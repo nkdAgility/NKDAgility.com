@@ -5,6 +5,7 @@ date: 2023-01-23T07:00:14Z
 weight: 585
 ResourceId: Yesn-VHhQ4k
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Yesn-VHhQ4k

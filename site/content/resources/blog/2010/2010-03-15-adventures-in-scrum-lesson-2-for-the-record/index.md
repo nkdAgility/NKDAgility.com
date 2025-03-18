@@ -3,6 +3,7 @@ title: 'Adventures in Scrum: Lesson 2 - For the record'
 description: Explore key lessons from our first Scrum Sprint at SSW, uncovering the importance of clear communication and alignment in Agile practices. Join the journey!
 ResourceId: ycDsUu_-hNR
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 62
 ResourceImportSource: Wordpress

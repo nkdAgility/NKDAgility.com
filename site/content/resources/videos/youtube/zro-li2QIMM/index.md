@@ -5,6 +5,7 @@ date: 2023-12-06T11:01:01Z
 weight: 805
 ResourceId: zro-li2QIMM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zro-li2QIMM

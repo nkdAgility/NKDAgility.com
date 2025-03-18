@@ -5,6 +5,7 @@ date: 2024-07-01T07:00:24Z
 weight: 1000
 ResourceId: nfTAYRLAaYI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nfTAYRLAaYI

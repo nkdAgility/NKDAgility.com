@@ -3,6 +3,7 @@ title: TFS Handover
 description: Explore essential TFS handover documentation by Martin Hinshelwood, detailing installation tips and management insights for a smooth transition in your office.
 ResourceId: pHZwP7oD5dE
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 319
 ResourceImportSource: Wordpress

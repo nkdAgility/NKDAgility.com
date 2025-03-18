@@ -5,6 +5,7 @@ date: 2023-11-10T06:45:01Z
 weight: 1000
 ResourceId: WpsGLkTXalE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WpsGLkTXalE

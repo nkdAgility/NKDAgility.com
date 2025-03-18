@@ -3,6 +3,7 @@ title: What do you do with a Work Item History Not Found Conflict Type Details
 description: Discover solutions for TFS migration conflicts in work item history. Learn how to tackle 'not found' errors and streamline your integration process.
 ResourceId: XOt3b4gzyH8
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3460
 ResourceImportSource: Wordpress

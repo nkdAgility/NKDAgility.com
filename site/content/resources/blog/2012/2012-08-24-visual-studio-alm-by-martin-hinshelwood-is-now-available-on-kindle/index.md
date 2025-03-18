@@ -3,6 +3,7 @@ title: Visual Studio ALM by Martin Hinshelwood is now available on Kindle
 description: Discover Martin Hinshelwood's 'Visual Studio ALM' now on Kindle! Enhance your ALM knowledge and get insights delivered wirelessly to your device.
 ResourceId: nsaShwBHR0g
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 7619
 ResourceImportSource: Wordpress

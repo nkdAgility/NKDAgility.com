@@ -3,6 +3,7 @@ title: Creating a custom Activity for Team Foundation Build
 description: Learn to create custom activities for Team Foundation Build with this step-by-step guide. Simplify your workflows and enhance your build processes today!
 ResourceId: mgwL4ERT1N3
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9769
 ResourceImportSource: Wordpress

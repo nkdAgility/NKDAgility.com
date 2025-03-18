@@ -3,6 +3,7 @@ title: 'Project Server 2013 Issue - TF294012: Cannot access the following enterp
 description: Resolve the TF294012 error in Project Server 2013 with our step-by-step guide. Learn how to manage permissions and access your enterprise projects effectively.
 ResourceId: B7vlHTIj_jT
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 9138
 ResourceImportSource: Wordpress

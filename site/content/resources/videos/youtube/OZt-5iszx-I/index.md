@@ -5,6 +5,7 @@ date: 2024-07-10T06:45:01Z
 weight: 1000
 ResourceId: OZt-5iszx-I
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OZt-5iszx-I

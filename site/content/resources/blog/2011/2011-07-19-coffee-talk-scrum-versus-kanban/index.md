@@ -3,6 +3,7 @@ title: 'Coffee Talk: Scrum versus Kanban'
 description: Join Martin Hinshelwood and Steven Borg in a free webcast to explore the key differences between Scrum and Kanban for effective software development.
 ResourceId: 1VmIrtnFKy7
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3688
 ResourceImportSource: Wordpress

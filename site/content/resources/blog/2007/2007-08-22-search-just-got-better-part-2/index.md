@@ -3,6 +3,7 @@ title: 'Search just got better: Part 2'
 description: "Explore the evolution of search engines in 'Search just got better: Part 2.' Discover insights on Tafiti and Search Crystal's unique visual interfaces."
 ResourceId: _3B1lqJWcF5
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 322
 ResourceImportSource: Wordpress

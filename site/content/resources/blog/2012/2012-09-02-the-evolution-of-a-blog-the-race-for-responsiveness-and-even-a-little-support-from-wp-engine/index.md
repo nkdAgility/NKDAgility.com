@@ -3,6 +3,7 @@ title: The evolution of a blog, the race for responsiveness and even a little su
 description: Discover the journey of a blog's evolution and the quest for speed with WP Engine. Learn how to enhance performance and responsiveness effectively!
 ResourceId: 6-_05CBAsbh
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 8617
 ResourceImportSource: Wordpress

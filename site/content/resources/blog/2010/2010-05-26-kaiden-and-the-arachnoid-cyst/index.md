@@ -3,6 +3,7 @@ title: Kaiden and the Arachnoid Cyst
 description: Join us as we share Kaiden's journey with an arachnoid cyst, exploring his milestones and challenges. Discover our family's story and updates along the way.
 ResourceId: LjGohC1Hzfv
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 41
 ResourceImportSource: Wordpress

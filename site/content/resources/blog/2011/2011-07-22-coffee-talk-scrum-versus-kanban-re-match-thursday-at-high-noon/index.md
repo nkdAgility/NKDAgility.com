@@ -3,6 +3,7 @@ title: 'Coffee Talk: Scrum versus Kanban (re-match) ... Thursday at High Noon!'
 description: Join the rematch of Scrum vs Kanban as experts debate their merits! Discover insights and strategies to enhance your agile processes. Don't miss out!
 ResourceId: KtZxhtX0v9O
 ResourceType: blog
+ResourceContentOrigin: Human
 ResourceImport: true
 ResourceImportId: 3692
 ResourceImportSource: Wordpress
