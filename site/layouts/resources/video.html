@@ -9,14 +9,16 @@
           <div class="col-xl-4 d-none d-xl-flex justify-content-end align-items-center">
             <h4>tech·nic·al·ly agile</h4>
           </div>
-          <div class="col-12 col-xl-8">
-            <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
-            {{- if .Params.subtitle }}
-              <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
-            {{ else }}
-              <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
-            {{- end }}
-            {{- partial "publications/craft.html" . }}
+          <div class="col-12 col-xl-8 d-flex flex-column">
+            <div class="flex-grow-1">
+              <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+              {{- if .Params.subtitle }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+              {{ else }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+              {{- end }}
+            </div>
+            <div class="mt-auto">{{- partial "publications/craft.html" . }}</div>
           </div>
           <div class="col-xl-4 d-none d-xl-flex justify-content-center align-items-center">
             <div class="position-relative">
@@ -37,8 +39,8 @@
       </div>
     </section>
   </section>
-  <section class="container my-2" style="max-width: 900px !important">
-    {{- partial "publications/share-bar.html" . }}
+  <section class="container-fluid resources-headline-sharebar">
+    <section class="container" style="max-width: 900px !important">{{- partial "publications/share-bar.html" . }}</section>
   </section>
 {{- end }}
 
