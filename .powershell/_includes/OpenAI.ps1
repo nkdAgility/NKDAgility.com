@@ -161,7 +161,7 @@ function Get-OpenAIResponse {
     Write-VerboseLog "-----------------------------------------"
 
     # Estimate tokens for the prompt
-    $tokenEstimate = Get-TokenEstimate $prompt
+    $tokenEstimate = Get-TokenCount $prompt
     $maxTokensPerChunk = 50000  # Leave room for model response
 
     # Split the prompt into chunks if it exceeds the max token size
@@ -227,7 +227,7 @@ function Submit-OpenAIBatch {
     }
     $tokenEstimate = 0
     $BatchData = $Prompts | ForEach-Object {
-        $tokenEstimate += Get-TokenEstimate $_
+        $tokenEstimate += Get-TokenCount $_
         [PSCustomObject]@{
             custom_id = "request-$([System.Guid]::NewGuid().ToString())"
             method    = "POST"
@@ -466,12 +466,12 @@ function Get-OpenAIBatchList {
 
 function Get-TokenCount {
     param (
-        [string]$Prompt
+        [string]$Content
     )
 
     # Save the prompt to a temp file
     $tempFile = "$env:TEMP\prompt.txt"
-    $Prompt | Out-File -Encoding utf8 $tempFile
+    $Content | Out-File -Encoding utf8 $tempFile
 
     # Run Python script to get token count
     $tokenCount = python -c @"
@@ -490,10 +490,6 @@ print(len(tokens))
     return [int]$tokenCount
 }
 
-# Example usage:
-$prompt = "This is a sample prompt to estimate tokens."
-$tokenCount = Get-TokenCount -Prompt $prompt
-Write-Host "Estimated Tokens: $tokenCount"
 
 
 

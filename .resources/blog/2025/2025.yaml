@@ -1,0 +1,1554 @@
+- FrontMatter:
+    title: Your Evolving Definition of Done
+    description: Evolve your Definition of Done (DoD) to align with organisational goals, ensuring quality and strategic value in every product increment.
+    ResourceId: 5wIEg7lD_Xd
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-03-31T09:00:00
+    weight: 225
+    AudioNative: true
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    aliases:
+    - /resources/5wIEg7lD_Xd
+    aliasesArchive:
+    - /your-evolving-definition-of-done
+    - /blog/your-evolving-definition-of-done
+    categories:
+    - Social Technologies
+    - Scrum
+    tags:
+    - Definition of Done
+    - Software Development
+    - Scrum Product Development
+    - Strategy
+    - Professional Scrum
+    - Value Delivery
+    - Engineering Practices
+    - Product Delivery
+    - Agile Product Management
+    - Practical Techniques and Tooling
+  BodyContent: |
+    The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that Scrum Teams build on a solid foundation, aligning technical execution with strategic goals.
+
+    The [Definition of Done (DoD) is an objective, measurable standard of quality]({{< ref "/resources/blog/2025/2025-01-03-definition-of-done-objective-vs-subjective" >}})—not a negotiable target. Keep it clear, enforceable, and automated to ensure every Increment meets professional expectations.
+
+    ## Definition of Done - The Organisational quotient
+
+    For a product to deliver real value, its quality criteria must align with organisational and market expectations. It should meet a minimum quality standard that ensures usability while safeguarding the organisation, its employees, and its users. Any failure to do so could damage the organisation’s reputation and trust in the product.
+
+    This means organisations should define a business DoD that may include:
+
+    - Regulatory compliance
+    - Market readiness (e.g., beta testing completion, go-to-market strategies)
+    - Customer experience and feedback incorporation
+    - Financial viability assessment
+    - Alignment with broader company objectives
+
+    Without this business-level perspective, teams risk optimising for technical completeness while missing the broader value delivery picture. The result of many iterations of the organisational definition of done for a product might look like:
+
+    > Live an in production
+    >
+    > gathering telemetry
+    >
+    > supporting or diminishing
+    >
+    > the starting hypothesis
+
+    This short sentence packs a lot into it, and it's a commercial product definition of "done" for a team I have collaborated closely with for over 17 years.
+
+    1. "Live an in production" - done here mean that it is in the hands of real users
+
+    2. "gathering telemetry" - done here mean that the Developers must add code that collects relevant information from usage, performance, and such...
+
+    3. "supporting or diminishing the starting hypothesis" - Done here means that the team must define success metrics before building a feature or capability, ensuring that the collected data provides clear evidence of whether the intended outcomes are being achieved.
+
+    None of these elements define the "why" or "what" of what we're building—those are captured in the backlogs. Instead, they establish the minimum quality standard required for work to be considered done.
+
+    ## Definition of Done - Translating Organisational Standards into Team Practice
+
+    While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/categories/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
+
+    Each Scrum Team must interpret the organisational Definition of Done within their context, shaping an engineering-level DoD that aligns with it. While examples can guide them, it's the team’s responsibility to determine what Done means within organisational constraints.
+
+    In addition to supporting the organisational definition of done, a robust DoD ensures that work meets a consistent level of quality before it is considered complete. This includes [engineering practices]({{< ref "/tags/engineering-practices" >}}), preferably within the bounds of a [shift-left strategy]({{< ref "/tags/shift-left-strategy" >}}), such as:
+
+    - **Writing Unit and Integration Tests** – with a preference for shifting testing earlier by adopting Test-Driven Development (TDD) and automated integration testing, ensuring issues are caught before coding progresses too far—and preferably making tests a prerequisite for writing new code.
+
+    - **Performing Code Reviews** – Rather than manual code reviews create automate code quality checks using static analysis and enforce good practices before manual reviews, allowing developers to focus on deeper logic and architectural concerns—and preferably integrating peer reviews into the development workflow, such as pair or mob programming.
+
+    - **Adhering to Security and Compliance Requirements** – try embeding security scanning into [CI/CD pipelines]({{< ref "/tags/continuous-delivery" >}}) with automated dependency checks and policy enforcement, catching vulnerabilities before they reach production—and preferably treating security as code, ensuring it evolves alongside development.
+
+    - **Maintaining Updated Documentation** – Automate as much of your documentation updates as possible using tools that generate API references and architecture diagrams directly from code, keeping documentation relevant and accurate—and preferably making documentation a non-negotiable part of the Definition of Done (DoD).
+
+    - **Ensuring Deployments are Automated and Repeatable** – Implement Infrastructure as Code (IaC) and continuous deployment pipelines to guarantee consistent, error-free releases—and preferably shifting validation left with feature flags, automated rollback strategies, and deployment previews.
+
+    Each aspect contributes to quality, reducing the likelihood of defects and [technical debt]({{< ref "/tags/technical-debt" >}}). However, quality isn’t just a technical concern—it is an economic and strategic one.
+
+    ## The Evolution of Done Over Time
+
+    New teams often start with a weak DoD that doesn’t yet guarantee releasability. A brownfield product with legacy constraints may have a DoD that initially excludes automation, testing, or [continuous deployment]({{< ref "/tags/deployment-frequency" >}}) due to existing technical debt. Over time, through Sprint Retrospectives and deliberate improvements, the DoD should:
+
+    1. Start at a minimal viable level (e.g., basic testing, peer reviews).
+    2. Expand to include automated testing, security checks, and CI/CD.
+    3. Reach a state where every increment is truly releasable.
+
+    An experienced Scrum Team should aim for a DoD that ensures shippability at the end of every Sprint. Anything less introduces unnecessary risk and delays value realisation.
+
+    #### Common Misconceptions
+
+    1. **Can the DoD Change Per Sprint?**\
+       Yes, but only to **increase quality**. The Sprint Retrospective is the right place to discuss DoD improvements, not reductions. However, if an issue arises, address it immediately—don’t wait for the Retrospective.
+
+    2. **Can the DoD Be Lowered to Deliver More Features?**
+
+       No. Quality is a long-term investment, not a short-term lever to pull for speed. A Scrum Team has no authority to cut quality—that's a financial and risk decision made at the highest level. This authority rarely sits with project managers or middle management. If someone asks you to lower quality, tell them to get it in writing from the financial director.
+
+    3. **Can We Have Different DoDs Per Backlog Item?**
+
+       No. The DoD is a universal standard applied to all work, ensuring consistency in quality. Acceptance Criteria define specific conditions for a backlog item, but these conditions do not belong in the DoD.
+
+    4. **Should the DoD Be Fluid and Change Every Sprint?**
+
+       No. A fluctuating DoD signals dysfunction unless it’s always improving. Constant changes undermine transparency and disrupt planning. Evolution should be deliberate, incremental, and focused on raising quality—not shifting goalposts.
+
+    ## DoD as a Strategic Lever
+
+    A strong DoD isn’t just about engineering—it’s about protecting revenue, managing risk, and ensuring predictable delivery. Weak DoD practices lead to costly rework, delayed releases, and customer dissatisfaction. By embedding security, compliance, and quality checks into the development cycle, organisations reduce their exposure to financial and reputational risks. Teams that consistently meet a well-defined DoD can deliver with greater confidence, improving forecasting and market responsiveness.
+
+    A strong DoD reduces rework, increases predictability, and aligns technical work with business value. As organisations evolve, so should their quality expectations. This continuous refinement is not just a technical necessity—it’s a competitive advantage.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-17-your-evolving-definition-of-done\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-17-your-evolving-definition-of-done
+- FrontMatter:
+    title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
+    description: 'Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments.'
+    ResourceId: dQjKsWR5qfn
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-03-24T09:00:00
+    weight: 245
+    AudioNative: true
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: great-scrum-masters-need-technical-business-and-organisational-mastery
+    aliases:
+    - /resources/dQjKsWR5qfn
+    aliasesArchive:
+    - /great-scrum-masters-need-technical-business-and-organisational-mastery
+    - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
+    - /great-scrum-masters-need-technical--business--and-organisational-mastery
+    - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+    categories:
+    - Scrum
+    - Social Technologies
+    tags:
+    - Agile Project Management
+    - Scrum Team
+    - Scrum Master
+    - Professional Scrum
+    - Scrum Product Development
+    - Agile Transformation
+    - Engineering Practices
+    - Software Development
+    - Technical Leadership
+    - Product Delivery
+  BodyContent: |
+    One of the most common debates in the Scrum community is whether a Scrum Master needs technical skills. While the Scrum Guide does not explicitly require technical knowledge, the reality of working with a Scrum Team suggests otherwise. A Scrum Master must be an effective _Teacher, Mentor, Coach, and Facilitator_, which requires a deep understanding of the team's work, the business they operate in, and the organisation they are navigating.
+
+    Technical skills, in this context, mean mastery of the tools, techniques, and practices relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand the regulatory and quality requirements of that field. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand software development practices, including Continuous Delivery, Test First, and DevOps principles. Without this domain knowledge, how can they effectively help the team deliver value?
+
+    There are three key areas of mastery that make a Scrum Master truly effective: **Technical Mastery, Business Mastery, and Organisational Evolutionary Mastery.**
+
+    ## Three Masteries of an effective Scrum Master
+
+    Many individuals take on the Scrum Master role without fully developing the expertise needed in even one of these masteries, let alone all three. This gap in competence can hinder the Scrum Team’s ability to navigate challenges effectively and maximise their potential. They often fall into the assumption of the knowledge fallacy trap because they don't have the skills, knowledge, or experience to identify the deficiency in or corruption of a key practice or capability for the Scrum Team to be effective.
+
+    While it is not mandatory to have all of these masteries to the same depth, depending on the size of the organisation and others working in the same field, a great Scrum Master possesses these three critical masteries that enable them to serve the Scrum Team, the Product Owner, and the organisation effectively.
+
+    ### 1. Technical Mastery
+
+    One of the core capabilities of any team is their ability to deliver a valuable, usable product. For a Scrum Master to coach them on creating that value, they need to understand what effective looks like in the context. If they are working with a hardware team, they should understand product engineering and manufacturing constraints. If they are in finance, they should understand financial modelling and compliance.
+
+    The key is domain-specific technical mastery that allows them to facilitate discussions, remove impediments, and guide the team towards better practices. If they are working with software teams they should be able to teach and coach the team members in the technical practices for software, for example:
+
+    - **Coach the Developers in SOLID principles** – ensuring that the team adheres to fundamental object-oriented design principles to create maintainable and scalable software.
+    - **Facilitate the adoption of Static Analysis & Linting** – Encouraging automated code quality checks to catch defects early and enforce coding standards.
+    - **Mentor the team in Pair Programming** – Promoting collaborative coding to enhance knowledge sharing, reduce defects, and improve overall code quality.
+    - **Instill Test-Driven Development (TDD) practices** – Guiding the team to write tests before code, ensuring robust, verifiable, and high-quality software.
+    - **Enable Continuous Integration and Deployment (CI/CD)** – Driving automation and frequent delivery to accelerate feedback loops and improve release reliability.
+    - **Advocate for Cloud and DevOps principles** – Teaching the team how to leverage cloud-native architectures, Infrastructure as Code (IaC), and automated operations.
+    - **Ensure Clean Code and Refactoring discipline** – Encouraging best practices that result in readable, maintainable, and scalable codebases while reducing technical debt.
+
+    In other contexts, like designing hardware, creating movies, or creating financial accounts, they would need to teach and coach the technical practices that make sense for those contexts. These skills help the Scrum Master serve the Scrum Team and increase their effectiveness.
+
+    > The Scrum Master serves the Scrum Team in several ways, including:
+    >
+    > - Coaching the team members in self-management and cross-functionality;
+    > - Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
+    > - Causing the removal of impediments to the Scrum Team’s progress; and,
+    > - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
+    >
+    >   — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
+
+    Without technical mastery within the relevant domain, guiding a Scrum Team towards high-value product delivery is challenging.
+
+    ### 2. Business Mastery
+
+    The Product Owner is a key position that sets the tone for product leadership and defines success within the organisation. For them to be successful, they must implement modern product management practices and have a value-driven mindset. The Product Owner should be accountable for and have the authority to maximise the value of the product and the effectiveness of the Product Backlog. Not every person who takes on the accountability of the Product Owner role will already possess these skills or even be aware that they should. Developing expertise in modern product management practices and value-driven decision-making is an ongoing journey. Since an effective Scrum Team requires an effective Product Owner, it falls within the accountability of the Scrum Master to teach, coach, and mentor the Product Owner as needed. This requires that they understand the business context of the Scrum Team and its product as well as the product management processes, techniques, and practices that a Product Owner might use to maximise the value of the Scrum Team's work.
+
+    This includes that the Product Owner is able to:
+
+    - **Leverage customer insights and market research** – The Scrum Master helps the PO incorporate data-driven insights from customer feedback, competitive analysis, and market trends to inform Product Backlog decisions.
+    - **Articulate the strategic vision of the product** – The Scrum Master should coach the PO on clearly defining and communicating the long-term vision of the product to stakeholders and the Scrum Team.
+    - **Actively manage stakeholders, their desires, expectations, and outcomes** – The Scrum Master mentors the PO in engaging with stakeholders effectively, ensuring alignment without compromising product integrity.
+    - **Developing and explicitly communicating intermediate strategic goals** – The Scrum Master supports the PO in setting achievable, incremental objectives that drive value and guide the Scrum Team.
+    - **Ensuring that the Product Backlog is transparent, visible, and understood** – The Scrum Master teaches the PO how to refine, prioritise, and maintain a clear, actionable Product Backlog.
+    - **Using evidence-based management techniques to optimise outcomes and value delivered** – The Scrum Master coaches the PO on leveraging data, metrics, and experimentation to make informed product decisions.
+    - **Work with Developers daily to clarify and renegotiate the Scope of the Sprint** – The Scrum Master facilitates collaboration between the PO and Developers to ensure continuous alignment and adaptability.
+
+    > Scrum Master Service to the Product Owner
+    >
+    > - Ensuring that goals, scope, and product domain are understood by the Scrum Team.
+    > - Helping the Scrum Team understand the need for clear and concise Product Backlog items.
+    > - Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value.
+    >
+    > — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
+
+    Without business mastery, a Scrum Master cannot effectively support the Product Owner or ensure the team's alignment with business goals.
+
+    ### 3. Organisational Transformation Mastery
+
+    Most organisations operate within traditional hierarchical structures that prioritise control and predictability, which often conflict with the adaptability and empirical approach that Scrum fosters. Scrum enables teams to embrace change, iterate quickly, and focus on delivering value in an environment of uncertainty. To bridge this gap, Scrum Masters must actively guide organisations towards a more dynamic, self-organising model that supports agility and responsiveness to market shifts. Many Agile transformations fail due to a lack of understanding of how organisations truly function and evolve, making this mastery critical for any Scrum Master seeking lasting impact.
+
+    Key aspects include:
+
+    - **Navigate organisational structure and politics** – Helping teams and leadership understand and adapt to the organisation's hierarchy, decision-making processes, and political dynamics to remove impediments.
+    - **Apply change management principles** – Facilitating sustainable change by addressing resistance, fostering adoption, and ensuring alignment with Agile values.
+    - **Engage stakeholders effectively** – Ensuring that decision-makers, sponsors, and key influencers understand Agile principles and support the Scrum Team’s ability to deliver value.
+    - **Lead Agile and Lean transformations** – Driving organisational agility by educating leadership, coaching teams, and embedding Lean thinking into strategic planning and execution.
+    - **Influence leadership to remove systemic impediments** – Advocating for structural and cultural changes that enable agility and improve value delivery across the organisation.
+    - **Foster a culture of continuous learning and adaptation** – Encouraging a mindset of experimentation, feedback, and iterative improvement at all levels of the organisation.
+
+    > Scrum Master Service to the Organisation:
+    >
+    > - Leading and coaching the organisation in its Scrum adoption.
+    > - Planning Scrum implementations within the organisation.
+    > - Helping employees and stakeholders understand Scrum and empirical product development.
+    > - Causing change that increases the productivity of the Scrum Team.
+    >
+    > — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
+
+    Without organisational mastery, a Scrum Master will struggle to drive lasting, meaningful change within the organisation.
+
+    ## Conclusion: Can a Scrum Master Be Effective Without These Skills?
+
+    While the entire Scrum Team is accountable for delivery, the Scrum Master ensures the conditions for success by addressing systemic issues and empowering the team to work efficiently. They do not execute the work themselves but are responsible for enabling outcomes—ensuring that the Scrum framework is effectively applied, fostering collaboration, and removing impediments that hinder progress.
+
+    A Scrum Master’s role is not passive; they actively influence the team’s ability to deliver by facilitating strategy, ensuring alignment with business goals, and advocating for organisational change where necessary. Without technical, business, and organisational mastery, they risk being ineffective in guiding the team towards high-value delivery.
+
+    While a Scrum Master can function without deep technical knowledge, they will be far more effective if they understand the _technical, business, and organisational_ context they operate in. Mastery in these three areas allows them to serve their teams better, drive value, and enable true agility within the organisation.
+
+    **Scrum Masters don’t need to be coders, but if their team is developing software, they should have mastery in software development as well as whatever domain is relevant to the industry their team operates in.** The [Scrum Master is is not a juniors or entry level]({{< ref "/resources/blog/2025/2025-02-17-no-such-thing-as-a-junior-scrum-master" >}}) activity. They should be experienced professionals with a deep understanding of the three masteries.
+
+    While there are no absolute right answers, some answers are better than others. Scrum Masters should continuously seek to deepen their knowledge in all three mastery areas to best serve their teams and organisations.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-12-great-scrum-masters-need-technical-business-and-organisational-mastery\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-12-great-scrum-masters-need-technical-business-and-organisational-mastery
+- FrontMatter:
+    title: Balance of Leadership and Control in Scrum
+    description: Explore the balance of authority and accountability in Scrum. Discover how Scrum Masters and Product Owners can empower teams while driving effective outcomes.
+    ResourceId: UH6M7ujV-kB
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-03-17T09:00:00
+    weight: 460
+    AudioNative: true
+    creator: Martin Hinshelwood
+    contributors: 
+    layout: blog
+    resourceTypes: blog
+    slug: balance-of-leadership-and-control-in-scrum
+    aliases:
+    - /resources/UH6M7ujV-kB
+    aliasesArchive:
+    - /balance-of-leadership-and-control-in-scrum
+    - /blog/balance-of-leadership-and-control-in-scrum
+    categories:
+    - Scrum
+    - Social Technologies
+    - Leadership
+    tags:
+    - Accountability
+    - Scrum Product Development
+    - Scrum Team
+    - Scrum Master
+    - Professional Scrum
+    - Technical Leadership
+    - Agile Product Management
+    - People and Process
+    - Agile Leadership
+    - Team Performance
+  BodyContent: |
+    Scrum is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of leadership, authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.
+
+    **Can One Be Held Accountable for What One Has No Control Over?**
+
+    > **TL;DR;** - Accountability without authority is a contradiction. If Scrum Masters and Product Owners are expected to deliver results, they must have the authority to remove impediments, challenge dysfunction, and enforce alignment where necessary. Influence is critical, but influence alone is often not enough. True leadership means balancing empowerment with decisive action, ensuring teams are both autonomous and accountable. Without the authority to act when needed, accountability becomes an empty expectation.
+
+    ## Leadership, Authority, and Accountability
+
+    Product Owners and Scrum Masters balance leadership, authority, and control by providing clear intent, fostering initiative, and reinforcing accountability. They guide rather than micromanage, ensuring the team understands the vision and goals, has the autonomy to execute, and remains accountable for outcomes. When intervention is needed, they step in decisively while preserving the team’s ownership of their responsibilities.
+
+    Product Owners and Scrum Masters lead through influence but must assert authority when needed—Product Owners to maximise product value, and Scrum Masters to enable the effectiveness of the Scrum Team. Effective leadership balances autonomy and alignment, ensuring teams self-manage while staying accountable to commitments and organisational goals.
+
+    ### Context Dictates Authority
+
+    The authority wielded by the Product Owner is more widely recognised and acknowledged, so why not the Scrum Master?
+
+    The Scrum Master is accountable for the Scrum Team's effectiveness. This accountability demands both leadership and, within the right context, a degree of authority. While some argue that a Scrum Master should have no direct authority, this ignores the reality that influence alone is often insufficient to drive change in certain organisational contexts.
+
+    The argument against Scrum Masters having authority is often based on a misunderstanding of self-management. According to the Scrum Guide, self-managing teams decide who does what, when, and how. However, this autonomy is bounded by Scrum events, commitments, and organisational needs. The key is the freedom to decide how to deliver value—without ignoring accountability, strategy, or constraints.
+
+    In practice, the level of authority a Scrum Master should exercise depends on the organisational landscape. In a command-heavy environment, excessive control leads to blind obedience, stifling self-management. Conversely, a leadership-heavy approach without structure creates chaos. The Scrum Master must navigate this balance, adapting to the constraints of the organisation while continuously working to remove impediments to the team's effectiveness. The organisational constraints being the very things that may be  reducing the effectiveness of the Scrum Team.
+
+    ### The Duality of Leadership and Control
+
+    Leadership in a Scrum environment is about guiding the team toward continuous improvement. However, leadership without some degree of control is often ineffective. Control, in this context, does not mean command and dictate—it means ensuring that the Scrum framework is upheld, that organisational impediments are actively removed, and that the team operates within its defined constraints.
+
+    Some argue that the best Scrum Masters might be managers, while others argue that a Scrum Master should not have authority. Both perspectives have merit but must be contextualised.
+
+    - The idea that a Scrum Master can be a manager works in an organisation where a manager understands and embodies servant leadership. When a manager removes impediments, provides clarity, and champions agility without imposing control, they function effectively as a Scrum Master.
+    - The notion that a Scrum Master should not have authority assumes an ideal state where influence is enough. However, in many organisations, without a minimum level of authority—such as the ability to hold the team accountable for Scrum adoption or to challenge organisational constraints—Scrum Masters struggle to fulfil their accountability.
+
+    ### Practical Considerations
+
+    Scrum Masters must master the art of situational leadership. Some teams require a hands-off coach, while others benefit from more direct guidance. A Scrum Master should have the authority to:
+
+    - Enforce Scrum framework adherence when teams attempt to dilute its effectiveness.
+    - Challenge anti-patterns that hinder agility.
+    - Influence and escalate organisational impediments effectively.
+    - Ensure that the team continuously inspects, adapts, and improves.
+
+    ### Conclusion
+
+    Accountability without authority is a flawed concept. The Scrum Master, and the Product Owner, must operate within the context of their organisation, leveraging both influence and, where necessary, the authority to drive meaningful change. The key is not about wielding power but about ensuring the team is empowered while working within the system they are part of, always striving to evolve that system toward greater agility.
+
+    #### References:
+
+    - [Why Does a Scrum Master Not Have Authority?](https://www.growingscrummasters.com/deploy-improve-scrum/why-does-a-scrum-master-not-have-authority/)
+    - [Your Next Scrum Master Should Be Your Manager](https://www.scrum.org/resources/blog/your-next-scrum-master-should-be-your-manager)
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-12-balance-of-leadership-and-control-in-scrum\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-12-balance-of-leadership-and-control-in-scrum
+- FrontMatter:
+    title: Why Measuring Individual Cycle Time is Killing Your Flow (And What to Do Instead)
+    description: Measuring individual cycle time is a fundamental misunderstanding of flow in a system. Learn why flow efficiency matters and how to measure the right things in Kanban.
+    ResourceId: KHEPBWiFDKJ
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-03-03T09:00:00
+    weight: 460
+    AudioNative: true
+    creator: Martin Hinshelwood
+    contributors:
+    - name: Nigel Thurlow
+      external: https://www.linkedin.com/in/nigelthurlow/
+    layout: blog
+    resourceTypes: blog
+    slug: measuring-individual-cycle-time-is-killing-your-flow
+    aliases:
+    - /resources/KHEPBWiFDKJ
+    aliasesArchive:
+    - /measuring-individual-cycle-time-is-killing-your-flow
+    - /blog/measuring-individual-cycle-time-is-killing-your-flow
+    - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+    - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+    categories:
+    - Kanban
+    - Social Technologies
+    tags:
+    - Throughput
+    - Flow Efficiency
+    - Operational Practices
+    - People and Process
+    - Cycle Time
+    - Metrics and Learning
+    - Value Delivery
+    - Value Stream Management
+    - Agile Project Management
+    - Systems Thinking
+  BodyContent: |
+    Looking at cycle time for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
+
+    ## Process Cycle Efficiency (PCE) Drives Flow, Not Individual Productivity
+
+    Kanban isn’t about individual productivity; it’s about optimising the flow of work through a system. When you measure an individual’s cycle time, you ignore the real bottlenecks—queues, dependencies, and wait times that slow everything down. A person might complete tasks quickly, but if those tasks get stuck waiting for reviews, approvals, or other handoffs, the overall system remains inefficient. If you want faster delivery, fix the system, not the people.
+
+    As Nigel Thurlow puts it: _"You never measure a person, ever. You only ever measure a process. You improve the system, never the people within it. If you're measuring an individual person to try and blame them, then you're ignoring what's wrong with the process that's causing it."_
+
+    ## Encourages Local Optimisation Over System Improvement
+
+    Measuring individual cycle time leads to bad incentives. If someone is judged on how fast they complete their own tasks, they’ll prioritise speed over impact. This can lead to:
+
+    - Focusing on tasks that make them look efficient rather than what benefits the team.
+    - Taking on work too early, creating unnecessary work in progress (WIP).
+    - Cherry-picking simple tasks to appear fast rather than tackling what actually moves the system forward.
+
+    Kanban is about improving the whole workflow. Look at Process Cycle Efficiency (PCE) and Throughput together—one improves the other.
+
+    ## Ignores Work in Progress (WIP) and Blockers
+
+    A fast-moving individual doesn’t mean fast-moving work. If the system is overloaded with WIP, nothing gets delivered faster. Work often gets stuck in queues, waiting for handoffs, or blocked by dependencies. Measuring individual cycle time won’t tell you where the real problems are.
+
+    Instead, track:
+
+    - **Total WIP**—to ensure the system isn’t overloaded.
+    - **Time in queue vs. time in progress**—to identify bottlenecks.
+    - **Blocked work items**—to find systemic delays.
+
+    ## Misrepresents Collaboration and Dependencies
+
+    Knowledge work isn’t assembly-line work. It requires handoffs, reviews, and collaboration. Measuring an individual’s cycle time isolates their part of the work but ignores the time it spends waiting on others. Worse, it discourages teamwork—if people are penalised for long cycle times, they’ll avoid collaborating because it slows them down.
+
+    Optimise for flow across the system, not just individual speed.
+
+    ## Creates Unintended Behaviour
+
+    If people are measured by their personal cycle time, they may:
+
+    - **Rush work**, sacrificing quality to look fast.
+    - **Avoid complex or high-value tasks**, because they take longer.
+    - **Hoard work**, keeping tasks they know they can finish quickly rather than distributing work across the team.
+
+    None of this improves system flow. It just distorts behaviour.
+
+    ## What Should You Measure Instead?
+
+    > At the end of the day, the Kanban Method (as opposed to kanban) is designed to improve flow (basically Process Cycle Efficiency) by improving throughput (units per unit time) by removing constraints (which includes bottlenecks) in the system. Make the system more effective by making it more efficient. - Nigel Thurlow
+
+    If you want to improve flow, focus on:
+
+    - **customer lead time (time to market)** - the total time from when work is requested to when it is delivered to the customer.
+    - **Work in progress (WIP) limits** - to reduce bottlenecks and improve flow.
+    - **Process Cycle Efficiency (PCE)** - the ratio of active work time to non value added time.
+    - **Bottlenecks and blockers** - to identify systemic constraints.
+    - **Throughput** - the rate at which something is produced or delivered..
+
+    ## Bottom Line
+
+    Kanban is about improving the system, not monitoring individuals. Measuring individual cycle time distracts from real systemic inefficiencies and leads to bad behaviours. Instead, optimise for end-to-end flow and make sure work moves smoothly across the whole system.
+
+    As Thurlow emphasises: _"If there are training or skill gaps, that’s a system problem, not a person problem. Someone failed the person by not providing the right training, support, or experience."_ This reinforces why the focus should always be on fixing the system, not blaming individuals.
+
+    ### Want to improve your Kanban flow?
+
+    If you need help setting up meaningful Kanban metrics, let’s talk. We can identify the right measurements to improve your system without falling into the trap of individual cycle time metrics.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-03-measuring-individual-cycle-time-is-killing-your-flow\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-03-measuring-individual-cycle-time-is-killing-your-flow
+- FrontMatter:
+    title: Stop Hiding Behind Complexity and Start Delivering Continuously
+    description: Unlock continuous delivery for any software, regardless of complexity. Invest in fixing technical debt and automate processes for faster, reliable releases.
+    ResourceId: 7hEAycZIn8w
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-02-24T09:00:00
+    weight: 250
+    AudioNative: true
+    creator: Martin Hinshelwood
+    contributors:
+    - name: John McFadyen
+      external: https://www.linkedin.com/in/johnmcfadyen/
+    - name: Rich Visotcky
+      external: https://www.linkedin.com/in/richvisotcky/
+    layout: blog
+    resourceTypes: blog
+    slug: stop-hiding-behind-complexity-deliver-continuously
+    aliases:
+    - /resources/7hEAycZIn8w
+    aliasesArchive:
+    - /stop-hiding-behind-complexity-deliver-continuously
+    - /blog/stop-hiding-behind-complexity-deliver-continuously
+    - /stop-hiding-behind-complexity-and-start-delivering-continuously
+    - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+    tags:
+    - Continuous Delivery
+    - Software Development
+    - Product Delivery
+    - Metrics and Learning
+    - Working Software
+    - Frequent Releases
+    - Azure DevOps
+    - Release Management
+    - Engineering Practices
+    - Value Delivery
+    categories:
+    - DevOps
+    preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
+  BodyContent: |
+    Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
+
+    Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.
+
+    The organisation must be willing to invest significant time and effort in enabling it. Microsoft's Azure DevOps team exemplifies this. They transitioned from shipping new features every two years to delivering value every three weeks, increasing their annual feature delivery from 25 to nearly 300 at their peak.
+
+    This evolution was not the result of a silver bullet but a deliberate effort to modernise architecture, eliminate technical debt, automate relentlessly, and embed a culture of continuous improvement. It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after four years, later stabilising at just over 300. This is the power of continuous delivery.
+
+    ### TLDR
+
+    Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
+
+    ## What is holding you back?
+
+    Many teams believe they cannot achieve continuous delivery and instead claim:
+
+    - Their product is too big and complex
+    - Their teams lack the skills
+    - It’s not possible in their regulated industry
+
+    Every single one of these justifications is illegitimate and reflects either the team's unwillingness to learn or the leadership's unwillingness to invest. These are excuses, not realities.
+
+    **In reality, systemic and continuous underinvestment in quality, scalable, and supportable products is to blame.**
+
+    This failure is not driven by the engineers or managers doing the work, but they have enabled it. The cause lies squarely in the business, even if they did not consciously make it.
+
+    > "If you put people under pressure to deliver, they will increasingly and systemically decrease quality to meet whatever ridiculous deadlines you give them."
+
+    The result is unchecked technical debt, high bug rates in production, significant rework, and unmet expectations.
+
+    This is not a terminal condition but a challenge to manage and overcome. The key lies in intentionality. Without tackling the root causes of complexity for new capabilities, slow releases, and frequent production issues, process changes will fail to deliver meaningful results.
+
+    ### The Evolution of the Developer Division at Microsoft
+
+    Like every other company that has built software at scale, Microsoft fell into the usual traps of long release cycles, single-pass coding, and poor testing quality. For the Developer Division—responsible for Visual Studio, Team Foundation Server, and other software engineering tools—this resulted in a two-year release cycle, a four-year customer feedback loop, and fixing 75,000 bugs to get Visual Studio 2010 out the door.
+
+    Market forces pushed them to evolve. They could no longer meet the demands of an increasingly dynamic market, and a four-year response time to customer needs was unsustainable. While laggards might remain, it's the early adopters who drive new business and shape emerging markets. Failing to keep them engaged signals a decline that, if left unchecked, can be fatal—but recovery is possible with decisive action.
+
+    Azure DevOps emerged as the result of decisive action by Microsoft's Developer Division, triggered by an urgent need to break free from their two-year release cycle and four-year customer feedback loop. They didn't inherit perfection—they faced legacy code, fragmented processes, and a monolithic release cycle. Their transformation began with small, incremental changes, but success required deeper, systemic shifts:
+
+    - **Automate Everything**: This cannot be emphasised enough. Automate every possible task. If something cannot be automated today, create a plan to rework the architecture until it can be. From testing and deployments to upgrades, certificates, passwords, and environments—automation should be the default, not the exception.
+
+    - **Trunk-Based Development**: The cognitive load and resulting complexity from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of working software to real users. Adopting [Trunk-Based Development practices]({{< ref "/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.
+
+    - **Feature Flags**: To maximise both quality and value, it's essential to [test new capabilities in production]({{< ref "/resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value" >}}) while gradually exposing them to users, reducing risk. This approach shortens feedback loops and enables swift adaptation to emerging market opportunities. Since we can't predict which features will deliver the most value, we validate hypotheses by running small experiments with real data. Effective use of feature flags is crucial for these experiments, ensuring safe, controlled releases that drive continuous improvement.
+
+    - **Shift-Left**: Shift from testing quality at the end (QA, Staging, UAT) to embedding it throughout the development process. Use hypothesis-driven practices and unit tests at every stage to ensure high quality from the start. Discovering a security vulnerability in staging often means the flaw is deeply embedded, leaving no time or budget for proper fixes—only quick patches that hackers easily exploit. Instead, conduct security tests, code reviews, and performance checks continuously, as close to code creation as possible.
+
+    - **Iterate Over Pain**: If a task is hard or error-prone, you should do it more often. Any activity, like releasing, that feels difficult or frequently leads to errors deserves focused attention. Repeated practice exposes weak points, allowing you to refine the process and reduce risk. Avoiding the pain only ensures it remains a persistent threat.
+
+    ## What can we learn?
+
+    If you want to be able to adapt to market opportunities or surprises, then you need to be able to shift quickly. This means that any software system, regardless of its complexity, architecture, or purpose, should be updated, tested, and deployed in a continuous flow without delays, bottlenecks, or manual interventions. This is the ethos of Continuous Delivery (CD), where software is always in a deployable state, enabling frequent and reliable releases.
+
+    In the world of modern software engineering its no longer an optional thing. It's a business demand.  Too many business opportunities have been missed because we are too slow to deliver and too slow to turn feedback into usable working products on a short enough timeline.
+
+    How short your timeline needs to be is a question for your business... what is your effective planning horizon. For Starbucks PoS its 48h; for Windows, its \~120h, for Facebook its just a few minutes.
+
+    ## Measuring your velocity
+
+    Velocity isn't just about how much work gets done—it's about how fast you move from idea to outcome. It’s about closing feedback loops quickly, enabling continuous improvement, and delivering valuable increments faster.
+
+    In 2018, Buck Hodges from Microsoft's Azure DevOps/Team Foundation Server team introduced four key metrics to evaluate and enhance the software development and deployment process:
+
+    - **Time to Build:** This metric measures the duration from code commit to the completion of a successful local build on a developer's workstation. It reflects the amount of time a developer needs to wait to know if their code compiles.
+
+    - **Time to Self-Test:** This refers to the time taken to execute automated tests after a build locally. A shorter Time to Self-Test reflects fast tests and enables quicker feedback on code quality. Efficient self-testing cycles catch defects early, reduce rework, and maintain code integrity.
+
+    - **Time to Deploy:** This metric tracks the time required to deploy a build to a production environment. Shorter deployment times increase velocity by enabling rapid feedback and value delivery. Minimising the Time to Deploy is crucial for rapidly delivering features and fixes to end users. Continuous integration and delivery (CI/CD) pipelines are essential for optimising this metric.
+
+    - **Time to Learn:** This encompasses the period from deployment to collecting and analysing user feedback or telemetry data. Reducing Time to Learn ensures teams quickly understand user interactions and make informed decisions for future development. Faster learning cycles mean teams adapt quickly, prioritise effectively, and avoid wasting time on low-value features.
+
+    These metrics represent stages in the flow of work from ideation to outcome. They are not the only metrics or stages, but they represent and expose significant bottlenecks in this case—and they are 100% within the control of engineering. Engineering did not require any outside approval to measure and optimise these stages. Accountability for improvement lies squarely within the team.
+
+    By monitoring and optimising these metrics, development teams can achieve a more streamlined and responsive DevOps workflow, leading to faster delivery of high-quality software. However, these metrics are focused on the work of engineers building the product, and there may be other things in the application lifecycle that may have a bigger impact on you and your teams.
+
+    It's crucial to take a holistic view of metrics, and the [Evidence-Based Management (EBM) guide]({{< ref "/resources/guides/evidence-based-management-guide-2020" >}}) is a great starting point. It offers example metrics that can either be adopted directly or adapted to fit your context. When choosing metrics, focus on the four Key Value Areas (KVAs) defined by EBM:
+
+    1. **Current Value (CV):** Measures the value delivered to customers or stakeholders today, reflecting satisfaction and success based on the current product.
+    2. **Unrealized Value (UV):** Identifies potential future value by highlighting gaps between what customers have and what they need or desire.
+    3. **Ability to Innovate (A2I):** Assesses how effectively the organisation can deliver new capabilities, features, or products without being constrained by technical debt, process bottlenecks, or organisational drag.
+    4. **Time to Market (T2M):** Evaluates the speed at which ideas, features, or fixes move from concept to production, directly impacting responsiveness to market demands and customer needs.
+
+    These four areas provide a balanced view, ensuring you don’t just measure output but focus on the outcomes that drive business success and customer satisfaction.
+
+    ## The Path Forward
+
+    Ultimately, when deployments are automated, code is well-tested, and processes are streamlined, teams can respond faster to customer needs, market changes, and business opportunities. Azure DevOps’ and Windows evolutions proved that the barrier to continuous delivery is not technical complexity but organisational will.
+
+    No matter where you start, the path to continuous delivery is through addressing the complexity that is slowing you down head-on. Prioritise automation, enforce code quality and relentlessly improve your processes. The result is not just faster releases but better software, happier teams, and more satisfied customers.
+
+    If Azure DevOps can do it with their scale and complexity, so can you.
+
+    The only question is whether you're willing to do what Azure DevOps, Starbucks, and countless others have done: stop hiding behind complexity, and start delivering continuously.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-24-stop-hiding-behind-complexity-deliver-continuously\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-24-stop-hiding-behind-complexity-deliver-continuously
+- FrontMatter:
+    title: There Is No Such Thing as a "Junior" Scrum Master
+    description: The idea of a junior Scrum Master is a fallacy. The Scrum Master is not an entry-level position and should be born fully formed!
+    ResourceId: f2RQh2UCwqB
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-02-17T09:00:00
+    weight: 250
+    AudioNative: true
+    creator: Martin Hinshelwood
+    Contributors:
+    - name: Dave ("Dungeon" Dave) Smith
+      external: https://www.linkedin.com/in/dungeon-dave-smith/
+    layout: blog
+    resourceTypes: blog
+    slug: no-such-thing-as-a-junior-scrum-master
+    aliases:
+    - /resources/f2RQh2UCwqB
+    aliasesArchive:
+    - /no-such-thing-as-a-junior-scrum-master
+    - /blog/no-such-thing-as-a-junior-scrum-master
+    - /there-is-no-such-thing-as-a--junior--scrum-master
+    - /blog/there-is-no-such-thing-as-a--junior--scrum-master
+    tags:
+    - Scrum Master
+    - Scrum Team
+    - Professional Scrum
+    - Accountability
+    - Technical Mastery
+    - Agile Project Management
+    - Scrum Product Development
+    - Technical Leadership
+    - People and Process
+    - Software Development
+    categories:
+    - Scrum
+    - Social Technologies
+    - Leadership
+    preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
+    marketing: []
+  BodyContent: |
+    Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a Scrum Master. The idea of a “junior” Scrum Master is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the Scrum Team as a practitioner who has already demonstrated technical mastery, business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**
+
+    ## The Myth of the Junior Scrum Master
+
+    Too often, organisations treat the Scrum Master role as a checkbox on a hiring matrix, assuming that anyone can step in and “facilitate” a few events. This mindset reduces the Scrum Master to a glorified meeting scheduler rather than the steward of effectiveness that they are meant to be. The reality is this: **Scrum Masters are not made in a two-day certification course**—they are forged in the crucible of real-world experience within high-performing Scrum Teams.
+
+    This aligns with the points made in [The Incompetent Scrum Master]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}), which highlights that many Scrum Masters lack the depth of knowledge and experience necessary to be effective. The best Scrum Masters are not those who simply “get certified” but those who have lived and breathed Scrum within a team, demonstrating real-world competence before stepping into the role.
+
+    Additionally, a Scrum Master **must have first-hand experience** of working within a Scrum Team. This doesn’t mean they **have to been a coder**; Scrum Teams are made up of Business Analysts, Testers, Flow Designers, and many other roles that contribute to delivering great products. But they must have seen what a cohesive team looks and feels like, and they must have experienced how a great Scrum Master and Product Owner operate.
+
+    That said, I believe that a Scrum Master for a Scrum Team delivering software **should be able to code**. They should be able to understand and critique the quality of the work being done in order to understand and affect the Scrum Team's effectiveness. While they may not be writing production code daily, their ability to engage meaningfully with developers on code quality, DevOps practices, and architectural decisions is invaluable. Without this understanding, how can they genuinely support the team in delivering high-quality software?
+
+    The best Scrum Masters:
+
+    - Have worked within a Scrum Team for years, developing their craft as a Developer, Product Owner, or another key role.
+    - Have demonstrated their ability not just to deliver work but to enable agility through lean thinking, continuous improvement, and servant leadership.
+    - Possess **technical mastery, business mastery, and organisational evolutionary mastery**—the three pillars of a truly competent Scrum Master.
+
+    A person whose knowledge of Scrum is limited to a **two-day certification course** will struggle to land a real Scrum Master job; and rightly so. Just as a company wouldn’t trust its entire departmental finances to someone who just completed a “Financial Mastery in Two Days” course, they shouldn’t entrust the success of a multi-million-dollar project to someone whose entire experience is a “Professional Scrum Mastery” online session.
+
+    Additionally, many organisations attempt to cut costs by hiring a “junior” Scrum Master at half the salary, while expecting full performance. The result? A Jira lackey and reporting serf, someone who is bullied into administrative tasks rather than empowered to drive agility. It’s the equivalent of hiring a “junior” chef at a discount and making them sweep the yard before every shift—then blaming the methodology when the food is awful.
+
+    ## Scrum Masters Are Chosen by the Team, Not Imposed by Management
+
+    A Scrum Master should **not** be an external hire brought in to “fix” a team. Instead, they should **rise naturally from within the team**, selected by their peers who trust them to safeguard the team’s effectiveness.
+
+    This approach ensures:
+
+    - The Scrum Master has credibility within the team—they have already **earned the respect** of their colleagues.
+    - They understand the organisation’s constraints, culture, and history, enabling **meaningful change** without naive disruption.
+    - Their selection is based on demonstrated competence, not just theoretical knowledge or a certification.
+
+    If a team does not trust or respect their Scrum Master, they won’t follow them. The Scrum Master must be someone who has already shown leadership, not someone who needs to “grow into the role.”
+
+    ## The Accountability of the Scrum Master Is Heavy—And It Requires Mastery
+
+    Scrum Masters, as all leaders, **should not lead only through authority**—they should lead through influence. That influence comes from **mastery of three key domains**:
+
+    1. **Technical Mastery** – A deep understanding of software development, DevOps, modern engineering practices, and the realities of delivering high-quality products. This doesn’t mean they have to code daily, but they must understand how technical decisions impact agility.
+    2. **Business Mastery** – The ability to align Scrum Teams with the broader business strategy, ensuring that the work they facilitate delivers real, measurable value. This does not take away from the Product Owner but instead supports it.
+    3. **Organisational Evolutionary Mastery** – The skill to enable systemic change, remove organisational impediments, and cultivate a culture of agility **beyond the team level**.
+
+    While Scrum Masters should lead through influence and servant leadership, they are not powerless. The concept of intent-based leadership, where they also hold authority, can be incredibly effective. The best Scrum Masters [know when to serve and when to step up with authority](https://www.scrum.org/resources/blog/your-next-scrum-master-should-be-your-manager) to drive change. They wield the accountability of the role not just as a facilitator but as a true leader, ensuring that agility is not merely an aspiration but a reality.
+
+    This concept is further reinforced in [The Scrum Master is Accountable for Delivery]({{< ref "/resources/blog/2025/2025-01-30-the-scrum-master-is-accountable-for-delivery" >}}), which highlights how Scrum Masters must take ownership of delivery effectiveness and drive the team towards meaningful outcomes. Does this still sound like a junior position?
+
+    ## Scrum Masters Should Wield Their Accountability with Competence from Day One
+
+    The idea that a Scrum Master should “learn on the job” is dangerous. A Scrum Master **should be able to step into the role with full competency from day one**, because they have already been functioning as a de facto Scrum Master within their team before ever taking on the title.
+
+    This is not about gatekeeping—it’s about effectiveness. If a Scrum Master is learning the fundamentals while on the job, they are **not serving the team—they are hindering it**.
+
+    This is also why hiring a Scrum Master should be an intentional and rigorous process. As outlined in [Hiring a Professional Scrum Master]({{< ref "/resources/blog/2021/2021-03-15-hiring-a-professional-scrum-master" >}}), organisations often make the mistake of prioritising certifications over experience, failing to assess whether a candidate truly embodies the role. A Scrum Master is not someone who simply “facilitates” but someone who **actively drives effectiveness, navigates complexity, and enables continuous delivery of value**.
+
+    ## Conclusion: Scrum Masters Are Born Fully Formed
+
+    A Scrum Master is not a role that should be taken lightly. It is not a career ladder step, nor is it something one can simply “train” into without prior deep experience. The best Scrum Masters **emerge naturally** from within the team, already demonstrating the mastery required before they ever assume accountability formally.
+
+    The Scrum Master role demands mastery across technical, business, and organisational domains. Anything less is inadequate and frankly does not fulfil their obligation to the Scrum Team, the Product Owner, or the business.
+
+    If you are looking for a Scrum Master, don’t look at certifications or job titles. Look at the **people who have already been leading without the title**—those who have already demonstrated their competence in making the team more effective. That’s your Scrum Master.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-17-no-such-thing-as-a-junior-scrum-master\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-17-no-such-thing-as-a-junior-scrum-master
+- FrontMatter:
+    title: Testing in Production Maximises Quality and Value
+    description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
+    ResourceId: _ncZFfeCrnS
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-02-13T09:00:00
+    weight: 320
+    AudioNative: true
+    creator: Martin Hinshelwood
+    contributors:
+    - name: Benjamin Day
+      external: https://www.linkedin.com/in/benjaminpday/
+    - name: Dave Westgarth
+      external: https://www.linkedin.com/in/dave-westgarth/
+    - name: Vladimir Khvostov
+      external: https://www.linkedin.com/in/vladimirkhvostov/
+    layout: blog
+    resourceTypes: blog
+    slug: testing-in-production-maximises-quality-and-value
+    aliases:
+    - /resources/_ncZFfeCrnS
+    aliasesArchive:
+    - /testing-in-production-maximises-quality-and-value
+    - /blog/testing-in-production-maximises-quality-and-value
+    tags:
+    - Software Development
+    - Value Delivery
+    - Working Software
+    - Deployment Strategies
+    - Azure DevOps
+    - Continuous Delivery
+    - Product Delivery
+    - Organisational Agility
+    - Technical Mastery
+    - Frequent Releases
+    categories:
+    - DevOps
+    preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
+    marketing: []
+  BodyContent: |
+    Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
+
+    One such paradigm shift in software delivery is audience-based deployment.
+
+    Gone are the days of rigid Dev-Test-Staging-Production pipelines. These [traditional environments are costly, slow, and fundamentally flawed]({{< ref "/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}). They delay feedback loops, hinder innovation, and reinforce outdated notions of software stability.
+
+    Instead, modern software engineering demands a smarter approach: deploying directly to real users in production but in a controlled, incremental manner.
+
+    For those familiar with ring-based deployment, audience-based deployment is not a new concept; it expands on it. Ring-based deployment is a proven strategy, widely used at scale by companies like Microsoft with products like Windows and Microsoft Teams. Audience-based deployment simply extends this principle by providing even finer-grained control over who gets access to a given change based on account types, user profiles, or organisational groups. This approach allows teams, like the Azure DevOps team, to release software to small, targeted user groups, enabling faster feedback, reduced blast radius, and progressive rollout strategies.
+
+    This approach enables:
+
+    - **Faster feedback** from real-world conditions, not simulated test environments.
+    - **Reduced blast radius** by limiting exposure of potentially risky changes.
+    - **Progressive rollout strategies**, improving resilience and adaptability.
+
+    ### Retaining Context Without Environmental Branching
+
+    While you may need to retain some environmental context for compliance or operational reasons, **your branching structure should not model it**. Creating branches that mimic Dev-Test-Staging environments is costly and counterproductive. It increases complexity, delays feedback, and reinforces silos rather than fostering continuous delivery. Instead, focus on:
+
+    - Using **feature flags** to control exposure.
+    - Implementing **progressive rollouts** instead of environment-based branching.
+    - Relying on **observability and monitoring** rather than artificial environments.
+
+    By shifting away from rigid environment-based branching, teams can iterate faster and detect issues in real-world scenarios without unnecessary overhead.
+
+    I don't think this is easy; it's not. Teams making this shift face teething problems; adapting workflows, enhancing observability, and upskilling in DevOps and CI/CD practices. Success here isn't just technical; it's cultural. Organisations must embrace automation, foster real-time monitoring capabilities, and embed progressive delivery into their engineering ethos. It requires significant discipline and a relentless focus on the usable working product that many teams just don't have.
+
+    ### How Microsoft Transformed Deployment
+
+    Microsoft’s transformation to DevOps and audience-based deployment has been an industry-defining journey, starting with the Visual Studio and Azure DevOps (was Team Foundation Server) teams in the Developer Division and later extending to Windows and Office.
+
+    **Key Lessons from Microsoft’s Evolution:**
+
+    - **Be Customer Obsessed** – Prioritise user experience and collect telemetry to refine deployments.
+    - **Iterate Over Pain** – If it's hard and painful, do it more often until it becomes just another activity.
+    - **Adopt a Production-First Mindset** – Deploy as continuously as possible, with safeguards to protect end-users.
+    - **Enable Team Autonomy with Enterprise Alignment** – Empower teams while ensuring strategic cohesion.
+    - **Shift Left on Quality** – Detect and address issues earlier in the development cycle.
+
+    These were hard-learned lessons from the transition of Team Foundation Server from one delivery every two years to one every three weeks. This was also the catalyst for them to move their product to the cloud, ultimately leading to the Azure DevOps product we have today. There was a key realisation that closing feedback loops is much harder if you are delivering a locally installed product. Not every customer takes every release, and not every customer allows the vendor to truly understand the usage patterns.
+
+    If you want to build products that meet your customer's needs, then you need to get ahead of those needs. If you respond to customer requests, then you are too late to meet their need, and are costing them time and money while you go build what they asked for. Getting ahead of that loop, crossing the chasm, requires that you are able to engage with early adopters and collect telemetry and feedback much closer to the development cycle. Feedback on something that you shipped two years ago is largely useless if your priorities have changed since then.
+
+    Audience-based deployment allows you to control which users and which accounts get access to new features. This means that you can start to engage with early adopters even within an organisation where most users are late adopters.
+
+    This connection to the users, the telemetry it provides, and the closeness of the feedback to the build that allows you to maximise the value, the ROI, of the work that you do is the business reason to move in this direction.
+
+    ## The Azure DevOps team revolutionised Microsoft’s approach.
+
+    The Azure DevOps team revolutionised Microsoft’s approach to deployment by pioneering a **ring-based deployment strategy** that allowed for:
+
+    1. **Incremental feature releases** with real-time telemetry analysis.
+    2. **Production-first mindset**, shifting quality assurance left.
+    3. **Automated stops to rollouts triggered by observed failures.**
+    4. **Continuous monitoring** to reduce release risk.
+
+    This strategy proved so effective that it became the foundation for deploying changes to **Windows**, an operating system with a vastly larger and more diverse user base. And more scary indeed is that Windows is an installed product that needs to support an almost infinite set of configurations.
+
+    #### Windows: Scaling the Model to Millions
+
+    Windows took inspiration from Azure DevOps' success and implemented the ring-based model at an unprecedented scale:
+
+    1. **Internal to Microsoft** - Im not necessarily privy to the details of this, but there have been hints and stories told by folks on the inside. (\~70,000 members)
+
+       1. Internal Channel - Nightly changes tested internally by a small subset of engineers.
+       2. Dogfooding Channel – Microsoft employees use new versions before external customers.
+
+    2. **Windows Insider Program** - Anyone can join this just by opting in. (\~17m members)
+
+       1. **Canary Channel** – This is for highly technical users who get builds from the dev branch every few days.
+       2. **Dev Channel** – For enthusiasts; gets builds every few weeks from the dev branch
+       3. **Beta Channel** - This is for early adopters and gets early builds every month or so from the release branch
+       4. **Release Preview** - For those looking for just an early peek but want stability. Builds every 3 months or so from the release branch about 3 months before they hit GA.
+
+    3. **General Availability** - Finally, changes are staged and rolled out to everyone else (\~900bn machines worldwide)
+
+    This approach enables them to:
+
+    - **Detect failures early**, before they affect millions of users.
+    - **Refine features based on telemetry and user behaviour**.
+    - **Confidently scale releases** while maintaining stability.
+
+    This isn’t just DevOps done well; it’s a learning engine driving continuous improvement across Microsoft’s ecosystem. Today, you will find this model and variants of it on all of Microsoft's platforms.
+
+    For example, I am in the Insider group for Microsoft Teams, with my account in R3, with both R3.5 (preview) and R4 (ga) ahead of me... and yet I can be in a call with folks from any of the rings from R0 all the way to R4. We each get different features and capabilities and a different product stability level.
+
+    ### Why You Should Ditch the Old Way
+
+    Beyond the inefficiencies of traditional environments, the old way accumulates waste—relearning, duplicated effort, and maintaining outdated processes, all drain resources. Each additional environment introduces overhead in familiarization, regression testing, and upkeep, diverting attention from work that delivers actual value. The cost isn't just financial; it's an innovation tax.
+
+    Most organisations still cling to the traditional **Dev-Test-Staging-Production** model because it feels safe. But let’s be honest:
+
+    - **Testing environments are never identical to production.** Data, scale, and real-world user behaviour differences mean you’re testing a mirage.
+    - **Delayed feedback loops increase risk.** The longer it takes to discover issues, the harder and costlier they are to fix.
+    - **It stifles innovation.** Slow, gated releases hinder rapid iteration and experimentation.
+
+    The alternative? **Deploying directly to your users, but smartly.**
+
+    ### Making the Shift: Key Strategies for Audience-Based Deployment
+
+    We first need to accept that rolling forward is the only viable option! If a team has just failed to roll forward, what makes us think they have the skills to execute the more complex task of rolling back? Rolling back is often more risky than pushing a fix forward, as it can introduce inconsistencies, data mismatches, and unexpected failures. The key is to **design rollouts to be fail-safe**, ensuring issues are detected early and addressed immediately without needing a complex rollback process.
+
+    > "I was a big proponent of the rolling forward strategy. 10+ years ago, I said that if a team screwed up a database upgrade, most likely they will not succeed with a database downgrade. Sometimes downgrade means data loss. When we do deployments, we upgrade binaries first by creating new VMs and switch traffic to them. We keep old VMs running for 3 hours, so that we can go back to an old binaries if we detect any user impacting issues. After 3 hours we deallocate VMs, but do not delete them. If we detect an issue 3+ hours after deployment, we can still start VMs and go back to previous binaries. When we start database upgrade, we delete old VMs. At this point there is no going back to an old binaries." -Vladimir Khvostov, Principal Software Engineer at Microsoft - Azure DevOps
+
+    The Azure DevOps team does allow for limited rollback under specific circumstances, but only for binaries, never for data.
+
+    Want to embrace audience-based deployment? Here’s how:
+
+    1. **Feature Flags & Toggles** – Control feature exposure dynamically without redeploying code.
+    2. **Progressive Delivery** – Gradually expand releases based on telemetry and user feedback.
+    3. **Real-Time Observability** – Use logging, metrics, and tracing to detect issues immediately.
+    4. **Automated Rollout Halts** – Deployments should automatically pause if telemetry detects anomalies or performance degradations, ensuring issues are caught before they escalate.
+    5. **User Opt-In Programs** – Encourage beta testers and early adopters to participate.
+
+    ### The Future of Continuous Delivery
+
+    In an interconnected world, **production is the ultimate reality check.** Audience-based deployment isn’t just an evolution of DevOps,it’s the logical next step in **delivering value faster, safer, and smarter.**
+
+    The question is, **are you ready to embrace it?**
+
+    Is your team still relying on pre-production environments? What’s stopping you from adopting audience-based deployment?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-06-testing-in-production-maximises-quality-and-value\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-06-testing-in-production-maximises-quality-and-value
+- FrontMatter:
+    title: Without Delivery, There Is No Value
+    description: Everything before delivery is an assumption, and all non-delivered product represents a cost of delay. Learn why frequent delivery is critical to maximising value.
+    ResourceId: UfdnQrxv5iF
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-02-10T09:00:00
+    weight: 255
+    AudioNative: true
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: without-delivery-no-value
+    aliases:
+    - /resources/UfdnQrxv5iF
+    aliasesArchive:
+    - /without-delivery-no-value
+    - /blog/without-delivery-no-value
+    - /without-delivery--there-is-no-value
+    - /blog/without-delivery--there-is-no-value
+    tags:
+    - Increment
+    - Scrum Product Development
+    - Frequent Releases
+    - Value Delivery
+    - Product Delivery
+    - Working Software
+    - Software Development
+    - Release Management
+    - Transparency
+    - Deployment Frequency
+    categories:
+    - Scrum
+    - Social Technologies
+    - DevOps
+    preview: 2025-02-10-without-delivery-no-value.jpg
+    marketing: []
+  BodyContent: |
+    Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.
+
+    > Value exists only when it is realised, and the only way to realise the value in software is to release it.
+
+    No matter how well-intentioned or carefully crafted a plan might be, until a product is delivered and used, its potential remains locked away. Each day of delay represents not only a missed opportunity to create value but also an accumulation of costs - from lost feedback to the risks of market irrelevance. Even the best directions and strategies are hypothetical until they are tested and validated through frequent releases. The **Standish Group’s CHAOS Report** has consistently shown that projects with long, waterfall-style cycles have significantly lower success rates than those with frequent iterations. Only **29% of traditional projects succeed**, while agile projects that release frequently succeed **42%-64%** of the time. The difference? Rapid, incremental validation of assumptions.
+
+    > - Are teams delivering working software to at least some subset of real users every iteration (including the first) and gathering feedback?
+    > - Is feedback from users turned into concrete work items for sprint teams on timelines shorter than one month?
+    > - Are teams empowered to change the requirements based on user feedback?
+    >
+    > <cite>From US DOD: Detecting Agile BS</cite>
+
+    The reality is simple: **value can only be realised through delivery.** No matter how clear your direction or how promising your assumptions about value may seem, they are worth nothing until they are tested and validated through release.
+
+    ### **Why Frequent Releases Are Critical**
+
+    Transparency is the cornerstone of both Scrum and Agile. Delivering a usable, working increment at the end of every Sprint provides the baseline for:
+
+    - **Inspection:** Stakeholders and the team can evaluate progress, functionality, and alignment with goals.
+    - **Adaptation:** Course corrections based on real-world feedback rather than assumptions.
+
+    Without delivery, transparency is lost. You are left with only assumptions—untested and unproven—that create an illusion of progress while value remains unrealised. The **DORA (DevOps Research and Assessment) metrics** highlight that teams with shorter **Lead Time for Changes (LT)** are more competitive, as they can push value to users faster and adapt to market changes in real time. Companies with **longer LT** are often left struggling to keep pace with customer needs, suffering the cost of missed opportunities.
+
+    Every unreleased increment leaves value on the table. Each assumption about value—no matter how well-informed—is a risk. Agile and Scrum are designed to mitigate this risk by focusing on short feedback loops:
+
+    - **Frequent releases validate value early and often.**
+    - **Delayed releases magnify risks,** wasting time and resources on work that may not deliver the expected value.
+
+    The cost of unrealised value grows exponentially the longer a product remains unvalidated. It’s not just a financial cost but an opportunity cost: the insights, iterations, and refinements that could have been gained from early feedback are lost. **Change Failure Rate (CFR), another DORA metric, consistently demonstrates that larger, infrequent releases are more prone to failure.** By releasing smaller, more frequent updates, organisations can mitigate risk and ensure smoother deployments.
+
+    ##### What happened with Windows 8?
+
+    For example, I'd offer the outcome of the release of Windows 8 after 6 years of engineering and 6 years of UI/UX validations as evidence of this folly... all be it a significant one. Microsoft spent millions on the work that you would expect around validating that they were doing the right thing in labs and prototypes. It was not until the first Beta of Windows 8 that the true extent of the backlash became evident... but it was too late to do anything about it. The release of Windows 8 wiped billions off Microsoft brand loyalty and recognition, a loss that they have only recently recovered from. **Had Microsoft leveraged frequent, iterative releases and shorter feedback loops, they could have detected these issues years earlier, before they became a full-scale business risk.** Which is what the changes for Windows 10 were all about, and why we skipped Windows 9. Clear delineation of brand, and a new licence and release model that focused on frequent, iterative releases and shorter feedback loops. Windows 11 is a product delivered almost continuously to production with thousands of people getting daily builds and millions getting weekly.
+
+    ### **The Cost of Delayed Delivery**
+
+    To illustrate, consider a hypothetical scenario: a team works tirelessly for a year, refining their understanding of value and direction. At the end of that year, they release a product that indeed delivers value. _But at what cost?_
+
+    - **Lost Value:** During that year, customers could have been engaging with early increments, providing critical feedback, and validating assumptions. Each missed iteration represents an unrealised value.
+    - **Opportunity Cost:** Competitors may have released sooner, capturing market share and leaving the delayed team playing catch-up.
+    - **The Lack of Adaptation:** With no increments released, the team had no chance to inspect, adapt, or pivot. The final product, while valuable, is a result of guesswork rather than empiricism.
+
+    Teams that release infrequently also face **longer Mean Time to Restore (MTTR)**, as failures in large deployments take significantly longer to diagnose and fix. Research from DORA indicates that high-performing teams restore service **168x faster** than low-performing teams, primarily due to frequent, smaller releases that allow for quicker recovery from incidents.
+
+    Scrum and Agile advocate for frequent releases precisely to avoid these costs. The feedback gained from early and frequent releases is invaluable in steering the product towards maximum value with minimal waste.
+
+    ### **Conclusion: Delivery Turns Assumptions Into Value**
+
+    The act of delivering usable increments frequently is not just a practice; it is the foundation of everything else. **Everything before delivery is an assumption, and all non-delivered product represents a cost of delay.**
+
+    Every unreleased increment represents value left on the table. Every delay increases the cost of missed opportunities, lost feedback, and unnecessary rework. By releasing frequently, teams unlock the full potential of Agile, ensuring that value is realised early, often, and with confidence.
+
+    Delivering the right thing at the right time begins with getting it into the hands of users as early and as often as possible. Anything less is just an expensive assumption.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-10-without-delivery-there-is-no-value\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-10-without-delivery-there-is-no-value
+- FrontMatter:
+    title: Stop Promoting Branches
+    description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
+    ResourceId: x7ra7pQCDX5
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-02-06T09:00:00
+    weight: 305
+    AudioNative: true
+    creator: Martin Hinshelwood
+    contributors:
+    - name: Benjamin Day
+      external: https://www.linkedin.com/in/benjaminpday/
+    layout: blog
+    resourceTypes: blog
+    slug: stop-promoting-branches
+    aliases:
+    - /resources/x7ra7pQCDX5
+    aliasesArchive:
+    - /stop-promoting-branches
+    - /blog/stop-promoting-branches
+    tags:
+    - Software Development
+    - Modern Source Control
+    - Continuous Integration
+    - Value Delivery
+    - Release Management
+    - Software Developers
+    - Continuous Delivery
+    - Engineering Practices
+    - Deployment Strategies
+    - Practical Techniques and Tooling
+    categories:
+    - DevOps
+    preview: 2025-02-06-stop-promoting-branches.jpg
+    marketing: []
+  BodyContent: |
+    The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why GitHub Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.
+
+    ## TL;DR
+
+    If teams still promote code through a Dev → Test → Staging → Production model, they are doing it wrong. This model inevitably leads to a **branch promotion strategy**, adding friction, increasing risk, and delaying value delivery.
+
+    - **GitHub Flow is a simple option for continuous delivery.**
+    - **Release Flow is a good choice when production needs to exist for some time.**
+    - **Git Flow? That bloated mess belongs in the past.**
+
+    Branching should be a tool to support flow, not an administrative overhead that slows everything down. If a model requires multiple merges to get code into production, **it is already behind.** Reverse integration, which involves pulling changes from downstream branches back into upstream branches, is fraught with danger and should be avoided.
+
+    ## The Failure of the branch Promotion Model
+
+    This model was meant to provide structure and control, but in practice, it leads to teams **confusing environments with branches**.
+
+    The typical pattern looks like this:
+
+    1. Code is committed to a **Dev branch**.
+    2. It moves to a **Test branch** for QA.
+    3. It advances to a **Staging branch** for approval.
+    4. It is finally merged into **Production**.
+
+    What started as an environment management strategy **becomes a branch promotion model**, where:
+
+    - Features wait in queues instead of shipping immediately.
+    - Merge conflicts create unnecessary rework.
+    - Hotfixes bypass the process, breaking consistency.
+    - Rollbacks require painful cherry-picking instead of simple toggles.
+    - Reverse integration causes unpredictable failures and last-minute surprises.
+
+    This is a linear, gated approach that **kills agility**. Instead of focusing on **delivering value**, teams get stuck in a cycle of merging, resolving conflicts, and firefighting. Reverse integration only amplifies the chaos, introducing instability at the worst possible moments.
+
+    ## Branch Promotion is a Symptom of Organisational Dysfunction
+
+    If teams are **passing code between branches like a baton in a relay race**, they are reinforcing a broken process. This is just waterfall with more Git commands.
+
+    Instead of treating branches as milestones, teams should focus on **continuous integration and delivery**. That means:
+
+    1. Every change merges into `main` as soon as it is ready.
+    2. Deployment is decoupled from release using feature flags.
+    3. Testing happens in production-like environments without blocking releases.
+    4. Rollbacks are instant; simply toggle a flag instead of reverting code.
+
+    Reverse integration breaks this model by introducing last-minute, untested changes into upstream branches, increasing risk and eroding confidence in deployments. Instead of integrating forward with stability, teams are forced into reactive fixes that create further instability.
+
+    This eliminates the bottlenecks of branch promotion. Instead of waiting weeks for a merge to move through environments, **code is always deployable**.
+
+    ### Supporting Multiple Versions in Production
+
+    Branch promotion models often significantly increase cognitive load as engineers may be forced to support multiple versions in production. This excessive complexity increases the chances of reverse integration, where engineers must back-port features and fixes to different production versions, introducing further instability.
+
+    In these scenarios, Developers face constant challenges in tracking which code changes apply to which versions, leading to a higher risk of errors and regressions. Maintaining multiple live versions not only complicates testing, debugging, and feature rollouts but also makes it nearly impossible to ensure consistency across environments.
+
+    An extreme version of this is branch-by-customer, where separate branches are maintained for different clients. This is one of the most unmanageable and expensive practices, requiring extensive manual effort to maintain, patch, and update. Merging changes across multiple customer-specific branches is error-prone and time-consuming, leading to unpredictable behaviour and instability. Avoid at all costs.
+
+    ### Git Flow
+
+    Git Flow was an attempt to support many of the old branching models, but it is a bloated relic that needs to die! If teams are still using Git Flow, it is time to stop.
+
+    It introduces:
+
+    - A develop branch that adds unnecessary friction as it needs to be integrated into main.
+    - `release/\*` branches that delay deployment.
+    - `hotfix/\*` branches that signal a broken process.
+
+    Teams that adopt Git Flow reinvent branch promotion, creating an overcomplicated merge-heavy workflow that belongs in the past.
+
+    ## Mainline Branching Practices
+
+    The alternative is to use trunk or mainline development where all code is integrated continuously into the main, and there are only ever short-lived topic branches for a few developers to work together on something small.
+
+    The two main options relevant here are GitHub Flow and Release Flow.
+
+    ### GitHub Flow
+
+    One of the easiest to understand, implement, and do well is GitHub Flow. For most teams its the only branching model they will need as it provides that speed and simplicity that enable fast turnarounds and low cognitive load. It looks like:
+
+    1. Developers work in **short-lived feature branches**.
+    2. They open a **pull request** against `main`.
+    3. Code is reviewed, merged, and **deployed immediately**.
+
+    One would expect the pull request to be as automated as possible within the context of modern software engineering practices:
+
+    - **Automated tests** to validate every change.
+    - **Continuous deployment** to eliminate hand-offs.
+    - **Observability and monitoring** to detect issues early.
+
+    Reverse integration is **completely unnecessary** in GitHub Flow because all changes integrate forward, reducing complexity and risk.
+
+    ### Release Flow
+
+    For teams that need to support multiple versions in production, **Microsoft’s Release Flow** extends GitHub Flow without unnecessary complexity for the specific purpose of having a release version that you need to help until the next release is ready. Microsoft developed this because it took longer than their 3 weeks for Sprint to deploy new versions of Azure DevOps to the thousands of databases that they used.
+
+    - All work merges into `main`.
+    - When a release is ready, a **version branch** (e.g., `release/1.2`) is created.
+    - Fixes are always made into the main and cherry-picked into the release branches or, if necessary, implemented again.
+
+    This keeps development fast **while maintaining stability where needed**. It avoids regression by always fixing into \`main\`. Critically, Release Flow continues to **avoid the pitfalls of reverse integration**, ensuring that all changes move forward in a controlled, predictable manner.
+
+    ## Keep It Simple, Keep It Fast
+
+    Branching should enable fast delivery, not slow it down.
+
+    - **Want to ship continuously? Use GitHub Flow.**
+    - **Need to maintain live versions? Use Release Flow.**
+
+    If teams still promote branches through environments, **it is time to rethink the strategy**. Reverse integration is a dangerous practice that adds unnecessary risk and complexity. The best branching model is the one that gets in the way the least. **Stop promoting branches. Start delivering value.**
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-06-stop-promoting-branches\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-06-stop-promoting-branches
+- FrontMatter:
+    title: Delivery is the only Measure of Progress in Scrum
+    description: Delivery, not just a Done Increment, is the real measure of progress in Scrum. In 2025, if you're not delivering every Sprint, you're not truly Agile.
+    ResourceId: jBIyK6NW3ZB
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-02-03T09:00:00
+    weight: 255
+    AudioNative: true
+    creator: Martin Hinshelwood
+    contributors:
+    - name: Ana Kotevska
+      external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
+    layout: blog
+    resourceTypes: blog
+    slug: delivery-is-the-only-measure-of-progress
+    aliases:
+    - /resources/jBIyK6NW3ZB
+    aliasesArchive:
+    - /delivery-is-the-only-measure-of-progress
+    - /blog/delivery-is-the-only-measure-of-progress
+    - /delivery-is-the-only-measure-of-progress-in-scrum
+    - /blog/delivery-is-the-only-measure-of-progress-in-scrum
+    tags:
+    - Increment
+    - Scrum Product Development
+    - Working Software
+    - Product Delivery
+    - Value Delivery
+    - Professional Scrum
+    - Software Development
+    - Agile Project Management
+    - Continuous Delivery
+    - Scrum Team
+    categories:
+    - Scrum
+    - Social Technologies
+    - DevOps
+    preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
+  BodyContent: |
+    As a social technology, Scrum has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done Increment** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where DevOps has reshaped the landscape of software delivery.
+
+    ### TLDR;
+
+    Modern software engineering practices have made it easy to ship to production and validate that your product is of a quality level that would allow it. I would expect every Scrum Team to:
+
+    - deliver working software to at least some subset of real users every iteration, including the first
+    - turn feedback from users into concrete work items on timelines shorter than one month
+    - change the requirements based on user feedback
+
+    At a very minimum, I expect them to deliver their increments to production at least once per Sprint, preferably continuously.
+
+    ### Delivery as the Fundamental Measure of Progress
+
+    Scrum Teams are measured not by what they start but by what they finish, and more importantly, by what they **deliver**. A Done Increment is only as valuable as its ability to drive change and provide feedback in the hands of real users. Anything less is just inventory.
+
+    It’s time to shift the focus: delivery is not an afterthought, it is **the measure of progress**. In the 1990s, releasing software to production was a cumbersome, risky process, and the Scrum Guide was written in that world. Today, with modern DevOps capabilities, continuous delivery is not just possible—it is expected.
+
+    > **If a Scrum Team is producing Done Increments but not delivering them, they are not actually doing Scrum—they are simply simulating progress.**
+
+    ### Done Is Not Enough
+
+    A Done Increment, according to Scrum, meets the Definition of Done: it is properly tested, meets quality standards, and is potentially shippable. But potential is not value—realised value comes only from delivery.
+
+    The distinction between Done and Delivered is simple:
+
+    - **Done means the work meets an internal quality standard.**
+    - **Delivered means the work has been put into production and is creating impact.**
+
+    If an Increment remains in staging or internal QA, it does not matter how refined or polished it is—it is not delivering value.
+
+    ### Why This Matters
+
+    The speed of market responsiveness defines competitive advantage today. A product that remains undelivered provides no feedback, no learning, and no adaptation. Organizations that mistake Done for Delivered risk falling behind more responsive competitors who understand that speed to value is everything.
+
+    A feature sitting on a shelf has the same business impact as a feature that was never built.
+
+    **Delivery is what separates successful Scrum Teams from ineffective ones.**
+
+    ### How to Ensure Delivery Becomes the Default
+
+    Scrum Teams must reframe their Definition of Done to include deployment while ensuring that they [don't inadvertently compromise]({{< ref "/resources/blog/2025/2025-01-03-definition-of-done-objective-vs-subjective" >}}) it. Every Sprint should result in increments that go into production. Here’s how teams can bridge the gap:
+
+    1. **Automate Everything**
+
+       If your release process requires manual intervention, it is a liability. CI/CD pipelines eliminate constraints and ensure every increment is delivered safely and efficiently. Don't end up like the Knight Capital Group or CrowdStrike.
+
+    2. **Treat Delivery as a First-Class Citizen**
+
+       The goal of every Sprint should not be to produce an increment—it should be to deliver value. A backlog item is not complete until users are benefiting from it.
+
+    3. **Inspect User Impact, Not Just Internal Quality**
+
+       Sprint Reviews should not be about demonstrating functionality in a staging environment; they should be about real user impact. What changed for the customer? What insights did we gain from their usage?
+
+    4. **Break Down Barriers**
+
+       Silos between development, operations, security, and compliance must be removed. Cross-functional teams should be fully empowered to deploy without external dependencies.
+
+    5. **Make Undelivered Work Visible**
+
+       Track work that is "Done but not Delivered." If work is piling up, ask why. This is an issue of flow, not just completion.
+
+    Remember [usable working product is how we manage risk and deliver value]({{< ref "/resources/blog/2023/2023-07-20-how-usable-working-products-are-your-ultimate-weapon-against-risks" >}}). If you are not delivering, you are not managing risk, and you are not delivering value.
+
+    ### Conclusion
+
+    In 2025, there is no reason why a Done Increment should not be delivered. The tools, practices, and knowledge exist. The only thing standing in the way is outdated ways of thinking.
+
+    Delivery is no longer just an aspiration—it is the fundamental measure of progress. The ability to deliver frequently, safely, and reliably is what makes a Scrum Team truly professional.
+
+    The question is no longer "Are we Done?" but **"Have we Delivered?"**
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-03-delivery-as-the-ultimate-measure-of-progress\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-03-delivery-as-the-ultimate-measure-of-progress
+- FrontMatter:
+    title: The Scrum Master is accountable for Delivery
+    description: The Scrum Master is accountable for delivery, ensuring every Scrum Team produces a usable increment every sprint while fostering effectiveness and value delivery.
+    ResourceId: yMnia2DLI6q
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-01-30
+    weight: 275
+    AudioNative: true
+    creator: Martin Hinshelwood
+    contributors:
+    - name: Ryan Ripley
+      external: https://www.linkedin.com/in/ryanripley
+    - name: Elle Anderson
+      external: http://www.linkedin.com/in/anderelle
+    - name: Sathpal Singh
+      external: https://www.linkedin.com/in/sathpal/
+    - name: Ralph Jocham
+      external: https://www.linkedin.com/in/ralphjocham/
+    layout: blog
+    resourceTypes: blog
+    slug: the-scrum-master-is-accountable-for-delivery
+    aliases:
+    - /resources/yMnia2DLI6q
+    - /the-scrum-master-is-accountable-for-delivery
+    - /blog/the-scrum-master-is-accountable-for-delivery
+    aliasesArchive:
+    - /the-scrum-master-is-accountable-for-delivery
+    - /blog/the-scrum-master-is-accountable-for-delivery
+    tags:
+    - Increment
+    - Accountability
+    - Scrum Product Development
+    - Scrum Master
+    - Software Development
+    - Product Delivery
+    - Scrum Team
+    - Value Delivery
+    - Working Software
+    - Professional Scrum
+    categories:
+    - Scrum
+    - Social Technologies
+    preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
+  BodyContent: |
+    Ultimately, the Scrum Master is accountable for the Scrum Team's success. This includes product delivery, product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the Scrum Master’s role is to create the conditions for effective delivery and continuous improvement. Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value. Without delivery, there is no increment, no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.
+
+    > Let the record show that I believe that, if you’re in the kind of organisation that will still fund Scrum Masters despite a long-in-the-tooth Scrum adoption, then you can bet your ass the Scrum Master is accountable for delivery. That’s because they should be facilitating the “aha” moments required of the team to address things like capacity, understanding, and level-setting with product and stakeholders when goals are just too big or infeasible.
+    >
+    > <cite>[Elle Anderson](http://www.linkedin.com/in/anderelle)</cite>
+
+    Scrum Masters should embrace their accountability for creating an environment where delivery is not just possible but inevitable. Effectiveness begins with delivery—then expands to encompass value, learning, and continuous improvement. This dual focus ensures that the Scrum Team not only meets the minimum bar but thrives well beyond it.
+
+    ## The Scrum Master is accountable for Delivery
+
+    The success of a Scrum Team begins with their accountability for delivering a usable, working product at the end of every sprint—including the very first one. This principle is the backbone of Scrum's empirical process, ensuring the team generates valuable feedback for continuous improvement of their product and the system. A working increment is non-negotiable; without it, there’s no way to inspect and adapt effectively or measure progress towards the team's goals. By focusing on delivery as the minimum bar for effectiveness, the Scrum Team builds a foundation that doesn’t just deliver but delivers value consistently.
+
+    Effectiveness is More Than Delivery, but Delivery is a Minimum.
+
+    ### **The accountability of the Scrum Master for delivery**
+
+    At the heart of this framework lies the Scrum Master, who holds a pivotal accountability: enabling an environment where delivery becomes not just possible but inevitable. This accountability isn’t about executing the work but ensuring the team has the resources, strategies, and support needed to thrive.
+
+    The Scrum Master is accountable for the effectiveness of the Scrum Team, and to achieve that, they need to have a level of authority that fits the context of the Scrum Team and the organisation. Ideally, they can pursue this accountability using influence and leadership, but in many organisations, this is impossible without an appropriate level of authority.
+
+    Can a Scrum team be considered effective if they don't deliver? The Scrum Master is accountable for the team’s culture and its collective ability to effectively deliver value each and every Sprint. If they fail to fulfil that accountability through the inability of the Scrum Team to deliver value, then they should be held accountable for that failure by the business. The Scrum Guide makes it clear that the Scrum Master’s accountability for the team's effectiveness inherently ties to delivery, as the production of a usable increment every sprint is the foundational measure of a team’s success. The business holding the Scrum Master accountable for delivery in no way dilutes the collective accountability of the Scrum Team; instead, it reinforces the importance of every team member’s role in achieving this shared goal.
+
+    It's entirely likely that [your next Scrum Master will be your manager](https://www.scrum.org/resources/blog/your-next-scrum-master-should-be-your-manager).
+
+    ## **But what about the Scrum Team’s Shared Accountability for Delivery?**
+
+    The [Scrum Guide (2020)]({{< ref "/resources/guides/scrum-guide" >}}) makes it clear: the entire Scrum Team is accountable for delivering a valuable, useful increment every sprint. That said, while delivery is a collective responsibility, the role of the Scrum Master has a unique slant: they are not _players_ on the field but the _coach_. Their accountability lies in fostering an environment where effective delivery can happen consistently.
+
+    Using a football analogy, the coach is ultimately held accountable for the team’s performance. They are responsible for strategy, facilitation, and ensuring the team has the resources and focus needed to succeed. The players, however, still own the execution. In Scrum, the Scrum Master is similarly accountable for enabling outcomes—not by doing the work themselves but by ensuring that the Scrum framework is effectively applied and the team functions optimally.
+
+    While the entire Scrum Team is accountable for delivery, the Scrum Master ensures the conditions for success by addressing systemic issues and empowering the team to work efficiently.
+
+    ## **Effectiveness Beyond Delivery**
+
+    Effectiveness in a Scrum context spans far beyond simply delivering increments of software. However, let’s be clear: delivery is the baseline. Without delivery, the concept of effectiveness becomes moot. As I often say, “Effectiveness starts with delivery.” From there, we can layer on concepts like:
+
+    1. **Delivering Meaningful Value:** Effectiveness isn’t about shipping anything and everything in the backlog. It’s about delivering increments that provide tangible value to the customer and the organisation. Efficiency doesn’t mean you’re effectively delivering meaningful and impactful things.
+
+    2. **Maximising Value While Minimising Waste:** A truly effective team doesn’t just execute orders. They challenge assumptions, reduce unnecessary work, and focus on outcomes, not output. Scrum Masters facilitate this by fostering a culture of curiosity and continuous improvement.
+
+    3. **Empowering Autonomous Teams:** The hallmark of an effective Scrum Master is the ability to cultivate a team that self-manages and self-optimises. This requires creating psychological safety, enabling conflict resolution, and empowering the team to make decisions.
+
+    4. **Collaborating with Adjacent Teams:** Effective Scrum Masters actively work with and enable adjacent teams to align efforts, remove cross-team dependencies, and foster organisational coherence. By promoting collaboration across teams, they ensure a seamless flow of value delivery across the organisation.
+
+    5. **Fulfilling Organisational Accountability:** The Scrum Master has an accountability to the organisation beyond the team. This involves educating leadership about Scrum, advocating for systemic improvements, and helping the organisation embrace new ways of working. By bridging the team and the broader organisation, Scrum Masters enhance alignment and drive strategic value.
+
+    ## **Why Delivery Is the Minimum Bar**
+
+    Here’s the reality: without delivery, there is no effectiveness to measure. Consider the [Agile Manifesto’s]({{< ref "/resources/guides/manifesto-for-agile-software-development" >}}) first principle: _"Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."_ Delivery is not the _end-all-be-all_, but it is the minimum bar of competence for a Scrum Team. A team that consistently fails to deliver usable increments cannot claim to be effective, no matter how skilled or engaged they are.
+
+    Although from a single instance, this quote embodies the common failure of Scrum Teams to even meet this minimum bar:
+
+    > The code that was done never arrived at production, nor did it come close to meeting DoD's requirements, and by most standards, we did not deliver anything.
+
+    While the team may have contributed to organisational learning or questioned the value of a particular initiative, their inability to deliver working software regularly is antithetical to Scrum. Cancelled sprints or pivots in direction are valid within the framework, but they do not negate the fundamental expectation: each sprint ends with a usable increment.
+
+    Effectiveness requires delivery, but delivery itself is not the sole measure of effectiveness. It is, however, the critical foundation. A football team that consistently fails to score cannot be described as effective, no matter how skilled its players may be.
+
+    ## **The Scrum Master’s Accountability in Delivery**
+
+    The Scrum Master is a lean-agile practitioner with technical mastery, business mastery, and organisational evolutionary mastery that can provide training, coaching, & mentoring as needed within the context of the team, the product, and the organisation. This is [not an entry-level position but represents an experienced product professional]({{< ref "/resources/blog/2021/2021-03-15-hiring-a-professional-scrum-master" >}}) who can enable the whole Scrum Team to take accountability for delivery by:
+
+    - **Ensuring Transparency:** Helping the team and stakeholders maintain clarity on progress, impediments, and value delivery through well-facilitated events and effective artefacts.
+    - **Removing Impediments:** Proactively identifying and enabling the removal of blockers that hinder the team’s ability to deliver.
+    - **Enabling Technical Excellence:** The Scrum Master should have [sufficient technical skills within the Scrum Teams' work context]({{< ref "/resources/blog/2019/2019-09-01-are-technical-skills-required-to-be-a-scrum-master" >}}) to advocate for and enable practices like design patterns, Test-Driven Development (TDD), automated testing, and continuous integration—all of which are critical for sustainable delivery. Great Scrum Masters will also be able to teach these techniques.
+    - **Facilitating Empiricism:** Supporting the team in working empirically by fostering a cadence of inspect and adapt cycles, ensuring that learning is continuously integrated into delivery.
+
+    When delivery falters, stakeholders naturally look to the Scrum Master to understand and address the root causes. By taking ownership of systemic issues and facilitating improvements, the Scrum Master ensures the team’s consistent ability to deliver effectively.
+
+    They take accountability for delivery!
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-30-the-scrum-master-is-accountable-for-delivery\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-30-the-scrum-master-is-accountable-for-delivery
+- FrontMatter:
+    title: Why Handoffs Are Killing Your Agility
+    description: Explore the detrimental impact of handoffs in software development and discover strategies to eliminate them for better agility.
+    ResourceId: pDvDdIEi9sj
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-01-13
+    weight: 295
+    AudioNative: true
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: why-handoffs-are-killing-your-agility
+    aliases:
+    - /resources/pDvDdIEi9sj
+    - /why-handoffs-are-killing-your-agility
+    - /blog/why-handoffs-are-killing-your-agility
+    aliasesArchive:
+    - /why-handoffs-are-killing-your-agility
+    - /blog/why-handoffs-are-killing-your-agility
+    tags:
+    - Software Development
+    - Business Agility
+    - Cross Functional Teams
+    - Organisational Agility
+    - Product Delivery
+    - Team Collaboration
+    - Operational Practices
+    - Lean Principles
+    - People and Process
+    - Team Performance
+    categories:
+    - Social Technologies
+    - Engineering Excellence
+    - DevOps
+    preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
+  BodyContent: |
+    Many organisations attempt to adopt Lean practices without fully understanding their implications in software development. This often leads to excessive handoffs, which fragment communication and reduce agility.
+
+    Here's the kicker: handoffs are _not_ Lean, Agile, or DevOps. They are an anti-pattern that introduces waste, increases cycle time, and makes collaboration difficult.
+
+    ### TL;DR
+
+    Handoffs are a silent killer in software development. They create inefficiencies, reduce quality, and destroy agility. If your organisation is still riddled with handoffs between siloed teams, you are doing it wrong. Embrace cross-functional teams, optimise for flow, and maintain organisational hygiene to ensure only the minimal set of rules and alignments needed to deliver value effectively. Together, these practices protect your ability to focus on creating value.
+
+    ### What Are Handoffs?
+
+    Handoffs occur when one team or individual completes a task and passes it to another team for further work. Examples include:
+
+    - Developers handing off features to testers.
+    - Testers handing off validated features to operations.
+    - Business analysts tossing requirements over the fence to developers.
+
+    Each of these transitions is a point of failure, introducing delays, miscommunication, and opportunities for rework.
+
+    ### The Hidden Costs of Handoffs
+
+    Handoffs come with a plethora of hidden costs that undermine agility and efficiency. Compounding these challenges is the build-up of organisational cruft—rules and processes that outlive their usefulness. This cruft can further slow progress and obscure value delivery. Each of these costs impacts not only the immediate work but also the organisation's ability to deliver value quickly and sustainably.
+
+    1. **Loss of Context**: Valuable information is lost when tasks move from one team to another. Teams waste time trying to re-establish the original intent. Moreover, the cost of context switching exacerbates this issue. When questions arise that cannot be answered immediately, team members often feel compelled to start new tasks, increasing work in progress (WIP) which in turn increases cycle time. This leads to further delays and amplifies the loss of context, making it even harder to regain clarity and focus on the original work.
+
+    2. **Increased Cycle Time**: Every handoff introduces a delay, pushing your delivery timelines further out. This delay often stems from an increase in batch size as teams attempt to locally optimise for handoffs, which ironically leads to even longer cycle times. Larger batch sizes also bring significantly higher risk, as larger changes are more prone to defects and harder to integrate.
+
+    3. **Reduced Quality**: Misunderstandings and lack of accountability often lead to defects and lower overall product quality. The increase in cycle time and the loss of context also contribute to growing technical debt, making it much harder to identify and fix bugs in larger deployments. This, in turn, further degrades the overall quality and increases the risk of failures in production.
+
+    4. **Decreased Morale**: Team members stuck in silos feel disconnected from the bigger picture, leading to frustration and burnout. This disconnect erodes their sense of **purpose**, a critical element in achieving "autonomy, mastery, and purpose" as described in Daniel Pink's _Drive_. Without a clear connection to the end-to-end delivery of value, team members lose motivation and struggle to see the impact of their work.
+
+    Together, these hidden costs act as multipliers, compounding each other and magnifying the negative impact on your organisation's ability to deliver high-quality software efficiently. Addressing one cost often reduces others, making it crucial to tackle these issues holistically.
+
+    ### Why Do Handoffs Persist?
+
+    Handoffs are a symptom of functional silos. Organisations that structure themselves by discipline (e.g., separate teams for development, testing, and operations) create natural barriers to collaboration. This approach is a holdover from the "Scientific Management Method" developed during the Industrial Revolution when workers were mechanised to optimise for narrow, repetitive tasks rather than holistic, value-driven outcomes. Even well-meaning attempts to implement Agile often retain these silos, resulting in what I like to call "hybrid Agile" — a mismatched combination of Agile practices and traditional command-and-control management. This ineffective blend perpetuates the very silos and inefficiencies that Agile aims to eliminate.
+
+    ## The Solution: Eliminate Handoffs
+
+    Eliminating handoffs requires a mix of modern engineering practices and a commitment to automation. By automating repetitive tasks and adopting strategies like "testing in production," organisations can significantly reduce the friction and delays associated with traditional handoffs. This approach enables faster feedback loops, improved quality, and a seamless delivery pipeline.
+
+    To achieve true agility, a focus on eliminating handoffs is necessary by implementing cross-functional teams and optimising flow. Here's how:
+
+    1. **Create Cross-Functional Teams** - Bring together individuals with all the skills needed to deliver end-to-end value. A cross-functional team might include developers, testers, designers, and operations personnel working collaboratively towards a shared goal. No sub-teams. No silos.
+
+       > **Pro Tip:** Co-locate teams in timezones and use collaboration tools like Microsoft Teams or Slack to ensure seamless communication.
+
+    2. **Adopt Continuous Delivery Practices** - Automation is a cornerstone of Continuous Delivery (CD). By integrating automated testing, deployment, and monitoring into your pipeline, you ensure quality at every step while reducing manual intervention. Moving towards "testing in production" becomes a natural evolution of this strategy, allowing teams to gather real-world feedback quickly and address issues proactively.
+
+    Continuous Delivery (CD) eliminates the need for separate testing or deployment phases. Build pipelines that automatically validate and deploy changes, ensuring quality at every step.
+
+    3. **Leverage Test-First Development** - Adopt Test-Driven Development (TDD), Behaviour-Driven Development (BDD), or Acceptance Test-Driven Development (ATDD). Writing tests first ensures clarity and reduces rework, as discussed in [You are doing it wrong if you are not using test first](https://nkdagility.com/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first/).
+
+    4. **Minimise Work in Progress (WIP)** - Limit WIP to reduce context switching and improve focus. A lower WIP means fewer handoffs and faster delivery cycles.
+
+    5. **Invest in Collaborative Refinement** - Backlog refinement should be a team sport. The entire Scrum Team — including the Product Owner and Developers — must collaborate to clarify and break down work items. See more in [If your backlog is not refined then you are doing it wrong](https://nkdagility.com/blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong/).
+
+    6. **Shift Left and Own It** - All of these practices contribute to a "shift left" strategy, where quality, security, and deployment considerations are addressed earlier in the development lifecycle. Ultimately, the team that creates a feature should also own it in production, including gathering and acting on feedback. This end-to-end ownership fosters accountability, ensures quicker feedback loops, and allows teams to continuously improve based on real-world usage.
+
+    Organisations inevitably accumulate cruft—unnecessary rules, outdated processes, and misaligned practices. These accumulate quietly over time and, if left unchecked, undermine agility and the ability to focus on value creation. To combat this, periodic acts of organisational hygiene are essential. These involve critically assessing and removing unnecessary constraints, ensuring the organisation maintains only the minimal set of rules and alignment required to deliver value effectively. When combined with a shift-left approach and a relentless focus on flow, these practices help organisations stay lean, adaptive, and aligned with their goals.
+
+    Handoffs might seem inevitable in large organisations, but they are a choice. By reorganising your teams, adopting modern engineering practices, and embracing a Lean-Agile mindset, you can minimise handoffs and unlock true agility.
+
+    Remember: every handoff is an opportunity for waste. Eliminate them, and watch your teams thrive.
+
+    ## References
+
+    1. Daniel Pink, _Drive: The Surprising Truth About What Motivates Us_
+    2. The 2020 Scrum Guide - [Scrum.org](https://scrum.org/)
+    3. Martin Hinshelwood, _You are doing it wrong if you are not using test first_ - [NKD Agility](https://nkdagility.com/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first/)
+    4. Martin Hinshelwood, _If your backlog is not refined then you are doing it wrong_ - [NKD Agility](https://nkdagility.com/blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong/)
+    5. The Agile Manifesto - [AgileManifesto.org](https://agilemanifesto.org/)
+    6. Don Reinertsen, _Principles of Product Development Flow_
+
+    **What challenges has your team faced in eliminating handoffs?** _Share your experiences and thoughts in the comments below._ Let’s start a conversation about how we can all build better, faster, and more collaborative teams!
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-11-why-handoffs-are-killing-your-agility\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-11-why-handoffs-are-killing-your-agility
+- FrontMatter:
+    title: Definition of Done - Objective vs Subjective
+    description: Learn the critical distinction between subjective goals and the objective Definition of Done (DoD) in Scrum. This guide dives into why a measurable, automated DoD is essential for consistent quality, stakeholder trust, and professional-grade product delivery.
+    ResourceId: -Z5GGUOjc-d
+    ResourceType: blog
+    ResourceContentOrigin: Hybrid
+    ResourceImport: false
+    date: 2025-01-03
+    weight: 280
+    AudioNative: true
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: definition-of-done-objective-vs-subjective
+    aliases:
+    - /resources/-Z5GGUOjc-d
+    - /definition-of-done-objective-vs-subjective
+    - /blog/definition-of-done-objective-vs-subjective
+    - /definition-of-done---objective-vs-subjective
+    - /blog/definition-of-done---objective-vs-subjective
+    aliasesArchive:
+    - /definition-of-done-objective-vs-subjective
+    - /blog/definition-of-done-objective-vs-subjective
+    - /definition-of-done---objective-vs-subjective
+    - /blog/definition-of-done---objective-vs-subjective
+    tags:
+    - Increment
+    - Definition of Done
+    - Scrum Product Development
+    - Product Delivery
+    - Professional Scrum
+    - Software Development
+    - Working Software
+    - Agile Planning
+    - Agile Project Management
+    - Pragmatic Thinking
+    categories:
+    - Scrum
+    - Social Technologies
+    preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
+  BodyContent: |
+    In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in Scrum, the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.
+
+    Contrast this with the Definition of Done (DoD). The DoD is your team’s objective compass—a binary, quantifiable checklist that ensures every Increment meets professional-grade quality. It’s non-negotiable and should be firmly rooted in your product’s brand, user expectations, and technical robustness.
+
+    #### TL;DR:
+
+    Don’t confuse subjective goals with objective quality. In Scrum, the Definition of Done (DoD) is a crucial, measurable bar of quality, not a negotiable outcome. Keep it clear, objective, and automated wherever possible to ensure that every Increment meets professional standards.
+
+    ### Product and Sprint Goals: Subjective by Design
+
+    Goals in Scrum are aspirational, meant to challenge teams and align efforts towards strategic outcomes. The Product Goal represents a long-term objective, while the Sprint Goal offers a short-term milestone. Together, they guide the team like a compass through the wilderness., helping maintain direction even through surprise obstacles and side quests. However, achieving these goals isn’t always guaranteed. Progress is iterative, incremental, and constantly adapting to new insights - a bit like chasing a moving target.
+
+    ### Definition of Done: The Objective Measure
+
+    Unlike goals, the Definition of Done is a steadfast benchmark for quality. It defines the bare minimum for an Increment to be considered complete. Without it, teams risk releasing poorly constructed, subpar products that erode user trust and damage the brand. A solid DoD ensures consistent quality across all deliverables, instilling confidence in both internal teams and end users.
+
+    ### Establishing a Solid Definition of Done
+
+    There is a key message in the Scrum Guide that is often overlooked that plays a critical role in establishing the DoD.
+
+    > If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product. - Scrum Guide 2020
+
+    For me this suggests that there should be some kind of Organizational or Product DoD. I think of this as comming from the business. This is driven by the business and should reflect the businesses intent for quality in the product. That might be the minimum level of quality required by the business to protect their brand, their customers, and their employees.
+
+    An example of a Organizational or Product DoD for a team working on a cloud product might be:
+
+    > “Live and in production, gathering telemetry that supports or diminishes the starting hypothesis.”
+
+    This sets a clear bar for delivery while supporting empirical learning and iterative improvement. It stays clear of the technical detail and jargon of an individual teams DoD and focuses on its objective and purpose for the product. It implies much, from ideation to delivery while minimizing imposition on the teams. It creates alignment of intent while maintaining autonomy of implementation. It recognizes that every team needs a unique DoD that is relevant for their context.
+
+    Each team working on a product would then be responsible for creating a DoD that is appropriate for their context within that product.
+
+    This is the seed that will grow into each teams unique quality bar that reflects this DoD. A robust reflection should be:
+
+    1. **Objective and Measurable**: Avoid vague criteria and instead focus on things that you can measure.
+    2. **Comprehensive**: What are all the things that need to be true for a production deployment of your product to be deployed to production?
+    3. **Living Document**: The teams DoD as needed to reflect evolving standards, technologies, and stakeholder expectations of the product as it grows.
+
+    ### Common Pitfalls
+
+    Despite its critical importance, the DoD is often misunderstood, undervalued, or even undermined. Teams frequently:
+
+    - **Blur Subjective and Objective**: Adding criteria like “approved by the Product Owner”, which shifts focus from quality to stakeholder satisfaction. Any "approved by ... person or department" should be strictly avoided.
+    - **Overlook Automation**: Relying on manual checks leads to inconsistencies and slower feedback loops.
+    - **Treat the DoD as a Maximum**: Viewing it as a ceiling instead of a floor hampers innovation and improvement.
+
+    ### Practices for Defining Done
+
+    To maintain focus on quality, consider the following practices:
+
+    1. **Automate Everything:** Automated tests and CI/CD pipelines should validate DoD compliance as part of the development process. If you have things that cant be automated right now, plan the work to change the product to enable those activities to be automated.
+    2. **Review Regularly**: Incorporate DoD reviews in retrospectives to ensure its relevance and alignment with current product and organizational needs. Keep a list of "things that need to be true to deploy to production that we cant do yet", and regularly move these to Done.
+    3. **Train Teams**: Ensure every team member understands the DoD and its importance in delivering professional-grade Increments.
+    4. **Separate Quality from Approval**: Keep subjective approval processes distinct from the DoD to avoid undermining its objectivity.
+
+    ### Conclusion: The Quality of Done
+
+    In Scrum, the Definition of Done is your minimum bar for quality. It’s the safeguard against technical debt, the foundation for stakeholder trust, and the cornerstone of professional-grade delivery. By keeping your DoD objective, measurable, and focused on quality, you empower your team to build products that meet—and often exceed—user expectations. Remember, the DoD is a minimum bar, not a maximum aspiration. Raise it periodically and watch your product’s quality soar.
+
+    **What’s Your Take?**
+
+    We’d love to hear your thoughts! How does your team define and enforce the Definition of Done? Have you faced challenges distinguishing subjective goals from objective quality measures? Share your experiences and insights in the comments below!
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-03-definition-of-done-objective-vs-subjective\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-03-definition-of-done-objective-vs-subjective
+
