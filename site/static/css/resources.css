@@ -14,7 +14,7 @@
 
 .resources-headline .text-muted {
   color: whitesmoke !important;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 .resources-headline a {
@@ -39,4 +39,20 @@
 .resources-headline .btn-nkdagility-secondary:hover {
   background-color: var(--secondary-color-light);
   color: white;
+}
+
+.resources-headline-sharebar {
+  background-color: var(--secondary-color) !important;
+}
+
+.resources-headline-sharebar .btn-outline-secondary {
+  background-color: var(--secondary-color) !important; /* Set white background */
+  color: whitesmoke !important; /* Ensure text remains secondary */
+  border-color: whitesmoke !important; /* Keep the secondary border */
+}
+.resources-headline-sharebar .btn-outline-secondary:hover,
+.resources-headline-sharebar .btn-outline-secondary:focus {
+  background-color: var(--secondary-color-light) !important; /* Light gray hover effect */
+  color: whitesmoke !important;
+  border-color: whitesmoke !important;
 }
