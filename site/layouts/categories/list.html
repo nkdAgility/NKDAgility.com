@@ -1,4 +1,88 @@
+{{- define "headline" }}
+  <section class="container-fluid resources-headline py-md-4">
+    <section class="container">
+      <div class="d-flex justify-content-between align-items-center">
+        <!-- Left Section -->
+        <div class="left d-flex flex-grow-1">
+          {{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
+          {{ $jsonData := $jsonFile | unmarshal }}
+
+
+          <div class="d-flex">
+            <div class="resourcetypes p-1">
+              <a href="{{ printf "/resources/%s" (.Params.ResourceType | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-primary">Category</a>
+            </div>
+            <div class="categories p-1">
+              {{ with .Params.types }}
+                {{ range . }}
+                  {{ $term := . }}
+                  {{ $categoryData := index $jsonData $term }}
+                  {{ if $categoryData }}
+                    <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary me-2" title="{{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}"> {{ $term }} </a>
+                  {{ else }}
+                    <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary me-2">
+                      {{ $term }}
+                    </a>
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+          <!-- Ensure this properly closes the flex container inside "left" -->
+        </div>
+        <!-- Corrected: Now properly closing the "left" section -->
+
+        <!-- Right Section -->
+        <div class="right">
+          <h4>tech·nic·al·ly agile class·i·fic·at·ion</h4>
+        </div>
+      </div>
+      <!-- End of Flex Container -->
+
+      <div>
+        <div class="row">
+          <div class="col-12 col-xl-10 d-flex flex-column">
+            <div class="flex-grow-1">
+              <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+              {{- if .Params.subtitle }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+              {{ else }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+              {{- end }}
+            </div>
+          </div>
+          <div class="col-xl-2 d-none d-xl-flex justify-content-center align-items-center">
+            <div class="position-relative">
+              <img src="/images/technically-agile-classifications-logo.png" />
+              <img src="/images/nkdagility-with-martin-hinshelwood-dark-300px.png" alt="Image" class="position-absolute top-0 end-0" style="width: 100px; height: auto;" />
+            </div>
+          </div>
+          <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
+            {{ $url := "" }}
+            {{ if eq .Type "resources" }}
+              {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+            {{ else }}
+              {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
+            {{ end }}
+            {{ $url }}
+          </div>
+        </div>
+      </div>
+    </section>
+  </section>
+  <section class="container-fluid resources-headline-sharebar">
+    <section class="container" style="max-width: 900px !important">
+      {{- partial "publications/share-bar.html" . }}
+    </section>
+  </section>
+{{- end }}
+
 {{- define "main" }}
+  <section class="container my-5">
+    <div class="p-2 my-4">
+      {{- .Content }}
+    </div>
+  </section>
   {{- $taxonomyName := .Title }}
   {{- $taxonomyShortName := .Title }}
   {{- $pages := where .Pages.ByWeight "Draft" "!=" true }}
@@ -22,6 +106,7 @@
   {{- $sortedPagesWithData := sort $pagesWithData "score" "desc" }}
   <section class="container my-2">
     <div class="container">
+      <h2>Learn More about {{ .Title }}</h2>
       <div class="row">
         {{- range $sortedPagesWithData }}
           <div class="col-xl-4 p-2">
@@ -55,10 +140,6 @@
             {{- end }}
           </div>
         {{- end }}
-        <div class="col-xl-12 p-2 my-4">
-          <h2>Overview of {{ .Title }}</h2>
-          {{- .Content }}
-        </div>
       </div>
     </div>
   </section>
