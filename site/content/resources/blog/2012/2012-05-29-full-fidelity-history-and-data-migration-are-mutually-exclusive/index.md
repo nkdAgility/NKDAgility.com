@@ -27,8 +27,7 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Application Lifecycle Management
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

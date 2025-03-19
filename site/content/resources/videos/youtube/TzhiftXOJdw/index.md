@@ -42,9 +42,7 @@ tags:
 - Business Agility
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Leadership
+categories: []
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

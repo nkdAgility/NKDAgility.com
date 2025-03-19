@@ -36,8 +36,8 @@ tags:
 - Windows
 - Practical Techniques and Tooling
 - Install and Configuration
-categories:
-- DevOps
+- Azure DevOps
+categories: []
 preview: metro-problem-icon-7-7.png
 
 ---

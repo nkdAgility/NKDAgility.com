@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Engineering Excellence
+- Scrum
 
 ---
 In my journey through the world of software development and site reliability engineering, I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure DevOps team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.

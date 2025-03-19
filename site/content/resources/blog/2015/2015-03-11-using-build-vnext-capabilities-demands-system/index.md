@@ -34,8 +34,9 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-categories:
-- DevOps
+- Windows
+- Continuous Integration
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

@@ -35,8 +35,8 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Engineering Excellence
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []
 

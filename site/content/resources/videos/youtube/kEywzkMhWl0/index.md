@@ -42,11 +42,11 @@ tags:
 - Agile Frameworks
 - Agile Leadership
 - Change Management
+- Software Development
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 **1 critical skill for a Scrum Master and why?**

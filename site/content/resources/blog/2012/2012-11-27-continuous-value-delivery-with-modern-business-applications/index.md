@@ -37,7 +37,6 @@ tags:
 categories:
 - DevOps
 - Engineering Excellence
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

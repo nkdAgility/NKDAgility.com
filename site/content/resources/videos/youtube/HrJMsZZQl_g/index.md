@@ -39,10 +39,10 @@ tags:
 - Agile Product Management
 - Discovery and Learning
 - Scrum Master
+- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
 
 ---

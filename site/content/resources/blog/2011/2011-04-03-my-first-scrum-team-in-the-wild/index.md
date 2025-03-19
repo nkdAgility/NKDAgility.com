@@ -36,7 +36,6 @@ tags:
 - Team Performance
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

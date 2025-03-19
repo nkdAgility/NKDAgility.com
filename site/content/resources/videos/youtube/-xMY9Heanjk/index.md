@@ -42,7 +42,6 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Social Technologies
 - Scrum
 
 ---

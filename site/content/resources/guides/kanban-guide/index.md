@@ -28,7 +28,6 @@ card:
   title: Kanban Guide
 categories:
 - Kanban
-- Social Technologies
 tags:
 - Flow Efficiency
 - Operational Practices

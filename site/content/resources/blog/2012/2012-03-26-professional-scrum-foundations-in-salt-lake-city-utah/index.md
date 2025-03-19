@@ -44,7 +44,6 @@ tags:
 - Agile Transformation
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-8-8.png
 
 ---

@@ -32,11 +32,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Operational Practices
+- Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 ### Embracing Kanban: A Creative Approach to Workflow Optimization

@@ -40,7 +40,6 @@ tags:
 - Software Developers
 - Practical Techniques and Tooling
 categories:
-- Social Technologies
 - Scrum
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 

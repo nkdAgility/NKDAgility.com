@@ -31,8 +31,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

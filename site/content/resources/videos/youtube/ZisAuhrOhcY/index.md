@@ -34,7 +34,6 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Strategy
 - Operational Practices
 - Agile Project Management
 - Practical Techniques and Tooling
@@ -43,10 +42,10 @@ tags:
 - People and Process
 - Agile Strategy
 - Software Development
+- Metrics and Learning
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Kanban
 
 ---

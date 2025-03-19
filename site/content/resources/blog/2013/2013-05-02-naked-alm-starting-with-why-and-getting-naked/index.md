@@ -31,8 +31,12 @@ tags:
 - Working Software
 - People and Process
 - Agile Philosophy
-categories:
-- Leadership
+- Organisational Agility
+- Frequent Releases
+- Deployment Frequency
+- Personal
+- Value Delivery
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

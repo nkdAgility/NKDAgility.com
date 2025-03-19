@@ -40,7 +40,7 @@ tags:
 - Scrum Master
 categories:
 - Scrum
-- Social Technologies
+- Engineering Excellence
 preview: 20190906_152025-2-2.gif
 
 ---

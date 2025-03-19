@@ -40,7 +40,6 @@ tags:
 - Agile Product Management
 categories:
 - Scrum
-- Social Technologies
 - Product Management
 preview: 993957510-1-1.jpg
 

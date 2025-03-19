@@ -26,6 +26,7 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

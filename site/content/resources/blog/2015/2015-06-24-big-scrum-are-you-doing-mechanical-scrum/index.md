@@ -38,8 +38,6 @@ tags:
 - People and Process
 categories:
 - Scrum
-- Social Technologies
-- Engineering Excellence
 preview: clip_image001-1-1.png
 
 ---

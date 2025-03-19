@@ -32,6 +32,7 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Install and Configuration
+- Azure DevOps
 categories: []
 preview: metro-binary-vb-128-link-5-5.png
 

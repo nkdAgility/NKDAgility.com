@@ -38,7 +38,6 @@ tags:
 categories:
 - Product Management
 - Leadership
-- Social Technologies
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

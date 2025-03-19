@@ -29,8 +29,8 @@ tags:
 - Troubleshooting
 - Software Development
 - System Configuration
-categories:
-- DevOps
+- Pragmatic Thinking
+categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

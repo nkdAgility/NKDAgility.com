@@ -32,8 +32,8 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Azure Repos
-categories:
-- Engineering Excellence
+- Azure DevOps
+categories: []
 preview: image-2-2-2.png
 
 ---

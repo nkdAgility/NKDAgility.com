@@ -33,10 +33,10 @@ tags:
 - Continuous Learning
 - Coaching
 - People and Process
+- Personal
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 **What is your feeling on creating Agile apprenticeships?**

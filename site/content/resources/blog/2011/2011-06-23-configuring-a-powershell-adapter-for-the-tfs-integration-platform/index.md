@@ -28,8 +28,8 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development
-categories:
-- DevOps
+- Pragmatic Thinking
+categories: []
 
 ---
 ![](images/image_thumb-1-1.png)

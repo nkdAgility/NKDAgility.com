@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
 - Practical Techniques and Tooling
+- Software Development
 categories: []
 preview: metro-office-128-link-3-3.png
 

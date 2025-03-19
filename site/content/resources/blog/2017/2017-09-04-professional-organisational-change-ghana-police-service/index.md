@@ -37,9 +37,10 @@ tags:
 - Organisational Agility
 - Resilience and Change
 - Digital Transformation
-- Strategy
+- Organisational Culture
 categories:
 - Leadership
+- Scrum
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

@@ -28,6 +28,7 @@ isShort: true
 tags:
 - Agile Project Management
 - Agile Philosophy
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

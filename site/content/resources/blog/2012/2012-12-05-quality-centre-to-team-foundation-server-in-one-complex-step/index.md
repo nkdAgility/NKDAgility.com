@@ -30,6 +30,7 @@ tags:
 - Software Development
 - News and Reviews
 - Install and Configuration
+- Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

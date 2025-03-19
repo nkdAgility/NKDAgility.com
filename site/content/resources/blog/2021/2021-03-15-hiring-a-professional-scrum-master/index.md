@@ -36,6 +36,7 @@ tags:
 - Team Performance
 categories:
 - Scrum
+- Leadership
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

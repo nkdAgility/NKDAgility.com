@@ -29,6 +29,8 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Software Development
+- Windows
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

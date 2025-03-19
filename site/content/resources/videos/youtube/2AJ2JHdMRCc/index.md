@@ -33,7 +33,6 @@ resourceTypes:
 layout: video
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 ## Game-Changer in Software Engineering!

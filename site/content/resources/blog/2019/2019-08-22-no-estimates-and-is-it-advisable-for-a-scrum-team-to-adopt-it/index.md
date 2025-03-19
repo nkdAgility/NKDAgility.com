@@ -40,7 +40,6 @@ tags:
 - People and Process
 categories:
 - Scrum
-- Social Technologies
 preview: iStock-847664136-1-1.jpg
 
 ---

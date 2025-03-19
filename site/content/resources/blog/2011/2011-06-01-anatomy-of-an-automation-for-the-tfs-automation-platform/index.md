@@ -29,8 +29,7 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Internal Developer Platform
-categories:
-- DevOps
+categories: []
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?

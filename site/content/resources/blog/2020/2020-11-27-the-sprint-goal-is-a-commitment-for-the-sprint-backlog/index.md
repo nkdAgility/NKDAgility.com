@@ -36,7 +36,6 @@ tags:
 - Scrum Team
 categories:
 - Scrum
-- Social Technologies
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

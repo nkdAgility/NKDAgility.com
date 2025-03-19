@@ -28,8 +28,8 @@ tags:
 - Install and Configuration
 - Software Development
 - Pragmatic Thinking
+- Software Developers
 categories:
-- Social Technologies
 - Scrum
 
 ---

@@ -44,7 +44,6 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
-- Social Technologies
 
 ---
 In high competition markets, how does scrum product development help acquire and retain customers?

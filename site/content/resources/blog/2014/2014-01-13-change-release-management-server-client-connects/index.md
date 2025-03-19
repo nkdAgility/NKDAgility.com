@@ -32,6 +32,8 @@ tags:
 - Install and Configuration
 - Release Management
 - Practical Techniques and Tooling
+- Troubleshooting
+- Windows
 categories: []
 
 ---

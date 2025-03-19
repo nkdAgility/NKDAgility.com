@@ -35,9 +35,9 @@ tags:
 - Troubleshooting
 - Software Development
 - System Configuration
-categories:
-- Scrum
-- Social Technologies
+- Pragmatic Thinking
+- Operational Practices
+categories: []
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

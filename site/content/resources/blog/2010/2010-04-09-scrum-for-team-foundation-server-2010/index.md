@@ -29,8 +29,8 @@ tags:
 - Software Developers
 - Agile Project Management
 - Practical Techniques and Tooling
+- Agile Frameworks
 categories:
-- Social Technologies
 - Scrum
 preview: metro-visual-studio-2010-128-link-2-1.png
 

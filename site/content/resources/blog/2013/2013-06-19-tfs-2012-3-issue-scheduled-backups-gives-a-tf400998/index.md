@@ -35,8 +35,7 @@ tags:
 - System Configuration
 - Install and Configuration
 - Software Development
-categories:
-- DevOps
+categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

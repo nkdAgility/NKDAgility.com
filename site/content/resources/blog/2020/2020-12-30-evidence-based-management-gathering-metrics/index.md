@@ -42,7 +42,7 @@ tags:
 categories:
 - Product Management
 - Scrum
-- Social Technologies
+- Engineering Excellence
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

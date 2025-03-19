@@ -33,9 +33,7 @@ tags:
 - People and Process
 resourceTypes:
 - video
-categories:
-- Leadership
-- Social Technologies
+categories: []
 
 ---
 ## Power of Passion

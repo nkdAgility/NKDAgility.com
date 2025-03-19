@@ -39,9 +39,7 @@ tags:
 - People and Process
 resourceTypes:
 - video
-categories:
-- Leadership
-- Social Technologies
+categories: []
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

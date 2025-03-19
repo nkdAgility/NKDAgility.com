@@ -35,12 +35,12 @@ tags:
 - Software Developers
 - People and Process
 - Working Software
+- Pragmatic Thinking
+- Market Adaptability
 resourceTypes:
 - video
 categories:
 - DevOps
-- Engineering Excellence
-- Social Technologies
 
 ---
 How important is DevOps in continuous delivery of value to customers?

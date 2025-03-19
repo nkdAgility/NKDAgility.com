@@ -33,9 +33,9 @@ tags:
 - Azure Pipelines
 - Software Developers
 - Products and Books
+- Frequent Releases
 categories:
 - DevOps
-- Engineering Excellence
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

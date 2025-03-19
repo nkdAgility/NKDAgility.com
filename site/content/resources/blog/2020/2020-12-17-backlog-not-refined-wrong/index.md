@@ -41,7 +41,7 @@ tags:
 - Agile Product Management
 categories:
 - Scrum
-- Social Technologies
+- Product Management
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

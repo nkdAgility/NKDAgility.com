@@ -45,7 +45,6 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-- Product Management
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

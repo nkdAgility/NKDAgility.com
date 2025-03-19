@@ -37,11 +37,11 @@ tags:
 - Products and Books
 - Practical Techniques and Tooling
 - Agile Product Management
+- Personal
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 - Scrum
 
 ---

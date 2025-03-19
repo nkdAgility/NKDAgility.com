@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/get-analysis-services-last-processed-date
 - /get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

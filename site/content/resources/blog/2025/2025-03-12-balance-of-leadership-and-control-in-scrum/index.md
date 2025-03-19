@@ -20,8 +20,8 @@ aliasesArchive:
 - /blog/balance-of-leadership-and-control-in-scrum
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Product Management
 tags:
 - Accountability
 - Scrum Product Development

@@ -34,12 +34,10 @@ tags:
 - People and Process
 - Agile Product Management
 - Agile Project Management
+- Accountability
 resourceTypes:
 - video
-categories:
-- Scrum
-- Social Technologies
-- Product Management
+categories: []
 
 ---
 ## Common Comments from the PSPO Course

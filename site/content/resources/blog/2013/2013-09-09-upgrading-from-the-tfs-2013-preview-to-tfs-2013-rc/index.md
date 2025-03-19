@@ -29,6 +29,7 @@ tags:
 - Windows
 - System Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 categories: []
 
 ---

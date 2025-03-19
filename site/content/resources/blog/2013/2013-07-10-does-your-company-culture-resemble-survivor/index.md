@@ -41,7 +41,6 @@ tags:
 categories:
 - Leadership
 - Social Technologies
-- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

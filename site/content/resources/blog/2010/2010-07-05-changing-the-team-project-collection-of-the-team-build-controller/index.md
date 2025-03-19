@@ -28,9 +28,9 @@ tags:
 - System Configuration
 - Software Development
 - Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-SSWLogo-128-link-6-6.png
-categories:
-- DevOps
+categories: []
 
 ---
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)

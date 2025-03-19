@@ -34,9 +34,9 @@ tags:
 - People and Process
 - Scrum Master
 - Events and Presentations
+- Agile Frameworks
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

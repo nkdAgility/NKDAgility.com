@@ -40,6 +40,7 @@ tags:
 - Coaching
 categories:
 - Scrum
+- Social Technologies
 preview: 1061204442-1-1.jpg
 
 ---

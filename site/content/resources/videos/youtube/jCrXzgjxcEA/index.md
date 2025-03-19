@@ -30,6 +30,7 @@ tags:
 - Software Development
 - Operational Practices
 - Azure Boards
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 - Kanban
 
 ---

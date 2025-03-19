@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 tags:
 - Troubleshooting
+- Software Development
 categories: []
 
 ---

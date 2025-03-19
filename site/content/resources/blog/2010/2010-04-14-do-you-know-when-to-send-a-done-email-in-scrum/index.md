@@ -33,9 +33,9 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - People and Process
+- Agile Frameworks
 categories:
 - Scrum
-- Social Technologies
 preview: metro-sharepoint-128-link-3-3.png
 
 ---

@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/updating-the-command-line-parser
 tags:
 - Software Development
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-2-1.png
 

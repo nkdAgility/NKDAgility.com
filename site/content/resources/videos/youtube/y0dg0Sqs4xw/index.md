@@ -38,7 +38,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 What is a common mistake made by rookie agile consultants?

@@ -30,9 +30,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-categories:
-- Social Technologies
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

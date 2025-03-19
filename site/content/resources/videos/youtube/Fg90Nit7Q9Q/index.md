@@ -31,12 +31,12 @@ tags:
 - Software Developers
 - Agile Project Management
 - Agile Transformation
+- Pragmatic Thinking
+- Team Collaboration
+- Transparency
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
-- DevOps
+categories: []
 
 ---
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥

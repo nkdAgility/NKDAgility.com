@@ -40,11 +40,11 @@ tags:
 - People and Process
 - Agile Philosophy
 - Organisational Agility
+- Agile Product Management
+- Sociotechnical Systems
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## The Reality of Scrum Adoption 🤔  

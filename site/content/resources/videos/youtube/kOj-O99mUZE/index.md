@@ -37,16 +37,13 @@ tags:
 - Agile Frameworks
 - Agile Product Operating Model
 - Agile Project Management
-- Strategy
 - Value Delivery
 - Large Scale Agility
 - Product Delivery
+- Flow Efficiency
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Kanban
-- Product Management
+categories: []
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

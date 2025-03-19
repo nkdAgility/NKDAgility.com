@@ -44,8 +44,7 @@ tags:
 - Practical Techniques and Tooling
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement

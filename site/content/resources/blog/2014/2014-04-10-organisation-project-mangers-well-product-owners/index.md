@@ -37,9 +37,9 @@ tags:
 - Software Development
 - Agile Transformation
 - Organisational Change
+- Pragmatic Thinking
 categories:
 - Product Management
-- Social Technologies
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
 

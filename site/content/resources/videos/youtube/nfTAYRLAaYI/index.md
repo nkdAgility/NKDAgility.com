@@ -37,6 +37,7 @@ tags:
 - Transparency
 - Operational Practices
 - Lean Principles
+- Lean Thinking
 resourceTypes:
 - video
 categories:

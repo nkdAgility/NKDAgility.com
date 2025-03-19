@@ -37,6 +37,7 @@ tags:
 - Value Delivery
 categories:
 - Scrum
+- Product Management
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 
 ---

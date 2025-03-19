@@ -41,7 +41,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 **Is a scrum master an agile micromanager?**

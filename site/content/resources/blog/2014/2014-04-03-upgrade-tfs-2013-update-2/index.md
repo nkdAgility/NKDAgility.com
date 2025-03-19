@@ -38,8 +38,7 @@ tags:
 - System Configuration
 - Application Lifecycle Management
 - Products and Books
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

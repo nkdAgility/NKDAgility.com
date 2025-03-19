@@ -35,7 +35,6 @@ tags:
 - Agile Transformation
 - Product Delivery
 categories:
-- Social Technologies
 - Engineering Excellence
 - Scrum
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg

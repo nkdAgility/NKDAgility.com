@@ -32,9 +32,7 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Release Management
-categories:
-- Scrum
-- Social Technologies
+categories: []
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

@@ -27,7 +27,8 @@ aliasesArchive:
 - /creating-a-better-tfs-sticky-buddy-(core)
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
-tags: []
+tags:
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-2-2.png
 

@@ -32,8 +32,9 @@ tags:
 - Agile Transformation
 - Agile Project Management
 - Software Developers
-categories:
-- Social Technologies
+- Organisational Agility
+- Pragmatic Thinking
+categories: []
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

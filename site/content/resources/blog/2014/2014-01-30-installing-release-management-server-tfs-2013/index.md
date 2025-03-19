@@ -32,6 +32,8 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Release Management
+- Windows
+- Software Development
 categories: []
 
 ---

@@ -28,11 +28,11 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
+- Software Development
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Debunking the "Magic" Myth

@@ -32,6 +32,8 @@ tags:
 - Practical Techniques and Tooling
 - Continuous Integration
 - Modern Source Control
+- Technical Excellence
+- Engineering Practices
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - DevOps

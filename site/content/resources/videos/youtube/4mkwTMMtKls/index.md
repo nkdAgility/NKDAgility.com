@@ -37,11 +37,12 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Organisational Agility
+- Personal
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
+categories: []
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

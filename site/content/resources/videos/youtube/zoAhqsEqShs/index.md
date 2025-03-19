@@ -37,12 +37,13 @@ tags:
 - Agile Frameworks
 - Agile Strategy
 - Organisational Agility
+- Pragmatic Thinking
+- Personal
 resourceTypes:
 - video
 categories:
 - Leadership
 - Scrum
-- DevOps
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

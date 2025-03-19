@@ -31,7 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Leadership
-- Strategy
 - People and Process
 - Strategic Goals
 - Decision Making
@@ -40,10 +39,13 @@ tags:
 - Product Strategy
 - Agile Leadership
 - Organisational Change
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Leadership
+- Product Management
+- Social Technologies
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

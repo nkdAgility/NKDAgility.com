@@ -34,6 +34,8 @@ tags:
 - Discovery and Learning
 - Organisational Agility
 - Organisational Change
+- Coaching
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 
 ---
 As I reflect on my journey in agile leadership, I often find myself pondering the pivotal role that effective training plays in shaping the leaders of tomorrow. Recently, I had the opportunity to delve into the Professional Agile Leadership Essentials course, which serves as a crucial stepping stone for managers and leaders transitioning from traditional management styles to agile leadership. This course is designed to empower Scrum teams and agile practitioners, helping them flourish and create exceptional products.

@@ -7,8 +7,7 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 date: 2024-06-04
 weight: 1000
-categories:
-- Social Technologies
+categories: []
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

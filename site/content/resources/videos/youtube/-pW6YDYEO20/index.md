@@ -33,12 +33,12 @@ tags:
 - Scrum Team
 - People and Process
 - Team Performance
+- Software Development
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 **Worst trait in unskilled scrum masters?**

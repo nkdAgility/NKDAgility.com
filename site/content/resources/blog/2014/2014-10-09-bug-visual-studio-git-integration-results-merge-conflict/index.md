@@ -32,9 +32,8 @@ tags:
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
-categories:
-- Engineering Excellence
-- DevOps
+- Pragmatic Thinking
+categories: []
 preview: naked-alm-git-2-2.png
 
 ---

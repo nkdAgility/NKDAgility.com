@@ -36,6 +36,7 @@ tags:
 - One Engineering System (1ES)
 - People and Process
 - Practical Techniques and Tooling
+- Operational Practices
 resourceTypes:
 - video
 categories:

@@ -41,8 +41,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
-- Leadership
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

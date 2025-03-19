@@ -35,9 +35,10 @@ tags:
 - Azure DevOps
 - Azure Repos
 - Pragmatic Thinking
+- Technical Excellence
+- Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 preview: naked-alm-git-1-1.png
 
 ---

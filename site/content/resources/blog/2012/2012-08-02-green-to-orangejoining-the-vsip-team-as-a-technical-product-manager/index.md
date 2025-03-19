@@ -28,8 +28,7 @@ aliasesArchive:
 - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 tags: []
-categories:
-- Product Management
+categories: []
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

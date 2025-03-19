@@ -37,9 +37,9 @@ tags:
 - Azure DevOps
 - Product Delivery
 - Working Software
+- Azure Pipelines
 categories:
 - DevOps
-- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

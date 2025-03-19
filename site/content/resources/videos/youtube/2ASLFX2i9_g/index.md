@@ -45,9 +45,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Social Technologies
 - Scrum
-- Product Management
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 

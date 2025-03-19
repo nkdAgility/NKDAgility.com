@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 As the CTO at Great Calm, I’ve had the privilege of witnessing the transformative power of effective training in Scrum. Recently, we undertook a significant initiative to baseline our understanding of Scrum across the organisation. This decision stemmed from a recognition that, in a rapidly evolving environment, everyone brings their own flavour and understanding of what Scrum and Agile mean. This diversity can create dissonance, which is why we chose to engage with Martin Hinshelwood for our training sessions.

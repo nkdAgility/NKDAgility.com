@@ -40,6 +40,7 @@ tags:
 - Operational Practices
 categories:
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---

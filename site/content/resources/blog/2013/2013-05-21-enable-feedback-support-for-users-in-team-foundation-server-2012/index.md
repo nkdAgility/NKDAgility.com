@@ -26,6 +26,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
+- System Configuration
 categories: []
 
 ---

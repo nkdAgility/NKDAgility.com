@@ -27,8 +27,8 @@ tags:
 - Troubleshooting
 - Software Development
 - Practical Techniques and Tooling
-categories:
-- DevOps
+- Azure DevOps
+categories: []
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

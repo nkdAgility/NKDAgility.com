@@ -35,8 +35,9 @@ tags:
 - Agile Strategy
 - Enterprise Agility
 - Organisational Culture
-categories:
-- Leadership
+- Entrepreneurship
+- Pragmatic Thinking
+categories: []
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

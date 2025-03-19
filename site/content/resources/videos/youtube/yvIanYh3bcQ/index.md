@@ -42,8 +42,7 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 Governance is a critical aspect of any organisation, ensuring that we operate safely and effectively. However, I’ve observed that excessive governance can often hinder our ability to seize opportunities and respond to unexpected challenges. When surprises arise—be it a market shift, a product issue, or an internal complication—the time and cost to rectify these problems can escalate dramatically. 

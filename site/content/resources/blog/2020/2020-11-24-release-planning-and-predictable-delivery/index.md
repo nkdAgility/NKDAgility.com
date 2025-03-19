@@ -36,6 +36,8 @@ tags:
 - Operational Practices
 categories:
 - Scrum
+- Engineering Excellence
+- Product Management
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

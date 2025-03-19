@@ -34,15 +34,12 @@ tags:
 - Pragmatic Thinking
 - Agile Philosophy
 - Product Delivery
-- Strategy
 - Value Delivery
 - Agile Project Management
 - Agile Product Management
 - Increment
-categories:
-- Social Technologies
-- Product Management
-- Scrum
+- Agile Values and Principles
+categories: []
 preview: image-1.jpg
 
 ---

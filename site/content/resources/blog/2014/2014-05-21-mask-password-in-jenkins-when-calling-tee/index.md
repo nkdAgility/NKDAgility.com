@@ -29,8 +29,8 @@ tags:
 - Software Development
 - Troubleshooting
 - System Configuration
-categories:
-- DevOps
+- Continuous Integration
+categories: []
 preview: naked-alm-jenkins-logo-7-7.png
 
 ---

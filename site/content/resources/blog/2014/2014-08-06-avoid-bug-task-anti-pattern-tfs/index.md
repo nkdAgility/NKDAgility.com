@@ -39,10 +39,7 @@ tags:
 - Product Owner
 - Working Software
 - Azure Boards
-categories:
-- DevOps
-- Engineering Excellence
-- Social Technologies
+categories: []
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

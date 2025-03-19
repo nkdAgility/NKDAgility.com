@@ -30,12 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Personal
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
-- DevOps
+categories: []
 
 ---
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"

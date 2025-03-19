@@ -40,7 +40,7 @@ tags:
 - Software Developers
 categories:
 - Scrum
-- Social Technologies
+- Engineering Excellence
 preview: metro-event-128-link-1-1.png
 
 ---

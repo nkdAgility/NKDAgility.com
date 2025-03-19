@@ -36,7 +36,6 @@ tags:
 - Software Development
 - Value Delivery
 categories:
-- Social Technologies
 - Scrum
 - Product Management
 preview: image-1.jpg

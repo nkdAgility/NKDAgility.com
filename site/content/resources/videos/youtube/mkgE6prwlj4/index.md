@@ -36,8 +36,7 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Spotlight on Outstanding Scrum Application

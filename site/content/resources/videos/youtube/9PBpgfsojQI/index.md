@@ -31,7 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Strategy
 - Pragmatic Thinking
 - Scrum Product Development
 - Agile Product Operating Model
@@ -40,12 +39,11 @@ tags:
 - Agile Strategy
 - Operational Practices
 - Product Strategy
+- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Product Management
-- Scrum
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

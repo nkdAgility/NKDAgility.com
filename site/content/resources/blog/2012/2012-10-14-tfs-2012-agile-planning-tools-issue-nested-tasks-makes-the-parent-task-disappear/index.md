@@ -39,9 +39,8 @@ tags:
 - Software Developers
 - Agile Planning
 - Azure Boards
-categories:
-- Social Technologies
-- Scrum
+- Azure DevOps
+categories: []
 preview: metro-problem-icon-8-8.png
 
 ---

@@ -28,8 +28,8 @@ tags:
 - Platform Engineering
 - Internal Developer Platform
 - Practical Techniques and Tooling
-categories:
-- Engineering Excellence
+- Technical Mastery
+categories: []
 
 ---
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.

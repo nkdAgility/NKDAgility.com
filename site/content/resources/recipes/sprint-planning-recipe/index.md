@@ -39,7 +39,6 @@ card:
   title: Sprint Planning Recipe
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Software Development
 - Scrum Product Development

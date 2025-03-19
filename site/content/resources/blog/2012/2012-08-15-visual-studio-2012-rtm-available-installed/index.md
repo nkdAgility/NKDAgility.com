@@ -31,8 +31,7 @@ tags:
 - Install and Configuration
 - Products and Books
 - Software Development
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

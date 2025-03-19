@@ -33,6 +33,8 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Install and Configuration
+- Software Development
+- Windows
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 

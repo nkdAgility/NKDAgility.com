@@ -38,12 +38,11 @@ tags:
 - Scrum Values
 - Agile Project Management
 - Transparency and Accountability
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
-- Leadership
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

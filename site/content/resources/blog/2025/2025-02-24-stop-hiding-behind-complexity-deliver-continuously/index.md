@@ -37,6 +37,7 @@ tags:
 - Value Delivery
 categories:
 - DevOps
+- Engineering Excellence
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 
 ---

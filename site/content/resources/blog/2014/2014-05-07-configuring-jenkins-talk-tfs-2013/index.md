@@ -32,6 +32,7 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
+- Continuous Integration
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png

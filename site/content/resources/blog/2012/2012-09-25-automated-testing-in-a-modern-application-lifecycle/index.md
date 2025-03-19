@@ -38,7 +38,6 @@ tags:
 - Operational Practices
 categories:
 - Engineering Excellence
-- DevOps
 preview: metro-automated-test-icon-4-4.png
 
 ---

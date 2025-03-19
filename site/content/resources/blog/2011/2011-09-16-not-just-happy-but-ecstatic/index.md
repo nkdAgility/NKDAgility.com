@@ -32,8 +32,7 @@ aliasesArchive:
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
 tags: []
-categories:
-- DevOps
+categories: []
 
 ---
 ![VS2008Upgraded_4](images/VS2008Upgraded_4-1-1.png "VS2008Upgraded_4")As a consultant I have customers. Unfortunately being a **consultant** rather than a **contractor** has the down side that I hardly ever here from my customers after my engagement ends.

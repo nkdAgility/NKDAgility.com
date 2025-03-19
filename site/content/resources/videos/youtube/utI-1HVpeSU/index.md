@@ -31,7 +31,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
+- Social Technologies
 
 ---
 ## Democracy vs. Dictatorship in Agile Leadership: Finding the Middle Ground 

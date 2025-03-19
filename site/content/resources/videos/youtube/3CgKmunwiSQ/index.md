@@ -35,11 +35,12 @@ tags:
 - Decision Making
 - People and Process
 - Decision Theory
+- Pragmatic Thinking
+- Personal
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Management
+categories: []
 
 ---
 ## **What Is Traditional Management?**

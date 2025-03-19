@@ -46,8 +46,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
-- Social Technologies
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

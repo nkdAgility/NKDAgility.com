@@ -29,8 +29,8 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - System Configuration
-categories:
-- Scrum
+- Pragmatic Thinking
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

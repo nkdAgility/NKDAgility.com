@@ -37,12 +37,12 @@ tags:
 - Agile Project Management
 - Scrum Master
 - Professional Scrum
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 
 ---
 ## The Art of Sprint Goal Creation

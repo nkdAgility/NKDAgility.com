@@ -29,6 +29,8 @@ tags:
 - Technical Mastery
 - Code and Complexity
 - News and Reviews
+- Technical Excellence
+- Engineering Practices
 categories:
 - Engineering Excellence
 preview: metro-event-128-link-1-1.png

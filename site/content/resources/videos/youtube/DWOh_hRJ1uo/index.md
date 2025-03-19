@@ -34,12 +34,12 @@ sitemap:
 tags:
 - People and Process
 - Scrum Master
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
-- Leadership
 
 ---
 **What is your best advice for becoming a Scrum Master outside software engineering?**

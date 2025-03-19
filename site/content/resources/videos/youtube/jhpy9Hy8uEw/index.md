@@ -39,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?

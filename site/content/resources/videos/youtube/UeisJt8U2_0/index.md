@@ -39,11 +39,13 @@ tags:
 - Agile Values and Principles
 - Agile Project Management
 - Agile Leadership
+- Software Development
+- Coaching
+- Personal
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

@@ -33,11 +33,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Coaching
 resourceTypes:
 - video
-categories:
-- Leadership
-- DevOps
+categories: []
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

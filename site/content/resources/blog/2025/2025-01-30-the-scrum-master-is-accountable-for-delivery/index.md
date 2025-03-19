@@ -41,7 +41,7 @@ tags:
 - Professional Scrum
 categories:
 - Scrum
-- Social Technologies
+- Leadership
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

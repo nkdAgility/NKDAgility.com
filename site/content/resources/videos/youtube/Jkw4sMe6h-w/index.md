@@ -31,9 +31,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Leadership
+categories: []
 
 ---
  Joanna Plaskonka talks about the difference between #agileleadership and traditional line #management. In a simple or complicated environment, traditional management has been a great solution, but as things become more complex, a different style of leadership is needed.

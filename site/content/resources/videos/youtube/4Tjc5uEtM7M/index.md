@@ -28,6 +28,8 @@ tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Install and Configuration
+- Software Development
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -36,10 +36,7 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
-- Scrum
-- Product Management
+categories: []
 
 ---
 **What is a product backlog?**

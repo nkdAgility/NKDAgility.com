@@ -38,6 +38,8 @@ aliases:
 - /resources/Rv0ZjvwYVy5
 categories:
 - Product Management
+- Social Technologies
+- Engineering Excellence
 tags:
 - Evidence Based Management
 - Experimentation

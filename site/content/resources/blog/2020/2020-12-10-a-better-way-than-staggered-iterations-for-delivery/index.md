@@ -37,6 +37,7 @@ tags:
 - Agile Product Management
 categories:
 - Scrum
+- Engineering Excellence
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

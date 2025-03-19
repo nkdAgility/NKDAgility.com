@@ -43,8 +43,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
-- Social Technologies
 
 ---
 In my opinion, it’s the whole ball game.

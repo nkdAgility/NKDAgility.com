@@ -39,8 +39,8 @@ tags:
 - Troubleshooting
 - Operational Practices
 - Code and Complexity
-categories:
-- DevOps
+- Release Management
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

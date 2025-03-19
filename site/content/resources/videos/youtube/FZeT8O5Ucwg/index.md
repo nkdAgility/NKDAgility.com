@@ -43,9 +43,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
-- Product Management
 
 ---
 In my journey as a Scrum trainer, I’ve often encountered a startling statistic: according to Forrester Research, around 81% of development shops claim to be agile. However, the reality is that many of these organisations are not being entirely truthful about their practices. This disconnect raises an important question: how can we discern genuine agility from mere lip service? 

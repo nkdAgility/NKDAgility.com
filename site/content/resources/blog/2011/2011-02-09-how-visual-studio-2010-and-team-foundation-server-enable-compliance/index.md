@@ -31,8 +31,8 @@ tags:
 - Product Delivery
 - Release Management
 - Modern Source Control
-categories:
-- Engineering Excellence
+- Pragmatic Thinking
+categories: []
 preview: metro-visual-studio-2010-128-link-30-30.png
 
 ---

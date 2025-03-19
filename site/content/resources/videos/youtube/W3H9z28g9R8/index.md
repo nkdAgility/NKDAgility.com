@@ -44,10 +44,7 @@ tags:
 - Team Motivation
 resourceTypes:
 - video
-categories:
-- Leadership
-- Social Technologies
-- Product Management
+categories: []
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

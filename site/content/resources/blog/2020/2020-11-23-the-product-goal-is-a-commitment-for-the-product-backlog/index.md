@@ -36,7 +36,7 @@ tags:
 - Product Owner
 categories:
 - Scrum
-- Social Technologies
+- Product Management
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 
 ---

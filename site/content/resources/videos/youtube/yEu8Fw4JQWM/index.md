@@ -37,10 +37,11 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Lean Thinking
+- Software Development
+- Lean Principles
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Kanban
 
 ---

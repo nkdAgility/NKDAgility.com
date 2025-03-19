@@ -35,10 +35,8 @@ tags:
 - Product Delivery
 - Operational Practices
 - Team Collaboration
-categories:
-- Social Technologies
-- DevOps
-- Engineering Excellence
+- Scaled Agile
+categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

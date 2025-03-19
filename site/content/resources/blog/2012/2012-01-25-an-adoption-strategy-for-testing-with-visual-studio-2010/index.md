@@ -26,8 +26,8 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Products and Books
-categories:
-- Social Technologies
+- Software Development
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

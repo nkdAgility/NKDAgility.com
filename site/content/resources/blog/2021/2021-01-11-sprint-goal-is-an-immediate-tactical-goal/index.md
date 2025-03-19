@@ -37,6 +37,7 @@ tags:
 - Agile Frameworks
 categories:
 - Scrum
+- Product Management
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

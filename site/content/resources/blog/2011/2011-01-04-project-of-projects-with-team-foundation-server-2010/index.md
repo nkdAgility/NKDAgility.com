@@ -27,10 +27,7 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Azure DevOps
-categories:
-- Engineering Excellence
-- DevOps
-- Social Technologies
+categories: []
 preview: metro-visual-studio-2010-128-link-8-8.png
 
 ---

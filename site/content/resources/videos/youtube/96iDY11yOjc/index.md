@@ -35,10 +35,13 @@ tags:
 - People and Process
 - Software Developers
 - Agile Philosophy
+- Coaching
+- Employee Engagement
+- Pragmatic Thinking
+- Personal
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

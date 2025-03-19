@@ -35,8 +35,7 @@ tags:
 - Products and Books
 - Pragmatic Thinking
 - Product Delivery
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

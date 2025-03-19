@@ -32,9 +32,7 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-categories:
-- Social Technologies
-- Scrum
+categories: []
 preview: metro-nwc-128-link-2-2.png
 
 ---

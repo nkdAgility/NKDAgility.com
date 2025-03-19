@@ -20,7 +20,6 @@ aliasesArchive:
 - /resources/newsletters/exclusive-webcast-2-agile
 categories:
 - Leadership
-- Social Technologies
 tags:
 - Events and Presentations
 - Agile Transformation
@@ -29,6 +28,8 @@ tags:
 - Organisational Agility
 - News and Reviews
 - Organisational Change
+- Enterprise Agility
+- Software Development
 
 ---
 **🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

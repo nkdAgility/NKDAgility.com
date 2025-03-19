@@ -30,8 +30,8 @@ tags:
 - Software Development
 - System Configuration
 - Practical Techniques and Tooling
-categories:
-- DevOps
+- Azure Pipelines
+categories: []
 
 ---
 If you are using Windows Server 2012 R2 to test out the new vNext build agent then you may run into an error where it could not load file or assembly while configuring Build vNext Agent.

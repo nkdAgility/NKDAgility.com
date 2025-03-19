@@ -20,8 +20,6 @@ aliasesArchive:
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 tags:
 - Continuous Learning
 - Discovery and Learning

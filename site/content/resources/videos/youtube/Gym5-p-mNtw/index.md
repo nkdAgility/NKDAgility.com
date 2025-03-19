@@ -44,7 +44,7 @@ resourceTypes:
 categories:
 - Engineering Excellence
 - Product Management
-- Social Technologies
+- DevOps
 
 ---
 Most organisations are blissfully unaware of the sheer amount of waste lurking within their systems. It’s staggering to think about the money they’re haemorrhaging simply because they lack a focus on engineering excellence. In the context of agile and business agility, we need to embrace a continuous mindset—continuous integration, continuous delivery, continuous feedback, and continuous testing. This dynamic nature of operations allows us to identify problems sooner, which means they’re smaller and easier to address. By doing so, we not only eliminate waste but also gather valuable data and telemetry that help us understand our processes better. This understanding is crucial for pinpointing problem areas and taking action before costs spiral out of control.

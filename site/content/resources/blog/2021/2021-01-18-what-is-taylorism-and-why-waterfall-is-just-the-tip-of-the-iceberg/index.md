@@ -45,8 +45,6 @@ tags:
 - Employee Engagement
 categories:
 - Leadership
-- Social Technologies
-- Product Management
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

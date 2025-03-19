@@ -31,8 +31,9 @@ tags:
 - Modern Source Control
 - Continuous Integration
 - Install and Configuration
-categories:
-- DevOps
+- Pragmatic Thinking
+- System Configuration
+categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

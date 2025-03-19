@@ -43,6 +43,7 @@ card:
   title: 'Sprint Review #1'
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Sprint Review
 - Agile Project Management

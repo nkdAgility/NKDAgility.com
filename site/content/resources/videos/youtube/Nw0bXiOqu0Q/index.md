@@ -41,8 +41,7 @@ tags:
 - Market Adaptability
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

@@ -43,7 +43,6 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
 - Social Technologies
 
 ---

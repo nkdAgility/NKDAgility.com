@@ -40,7 +40,6 @@ tags:
 - Agile Frameworks
 categories:
 - Scrum
-- Social Technologies
 preview: 1029723898-1-1.jpg
 
 ---

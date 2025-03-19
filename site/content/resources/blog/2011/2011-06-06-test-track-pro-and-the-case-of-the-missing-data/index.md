@@ -26,8 +26,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
-categories:
-- Engineering Excellence
+- Pragmatic Thinking
+categories: []
 
 ---
 [![ttp2011_1](images/ttp2011_1_thumb-6-6.gif "ttp2011_1")](http://blog.hinshelwood.com/files/2011/06/ttp2011_1.gif)

@@ -37,6 +37,7 @@ tags:
 - Business Agility
 - Enterprise Agility
 - Organisational Agility
+- Digital Transformation
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

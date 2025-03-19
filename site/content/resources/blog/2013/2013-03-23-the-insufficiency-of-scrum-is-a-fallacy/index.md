@@ -35,7 +35,6 @@ tags:
 - Pragmatic Thinking
 - Scrum Master
 categories:
-- Social Technologies
 - Engineering Excellence
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png

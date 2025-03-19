@@ -32,11 +32,11 @@ tags:
 - People and Process
 - Agile Project Management
 - Software Development
+- Pragmatic Thinking
+- Personal
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 **How does someone become an Agile consultant?**

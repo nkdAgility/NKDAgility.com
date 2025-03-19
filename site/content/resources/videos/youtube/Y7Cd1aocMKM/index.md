@@ -33,10 +33,10 @@ tags:
 - Remote Working
 - Agile Project Management
 - Team Collaboration
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.

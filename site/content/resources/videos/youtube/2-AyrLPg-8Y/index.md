@@ -43,8 +43,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself thinking about the importance of continuous learning and skill enhancement. Recently, I had the opportunity to participate in an evidence-based management class, and I can’t help but share how transformative this experience was for me and how it can be for you too.

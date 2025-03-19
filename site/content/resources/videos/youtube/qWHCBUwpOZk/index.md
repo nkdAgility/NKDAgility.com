@@ -39,6 +39,7 @@ tags:
 - Lean Thinking
 - Pragmatic Thinking
 - Value Delivery
+- Lean Principles
 resourceTypes:
 - video
 categories:

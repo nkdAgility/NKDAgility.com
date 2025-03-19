@@ -28,6 +28,9 @@ isShort: true
 tags:
 - Software Development
 - Practical Techniques and Tooling
+- Agile Frameworks
+- Operational Practices
+- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

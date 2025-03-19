@@ -38,9 +38,7 @@ tags:
 - Portfolio Management
 - Team Collaboration
 - Product Delivery
-categories:
-- Social Technologies
-- Scrum
+categories: []
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

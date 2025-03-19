@@ -32,11 +32,14 @@ tags:
 - People and Process
 - Operational Practices
 - Pragmatic Thinking
+- Lean
+- Software Development
+- Complexity Thinking
+- Systems Thinking
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
+categories: []
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

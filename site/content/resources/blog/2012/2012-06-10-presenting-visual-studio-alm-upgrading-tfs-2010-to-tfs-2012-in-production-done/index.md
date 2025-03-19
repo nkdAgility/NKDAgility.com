@@ -35,9 +35,10 @@ tags:
 - Application Lifecycle Management
 - Working Software
 - Software Developers
-categories:
-- Engineering Excellence
-- Social Technologies
+- Operational Practices
+- Pragmatic Thinking
+- Product Delivery
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

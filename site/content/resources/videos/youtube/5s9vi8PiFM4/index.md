@@ -30,12 +30,13 @@ sitemap:
 tags:
 - Agile Project Management
 - People and Process
+- Pragmatic Thinking
+- Software Development
+- Personal
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## The Missing Piece in My Initial Scrum Journey

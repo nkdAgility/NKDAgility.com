@@ -31,8 +31,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 How does scrum help leadership teams pick the most valuable work to focus on?

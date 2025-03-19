@@ -46,9 +46,7 @@ tags:
 - Practical Techniques and Tooling
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban

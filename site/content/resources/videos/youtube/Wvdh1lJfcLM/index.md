@@ -34,6 +34,9 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
+- Digital Transformation
+- Operational Practices
+- Troubleshooting
 resourceTypes:
 - video
 categories:

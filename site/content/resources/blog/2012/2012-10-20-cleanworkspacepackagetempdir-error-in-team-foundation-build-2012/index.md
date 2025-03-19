@@ -37,8 +37,9 @@ tags:
 - System Configuration
 - Technical Mastery
 - Azure DevOps
-categories:
-- Engineering Excellence
+- Technical Excellence
+- Windows
+categories: []
 preview: metro-problem-icon-6-6.png
 
 ---

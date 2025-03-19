@@ -31,8 +31,8 @@ tags:
 - Agile Philosophy
 - Organisational Change
 - People and Process
-categories:
-- Social Technologies
+- Organisational Culture
+categories: []
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---

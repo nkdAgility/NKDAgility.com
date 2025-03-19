@@ -32,9 +32,9 @@ tags:
 - Automated Testing
 - Product Delivery
 - Operational Practices
+- Windows
 categories:
 - DevOps
-- Engineering Excellence
 preview: metro-lab-5-5.png
 
 ---

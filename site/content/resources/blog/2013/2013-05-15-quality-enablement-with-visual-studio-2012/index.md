@@ -36,6 +36,7 @@ tags:
 - Engineering Practices
 categories:
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---

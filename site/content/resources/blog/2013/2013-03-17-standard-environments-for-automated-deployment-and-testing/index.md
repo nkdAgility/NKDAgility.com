@@ -36,6 +36,7 @@ tags:
 - Continuous Delivery
 categories:
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

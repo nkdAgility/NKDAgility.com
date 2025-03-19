@@ -44,7 +44,6 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
-- Social Technologies
 
 ---
 ## **What is Evidence-Based Management?**

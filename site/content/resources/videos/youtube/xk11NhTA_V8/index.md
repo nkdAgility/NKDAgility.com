@@ -33,6 +33,8 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - People and Process
+- Psychological Safety
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

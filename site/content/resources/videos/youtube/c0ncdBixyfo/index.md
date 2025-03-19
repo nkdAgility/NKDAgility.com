@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

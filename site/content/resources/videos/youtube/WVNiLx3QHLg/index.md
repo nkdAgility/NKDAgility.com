@@ -34,8 +34,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 **Why I love heirarchies of competence**

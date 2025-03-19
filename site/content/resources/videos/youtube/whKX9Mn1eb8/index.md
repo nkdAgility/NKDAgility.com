@@ -32,6 +32,7 @@ tags:
 - Product Delivery
 - Software Development
 - Practical Techniques and Tooling
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6

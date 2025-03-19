@@ -36,6 +36,8 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Agile Philosophy
+- Organisational Agility
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

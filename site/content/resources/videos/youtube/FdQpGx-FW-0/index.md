@@ -46,8 +46,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
-- Product Management
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

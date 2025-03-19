@@ -31,12 +31,11 @@ tags:
 - Agile Project Management
 - People and Process
 - Agile Transformation
+- Software Development
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## Scrum Master vs. Seasoned Agile Coach: What Sets Them Apart?

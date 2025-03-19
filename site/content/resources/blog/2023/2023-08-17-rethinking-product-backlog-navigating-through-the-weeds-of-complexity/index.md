@@ -41,8 +41,6 @@ tags:
 - Scrum Product Development
 categories:
 - Product Management
-- Social Technologies
-- Scrum
 preview: image-1.jpg
 
 ---

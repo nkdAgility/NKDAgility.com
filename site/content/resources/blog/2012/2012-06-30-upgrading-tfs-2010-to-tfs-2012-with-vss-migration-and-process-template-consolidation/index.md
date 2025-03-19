@@ -32,8 +32,9 @@ tags:
 - Release Management
 - Pragmatic Thinking
 - Modern Source Control
-categories:
-- Scrum
+- Azure DevOps
+- Windows
+categories: []
 
 ---
 Back in Seattle and another awesome engagement, this time with a local company to upgrade their version of TFS from 2010 to 2012 and migrate all of their legacy VSS databases. Additional they want to take advantage of the new team features of TFS 2012 and need to consolidate all of their team projects

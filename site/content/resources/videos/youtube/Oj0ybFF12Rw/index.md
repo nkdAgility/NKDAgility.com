@@ -40,7 +40,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## "Don't scale scrum" - A Common Refrain 

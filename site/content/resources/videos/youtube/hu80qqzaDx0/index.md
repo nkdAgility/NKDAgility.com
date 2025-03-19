@@ -32,13 +32,17 @@ tags:
 - Team Collaboration
 - Organisational Culture
 - Employee Engagement
+- Sociotechnical Systems
+- Evidence Based Leadership
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 In my journey through various organisations, I've come to realise a fundamental truth: the way we measure people profoundly influences their behaviour. This insight has been a game-changer for me, especially when navigating the complexities of team dynamics and organisational culture. 

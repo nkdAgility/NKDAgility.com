@@ -33,10 +33,10 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

@@ -33,8 +33,8 @@ tags:
 - Organisational Agility
 - News and Reviews
 - Market Adaptability
-categories:
-- DevOps
+- Digital Transformation
+categories: []
 preview: metro-new-normal-icon-28-28.png
 
 ---

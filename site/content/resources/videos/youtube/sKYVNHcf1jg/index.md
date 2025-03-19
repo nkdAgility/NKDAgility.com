@@ -29,14 +29,14 @@ isShort: false
 tags:
 - Personal
 - People and Process
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 Reflecting on My Worst Day as an Agile Consultant

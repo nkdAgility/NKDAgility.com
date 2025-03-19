@@ -33,12 +33,12 @@ tags:
 - Software Development
 - Agile Product Management
 - Agile Planning
+- Pragmatic Thinking
+- Software Developers
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

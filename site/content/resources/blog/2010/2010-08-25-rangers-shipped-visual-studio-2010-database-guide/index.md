@@ -29,9 +29,7 @@ tags:
 - Products and Books
 - Install and Configuration
 - Application Lifecycle Management
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

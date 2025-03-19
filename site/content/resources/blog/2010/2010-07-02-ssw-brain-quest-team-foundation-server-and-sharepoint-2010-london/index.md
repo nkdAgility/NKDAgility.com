@@ -33,10 +33,8 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Application Lifecycle Management
-categories:
-- DevOps
-- Engineering Excellence
-- Social Technologies
+- Product Delivery
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

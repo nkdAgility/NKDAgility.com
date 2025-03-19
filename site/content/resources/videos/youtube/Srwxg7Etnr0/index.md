@@ -36,13 +36,14 @@ tags:
 - Team Performance
 - Product Delivery
 - Pragmatic Thinking
-- Strategy
 - People and Process
 - Scrum Master
+- Software Development
 resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

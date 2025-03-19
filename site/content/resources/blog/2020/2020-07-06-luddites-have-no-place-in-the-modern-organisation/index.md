@@ -33,9 +33,9 @@ tags:
 - Agile Transformation
 - Business Agility
 - Resilience and Change
+- Enterprise Agility
 categories:
 - Leadership
-- Social Technologies
 preview: image-3-3-3.png
 
 ---

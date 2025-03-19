@@ -61,7 +61,6 @@ card:
   title: The Scrum Guide
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Transparency
 - Professional Scrum

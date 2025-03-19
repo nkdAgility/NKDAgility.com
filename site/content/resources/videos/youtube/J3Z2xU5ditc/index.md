@@ -27,7 +27,6 @@ preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
 duration: 436
 isShort: false
 tags:
-- Strategy
 - Agile Planning
 - Agile Project Management
 - Product Delivery
@@ -37,14 +36,15 @@ tags:
 - Agile Product Management
 - Agile Frameworks
 - People and Process
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Product Management
 
 ---
 One of the most pervasive myths I encounter in the world of Scrum is the notion that Agile means we can forgo planning altogether. This idea is not just misguided; it’s downright detrimental to the success of any Agile team. Let me clarify: Scrum is fundamentally about planning. 

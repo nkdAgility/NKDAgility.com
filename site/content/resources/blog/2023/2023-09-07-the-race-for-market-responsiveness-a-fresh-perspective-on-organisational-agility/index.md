@@ -37,8 +37,9 @@ tags:
 - Resilience and Change
 - Pragmatic Thinking
 - People and Process
-categories:
-- Social Technologies
+- Agile Philosophy
+- Agile Strategy
+categories: []
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

@@ -31,9 +31,7 @@ aliasesArchive:
 - /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-categories:
-- Social Technologies
-- Scrum
+categories: []
 preview: -1-1.jpg
 tags:
 - Events and Presentations

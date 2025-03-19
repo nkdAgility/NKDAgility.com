@@ -31,6 +31,9 @@ tags:
 - Automated Testing
 - Test Automation
 - Engineering Practices
+- Technical Excellence
+- Technical Mastery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +41,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

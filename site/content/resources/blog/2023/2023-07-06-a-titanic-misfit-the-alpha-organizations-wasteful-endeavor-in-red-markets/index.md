@@ -30,6 +30,8 @@ aliasesArchive:
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 tags:
 - Beta Codex
+- Lean Principles
+- Lean Thinking
 categories: []
 preview: image-1.jpg
 

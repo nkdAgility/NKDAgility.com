@@ -27,7 +27,8 @@ aliasesArchive:
 - /access-denied-user-needs-label-permission-in-tfs
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
-tags: []
+tags:
+- Troubleshooting
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

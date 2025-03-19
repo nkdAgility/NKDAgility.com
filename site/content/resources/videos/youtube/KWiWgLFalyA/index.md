@@ -35,12 +35,10 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Strategy
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 
 ---
 Scaling product development sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.

@@ -29,8 +29,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

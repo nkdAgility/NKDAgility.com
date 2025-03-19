@@ -29,10 +29,12 @@ aliasesArchive:
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags:
 - Software Development
+- Agile Project Management
+- Azure DevOps
+- Azure Boards
+- Pragmatic Thinking
 categories:
-- Social Technologies
 - Scrum
-- Product Management
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

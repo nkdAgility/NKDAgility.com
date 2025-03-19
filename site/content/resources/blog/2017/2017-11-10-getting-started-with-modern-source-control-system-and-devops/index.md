@@ -41,6 +41,7 @@ tags:
 - Continuous Delivery
 categories:
 - DevOps
+- Engineering Excellence
 preview: excellence-1-1.jpg
 
 ---

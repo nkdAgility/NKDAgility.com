@@ -40,7 +40,7 @@ card:
   title: Definition of Done (DoD)
 categories:
 - Scrum
-- Social Technologies
+- Engineering Excellence
 tags:
 - Increment
 - Transparency

@@ -45,7 +45,6 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

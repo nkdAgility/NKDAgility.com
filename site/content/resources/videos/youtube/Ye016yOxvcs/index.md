@@ -36,10 +36,10 @@ sitemap:
 tags:
 - Continuous Learning
 - Discovery and Learning
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## The Journey to Understanding

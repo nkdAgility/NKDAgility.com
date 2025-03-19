@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 tags:
 - Troubleshooting
+- Windows
 categories: []
 
 ---

@@ -45,7 +45,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

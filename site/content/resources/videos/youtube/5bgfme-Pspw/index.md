@@ -30,8 +30,7 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Leadership
+categories: []
 
 ---
 **Momentum**

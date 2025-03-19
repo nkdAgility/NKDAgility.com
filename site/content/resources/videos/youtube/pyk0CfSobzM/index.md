@@ -33,11 +33,13 @@ tags:
 - Software Development
 - Scrum Product Development
 - Agile Planning
+- Agile Frameworks
+- Pragmatic Thinking
+- Estimation
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams

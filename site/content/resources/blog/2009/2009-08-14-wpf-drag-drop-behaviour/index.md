@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/wpf-drag-drop-behaviour
 tags:
 - Software Development
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-5-1.png
 

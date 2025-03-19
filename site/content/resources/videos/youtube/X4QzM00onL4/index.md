@@ -32,11 +32,11 @@ tags:
 - Agile Strategy
 - Software Development
 - Organisational Agility
-- Strategy
 - Agile Leadership
 - Agile Product Management
 - People and Process
 - Organisational Culture
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/information-sync
 - /information-sync
 - /resources/blog/information-sync
-tags: []
+tags:
+- Windows
 categories: []
 preview: nakedalm-logo-128-link-6-6.png
 

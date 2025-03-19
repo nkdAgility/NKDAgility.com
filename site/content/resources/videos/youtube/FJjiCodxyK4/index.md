@@ -36,7 +36,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 
 ---
 **Why do you prefer agile consulting over agile coaching?**

@@ -25,9 +25,8 @@ aliasesArchive:
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
 - Events and Presentations
-categories:
-- Kanban
-- Social Technologies
+- Practical Techniques and Tooling
+categories: []
 preview: metro-UserGroup-128-2-2.png
 
 ---

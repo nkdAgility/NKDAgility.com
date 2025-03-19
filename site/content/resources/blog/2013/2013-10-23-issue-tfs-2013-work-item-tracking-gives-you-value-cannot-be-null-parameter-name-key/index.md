@@ -30,6 +30,7 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
+- Pragmatic Thinking
 categories: []
 
 ---

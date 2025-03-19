@@ -31,14 +31,14 @@ tags:
 - Agile Transformation
 - Organisational Culture
 - Agile Philosophy
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 In the realm of agility, one of the seven virtues that often gets overlooked is chastity. Now, before you raise an eyebrow, let me clarify: in our agile context, chastity is all about taking your time. It’s about resisting the urge to rush into the implementation of agile practices without fully understanding the implications of those changes within your organisation.

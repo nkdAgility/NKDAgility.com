@@ -33,11 +33,11 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 

@@ -34,6 +34,7 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Agile Transformation
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

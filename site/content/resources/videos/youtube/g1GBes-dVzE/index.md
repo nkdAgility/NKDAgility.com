@@ -31,10 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
+- Software Development
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

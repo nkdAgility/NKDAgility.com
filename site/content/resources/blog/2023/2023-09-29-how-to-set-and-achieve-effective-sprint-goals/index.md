@@ -40,7 +40,7 @@ tags:
 - Value Delivery
 categories:
 - Scrum
-- Social Technologies
+- Product Management
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

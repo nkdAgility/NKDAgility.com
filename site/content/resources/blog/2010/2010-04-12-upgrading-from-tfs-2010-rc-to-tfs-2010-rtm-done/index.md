@@ -32,9 +32,9 @@ tags:
 - Azure DevOps
 - Release Management
 - Application Lifecycle Management
+- Troubleshooting
 preview: metro-visual-studio-2010-128-link-36-36.png
-categories:
-- DevOps
+categories: []
 
 ---
 ![vs2010alm](images/09437a6f5f9c_A38D-vs2010alm_-34-34.png)Today is the big day, with the Launch of Visual Studio 2010 already done in Asia, and rolling around the world towards us, we are getting ready for the RTM.

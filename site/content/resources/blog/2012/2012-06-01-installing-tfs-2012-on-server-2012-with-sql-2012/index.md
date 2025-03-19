@@ -28,6 +28,7 @@ tags:
 - Windows
 - System Configuration
 - Practical Techniques and Tooling
+- Software Development
 categories: []
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 

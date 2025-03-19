@@ -38,6 +38,8 @@ tags:
 - People and Process
 - Scrum Product Development
 - Professional Scrum
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

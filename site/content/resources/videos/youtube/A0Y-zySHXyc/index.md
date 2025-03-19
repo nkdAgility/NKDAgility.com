@@ -36,12 +36,16 @@ tags:
 - Agile Product Management
 - Product Owner
 - Professional Scrum
+- Scrum Team
+- Personal
+- Pragmatic Thinking
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- Leadership
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

@@ -36,11 +36,10 @@ tags:
 - Pragmatic Thinking
 - Agile Transformation
 - Software Development
+- Coaching
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 How does Naked Agility select associate Scrum Trainers?

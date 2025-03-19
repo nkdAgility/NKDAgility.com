@@ -26,9 +26,7 @@ aliasesArchive:
 tags:
 - Software Development
 preview: metro-visual-studio-2010-128-link-4-4.png
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)

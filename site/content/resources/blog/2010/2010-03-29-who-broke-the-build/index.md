@@ -35,6 +35,9 @@ tags:
 - Practical Techniques and Tooling
 - Software Developers
 - Modern Source Control
+- Azure DevOps
+- Engineering Practices
+- Working Software
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

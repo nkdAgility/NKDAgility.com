@@ -32,7 +32,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Strategy
 - Agile Planning
 - People and Process
 - Strategic Goals
@@ -41,6 +40,7 @@ tags:
 - Software Development
 - Team Motivation
 - Agile Project Management
+- Agile Strategy
 resourceTypes:
 - video
 categories:

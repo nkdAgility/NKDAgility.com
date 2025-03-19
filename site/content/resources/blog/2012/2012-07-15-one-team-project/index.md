@@ -31,9 +31,8 @@ tags:
 - Software Development
 - Agile Project Management
 - Practical Techniques and Tooling
-categories:
-- Social Technologies
-- Scrum
+- Pragmatic Thinking
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

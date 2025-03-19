@@ -32,8 +32,8 @@ tags:
 - Deployment Frequency
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 

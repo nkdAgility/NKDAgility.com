@@ -31,9 +31,8 @@ tags:
 - People and Process
 - Team Performance
 categories:
-- Social Technologies
 - Engineering Excellence
-- DevOps
+- Social Technologies
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

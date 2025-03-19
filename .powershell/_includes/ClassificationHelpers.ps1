@@ -363,7 +363,7 @@ function Get-ClassificationOrderedList {
         [switch]$byLevel
     )
 
-    $filtered = $Classifications | Where-Object { $_.final_score -gt $minScore }
+    $filtered = $Classifications | Where-Object { $_.final_score -ge $minScore }
     $selected = @()
     if ($byLevel) {
         foreach ($level in $levels) {
