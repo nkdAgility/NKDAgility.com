@@ -43,9 +43,7 @@ tags:
 - People and Process
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Product Management
+categories: []
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

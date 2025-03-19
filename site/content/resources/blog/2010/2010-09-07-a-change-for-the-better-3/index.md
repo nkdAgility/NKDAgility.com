@@ -32,10 +32,10 @@ tags:
 - People and Process
 - Software Developers
 - Application Lifecycle Management
+- Pragmatic Thinking
+- Personal
 categories:
 - Scrum
-- Social Technologies
-- Engineering Excellence
 preview: metro-nwc-128-link-2-2.png
 
 ---

@@ -31,8 +31,7 @@ tags:
 - Events and Presentations
 - Personal
 - News and Reviews
-categories:
-- Social Technologies
+categories: []
 preview: clip_image001-1-2-2.jpg
 
 ---

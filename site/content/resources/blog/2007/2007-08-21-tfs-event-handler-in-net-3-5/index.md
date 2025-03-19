@@ -27,7 +27,8 @@ aliasesArchive:
 - /tfs-event-handler-in--net-3-5
 - /blog/tfs-event-handler-in--net-3-5
 - /resources/blog/tfs-event-handler-in-net-3-5
-tags: []
+tags:
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

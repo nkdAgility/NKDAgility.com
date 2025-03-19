@@ -27,11 +27,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Agile Coach vs. Professional Coach

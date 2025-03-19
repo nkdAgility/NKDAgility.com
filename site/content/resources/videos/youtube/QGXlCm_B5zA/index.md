@@ -35,6 +35,7 @@ tags:
 - Continuous Learning
 - Scrum Team
 - Agile Product Management
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +43,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
 
 ---

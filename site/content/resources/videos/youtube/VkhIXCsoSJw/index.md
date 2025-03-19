@@ -43,6 +43,7 @@ sitemap:
   priority: 0.6
 categories:
 - DevOps
+- Engineering Excellence
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

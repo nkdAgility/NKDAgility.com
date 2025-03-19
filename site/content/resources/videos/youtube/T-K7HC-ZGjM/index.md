@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Interpreting the Sprint Backlog

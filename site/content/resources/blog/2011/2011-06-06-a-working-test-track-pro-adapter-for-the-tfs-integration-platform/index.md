@@ -28,8 +28,8 @@ tags:
 - Practical Techniques and Tooling
 - Working Software
 - Install and Configuration
-categories:
-- Engineering Excellence
+- Technical Mastery
+categories: []
 
 ---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

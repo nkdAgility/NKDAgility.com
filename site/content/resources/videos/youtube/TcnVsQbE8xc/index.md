@@ -33,11 +33,12 @@ tags:
 - People and Process
 - Agile Project Management
 - Continuous Learning
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

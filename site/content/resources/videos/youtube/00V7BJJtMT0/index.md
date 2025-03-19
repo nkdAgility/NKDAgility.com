@@ -33,11 +33,12 @@ tags:
 - Software Developers
 - Software Development
 - Agile Philosophy
+- Systems Thinking
+- Market Adaptability
 resourceTypes:
 - video
 layout: video
-categories:
-- DevOps
+categories: []
 
 ---
 What is DevOps and how is it different to Agile?

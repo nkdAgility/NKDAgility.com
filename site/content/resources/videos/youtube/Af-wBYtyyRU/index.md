@@ -37,15 +37,14 @@ tags:
 - Value Delivery
 - Metrics and Learning
 - Decision Making
-- Strategy
 - Pragmatic Thinking
 - Product Delivery
 - Ability to Innovate
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 
 ---
 As a product owner, you’re essentially the mini-CEO of your product. You make critical decisions about which features to build and when, driving the success of your product. But how do you know which bets will pay off? How do you make informed decisions that steer your product toward success? This is where Evidence-Based Management (EBM) comes into play. It's a framework that helps product owners use real data to guide their decision-making and ensure they’re delivering maximum value.

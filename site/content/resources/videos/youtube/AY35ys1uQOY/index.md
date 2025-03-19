@@ -35,10 +35,10 @@ tags:
 - People and Process
 - Agile Planning
 - Scrum Product Development
+- Software Developers
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
 
 ---

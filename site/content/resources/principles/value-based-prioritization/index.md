@@ -25,13 +25,14 @@ card:
 categories:
 - Scrum
 - Product Management
-- Social Technologies
 tags:
 - Value Delivery
 - Product Backlog
 - Agile Product Management
 - Product Delivery
 - Product Owner
+- Agile Project Management
+- Scrum Product Development
 
 ---
 Value-based Prioritization: Focus on delivering value to the stakeholders. The product backlog is prioritized based on the value it delivers, and the Scrum team works on the highest-priority items first.

@@ -30,6 +30,9 @@ tags:
 - Engineering Practices
 - Technical Mastery
 - Automated Testing
+- Test Driven Development
+- Software Developers
+- Troubleshooting
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

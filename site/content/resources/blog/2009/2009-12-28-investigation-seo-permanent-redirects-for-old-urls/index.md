@@ -30,6 +30,8 @@ aliasesArchive:
 tags:
 - Windows
 - Practical Techniques and Tooling
+- Software Development
+- Troubleshooting
 categories: []
 preview: metro-sharepoint-128-link-4-4.png
 

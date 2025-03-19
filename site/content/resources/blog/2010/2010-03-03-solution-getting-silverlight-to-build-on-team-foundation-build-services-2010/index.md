@@ -32,9 +32,7 @@ tags:
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

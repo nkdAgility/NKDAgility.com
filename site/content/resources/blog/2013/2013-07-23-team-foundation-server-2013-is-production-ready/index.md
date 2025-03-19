@@ -29,9 +29,9 @@ tags:
 - Working Software
 - News and Reviews
 - Software Development
-categories:
-- Engineering Excellence
-- Social Technologies
+- Application Lifecycle Management
+- Pragmatic Thinking
+categories: []
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

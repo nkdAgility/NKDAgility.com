@@ -38,9 +38,7 @@ tags:
 - Agile Leadership
 resourceTypes:
 - video
-categories:
-- Leadership
-- Social Technologies
+categories: []
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

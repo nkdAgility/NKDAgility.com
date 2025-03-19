@@ -33,6 +33,7 @@ tags:
 - Agile Project Management
 - Discovery and Learning
 - Team Collaboration
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +43,6 @@ resourceTypes:
 categories:
 - Leadership
 - Social Technologies
-- Scrum
 
 ---
 In the ever-evolving landscape of agile training and DevOps, I recently had the pleasure of collaborating with Russell Miller, a seasoned product development specialist and scrum dad, during a live virtual classroom session focused on professional agile leadership. This experience not only reinforced my belief in the power of agile methodologies but also highlighted the unique advantages of virtual training in today’s world.

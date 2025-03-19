@@ -36,9 +36,7 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 What are some big red flags when hiring an agile consultant?

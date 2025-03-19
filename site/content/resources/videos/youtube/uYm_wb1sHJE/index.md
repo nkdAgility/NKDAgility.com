@@ -45,9 +45,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
-- Product Management
 
 ---
 ## 🚀 Demystifying the Sprint Review Workshop 

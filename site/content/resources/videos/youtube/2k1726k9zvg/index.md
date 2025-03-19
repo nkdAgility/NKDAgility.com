@@ -32,6 +32,9 @@ tags:
 - Agile Project Management
 - Scrum Team
 - Team Performance
+- Agile Frameworks
+- Pragmatic Thinking
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 When I’m asked about the difference between a newbie Scrum Master and a professional Scrum Master, I can’t help but feel that neither of those labels truly captures the essence of what it means to be a Scrum Master. In my experience, the term "newbie" implies a lack of competence, but that’s simply not the case. When you step into the role of a Scrum Master, you’ve already demonstrated a level of effectiveness within your team. You’re not just a novice; you’re taking on an important accountability that requires skill and understanding.

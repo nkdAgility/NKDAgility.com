@@ -41,9 +41,7 @@ tags:
 - Agile Leadership
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Leadership
+categories: []
 
 ---
 What would be an example of a great agile consulting outcome for a client?

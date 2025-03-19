@@ -21,7 +21,6 @@ aliasesArchive:
 - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Discovery and Learning
 - Continuous Learning

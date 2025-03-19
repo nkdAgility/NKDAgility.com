@@ -31,14 +31,16 @@ aliasesArchive:
 - /resources/blog/guidance-branching-for-each-sprint
 categories:
 - Scrum
-- Social Technologies
-- Engineering Excellence
 tags:
 - Software Development
 - Modern Source Control
 - Software Developers
 - Practical Techniques and Tooling
 - Scrum Product Development
+- Operational Practices
+- Agile Project Management
+- Technical Excellence
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

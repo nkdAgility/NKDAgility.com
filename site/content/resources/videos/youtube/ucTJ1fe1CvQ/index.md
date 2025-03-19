@@ -37,6 +37,7 @@ tags:
 - People and Process
 - Product Owner
 - Ability to Innovate
+- Sensemaking
 resourceTypes:
 - video
 categories:

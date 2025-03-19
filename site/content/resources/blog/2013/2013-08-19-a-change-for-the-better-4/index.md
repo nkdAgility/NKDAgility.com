@@ -32,9 +32,8 @@ aliasesArchive:
 tags:
 - Mentoring
 - Application Lifecycle Management
-categories:
-- Social Technologies
-- Scrum
+- Coaching
+categories: []
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

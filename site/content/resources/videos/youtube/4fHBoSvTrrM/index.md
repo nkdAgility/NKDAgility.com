@@ -36,12 +36,13 @@ tags:
 - Professional Scrum
 - People and Process
 - Scrum Team
+- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## PSM II: The Game-Changer for Scrum Masters

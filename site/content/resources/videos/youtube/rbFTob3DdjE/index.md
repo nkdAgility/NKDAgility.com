@@ -32,6 +32,7 @@ tags:
 - Scrum Master
 - Scrum Team
 - Products and Books
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +40,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
 
 ---

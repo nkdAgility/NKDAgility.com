@@ -40,8 +40,8 @@ tags:
 - Sociotechnical Systems
 - Transparency
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

@@ -40,7 +40,6 @@ tags:
 - Team Collaboration
 categories:
 - Scrum
-- Social Technologies
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

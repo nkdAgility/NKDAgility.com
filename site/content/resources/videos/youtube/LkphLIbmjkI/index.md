@@ -34,12 +34,11 @@ tags:
 - Software Developers
 - Agile Frameworks
 - Agile Project Management
+- Mentoring
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - DevOps
-- Scrum
 
 ---
 ## Limits of Professional Coaching

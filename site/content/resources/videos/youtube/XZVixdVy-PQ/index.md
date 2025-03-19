@@ -43,9 +43,7 @@ tags:
 - Agile Strategy
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Product Management
+categories: []
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

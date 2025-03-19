@@ -37,6 +37,7 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Software Developers
+- Azure Pipelines
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png

@@ -27,8 +27,9 @@ tags:
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-categories:
-- DevOps
+- Azure DevOps
+- Azure Pipelines
+categories: []
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

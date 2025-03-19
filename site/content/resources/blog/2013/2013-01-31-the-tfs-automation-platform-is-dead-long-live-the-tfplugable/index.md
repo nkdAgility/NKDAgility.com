@@ -34,9 +34,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-categories:
-- DevOps
-- Engineering Excellence
+- Software Development
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

@@ -33,10 +33,11 @@ tags:
 - Customer Feedback Loops
 - Metrics and Learning
 - Empirical Process Control
+- Coaching
+- Personal
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

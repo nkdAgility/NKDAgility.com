@@ -33,6 +33,7 @@ tags:
 - System Configuration
 - Software Development
 - Practical Techniques and Tooling
+- Azure DevOps
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

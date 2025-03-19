@@ -43,8 +43,6 @@ resourceTypes:
 layout: video
 categories:
 - Leadership
-- Product Management
-- Social Technologies
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

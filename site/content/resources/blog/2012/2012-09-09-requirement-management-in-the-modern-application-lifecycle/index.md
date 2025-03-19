@@ -32,8 +32,8 @@ tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Products and Books
-categories:
-- Product Management
+- Azure DevOps
+categories: []
 preview: metro-requirements-icon-14-14.png
 
 ---

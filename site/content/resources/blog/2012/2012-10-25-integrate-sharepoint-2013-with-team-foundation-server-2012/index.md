@@ -28,6 +28,7 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development
+- Windows
 categories: []
 preview: metro-sharepoint-128-link-25-25.png
 

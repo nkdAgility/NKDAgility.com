@@ -33,6 +33,7 @@ tags:
 - Practical Techniques and Tooling
 categories:
 - DevOps
+- Engineering Excellence
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
 

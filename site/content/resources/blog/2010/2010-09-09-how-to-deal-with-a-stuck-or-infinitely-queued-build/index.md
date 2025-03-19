@@ -30,6 +30,8 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Install and Configuration
+- Continuous Integration
+- Windows
 preview: metro-SSWLogo-128-link-11-11.png
 categories:
 - DevOps

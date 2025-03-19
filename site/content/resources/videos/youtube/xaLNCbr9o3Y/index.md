@@ -34,9 +34,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Kanban
+categories: []
 
 ---
 As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the Kanban community, about our upcoming Professional Scrum with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.

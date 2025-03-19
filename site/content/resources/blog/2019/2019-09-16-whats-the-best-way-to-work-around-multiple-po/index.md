@@ -40,6 +40,7 @@ tags:
 - Product Delivery
 categories:
 - Scrum
+- Product Management
 preview: 495173592-1-1.jpg
 
 ---

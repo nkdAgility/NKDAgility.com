@@ -32,9 +32,7 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories:
-- Engineering Excellence
-- Social Technologies
+categories: []
 
 ---
 The Process Template governs nearly all aspects of how the team interacts with Visual Studio and TFS (e.g., the structure and flow of work items). Whether a team has a well-established development process or needs to define one, proper template selection and practice are critical.

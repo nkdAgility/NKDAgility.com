@@ -38,10 +38,11 @@ tags:
 - People and Process
 - Agile Product Management
 - Agile Transformation
+- Software Development
+- Cycle Time
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.

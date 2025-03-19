@@ -26,6 +26,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
+- Windows
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-10-10.png
 categories: []
 

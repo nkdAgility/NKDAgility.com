@@ -34,11 +34,12 @@ tags:
 - Agile Project Management
 - Agile Leadership
 - Agile Transformation
+- Software Development
+- Organisational Agility
 resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 
 ---
 In what circumstances is agile consulting appropriate?

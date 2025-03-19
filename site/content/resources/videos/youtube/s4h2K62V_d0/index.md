@@ -35,6 +35,7 @@ tags:
 - Software Developers
 - Practical Techniques and Tooling
 - People and Process
+- Modern Source Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

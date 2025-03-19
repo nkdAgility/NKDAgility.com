@@ -27,6 +27,7 @@ duration: 204
 isShort: false
 tags:
 - Pragmatic Thinking
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

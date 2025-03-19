@@ -29,12 +29,12 @@ tags:
 - Transparency
 - Metrics and Learning
 - Operational Practices
-- Strategy
 - Pragmatic Thinking
 - Transparency and Accountability
 - Practical Techniques and Tooling
 - Flow Efficiency
 - People and Process
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Kanban
 
 ---
 One of the most pivotal aspects of a Caman strategy is the continuous improvement of our systems and workflows. After defining our workflow and documenting how we intend to operate, the next step is to actively monitor our ongoing work. This is where the magic happens; as we observe, we begin to identify patterns that can inform our decision-making.

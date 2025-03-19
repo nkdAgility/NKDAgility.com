@@ -29,8 +29,8 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-categories:
-- DevOps
+- Troubleshooting
+categories: []
 preview: image11-1-1.png
 
 ---

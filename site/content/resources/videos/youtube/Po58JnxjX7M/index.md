@@ -38,10 +38,10 @@ tags:
 - Agile Leadership
 - People and Process
 - Agile Philosophy
+- Organisational Agility
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.

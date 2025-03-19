@@ -32,9 +32,8 @@ tags:
 - Software Development
 - People and Process
 - Agile Philosophy
-categories:
-- Social Technologies
-- Scrum
+- Personal
+categories: []
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

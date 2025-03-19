@@ -32,10 +32,10 @@ tags:
 - Agile Philosophy
 - Agile Leadership
 - Organisational Agility
-- Strategy
 - Agile Values and Principles
 - Agile Project Management
 - Product Strategy
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,7 +46,6 @@ resourceTypes:
 categories:
 - Product Management
 - Social Technologies
-- Leadership
 
 ---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and strategic goals?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 

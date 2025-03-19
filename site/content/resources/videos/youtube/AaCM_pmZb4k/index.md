@@ -40,8 +40,7 @@ tags:
 - Organisational Change
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

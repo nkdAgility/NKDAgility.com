@@ -40,7 +40,6 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Social Technologies
 preview: 1026661500-1-1.jpg
 
 ---

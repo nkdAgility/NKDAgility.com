@@ -1468,11 +1468,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:00:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-19T18:43:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build processes and server setups, which are not central to Scrum, Kanban, Lean, or Agile methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of setting up build servers and the types of builds (Gate, CI, Nightly) necessary for code quality. While it touches on collaboration by mentioning how builds help multiple developers work together, it lacks a deeper exploration of social technologies, self-organisation, or collective intelligence. The discussion is more about technical processes than the underlying social frameworks that promote collaboration and decision-making within teams.",
     "level": "Ignored"
   },
   "Leadership": {

@@ -43,8 +43,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
-- Kanban
 - Social Technologies
 
 ---

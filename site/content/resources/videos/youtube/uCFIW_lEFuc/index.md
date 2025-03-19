@@ -45,9 +45,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
-- Product Management
 
 ---
 One of the seven deadly sins of Agile is sloth, and I’ve seen it manifest in various ways across teams, organisations, and leadership. It’s a pervasive issue that often goes unnoticed, yet it can severely hinder our progress towards true agility. 

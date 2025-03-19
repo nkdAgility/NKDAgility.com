@@ -32,12 +32,10 @@ sitemap:
 tags:
 - Agile Product Management
 - Software Development
+- Product Owner
 resourceTypes:
 - video
-categories:
-- Product Management
-- Scrum
-- Social Technologies
+categories: []
 
 ---
 ## Defining Roles in Agile

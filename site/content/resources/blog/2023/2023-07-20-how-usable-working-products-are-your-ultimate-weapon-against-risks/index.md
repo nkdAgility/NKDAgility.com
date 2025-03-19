@@ -36,7 +36,6 @@ tags:
 - Value Delivery
 - Pragmatic Thinking
 categories:
-- Social Technologies
 - Engineering Excellence
 - Product Management
 preview: image-1.jpg

@@ -44,7 +44,6 @@ sitemap:
 categories:
 - Engineering Excellence
 - DevOps
-- Social Technologies
 
 ---
 When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided. 

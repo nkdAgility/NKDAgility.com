@@ -32,8 +32,7 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## The Joy of Being a Scrum Developer

@@ -32,8 +32,7 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Management
+categories: []
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

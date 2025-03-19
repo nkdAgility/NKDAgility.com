@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Azure DevOps
 - Software Development
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

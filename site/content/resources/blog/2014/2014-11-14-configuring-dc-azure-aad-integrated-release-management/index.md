@@ -34,8 +34,7 @@ tags:
 - System Configuration
 - Technical Mastery
 - Software Development
-categories:
-- DevOps
+categories: []
 preview: nakedalm-windows-logo-22-22.png
 
 ---

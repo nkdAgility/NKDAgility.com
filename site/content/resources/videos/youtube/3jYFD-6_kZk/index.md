@@ -37,6 +37,7 @@ tags:
 - Install and Configuration
 - System Configuration
 - Operational Practices
+- Technical Mastery
 resourceTypes:
 - video
 layout: video

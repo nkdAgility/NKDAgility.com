@@ -31,9 +31,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

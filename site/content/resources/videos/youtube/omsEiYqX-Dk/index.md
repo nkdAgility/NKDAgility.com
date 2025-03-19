@@ -43,9 +43,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
-- Product Management
+- Social Technologies
 
 ---
 Organisational agility is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.

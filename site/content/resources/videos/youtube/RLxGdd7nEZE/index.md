@@ -33,9 +33,7 @@ tags:
 - Resilience and Change
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Leadership
+categories: []
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

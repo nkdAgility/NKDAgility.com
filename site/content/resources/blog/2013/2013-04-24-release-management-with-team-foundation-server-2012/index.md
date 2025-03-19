@@ -36,6 +36,7 @@ tags:
 - Deployment Frequency
 categories:
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

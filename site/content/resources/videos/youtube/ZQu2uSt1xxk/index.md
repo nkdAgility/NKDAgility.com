@@ -37,11 +37,10 @@ tags:
 - Agile Project Management
 - Value Delivery
 - Flow Efficiency
+- Lean Thinking
 resourceTypes:
 - video
-categories:
-- Kanban
-- Social Technologies
+categories: []
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

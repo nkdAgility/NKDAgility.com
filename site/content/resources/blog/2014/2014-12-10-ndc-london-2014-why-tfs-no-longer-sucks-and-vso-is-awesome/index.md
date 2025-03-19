@@ -34,8 +34,9 @@ tags:
 - Release Management
 - Azure DevOps
 - News and Reviews
-categories:
-- DevOps
+- Troubleshooting
+- Windows
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

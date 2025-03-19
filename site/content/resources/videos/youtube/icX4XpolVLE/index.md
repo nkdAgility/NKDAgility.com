@@ -45,6 +45,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Engineering Excellence
 
 ---
 When I first encountered DevOps as a developer at Merrill Lynch, I was already well-acquainted with the frustrations that led to its creation. My journey began in the early 2000s, working for what were then called New Media agencies—essentially web development companies. Back then, we were doing everything wrong. We deployed directly from our local machines and edited in production. Continuous integration was a concept that was just beginning to gain traction, but most of us were blissfully unaware of its potential. 

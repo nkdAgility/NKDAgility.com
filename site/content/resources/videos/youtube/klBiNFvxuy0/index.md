@@ -37,6 +37,8 @@ tags:
 - Scrum Product Development
 - Discovery and Learning
 - Scrum Master
+- Empirical Process Control
+- Software Development
 resourceTypes:
 - video
 categories:

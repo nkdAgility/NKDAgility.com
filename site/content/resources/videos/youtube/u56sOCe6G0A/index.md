@@ -42,11 +42,11 @@ tags:
 - Agile Project Management
 - Throughput
 - Pragmatic Thinking
+- Lean Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 ### Actively Managing Your Workflow in a Kanban Strategy

@@ -31,9 +31,9 @@ tags:
 - Software Development
 - Software Developers
 - Application Lifecycle Management
+- Product Delivery
 categories:
 - Engineering Excellence
-- Social Technologies
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

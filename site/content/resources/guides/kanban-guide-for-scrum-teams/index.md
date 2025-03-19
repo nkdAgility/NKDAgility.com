@@ -33,7 +33,7 @@ card:
   content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
   title: Kanban Guide for Scrum Teams
 categories:
-- Social Technologies
+- Kanban
 tags:
 - Software Development
 - Flow Efficiency

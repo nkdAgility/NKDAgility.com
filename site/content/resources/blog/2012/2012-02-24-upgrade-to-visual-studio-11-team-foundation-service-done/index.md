@@ -32,8 +32,8 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-categories:
-- DevOps
+- Software Development
+categories: []
 
 ---
 Jason Zander has just announced that the Visual Studio 11 & Visual Studio 11 Team Foundation Server Beta **will be available on the 29th February 2012**. I am really looking forward to this launch as it embodies the phrase “spit & polish” and really lowers the bar for entry into the Team Foundation Server world.

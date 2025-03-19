@@ -28,6 +28,7 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development
+- Windows
 categories: []
 preview: metro-visual-studio-2010-128-link-15-15.png
 

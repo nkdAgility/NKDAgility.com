@@ -31,6 +31,7 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

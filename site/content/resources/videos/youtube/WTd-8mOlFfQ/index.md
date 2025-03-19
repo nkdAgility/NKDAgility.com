@@ -38,11 +38,11 @@ tags:
 - Scrum Master
 - Scrum Team
 - People and Process
+- Software Development
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2

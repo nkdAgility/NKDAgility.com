@@ -45,6 +45,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Management
 
 ---
 The Sprint Review: Who Should Lead and Why It Matters

@@ -44,7 +44,6 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
-- Social Technologies
 
 ---
 Why do you think the PSU course has become so popular for product development?

@@ -40,6 +40,7 @@ tags:
 - Value Delivery
 categories:
 - Scrum
+- Product Management
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

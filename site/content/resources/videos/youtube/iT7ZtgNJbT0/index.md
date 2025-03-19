@@ -33,8 +33,7 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 **What was your best day as an Agile consultant?**

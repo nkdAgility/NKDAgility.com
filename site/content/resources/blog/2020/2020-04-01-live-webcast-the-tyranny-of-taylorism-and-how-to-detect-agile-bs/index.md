@@ -29,8 +29,7 @@ aliasesArchive:
 - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 tags:
 - People and Process
-categories:
-- Social Technologies
+categories: []
 preview: 2020-03-27_21-31-11-1-1.jpg
 
 ---

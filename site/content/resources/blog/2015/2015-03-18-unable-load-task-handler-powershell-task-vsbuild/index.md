@@ -34,6 +34,8 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
+- Azure Pipelines
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

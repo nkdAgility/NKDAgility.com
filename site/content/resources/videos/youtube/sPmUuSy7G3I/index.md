@@ -34,9 +34,9 @@ tags:
 - Scrum Product Development
 - Agile Frameworks
 - Pragmatic Thinking
-- Strategy
 - Agile Planning Tools
 - People and Process
+- Product Backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +45,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Product Management
 
 ---

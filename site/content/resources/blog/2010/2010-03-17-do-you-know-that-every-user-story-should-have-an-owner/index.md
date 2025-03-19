@@ -30,8 +30,8 @@ aliasesArchive:
 tags:
 - People and Process
 - Software Development
+- Agile Project Management
 categories:
-- Social Technologies
 - Scrum
 preview: metro-SSWLogo-128-link-4-4.png
 

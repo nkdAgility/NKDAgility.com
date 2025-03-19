@@ -41,9 +41,7 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 If you could teach just one thing about Scrum, what would it be?

@@ -38,8 +38,7 @@ tags:
 - People and Process
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 What is the most valuable thing you have learned through training people?

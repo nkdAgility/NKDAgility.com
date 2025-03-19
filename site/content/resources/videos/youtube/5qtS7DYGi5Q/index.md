@@ -38,8 +38,8 @@ tags:
 - Operational Practices
 - Customer Satisfaction
 - Evidence Based Management
-- Strategy
 - Value Delivery
+- Metrics and Learning
 resourceTypes:
 - video
 layout: video

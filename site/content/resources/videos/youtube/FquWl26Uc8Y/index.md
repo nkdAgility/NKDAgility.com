@@ -35,8 +35,7 @@ sitemap:
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 I've been in the trenches of software development long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just technical debt; that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.

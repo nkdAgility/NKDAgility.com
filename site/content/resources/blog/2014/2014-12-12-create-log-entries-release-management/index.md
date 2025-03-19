@@ -31,9 +31,8 @@ tags:
 - Windows
 - Troubleshooting
 - Practical Techniques and Tooling
-categories:
-- DevOps
-- Engineering Excellence
+- Software Development
+categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

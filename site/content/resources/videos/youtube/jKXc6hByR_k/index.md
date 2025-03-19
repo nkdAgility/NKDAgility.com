@@ -34,10 +34,7 @@ sitemap:
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Engineering Excellence
-- Leadership
+categories: []
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in engineering practices or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the coaching and advice you need to maximise your return on investment.

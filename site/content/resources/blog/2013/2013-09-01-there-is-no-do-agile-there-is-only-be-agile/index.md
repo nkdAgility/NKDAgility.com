@@ -39,9 +39,9 @@ tags:
 - Agile Strategy
 - Business Agility
 categories:
-- Social Technologies
 - Scrum
 - Leadership
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

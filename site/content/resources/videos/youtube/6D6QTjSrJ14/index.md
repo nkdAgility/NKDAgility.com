@@ -35,11 +35,11 @@ tags:
 - Discovery and Learning
 - People and Process
 - Customer Feedback Loops
+- Coaching
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

@@ -34,6 +34,8 @@ tags:
 - Pragmatic Thinking
 - Agile Project Management
 - Organisational Agility
+- Coaching
+- Team Collaboration
 resourceTypes:
 - video
 categories:

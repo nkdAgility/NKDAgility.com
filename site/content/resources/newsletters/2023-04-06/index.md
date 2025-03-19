@@ -20,7 +20,6 @@ aliasesArchive:
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Software Development
 - Agile Frameworks

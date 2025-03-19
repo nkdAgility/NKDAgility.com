@@ -39,9 +39,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Leadership
+categories: []
 
 ---
 When I think about Agile Consulting, I often find that it’s a term that can leave people scratching their heads. What does it really mean? Over the years, I’ve developed my own approach to Agile Consulting, and I’d like to share some insights from my experiences that might help clarify this nebulous concept.

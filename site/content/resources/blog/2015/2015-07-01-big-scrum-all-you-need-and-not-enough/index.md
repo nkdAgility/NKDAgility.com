@@ -40,8 +40,6 @@ tags:
 - Agile Transformation
 categories:
 - Scrum
-- Social Technologies
-- Engineering Excellence
 preview: clip_image003-3-3.png
 
 ---

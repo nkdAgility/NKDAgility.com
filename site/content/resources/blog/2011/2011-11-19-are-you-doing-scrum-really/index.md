@@ -39,7 +39,6 @@ tags:
 - News and Reviews
 - Software Developers
 categories:
-- Social Technologies
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png
 

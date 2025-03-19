@@ -41,7 +41,7 @@ tags:
 - Professional Scrum
 categories:
 - Scrum
-- Social Technologies
+- Engineering Excellence
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

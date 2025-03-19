@@ -37,6 +37,7 @@ tags:
 - Operational Practices
 - Transparency
 - People and Process
+- Software Development
 resourceTypes:
 - video
 categories: []

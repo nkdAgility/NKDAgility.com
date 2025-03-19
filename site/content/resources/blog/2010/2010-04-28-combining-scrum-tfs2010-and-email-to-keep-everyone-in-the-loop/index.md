@@ -37,8 +37,8 @@ tags:
 - Team Collaboration
 - Agile Project Management
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 categories:
-- Social Technologies
 - Scrum
 preview: metro-visual-studio-2005-128-link-1-1.png
 

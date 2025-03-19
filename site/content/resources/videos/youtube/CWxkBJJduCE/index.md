@@ -32,6 +32,7 @@ tags:
 - Test First Development
 - Test Driven Development
 - Technical Excellence
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

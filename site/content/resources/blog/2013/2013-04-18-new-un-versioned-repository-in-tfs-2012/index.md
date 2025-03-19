@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
-tags: []
+tags:
+- Software Development
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

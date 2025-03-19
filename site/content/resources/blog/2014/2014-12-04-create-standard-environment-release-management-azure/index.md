@@ -39,7 +39,6 @@ tags:
 - Events and Presentations
 categories:
 - DevOps
-- Engineering Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

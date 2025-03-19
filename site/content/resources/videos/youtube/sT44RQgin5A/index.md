@@ -45,6 +45,7 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
+- Engineering Excellence
 
 ---
 When we talk about _evidence-based management_ in Scrum, we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.

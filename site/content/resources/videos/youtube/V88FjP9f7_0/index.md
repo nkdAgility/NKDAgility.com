@@ -41,8 +41,7 @@ tags:
 - Agile Transformation
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

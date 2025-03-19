@@ -38,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Social Technologies
 
 ---
 When I think about DevOps, I often find myself reflecting on the misconceptions that surround it. As someone who has been a Microsoft MVP in Azure DevOps for 14 years, I’ve seen firsthand how the term "DevOps" can be misinterpreted. Many people, when they mention DevOps in my presence, are actually referring to Azure DevOps—the tools that come with it. But let me be clear: the tool is not the value. The tool is merely a means to surface or leverage the value that comes from the underlying idea of DevOps.

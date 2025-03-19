@@ -34,10 +34,10 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Continuous Learning
+- Complexity Thinking
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

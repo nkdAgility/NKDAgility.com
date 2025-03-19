@@ -44,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 - Product Management
 
 ---

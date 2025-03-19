@@ -29,6 +29,7 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

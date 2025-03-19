@@ -26,8 +26,8 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Products and Books
-categories:
-- DevOps
+- Software Development
+categories: []
 preview: image_thumb-1-1.png
 
 ---

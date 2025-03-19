@@ -28,9 +28,7 @@ aliasesArchive:
 - /blog/scrum-tapas--the-importance-of-professionalism
 - /resources/blog/scrum-tapas-importance-professionalism
 tags: []
-categories:
-- Social Technologies
-- Scrum
+categories: []
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 
 ---

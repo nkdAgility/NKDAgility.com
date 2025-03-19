@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 
 ---
 Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in product development. As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.

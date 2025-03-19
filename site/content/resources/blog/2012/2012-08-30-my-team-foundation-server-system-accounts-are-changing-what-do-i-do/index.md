@@ -32,6 +32,7 @@ tags:
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- Windows
 categories: []
 
 ---

@@ -34,19 +34,18 @@ tags:
 - Agile Transformation
 - Agile Strategy
 - Organisational Change
-- Strategy
 - People and Process
 - Agile Philosophy
 - Scaling Agility
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
+- Agile Values and Principles
 resourceTypes:
 - video
 layout: video
 categories:
 - Social Technologies
-- Product Management
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

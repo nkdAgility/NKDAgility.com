@@ -40,11 +40,11 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Development
+- Sociotechnical Systems
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀

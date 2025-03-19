@@ -19,9 +19,7 @@ aliases:
 aliasesArchive:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
-categories:
-- Scrum
-- Social Technologies
+categories: []
 tags: []
 
 ---

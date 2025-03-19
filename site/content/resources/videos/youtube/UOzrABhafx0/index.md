@@ -43,9 +43,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
-- Product Management
 
 ---
 In today's fast-paced Agile environments, effective product backlog management is key to ensuring teams stay focused, aligned, and efficient. Scrum.org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every Scrum team can benefit from.

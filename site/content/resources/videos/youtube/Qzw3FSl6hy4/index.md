@@ -37,15 +37,12 @@ tags:
 - Agile Product Management
 - Product Owner
 - Product Strategy
-- Strategy
 - Pragmatic Thinking
 - Strategic Goals
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
-- Scrum
 
 ---
 Product Discovery is a term that's often used in the world of product development, but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.

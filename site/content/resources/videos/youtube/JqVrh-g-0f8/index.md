@@ -36,10 +36,7 @@ tags:
 - Scrum Product Development
 resourceTypes:
 - video
-categories:
-- Product Management
-- Scrum
-- Social Technologies
+categories: []
 
 ---
 ## The Order of Product Backlogs

@@ -34,15 +34,14 @@ tags:
 - Scrum Product Development
 - Agile Transformation
 - Software Development
-- Strategy
 - Pragmatic Thinking
 - Professional Scrum
 - Large Scale Agility
 - Practical Techniques and Tooling
+- Agile Product Management
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
 
 ---

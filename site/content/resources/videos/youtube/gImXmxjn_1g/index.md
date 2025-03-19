@@ -30,13 +30,13 @@ duration: 376
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 As I reflect on my journey as an agile consultant, I often find myself thinking about the essential skills that can make or break your effectiveness in this role. Whether you're just starting out or looking to refine your approach, here are my top three tips for new agile consultants that I believe can set you on the right path.

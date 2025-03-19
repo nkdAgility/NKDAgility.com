@@ -32,9 +32,9 @@ tags:
 - Resilience and Change
 - People and Process
 - Events and Presentations
+- Pragmatic Thinking
 categories:
 - Scrum
-- Social Technologies
 preview: image-1-1-1.png
 
 ---

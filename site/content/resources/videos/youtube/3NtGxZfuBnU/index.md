@@ -34,11 +34,12 @@ tags:
 - Agile Transformation
 - Organisational Culture
 - Agile Strategy
+- Organisational Agility
+- Sociotechnical Systems
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
+categories: []
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

@@ -36,11 +36,10 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Agile Philosophy
+- Software Development
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

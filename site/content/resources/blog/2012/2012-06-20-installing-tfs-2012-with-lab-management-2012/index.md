@@ -32,6 +32,7 @@ tags:
 - Troubleshooting
 - Azure DevOps
 - Internal Developer Platform
+- Pragmatic Thinking
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-42-42.png

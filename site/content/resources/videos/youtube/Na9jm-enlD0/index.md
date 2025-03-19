@@ -36,12 +36,13 @@ tags:
 - Products and Books
 - Decision Making
 - Agile Product Management
+- Agile Leadership
 resourceTypes:
 - video
 categories:
 - Product Management
 - Leadership
-- Social Technologies
+- Scrum
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

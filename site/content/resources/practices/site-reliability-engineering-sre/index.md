@@ -31,7 +31,6 @@ card:
   title: Site Reliability Engineering (SRE)
 categories:
 - DevOps
-- Engineering Excellence
 tags: []
 
 ---

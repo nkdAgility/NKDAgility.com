@@ -47,7 +47,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 

@@ -37,7 +37,6 @@ tags:
 - Agile Frameworks
 categories:
 - Product Management
-- Social Technologies
 - Scrum
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 

@@ -32,9 +32,9 @@ tags:
 - News and Reviews
 - Agile Project Management
 - Software Development
+- Agile Frameworks
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

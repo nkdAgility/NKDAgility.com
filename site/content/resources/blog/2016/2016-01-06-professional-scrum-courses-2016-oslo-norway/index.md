@@ -37,10 +37,9 @@ tags:
 - Professional Scrum
 - Software Developers
 - Products and Books
+- Practical Techniques and Tooling
 categories:
-- Social Technologies
 - Scrum
-- DevOps
 preview: clip_image001-1-1.jpg
 
 ---

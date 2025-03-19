@@ -32,6 +32,7 @@ tags:
 - Agile Frameworks
 - People and Process
 - Flow Efficiency
+- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

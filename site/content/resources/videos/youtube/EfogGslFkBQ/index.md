@@ -43,8 +43,7 @@ tags:
 - Agile Planning
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

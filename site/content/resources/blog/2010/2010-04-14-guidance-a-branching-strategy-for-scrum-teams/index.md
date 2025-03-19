@@ -40,8 +40,6 @@ tags:
 - Product Delivery
 categories:
 - Scrum
-- Social Technologies
-- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

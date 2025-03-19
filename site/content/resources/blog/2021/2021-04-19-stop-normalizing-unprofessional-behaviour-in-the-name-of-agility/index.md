@@ -36,9 +36,7 @@ tags:
 - Software Developers
 - Team Performance
 categories:
-- Social Technologies
 - Scrum
-- Leadership
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---

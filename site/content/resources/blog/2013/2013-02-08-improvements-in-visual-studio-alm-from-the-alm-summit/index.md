@@ -29,10 +29,8 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Events and Presentations
-categories:
-- Kanban
-- Social Technologies
-- Engineering Excellence
+- Azure DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

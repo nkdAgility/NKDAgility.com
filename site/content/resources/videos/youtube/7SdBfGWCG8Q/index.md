@@ -36,12 +36,15 @@ tags:
 - People and Process
 - Agile Project Management
 - Coaching
+- Agile Frameworks
+- Pragmatic Thinking
+- Employee Engagement
+- Organisational Culture
 resourceTypes:
 - video
 layout: video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a Scrum Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.

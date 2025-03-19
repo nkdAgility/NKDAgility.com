@@ -45,7 +45,6 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

@@ -43,9 +43,7 @@ tags:
 - Agile Transformation
 resourceTypes:
 - video
-categories:
-- Scrum
-- Social Technologies
+categories: []
 
 ---
 **Worst agile advice you've ever heard?**

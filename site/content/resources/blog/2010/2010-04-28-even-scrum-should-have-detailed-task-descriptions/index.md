@@ -26,8 +26,9 @@ aliasesArchive:
 tags:
 - Software Development
 - People and Process
+- Agile Frameworks
+- Agile Project Management
 categories:
-- Social Technologies
 - Scrum
 preview: metro-sharepoint-128-link-1-1.png
 

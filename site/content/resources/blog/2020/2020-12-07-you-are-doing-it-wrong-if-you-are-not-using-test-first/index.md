@@ -37,8 +37,6 @@ tags:
 - Operational Practices
 categories:
 - Engineering Excellence
-- Social Technologies
-- DevOps
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

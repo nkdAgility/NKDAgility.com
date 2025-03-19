@@ -32,9 +32,9 @@ tags:
 - Technical Mastery
 - Install and Configuration
 - Working Software
+- Technical Excellence
 preview: metro-visual-studio-2005-128-link-4-4.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image.png)I have recently been working on a TFS Integration Platform Adapter for integrating with Test Track Pro. The problem with TTP is that it does not contain any history.

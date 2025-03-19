@@ -31,9 +31,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Leadership
-- Social Technologies
+categories: []
 
 ---
 **No go zone for Agile consultants**

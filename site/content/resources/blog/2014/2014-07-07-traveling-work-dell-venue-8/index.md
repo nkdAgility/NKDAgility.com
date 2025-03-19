@@ -27,7 +27,8 @@ aliasesArchive:
 - /traveling-for-work-and-the-dell-venue-8
 - /blog/traveling-for-work-and-the-dell-venue-8
 - /resources/blog/traveling-work-dell-venue-8
-tags: []
+tags:
+- Windows
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

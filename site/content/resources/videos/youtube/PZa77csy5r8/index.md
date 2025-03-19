@@ -34,6 +34,8 @@ tags:
 - Value Delivery
 - Software Developers
 - Technical Excellence
+- Operational Practices
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

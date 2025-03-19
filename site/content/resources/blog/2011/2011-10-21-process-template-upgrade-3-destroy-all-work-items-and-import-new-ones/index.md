@@ -33,9 +33,9 @@ tags:
 - Software Development
 - Azure DevOps
 - System Configuration
+- Operational Practices
 preview: metro-visual-studio-2005-128-link-5-5.png
-categories:
-- Scrum
+categories: []
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

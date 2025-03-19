@@ -41,7 +41,7 @@ card:
   title: Sprint Review Recipe
 categories:
 - Scrum
-- Social Technologies
+- Product Management
 tags:
 - Sprint Review
 - Software Development

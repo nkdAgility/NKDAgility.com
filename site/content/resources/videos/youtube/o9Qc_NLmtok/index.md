@@ -31,9 +31,7 @@ tags:
 - Discovery and Learning
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement

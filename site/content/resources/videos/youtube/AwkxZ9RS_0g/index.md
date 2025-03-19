@@ -31,11 +31,10 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - People and Process
+- Personal
 resourceTypes:
 - video
-categories:
-- DevOps
-- Social Technologies
+categories: []
 
 ---
 ## Synergy Between Consulting and Training

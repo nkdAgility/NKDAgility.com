@@ -43,6 +43,8 @@ tags:
 - Agile Transformation
 categories:
 - Scrum
+- Engineering Excellence
+- DevOps
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

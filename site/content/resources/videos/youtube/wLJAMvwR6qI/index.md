@@ -33,6 +33,7 @@ tags:
 - Product Discovery
 - Decision Making
 - Pragmatic Thinking
+- Lean Startup
 sitemap:
   filename: sitemap.xml
   priority: 0.6

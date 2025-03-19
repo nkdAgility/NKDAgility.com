@@ -37,14 +37,15 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Agile Project Management
-- Strategy
 - Transparency and Accountability
 - Accountability
 - Agile Strategy
+- Scrum Team
 resourceTypes:
 - video
 categories:
 - Scrum
+- Product Management
 
 ---
 ## Decoding the Role of the Product Owner

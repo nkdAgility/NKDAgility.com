@@ -28,7 +28,6 @@ card:
 categories:
 - Product Management
 - Engineering Excellence
-- DevOps
 tags:
 - Metrics and Learning
 - Operational Practices

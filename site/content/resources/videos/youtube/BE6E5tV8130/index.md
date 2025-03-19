@@ -41,9 +41,7 @@ tags:
 - Empirical Process Control
 resourceTypes:
 - video
-categories:
-- Product Management
-- Social Technologies
+categories: []
 
 ---
 How is agile product development different to waterfall project management?

@@ -36,11 +36,11 @@ tags:
 - Agile Project Management
 - Operational Practices
 - Software Development
-- Strategy
 - Agile Frameworks
 - Pragmatic Thinking
 - Transparency and Accountability
 - People and Process
+- Agile Product Management
 resourceTypes:
 - video
 categories:

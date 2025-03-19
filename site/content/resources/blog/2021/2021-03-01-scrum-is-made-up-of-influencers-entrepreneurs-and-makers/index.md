@@ -39,8 +39,6 @@ tags:
 - Product Delivery
 categories:
 - Leadership
-- Social Technologies
-- Product Management
 preview: image-4-5-5.png
 
 ---

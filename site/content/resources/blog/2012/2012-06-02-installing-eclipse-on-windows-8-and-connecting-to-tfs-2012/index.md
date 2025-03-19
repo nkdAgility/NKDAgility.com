@@ -28,6 +28,7 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- Software Development
 categories: []
 preview: nakedalm-experts-visual-studio-alm-12-12.png
 

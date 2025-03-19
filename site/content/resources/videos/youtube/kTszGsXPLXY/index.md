@@ -39,10 +39,12 @@ tags:
 - Agile Project Management
 - Metrics and Learning
 - People and Process
+- Lean Thinking
+- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Kanban
 
 ---

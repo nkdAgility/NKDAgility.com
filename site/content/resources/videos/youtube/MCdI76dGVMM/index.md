@@ -34,10 +34,10 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
+- Software Development
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Navigating the Journey to Professionalism in the Agile World

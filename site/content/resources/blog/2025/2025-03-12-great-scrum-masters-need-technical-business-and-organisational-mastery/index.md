@@ -21,7 +21,8 @@ aliasesArchive:
 - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
 categories:
 - Scrum
-- Social Technologies
+- Product Management
+- Engineering Excellence
 tags:
 - Agile Project Management
 - Scrum Team

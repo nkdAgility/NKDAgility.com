@@ -31,8 +31,8 @@ tags:
 - Troubleshooting
 - Software Development
 - Practical Techniques and Tooling
-categories:
-- DevOps
+- Pragmatic Thinking
+categories: []
 preview: naked-alm-jenkins-logo-2-2.png
 
 ---

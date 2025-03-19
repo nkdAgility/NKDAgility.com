@@ -40,9 +40,7 @@ tags:
 - Agile Project Management
 - Product Delivery
 categories:
-- Social Technologies
 - Scrum
-- Engineering Excellence
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

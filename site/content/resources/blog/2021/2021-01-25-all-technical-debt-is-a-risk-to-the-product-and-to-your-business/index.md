@@ -37,8 +37,6 @@ tags:
 - Code and Complexity
 categories:
 - Engineering Excellence
-- Scrum
-- Product Management
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

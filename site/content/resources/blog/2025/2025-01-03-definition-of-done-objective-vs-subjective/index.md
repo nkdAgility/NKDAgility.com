@@ -36,7 +36,8 @@ tags:
 - Pragmatic Thinking
 categories:
 - Scrum
-- Social Technologies
+- Product Management
+- Engineering Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

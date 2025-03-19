@@ -28,7 +28,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 categories:
-- Social Technologies
 - Scrum
 
 ---

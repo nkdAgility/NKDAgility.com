@@ -30,6 +30,7 @@ tags:
 - Agile Leadership
 categories:
 - Leadership
+- Scrum
 preview: image-2-2.png
 
 ---

@@ -44,8 +44,6 @@ tags:
 - Working Software
 categories:
 - DevOps
-- Engineering Excellence
-- Scrum
 preview: metro-event-icon-7-7.png
 
 ---

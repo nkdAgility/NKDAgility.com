@@ -25,8 +25,7 @@ aliasesArchive:
 - /resources/blog/alm-events-and-public-courses-in-2015-q2
 tags:
 - Events and Presentations
-categories:
-- DevOps
+categories: []
 preview: metro-event-icon-1-1.png
 
 ---

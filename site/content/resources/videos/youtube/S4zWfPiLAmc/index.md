@@ -36,7 +36,6 @@ sitemap:
 tags:
 - Throughput
 - Metrics and Learning
-- Strategy
 - Software Development
 - Operational Practices
 - Transparency
@@ -44,11 +43,11 @@ tags:
 - Practical Techniques and Tooling
 - Evidence Based Leadership
 - Flow Efficiency
+- Transparency and Accountability
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

@@ -39,8 +39,8 @@ tags:
 - Software Developers
 - People and Process
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

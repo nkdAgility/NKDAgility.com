@@ -30,6 +30,7 @@ tags:
 - People and Process
 - Technical Leadership
 - Technical Mastery
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

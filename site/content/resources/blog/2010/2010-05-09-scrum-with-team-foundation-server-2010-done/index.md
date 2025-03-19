@@ -27,9 +27,9 @@ tags:
 - Events and Presentations
 - Software Development
 - Agile Project Management
+- Agile Frameworks
 categories:
 - Scrum
-- Social Technologies
 preview: metro-event-128-link-3-3.png
 
 ---

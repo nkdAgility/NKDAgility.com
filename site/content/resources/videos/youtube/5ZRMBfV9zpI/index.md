@@ -34,6 +34,7 @@ tags:
 - Continuous Learning
 - Agile Frameworks
 - Scrum Team
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

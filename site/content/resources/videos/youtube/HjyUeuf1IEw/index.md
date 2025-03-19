@@ -34,9 +34,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous forecasting, which I discussed with Daniel Vacanti during our recent Professional Scrum with Kanban class.

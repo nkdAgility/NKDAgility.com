@@ -32,6 +32,8 @@ tags:
 - Organisational Change
 - Agile Transformation
 - Change Management
+- Pragmatic Thinking
+- Resilience and Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6

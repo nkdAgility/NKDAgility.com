@@ -42,8 +42,6 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

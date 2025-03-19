@@ -36,8 +36,7 @@ tags:
 - Troubleshooting
 - Release Management
 - Pragmatic Thinking
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---

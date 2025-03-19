@@ -30,10 +30,7 @@ tags:
 - Software Development
 - Agile Philosophy
 - People and Process
-categories:
-- Social Technologies
-- Engineering Excellence
-- Scrum
+categories: []
 preview: clip_image001-2-2.png
 
 ---

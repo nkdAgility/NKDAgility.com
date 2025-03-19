@@ -38,7 +38,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

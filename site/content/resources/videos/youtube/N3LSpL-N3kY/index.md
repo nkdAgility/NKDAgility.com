@@ -33,9 +33,7 @@ tags:
 - Products and Books
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## The Product Owner Journey

@@ -40,7 +40,6 @@ tags:
 - Pragmatic Thinking
 categories:
 - DevOps
-- Engineering Excellence
 preview: clip_image004-4-4.png
 
 ---

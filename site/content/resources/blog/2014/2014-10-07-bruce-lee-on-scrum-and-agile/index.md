@@ -27,9 +27,8 @@ tags:
 - Agile Philosophy
 - People and Process
 - Agile Transformation
-categories:
-- Social Technologies
-- Scrum
+- Organisational Agility
+categories: []
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

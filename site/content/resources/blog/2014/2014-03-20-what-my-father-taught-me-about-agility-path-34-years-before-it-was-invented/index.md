@@ -40,7 +40,6 @@ tags:
 - Ability to Innovate
 categories:
 - Product Management
-- Social Technologies
 - Scrum
 preview: nakedalm-agility-index-7-7.png
 

@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Engineering Excellence
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

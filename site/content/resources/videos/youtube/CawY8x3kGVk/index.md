@@ -48,7 +48,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 # Scrum and Micromanagement: Dispelling the Myth 🚀

@@ -40,7 +40,8 @@ tags:
 - Technical Mastery
 categories:
 - Scrum
-- Social Technologies
+- Engineering Excellence
+- DevOps
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

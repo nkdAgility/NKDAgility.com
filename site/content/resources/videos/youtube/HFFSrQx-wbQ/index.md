@@ -31,14 +31,16 @@ tags:
 - Business Agility
 - Agile Values and Principles
 - Organisational Culture
+- Agile Project Management
+- Software Development
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 In my journey through the world of Agile, I've often encountered what I like to call the "plagues" of agility. One of the most insidious of these is the tendency for teams to become overly attached to their tools and processes. This fixation can be detrimental, stifling the very essence of what it means to be agile. 

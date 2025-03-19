@@ -39,9 +39,7 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories:
-- Scrum
-- Social Technologies
+categories: []
 
 ---
 ## Product Owner's Misstep

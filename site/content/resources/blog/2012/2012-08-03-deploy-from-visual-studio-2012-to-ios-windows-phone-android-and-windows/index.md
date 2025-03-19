@@ -36,9 +36,8 @@ tags:
 - Working Software
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-categories:
-- DevOps
-- Engineering Excellence
+- Windows
+categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

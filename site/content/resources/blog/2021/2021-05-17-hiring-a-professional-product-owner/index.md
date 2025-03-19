@@ -52,6 +52,7 @@ tags:
 - Product Backlog
 categories:
 - Scrum
+- Product Management
 preview: image-3-3.png
 
 ---

@@ -34,11 +34,10 @@ tags:
 - People and Process
 - Agile Project Management
 - Software Developers
+- Personal
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
-- Social Technologies
+categories: []
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

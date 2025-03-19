@@ -43,10 +43,7 @@ tags:
 - Agile Strategy
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Product Management
-- Leadership
+categories: []
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

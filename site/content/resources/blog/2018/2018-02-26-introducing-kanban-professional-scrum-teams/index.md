@@ -39,9 +39,7 @@ tags:
 - News and Reviews
 - Flow Efficiency
 categories:
-- Social Technologies
 - Kanban
-- Scrum
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

@@ -40,7 +40,6 @@ layout: video
 categories:
 - Leadership
 - Scrum
-- Social Technologies
 
 ---
 ## Ascending the Leadership Ladder

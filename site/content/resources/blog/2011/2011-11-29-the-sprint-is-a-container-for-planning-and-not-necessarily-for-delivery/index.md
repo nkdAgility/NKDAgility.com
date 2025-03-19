@@ -36,8 +36,8 @@ tags:
 - Frequent Releases
 categories:
 - DevOps
-- Social Technologies
 - Engineering Excellence
+- Scrum
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

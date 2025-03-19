@@ -32,9 +32,9 @@ tags:
 - Software Development
 - People and Process
 - Scrum Team
+- Agile Frameworks
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

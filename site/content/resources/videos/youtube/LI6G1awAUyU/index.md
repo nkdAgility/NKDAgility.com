@@ -34,6 +34,8 @@ tags:
 - People and Process
 - Product Delivery
 - Value Delivery
+- Organisational Agility
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

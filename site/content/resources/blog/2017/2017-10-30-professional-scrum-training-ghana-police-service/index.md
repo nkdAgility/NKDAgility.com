@@ -39,8 +39,8 @@ tags:
 - Practical Techniques and Tooling
 - Events and Presentations
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: clip_image006_thumb-3-3.jpg
 
 ---

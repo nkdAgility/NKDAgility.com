@@ -36,10 +36,9 @@ tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Product Delivery
-categories:
-- Engineering Excellence
-- Social Technologies
-- DevOps
+- Operational Practices
+- Pragmatic Thinking
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

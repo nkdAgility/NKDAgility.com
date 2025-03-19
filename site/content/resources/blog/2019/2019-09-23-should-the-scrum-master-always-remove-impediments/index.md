@@ -37,6 +37,7 @@ tags:
 - Pragmatic Thinking
 - Scrum Product Development
 - Team Performance
+- Agile Frameworks
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg

@@ -32,6 +32,8 @@ tags:
 - People and Process
 - Agile Philosophy
 - Value Delivery
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 Scrum and the Myth of "Twice the Work in Half the Time"

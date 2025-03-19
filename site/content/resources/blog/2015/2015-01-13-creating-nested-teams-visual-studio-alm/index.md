@@ -32,8 +32,7 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
-categories:
-- Kanban
+categories: []
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

@@ -31,8 +31,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 ## The essence of a Product is 'The Vision'

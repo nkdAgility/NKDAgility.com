@@ -34,8 +34,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 Negotiation is a skill that often gets overlooked in the realm of product ownership, yet it is absolutely crucial. As I reflect on my journey, I can’t stress enough how vital it is to master this art, whether you’re negotiating with stakeholders, team members, or even your children about bedtime. 

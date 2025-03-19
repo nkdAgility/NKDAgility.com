@@ -31,8 +31,7 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?
