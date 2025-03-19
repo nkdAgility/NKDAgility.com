@@ -15,3 +15,9 @@
 .two-column-text p {
   break-before: avoid;
 }
+
+@media (max-width: 768px) {
+  .two-column-text {
+    column-count: 1; /* Single column on smaller screens */
+  }
+}
