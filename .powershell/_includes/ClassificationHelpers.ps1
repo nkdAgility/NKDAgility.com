@@ -27,11 +27,13 @@ function Get-CatalogHashtable {
     return $catalogHash
 }
 
+
 $catalogues = @{}
 $catalogues["catalog"] = @{}
 $catalogues["catalog"]["categories"] = Get-CatalogHashtable -Classification "categories"
 $catalogues["catalog"]["tags"] = Get-CatalogHashtable -Classification "tags"
-$catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"]
+$catalogues["catalog"]["classification-types"] = Get-CatalogHashtable -Classification "classification-types"
+$catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"] + $catalogues["catalog"]["classification-types"]
 $catalogues["marketing"] = Get-CatalogHashtable -Classification "marketing"
 
 function Get-ClassificationsForType {
@@ -53,7 +55,7 @@ function Get-ClassificationsForType {
     Write-InfoLog "   Populating Catalogues"
     $catalog = @{}    
     switch ($ClassificationType) {
-        { $_ -in "categories", "tags" } {
+        { $_ -in "categories", "tags", "classification-types" } {
             $catalog = $catalogues["catalog"][$ClassificationType]
             $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
@@ -265,7 +267,8 @@ function Get-ClassificationsForType {
 
                 do not wrap the json in anything else, just return the json object.
 
-                **Content Title:** "$($hugoMarkdown.FrontMatter.Title)"  
+                **Content Title:** "$($hugoMarkdown.FrontMatter.Title)"
+                **Content Description:** "$($hugoMarkdown.FrontMatter.Description)"
                 **Content:** "$($hugoMarkdown.BodyContent)"
 "@
             $prompts += $prompt

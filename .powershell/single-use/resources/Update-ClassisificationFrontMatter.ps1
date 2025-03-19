@@ -10,9 +10,10 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Get list of directories and select the first 10
-$classes = Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+$classes = @();
+#$classes = Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 $classes += Get-ChildItem -Path ".\site\content\categories\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
-
+#$classes += Get-ChildItem -Path ".\site\content\classification-types\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 
 
 # Total count for progress tracking
@@ -195,6 +196,9 @@ When generating the description, consider the following contexts and include rel
         Do not enclose text in quotes.  
         Do not generate a title; assume the topic title is the post title.
 "@
+
+        # =================COMPLETE===================
+        Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile 
         
         if (-not $hugoMarkdown.BodyContent) {
             # $ClassificationContent = Get-OpenAIResponse -Prompt $classificationContentPrompt
@@ -203,8 +207,15 @@ When generating the description, consider the following contexts and include rel
             # $updateDate = Get-Date -Format "yyyy-MM-ddTHH:mm:ss"
             # Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'BodyContentGenDate' -fieldValue $updateDate -Overwrite
         }
+
+        if ($hugoMarkdown.BodyContent ) {
+            $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "classification-types" -hugoMarkdown $hugoMarkdown
+            $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -byLevel -classifications $typesClassification | Select-Object -First 3
+            $types = $typesClassificationOrdered | ForEach-Object { $_.category }
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'types' -values @($types) -Overwrite
+        }
+
        
-            
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile 
     }

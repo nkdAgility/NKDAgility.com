@@ -66,6 +66,7 @@ services:
 taxonomies:
   category: categories
   tag: tags
+  classification-type: classification-types
   course-topic: course-topics
   course-vendor: course-vendors
   course-learning-experience: course-learning-experiences
@@ -84,6 +85,7 @@ permalinks:
   taxonomy:
     categories: "/resources/:slug/"
     tags: "/resources/:slug/"
+    classification-types: "/resources/:slug/"
     marketing: "/marketing/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences"
@@ -95,6 +97,7 @@ permalinks:
   term:
     categories: "/resources/:slug/"
     tags: "/resources/:slug/"
+    classification-types: "/resources/:slug/"
     marketing: "/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences/:slug/"
