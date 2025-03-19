@@ -6,11 +6,9 @@
         <div class="left d-flex flex-grow-1">
           {{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
           {{ $jsonData := $jsonFile | unmarshal }}
-
-
           <div class="d-flex">
             <div class="resourcetypes p-1">
-              <a href="{{ printf "/resources/%s" (.Params.ResourceType | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-primary">Category</a>
+              <a href="{{ .RelPermalink }}" class="btn btn-sm btn-nkdagility-primary">{{ .Type }}</a>
             </div>
             <div class="categories p-1">
               {{ with .Params.types }}
@@ -30,15 +28,12 @@
           </div>
           <!-- Ensure this properly closes the flex container inside "left" -->
         </div>
-        <!-- Corrected: Now properly closing the "left" section -->
-
         <!-- Right Section -->
         <div class="right">
           <h4>tech·nic·al·ly agile class·i·fic·at·ion</h4>
         </div>
       </div>
       <!-- End of Flex Container -->
-
       <div>
         <div class="row">
           <div class="col-12 col-xl-10 d-flex flex-column">
@@ -79,7 +74,7 @@
 
 {{- define "main" }}
   <section class="container my-5">
-    <div class="p-2 my-4">
+    <div class="p-2 my-4 two-column-text">
       {{- .Content }}
     </div>
   </section>
