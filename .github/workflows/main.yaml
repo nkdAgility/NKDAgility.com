@@ -464,6 +464,9 @@ jobs:
         shell: pwsh
         run: |
           Get-ChildItem -Path ".\" -File
+          $path = "./_site"
+          $size = (Get-ChildItem -Path $path -Recurse | Measure-Object -Property Length -Sum).Sum
+          "{0:N2} MB" -f ($size / 1MB)
 
       - uses: actions/create-github-app-token@v1
         id: app-token
@@ -495,5 +498,6 @@ jobs:
           $markdown = @"
               ## ${{needs.Setup.outputs.GitVersion_SemVer}} (${{needs.Setup.outputs.nkdAgility_Ring}})
              Deployed to [${{steps.azureDeploy.outputs.static_web_app_url}}](${{steps.azureDeploy.outputs.static_web_app_url}})
+
           "@
           echo $markdown >> $Env:GITHUB_STEP_SUMMARY
