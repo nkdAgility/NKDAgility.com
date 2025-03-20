@@ -23,9 +23,9 @@ headline:
   content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
   updated: 2025-02-13T21:02:24Z
 concepts:
-  - Framework
----
+- Framework
 
+---
 Scrum is a **social technology** for delivering **adaptive solutions** in complex environments. It is built on **empiricism**—transparency, inspection, and adaptation—and is designed to help teams deliver value iteratively and incrementally. Scrum is a **framework** that helps teams work together to solve complex problems and deliver high-value products. Its about planning.
 
 ## First Principals
