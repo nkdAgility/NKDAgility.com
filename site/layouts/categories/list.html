@@ -11,7 +11,7 @@
               <a href="{{ .RelPermalink }}" class="btn btn-sm btn-nkdagility-primary" title="{{ .Data.Plural | title }}: {{ .Title }}">{{ .Data.Plural | title }}</a>
             </div>
             <div class="categories p-1">
-              {{ with .Params.concepts }}
+              {{ with .Params.types }}
                 {{ range . }}
                   {{ $term := . }}
                   {{ $categoryData := index $jsonData $term }}
@@ -94,47 +94,84 @@
         {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" 0) }}
       {{- end }}
     {{- else }}
-      {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" .Weight) }}
+      {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" 0) }}
       <!-- Default when no data file -->
     {{- end }}
   {{- end }}
   {{- $sortedPagesWithData := sort $pagesWithData "score" "desc" }}
+  {{- $sortedPages := slice }}
+  {{- range $sortedPagesWithData }}
+    {{- $sortedPages = $sortedPages | append .page.Page }}
+  {{- end }}
   <section class="container my-2">
     <div class="container">
-      <h2>Learn More about {{ .Title }}</h2>
+      <h2 id="learnMore">Learn More about {{ .Title }}</h2>
       <div class="row">
-        {{- range $sortedPagesWithData }}
+        {{ $paginator := .Paginate $sortedPages 36 }}
+        {{ range $paginator.Pages }}
           <div class="col-xl-4 p-2">
-            {{- if or (eq .page.Type "tags") (eq .page.Type "categories") }}
-              {{- partial "page-sections/sections-taxonomies-card.html" (dict "site" .Site "context" .page "subTypes" "resources") }}
+            {{- if or (eq .Type "tags") (eq .Type "categories") }}
+              {{- partial "page-sections/sections-taxonomies-card.html" (dict "site" .Site "context" . "subTypes" "resources") }}
             {{- else }}
-              {{- $title := .page.Title }}
-              {{- $description := .page.Description }}
+              {{- $title := .Title }}
+              {{- $description := .Description }}
               {{- $buttonContent := "Find out More" }}
-              {{- if .page.Params.card }}
-                {{- $title = .page.Params.card.title }}
-                {{- $description = .page.Params.card.content }}
-                {{- $buttonContent = .page.Params.card.button.content }}
+              {{- $score := 0 }}
+              {{- with .Resources.GetMatch "data.index.classifications.json" }}
+                {{- $data := . | transform.Unmarshal }}
+                {{- $dataItem := index $data $taxonomyName }}
+                {{- if $dataItem }}
+                  <!-- Ensure the taxonomy exists in the data -->
+                  {{- $score = ($dataItem.final_score | default 0) }}
+                {{- end }}
+              {{- end }}
+              {{- if .Params.card }}
+                {{- $title = .Params.card.title }}
+                {{- $description = .Params.card.content }}
+                {{- $buttonContent = .Params.card.button.content }}
               {{- end }}
               <!-- layouts/partials/card.html -->
               <div class="sectioncards p-2 flex-fill flex-grow-1 h-100">
                 <div class="card sectioncards flex-fill flex-grow-1 m-3 shadow text-start small border-0 h-100 position-relative">
                   <div class="card-body p-4 px-20">
-                    <span class="badge text-bg-secondary">{{- title .page.Params.ResourceType }}</span>
+                    <span class="badge text-bg-secondary">{{- title .Params.ResourceType }}</span>
                     <h3 class="ttl-nkdagility h5 text-start" title="{{ $title }}">{{- $title }}</h3>
                     <div class="card-text text-muted">
                       {{- $description | markdownify }}
                     </div>
                   </div>
                   <div class="card-footer border-transparent bg-white p-3 border-0 d-flex justify-content-between align-items-center">
-                    <small class="text-body-secondary" title="Affinity to {{ $taxonomyName }} is {{ .score }}%"> <strong class="d-inline-block text-truncate" style="max-width: 150px; vertical-align: middle;"> {{ $taxonomyName }} </strong>: {{ .score }}% </small>
-                    <a href="{{ .page.Permalink }}" class="btn btn-nkdagility p-2" title="More information on {{ .title }}"> {{- $buttonContent }} <i class="fa-solid fa-arrow-right"></i> </a>
+                    <small class="text-body-secondary" title="Affinity to {{ $taxonomyName }} is {{ $score }}%"> <strong class="d-inline-block text-truncate" style="max-width: 150px; vertical-align: middle;"> {{ $taxonomyName }} </strong>: {{ $score }}% </small>
+                    <a href="{{ .Permalink }}" class="btn btn-nkdagility p-2" title="More information on {{ .Title }}"> {{- $buttonContent }} <i class="fa-solid fa-arrow-right"></i> </a>
                   </div>
                 </div>
               </div>
             {{- end }}
           </div>
         {{- end }}
+        <div class="col-xl-12 p-5 text-center">
+          <nav aria-label="Page navigation">
+            <ul class="pagination d-flex justify-content-center">
+              {{ if $paginator.HasPrev }}
+                <li class="page-item">
+                  <a class="page-link" href="{{ $paginator.Prev.URL }}#learnMore">Previous</a>
+                </li>
+              {{ end }}
+
+              {{ range $paginator.Pagers }}
+                <li class="page-item {{ if eq . $paginator }}active{{ end }}">
+                  <a class="page-link" href="{{ .URL }}#learnMore">{{ .PageNumber }}</a>
+                </li>
+              {{ end }}
+
+              {{ if $paginator.HasNext }}
+                <li class="page-item">
+                  <a class="page-link" href="{{ $paginator.Next.URL }}#learnMore">Next</a>
+                </li>
+              {{ end }}
+            </ul>
+          </nav>
+        </div>
       </div>
     </div>
   </section>
