@@ -107,7 +107,7 @@
     <div class="container">
       <h2 id="learnMore">Learn More about {{ .Title }}{{ if eq .Type "concepts" }}s{{ end }}</h2>
       <div class="row">
-        {{ $paginator := .Paginate $sortedPages 36 }}
+        {{ $paginator := .Paginate $sortedPages 108 }}
         {{ range $paginator.Pages }}
           <div class="col-xl-4 p-2">
             {{- if or (eq .Type "tags") (eq .Type "categories") }}
