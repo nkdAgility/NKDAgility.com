@@ -15,6 +15,10 @@ class HugoMarkdown {
 
     HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath, [string]$FolderPath) {
         # Directly assign the front matter to the class property
+        if ($frontMatter -eq $null) {
+            Write-ErrorLog "Front matter is null"
+            exit 1
+        }
         $this.FrontMatter = $frontMatter
         # Set the body content
         $this.BodyContent = $bodyContent
@@ -35,9 +39,18 @@ function Get-HugoMarkdown {
     if ($content -match '^(?s)---\s*\n(.*?)\n---\s*\n(.*)$') {
         $frontMatterContent = $matches[1]
         $bodyContent = $matches[2]
-
+        if ([string]::IsNullOrEmpty($frontMatterContent)) {
+            throw "The markdown file in $outputDir is junk"
+            exit 1
+        }
         # Convert front matter content to an ordered hash table
-        $frontMatter = ConvertFrom-Yaml -Yaml $frontMatterContent -Ordered
+        try {
+            $frontMatter = ConvertFrom-Yaml -Yaml $frontMatterContent -Ordered
+        }
+        catch {
+            Write-Host "Error: Failed to convert YAML. Stopping execution." -ForegroundColor Red
+            throw
+        }
     }
     else {
         # If no front matter is found, set frontMatter to an empty ordered hash table

@@ -26,9 +26,8 @@ headline:
   subtitle: Empowering collaboration and decision-making through structured approaches for navigating complexity and driving sustainable value creation.
   content: Social technologies encompass frameworks and methodologies that enhance collaboration, decision-making, and value delivery within organisations. They emphasise self-organisation, adaptability, and continuous improvement, enabling teams to effectively navigate complexity, foster transparency, and leverage collective intelligence to drive innovation and sustainable outcomes in ever-changing environments.
   updated: 2025-03-19T12:41:59Z
-types:
+classification-types:
   - Philosophy
-  - Principle
 ---
 
 In complex environments where variance is high, methodologies fall short. In order to guide our ways of working we need foundational philosophies that foster adaptability, emergent coordination, and collective intelligence. Social technologies provide this foundation, shaping interactions, decision-making, and value creation.

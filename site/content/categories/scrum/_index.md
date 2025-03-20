@@ -22,10 +22,10 @@ headline:
   subtitle: A framework for collaborative problem-solving that maximises value delivery through iterative learning and continuous improvement.
   content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
   updated: 2025-02-13T21:02:24Z
-types:
-- Framework
-
+classification-types:
+  - Framework
 ---
+
 Scrum is a framework for enabling people to organise around complex solution to adapt problems. It can be applied to the full lifecycle of the product, and it helps us stay flexible as needed by adapting to changing circumstances. Using Scrum we can more readily take advantage of opertunities, and weather surprises.
 
 Scrum reduces risk by enabling us to create usable working product frequently, and adapt to the needs of the stakeholders.

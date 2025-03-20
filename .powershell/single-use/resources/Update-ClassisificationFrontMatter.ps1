@@ -11,7 +11,7 @@ $levelSwitch.MinimumLevel = 'Debug'
 
 # Get list of directories and select the first 10
 $classes = @();
-#$classes = Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+$classes = Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 $classes += Get-ChildItem -Path ".\site\content\categories\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 #$classes += Get-ChildItem -Path ".\site\content\classification-types\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 
@@ -40,7 +40,7 @@ $classes | ForEach-Object {
         #=================description=================
         if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
             # Generate a new description using OpenAI
-            $prompt = "Generate a concise, engaging description of no more than 160 characters for the following classification: '$($hugoMarkdown.FrontMatter.title)'. "
+            $prompt = "Generate a concise, engaging description of no more than 160 characters for the following classification: '$($hugoMarkdown.FrontMatter.title)'. \n\n$($hugoMarkdown.BodyContent)"
             $description = Get-OpenAIResponse -Prompt $prompt
             # Update the description in the front matter
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' 
@@ -71,6 +71,7 @@ $classes | ForEach-Object {
 
             Category: $($hugoMarkdown.FrontMatter.title)
             Current Description: $($hugoMarkdown.FrontMatter.description)
+            Current Content: $($hugoMarkdown.BodyContent)
 
             Your generated classification must be **precise, consistent, and structured** to be **used as part of a prompt** that determines if a given piece of content **matches this classification**.
 "@
@@ -210,9 +211,9 @@ When generating the description, consider the following contexts and include rel
 
         if ($hugoMarkdown.BodyContent ) {
             $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "classification-types" -hugoMarkdown $hugoMarkdown
-            $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -byLevel -classifications $typesClassification | Select-Object -First 3
+            $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -byLevel -classifications $typesClassification | Select-Object -First 1
             $types = $typesClassificationOrdered | ForEach-Object { $_.category }
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'types' -values @($types) -Overwrite
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'classification-types' -values @($types) -Overwrite
         }
 
        

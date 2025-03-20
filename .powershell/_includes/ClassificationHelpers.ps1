@@ -21,6 +21,10 @@ function Get-CatalogHashtable {
 
     # Loop through each object and store the Title-Description pair in the hashtable
     foreach ($markdownMeta in $catalog) {
+        if ($markdownMeta.FrontMatter -eq $null) {
+            Write-WarningLog "FrontMatter is null for $($markdownMeta.FilePath). Skipping."
+            continue
+        }
         $catalogHash[$markdownMeta.FrontMatter.Title] = $markdownMeta.FrontMatter
     }
 
