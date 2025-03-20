@@ -11,7 +11,7 @@
               <a href="{{ .RelPermalink }}" class="btn btn-sm btn-nkdagility-primary" title="{{ .Data.Plural | title }}: {{ .Title }}">{{ .Data.Plural | title }}</a>
             </div>
             <div class="categories p-1">
-              {{ with .Params.types }}
+              {{ with .Params.concepts }}
                 {{ range . }}
                   {{ $term := . }}
                   {{ $categoryData := index $jsonData $term }}
@@ -105,7 +105,7 @@
   {{- end }}
   <section class="container my-2">
     <div class="container">
-      <h2 id="learnMore">Learn More about {{ .Title }}</h2>
+      <h2 id="learnMore">Learn More about {{ .Title }}{{ if eq .Type "concepts" }}s{{ end }}</h2>
       <div class="row">
         {{ $paginator := .Paginate $sortedPages 36 }}
         {{ range $paginator.Pages }}
@@ -117,12 +117,14 @@
               {{- $description := .Description }}
               {{- $buttonContent := "Find out More" }}
               {{- $score := 0 }}
+              {{- $reason := "set" }}
               {{- with .Resources.GetMatch "data.index.classifications.json" }}
                 {{- $data := . | transform.Unmarshal }}
                 {{- $dataItem := index $data $taxonomyName }}
                 {{- if $dataItem }}
                   <!-- Ensure the taxonomy exists in the data -->
                   {{- $score = ($dataItem.final_score | default 0) }}
+                  {{- $reason = ($dataItem.reasoning | default "none") }}
                 {{- end }}
               {{- end }}
               {{- if .Params.card }}
@@ -141,8 +143,10 @@
                     </div>
                   </div>
                   <div class="card-footer border-transparent bg-white p-3 border-0 d-flex justify-content-between align-items-center">
-                    <small class="text-body-secondary" title="Affinity to {{ $taxonomyName }} is {{ $score }}%"> <strong class="d-inline-block text-truncate" style="max-width: 150px; vertical-align: middle;"> {{ $taxonomyName }} </strong>: {{ $score }}% </small>
-                    <a href="{{ .Permalink }}" class="btn btn-nkdagility p-2" title="More information on {{ .Title }}"> {{- $buttonContent }} <i class="fa-solid fa-arrow-right"></i> </a>
+                    {{ if ne .Kind "term" }}
+                      <small class="text-body-secondary" title="Affinity to {{ $taxonomyName }} is {{ $score }}%&#10;&#10;Reasoning: {{ $reason }}"> <strong class="d-inline-block text-truncate" style="max-width: 150px; vertical-align: middle;"> {{ $taxonomyName }} </strong>: {{ $score }}% </small>
+                    {{ end }}
+                    <a href="{{ .Permalink }}" class="btn btn-nkdagility p-2 ms-auto" title="More information on {{ .Title }}"> {{- $buttonContent }} <i class="fa-solid fa-arrow-right"></i> </a>
                   </div>
                 </div>
               </div>
@@ -179,6 +183,21 @@
 
 {{- define "siteSectionCallback" }}
   <section class="container my-5">
+    <div class="m-1 small">
+      <h2>Concepts</h2>
+      <div class="row">
+        {{ range $category, $pages := .Site.Taxonomies.concepts }}
+          <div class="col-md-3 d-flex align-items-center">
+            <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
+              <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
+            </span>
+            {{- $count :=  len (where $pages "Draft" "!=" true) }}
+            <span class="ms-1">({{ $count }})</span>
+          </div>
+        {{ end }}
+      </div>
+      <hr />
+    </div>
     <div class="m-1 small">
       <h2>Categories</h2>
       <div class="row">
