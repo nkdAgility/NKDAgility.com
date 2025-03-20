@@ -23,18 +23,6 @@
     "reasoning": "The content discusses social technologies as a philosophical framework for organisational adaptability, which indirectly relates to practices in Agile and Lean methodologies. However, it lacks direct mentions of specific practices like pair programming or retrospectives, and the focus is more on theoretical concepts rather than actionable techniques. While it touches on themes of continuous learning and self-organisation, it does not provide detailed discussions on established practices, leading to a lower confidence score.",
     "level": "Ignored"
   },
-  "Value": {
-    "category": "Value",
-    "calculated_at": "2025-03-19T12:52:59",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 30,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the philosophical underpinnings of social technologies, which align closely with the core Agile values of adaptability, continuous learning, and decentralised decision-making. It explicitly mentions concepts such as self-organisation and continuous improvement, which are fundamental to Agile and Lean frameworks. The depth of discussion is significant, providing detailed insights into how these philosophies can shape organisational behaviour and decision-making, thus driving value. However, while it aligns well with the principles of value, it does not directly reference Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Framework": {
     "category": "Framework",
     "calculated_at": "2025-03-19T12:53:02",
@@ -118,5 +106,17 @@
     "final_score": 26.0,
     "reasoning": "The content discusses social technologies as a philosophical framework rather than a structured methodology. While it touches on concepts like self-organisation and continuous learning, which are relevant to Agile and Lean principles, it does not provide a clear, repeatable process or systematic approach that characterises the Method category. The focus is more on philosophical underpinnings than on specific methodologies or practices.",
     "level": "Ignored"
+  },
+  "Value": {
+    "category": "Value",
+    "calculated_at": "2025-03-20T11:26:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content discusses foundational philosophies that shape collaboration and decision-making, aligning closely with the core themes of the Value category. It emphasises the importance of underlying principles such as continuous learning and self-organisation, which are central to Agile and Lean thinking. The depth of discussion on how social technologies foster adaptability and collective intelligence further supports its alignment with the category. However, while it mentions value creation, it does not explicitly connect this to the intrinsic beliefs that underpin effective ways of working, which slightly lowers the overall confidence score.",
+    "level": "Primary"
   }
 }

@@ -25,8 +25,10 @@ headline:
   subtitle: Proactively integrate testing, security, and compliance early in development to enhance quality, speed, and reliability of software delivery.
   content: A proactive approach integrates essential processes such as testing, security, and compliance early in the development lifecycle. This strategy enhances software quality and reliability by minimising defects, fostering rapid feedback, and ensuring that teams can deliver value more efficiently. Topics include risk management, continuous integration, and quality assurance.
   updated: 2025-03-17T14:46:14Z
----
+concepts:
+- Method
 
+---
 ### **Shift-Left Strategy: Enhancing Quality from the Start**
 
 In modern software development, waiting until the end to test, secure, or review compliance is a costly mistake. The **Shift-Left Strategy** eliminates these risks by integrating critical activities—testing, security, and compliance—early in the development lifecycle.

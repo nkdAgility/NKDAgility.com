@@ -22,12 +22,53 @@ headline:
   subtitle: A framework for collaborative problem-solving that maximises value delivery through iterative learning and continuous improvement.
   content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
   updated: 2025-02-13T21:02:24Z
-types:
+concepts:
 - Framework
 
 ---
-Scrum is a framework for enabling people to organise around complex solution to adapt problems. It can be applied to the full lifecycle of the product, and it helps us stay flexible as needed by adapting to changing circumstances. Using Scrum we can more readily take advantage of opertunities, and weather surprises.
+Scrum is a **social technology** for delivering **adaptive solutions** in complex environments. It is built on **empiricism**—transparency, inspection, and adaptation—and is designed to help teams deliver value iteratively and incrementally. Scrum is a **framework** that helps teams work together to solve complex problems and deliver high-value products. Its about planning.
 
-Scrum reduces risk by enabling us to create usable working product frequently, and adapt to the needs of the stakeholders.
+## First Principals
 
-Scrum would be classed as a **social technology**.
+1. **Empiricism**: Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known.
+2. **Self-Organization**: Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish their work, rather than being directed by others outside the team.
+3. **Collaboration**: Scrum promotes collaboration among all roles to deliver the highest value.
+4. **Value-Based Prioritization**: The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team.
+5. **Time-Boxing**: Time-boxed events are used to create regularity and to minimize the need for meetings not defined in Scrum.
+6. **Iterative Development**: Scrum uses an iterative, incremental approach to optimize predictability and control risk.
+7. **Incremental Delivery**: Scrum delivers a potentially releasable product increment at the end of each Sprint.
+8. **Continuous Improvement**: Scrum Teams continuously improve through the use of the Scrum Events and by inspecting and adapting the product, processes, and practices.
+
+## Values
+
+1. **Commitment**: The Scrum Team commits to achieving the Sprint Goal.
+2. **Focus**: The Scrum Team focuses on the work of the Sprint and the goals of the Scrum Team.
+3. **Openness**: The Scrum Team and its stakeholders agree to be open about all the work and the challenges with performing the work.
+4. **Respect**: Scrum Team members respect each other to be capable, independent people.
+5. **Courage**: The Scrum Team has the courage to do the right thing and work on tough problems.
+
+## Accountabilities
+
+1. **[Scrum Team]({{< ref "/tags/scrum-team" >}})** – Consists of a **Product Owner**, **Developers**, and a **Scrum Master**. The Scrum Team is **self-managing** and works collaboratively to deliver a **usable Increment** every Sprint.
+2. **[Product Owner]({{< ref "/tags/product-owner" >}})**: Accountable for **maximising product value** and managing the **Product Backlog**.
+3. **Developers**: Accountable for delivering **usable Increments** that meet the Definition of Done.
+4. **[Scrum Master]({{< ref "/tags/scrum-master" >}})**: Accountable for **Scrum effectiveness**, **causing the removal of impediments**, and **coaching the team**.
+
+## Events
+
+1. **Sprint**: A fixed-length iteration (≤ 1 month) in which the team creates at least one usable Increment.
+2. **Sprint Planning**: Based on the Product Goal, the team plans the work for the Sprint.
+3. **Daily Scrum**: Based on the Sprint Goal the Developers plan work for the next 24 hours.
+4. **Sprint Review**: Based on the current state of the Product, current business conditions, and possible future business conduction the Scrum Team plans whats next.
+5. **Sprint Retrospective**: The Scrum Team plan on how they will change their system to improve the next Sprint.
+
+## Artifacts
+
+6. **Commitments**
+   - **Product Goal**: The long-term vision for the product.
+   - **Sprint Goal**: A tactical objective for the Sprint.
+   - **Definition of Done (DoD)**: A quality standard for completed work.
+
+### **Key Accountabilities**
+
+Scrum is lightweight, but **difficult to master**. It is **not a process or methodology** but a **framework** that helps teams navigate complexity through **empirical process control**.

@@ -26,6 +26,24 @@ headline:
   subtitle: A guiding framework for shaping thought and approaches across methodologies, enhancing understanding and adaptability in complex environments.
   content: A comprehensive framework for understanding and navigating complex systems, emphasising adaptability and continuous improvement. It encompasses practices related to flow management, iterative development, team dynamics, and empirical decision-making, drawing insights from various thought leaders and methodologies to enhance organisational effectiveness and responsiveness.
   updated: 2025-03-19T12:17:57Z
-
 ---
 
+The **Philosophy** category defines the **guiding principles** behind Agile, DevOps, and Lean. It shapes **thought and strategy**, rather than focusing on execution.
+
+#### **Scope**
+
+It explores **why** methodologies work, focusing on **Agile values, Lean efficiency, DevOps culture, complexity theory, and evidence-based decision-making**. Discussions emphasise **organisational behaviour, adaptability, and continuous improvement**.
+
+#### **Key Topics**
+
+- **Agile & Lean Thinking** – Principles that drive efficiency, collaboration, and value.
+- **DevOps as a Culture** – A shift in how teams collaborate, automate, and deliver.
+- **Complexity & Systems Thinking** – Managing unpredictability and emergent behaviour.
+- **Evidence-Based Management** – Using data and iteration for decision-making.
+- **Social Technologies** – How transparency and decentralisation enable agility.
+
+#### **Exclusions**
+
+It avoids **specific practices, tools, and anecdotal experiences** that do not connect to broader philosophical frameworks.
+
+This category **challenges and refines** how teams and leaders think, ensuring agility is driven by strategy, not just process.

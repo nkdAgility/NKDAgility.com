@@ -21,6 +21,10 @@ function Get-CatalogHashtable {
 
     # Loop through each object and store the Title-Description pair in the hashtable
     foreach ($markdownMeta in $catalog) {
+        if ($markdownMeta.FrontMatter -eq $null) {
+            Write-WarningLog "FrontMatter is null for $($markdownMeta.FilePath). Skipping."
+            continue
+        }
         $catalogHash[$markdownMeta.FrontMatter.Title] = $markdownMeta.FrontMatter
     }
 
@@ -32,8 +36,8 @@ $catalogues = @{}
 $catalogues["catalog"] = @{}
 $catalogues["catalog"]["categories"] = Get-CatalogHashtable -Classification "categories"
 $catalogues["catalog"]["tags"] = Get-CatalogHashtable -Classification "tags"
-$catalogues["catalog"]["classification-types"] = Get-CatalogHashtable -Classification "classification-types"
-$catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"] + $catalogues["catalog"]["classification-types"]
+$catalogues["catalog"]["concepts"] = Get-CatalogHashtable -Classification "concepts"
+$catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"] + $catalogues["catalog"]["concepts"]
 $catalogues["marketing"] = Get-CatalogHashtable -Classification "marketing"
 
 function Get-ClassificationsForType {
@@ -55,12 +59,12 @@ function Get-ClassificationsForType {
     Write-InfoLog "   Populating Catalogues"
     $catalog = @{}    
     switch ($ClassificationType) {
-        { $_ -in "categories", "tags", "classification-types" } {
+        { $_ -in "categories", "tags", "concepts" } {
             $catalog = $catalogues["catalog"][$ClassificationType]
             $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
         }
-        "catalog_full" {
+        { $_ -in "catalog_full", "classification" } {
             $catalog = $catalogues["catalog_full"]
             $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
