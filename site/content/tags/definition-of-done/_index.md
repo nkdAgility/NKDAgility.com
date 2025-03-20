@@ -24,9 +24,9 @@ headline:
   content: The **Definition of Done (DoD)** establishes a shared understanding of what makes a product increment **complete and releasable**, ensuring all work meets a **minimum quality standard**. It enhances transparency, consistency, and empirical decision-making by providing clear criteria for done work. This includes an Organisational Definition of Done that applies across teams, with team-specific extensions as needed. A well-defined DoD is essential for adaptation, accountability, and delivering valuable, verifiable, and production-ready increments.
   updated: 2025-02-13T12:05:05Z
 concepts:
-  - Method
----
+- Method
 
+---
 The **Definition of Done (DoD)** establishes a shared understanding of what constitutes a **completed and releasable** product increment. It ensures that all work meets a **minimum quality standard**, providing transparency, consistency, and the ability to make **empirical decisions** based on real-world feedback.
 
 This document outlines the **Organisational Definition of Done**, which applies across all teams, as well as **team-specific extensions** that may be necessary based on product requirements. It also highlights why the DoD is essential for **transparency, adaptation, and ensuring that every increment is valuable, verifiable, and production-ready**.

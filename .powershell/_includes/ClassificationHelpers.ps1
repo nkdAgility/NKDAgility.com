@@ -64,7 +64,7 @@ function Get-ClassificationsForType {
             $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
         }
-        "catalog_full" {
+        { $_ -in "catalog_full", "classification" } {
             $catalog = $catalogues["catalog_full"]
             $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"

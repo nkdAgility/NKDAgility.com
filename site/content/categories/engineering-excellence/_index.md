@@ -27,8 +27,9 @@ headline:
   subtitle: Fostering superior software practices and craftsmanship for sustainable development and continuous improvement.
   content: Cultivating a culture of quality in software development, this classification emphasises practices that enhance collaboration, efficiency, and adaptability. Topics include process optimisation, team dynamics, continuous feedback, and the integration of metrics to inform decision-making, fostering an environment of ongoing learning and improvement.
   updated: 2025-02-13T12:04:48Z
----
+concepts: []
 
+---
 ## Engineering Excellence: Driving High-Quality, Sustainable Software Development
 
 Engineering excellence is the foundation of **high-quality, maintainable, and scalable** software systems. It is about fostering a culture that values **continuous improvement, technical rigor, and long-term sustainability** in software development. This category is dedicated to discussions on how organisations can elevate their engineering standards to deliver **predictable, resilient, and valuable software**.

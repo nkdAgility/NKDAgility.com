@@ -264,16 +264,18 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
-    #$categoriesMeta = $categoryClassificationOrdered | ForEach-Object { [ordered]@{ category = $_.category; final_score = $_.final_score } }
-    #Update-HashtableList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categoriesMeta' -addAfter "categories" -values $categoriesMeta -Overwrite
     #-----------------Tags-------------------
     $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -classifications $tagClassification | Select-Object -First 10
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
-    #$tagsMeta = $tagClassificationOrdered | ForEach-Object { [ordered]@{ category = $_.category; final_score = $_.final_score } }
-    #Update-HashtableList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tagsMeta' -addAfter "tags" -values $tagsMeta -Overwrite
+    #-----------------catalog_full------------------
+    # $keywordsClassification = Get-ClassificationsForType -ClassificationType "catalog_full" -hugoMarkdown $hugoMarkdown
+    # $keywordsClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -classifications $keywordsClassification | Select-Object -First 5
+    # $keywords = $keywordsClassificationOrdered | ForEach-Object { $_.category }
+    # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'keywords' -values @($keywords) -addAfter "title" -Overwrite
     # =================COMPLETE===================
+
     $eeResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
     $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
     $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
