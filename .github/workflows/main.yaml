@@ -461,9 +461,15 @@ jobs:
           }
 
       - name: "Find  files"
+        id: files
         shell: pwsh
         run: |
           Get-ChildItem -Path ".\" -File
+          $path = "./_site"
+          $size = (Get-ChildItem -Path $path -Recurse | Measure-Object -Property Length -Sum).Sum
+          $sizeOnDisk = "{0:N2} MB" -f ($size / 1MB)
+          $sizeOnDisk
+          echo "sizeOnDisk=$sizeOnDisk" >> $env:GITHUB_OUTPUT
 
       - uses: actions/create-github-app-token@v1
         id: app-token
@@ -495,5 +501,6 @@ jobs:
           $markdown = @"
               ## ${{needs.Setup.outputs.GitVersion_SemVer}} (${{needs.Setup.outputs.nkdAgility_Ring}})
              Deployed to [${{steps.azureDeploy.outputs.static_web_app_url}}](${{steps.azureDeploy.outputs.static_web_app_url}})
+             Files on Disk: ${{steps.files.outputs.sizeOnDisk}}
           "@
           echo $markdown >> $Env:GITHUB_STEP_SUMMARY
