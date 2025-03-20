@@ -11,7 +11,7 @@
               <a href="{{ .RelPermalink }}" class="btn btn-sm btn-nkdagility-primary" title="{{ .Data.Plural | title }}: {{ .Title }}">{{ .Data.Plural | title }}</a>
             </div>
             <div class="categories p-1">
-              {{ with index .Params "classification-types" }}
+              {{ with .Params.concepts }}
                 {{ range . }}
                   {{ $term := . }}
                   {{ $categoryData := index $jsonData $term }}

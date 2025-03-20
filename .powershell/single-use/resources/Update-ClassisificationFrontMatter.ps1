@@ -13,7 +13,7 @@ $levelSwitch.MinimumLevel = 'Debug'
 $classes = @();
 $classes = Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 $classes += Get-ChildItem -Path ".\site\content\categories\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
-#$classes += Get-ChildItem -Path ".\site\content\classification-types\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+#$classes += Get-ChildItem -Path ".\site\content\concepts\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
 
 
 # Total count for progress tracking
@@ -210,10 +210,10 @@ When generating the description, consider the following contexts and include rel
         }
 
         if ($hugoMarkdown.BodyContent ) {
-            $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "classification-types" -hugoMarkdown $hugoMarkdown
+            $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
             $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -byLevel -classifications $typesClassification | Select-Object -First 1
             $types = $typesClassificationOrdered | ForEach-Object { $_.category }
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'classification-types' -values @($types) -Overwrite
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($types) -Overwrite
         }
 
        

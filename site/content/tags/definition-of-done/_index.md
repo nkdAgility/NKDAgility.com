@@ -23,7 +23,7 @@ headline:
   subtitle: Ensuring Quality, Transparency, and Releasability
   content: The **Definition of Done (DoD)** establishes a shared understanding of what makes a product increment **complete and releasable**, ensuring all work meets a **minimum quality standard**. It enhances transparency, consistency, and empirical decision-making by providing clear criteria for done work. This includes an Organisational Definition of Done that applies across teams, with team-specific extensions as needed. A well-defined DoD is essential for adaptation, accountability, and delivering valuable, verifiable, and production-ready increments.
   updated: 2025-02-13T12:05:05Z
-classification-types:
+concepts:
   - Method
 ---
 
