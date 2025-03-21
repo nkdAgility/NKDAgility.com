@@ -225,7 +225,15 @@ When generating the description, consider the following contexts and include rel
             # Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'BodyContentGenDate' -fieldValue $updateDate -Overwrite
         }
 
-        if ($hugoMarkdown.BodyContent -and -not ($hugoMarkdown.FolderPath -notlike "concepts")) {
+        if ($hugoMarkdown.BodyContent) {
+            $priority = 0.6
+        }
+        else {
+            $priority = 0.5
+        }                 
+        $hugoMarkdown.FrontMatter["sitemap"] = [ordered]@{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
+
+        if ($hugoMarkdown.BodyContent -and $hugoMarkdown.FolderPath -notlike "*concepts*") {
             $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
             $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -byLevel -classifications $typesClassification | Select-Object -First 1
             $types = $typesClassificationOrdered | ForEach-Object { $_.category }

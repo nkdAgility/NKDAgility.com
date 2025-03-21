@@ -25,12 +25,14 @@ headline:
   content: A comprehensive framework that integrates tools, processes, and practices to enhance collaboration and efficiency in software development. It emphasises continuous improvement, value delivery, and adaptability, addressing topics such as workflow optimisation, team dynamics, quality assurance, and evidence-based decision-making to foster a culture of innovation and responsiveness.
   updated: 2025-02-13T21:02:39Z
 aliases:
-  - /resources/methods/one-engineering-system/
-  - /methods/1es/
-  - /learn/agile-delivery-kit/strategies/one-engineering-system/
-  - /resources/6z97VZamnQQ
----
+- /resources/methods/one-engineering-system/
+- /methods/1es/
+- /learn/agile-delivery-kit/strategies/one-engineering-system/
+- /resources/6z97VZamnQQ
+concepts:
+- Strategy
 
+---
 The **One Engineering System (1ES)** is a strategic approach to unifying engineering tools and practices across teams to reduce friction, foster collaboration, and enable consistency at scale. It’s about creating a shared engineering backbone that allows teams to move faster and more predictably by removing the chaos of disconnected toolchains and ad hoc workflows.
 
 At its core, 1ES is not about enforcing a single toolset but about aligning teams around a **common set of engineering standards** that streamline how work gets done—from planning and coding to testing, deploying, and supporting software in production. This shared foundation reduces cognitive overhead, simplifies integration across teams, and makes it easier to deliver high-quality, reliable outcomes.

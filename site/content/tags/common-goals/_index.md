@@ -1,13 +1,33 @@
 ---
 title: Common Goals
+date: 2025-03-21T14:45:01Z
 description: All participants and stakeholders should understand the overall strategic goals and be able to see how the work contributes to it
+Instructions: |-
+  **Use this category only for discussions on Common Goals.**  
+  The purpose of this category is to emphasise the importance of aligning all participants and stakeholders with an organisation's strategic goals, ensuring that everyone understands how their contributions support these objectives. This alignment fosters motivation, accountability, and effective decision-making within teams.
+
+  **Key topics to discuss under this category include:**
+  - The significance of clear strategic goals for organisational success.
+  - The role of individual contributions in achieving overarching objectives.
+  - The impact of goal alignment on resource utilisation and focused efforts.
+  - The relationship between understanding goals and participant motivation.
+  - The importance of defining specific goals such as Sprint Goals, Product Goals, and Nexus Sprint Goals within Agile frameworks.
+  - Techniques for communicating and reinforcing strategic goals across teams.
+
+  **Strictly exclude** any content that does not directly relate to the alignment of individual and team efforts with organisational goals, or that misinterprets the significance of goal clarity in Agile and Scrum practices.
+headline:
+  cards: []
+  title: Common Goals
+  subtitle: Aligning efforts with strategic objectives to enhance motivation, ownership, and informed decision-making across all stakeholders.
+  content: A clear understanding of strategic objectives empowers all participants and stakeholders to align their efforts effectively. Posts should explore goal-setting practices, the impact of shared objectives on motivation and accountability, and methods for ensuring that individual contributions are visible and relevant to the organisation's success.
+  updated: 2025-03-21T14:45:03Z
 ResourceId: K-0Kt7CHeQw
 trustpilot: false
 aliases:
-  - /learn/agile-delivery-kit/first-principals/common-goals/
-  - /resources/K-0Kt7CHeQw
----
+- /learn/agile-delivery-kit/first-principals/common-goals/
+- /resources/K-0Kt7CHeQw
 
+---
 It is important for all participants and stakeholders to understand an organization's strategic goals and how their work contributes to achieving them. This alignment leads to focused efforts, efficient resource utilization, and better decision-making. Understanding the organization's objectives also motivates participants and stakeholders, leading to a greater sense of ownership, accountability, and commitment to achieving the goals.
 
 ## The Importance of Goals

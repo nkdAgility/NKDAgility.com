@@ -27,8 +27,10 @@ headline:
   subtitle: Empowering developers through streamlined platforms, self-service tools, and automated workflows for efficient application management.
   content: A discipline centred on creating robust internal platforms that enhance developer efficiency and streamline application lifecycles. Posts should explore self-service capabilities, standardised tools, automated workflows, and the integration of practices that foster collaboration, continuous improvement, and effective resource management within software development teams.
   updated: 2025-02-13T21:02:31Z
----
+concepts:
+- Practice
 
+---
 Platform Engineering is the practice of designing, building, and maintaining internal platforms that enable developers to deliver value independently, reliably, and at pace.
 
 It focuses on reducing cognitive load by abstracting infrastructure and operational complexity behind well-designed interfaces, tools, and APIs. These platforms are treated as products, with clear ownership, feedback loops, and continuous improvement driven by developer needs.

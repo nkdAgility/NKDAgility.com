@@ -28,7 +28,9 @@ headline:
   content: A method for visualising work processes, enhancing flow management, and fostering continuous improvement. Posts should explore topics such as work item visualisation, cycle time reduction, throughput optimisation, and the application of metrics for informed decision-making, drawing on insights from industry thought leaders and established frameworks.
   updated: 2025-02-13T11:59:20Z
 aliases:
-  - /methods/kanban-strategy/
-  - /learn/agile-delivery-kit/strategies/kanban-strategy/
-  - /resources/_O7H5eH902L
+- /methods/kanban-strategy/
+- /learn/agile-delivery-kit/strategies/kanban-strategy/
+- /resources/_O7H5eH902L
+
 ---
+
