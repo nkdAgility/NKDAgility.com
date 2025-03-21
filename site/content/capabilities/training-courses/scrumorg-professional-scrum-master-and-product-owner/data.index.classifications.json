@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:43:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum Master and Product Owner training rather than discussing Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T15:02:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and certification, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions the importance of collaboration and understanding within Scrum teams, it does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence. The depth of discussion is limited to training details, lacking any substantial exploration of EBM concepts.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -319,15 +322,6 @@
     "final_score": 47.0,
     "reasoning": "The content includes a mention of 'Release Management' among the course topics and learning objectives, but the primary focus is on Scrum Master and Product Owner roles rather than on release management processes and practices.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:43:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:43:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum roles, practices, and agile management rather than Continuous Delivery principles and methodologies.",
+    "calculated_at": "2025-03-21T15:02:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and roles, which are not directly related to Continuous Delivery principles or practices. While it mentions collaboration and team dynamics, it does not discuss Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum training and the roles of Scrum Masters and Product Owners, with no direct mention or discussion of the Shift-Left Strategy. While it touches on collaboration within teams, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:01:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum training and the roles of Scrum Masters and Product Owners, which are related to team effectiveness but do not explicitly discuss Continuous Improvement principles. While there are elements of collaboration and shared understanding that could contribute to a culture of improvement, the content lacks direct mentions of Continuous Improvement practices, empirical evidence, or strategies for integrating these concepts into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:01:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of collaboration and shared understanding between Scrum Masters and Product Owners, which aligns with the concept of Common Goals. However, it primarily focuses on the training course and its structure rather than explicitly addressing the foundational principles of Common Goals in Agile and DevOps. The mention of effective collaboration hints at alignment but lacks depth in discussing how these roles contribute to overarching strategic objectives.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:02:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Professional Scrum Master and Product Owner course, which is aimed at enhancing the competence of Scrum teams through shared learning and understanding. It explicitly mentions the growth of proficiency for Scrum Masters and Product Owners, aligning well with the core themes of continuous learning and skill development. However, while it touches on competence, the focus is more on the course structure and benefits rather than a deep exploration of competence as a principle in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:02:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies, specifically the Professional Scrum Master and Product Owner training. While it discusses collaboration within Scrum teams, it does not address the One Engineering System framework, its principles, or its integration with other processes. The discussion is centred around Scrum roles and training rather than the standardisation and integration of software development practices as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

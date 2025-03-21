@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:20:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses data-driven decision making and empirical data in the context of Product Backlog management within Scrum, which aligns with the principles of Evidence Based Management. However, the primary focus is on the Scrum framework and backlog management skills rather than EBM itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T15:01:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses empirical decision-making and the importance of data-driven decisions, which aligns well with Evidence-Based Management principles. However, the primary focus is on Scrum and Product Backlog management, which slightly detracts from a direct emphasis on EBM as a standalone topic. The depth of discussion on empirical decision-making is significant, but the overall content is more about Scrum practices than EBM itself.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content focuses primarily on Scrum practices and Product Backlog management, without addressing the specific strategies, practices, or processes involved in Release Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:20:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Scrum framework and product backlog management, which is unrelated to the One Engineering System principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:01:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product backlog management within the Scrum framework, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Product Backlog management, which are not directly related to Continuous Delivery principles. While there are elements of stakeholder engagement and transparency that could tangentially relate to Continuous Delivery, the core themes and practices of Continuous Delivery are not discussed. The content lacks explicit mentions of Continuous Delivery, automation, or delivery practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and Product Backlog management, with no direct mention of the Shift-Left Strategy. While it discusses stakeholder engagement and decision-making, these topics do not align with the core principles of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:01:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses empirical decision-making and the importance of stakeholder engagement, which are relevant to Continuous Improvement. However, it primarily focuses on Product Backlog management within Scrum, lacking a broader discussion on Continuous Improvement principles and practices. The depth of discussion on Continuous Improvement concepts is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:01:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on Product Backlog management skills and stakeholder engagement, which are important aspects of Scrum but do not explicitly discuss Common Goals. While it touches on aligning the Product Backlog with the product's vision, it lacks a thorough exploration of how these elements contribute to shared objectives within Agile and DevOps frameworks. The discussion is more about practical skills and techniques rather than the foundational principles of Common Goals.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:01:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses skills related to Product Backlog management and stakeholder engagement, which are essential for competence in Scrum. However, while it touches on the importance of understanding and mastering these skills, it does not explicitly focus on continuous learning or the broader implications of competence in Agile methodologies. The depth of discussion on competence is limited, primarily focusing on practical skills rather than the overarching principles of professionalism and quality delivery.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:01:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Product Backlog management, which are specific methodologies rather than the broader principles of the One Engineering System. While there are elements of process improvement and stakeholder engagement, these do not directly relate to the integration and standardisation of engineering practices as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

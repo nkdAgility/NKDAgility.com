@@ -262,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T14:59:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training programs related to Agile roles, without any direct reference to Continuous Delivery principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Agile training for Scrum roles and does not explicitly discuss Continuous Delivery principles or practices. While it mentions Agile, it lacks direct references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -393,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile training and roles, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training programs for Agile roles, which does not align with the central focus of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1354,11 +1348,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T14:59:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on training courses for Agile roles without mentioning Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training for Scrum roles and does not explicitly discuss Evidence-Based Management principles or metrics. While it may indirectly relate to improving team performance, it lacks direct references to empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile training for Scrum roles and does not explicitly mention the Shift-Left Strategy or its principles. While Agile practices may indirectly relate to early integration of processes, the content lacks direct discussion or depth on the Shift-Left approach, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T14:59:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile training, which is related to Continuous Improvement, but does not explicitly discuss Continuous Improvement principles or practices. The focus is more on training rather than on the ongoing practice of reflection and adaptation. While there is some alignment with the themes of team effectiveness and learning, the depth of discussion is limited, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T14:59:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile training but does not explicitly discuss Common Goals or their significance in aligning strategy with execution. While it touches on equipping teams with skills, it lacks depth in exploring how these skills contribute to shared objectives or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T14:59:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses training programs aimed at enhancing skills and knowledge in an Agile environment, which aligns with the concept of competence. However, it lacks explicit discussions on continuous learning or the impact of competence on team dynamics and quality outcomes, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T14:59:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Agile training for specific roles within Scrum, which is not directly related to the One Engineering System framework. While it mentions skills and knowledge for an Agile environment, it lacks explicit discussion of 1ES principles, integration of tools, or best practices related to the unified engineering system.",
     "level": "Ignored"
   }
 }

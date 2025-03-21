@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:26:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:08:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a course about scaling Scrum using the Nexus Framework, with no clear emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Scaled Professional Scrum course, with no direct mention of Evidence-Based Management principles. While it discusses challenges and practices related to Scrum, it lacks a clear emphasis on empirical evidence or data-informed decision-making, which are central to EBM. The discussion is more about methodologies and frameworks rather than the application of evidence in management decisions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scaled Professional Scrum and its certification, without a clear emphasis on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:27:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scaled Professional Scrum and the Nexus framework, which are not central to the One Engineering System principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:28:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:08:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scaled Professional Scrum and the Nexus framework, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum through the Scaled Professional Scrum (SPS) course and the Nexus framework. While it touches on team organisation and collaboration, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The emphasis is on Scrum methodologies rather than the continuous delivery of software, leading to a low confidence score in alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on scaling Scrum and the Nexus framework, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on challenges in scaling and collaboration, it does not align with the core themes of the Shift-Left Strategy, which is about proactive measures in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:07:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the practical application of the Nexus framework, which indirectly relates to Continuous Improvement through the enhancement of team collaboration and efficiency. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or a culture of experimentation. While it mentions overcoming challenges and provides techniques, the depth of discussion does not fully align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:08:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses scaling Scrum and the challenges associated with cross-team collaboration, which touches on the importance of alignment and shared objectives. However, it primarily focuses on the practical aspects of the Scaled Professional Scrum course rather than explicitly addressing the concept of Common Goals. While there are mentions of collaboration and accountability, the depth of discussion on how these relate to overarching strategic objectives is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:08:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the development of skills necessary for scaling Scrum, which aligns well with the concept of competence. It highlights the importance of hands-on learning and overcoming challenges, indicating a focus on continuous skill development. The depth of discussion is significant, covering various aspects of the course and its structure, which supports the idea of fostering competence in Agile environments. However, while competence is a primary theme, the content is also heavily focused on the course structure and certification, which slightly dilutes the emphasis on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:08:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum (SPS) and the Nexus framework, which are specific methodologies for scaling Scrum rather than discussing the One Engineering System (1ES). While there are mentions of challenges in scaling and collaboration, these do not directly relate to the principles or components of 1ES. The content lacks depth in discussing integration, standardisation, or best practices relevant to 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

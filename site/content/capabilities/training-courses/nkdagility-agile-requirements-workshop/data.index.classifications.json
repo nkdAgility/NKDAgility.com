@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:34:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile requirements management and workshop details, with no clear discussion on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T15:08:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly aligned with Evidence-Based Management principles. While there is a mention of backlog management, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making that are central to EBM. The depth of discussion is also limited, focusing more on agile practices rather than the strategic approach of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses agile requirements management and backlog planning, which are not directly related to release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:34:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not discuss the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:35:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:08:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to Continuous Delivery. While there is a brief mention of breaking down backlogs, the discussion lacks explicit references to Continuous Delivery principles, automation, or the importance of rapid feedback and validation from users. The depth of discussion is also limited, focusing more on agile methodologies rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are not directly related to the Shift-Left Strategy. While there is a mention of breaking down backlogs, it does not discuss integrating testing, security, or compliance earlier in the development process, nor does it provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:08:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile requirements management and backlog refinement, which are important aspects of Agile methodologies. However, it does not explicitly discuss Continuous Improvement as a primary focus. While there are elements of reflection and adaptation in the context of backlog management, the content lacks a strong emphasis on empirical evidence, data-driven decision-making, or a culture of experimentation, which are core themes of Continuous Improvement. The depth of discussion is limited to practical aspects of agile planning rather than a comprehensive exploration of Continuous Improvement principles.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:08:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are important aspects of Agile but do not directly address the concept of Common Goals. While there are mentions of team collaboration and planning, the discussion lacks explicit references to shared objectives or alignment with strategic goals, which are central to the Common Goals category. The depth of discussion is limited to practical techniques without connecting them to overarching organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:08:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile requirements management and planning practices, which are relevant to competence in terms of skill development and effective backlog management. However, it lacks explicit discussions on continuous learning or the broader implications of competence in Agile methodologies. The focus is more on practical application rather than a deep exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:08:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to the One Engineering System framework. While there are mentions of team collaboration and backlog management, these concepts do not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The discussion lacks depth regarding the specific components or implementation of 1ES, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

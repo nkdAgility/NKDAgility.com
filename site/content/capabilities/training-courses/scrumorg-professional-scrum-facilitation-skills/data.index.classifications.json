@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:01:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum facilitation skills and training, which does not align with Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills and does not explicitly discuss Evidence-Based Management principles. While it touches on improving team interactions and outcomes, it lacks a direct connection to empirical decision-making or the specific metrics outlined in the EBM category. The discussion is more about facilitation techniques rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum facilitation skills and their application within teams, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum facilitation skills and training rather than the integration and standardization of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:01:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum facilitation skills and practices without any mention of Continuous Delivery principles or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills, which is not directly related to Continuous Delivery. While it mentions improving team interactions and problem-solving, it lacks explicit discussions on Continuous Delivery principles, automation, or delivery practices. The content does not delve into the core themes of Continuous Delivery, such as rapid feedback or incremental improvements, and does not provide substantial detail on the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum facilitation skills and does not discuss the Shift-Left Strategy or its principles. While it touches on team dynamics and problem-solving, it lacks any mention of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:01:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on enhancing facilitation skills within Scrum Teams, which indirectly supports Continuous Improvement by fostering better team interactions and problem-solving. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or detailed strategies for integrating these practices into organisational processes. The mention of Scrum values and facilitation techniques suggests some alignment with the category, but the overall depth and focus are insufficient to classify it as a primary discussion on Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:01:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on enhancing facilitation skills within Scrum Teams, which indirectly relates to the concept of Common Goals by promoting effective team interactions and problem-solving. However, it lacks explicit discussions on shared objectives or strategic alignment, which are central to the Common Goals category. The mention of Scrum Values and team dynamics suggests some alignment, but the depth of discussion on Common Goals is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:01:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the development of facilitation skills, which is a key aspect of competence in Agile environments. It highlights the importance of skills development and effective team interactions, aligning with the core themes of competence. However, while it touches on these topics, the focus is more on facilitation techniques rather than a broader discussion of competence as a foundational principle. The depth of discussion is moderate, providing practical applications but lacking extensive exploration of continuous learning or mastery.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:01:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills and does not directly discuss the One Engineering System framework or its principles. While it mentions team interactions and agile practices, these are not aligned with the core themes of 1ES, which emphasises standardisation and integration across engineering processes. The discussion lacks depth regarding 1ES, making it a secondary topic at best.",
     "level": "Ignored"
   }
 }

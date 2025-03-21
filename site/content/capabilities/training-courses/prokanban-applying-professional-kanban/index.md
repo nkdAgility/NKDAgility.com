@@ -43,6 +43,7 @@ tags:
 - Agile Frameworks
 - Lean Thinking
 - Pragmatic Thinking
+- Competence
 - Continuous Learning
 categories:
 - Kanban

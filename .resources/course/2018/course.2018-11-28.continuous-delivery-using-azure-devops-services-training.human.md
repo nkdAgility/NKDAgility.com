@@ -30,7 +30,6 @@ delivery-audiences:
 - Developers
 tags:
 - Azure DevOps
-- Continuous Delivery
 - Continuous Learning
 - Product Delivery
 - Software Development
@@ -39,6 +38,7 @@ tags:
 - Engineering Practices
 - Operational Practices
 - Practical Techniques and Tooling
+- Software Developers
 categories:
 - Engineering Excellence
 preview: pipelines-icon-80.png

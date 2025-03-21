@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:30:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:08:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an engineering practices workshop without any mention of Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile software engineering and ALM practices without any explicit mention of Evidence-Based Management principles or metrics. It lacks a direct discussion on data-informed decision-making or the core themes outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices without a clear emphasis on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:31:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices without discussing the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:32:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:08:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile software engineering and ALM practices without a clear focus on Continuous Delivery principles or methodologies.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions agile software engineering and ALM practices, but it does not explicitly discuss Continuous Delivery principles or practices. The focus is more on general software engineering rather than the specific aspects of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content briefly mentions agile software engineering practices but does not explicitly discuss the Shift-Left Strategy or its core themes. The focus is more on general engineering and ALM practices without delving into the integration of testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:08:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which can relate to Continuous Improvement, but it lacks explicit discussions on the principles of Continuous Improvement. The focus is more on a workshop format rather than a deep exploration of continuous improvement methodologies or strategies. Therefore, while there is some alignment, it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:08:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which could relate to Common Goals, but it lacks explicit discussion on shared objectives or alignment within teams. The focus is more on skills enhancement and practical demonstrations rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:08:26",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content mentions enhancing skills and includes a workshop focused on agile software engineering practices, which aligns with the theme of continuous learning. However, it lacks explicit discussions on competence as a foundational principle, and the depth of exploration into strategies for fostering a culture of competence is minimal.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:08:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which are related to the broader field of software development but do not specifically address the One Engineering System framework or its principles. There is no direct mention of 1ES, and the discussion lacks depth regarding integration, standardisation, or best practices specific to 1ES. Overall, the content does not align closely with the core themes of the category.",
     "level": "Ignored"
   }
 }

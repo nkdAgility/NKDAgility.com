@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile metrics in the enterprise and includes case studies, which are relevant to Evidence-Based Management; however, the primary focus is on Scrum training and not exclusively on EBM principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T15:04:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum and its adoption, with only a brief mention of the role of executives in the process. It does not delve into evidence-based practices or metrics that align with Evidence-Based Management principles. The discussion lacks depth regarding empirical decision-making or the evaluation of current value, time to market, or other key topics outlined in the category.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum, which is a separate framework, rather than focusing on the One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and practices aimed at executives, which is unrelated to Continuous Delivery.",
+    "calculated_at": "2025-03-21T15:04:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, a framework for Agile project management, rather than Continuous Delivery. While it touches on the importance of roles and adoption, it does not discuss Continuous Delivery principles, practices, or related topics. The mention of Scrum does not align with the core themes of Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and its adoption by executives, with no direct mention or discussion of the Shift-Left Strategy. While there may be some conceptual overlap in terms of collaboration and team activities, the core themes of integrating testing, security, and compliance earlier in the software development lifecycle are not addressed. The content lacks depth in discussing any principles or techniques related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:03:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on introducing Scrum to executives and does not explicitly discuss Continuous Improvement principles. While there is a mention of team collaboration, it lacks depth in exploring how Continuous Improvement practices can be integrated into Scrum or organisational processes. The discussion is more about understanding Scrum rather than reflecting on or adapting processes for continuous enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:03:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Scrum and its adoption, which relates to the concept of aligning strategy with execution. However, it lacks a direct focus on Common Goals, as it primarily addresses the basics of Scrum and the roles of executives without delving into shared objectives or strategic alignment. The discussion is more about understanding Scrum rather than exploring how Common Goals can enhance collaboration and accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:03:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of understanding Scrum and the roles of executives in its adoption, which relates to competence in a general sense. However, it lacks a detailed exploration of continuous learning, skill development, or the deeper implications of competence in Agile methodologies. The focus is more on the introduction of Scrum rather than on fostering a culture of competence or discussing strategies for skill enhancement.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:03:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, rather than discussing the One Engineering System (1ES). While it touches on roles and adoption, it does not address the principles, integration, or best practices of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

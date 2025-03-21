@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-21T15:00:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses agile metrics and decision-making, which is closely aligned with Evidence Based Management principles. However, the primary focus is on a course offering rather than a thorough exploration of EBM concepts.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses metrics and data-driven decision-making, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on agile metrics and forecasting without explicitly addressing the broader themes of EBM, such as current value or unrealised value. The depth of discussion on EBM concepts is limited, as it does not explore empirical decision-making or outcome management in detail.",
+    "level": "Tertiary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content predominantly discusses agile metrics and forecasting related to project management, without a specific focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an agile metrics course, which does not discuss the principles, implementation, or any aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:00:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on agile metrics and forecasting in a project management context, without clear relevance to Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are related to project management rather than Continuous Delivery specifically. While it mentions concepts like risk management and decision-making, it does not directly address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion lacks depth in Continuous Delivery topics and does not provide examples or case studies relevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on agile metrics and forecasting rather than explicitly discussing the Shift-Left Strategy. While it touches on aspects of project management and risk minimization, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the specific principles and techniques associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T14:59:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses metrics and forecasting, which are important for data-driven decision-making, a key aspect of Continuous Improvement. However, it primarily focuses on the application of metrics in project management rather than a broader discussion on Continuous Improvement principles. The depth of discussion is limited, as it does not explore techniques for fostering a culture of experimentation or provide case studies on Continuous Improvement initiatives.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:00:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than explicitly discussing Common Goals. While it touches on decision-making and project success, it lacks a direct connection to shared objectives or alignment within teams, which are central to the Common Goals category. The discussion is more about individual metrics and tools rather than the overarching strategic alignment that defines Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:00:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of mastering agile metrics and forecasting, which relates to competence in terms of skill development and decision-making. However, it primarily focuses on the course structure and specific metrics rather than a broader discussion on competence as a foundational principle. The mention of enhancing project success and decision-making aligns with the core themes, but the depth of discussion on competence itself is limited.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:00:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than the One Engineering System framework. While it touches on project management and decision-making, it does not explicitly discuss the principles, components, or implementation of 1ES. The mention of metrics could relate to broader engineering practices but lacks direct relevance to the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

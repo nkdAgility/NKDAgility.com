@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:48:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Evidence-Based Management, particularly through its emphasis on data-driven decision-making, the importance of metrics, and aligning product management with business strategy, while primarily focusing on the Product Owner role in the Scrum framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T15:05:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and the role of the Product Owner, with limited direct mention of Evidence-Based Management principles. While it touches on driving product success, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to EBM.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -319,15 +322,6 @@
     "final_score": 65.0,
     "reasoning": "The content mentions 'release management' as part of the objectives for the Product Owner role, indicating that it has a significant emphasis on the release process, although the primary focus remains on Agile and Scrum principles.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:48:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles, principles, and training without addressing the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:48:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum principles and the role of the Product Owner, with no clear discussion on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T15:05:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, which is related to Agile practices rather than Continuous Delivery specifically. While it mentions driving product success, it does not delve into Continuous Delivery principles, automation, or the specific practices that enhance software delivery cycles.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a Product Owner within the Scrum framework, with no explicit mention of the Shift-Left Strategy or its principles. While Agile principles are referenced, they do not specifically address the integration of testing, security, or compliance earlier in the development process, which is central to the Shift-Left concept. Therefore, the content does not align with the category's key topics or provide any depth on the subject.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:04:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile principles, which are related to Continuous Improvement, but it primarily focuses on the Product Owner role in Scrum without delving into Continuous Improvement practices or strategies. There is minimal direct discussion of Continuous Improvement concepts, and the depth of exploration into the category is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:04:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile principles and the Product Owner role, which are related to Common Goals. However, it lacks a direct focus on the alignment of strategy with execution or the significance of shared objectives within teams. The discussion is more centred on the role and practical exercises rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:04:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content mentions mastering the Product Owner role and driving product success using Agile principles, which indicates a focus on skill development and competence. However, it lacks detailed discussions on continuous learning, strategies for fostering competence, or the impact of competence on decision-making, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:05:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and the role of the Product Owner, which are not directly related to the One Engineering System. While Agile principles are mentioned, there is no explicit discussion of 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

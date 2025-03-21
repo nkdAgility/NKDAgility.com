@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses hands-on skills for product development that focus on experimentation, evidence collection, and decision-making based on empirical data, aligning closely with the principles of Evidence-Based Management.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T14:59:26",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Evidence-Based Management or its key topics. It lacks any discussion on data-informed decision-making or empirical evidence, focusing instead on a vague request for information about product discovery and validation skills without providing relevant details.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on product discovery and validation, with no clear discussion on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product discovery and validation skills within a Scrum framework and does not focus on the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T14:59:23",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product discovery and validation skills, primarily focused on Scrum and product management, with no relevance to Continuous Delivery.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Continuous Delivery or its principles. It lacks any discussion on automation, incremental improvements, or related strategies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content does not mention the Shift-Left Strategy or its principles, nor does it discuss any related topics such as testing, security, or compliance in the software development lifecycle. The lack of relevant information and focus on product discovery and validation skills indicates a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T14:59:16",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Continuous Improvement or its principles. It lacks any discussion on related topics such as empirical evidence, team effectiveness, or strategies for improvement. The absence of relevant details significantly diminishes its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T14:59:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Common Goals or related concepts. It lacks any discussion on alignment, shared objectives, or Agile and DevOps principles, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T14:59:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not provide any specific information or discussion related to competence, continuous learning, or skill development. It lacks direct mentions and does not align with the core themes of the category, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T14:59:21",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not mention the One Engineering System or its principles, nor does it discuss any related topics. It lacks any relevant detail or context that aligns with the category's focus on standardising and integrating software development practices.",
     "level": "Ignored"
   }
 }

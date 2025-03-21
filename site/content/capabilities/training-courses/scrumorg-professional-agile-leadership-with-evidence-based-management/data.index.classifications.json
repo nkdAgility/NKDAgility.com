@@ -88,12 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:42:42",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-21T15:01:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content focuses on a course designed to enhance leadership skills in Evidence-Based Management (EBM), detailing how to use empirical evidence to improve organizational performance and decision-making. It outlines key principles of EBM, techniques for measuring success, and the desire to foster a culture of evidence-based decision-making. The primary topic remains tightly aligned with EBM and discusses its application in an organizational context.",
-    "level": "Primary"
+    "final_score": 72.0,
+    "reasoning": "The content explicitly mentions Evidence-Based Management (EBM) and discusses its importance in enhancing leadership skills and driving business agility. It aligns with the core themes of EBM, such as focusing on customer value and using metrics to guide decision-making. However, while it provides a good overview of the course structure and its relevance to EBM, it lacks in-depth discussion on specific metrics or empirical decision-making processes, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content focuses on Evidence-Based Management in Agile leadership, not on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:42:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Evidence-Based Management within Agile leadership, with no mention or discussion of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:42:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and Evidence-Based Management (EBM), which does not directly relate to the principles, practices, or methodologies of Continuous Delivery.",
+    "calculated_at": "2025-03-21T15:01:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, which are related to improving business agility and customer value but do not specifically address Continuous Delivery principles or practices. While there are mentions of continuous improvement and customer outcomes, the discussion lacks depth in Continuous Delivery concepts such as automation, rapid feedback, and deployment strategies.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, with no explicit mention of the Shift-Left Strategy. While it discusses improving customer outcomes and organisational capabilities, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:01:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in driving business agility and customer value, which aligns with the principles of Continuous Improvement. It mentions the importance of adapting to changing markets and customer needs, reflecting a commitment to ongoing enhancement. However, while it touches on key-value metrics and continuous improvement of outcomes, the discussion lacks depth in specific Continuous Improvement techniques and frameworks, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:01:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of aligning leadership skills with business agility and customer value, which relates to the concept of Common Goals. However, it primarily focuses on the training course structure and does not delve deeply into how these goals are operationalised within Agile or DevOps frameworks. The mention of strategic goals is present but lacks detailed exploration, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:01:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of continuous improvement and skill development through the PAL-EBM course, which aligns with the core themes of competence. It highlights the need for evidence-based management to enhance leadership skills and improve organizational capabilities, indicating a focus on professional growth. However, while competence is a significant aspect, the content primarily promotes the course rather than deeply exploring the concept of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:01:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) course, which is centred around Agile leadership and customer value rather than the One Engineering System framework. While there are elements of improving organisational performance and agility, these do not directly relate to the principles or components of 1ES. The discussion lacks explicit mentions of 1ES, integration of tools and processes, or best practices for implementing a unified engineering system, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

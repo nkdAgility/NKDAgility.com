@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:04:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Kanban training course using Azure Boards and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Kanban course and the use of Azure Boards, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on improving flow and throughput, it lacks a direct connection to empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a Kanban course using Azure Boards, which is more about workflow management and Agile practices than specifically about Release Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban practices and the use of Azure Boards, with no direct reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:04:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Kanban principles and Azure Boards, with no direct discussion on Continuous Delivery practices or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, which are methodologies and tools for managing workflows rather than Continuous Delivery practices. While there is a mention of improving flow and throughput, it does not explicitly discuss Continuous Delivery principles, automation, or rapid feedback mechanisms that are central to the category. The discussion lacks depth and does not provide insights into Continuous Delivery's core themes.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Kanban and Azure Boards, with no explicit discussion of the Shift-Left Strategy. While it touches on improving flow and throughput, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:04:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions improving flow and throughput through Kanban, which aligns with the principles of Continuous Improvement. However, it lacks a detailed discussion on the methodologies, empirical evidence, or strategies for fostering a culture of experimentation and learning. The focus is primarily on a course offering rather than a comprehensive exploration of Continuous Improvement concepts.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:04:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the concept of teams working on a common project and case study, which aligns with the idea of shared objectives. However, it primarily focuses on Kanban and Azure Boards without delving into the significance of Common Goals within Agile or DevOps frameworks. The discussion lacks depth regarding how these goals guide decision-making or connect individual contributions to the organisation's mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:04:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a course about Kanban and Azure Boards, which indirectly relates to competence through the improvement of team flow and throughput. However, it lacks explicit discussions on continuous learning, skill development, or the deeper implications of competence in Agile methodologies. The mention of hands-on learning and team projects suggests some alignment with competence, but the overall depth and direct references are minimal.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:04:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, which are not directly related to the One Engineering System framework. While it discusses improving flow and throughput in software development, it does not address the principles, integration, or best practices of 1ES. The mention of a course on Kanban indicates a secondary focus on agile methodologies rather than the core themes of 1ES.",
     "level": "Ignored"
   }
 }

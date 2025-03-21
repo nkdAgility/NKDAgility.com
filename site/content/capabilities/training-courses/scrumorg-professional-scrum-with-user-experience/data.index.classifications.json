@@ -88,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T15:05:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on integrating User Experience into Scrum practices, rather than on evidence-based management principles or data-driven decision-making.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss Evidence-Based Management principles. While it touches on value-based outcomes and collaborative practices, it lacks a strong emphasis on empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +321,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily focuses on Scrum and UX integration rather than on release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Professional Scrum and User Experience, lacking any discussion of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +613,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T15:05:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the role of UX within Scrum and does not explicitly discuss Continuous Delivery principles or practices. While it touches on collaborative processes and value delivery, it lacks depth in Continuous Delivery topics such as automation, rapid feedback, or specific strategies for improving software quality.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss the Shift-Left Strategy. While it touches on collaborative practices and Lean UX, it lacks a direct connection to integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T15:05:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of UX in Scrum and mentions Lean UX techniques, which align with Continuous Improvement principles. However, it primarily focuses on UX and Scrum rather than Continuous Improvement as a primary topic. The discussion of empirical and incremental skill development hints at Continuous Improvement but lacks depth and direct focus on its core themes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T15:05:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of UX in Scrum and mentions collaboration within cross-functional teams, which aligns with the concept of shared objectives. However, it primarily focuses on UX techniques and certification rather than explicitly addressing Common Goals in Agile or DevOps. The discussion lacks depth on how these elements connect to overarching strategic objectives, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T15:05:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of UX in Scrum and mentions skill development through hands-on learning and community support, which aligns with the concept of competence. However, it primarily focuses on UX practices rather than a broader discussion of competence in Agile methodologies. The depth of discussion on competence is limited, as it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:05:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and UX practices, with no direct mention of the One Engineering System framework. While it discusses collaboration and integration within teams, it does not align with the core principles of 1ES, nor does it provide depth on standardising engineering processes.",
     "level": "Ignored"
   }
 }
