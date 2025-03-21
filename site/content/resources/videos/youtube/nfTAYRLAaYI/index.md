@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Improvement
 - Agile Frameworks
 - Agile Project Management
 - Software Development

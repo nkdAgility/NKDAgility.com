@@ -31,11 +31,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:45:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:35:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and community updates, with no significant discussion on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and community updates, with no explicit discussion of DevOps principles or practices. While it mentions collaboration and training, these are framed within the context of Scrum rather than the broader DevOps philosophy. There is a lack of depth regarding key DevOps topics such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -259,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:22:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:35:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on Scrum training and community updates; no discussion of Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on training and community updates related to Scrum, with no explicit discussion of Continuous Delivery principles or practices. While it mentions improving skills for Scrum roles, it does not delve into automation, rapid feedback, or delivery techniques that are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -399,15 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and community updates, with no significant discussion on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:22:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training classes and community engagement rather than the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1210,11 +1207,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:22:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:35:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on training classes and updates related to Scrum, rather than the Agile Product Operating Model as a central theme.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on training and community updates related to Scrum, without a direct discussion of the Agile Product Operating Model. While it mentions roles like Product Owners and Scrum Masters, it lacks a comprehensive exploration of the principles and practices that define the APOM framework.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1426,11 +1426,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:22:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:35:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training updates, community engagement, and course offerings without clear evidence-based management discussions.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on training classes and community updates related to Scrum, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions improving training experiences and skills, it lacks a direct connection to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1500,6 +1503,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on training classes and community updates related to Scrum and Agile practices, with no explicit mention or discussion of the Shift-Left Strategy. While it touches on improving skills for Scrum roles, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:35:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on announcements regarding new trainers and training classes, with minimal direct discussion of Continuous Improvement principles. While there are mentions of improving training experiences and community growth, these are not deeply explored in the context of Continuous Improvement methodologies or practices. The content lacks empirical evidence, detailed strategies, or case studies that would typically align with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:35:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on announcements regarding new trainers and training classes, with minimal direct discussion of Common Goals. While it mentions the importance of training for Scrum Teams, it lacks a clear connection to shared objectives or strategic alignment within Agile or DevOps frameworks. The overall emphasis is on community growth and training logistics rather than on the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:35:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the expansion of training classes and the addition of new trainers, highlighting the importance of competence in delivering quality training. It mentions a rigorous process for selecting trainers based on their competence, which aligns with the core themes of the category. However, while competence is a significant aspect of the content, it is not the primary focus, as the overall message is more about the growth of the training programme and community engagement.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:35:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on training classes and community engagement related to Scrum, without discussing the principles or components of the One Engineering System. While it mentions improving training experiences and collaboration, it does not delve into the integration of tools or processes across teams, nor does it provide insights into the implementation or impact of 1ES.",
     "level": "Ignored"
   }
 }

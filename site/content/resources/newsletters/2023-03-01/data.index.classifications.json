@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:32:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:20:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning programs and Scrum training, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an Immersion Program for learning and training in Scrum methodologies, with no explicit discussion of DevOps principles or practices. While there are mentions of collaboration and retrospectives, these concepts are not framed within the context of DevOps, which emphasises continuous value delivery and shared accountability across development and operations. The content lacks depth in discussing any DevOps-related themes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -265,11 +268,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:20:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on immersive learning programs and methodologies related to Scrum, with no discussion of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an Immersion Program for experiential learning rather than Continuous Delivery. While it touches on aspects of learning and improvement, it does not explicitly discuss Continuous Delivery principles, automation, or delivery practices. The mention of retrospectives and applying learning in real-world contexts is somewhat relevant but does not align closely with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -411,15 +417,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses experiential learning and immersion programs, which do not align with Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on immersive learning programs and Scrum training, with no substantial discussion on the One Engineering System or its integration and standardization principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1243,14 +1240,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T01:23:14",
+    "calculated_at": "2025-03-21T20:20:40",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses an Immersion Program that incorporates experiential learning and retrospectives, which aligns with Agile principles. However, it primarily focuses on training formats rather than the broader Agile Product Operating Model. While there are mentions of applying learning in real-world contexts, the discussion lacks depth on product-centric development and value delivery, which are core to the Agile Product Operating Model.",
+    "reasoning": "The content discusses an Immersion Program that incorporates elements of experiential learning and retrospectives, which align with agile principles. However, it primarily focuses on the learning format rather than the Agile Product Operating Model itself. There are brief mentions of Scrum and product ownership, but the core discussion does not centre on the APOM framework or its key topics.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1462,11 +1459,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:20:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an immersion program focused on experiential learning and training delivery methods, without addressing core principles of Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an Immersion Program for experiential learning rather than discussing Evidence-Based Management. While it touches on practical applications and learning outcomes, it lacks explicit references to empirical evidence, data-informed decision-making, or the key topics outlined in the EBM category. The discussion is more about learning formats and participant engagement than about managing for value delivery or using metrics to inform decisions.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on immersive learning programs and training methodologies rather than discussing the Shift-Left Strategy in software development. While there are elements of experiential learning that could tangentially relate to early engagement in learning, there is no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:20:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Immersion Program, which incorporates elements of Continuous Improvement through retrospectives and real-world application of learning. It highlights the importance of adapting learning methods to enhance effectiveness, which aligns with the principles of Continuous Improvement. However, while it touches on these themes, the primary focus is on the program's structure and benefits rather than a comprehensive exploration of Continuous Improvement as a standalone topic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:20:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Immersion Program and its benefits for experiential learning, which is somewhat related to the concept of aligning learning with practical application. However, it lacks explicit discussions on Common Goals within Agile and DevOps frameworks. While it touches on collaboration and engagement, it does not delve into the strategic alignment or ownership aspects that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:20:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Immersion Program, which focuses on practical application and continuous learning, aligning well with the principles of competence. It highlights the importance of real-world application, retrospectives for improvement, and the need for ongoing skill development. The depth of discussion on how the program enhances learning outcomes and fosters a culture of competence is significant, although it does not explicitly mention competence as a term frequently.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:20:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an Immersion Program for experiential learning and does not explicitly discuss the One Engineering System or its principles. While there are elements of collaboration and practical application, these are not framed within the context of 1ES. The discussion lacks depth regarding integration of tools and processes, best practices, or challenges related to a unified engineering system.",
     "level": "Ignored"
   }
 }

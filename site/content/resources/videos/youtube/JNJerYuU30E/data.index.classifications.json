@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T07:30:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:55:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum, with no focus on DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on agile practices and mentorship within the agile community, specifically highlighting the contributions of Jernimo Palacios. While there are elements of collaboration and continuous improvement mentioned, which are relevant to DevOps, the overall emphasis is on agile methodologies rather than the broader DevOps philosophy. The discussion lacks direct references to key DevOps principles such as automation, shared accountability, or the integration of quality and security practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -247,11 +250,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile methodologies and Scrum, with no clear discussion or connection to Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:55:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on mentorship and community building within the agile framework, specifically highlighting the contributions of Jernimo Palacios. While it touches on themes of continuous improvement and collaboration, which are relevant to Continuous Delivery, it does not explicitly discuss Continuous Delivery principles, practices, or tools. The discussion is more aligned with Agile methodologies rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -387,15 +393,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum practices, focusing on individual influence in Agile careers rather than on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile and Scrum, focusing on mentorship and training, with no connection to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1192,11 +1189,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:55:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses individuals in the Agile and Scrum fields rather than the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on mentorship and community within the agile practices, specifically highlighting the contributions of Jernimo Palacios. While it mentions agile principles and the importance of collaboration, it does not explicitly discuss the Agile Product Operating Model or its core themes such as product management, operational stability, or Evidence-Based Management. The discussion is more about personal experiences and community building rather than the structured framework of APOM.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1399,11 +1399,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an influential person in Agile and their impact, rather than on principles or practices of Evidence-Based Management.",
+    "calculated_at": "2025-03-21T19:55:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on mentorship and community building within the agile practices, with no direct discussion of Evidence-Based Management principles or metrics. While it touches on themes of collaboration and continuous improvement, it lacks empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1473,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on mentorship and community building within the agile practices, with no explicit discussion of the Shift-Left Strategy. While it touches on themes of collaboration and continuous improvement, these are general agile principles rather than specific to integrating testing, security, or compliance earlier in the development process. Therefore, the alignment with the Shift-Left Strategy is minimal.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:55:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous improvement in the context of mentorship and community within the agile framework. While it does mention continuous improvement, it primarily focuses on the influence of Jernimo Palacios and the value of mentorship rather than providing a detailed exploration of continuous improvement principles or strategies. The alignment with the category is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:55:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the personal journey and mentorship of Jernimo Palacios within the agile community, which, while related to Agile practices, does not explicitly discuss Common Goals as defined in the category. Mentorship and community building are mentioned, but they are not directly tied to the alignment of strategy and execution or the operationalisation of Common Goals. The discussion lacks depth in connecting these themes to the broader organisational objectives and frameworks like OKRs, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of mentorship and knowledge sharing in the agile community, which aligns with the principles of competence. It highlights Jernimo Palacios' role in fostering growth and continuous improvement, directly addressing the need for skill development and collaboration. While the focus is on mentorship, it implicitly supports the idea of competence through the emphasis on learning and community building, thus providing a strong alignment with the category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:55:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on mentorship and community within the agile practices, specifically highlighting the contributions of Jernimo Palacios. While it discusses aspects of collaboration and knowledge sharing, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion is centred around personal experiences and the agile community rather than the integration and standardisation of engineering processes, which is the core focus of 1ES.",
     "level": "Ignored"
   }
 }

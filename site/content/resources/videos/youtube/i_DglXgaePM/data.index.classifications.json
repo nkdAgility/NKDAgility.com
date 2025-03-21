@@ -1,12 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational change and scaling agile practices, without a clear focus on DevOps principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T21:03:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses DevOps in the context of Agile practices, highlighting the importance of engineering excellence and continuous improvement. While it mentions DevOps, the primary focus is on Agile methodologies and their implementation, which detracts from a deeper exploration of DevOps principles. The discussion includes relevant themes such as collaboration and accountability, but lacks a thorough examination of DevOps-specific practices and cultural shifts.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -244,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses agile scaling and organizational change, but does not focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T21:03:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile and DevOps practices, emphasising engineering excellence and continuous improvement, which are relevant to Continuous Delivery. However, it lacks direct mentions of Continuous Delivery principles and does not delve deeply into specific practices or tools associated with Continuous Delivery. The focus is more on Agile methodologies and cultural aspects rather than the specific delivery practices outlined in the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -381,15 +387,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling agile principles and the challenges organizations face in changing their business practices, without addressing Value Stream Management concepts directly.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses scaling and agile principles but does not focus on the integration and standardization of engineering practices as defined in the 1ES framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1201,12 +1198,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the challenges of scaling Agile and the need for fundamental changes in business practices without a direct focus on the Agile Product Operating Model.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T21:03:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Agile mindset and the importance of effective product ownership, which aligns with the principles of the Agile Product Operating Model. It mentions the need for continuous improvement and the role of metrics, which are relevant to APOM. However, the primary focus is more on general Agile and DevOps practices rather than specifically on the Agile Product Operating Model, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1417,12 +1417,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling in agile organizations and the challenges they face, not focusing on empirical evidence or evidence-based management principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T21:03:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content briefly mentions evidence-based management (EBM) metrics in the context of measuring progress and making informed decisions, which aligns with the category. However, the primary focus is on Agile and DevOps practices rather than a deep exploration of EBM principles. The discussion on metrics is relevant but not extensive enough to warrant a higher score.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile and DevOps principles, focusing on engineering excellence and the importance of a mindset shift. However, it does not explicitly mention the Shift-Left Strategy or its core themes, such as integrating testing and security early in the development process. While there are elements of continuous improvement and metrics, the primary focus remains on Agile practices rather than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:03:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of continuous improvement within the context of Agile and DevOps, highlighting the need for a culture of learning and adaptation. It mentions fostering a culture of continuous improvement and the role of metrics in measuring progress, which aligns with the core themes of the category. However, while these concepts are present, they are not the primary focus of the content, which also heavily emphasises engineering excellence and the Agile mindset. Therefore, the confidence score reflects a strong but not dominant alignment with the Continuous Improvement category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:03:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile and DevOps principles but lacks a direct focus on Common Goals. While it touches on the importance of collaboration and continuous improvement, it does not explicitly define or explore the significance of Common Goals in aligning strategy with execution. The discussion is more centred on engineering excellence and the Agile mindset rather than the shared objectives that guide decision-making within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:03:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of engineering excellence and continuous improvement, which aligns well with the principles of competence. It highlights the need for skill development, particularly in the context of product ownership and Agile practices. The depth of discussion on fostering a culture of learning and the consequences of neglecting competence in engineering practices further supports a strong alignment with the category. However, while competence is a significant theme, the content also touches on broader Agile concepts, which slightly dilutes its primary focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:03:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Agile and DevOps practices, focusing on engineering excellence and the Agile mindset. While it touches on themes of collaboration and continuous improvement, it does not explicitly mention the One Engineering System framework or its principles. The discussion lacks depth regarding the integration of tools and processes across teams, which is central to 1ES. Therefore, the content is only tangentially related to the category.",
     "level": "Ignored"
   }
 }

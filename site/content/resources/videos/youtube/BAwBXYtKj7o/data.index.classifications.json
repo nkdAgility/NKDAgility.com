@@ -655,15 +655,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T17:13:51",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T16:56:49",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses technical debt management and its impact on software delivery, mentioning Continuous Delivery in the context of the Azure DevOps team's transition from a waterfall model to a three-week cycle. However, the primary focus is on technical debt rather than Continuous Delivery principles and practices. While there are relevant connections to CD, such as the importance of feedback loops and the ability to deliver features, the depth of discussion on Continuous Delivery itself is limited, making it a secondary theme rather than the main focus.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses technical debt management and its impact on software delivery, particularly in the context of a transition to continuous delivery. While it mentions continuous delivery and provides a case study of the Azure DevOps team, the primary focus is on technical debt rather than the principles and practices of continuous delivery itself. The discussion on how managing technical debt can enhance delivery speed and quality aligns with the category, but it lacks a comprehensive exploration of continuous delivery practices, automation, and cultural aspects.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -832,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T09:17:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:56:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automated testing and software engineering practices, with no clear focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt management and its impact on software delivery, but it does not explicitly mention Evidence-Based Management or its key topics. While there are elements of empirical decision-making and value delivery, the focus is primarily on technical debt rather than a broader evidence-based approach to management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1466,15 +1469,6 @@
     "reasoning": "Content primarily discusses automated testing and software engineering practices, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:02:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses automated testing and its importance in software engineering, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:40:35",
@@ -1548,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses technical debt management and its impact on software delivery, which indirectly relates to the Shift-Left Strategy by emphasising the importance of addressing issues early in the development process. However, it primarily focuses on technical debt rather than explicitly integrating testing, security, or compliance earlier in the lifecycle. The mention of feedback loops and continuous delivery hints at Shift-Left principles, but the overall discussion lacks a direct focus on the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:56:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses technical debt management and its impact on software delivery, which indirectly relates to Continuous Improvement through the lens of enhancing processes and product quality. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or a structured approach to fostering a culture of experimentation. While it highlights the benefits of addressing technical debt, it does not delve deeply into strategies or frameworks that support Continuous Improvement, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:56:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical debt management and its implications for software delivery, which does not directly address the concept of Common Goals. While it touches on aspects of team performance and delivery, it lacks explicit discussions on shared objectives or alignment within Agile and DevOps frameworks. The focus is more on technical practices rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:56:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses technical debt management and its implications for software quality, which indirectly relates to competence through the lens of making informed decisions and improving team capabilities. However, while it touches on the importance of addressing technical debt to enhance delivery and quality, it does not explicitly focus on continuous learning or skill development, which are core themes of competence. The depth of discussion on competence is limited, primarily revolving around the consequences of poor decisions rather than strategies for fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:56:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses technical debt management and its implications for software quality and delivery, but it does not explicitly mention the One Engineering System (1ES) framework or its principles. While there are references to improving software delivery and efficiency, these are not directly tied to the integration and standardisation of engineering processes as outlined in the 1ES category. The focus is more on individual practices rather than a unified engineering system.",
     "level": "Ignored"
   }
 }

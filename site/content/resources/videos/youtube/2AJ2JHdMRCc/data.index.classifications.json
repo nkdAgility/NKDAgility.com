@@ -25,14 +25,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:09:04",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
+    "calculated_at": "2025-03-21T19:32:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "The content explicitly discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and the integration of processes, practices, and tools. This aligns well with the core themes of DevOps, particularly in terms of enhancing collaboration and streamlining workflows. However, while it provides a solid overview, it lacks detailed exploration of specific practices, tools, or metrics that would further deepen the discussion.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and the importance of feedback loops. It aligns well with the core themes of DevOps, such as collaboration and the integration of processes and practices. However, while it provides a good overview, it lacks in-depth exploration of specific DevOps principles or practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -97,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:15:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:33:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no direct mention of Evidence-Based Management principles or metrics. While it discusses value delivery and customer feedback, it does not provide empirical evidence or data-informed decision-making, which are central to EBM. The discussion lacks depth regarding the specific themes outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -343,15 +346,6 @@
     "final_score": 50.0,
     "reasoning": "The content briefly mentions continuous delivery, which is a key aspect of release management, but it does not explicitly discuss release planning, scheduling, or coordination among stakeholders. The focus is more on DevOps as a whole rather than the specific practices of release management, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:16:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, rather than focusing on the principles or implementation of the One Engineering System (1ES).",
-    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -658,15 +652,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T23:36:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T19:33:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content primarily discusses DevOps rather than Continuous Delivery specifically. While it touches on the concept of continuous delivery of value, it lacks explicit references to the principles and practices of Continuous Delivery as defined by Jez Humble and Dave Farley. The discussion is more focused on the broader DevOps framework, which includes but is not limited to Continuous Delivery. The depth of discussion on Continuous Delivery is minimal, with no detailed exploration of automation, deployment risks, or production readiness.",
-    "level": "Ignored"
+    "final_score": 58.0,
+    "reasoning": "The content discusses DevOps, which is closely related to Continuous Delivery, but it does not explicitly focus on Continuous Delivery principles or practices. While it mentions the importance of delivering value and feedback loops, it lacks detailed exploration of Continuous Delivery techniques, automation, or cultural aspects. The primary focus is on DevOps rather than Continuous Delivery itself.",
+    "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -757,14 +751,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:36:08",
+    "calculated_at": "2025-03-21T19:33:02",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only a brief mention of Agile and Scrum. While it touches on concepts like continuous delivery and feedback loops, it does not delve into the Agile Product Operating Model or its principles, strategies, or metrics. The discussion lacks depth regarding product-centric development and does not align closely with the core themes of the category.",
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only a brief mention of Agile and Scrum. While it touches on concepts like continuous delivery and customer feedback, it does not delve into the principles or practices of the Agile Product Operating Model, making it more aligned with general software engineering discussions rather than the specific category of APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1536,6 +1530,54 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses DevOps and its role in software engineering, with only a brief mention of feedback loops, which is a peripheral aspect of the Shift-Left Strategy. There is no explicit discussion of integrating testing, security, or compliance early in the development process, nor does it provide depth on the principles or techniques of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:32:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only brief mentions of concepts related to Continuous Improvement, such as feedback loops and iteration. However, it lacks a detailed discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:32:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of DevOps in software engineering, focusing on its role in continuous delivery and product development. While it touches on Agile and Scrum, it does not explicitly address Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:32:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in delivering value and facilitating feedback loops. However, it lacks direct mentions of competence as a foundational principle and does not delve into continuous learning or skill development, which are key aspects of the category. The focus is more on the processes and tools of DevOps rather than on the development of competence within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:33:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps, discussing its importance and role in software engineering without any explicit mention or discussion of the One Engineering System (1ES). While it touches on integration and processes, it does not align with the core themes of 1ES, such as standardisation across teams or specific best practices for implementing 1ES. The depth of discussion is also minimal regarding the principles of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

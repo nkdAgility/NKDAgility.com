@@ -679,15 +679,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T16:20:36",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T16:55:45",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly mentions continuous delivery as part of a broader discussion on shifting left and engineering excellence. However, it lacks a focused exploration of Continuous Delivery principles, practices, or methodologies. The discussion is more centred on general engineering practices and quality rather than the specificities of Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions continuous delivery as part of a broader discussion on performance engineering and quality. While it touches on relevant themes such as shifting left and building a culture of quality, it does not delve deeply into Continuous Delivery principles or practices. The focus is more on general engineering excellence rather than a dedicated exploration of Continuous Delivery.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -853,11 +853,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:20:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:55:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses performance engineering and software development practices without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses performance engineering and the importance of quality in product development, which aligns with the concept of delivering value. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or specific metrics. The focus is more on engineering practices and quality culture rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1496,15 +1499,6 @@
     "reasoning": "Content primarily discusses performance engineering and software development practices without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:01:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses performance engineering and testing in production, with no clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:40:11",
@@ -1579,5 +1573,53 @@
     "final_score": 74.0,
     "reasoning": "The content explicitly discusses the concept of shifting left in various contexts, including testing, security, and user experience, which aligns closely with the core themes of the Shift-Left Strategy. It provides a detailed exploration of how these elements should be integrated early in the development process to enhance quality and reduce costs associated with poor products. The depth of discussion is significant, as it not only mentions shifting left but also elaborates on the importance of building a culture of quality and technical leadership within teams. Overall, the content is highly relevant and focused on the Shift-Left Strategy.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:55:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses performance engineering and the importance of quality in software development, which aligns with the principles of Continuous Improvement. However, it primarily focuses on technical practices and does not explicitly mention Continuous Improvement as a concept. The discussion on shifting left and building a culture of quality suggests some alignment with Continuous Improvement, but the depth of discussion is more about engineering practices than the broader philosophy of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses engineering excellence and the importance of quality in product development, which indirectly relates to the concept of Common Goals. However, it lacks explicit mentions of shared objectives or alignment within teams, focusing more on technical practices and individual contributions rather than collective goals. The discussion is more about performance engineering and technical leadership than about aligning strategy with execution in an Agile or DevOps context.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:55:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of building skills and capabilities within teams to achieve engineering excellence, which aligns well with the concept of competence. It mentions the need for continuous improvement and transparency in dealing with technical debt, indicating a focus on quality and professionalism. However, while competence is a significant theme, the content primarily revolves around performance engineering and technical leadership, which slightly dilutes its focus on competence as a standalone topic.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses performance engineering and the importance of quality in software development, which aligns with some principles of the One Engineering System. However, it lacks direct mentions of 1ES and does not focus on the integration of tools and processes across teams, which is a core aspect of the category. The discussion is more about general engineering excellence rather than the specific framework of 1ES.",
+    "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:40:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:46:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management principles and historical context, with no focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on project management, discussing its history and evolution without any direct reference to DevOps principles or practices. While it mentions Agile and Scrum, these are methodologies that do not inherently align with the core themes of DevOps, such as collaboration, automation, and shared accountability. The lack of depth in discussing DevOps concepts further supports a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:46:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the historical and modern aspects of project management without discussing evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with a brief mention of Agile and Scrum. However, it lacks explicit discussions on Evidence-Based Management principles, empirical decision-making, or metrics related to value delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -318,15 +324,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Project Management, its history, and tools but does not focus on Release Management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses project management history and principles, without reference to the One Engineering System or related integration and standardization practices.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -622,11 +619,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:46:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management concepts and practices, which are unrelated to Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on project management, discussing its historical context and evolution without any direct mention of Continuous Delivery principles or practices. While it briefly touches on Agile and Scrum, these are not explored in relation to Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -712,11 +712,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:46:32",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses traditional project management methodologies without any reference to the Agile Product Operating Model.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on traditional project management principles and historical context, with only brief mentions of agile and scrum. It does not delve into the Agile Product Operating Model or its core themes, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1416,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on the historical context and evolution of project management, with no direct mention or discussion of the Shift-Left Strategy. It does not address integrating testing, security, or compliance early in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The content is more aligned with general project management concepts rather than the specific themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:46:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with only a brief mention of Agile and Scrum. It does not explicitly discuss Continuous Improvement principles or provide depth on related strategies, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:46:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the history and evolution of project management rather than discussing Common Goals within Agile and DevOps frameworks. While it briefly mentions Agile and Scrum, these references are not central to the discussion and do not explore the alignment of strategy with execution or shared objectives. The content lacks depth in addressing the significance of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:46:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the historical evolution and tools of project management rather than discussing competence in Agile or DevOps contexts. While it briefly mentions Agile and Scrum, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion lacks depth and does not provide substantial insights into fostering a culture of competence or inspecting and adapting competence over time.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:46:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on project management as a discipline, discussing its historical evolution and tools like the Gantt chart. It does not mention the One Engineering System or its principles, nor does it align with the core themes of integration and standardisation of engineering processes. The discussion is superficial and lacks depth regarding 1ES.",
     "level": "Ignored"
   }
 }

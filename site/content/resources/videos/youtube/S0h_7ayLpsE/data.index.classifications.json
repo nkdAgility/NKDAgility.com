@@ -658,12 +658,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:05:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:02:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of data collection and analysis that can inform product management and decision-making, which are relevant to Continuous Delivery. However, the primary focus is on evidence-based management and metrics rather than the core principles and practices of Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management within Agile practices, discussing data-driven decision-making rather than Continuous Delivery principles. While it touches on aspects like 'Time to Market' and mentions continuous integration, these are not explored in the context of Continuous Delivery. The discussion lacks depth on the core themes of Continuous Delivery, such as automation in deployment or cultural aspects, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -835,14 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:30:46",
+    "calculated_at": "2025-03-21T17:02:54",
     "ai_confidence": 92.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 30,
     "final_score": 86.0,
-    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) as a primary focus, detailing its principles, key value areas, and the importance of data-driven decision-making. It provides a thorough exploration of how to gather and analyse data, aligning closely with the core themes of EBM. The depth of discussion is significant, offering practical examples and tools for implementation, which reinforces its relevance to the category.",
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) as a primary focus, detailing its principles and four key value areas. It provides substantial depth on how to gather and analyse data, aligning closely with the core themes of EBM. The discussion is rich in examples and practical advice, demonstrating a strong commitment to data-driven decision-making, which is central to EBM.",
     "level": "Primary"
   },
   "Backlog Refinement": {
@@ -1496,15 +1499,6 @@
     "reasoning": "Content primarily discusses evidence-based management and data analysis in product management, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:05:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses evidence-based management and its application in software engineering, touching on the importance of data collection and analysis. While it mentions the One Engineering System (1ES) concept, it is not the primary focus, and the majority of the content revolves around evidence-based management principles rather than the integration and standardisation of engineering processes.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:42:39",
@@ -1581,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its principles, which are not directly related to the Shift-Left Strategy. While there are mentions of data collection and analysis that could tangentially relate to early testing and feedback, the focus is on decision-making and value delivery rather than integrating testing and security earlier in the development lifecycle. The discussion lacks depth on Shift-Left practices and does not provide specific techniques or case studies relevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:02:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management, which is a key aspect of Continuous Improvement. It discusses data-driven decision-making and the importance of gathering and analysing data to enhance product value and customer satisfaction. However, while it touches on Continuous Improvement principles, it does not delve deeply into the broader strategies or cultural aspects of Continuous Improvement, such as fostering a culture of experimentation or integrating these practices into organisational processes.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:02:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in making data-driven decisions, which indirectly relates to aligning team efforts with organisational goals. However, it primarily focuses on the methodology of EBM rather than explicitly addressing Common Goals within Agile and DevOps frameworks. While there are mentions of value delivery and customer satisfaction, the discussion lacks depth on how these concepts connect to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:02:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in making informed decisions, which indirectly relates to competence through the emphasis on data-driven decision-making and continuous improvement. However, while it touches on the importance of understanding value areas and making informed choices, it lacks a direct focus on the continuous development of skills or the professional growth aspect of competence. The discussion is more about processes and tools rather than fostering a culture of competence or skill development.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:02:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile practices, discussing its principles, value areas, and data-driven decision-making. While it touches on aspects relevant to software development, it does not explicitly mention or align with the One Engineering System framework, its principles, or its implementation. The discussion is centred around EBM rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

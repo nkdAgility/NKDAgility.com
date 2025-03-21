@@ -601,11 +601,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T21:23:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:11:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the overview of VSTS Sync Migration Tools, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, which are not directly aligned with Continuous Delivery principles. While there are mentions of automation and configuration, the discussion lacks depth on Continuous Delivery practices, such as rapid feedback, incremental improvements, or cultural aspects. The content does not explore the core themes of Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -763,11 +766,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T21:24:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the capabilities and usage of VSTS Sync Migration Tools, with no discussion of Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T21:11:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of digital transformation, it lacks a direct connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1183,12 +1189,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:21:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the capabilities and usage of VSTS Sync Migration Tools, which does not align with the core principles and practices of DevOps.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T21:11:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses tools for migrating from TFS to VSTS, which is related to DevOps practices, particularly in the context of digital transformation and agile methodologies. However, it primarily focuses on specific migration tools and processes rather than the broader principles of DevOps, such as collaboration, automation, and shared accountability. While there are mentions of digital transformation and agile methodologies, the depth of discussion on core DevOps themes is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1358,22 +1367,16 @@
     "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and does not discuss BetaCodex principles or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:15:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and their installation and configuration, with no clear discussion on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:15:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and their installation and configuration, with no discussion on Agile principles or product-centric development.",
+    "calculated_at": "2025-03-21T21:11:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no direct discussion of the Agile Product Operating Model or its principles. While it mentions agile methodologies in passing, it does not delve into product management practices or the core themes of APOM, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1425,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of software development, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:11:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no explicit discussion on Continuous Improvement principles. While it touches on aspects of digital transformation, it lacks depth in Continuous Improvement concepts such as empirical evidence, experimentation, or team effectiveness. The mention of community support and flexible migration options does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:11:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to VSTS using specific tools and methods. While it discusses the importance of understanding migration options, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. There is minimal mention of shared objectives or alignment with organisational strategy, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:11:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of VSTS migration tools and processes, with minimal direct discussion on competence or skill development. While it touches on community support and collaboration, which can relate to competence, it lacks a thorough exploration of continuous learning or professional development in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:11:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on migration tools and processes related to TFS and VSTS, with no direct mention or discussion of the One Engineering System framework. While it touches on aspects of software development and tools, it does not align with the core themes of 1ES, such as integration, standardisation, or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

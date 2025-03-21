@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:23:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:35:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the selection process for Scrum trainers and the importance of agile practices, without addressing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the selection and qualifications of Scrum trainers, discussing Agile methodologies and training rather than Continuous Delivery principles. While it touches on Agile practices, it does not explicitly address Continuous Delivery concepts such as automation in deployment, rapid feedback, or incremental improvements, which are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T00:24:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:35:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the selection and qualifications of Scrum Trainers, focusing on their real-world experience and teaching effectiveness rather than empirical evidence or data-driven management practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the selection and qualifications of Scrum trainers, discussing their real-world experience and expertise in agile practices. While it touches on the importance of practical knowledge and problem-solving in agile environments, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks depth in terms of empirical decision-making or data-informed strategies, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T00:21:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:34:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on agile training and coaching rather than DevOps principles or practices.",
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on the selection of Scrum trainers and the principles of Agile, with minimal reference to DevOps concepts. While there is a brief mention of the author's experience as a DevOps consultant, it does not delve into DevOps principles, practices, or cultural shifts. The discussion is centred around Agile methodologies rather than the integration of development and operations, which is core to DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,22 +1490,16 @@
     "reasoning": "Content primarily discusses the selection process for Scrum Trainers and the importance of real-world agile experience, rather than focusing on the principles and practices of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:43:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the selection and qualities of Scrum trainers, focusing on agile methodologies rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:43:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:35:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the selection and qualifications of Scrum trainers, focusing on their teaching abilities and real-world experience rather than the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the selection and qualifications of Scrum trainers, discussing their experiences and the importance of real-world application of agile principles. While it mentions agile and Scrum, it does not delve into the Agile Product Operating Model or its core principles, such as transitioning to a product ethos or operational governance in product delivery. The discussion is more about training and coaching rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1548,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the selection and qualifications of Scrum trainers, focusing on their real-world experience and expertise in agile methodologies. While it touches on agile principles, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The discussion is more about training and coaching rather than proactive measures to enhance software quality or delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:34:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the selection of Scrum trainers and their real-world experience, which indirectly relates to Continuous Improvement through the emphasis on problem-solving and adapting training to unique challenges. However, it lacks a direct focus on Continuous Improvement principles, empirical evidence, or structured methodologies, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:34:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the selection process for Scrum trainers and their qualifications, which does not directly address the concept of Common Goals. While it touches on the importance of experienced trainers in agile environments, it lacks a clear discussion on aligning strategy with execution or shared objectives within teams. The mention of agile capability and the impact of trainers on team performance is relevant but does not delve into the foundational principles of Common Goals as defined in the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:34:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the selection of Scrum trainers based on their competence, emphasising the importance of real-world experience and expertise in Agile methodologies. It highlights the necessity for trainers to possess deep knowledge and practical skills, aligning well with the core themes of competence. The depth of discussion is significant, detailing the criteria for selecting trainers and the impact of their competence on the learning experience. Overall, the content is primarily focused on competence, making it a strong fit for the category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:35:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the selection and qualifications of Scrum trainers, discussing agile methodologies and practices rather than the One Engineering System framework. While it touches on aspects of agile and Scrum, it does not directly address the principles, integration, or implementation of 1ES, nor does it provide relevant case studies or comparisons with other frameworks. Therefore, it lacks the necessary depth and alignment with the core themes of the One Engineering System.",
     "level": "Ignored"
   }
 }

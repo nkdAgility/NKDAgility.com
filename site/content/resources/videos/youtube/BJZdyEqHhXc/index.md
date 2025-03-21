@@ -27,14 +27,14 @@ isShort: false
 tags:
 - People and Process
 - Agile Philosophy
+- Competence
 - Pragmatic Thinking
 - Continuous Learning
 - Organisational Culture
+- Continuous Improvement
 - Agile Leadership
 - Change Management
 - Software Development
-- Personal
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,6 +42,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- DevOps
 - Social Technologies
 
 ---

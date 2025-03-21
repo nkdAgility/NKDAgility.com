@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:46:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum methodologies, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the pitfalls of rigid adherence to Agile practices rather than the principles of DevOps. While it touches on themes of flexibility and team dynamics, it does not engage with core DevOps concepts such as automation, shared accountability, or continuous delivery. Therefore, it lacks sufficient alignment and depth to be classified under DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:52:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses negative Agile advice and the importance of flexibility in Scrum, but does not focus on Evidence-Based Management or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the pitfalls of rigid adherence to practices rather than evidence-based management principles. While it touches on flexibility and team dynamics, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -342,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses negative experiences with Scrum practices and advice rather than focusing on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile and Scrum practices, specifically criticizing rigid adherence to Scrum rules without addressing the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -670,11 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:52:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses negative advice related to Scrum and Agile, focusing on the importance of flexibility and inclusivity rather than Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the negative aspects of rigid adherence to Agile practices rather than Continuous Delivery principles. While it touches on flexibility and team dynamics, it does not address Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are central to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -772,11 +772,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses misconceptions and advice related to Scrum practices and does not focus on the Agile Product Operating Model or its value delivery principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than the Agile Product Operating Model itself. While it touches on Agile principles, it does not delve into product management or the specific themes of the Agile Product Operating Model, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1524,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on the importance of flexibility and inclusivity in team dynamics. It does not mention the Shift-Left Strategy or its core themes, such as early integration of testing, security, or compliance in the software development lifecycle. The discussion is centred around Agile practices rather than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:52:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and adaptability in team processes, which aligns with the ethos of Continuous Improvement. However, it primarily focuses on critiquing poor Agile advice rather than providing a comprehensive exploration of Continuous Improvement practices. The mention of evolving and integrating teams hints at Continuous Improvement but lacks depth and specific strategies or frameworks related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than explicitly addressing Common Goals. While it touches on Agile principles, it does not delve into the alignment of strategy with execution or shared objectives that guide decision-making, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:52:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile practices, which aligns with the concept of competence. However, it primarily focuses on the pitfalls of rigid adherence to Agile rules rather than a comprehensive exploration of competence itself. The discussion lacks depth in terms of continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:52:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the negative aspects of rigid practices within those frameworks. It does not mention the One Engineering System (1ES) or its principles, components, or implementation strategies. The discussion is centred around Agile's flexibility and inclusivity, which, while relevant to software development, does not align with the specific focus of 1ES on standardisation and integration across teams.",
     "level": "Ignored"
   }
 }

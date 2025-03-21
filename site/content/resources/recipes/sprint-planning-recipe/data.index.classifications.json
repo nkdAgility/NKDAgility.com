@@ -253,11 +253,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T09:49:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:12:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Sprint Planning process in Scrum, focusing on roles, steps, and facilitation options, without addressing evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the mechanics of Sprint Planning within the Scrum framework, discussing roles, steps, and facilitation options. While it touches on aspects of team understanding and planning, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks depth in empirical decision-making or data-informed strategies, which are central to EBM.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -298,11 +301,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T09:49:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:12:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint Planning within the Scrum framework, which is a specific Agile practice. While it touches on aspects of planning and team collaboration, it does not directly address Continuous Delivery principles, practices, or benefits. The discussion lacks explicit references to automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1457,15 +1463,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:11:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:46",
@@ -1539,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the Sprint Planning process within the Scrum framework, discussing roles, event durations, and facilitation steps. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any metrics or case studies related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:12:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the mechanics of Sprint Planning within the Scrum framework, with limited direct mention of Continuous Improvement principles. While it touches on aspects of team effectiveness and planning, it lacks a comprehensive discussion on empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to Continuous Improvement. The depth of discussion is also minimal, primarily outlining steps rather than exploring the broader implications of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:12:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of creating a Sprint Goal and aligning it with the Product Goal, which directly relates to the concept of Common Goals. However, while it touches on these themes, the primary focus is on the mechanics of Sprint Planning rather than a comprehensive exploration of Common Goals within Agile and DevOps. The discussion is somewhat detailed but lacks a broader context on how these goals impact team alignment and organisational performance.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:12:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 14,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the mechanics of Sprint Planning within the Scrum framework, with some indirect references to competence through the emphasis on understanding the Product Backlog and the importance of clear goals. However, it lacks a thorough exploration of continuous learning, skill development, or the broader implications of competence in Agile practices. The discussion is more procedural than reflective on competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:12:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and the specifics of Sprint Planning, which are not directly related to the One Engineering System. While it discusses planning and collaboration within a Scrum team, it does not address the principles, integration, or standardisation aspects of 1ES. Therefore, it has minimal relevance to the category.",
     "level": "Ignored"
   }
 }

@@ -36,9 +36,9 @@ tags:
 - Agile Frameworks
 - Organisational Agility
 - Scrum Team
+- Continuous Improvement
 - People and Process
 - Agile Product Management
-- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

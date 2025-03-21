@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:59:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:10:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of patience and trust in building agile organisations, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of patience and trust within Agile organisations, focusing on team dynamics and cultural aspects rather than Continuous Delivery practices. While it touches on concepts like empiricism and the need for a safe environment for experimentation, it does not explicitly address Continuous Delivery principles, automation, or delivery techniques. Therefore, it has a low confidence score for the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,11 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:00:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of patience and trust in agile organisations, without a clear focus on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T18:10:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of trust and patience in Agile organisations, touching on concepts like empiricism and the need for data-informed decision-making. However, it primarily focuses on interpersonal dynamics and cultural aspects rather than providing a robust analysis of evidence-based management metrics or practices. While there are mentions of empiricism and the role of data, these are not the primary focus, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1294,11 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:57:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:10:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of patience and trust in Agile organisations, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles, focusing on patience and trust within teams, which are not specific to DevOps. While there are some overlaps in themes such as collaboration and continuous improvement, the core focus is on Agile methodologies rather than the broader DevOps philosophy. The mention of empiricism and team dynamics does not sufficiently align with the key topics of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,11 +1486,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:53:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:10:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of trust and patience in Agile organisations, which aligns with the principles of product-centric development and the role of cross-functional teams, but it does not primarily focus on the Agile Product Operating Model.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of trust and patience in Agile environments, which aligns with some principles of the Agile Product Operating Model, such as fostering a culture of learning and collaboration. However, it lacks direct mentions of the APOM framework and does not delve deeply into product management practices or operational governance, which are key aspects of the category.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1504,15 +1516,6 @@
     "final_score": 74.0,
     "reasoning": "The content discusses the importance of trust and patience in Agile organisations, which aligns with the principles of self-organisation and collaboration. It highlights how these values foster a non-blame culture and enhance team dynamics, which are key aspects of social technologies. However, while it touches on relevant themes, the focus is more on personal virtues rather than specific frameworks or methodologies, leading to a slightly lower confidence score.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:53:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of trust and patience in agile organisations, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1554,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of patience and trust in Agile organisations, focusing on team dynamics and culture rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of Agile principles, it does not explicitly mention or align with the Shift-Left Strategy, which is the primary focus of the evaluation.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:10:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of patience and trust in Agile organisations, which indirectly relates to Continuous Improvement through the emphasis on learning from failures and fostering a culture of experimentation. However, it does not explicitly focus on Continuous Improvement principles or provide detailed strategies for integrating these practices into organisational processes. The discussion on empiricism and the need for a safe space for learning aligns with Continuous Improvement, but the overall focus is more on trust and patience rather than on systematic improvement methodologies.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:10:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of trust and patience in Agile organisations, which indirectly relates to Common Goals. However, it primarily focuses on personal virtues rather than explicitly addressing shared objectives or strategic alignment. While it touches on themes of collaboration and team dynamics, it lacks a direct exploration of how these virtues connect to overarching organisational goals or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:10:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of patience and trust in Agile organisations, with only brief mentions of competence in relation to team dynamics and learning from failures. While it touches on aspects of continuous improvement and the need for a supportive environment, it lacks a focused discussion on competence as a foundational principle, which diminishes its overall alignment with the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:10:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of patience and trust in Agile organisations, focusing on team dynamics and culture rather than the One Engineering System framework. While it touches on Agile principles, it does not explicitly mention or align with the core themes of 1ES, such as standardisation, integration of tools, or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

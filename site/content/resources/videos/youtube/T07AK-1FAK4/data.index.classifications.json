@@ -124,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:52:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of fake agilists and their impact on Agile methodologies, without any focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the issues surrounding fake agilists, which is not directly related to DevOps. While there are mentions of continuous improvement and collaboration, which are relevant to DevOps, the focus remains on Agile practices rather than the integration of people, processes, and technology that characterises DevOps. The depth of discussion on DevOps principles is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -163,11 +166,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of fake agilists, which is unrelated to Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T18:28:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists within Agile methodologies, focusing on leadership and team dynamics rather than Continuous Delivery principles. While it touches on continuous improvement, it does not explicitly address Continuous Delivery practices, automation, or deployment strategies, which are central to the category. The discussion lacks depth in terms of Continuous Delivery specifics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -919,11 +925,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly critiques the concept of fake agilists and does not focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies. While it touches on Agile principles and the need for effective leadership, it does not specifically address the Agile Product Operating Model or its core themes. The focus is more on the pitfalls of misapplied Agile practices rather than on product management or the operational model itself.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1111,11 +1120,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of fake agilists in Agile methodologies rather than evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies. While it touches on the need to focus on outcomes and delivering value, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in terms of empirical decision-making or metrics that would align with EBM principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1170,15 +1182,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of fake agilists within the context of agile methodologies, rather than focusing on employee engagement strategies or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of fake agilists and the impact they have on teams, without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1419,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the dangers of 'fake agilists' and the importance of genuine expertise in Agile practices. While it touches on themes of leadership and team dynamics, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on Agile methodology rather than integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:28:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of genuine expertise in Agile practices and highlights the dangers posed by fake agilists, which can hinder continuous improvement. It mentions fostering a culture of learning and prioritising experience, aligning with the principles of Continuous Improvement. However, while it touches on these themes, the primary focus is on the negative impact of fake agilists rather than a comprehensive exploration of Continuous Improvement itself.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:28:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on themes of trust, collaboration, and continuous improvement, which are relevant to Agile, it lacks a direct focus on shared objectives or the operationalisation of Common Goals. The discussion is more about the pitfalls of poor leadership in Agile rather than the alignment of team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:28:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the importance of genuine expertise and continuous learning in Agile methodologies, directly addressing the concept of competence. It highlights the negative impact of fake agilists on trust and growth within teams, aligning well with the core themes of competence. The depth of discussion is substantial, providing personal experiences and actionable strategies to combat the issue, which reinforces the focus on competence in Agile environments.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:28:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges posed by 'fake agilists' within Agile methodologies, focusing on leadership and team dynamics rather than the principles or components of the One Engineering System. While it touches on aspects of Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion is more about personal experiences and opinions rather than a structured analysis of a unified engineering system.",
     "level": "Ignored"
   }
 }

@@ -628,14 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T15:20:21",
+    "calculated_at": "2025-03-21T16:54:41",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses code reviews and the shift-left approach, which indirectly relates to Continuous Delivery by emphasising automation and early defect detection. However, it primarily focuses on code review practices rather than the broader principles and methodologies of Continuous Delivery, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses the shift-left approach and automation in code reviews, which aligns with Continuous Delivery principles. It highlights the importance of automated validation and faster delivery, both key aspects of Continuous Delivery. However, while it touches on relevant themes, the primary focus is on code reviews rather than Continuous Delivery as a whole, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -799,11 +799,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T02:56:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:54:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and automation in software development but does not explicitly mention Evidence-Based Management or its key topics. While it touches on improving quality and delivery speed, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1412,15 +1415,6 @@
     "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:00:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code reviews and automation practices, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:39:47",
@@ -1495,5 +1489,53 @@
     "final_score": 80.0,
     "reasoning": "The content explicitly discusses the Shift-Left Strategy in the context of code reviews, focusing on the concept of pre-reviewed code and its benefits. It aligns well with the core themes of integrating testing and quality assurance earlier in the development process. The depth of discussion is significant, providing detailed best practices and tools that support a Shift-Left approach, making it a primary focus of the content.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:54:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the evolution of code reviews and the shift-left approach, which aligns with Continuous Improvement principles by emphasising automation, early defect detection, and streamlined processes. However, it primarily focuses on code reviews rather than a broader discussion on Continuous Improvement practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and automation in software development, which are relevant to Agile practices. However, it primarily focuses on technical processes rather than explicitly addressing shared objectives or strategic alignment within teams. While there are mentions of business alignment and fostering collaboration, these are secondary to the main topic of code review techniques. Therefore, the content does not fully align with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:54:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of code reviews and the shift-left approach, which indirectly relates to competence through the emphasis on quality assurance and continuous improvement in software development. It mentions the need for knowledge sharing and best practices, aligning with the core themes of competence. However, the primary focus is on code review processes rather than a direct exploration of competence as a foundational principle.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses code reviews and automation in software development, which are relevant to improving quality and efficiency. However, it does not explicitly mention the One Engineering System framework or its principles. The focus is primarily on code review practices rather than the integration and standardisation of engineering processes across teams, which is central to 1ES.",
+    "level": "Ignored"
   }
 }

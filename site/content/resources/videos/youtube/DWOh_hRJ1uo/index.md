@@ -35,6 +35,7 @@ tags:
 - People and Process
 - Scrum Master
 - Agile Project Management
+- Competence
 - Pragmatic Thinking
 resourceTypes:
 - video

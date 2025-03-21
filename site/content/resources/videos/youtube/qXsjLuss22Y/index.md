@@ -37,6 +37,7 @@ tags:
 - Software Development
 - Agile Product Management
 - People and Process
+- Common Goals
 - Agile Planning
 - Software Developers
 - Pragmatic Thinking

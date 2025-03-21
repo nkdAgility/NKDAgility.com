@@ -28,6 +28,7 @@ isShort: false
 tags:
 - Transparency
 - Metrics and Learning
+- Continuous Improvement
 - Operational Practices
 - Pragmatic Thinking
 - Transparency and Accountability

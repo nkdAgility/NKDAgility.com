@@ -32,6 +32,7 @@ sitemap:
 tags:
 - People and Process
 - Personal
+- Continuous Improvement
 - Agile Product Management
 - Product Owner
 - Agile Strategy
@@ -39,7 +40,6 @@ tags:
 - Agile Philosophy
 - Discovery and Learning
 - Market Adaptability
-- Business Agility
 resourceTypes:
 - video
 layout: video

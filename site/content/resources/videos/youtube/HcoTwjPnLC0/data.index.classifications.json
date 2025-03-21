@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:43:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of a product owner in Agile, without a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of Product Owner and Agile Project Manager within the Agile framework, with no direct mention of DevOps principles or practices. While it touches on project versus product focus, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is limited to role definitions and does not explore any DevOps-related concepts.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:28:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:44:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of a product owner and agile project manager, without a focus on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, focusing on their differences and responsibilities within Agile frameworks. It does not engage with Evidence-Based Management principles, such as data-informed decision-making or metrics related to value delivery. The discussion is more about role definitions rather than empirical evidence or management strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -336,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the roles and responsibilities of a product owner in Agile, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of a product owner and agile project manager, which is not relevant to the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -655,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:30:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:44:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of a product owner and agile project management, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager within the Agile framework, without any direct mention or exploration of Continuous Delivery principles, practices, or benefits. While it touches on Agile concepts, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is limited to role definitions and perspectives, lacking any substantial detail relevant to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -745,15 +745,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:00:58",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T19:44:07",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the distinction between a Product Owner and an Agile Project Manager, which touches on the product-centric focus of the Agile Product Operating Model. However, it primarily centres on role definitions rather than broader principles or strategies of the Agile Product Operating Model. While it does mention the importance of maximising value and the differences between project and product focuses, it lacks a comprehensive exploration of the model's key topics, such as cross-functional teams or continuous feedback techniques.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, which touches on aspects of product management but does not delve deeply into the Agile Product Operating Model as a whole. While it mentions the importance of focusing on product value, it lacks a comprehensive exploration of the APOM principles, integration with Scrum, or broader operational frameworks. Therefore, while there is some relevance, the content does not fully align with the core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1491,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of a Product Owner and an Agile Project Manager, focusing on their differences and responsibilities within Agile processes. There is no mention of the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around project versus product management rather than integrating testing, security, or compliance early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:43:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on distinguishing between the roles of a Product Owner and an Agile Project Manager, with minimal reference to Continuous Improvement principles. While it touches on Agile concepts, it lacks a direct discussion on Continuous Improvement practices, empirical evidence, or strategies for fostering a culture of experimentation and learning. The depth of discussion is limited to role definitions rather than exploring Continuous Improvement in a meaningful way.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:43:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, which is somewhat related to the concept of Common Goals in Agile. However, it does not explicitly address shared objectives or alignment of strategy with execution. The focus is more on role definitions rather than on how these roles contribute to common goals within Agile frameworks. Therefore, while there is a mention of objectives, it lacks depth and direct discussion on the significance of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:44:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the distinction between the roles of a Product Owner and an Agile Project Manager, which is more focused on role definitions rather than the concept of competence itself. While it touches on the importance of focus and objectives in Agile, it lacks a direct discussion on continuous learning, skill development, or fostering a culture of competence. The depth of discussion is limited, as it does not explore strategies for competence or the impact of competence on team dynamics or decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:44:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Agile Project Managers within the Agile framework, which is not directly related to the One Engineering System. While it touches on Agile principles, it does not address the integration or standardisation of engineering processes, nor does it provide any insights into the 1ES framework or its implementation.",
     "level": "Ignored"
   }
 }

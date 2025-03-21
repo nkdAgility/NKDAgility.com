@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Continuous Improvement
 - Operational Practices
 - Metrics and Learning
 - Continuous Learning
@@ -35,7 +36,6 @@ tags:
 - Organisational Agility
 - Lean Principles
 - Pragmatic Thinking
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

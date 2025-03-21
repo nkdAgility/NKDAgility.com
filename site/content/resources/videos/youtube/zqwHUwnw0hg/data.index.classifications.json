@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T21:45:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:32:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within Scrum teams, discussing Scrum principles and practices rather than Continuous Delivery specifically. While it touches on concepts like delivering working increments and the importance of feedback, it does not delve into Continuous Delivery practices, automation, or the broader implications of delivering software in reliable cycles. Therefore, it has a low confidence score for the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,15 +835,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:01:41",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T20:32:42",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the role of a scrum master and the importance of empiricism in Scrum, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on the Scrum framework and the responsibilities of scrum masters rather than providing a comprehensive discussion on EBM principles, practices, or empirical data application in decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master course and the roles and responsibilities of a scrum master within a scrum team. While it touches on concepts like empiricism and the importance of delivering value, it does not explicitly discuss Evidence-Based Management as a primary focus. The discussion is more centred around Scrum practices rather than data-informed decision-making or empirical evidence in management, which are core to EBM.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1285,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:43:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:32:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master course, discussing Scrum roles and methodologies rather than DevOps principles. While there are mentions of collaboration and value delivery, these are framed within the context of Scrum, which is not aligned with the core themes of DevOps. The discussion lacks depth in DevOps concepts such as automation, shared accountability, and continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1484,17 @@
     "reasoning": "Content heavily discusses the role and responsibilities of a scrum master within a traditional Scrum framework, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:41:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not aligned with the principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:41:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:32:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a scrum master in facilitating value delivery within a scrum team, which aligns with the Agile Product Operating Model. However, the primary focus is on scrum practices rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the Scrum framework, which are related to agile practices but do not directly address the Agile Product Operating Model (APOM). While there are mentions of value creation and team dynamics, the discussion lacks a comprehensive exploration of the APOM principles, such as transitioning from project to product ethos or the integration of product management practices. The content is more aligned with Scrum methodology rather than the broader APOM framework.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of a scrum master within a scrum team, discussing principles of Scrum and Agile methodologies. While it touches on aspects of team effectiveness and value delivery, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The discussion is more aligned with Scrum practices rather than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:32:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of empiricism in Scrum, which aligns with Continuous Improvement principles. However, it primarily focuses on the Scrum framework and training rather than a dedicated exploration of Continuous Improvement practices. The mention of 'continuous improvement' is minimal, and while there are elements of learning and adaptation, the depth of discussion on Continuous Improvement as a standalone concept is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:32:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of alignment between team efforts and organisational objectives, which relates to Common Goals. However, it primarily focuses on the Scrum Master role and training rather than explicitly defining or exploring Common Goals in depth. The mention of alignment is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:32:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Professional Scrum Master course, which is fundamentally about developing competence in Scrum roles. It explicitly mentions the importance of understanding the role of a Scrum Master, the skills required, and the impact of competence on team effectiveness and value delivery. The depth of discussion includes practical insights and the significance of empiricism in navigating complexity, aligning well with the core themes of continuous learning and skill development. However, while competence is a primary focus, the content also touches on broader Scrum concepts, which slightly dilutes the focus on competence alone.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:32:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master course and the principles of Scrum, which are not directly related to the One Engineering System (1ES). While there are some mentions of team dynamics and roles, the discussion does not align with the core themes of 1ES, such as integration of tools and processes across teams or the standardisation of software development practices. The depth of discussion is also limited to Scrum-specific practices rather than broader engineering system principles.",
     "level": "Ignored"
   }
 }

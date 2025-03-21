@@ -26,11 +26,11 @@ preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
+- Evidence Based Management
 - Evidence Based Leadership
 - Decision Making
 - Pragmatic Thinking
 - Metrics and Learning
-- Evidence Based Management
 - Ability to Innovate
 - Operational Practices
 sitemap:

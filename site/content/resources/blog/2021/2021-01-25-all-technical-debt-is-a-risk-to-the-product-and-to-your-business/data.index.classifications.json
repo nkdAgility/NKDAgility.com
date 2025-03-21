@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:43:28",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of technical debt on product delivery and mentions the transition to continuous delivery practices at Microsoft, indicating a significant but secondary theme related to Continuous Delivery.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses technical debt and its implications for software delivery, touching on the importance of quality and the need for effective delivery strategies. However, while it mentions aspects of Continuous Delivery, such as the need for rapid feedback and the transition to shorter delivery cycles, it primarily focuses on the risks associated with technical debt rather than the principles and practices of Continuous Delivery itself. The depth of discussion on Continuous Delivery is limited, making it a secondary theme rather than a primary focus.",
     "level": "Tertiary"
   },
   "Cross Functional Teams": {
@@ -1276,15 +1279,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:25:34",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-21T20:43:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 50,
-    "final_score": 43.0,
-    "reasoning": "The content discusses technical debt and its implications on software delivery, which indirectly relates to DevOps principles such as Continuous Delivery and the importance of automation. However, it primarily focuses on the risks associated with technical debt rather than the integration of people, processes, and tools in a DevOps context. While there are mentions of improving delivery processes and cultural shifts, the overall emphasis is not on DevOps practices themselves.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of technical debt and its implications for product delivery, which aligns with DevOps principles of continuous improvement and quality delivery. However, it primarily focuses on the risks associated with technical debt rather than the broader DevOps philosophy, such as collaboration, automation, and shared accountability. While it mentions the importance of feedback loops and the need for automation, these points are not explored in depth. Overall, the content touches on relevant themes but does not fully embrace the core principles of DevOps.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1441,11 +1444,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:51:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:43:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt and its implications for product delivery, rather than focusing on Evidence-Based Management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt and its implications for product delivery, which indirectly relates to the concept of managing value and risks in an organisation. However, it lacks explicit references to evidence-based management principles, such as empirical decision-making or specific metrics for current value or time to market. The focus is more on the risks associated with technical debt rather than on data-informed decision-making or the strategic application of evidence in management.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1457,23 +1463,17 @@
     "reasoning": "Content primarily discusses technical debt and its implications on product delivery, with a focus on project management practices rather than platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:51:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt and its implications on software quality and delivery, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:43:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of technical debt on product delivery and references Agile practices, particularly the transition to shorter feedback loops and Sprints. However, the primary focus is on technical debt rather than a comprehensive exploration of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses technical debt and its implications for product delivery, which indirectly relates to the Agile Product Operating Model. However, it primarily focuses on the risks associated with technical debt rather than the principles or practices of APOM. While there are mentions of agile practices like Scrum and the importance of understanding product quality, the overall emphasis is on the consequences of technical debt rather than a comprehensive exploration of the Agile Product Operating Model itself.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses technical debt and its implications on software quality and delivery, which indirectly relates to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, or compliance earlier in the development process. The discussion is more centred on the risks of technical debt rather than proactive strategies to mitigate those risks through early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:43:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the risks of technical debt and the importance of quality delivery, which indirectly relates to Continuous Improvement. However, it primarily focuses on the consequences of neglecting technical debt rather than on the principles of Continuous Improvement itself. While there are mentions of improving processes (like moving to 3-week Sprints), the overall emphasis is more on risk management than on fostering a culture of continuous improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:43:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its implications for product delivery and business risk, but it does not explicitly address Common Goals or their significance in Agile and DevOps. While there are mentions of team dynamics and delivery processes, the focus is primarily on the risks associated with technical debt rather than on aligning strategy with execution or shared objectives. The discussion lacks depth in connecting these concepts to the overarching theme of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:43:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the risks of technical debt and its impact on product quality and business outcomes, which indirectly relates to competence in terms of delivering quality and maintaining trust. However, it lacks a direct focus on continuous learning, skill development, or fostering a culture of competence, which are core themes of the category. The discussion is more centred on the consequences of technical debt rather than on competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:43:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical debt and its implications for software quality and business risk, without a direct focus on the One Engineering System framework or its principles. While it touches on aspects of software delivery and quality, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

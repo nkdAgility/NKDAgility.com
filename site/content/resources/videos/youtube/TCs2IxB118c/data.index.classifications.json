@@ -670,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:20:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team morale, engagement, and mentorship programs, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:17:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on team morale and mentorship rather than Continuous Delivery principles. While it touches on aspects of team performance and engagement, it does not explicitly discuss Continuous Delivery practices, automation, or the delivery of software. The mention of 'continuous learning' is too vague and does not align with the specific themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -847,14 +850,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:13:16",
+    "calculated_at": "2025-03-21T17:17:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses team morale and engagement through mentorship programs, which is somewhat related to EBM principles, particularly in terms of improving performance and decision-making. However, it lacks direct references to empirical evidence, metrics, or the core principles of EBM as outlined by Schwaber and Sutherland. The focus is more on motivational theories and personal experiences rather than data-driven management practices.",
+    "reasoning": "The content discusses team morale and engagement through mentorship, which indirectly relates to the concept of improving outcomes in organisations. However, it lacks direct references to Evidence-Based Management principles, empirical metrics, or data-informed decision-making. The focus is primarily on motivational aspects rather than on evidence-based practices or metrics that would align it more closely with the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1490,15 +1493,6 @@
     "reasoning": "The content discusses team morale and engagement through mentorship programs, which aligns with human-centric approaches to leadership and team dynamics. However, it primarily focuses on traditional training methods and does not explicitly mention BetaCodex principles or decentralisation. The discussion on intrinsic motivation touches on themes relevant to BetaCodex but lacks depth in exploring its core tenets.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:16:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses mentorship programs and team engagement, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:14:28",
@@ -1575,6 +1569,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses team morale and engagement through mentorship programs, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of team performance and collaboration, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle. The focus is on intrinsic motivation and mentorship rather than proactive quality assurance or early-stage development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:17:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses mentorship programs and their impact on team morale and engagement, which indirectly relates to Continuous Improvement through the lens of enhancing team effectiveness. However, it lacks a direct focus on Continuous Improvement principles, empirical evidence, or specific strategies for integrating these practices into organisational processes. The discussion is more centred on motivation and engagement rather than systematic improvement methodologies.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:17:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses team morale and engagement through mentorship, which indirectly relates to Common Goals by highlighting the importance of aligning individual contributions with organisational objectives. However, it primarily focuses on motivation and mentorship rather than explicitly addressing the concept of Common Goals within Agile or DevOps frameworks. The discussion lacks depth in terms of strategic alignment and operationalisation of goals, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:17:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of mentorship in enhancing team morale and engagement, which indirectly relates to competence through the concepts of intrinsic motivation and continuous learning. However, while it touches on aspects of skill development and the impact of engagement on performance, it does not explicitly focus on competence as a primary theme. The discussion on mastery and the role of mentorship in skill development aligns with the category, but the overall emphasis is more on morale and engagement rather than competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:17:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on mentorship programs and team morale, with no direct mention of the One Engineering System or its principles. While it discusses team performance and engagement, it does not align with the core themes of standardising and integrating software development practices across teams, nor does it provide depth on the implementation or impact of 1ES.",
     "level": "Ignored"
   }
 }

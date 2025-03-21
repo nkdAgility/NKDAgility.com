@@ -253,14 +253,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-03-21T16:40:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses scaling Agile methodologies and the challenges associated with it, but it does not explicitly mention Evidence-Based Management or its principles. While it touches on the importance of context and adapting solutions, it lacks a focus on empirical evidence, metrics, or data-driven decision-making, which are central to EBM. The discussion is more about Agile frameworks and their application rather than evidence-based practices.",
+    "reasoning": "The content primarily discusses scaling agile practices and frameworks without a focus on evidence-based management principles. While it touches on the importance of tailoring solutions to specific organisational contexts, it lacks explicit references to empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more about agile methodologies than data-informed decision-making.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -1081,14 +1081,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-03-21T16:40:39",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily discusses scaling Agile methodologies and frameworks like SAFe, LeSS, and Nexus, which are not directly related to Continuous Delivery principles. While it touches on the importance of maintaining agility and delivering value, it lacks explicit references to Continuous Delivery practices, automation, or deployment strategies, leading to a very low confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses scaling Agile practices rather than Continuous Delivery specifically. While it touches on themes of delivering value quickly and maintaining agility, it lacks direct mentions of Continuous Delivery principles, automation, or specific practices related to software delivery cycles. The focus is more on Agile frameworks and organisational challenges rather than the Continuous Delivery process itself.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1643,18 +1643,6 @@
     "reasoning": "The content explicitly discusses the challenges of scaling agility beyond individual teams and mentions frameworks like SAFe, LeSS, and Nexus, which are key topics in the Scaling Agility category. It aligns well with the core themes of maintaining agility across multiple teams and the importance of finding the right scaling model for different organisations. However, while it provides a good overview, it lacks in-depth exploration of specific techniques or metrics for assessing agility at the organisational level, which slightly lowers the depth score.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses scaling agile methodologies and mentions various frameworks like SAFe, LeSS, and Nexus, which are not part of the One Engineering System (1ES) framework. There is no direct mention of 1ES principles or components, and the focus is on finding the right scaling model rather than on integration and standardisation of engineering processes. Therefore, the content does not align well with the core themes of 1ES.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1869,6 +1857,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling Agile practices and frameworks, focusing on team dynamics and dependencies rather than integrating testing, security, or compliance earlier in the development process. While it touches on the importance of maintaining agility, it does not explicitly mention or align with the core principles of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:40:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling agile practices, which indirectly relates to Continuous Improvement through the need for adaptation and tailored strategies. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or specific techniques for fostering a culture of experimentation. The focus is more on scaling frameworks rather than on the continuous improvement process itself.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:40:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges of scaling Agile and the importance of maintaining agility across multiple teams, which indirectly relates to the concept of Common Goals. However, it primarily focuses on practical strategies and frameworks for scaling rather than explicitly addressing shared objectives or alignment with organisational goals. The mention of dependencies and the need for tailored solutions suggests some alignment with the category, but the depth of discussion on Common Goals is limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:40:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling agile practices and the challenges associated with it, which indirectly touches on the need for competence in navigating complexities. However, it lacks direct mentions of continuous learning or skill development, and the depth of discussion on competence is minimal, focusing more on frameworks and strategies rather than on the development of capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:40:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses scaling agile methodologies and frameworks like SAFe and LeSS, which are not directly related to the One Engineering System (1ES). While it touches on themes of collaboration and maintaining agility across teams, it lacks a direct focus on the principles and components of 1ES. The depth of discussion on scaling agile practices is significant, but it does not provide insights into the integration and standardisation of engineering processes as required by the 1ES category.",
     "level": "Ignored"
   }
 }

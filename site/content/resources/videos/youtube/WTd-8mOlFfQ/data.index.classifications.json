@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:19:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters within Agile methodologies, discussing common mistakes and responsibilities. While it touches on team effectiveness, it does not engage with DevOps principles, practices, or cultural shifts. The discussion is centred around Scrum, which is a specific framework rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:51:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:19:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, specifically the mistakes Scrum Masters make, without addressing Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, focusing on administrative tasks rather than evidence-based management practices. There are no direct mentions of empirical decision-making or metrics related to value delivery, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:52:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -649,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:53:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:19:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is not directly related to Continuous Delivery. While it touches on Agile principles, it does not discuss Continuous Delivery practices, automation, or the delivery of software in reliable cycles, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -745,11 +745,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:53:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and their common mistakes, which is more focused on Scrum practices rather than the Agile Product Operating Model as a whole.",
+    "calculated_at": "2025-03-21T19:19:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is more aligned with Scrum practices than the Agile Product Operating Model. While it touches on agile principles, it does not discuss the broader themes of product management or the transition to a product-oriented mindset, which are central to the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1461,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, focusing on administrative tasks rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the themes do not align with its principles or benefits.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:19:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. While it touches on the importance of team effectiveness, it does not explicitly discuss Continuous Improvement principles or strategies. The alignment with Continuous Improvement is minimal, as the content lacks depth in exploring empirical evidence, data-driven decision-making, or techniques for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:19:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the mistakes Scrum Masters make, particularly regarding administrative tasks, rather than discussing Common Goals. While it touches on the importance of a Scrum Master's role in fostering team effectiveness, it lacks a direct discussion on aligning strategy with execution or shared objectives, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:19:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a Scrum Master and highlights the importance of focusing on team effectiveness rather than getting bogged down in administrative tasks. While it touches on the need for competence in fulfilling the Scrum Master's role, it primarily focuses on common mistakes rather than a deep exploration of competence as a foundational principle. The discussion lacks explicit references to continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:19:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion is centred around Agile practices rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

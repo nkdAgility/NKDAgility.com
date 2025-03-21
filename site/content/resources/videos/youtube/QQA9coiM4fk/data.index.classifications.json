@@ -622,12 +622,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:06:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps consulting and related practices, without a clear focus on Continuous Delivery principles or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T19:31:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses DevOps consulting, which includes elements of Continuous Delivery, particularly in the context of improving software delivery processes and fostering a culture of continuous improvement. However, it does not explicitly focus on Continuous Delivery principles or practices, making it a secondary topic rather than a primary focus. The mention of CI/CD pipelines and the importance of cultural shifts indicates some alignment with Continuous Delivery, but the overall depth of discussion is more about DevOps as a whole rather than specifically on Continuous Delivery.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -793,11 +796,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T03:07:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:31:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps consulting and related practices, with no clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps consulting and does not explicitly discuss Evidence-Based Management or its key topics. While it touches on themes of improvement and operational excellence, it lacks a direct connection to empirical decision-making or data-informed practices central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1237,14 +1243,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T15:55:57",
+    "calculated_at": "2025-03-21T19:31:33",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 50,
     "final_score": 83.0,
-    "reasoning": "The content primarily focuses on DevOps consulting, detailing the author's experiences and services offered in this domain. There are numerous direct mentions of DevOps, including discussions on consulting practices, tools like Azure DevOps, and the importance of understanding DevOps within organisations. The content aligns well with the core themes of DevOps, such as collaboration, tool usage, and the need for cultural shifts. However, while it provides a good overview, it lacks in-depth exploration of specific DevOps principles and metrics, which slightly lowers the depth score.",
+    "reasoning": "The content explicitly discusses DevOps consulting, highlighting its transformative potential and the cultural and process-oriented aspects of DevOps. It mentions the importance of workshops, leadership alignment, and ongoing dialogues, which align well with the core themes of collaboration and continuous improvement in DevOps. The depth of discussion is substantial, covering various facets of DevOps consulting, including technical support and cultural shifts, indicating a strong focus on the principles of DevOps rather than just tools or methodologies.",
     "level": "Primary"
   },
   "Azure DevOps": {
@@ -1429,11 +1435,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:08:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses DevOps consulting and related practices, with minimal focus on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:31:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps consulting, discussing tools, culture, and processes related to DevOps rather than the Agile Product Operating Model. While it touches on agile principles, it does not explicitly mention or align with the core themes of APOM, such as product management or continuous delivery in a product-oriented context.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1452,15 +1461,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps consulting and related tools, without a clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:08:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps consulting and related practices, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1503,6 +1503,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses DevOps consulting and its various aspects, such as culture, processes, and tools, without explicitly addressing the Shift-Left Strategy. While it touches on themes of improvement and efficiency, it lacks a focused discussion on integrating testing, security, or compliance early in the development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:31:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transformative potential of DevOps and mentions continuous improvement as part of the consulting process. However, it primarily focuses on DevOps practices and tools rather than a dedicated exploration of Continuous Improvement principles. The mention of ongoing dialogues and cultural shifts indicates some alignment with Continuous Improvement, but the depth of discussion is more about DevOps than the specific methodologies and strategies associated with Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:31:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps consulting and its transformative potential but does not explicitly mention Common Goals or their significance in Agile and DevOps. While it touches on themes of alignment and cultural change, it lacks a focused discussion on shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:31:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of continuous learning and cultural shifts in DevOps, which aligns with the core themes of competence. It mentions ongoing dialogues and the need for skill development, indicating a focus on competence. However, the primary emphasis is on consulting services rather than a deep exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:31:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps consulting and its practices, which are not directly related to the One Engineering System framework. While it touches on themes of process improvement and cultural change, it lacks explicit discussions on the principles, components, or implementation of 1ES. The content does not provide detailed insights into integration across teams or methodologies specific to 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

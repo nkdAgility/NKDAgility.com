@@ -628,14 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T17:18:55",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T16:59:10",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on data migration and minimising downtime, which are not core principles of Continuous Delivery. While it briefly touches on aspects of planning and preparation that could relate to deployment processes, it lacks explicit discussions on Continuous Delivery practices, automation, or maintaining a production-ready state. The mention of Git as a source control system is relevant but does not sufficiently align with the broader themes of Continuous Delivery. Overall, the content does not provide a detailed exploration of Continuous Delivery principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, which are not directly related to Continuous Delivery principles. While it touches on planning and the use of tools like Git, it lacks explicit discussions on Continuous Delivery practices, automation, or rapid feedback mechanisms. The mention of planning and communication is relevant but does not delve into the core themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -796,11 +796,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:26:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:59:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration processes and the impact of downtime on software engineers, without reference to Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no explicit discussion of Evidence-Based Management principles. While it touches on planning and preparation, it lacks a direct connection to empirical decision-making or the core themes of EBM. The discussion is more operational and anecdotal rather than data-driven or strategic in the context of management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1412,15 +1415,6 @@
     "reasoning": "Content primarily discusses data migration strategies and the impact on engineers' productivity, with no clear focus on BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:03:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses data migration strategies and downtime management, with no clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:27",
@@ -1494,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on planning and communication, these aspects do not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:58:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on strategies for minimising downtime during data migration, which is more about operational efficiency than Continuous Improvement. While it touches on planning and preparation, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, a culture of experimentation, or systematic enhancements. The discussion is practical but does not delve into the broader implications of Continuous Improvement methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:58:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on strategies for minimising downtime during data migration, with a strong emphasis on practical insights and personal experiences. While it touches on the importance of planning and communication, it does not explicitly discuss Common Goals or their significance within Agile or DevOps frameworks. The mention of team productivity and collaboration is relevant but does not align closely with the core themes of Common Goals, which focus on shared objectives and strategic alignment. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:59:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of planning and preparation in data migration, which indirectly relates to competence in terms of ensuring team productivity and minimising downtime. However, it does not explicitly focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about practical strategies rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:59:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no explicit mention of the One Engineering System (1ES) framework or its principles. While it discusses collaboration and tools like Git, it does not align with the core themes of 1ES, such as integration of processes across teams or best practices for implementing a unified engineering system. The depth of discussion is limited to personal experiences and practical advice on data migration, which does not contribute to the understanding of 1ES.",
     "level": "Ignored"
   }
 }

@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T18:58:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:12:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses modern source control systems and DevOps practices, with no clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on source control systems and DevOps practices, with minimal direct reference to Evidence-Based Management principles. While it touches on aspects of metrics and quality, it lacks a clear emphasis on empirical decision-making or the specific key topics outlined in the EBM category. The discussion is more about tools and practices rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,15 +136,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:31:20",
-    "ai_confidence": 87.0,
+    "calculated_at": "2025-03-21T21:12:21",
+    "ai_confidence": 82.0,
     "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
+    "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content explicitly discusses DevOps principles, particularly in relation to source control systems and automated release pipelines. It aligns well with core DevOps themes such as continuous delivery, automation, and the integration of tools and processes. The depth of discussion is substantial, covering best practices and the importance of collaboration and quality in software delivery, which are central to DevOps. Overall, the content is highly relevant and focused on DevOps.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses DevOps principles, particularly in relation to source control systems and their role in the software development lifecycle. It aligns well with key DevOps themes such as automation, continuous delivery, and shared accountability. The depth of discussion is significant, providing detailed recommendations and practices that support effective DevOps implementation. Overall, the content is primarily focused on DevOps, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -341,22 +344,16 @@
     "reasoning": "Content primarily discusses modern source control systems and DevOps practices, with a focus on software development processes rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses modern source control systems and DevOps practices, which are relevant to the integration and standardisation of engineering processes, but it primarily focuses on specific tools and practices rather than the overarching principles of the One Engineering System framework.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:38:31",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-21T21:12:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses modern source control systems and DevOps practices, with only peripheral references to Agile principles and Scrum, making it not central to the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on source control systems and DevOps practices, with only brief references to Agile methodologies. It lacks a detailed discussion on the Agile Product Operating Model, its principles, or its application in product management, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -436,14 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T17:00:43",
+    "calculated_at": "2025-03-21T21:12:45",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content discusses Continuous Delivery principles, particularly the importance of automated release pipelines and source control, which are crucial for CD practices. However, it also heavily focuses on DevOps and Scrum methodologies, which, while related, detracts from a primary focus on Continuous Delivery itself. The depth of discussion on CD practices is present but not exhaustive, leading to a moderate confidence score.",
+    "reasoning": "The content discusses Continuous Delivery principles, particularly the importance of automated release pipelines and rapid feedback from users. It mentions the need for source control and automation, which are key aspects of Continuous Delivery. However, while it touches on these topics, the primary focus is on source control systems and DevOps practices rather than a deep exploration of Continuous Delivery itself. Therefore, while there is significant relevant content, it does not fully meet the criteria for a primary focus on Continuous Delivery.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -1539,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses modern source control and DevOps practices, touching on aspects of quality and automation, which are relevant to the Shift-Left Strategy. However, it primarily focuses on source control systems and general software development practices rather than explicitly integrating testing, security, and compliance earlier in the development lifecycle. The discussion lacks depth in the specific principles and techniques of the Shift-Left Strategy, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:12:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses modern source control systems and DevOps practices, which are tangentially related to Continuous Improvement. However, it lacks a direct focus on the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or specific strategies for integrating Continuous Improvement into processes. While it mentions the importance of practices like automated release pipelines and feedback loops, these are not explored in depth as part of a Continuous Improvement framework.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:12:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the selection and use of modern source control systems within the context of DevOps practices. While it touches on the importance of collaboration and shared vision among teams, it does not explicitly define or focus on Common Goals as a primary theme. The discussion lacks depth in connecting these practices to overarching strategic objectives or frameworks like OKRs, which are central to the concept of Common Goals. Therefore, while there are relevant elements, they are not the main focus of the content.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:12:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of using source control and automated release pipelines, which are essential for maintaining quality and competence in software development. It highlights the need for continuous learning and adaptation of practices to meet business needs, aligning well with the core themes of competence. However, while competence is a recurring theme, it is not the primary focus of the content, which leans more towards practical advice on tools and processes rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:12:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses modern source control systems and DevOps practices, which are relevant to software development but do not explicitly focus on the One Engineering System (1ES) framework. While there are mentions of integration and best practices, the primary focus is on source control and DevOps rather than the comprehensive framework of 1ES. The depth of discussion on related practices is notable, but it lacks a direct connection to the core principles of 1ES.",
     "level": "Ignored"
   }
 }

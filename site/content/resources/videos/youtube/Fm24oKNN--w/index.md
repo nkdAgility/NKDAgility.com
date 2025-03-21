@@ -29,12 +29,12 @@ tags:
 - Team Performance
 - Team Collaboration
 - Agile Product Management
+- Continuous Improvement
 - Organisational Agility
 - Software Development
 - People and Process
 - Discovery and Learning
 - Value Delivery
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

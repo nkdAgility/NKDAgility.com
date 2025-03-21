@@ -1,12 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:39:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:31:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles.",
-    "level": "Ignored"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the author's journey as a DevOps consultant and touches on the principles of continuous delivery, which aligns with DevOps themes. However, the primary focus is on personal experiences and training rather than a deep exploration of DevOps practices or philosophies. While there are relevant mentions of DevOps, the depth of discussion on core DevOps principles is moderate, leading to a confidence score that reflects a significant but not primary focus on the category.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -253,12 +256,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies, which are not aligned with Continuous Delivery principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:32:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the author's journey in software engineering and DevOps, with a specific mention of continuous delivery. While it does touch on relevant themes such as learning from failures and fostering a culture of improvement, the primary focus is on personal experiences and training rather than a detailed exploration of Continuous Delivery principles or practices. The mention of continuous delivery is significant but not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -399,15 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and training, with no clear focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Agile practices, which are not aligned with the principles of One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1225,11 +1222,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:14:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:32:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and coaching rather than focusing on the Agile Product Operating Model or its principles, strategies, or product-centric development.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences in software engineering and DevOps, with only brief mentions of Scrum and continuous delivery. While there are elements of agile practices discussed, such as the importance of learning from failures and fostering a culture of openness, the content does not explicitly address the Agile Product Operating Model or its core principles. The discussion lacks depth in relation to the specific themes of APOM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1441,11 +1441,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and consulting without a clear focus on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T20:32:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences in software engineering and DevOps training, with minimal direct mention of Evidence-Based Management principles. While there are elements of learning from successes and failures, which aligns with empirical decision-making, the overall discussion lacks a strong emphasis on data-informed decision-making or the specific metrics outlined in the EBM category. The content does not delve into current value, time to market, or unrealised value, which are key topics of EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1518,6 +1521,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the author's personal journey and experiences in software development and DevOps training, with only a brief mention of continuous delivery, which is tangentially related to the Shift-Left Strategy. While there are elements of learning from failures and successes that could align with the proactive nature of Shift-Left, the discussion lacks explicit references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:31:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the author's journey and experiences in software development and DevOps, highlighting the importance of learning from both successes and failures. While it touches on themes of growth and improvement, it does not explicitly focus on Continuous Improvement as a primary topic. The mention of continuous delivery suggests some alignment with the principles of Continuous Improvement, but the overall discussion is more about personal experiences and training rather than systematic improvement processes or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:32:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences in the tech industry, with little direct mention of Common Goals or their significance in Agile and DevOps. While there are elements of learning and improvement that could relate to team alignment and ownership, these concepts are not explicitly connected to the foundational principles of Common Goals. The discussion lacks depth in exploring how shared objectives guide decision-making or connect individual contributions to organisational missions.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:32:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the author's journey and experiences in software engineering and DevOps, highlighting the importance of continuous learning and skill development. It mentions the significance of sharing lessons learned from both successes and failures, which aligns with the core themes of competence. The depth of discussion is substantial, as it reflects on how these experiences shape training and inspire growth in others. However, while competence is a primary focus, the content also includes personal anecdotes that may detract slightly from a strict focus on the concept itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:32:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences in software engineering and DevOps, with no explicit mention of the One Engineering System (1ES) framework or its principles. While it touches on themes of collaboration and improvement in software practices, it lacks a direct discussion of integration, standardisation, or the specific components of 1ES. The depth of discussion is limited to personal anecdotes and training philosophy, which do not align with the core topics of 1ES.",
     "level": "Ignored"
   }
 }

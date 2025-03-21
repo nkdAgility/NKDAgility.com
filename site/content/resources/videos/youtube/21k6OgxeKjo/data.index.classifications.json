@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:21:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:57:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the negative impacts of certain project management mindsets in product owners, without focusing on evidence-based management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of the Product Owner in Agile teams, focusing on the importance of delivering value rather than merely completing tasks. However, it does not explicitly mention Evidence-Based Management or its key topics. While it touches on concepts like value delivery and team empowerment, it lacks a strong empirical basis or detailed metrics that align with EBM principles. The discussion is more about Agile practices than evidence-based decision-making.",
     "level": "Ignored"
   },
   "Personal": {
@@ -331,23 +334,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-10T18:00:17",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T17:57:46",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content briefly mentions the negative impact of project management mindsets on product ownership, which aligns with the Agile Product Operating Model's emphasis on product-centric development. However, it lacks detailed discussion on key topics such as value delivery, cross-functional teams, or continuous feedback, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impact of a project management mindset on the role of the Product Owner, which aligns with the principles of the Agile Product Operating Model. It highlights the importance of a value-driven approach and collaboration, key themes in APOM. However, while it addresses relevant issues, it does not delve deeply into the broader framework of APOM or provide extensive detail on its principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:22:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:57:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management mindsets and the negative impacts of traditional project management approaches on Agile teams, which is not relevant to DevOps principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within Agile teams, focusing on project management mindsets rather than DevOps principles. While it touches on collaboration and value delivery, which are relevant to DevOps, the main emphasis is on Agile practices and the challenges posed by certain mindsets, rather than the broader DevOps philosophy or its core principles.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -366,15 +372,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the negative impacts of project management mindsets in product owners, rather than focusing on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:22:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to project management mindsets in product owners, which is not relevant to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1033,11 +1030,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:57:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to project management mindsets in product owners, which is not central to Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within Agile teams, focusing on the concept of 'agile banditry' and its negative impacts on team dynamics and value delivery. While it touches on themes of value delivery and collaboration, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion is more centred on Agile methodologies rather than Continuous Delivery, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1470,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of the Product Owner in Agile teams and the negative impacts of a project management mindset, which does not directly address the Shift-Left Strategy. While it touches on themes of collaboration and value delivery, it lacks explicit discussions on integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:57:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the negative impacts of a project management mindset on Agile teams and suggests strategies for improvement, such as fostering collaboration and a value-driven mindset. However, it primarily focuses on identifying and combating specific behaviours rather than a broader discussion on Continuous Improvement principles. While there are elements of improvement and team effectiveness, the content lacks a comprehensive exploration of Continuous Improvement as a systematic practice.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:57:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the negative impact of a project management mindset on the role of the Product Owner, which indirectly touches on the importance of aligning team efforts towards common goals. However, it primarily focuses on identifying and combating the 'agile bandit' mentality rather than explicitly discussing common goals or their significance in Agile and DevOps. The mention of fostering collaboration and a value-driven mindset hints at alignment but lacks depth in exploring how these relate to overarching strategic objectives.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:57:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of the Product Owner and the negative impacts of a project management mindset on team dynamics, which indirectly touches on competence. However, it primarily focuses on team dynamics and the importance of value delivery rather than explicitly addressing continuous learning or skill development. The strategies suggested for combating 'agile banditry' hint at fostering competence but do not delve deeply into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:57:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within Agile teams and the negative impacts of a project management mindset, which does not directly relate to the One Engineering System framework. While it touches on collaboration and value delivery, it lacks explicit references to 1ES principles, components, or implementation strategies, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

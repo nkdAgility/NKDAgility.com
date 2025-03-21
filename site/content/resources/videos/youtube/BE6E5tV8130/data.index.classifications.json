@@ -667,11 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:04:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the differences between agile product development and waterfall project management, with a focus on project management methodologies rather than Continuous Delivery principles and practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the differences between agile product development and waterfall project management, with a focus on agile principles. While it touches on concepts like iteration and incremental delivery, which are relevant to Continuous Delivery, the overall emphasis is on agile methodologies rather than Continuous Delivery practices specifically. The discussion lacks depth in Continuous Delivery principles, automation, and tools, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,15 +844,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:04:45",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T20:33:32",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
-    "reasoning": "The content discusses agile product development in contrast to waterfall project management, highlighting the importance of iterative processes and customer collaboration. While it touches on concepts related to evidence-based decision-making, such as using data and customer feedback to adapt and improve, it does not explicitly focus on Evidence-Based Management principles or practices. The discussion is more centred on agile methodologies rather than a comprehensive exploration of EBM, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 41.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, with a focus on agile principles. While it touches on concepts like iterative cycles and customer collaboration, which align with evidence-based practices, it lacks a strong emphasis on empirical decision-making and specific metrics related to Evidence-Based Management. The discussion is more about agile methodologies rather than a focused exploration of EBM principles.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:01:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile product development and waterfall project management, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the differences between agile product development and waterfall project management, which are methodologies rather than core DevOps principles. While it touches on concepts like iteration and continuous improvement, it does not explicitly discuss DevOps as a philosophy or its key topics such as automation, shared accountability, or cross-functional collaboration. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,22 +1484,16 @@
     "reasoning": "The content discusses decentralisation and agile practices, which align with BetaCodex principles, but it primarily focuses on comparing agile and waterfall project management rather than being solely about BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:41:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between agile and waterfall project management, without a focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:41:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T20:33:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the differences between agile product development and traditional waterfall project management, focusing on principles of product-centric development, iterative processes, and value delivery, which are central to the Agile Product Operating Model.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily contrasts agile product development with traditional waterfall project management, which is relevant to the Agile Product Operating Model. However, it focuses more on the differences between methodologies rather than deeply exploring the principles and practices of the Agile Product Operating Model itself. While it touches on concepts like iterative delivery and customer collaboration, it lacks a comprehensive discussion on the core themes of APOM, such as operational stability, governance, and the integration of Scrum with product management. Therefore, while there is some alignment, the depth and direct mentions are limited.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the differences between agile and waterfall project management, focusing on agile principles such as iteration, customer collaboration, and decentralisation. While it touches on aspects of testing and adaptation, it does not explicitly address the Shift-Left Strategy or its core themes, such as integrating testing and security early in the development process. The discussion lacks depth regarding the proactive identification of issues or the specific benefits of a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:33:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the iterative nature of agile product development and the importance of adapting based on feedback, which aligns with Continuous Improvement principles. However, while it touches on these concepts, the primary focus is on contrasting agile and waterfall methodologies rather than a dedicated exploration of Continuous Improvement itself. The depth of discussion on Continuous Improvement techniques and strategies is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:33:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall project management, focusing on the methodologies rather than explicitly addressing Common Goals. While it touches on concepts like collaboration and value creation, it lacks a direct discussion on aligning strategy with execution or shared objectives that guide decision-making. The mention of customer collaboration hints at a connection to Common Goals, but it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:33:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, touching on themes of decision-making and team expertise. However, it primarily focuses on the differences between methodologies rather than explicitly addressing competence as a foundational principle. While there are mentions of team capabilities and the importance of skilled decision-making, the depth of discussion on continuous learning, skill development, and fostering a culture of competence is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:33:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between agile and waterfall methodologies, focusing on agile practices without addressing the One Engineering System framework or its principles. While it touches on themes of collaboration and iterative processes, it does not provide specific insights into the integration or standardisation of engineering practices as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

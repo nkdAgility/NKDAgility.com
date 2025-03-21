@@ -37,9 +37,9 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
+- Continuous Improvement
 - Team Collaboration
 - Software Development
-- Coaching
 resourceTypes:
 - video
 categories:

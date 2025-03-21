@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T01:57:34",
+    "calculated_at": "2025-03-21T20:31:13",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the role of consultants in organisations, particularly in relation to agile practices and the identification of problems within teams. While it touches on themes relevant to DevOps, such as continuous delivery and the disconnect between leadership and teams, it primarily focuses on consulting and coaching rather than the broader principles and practices of DevOps. The discussion lacks depth in DevOps-specific tools, automation, and cultural shifts, leading to a lower confidence score.",
+    "reasoning": "The content discusses the role of consultants in driving change within organisations, touching on themes of agility and cultural shifts. However, it lacks a direct focus on DevOps principles, such as automation, shared accountability, or continuous delivery, which are central to the DevOps philosophy. While there are mentions of agile practices, they are not explicitly tied to DevOps, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +256,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:14:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:31:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on the role of consultants and the differences between consulting and coaching within organizations, with only brief references to continuous delivery that do not form a central theme.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the role of consultants in driving change within organisations, touching on themes of agile practices and continuous delivery. However, it primarily focuses on the consultant's perspective and does not delve deeply into Continuous Delivery principles, automation, or specific strategies for delivering software. While there are mentions of continuous delivery, they are not the primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -399,15 +402,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses the role of consultants and coaches in organisational change, with a focus on problem identification and leadership dynamics, but it does not specifically address Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:14:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants in organizations, focusing on agile practices and leadership disconnects, without specifically addressing the One Engineering System or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1237,11 +1231,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on the role of consultants in organizations, discussing their impact on addressing problems and changing dynamics, but it does not center around the Agile Product Operating Model or its specific principles and practices.",
+    "calculated_at": "2025-03-21T20:31:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of consultants in driving change within organisations, touching on agile practices and the need for cultural shifts towards agility. However, it primarily focuses on the consultant's perspective rather than the Agile Product Operating Model itself. While there are mentions of agile transformation and the importance of continuous delivery, these are not explored in the context of the APOM framework, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1465,12 +1462,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:14:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:31:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of consultants in identifying and addressing organizational problems, which may align with aspects of Evidence-Based Management, particularly in the context of empirical assessment. However, the focus primarily revolves around consulting practices and opinions rather than a clear and systematic application of empirical evidence to enhance organizational decision-making.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of consultants in driving change within organisations, but it primarily focuses on the consultant's perspective and experiences rather than on evidence-based management principles. While there are mentions of assessing current practices and the importance of communication, the content lacks a strong emphasis on empirical decision-making or specific metrics related to value delivery, innovation, or outcome management. The discussion is more anecdotal and does not provide a detailed exploration of EBM concepts.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of consultants in organisational change and agile transformation, without explicitly addressing the Shift-Left Strategy or its principles. While there are mentions of agile practices and the need for communication, these are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core focus of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:31:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of consultants in driving change and improvement within organisations, touching on themes of experimentation, ownership of problems, and the importance of quick wins. However, while it aligns with some principles of Continuous Improvement, it lacks a direct focus on systematic processes or frameworks that are central to the category. The discussion is more about the consultant's role rather than a comprehensive exploration of Continuous Improvement practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:31:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of consultants in organisations and their impact on change, but it does not explicitly focus on Common Goals as defined in the category. While it touches on themes of alignment and ownership, it lacks a direct connection to Agile and DevOps principles, and the discussion is more about consulting practices than shared objectives guiding decision-making.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:31:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of consultants in driving change within organisations, touching on themes of expertise and the importance of addressing core issues. However, it lacks a direct focus on continuous learning and skill development, which are central to the concept of competence. While there are mentions of the need for ownership and cultural shifts, the depth of discussion on competence as a principle in Agile or DevOps is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:31:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of consultants in organisational change and agile transformation, without directly addressing the principles or components of the One Engineering System. While it touches on themes of communication and organisational challenges, it does not provide a detailed discussion on the integration and standardisation of engineering processes, which are core to 1ES.",
     "level": "Ignored"
   }
 }

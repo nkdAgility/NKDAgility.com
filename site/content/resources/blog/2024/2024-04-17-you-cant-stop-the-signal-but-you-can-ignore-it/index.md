@@ -42,7 +42,7 @@ tags:
 - Agile Transformation
 - Organisational Culture
 - Organisational Agility
-- Software Development
+- Continuous Improvement
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

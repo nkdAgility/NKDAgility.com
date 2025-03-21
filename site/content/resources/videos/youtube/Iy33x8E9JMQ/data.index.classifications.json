@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:24:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:06:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements and does not focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile consulting and the philosophical clash between dogma and empiricism, with no direct mention of DevOps principles or practices. While it touches on themes of flexibility and adaptation, which are relevant to DevOps, the focus remains on Agile methodologies rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,15 +94,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T22:38:42",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content briefly touches on the importance of empirical approaches in consulting engagements, suggesting a preference for pragmatism over dogma. However, it lacks explicit references to Evidence-Based Management principles, metrics, or case studies. The discussion is more focused on personal opinions about consulting practices rather than providing a structured analysis of EBM concepts.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T19:07:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of empiricism in consulting engagements, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on the clash between dogma and empiricism without providing specific metrics or detailed discussions on the key topics of EBM. The mention of empirical adaptation suggests a connection to data-informed decision-making, but the overall depth and focus on EBM concepts are limited.",
+    "level": "Tertiary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -327,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than focusing on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:25:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -652,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:25:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements, focusing on dogma versus empiricism, without any mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:06:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on flexibility and adaptation. While it touches on themes relevant to Continuous Delivery, such as responsiveness and adaptation to changing demands, it does not explicitly mention Continuous Delivery or its principles. The discussion lacks depth in terms of specific Continuous Delivery practices, tools, or case studies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -748,11 +745,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:25:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:06:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and empirical adaptation, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the philosophical clash between dogma and empiricism in consulting rather than providing a detailed exploration of the Agile Product Operating Model itself. The mention of Agile and Scrum is brief and does not delve into the specific principles or practices of the Agile Product Operating Model, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1494,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses consulting engagements and the importance of flexibility and empirical adaptation, but it does not explicitly mention the Shift-Left Strategy or its core principles. The focus is more on general consulting philosophy rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:06:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of empirical adaptation and flexibility in consulting engagements, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the clash between dogma and empiricism rather than providing a comprehensive exploration of Continuous Improvement practices. The mention of 'continuous learning' and 'empirical adaptation' indicates some alignment, but the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:06:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptation in consulting engagements, which loosely connects to the idea of aligning strategies with execution. However, it primarily focuses on the clash between dogma and empiricism rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The mention of Agile and Scrum is minimal and does not delve into the specifics of shared objectives or alignment, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:06:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of flexibility and continuous learning in consulting engagements, which aligns with the principles of competence. However, it primarily focuses on the clash between dogma and empiricism rather than directly addressing competence as a primary theme. The mention of training and the need for adaptability contributes to the discussion of competence, but it is not the central focus of the content.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:06:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on team dynamics and flexibility. It does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The discussion is more centred on Agile methodologies rather than the integration and standardisation of engineering processes, which is the core focus of the 1ES category.",
     "level": "Ignored"
   }
 }

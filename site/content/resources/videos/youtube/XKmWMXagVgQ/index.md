@@ -32,10 +32,12 @@ sitemap:
 tags:
 - Continuous Learning
 - Discovery and Learning
+- Competence
 - Product Owner
 - Metrics and Learning
 - Products and Books
 - Practical Techniques and Tooling
+- Continuous Improvement
 - Agile Product Management
 - Personal
 resourceTypes:

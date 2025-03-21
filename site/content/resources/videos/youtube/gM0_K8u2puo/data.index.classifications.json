@@ -167,15 +167,6 @@
     "reasoning": "Content focuses on a general inquiry about Scrum practices, lacking personal anecdotes or insights.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices, which are unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T18:47:55",
@@ -787,12 +778,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:45:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Scrum practices and team dynamics rather than evidence-based management principles or techniques.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with the concept of 'Time to Market' in Evidence-Based Management. However, it lacks explicit references to empirical metrics or a structured approach to decision-making based on data, which diminishes its alignment with the core themes of EBM. The depth of discussion is also limited, focusing more on general practices rather than detailed evidence-based strategies.",
+    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -1192,12 +1186,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T16:45:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of frequent releases and user feedback, which aligns well with Continuous Delivery principles. It emphasises the need for a tight release frequency and the ability to adapt quickly to market changes, both of which are core themes of Continuous Delivery. However, while it touches on these concepts, it lacks a deeper exploration of automation, testing, and specific tools that support Continuous Delivery practices, which slightly reduces the depth of discussion.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1422,6 +1419,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with agile principles but does not explicitly address the Shift-Left Strategy. While it touches on aspects of early user engagement and adaptation, it lacks a focus on integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:45:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with the principles of Continuous Improvement. However, it primarily focuses on market leadership and agility rather than explicitly addressing Continuous Improvement methodologies or frameworks. While it mentions adapting to market opportunities and enhancing team morale, it lacks a deeper exploration of Continuous Improvement techniques or empirical evidence, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:45:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which are relevant to Agile principles. However, it lacks explicit references to Common Goals, strategic alignment, or frameworks like OKRs. The focus is more on tactical execution rather than the foundational principles of aligning strategy with execution, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:45:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which indirectly relates to competence through the lens of agility and responsiveness. However, it lacks direct mentions of competence as a foundational principle and does not delve deeply into continuous learning or skill development, which are core themes of the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:45:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the importance of frequent product releases and user feedback, which are not directly related to the One Engineering System framework. While it touches on agile practices, it lacks explicit discussion of 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

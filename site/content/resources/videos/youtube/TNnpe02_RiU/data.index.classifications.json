@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:05:20",
-    "ai_confidence": 68.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-21T19:59:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 66.0,
-    "reasoning": "The content directly mentions DevOps and discusses a common misconception related to continuous delivery, which is a core principle of DevOps. However, while it touches on the topic, it lacks depth in exploring broader DevOps practices, tools, or cultural shifts, resulting in a moderate confidence score.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses DevOps, particularly focusing on common misconceptions and the importance of continuous delivery, which aligns well with the core themes of DevOps. It provides a detailed exploration of the empowerment of developers and the debunking of myths surrounding continuous delivery, indicating a strong depth of discussion. However, the content also includes references to Agile and Scrum, which, while related, may detract slightly from a pure DevOps focus.",
     "level": "Secondary"
   },
   "Social Technologies": {
@@ -259,14 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T00:32:32",
+    "calculated_at": "2025-03-21T19:59:54",
     "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 70.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content explicitly discusses Continuous Delivery, addressing misconceptions and advocating for its attainability. It aligns with core themes by emphasising empowerment of developers and the importance of Continuous Delivery in DevOps. However, while it provides a good overview, it lacks in-depth exploration of specific practices or methodologies related to Continuous Delivery, which slightly lowers the depth score.",
+    "reasoning": "The content explicitly discusses Continuous Delivery, addressing common misconceptions and emphasising its attainability. It aligns well with the principles of Continuous Delivery by advocating for developer empowerment and the importance of continuous improvement. However, while it provides a good overview, it lacks in-depth exploration of specific practices, tools, or case studies related to Continuous Delivery, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -414,15 +414,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps practices and common misconceptions around continuous delivery, without a focus on value stream management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses DevOps principles and practices rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1258,11 +1249,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:59:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps principles and continuous delivery, not focusing on the Agile Product Operating Model specifically.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses DevOps and continuous delivery, with only a brief mention of Agile principles. While it touches on themes of empowerment and continuous improvement, it lacks a focused discussion on the Agile Product Operating Model itself, making it more aligned with general Agile practices rather than the specific framework outlined in the category.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1465,11 +1459,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:59:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences and opinions regarding DevOps practices, without reference to empirical evidence or the principles of Evidence-Based Management.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses DevOps and Agile practices, focusing on common misconceptions and empowerment in continuous delivery. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a detailed analysis of data-informed decision-making or empirical evidence in management. The discussion is more anecdotal and lacks the depth required for a strong alignment with the category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1539,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses DevOps and continuous delivery, with a focus on debunking myths and empowering developers. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it provide depth on integrating testing, security, or compliance early in the development process. The discussion is more aligned with general DevOps practices rather than the specific themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:59:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses continuous improvement in the context of DevOps, particularly in relation to continuous delivery and the empowerment of developers. While it does mention continuous improvement and its importance, the primary focus is on debunking myths rather than a comprehensive exploration of continuous improvement principles. The depth of discussion is moderate, providing some insights into the topic but lacking extensive detail on strategies or frameworks that support continuous improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:59:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses pet peeves in DevOps, focusing on misconceptions about continuous delivery rather than explicitly addressing Common Goals. While it touches on themes of empowerment and continuous improvement, it lacks a direct connection to shared objectives or strategic alignment within Agile and DevOps frameworks. The discussion is more anecdotal and motivational, which does not align closely with the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:59:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of continuous delivery and empowerment of developers, which aligns with the themes of competence in Agile and DevOps. However, it primarily focuses on pet peeves and misconceptions rather than a deep exploration of competence itself. The mention of courses suggests a secondary focus on skill development, but the overall depth and direct discussion of competence are limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:59:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses pet peeves in DevOps and focuses on Agile and Scrum methodologies without any explicit mention or discussion of the One Engineering System framework. While it touches on continuous delivery, it does not align with the core themes of 1ES, such as integration and standardisation of engineering processes. The depth of discussion is limited to personal experiences and opinions, which do not contribute to the understanding of 1ES.",
     "level": "Ignored"
   }
 }

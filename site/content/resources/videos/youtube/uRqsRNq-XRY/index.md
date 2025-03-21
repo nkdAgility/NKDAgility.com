@@ -31,11 +31,11 @@ tags:
 - Team Performance
 - Agile Values and Principles
 - Agile Project Management
+- Continuous Improvement
 - Organisational Agility
 - People and Process
 - Agile Leadership
 - Team Collaboration
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

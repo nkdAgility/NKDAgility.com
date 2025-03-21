@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:30:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:16:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on training and community support rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and the application of Agile principles, which are not directly aligned with the core themes of DevOps. While there are mentions of collaboration and community, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth in terms of DevOps practices, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:30:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:17:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the experience of becoming a Scrum Master and the learning process involved, without a clear focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters and the application of Agile principles, with little direct mention of Evidence-Based Management. While it discusses practical application and community support, it lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The alignment with EBM concepts is minimal, and the depth of discussion does not delve into the key topics outlined for EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -339,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and training rather than release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:31:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and training methodologies, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -682,11 +679,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:32:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:16:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and the Agile principles associated with that role. While it touches on aspects of real-world application and community support, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of Agile is not directly tied to Continuous Delivery, and the depth of discussion lacks specific techniques or strategies related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -787,14 +787,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:57:40",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T19:16:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and the training process involved, which is more aligned with Scrum practices than the broader Agile Product Operating Model. While it touches on Agile principles and community support, it lacks a direct discussion on product-centric development, value delivery, or the integration of Agile methodologies within the product lifecycle. The emphasis is on personal development and community building rather than the operational model itself.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the training process involved, which is more aligned with Scrum practices than the Agile Product Operating Model. While it touches on Agile principles and community building, it lacks a direct discussion on product management, operational stability, or the transition from project to product ethos, which are core to the APOM. Therefore, the confidence score reflects a low primary focus on the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the journey of becoming a Scrum Master and the application of Agile principles, without explicitly discussing the Shift-Left Strategy. While there are elements of early problem identification and community support, these do not directly align with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth in relation to the specific practices and metrics associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:16:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the journey of becoming a Scrum Master and emphasises real-world application and community support, which aligns with the principles of Continuous Improvement. However, it primarily focuses on training and personal development rather than systematic processes or empirical evidence related to Continuous Improvement. The mention of applying learning in the workplace and fostering a community of practice hints at Continuous Improvement, but it lacks depth in discussing specific strategies or frameworks that support this category.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:16:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the journey of becoming a Scrum Master and the importance of community and real-world application of Agile principles. However, it primarily focuses on personal experiences and training methods rather than explicitly addressing Common Goals within Agile and DevOps frameworks. While there are elements of shared learning and community support, the discussion lacks a direct emphasis on aligning strategy with execution or the operationalisation of Common Goals, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:16:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the journey of becoming a competent Scrum Master, emphasising the importance of real-world application, community support, and continuous learning. It highlights the role of practical exercises in developing skills and confidence, aligning well with the core themes of competence. The depth of discussion is significant, covering various aspects of training and community building, which are crucial for fostering competence in Agile environments.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:16:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and the application of Agile principles, which are not directly related to the One Engineering System framework. While it discusses community building and practical application, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes across teams. The discussion is more centred on personal development and Scrum methodology rather than the overarching themes of 1ES.",
     "level": "Ignored"
   }
 }

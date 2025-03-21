@@ -47,15 +47,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:05:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:05:39",
@@ -328,11 +319,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:06:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:03:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Scrum Master training and does not explicitly discuss Evidence-Based Management principles or metrics. While it mentions improving outcomes, it lacks empirical evidence or data-informed decision-making discussions, which are central to EBM.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1036,11 +1030,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:03:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and Agile methodologies, with no direct mention of Continuous Delivery principles or practices. It lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal, as it does not provide any substantial information related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1476,6 +1473,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies without any explicit discussion of the Shift-Left Strategy. While it mentions improving outcomes through Scrum practices, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:03:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions improving outcomes through Scrum Master training, but it lacks a detailed discussion on Continuous Improvement principles. It does not provide empirical evidence, strategies for fostering a culture of experimentation, or any specific techniques related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:03:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum and the need for better outcomes, but it lacks a direct discussion on Common Goals or their significance in Agile and DevOps. The focus is primarily on promoting a learning experience rather than aligning strategy with execution or discussing shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:03:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the need for better outcomes from Scrum Masters, which hints at the importance of competence. However, it lacks explicit discussions on continuous learning, skill development, or strategies for fostering a culture of competence. The focus is more on promoting a specific learning experience rather than delving into the principles of competence in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:03:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and Agile methodologies, which are not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

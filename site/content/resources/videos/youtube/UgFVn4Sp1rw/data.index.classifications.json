@@ -235,14 +235,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-11T14:16:01",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T16:49:32",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses financial metrics and decision-making in product development, which aligns with EBM principles. However, it lacks direct references to EBM frameworks and empirical evidence, focusing more on financial awareness and cost management.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses financial awareness and metrics related to product development costs, which aligns with the Evidence-Based Management principles of current value and empirical decision-making. However, it lacks a direct focus on EBM as a primary topic and does not delve deeply into the specific metrics or frameworks associated with EBM, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -286,11 +286,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:33:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:49:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses cost management and product management within the context of Scrum, rather than focusing on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development rather than Continuous Delivery principles. While it touches on metrics and continuous improvement, it lacks direct discussions on automation, deployment, or the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1499,15 +1502,6 @@
     "reasoning": "Content primarily discusses product development costs and management practices within a Scrum framework, lacking a focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses product development costs and Scrum framework without a clear focus on the One Engineering System principles or integration of tools and processes.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:37:55",
@@ -1584,6 +1578,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on financial aspects of product development rather than integrating testing, security, or compliance early in the software development lifecycle. While it discusses metrics and continuous improvement, it does not explicitly address the Shift-Left Strategy or its principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:49:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses financial awareness and metrics in product development, which aligns with Continuous Improvement principles. It mentions the importance of monitoring costs and value, fostering a culture of financial responsibility, and continuous assessment. However, it lacks explicit discussions on empirical evidence, specific Continuous Improvement frameworks, or detailed strategies for integrating these practices into organisational processes, which limits its depth and direct mentions.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:49:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which indirectly relates to aligning team efforts with organisational goals. However, it lacks explicit discussions on Common Goals as defined in Agile and DevOps frameworks. While it touches on the importance of understanding costs and making informed decisions, it does not delve deeply into shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:49:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of financial awareness and decision-making within teams, which aligns with the concept of competence in terms of understanding and managing product development costs. It mentions empowering team members to make informed decisions, which relates to skill development and professionalism. However, the primary focus is on financial metrics rather than a broader discussion of competence in Agile or DevOps contexts, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:49:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development rather than discussing the One Engineering System framework or its principles. While it touches on team empowerment and decision-making, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

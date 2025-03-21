@@ -49,11 +49,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:42:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the subjective skills of product owners rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-03-21T18:05:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the interpersonal skills of product ownership and communication strategies rather than on evidence-based management principles. While it touches on the importance of understanding within teams, it lacks direct references to empirical metrics or data-informed decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Personal": {
@@ -337,20 +340,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:43:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:05:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the skills of product owners in fostering team clarity, without a clear emphasis on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication, which is relevant to product management. However, it lacks direct references to the Agile Product Operating Model and does not delve into its core principles or frameworks. While it touches on aspects of collaboration and team dynamics, it does not provide a comprehensive discussion on the APOM or its integration with agile methodologies.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:43:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:05:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the skills required for product owners to enhance team understanding, which is not directly related to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product ownership and communication strategies within teams, which are not directly related to DevOps principles. While there are elements of collaboration and team dynamics mentioned, they do not align with the core themes of DevOps such as automation, shared accountability, or continuous improvement. The discussion lacks depth in any DevOps-related topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -372,15 +381,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the skills required for product owners to foster team clarity, which does not directly relate to the optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:43:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the skills required for product owners and does not discuss the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -433,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:05:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and communication skills in fostering understanding within a team, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team communication and understanding, which does not directly address Continuous Delivery principles or practices. While there are elements of team dynamics that could tangentially relate to software delivery, the core themes of Continuous Delivery, such as automation, rapid feedback, and incremental improvements, are not discussed. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -1476,6 +1479,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of product owners in fostering understanding and communication within teams, which does not directly address the Shift-Left Strategy. While there are elements of collaboration and communication that could tangentially relate to early integration of processes, the core themes of testing, security, and compliance are absent. The discussion lacks explicit mentions of Shift-Left principles or techniques, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:05:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses skills for product owners that can indirectly support team effectiveness and communication, which are relevant to Continuous Improvement. However, it lacks direct references to Continuous Improvement principles, empirical evidence, or structured methodologies. The focus is more on personal skills and team dynamics rather than systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:05:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding and communication within teams, which is relevant to fostering alignment and shared objectives. However, it does not explicitly mention Common Goals or connect to Agile and DevOps principles in a direct manner. The focus is more on personal skills and strategies rather than on the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:05:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding and communication within teams, which indirectly relates to competence. However, it primarily focuses on interpersonal skills and team dynamics rather than explicitly addressing continuous learning or skill development. While there are mentions of fostering a safe space for questions and tailoring communication, these do not delve deeply into the core themes of competence as defined in the category. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:05:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team communication and understanding, which does not directly address the principles or components of the One Engineering System. While there are elements of team dynamics that could tangentially relate to collaboration, the discussion lacks explicit references to 1ES, its integration of tools and processes, or best practices for its implementation.",
     "level": "Ignored"
   }
 }

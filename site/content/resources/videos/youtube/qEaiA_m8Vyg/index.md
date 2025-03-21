@@ -33,6 +33,7 @@ tags:
 - Customer Feedback Loops
 - Metrics and Learning
 - Empirical Process Control
+- Continuous Improvement
 - Coaching
 - Personal
 resourceTypes:

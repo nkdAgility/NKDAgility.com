@@ -34,12 +34,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:09:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift from waterfall to agile methodologies in the context of the DOD and FBI, highlighting empirical evidence of success rates and the benefits of iterative processes. However, it primarily focuses on the narrative of these changes rather than a structured discussion on Evidence-Based Management principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, focusing on the DOD's procurement rules and the benefits of agile practices. While it touches on some aspects of evidence-based management, such as the success rates of agile versus waterfall, it lacks a direct focus on empirical decision-making and the specific metrics outlined in the EBM category. The discussion is more about agile practices rather than a thorough exploration of evidence-based management principles.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -133,14 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:30:20",
+    "calculated_at": "2025-03-21T21:09:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence and its impact on software development. While it touches on themes relevant to DevOps, such as iterative development and the importance of user involvement, it lacks a direct focus on DevOps principles, practices, and tools. The discussion is more centred on agile practices rather than the integration of development and operations, which is a core aspect of DevOps.",
+    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, focusing on the DOD's procurement rules and the benefits of agile practices. While it touches on themes of collaboration and iterative development, it does not explicitly address the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is more centred on agile practices rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,25 +344,16 @@
     "reasoning": "Content primarily discusses the shift from waterfall to agile methodologies in the context of the Department of Defence and the FBI, focusing on project management and software development rather than the principles of Systems Thinking.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:33:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence and the FBI, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:30:25",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-21T21:09:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the transition from waterfall to agile methodologies, particularly in the context of the Department of Defence and its impact on IT procurement. It highlights principles of iterative development, user involvement, and the benefits of agile over traditional project management. While it does not explicitly mention the Agile Product Operating Model, it aligns closely with its core themes, such as value delivery and cross-functional teams. The depth of discussion is substantial, providing examples and principles that resonate with the category, but it lacks a direct focus on the Agile Product Operating Model as a holistic framework.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, particularly in the context of the DOD and FBI, which aligns with the principles of the Agile Product Operating Model. It mentions key topics such as iterative development, user involvement, and the benefits of agile practices, indicating a strong conceptual alignment. However, while it provides substantial detail on the impact of these changes, it does not delve deeply into the specific frameworks or governance aspects of the Agile Product Operating Model, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -433,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:09:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting principles of iterative development and the importance of delivering software incrementally. However, it primarily focuses on agile practices rather than Continuous Delivery specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting principles such as iterative development and user involvement, which are relevant to Continuous Delivery. However, the primary focus is on agile practices rather than Continuous Delivery specifically, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1542,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative development and early user involvement, which are aligned with Shift-Left principles. However, it primarily focuses on the broader context of agility in government projects rather than explicitly addressing the Shift-Left Strategy itself. The discussion lacks depth in terms of specific techniques or tools for integrating testing and security early in the development process, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:09:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative processes and the importance of user involvement, which aligns with Continuous Improvement principles. However, while it touches on these themes, the primary focus is on the DOD's procurement rules and the impact of specific projects rather than a comprehensive exploration of Continuous Improvement as a standalone topic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:09:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of agility in project management. However, it primarily focuses on the implications of the DOD's procurement rules and the historical context of project failures rather than explicitly addressing the concept of Common Goals. While there are mentions of iterative processes and user involvement, the discussion lacks a direct connection to shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:09:42",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of agility in terms of success rates and cost-effectiveness. While it touches on the importance of user involvement and iterative development, it does not explicitly focus on the concept of competence as defined in the category. The discussion is more about the transition in processes rather than the continuous development of skills or the fostering of a culture of competence. Therefore, while there are relevant points, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:09:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, particularly in the context of the DOD and FBI projects. While it touches on themes of efficiency and iterative processes, it does not explicitly mention the One Engineering System framework or its principles. The focus is more on agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

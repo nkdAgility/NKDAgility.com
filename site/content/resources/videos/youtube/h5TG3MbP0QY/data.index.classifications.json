@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:20:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:23:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum training and the moral obligations within Agile practices, which are not directly related to DevOps principles. While it touches on themes of honesty and transparency, it lacks a focus on the core aspects of DevOps such as collaboration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:20:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses moral obligations and perceptions in a PSM class, without focusing on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum training and moral obligations within Agile practices, with no direct mention of Evidence-Based Management principles or metrics. It focuses on subjective experiences and opinions rather than empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -324,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses moral obligations and perceptions in a PSM class, with no focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:21:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses personal experiences and opinions related to a PSM course, with no focus on the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -634,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:22:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Agile principles, focusing on moral obligations and honesty in project management rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery, and the themes explored do not align with the core aspects of Continuous Delivery such as automation, incremental improvements, or rapid feedback. The depth of discussion is also minimal regarding Continuous Delivery, as it does not provide any insights or techniques related to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -727,11 +727,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:22:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moral obligations and perceptions in a PSM class, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T19:24:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses insights from a PSM 1 course, focusing on Scrum principles and moral obligations rather than the Agile Product Operating Model. While it touches on Agile concepts, it does not delve into the core themes of APOM, such as product management practices or operational governance.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1437,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses moral obligations and integrity within Agile and Scrum contexts, without any direct mention or alignment to the Shift-Left Strategy. It focuses on ethical considerations rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:23:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses moral integrity and honesty within Agile practices, particularly in the context of a PSM 1 course. While it touches on themes relevant to Continuous Improvement, such as the importance of transparency and ethical considerations, it does not explicitly address Continuous Improvement as a primary focus. The discussion lacks depth in terms of strategies or frameworks for Continuous Improvement, and the overall emphasis is more on ethical dilemmas than on systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:24:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content touches on moral obligations and honesty within Agile, which are related to the principles of Common Goals. However, it primarily focuses on personal experiences and reflections rather than explicitly discussing shared objectives or alignment strategies within teams. The mention of moral integrity and transparency is relevant but does not delve deeply into the core themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:24:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses moral integrity and honesty within Agile and Scrum contexts, which relates to competence in terms of maintaining trust and quality. However, it primarily focuses on moral obligations rather than directly addressing continuous skill development or strategies for fostering competence. The discussion lacks depth in exploring competence as a foundational principle, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:24:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum training and personal insights from a PSM 1 course, which are not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the focus is on moral obligations within Agile rather than integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

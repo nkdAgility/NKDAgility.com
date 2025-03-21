@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:06:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of humility in Agile practices, focusing on team collaboration and decision-making rather than Continuous Delivery principles.",
+    "calculated_at": "2025-03-21T18:09:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of humility in Agile practices, focusing on collaboration and team dynamics rather than Continuous Delivery principles. While it touches on aspects of feedback and improvement, it does not explicitly address Continuous Delivery concepts such as automation, deployment, or incremental delivery. Therefore, it has minimal relevance to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,15 +841,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T20:30:16",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T18:09:16",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses humility in Agile and touches on data-driven decision-making, which aligns with EBM principles. However, it primarily focuses on the virtue of humility rather than providing a comprehensive discussion on EBM practices, metrics, or case studies. The mention of data is limited and does not delve deeply into how empirical evidence can enhance decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses humility in Agile and its importance in collaboration and decision-making, which aligns with some aspects of Evidence-Based Management, particularly in relation to data-driven decision-making. However, the primary focus is on the virtue of humility rather than on empirical evidence or metrics that define EBM. While there are mentions of listening to data and feedback, the overall discussion does not delve deeply into the core themes of EBM, such as current value metrics or outcome management.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:04:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:08:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the importance of humility in team collaboration, without any focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of humility within Agile methodologies, discussing its importance for collaboration and trust among team members. While it touches on themes relevant to teamwork and feedback, it does not explicitly address DevOps principles or practices. The discussion lacks depth in relation to DevOps, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:49:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:09:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of humility in Agile, particularly in the context of product management and collaboration, which aligns with the Agile Product Operating Model. However, it primarily focuses on the virtue of humility rather than the broader principles and strategies of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses humility as a virtue in Agile, which is relevant to Agile practices but does not explicitly focus on the Agile Product Operating Model. While it touches on aspects of collaboration and data-driven decision-making, it lacks a comprehensive exploration of the APOM principles and frameworks. The primary focus is on the virtue of humility rather than the operational model itself.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1504,15 +1513,6 @@
     "final_score": 74.0,
     "reasoning": "The content discusses the role of humility in Agile, emphasising its importance in collaboration, trust, and decision-making, which aligns well with the core themes of Social Technologies. It provides detailed insights into how humility fosters effective team dynamics and enhances value delivery through collective intelligence. The depth of discussion is significant, with practical examples and methods for cultivating humility within teams, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the virtue of humility in Agile practices, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of humility in Agile practices, focusing on collaboration and feedback rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile principles, it does not directly address the Shift-Left Strategy or its key topics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:09:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses humility in Agile, which indirectly relates to Continuous Improvement through the emphasis on feedback and data-driven decision-making. However, it primarily focuses on the virtue of humility rather than a structured approach to Continuous Improvement. While it touches on aspects like listening to feedback and adapting based on data, it lacks a comprehensive exploration of Continuous Improvement principles and practices.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:09:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the virtue of humility in Agile, focusing on collaboration and trust rather than explicitly addressing Common Goals. While it touches on themes of teamwork and decision-making, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:09:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses humility as a virtue in Agile, which indirectly relates to competence through themes of collaboration, trust, and openness to feedback. However, it does not explicitly focus on continuous learning or skill development, which are core aspects of competence. The discussion is more centred on interpersonal dynamics rather than the development of professional capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:09:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of humility within Agile practices, discussing its importance for collaboration and team dynamics. While it touches on themes relevant to software development, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

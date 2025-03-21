@@ -31,6 +31,7 @@ tags:
 - Continuous Learning
 - People and Process
 - Coaching
+- Competence
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

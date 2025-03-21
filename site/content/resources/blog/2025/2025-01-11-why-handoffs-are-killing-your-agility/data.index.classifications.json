@@ -664,14 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T17:18:19",
+    "calculated_at": "2025-03-21T16:48:37",
     "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content discusses the elimination of handoffs and the importance of automation, which are key aspects of Continuous Delivery. It explicitly mentions Continuous Delivery practices and how they relate to improving delivery efficiency and quality. The depth of discussion on strategies to enhance agility through automation and cross-functional teams aligns well with Continuous Delivery principles, although the primary focus is on handoffs rather than CD itself.",
+    "reasoning": "The content discusses the negative impact of handoffs in software development and suggests strategies for improvement, including the adoption of Continuous Delivery practices. While Continuous Delivery is mentioned and its principles are touched upon, the primary focus is on eliminating handoffs rather than a comprehensive exploration of Continuous Delivery itself. The content aligns with some key themes, such as automation and cross-functional teams, but lacks depth in discussing Continuous Delivery as a standalone practice.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1480,11 +1480,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:46:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:48:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the negative impact of handoffs on agility and organisational efficiency, without a clear focus on evidence-based management principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the impact of handoffs on agility and efficiency in software development, but it does not explicitly mention Evidence-Based Management or its key topics. While it touches on concepts like reducing cycle time and improving quality, it lacks a strong focus on empirical decision-making or metrics that assess current value delivery. The discussion is more centred on Agile practices and the elimination of handoffs rather than on data-informed management strategies.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1494,15 +1497,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses the concept of handoffs in software development and their impact on agility, without a clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:46:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the issues and solutions related to handoffs in software development, focusing on Lean and Agile practices rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -1591,5 +1585,53 @@
     "final_score": 71.0,
     "reasoning": "The content discusses the concept of eliminating handoffs and mentions 'shift left' as part of a broader strategy to improve agility and quality in software development. However, while it touches on the importance of integrating quality and feedback earlier in the process, the primary focus is on the negative impacts of handoffs rather than a detailed exploration of the Shift-Left Strategy itself. The discussion lacks depth in terms of specific techniques or tools that support a Shift-Left approach, which affects the overall confidence score.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:48:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and proposes strategies for improvement, such as creating cross-functional teams and adopting continuous delivery practices. While it does not explicitly mention 'Continuous Improvement' as a term, it aligns with its principles by advocating for incremental enhancements in processes and team effectiveness. The depth of discussion on specific strategies and their implications for organisational agility supports a strong alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:48:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs in software development and strategies to eliminate them, which does not directly address the concept of Common Goals. While it touches on the importance of cross-functional teams and collaboration, it lacks a focused discussion on aligning strategy with execution or shared objectives that guide decision-making. The mention of team ownership and accountability is relevant but is not explored in the context of overarching strategic goals, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:48:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and efficiency, which indirectly relates to competence by highlighting the need for cross-functional teams and continuous improvement. However, it primarily focuses on the issue of handoffs rather than explicitly addressing competence as a foundational principle. The discussion lacks depth in exploring continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:48:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs in software development and strategies to eliminate them, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and efficiency, it does not provide a detailed exploration of 1ES or its implementation, making it only tangentially related to the category.",
+    "level": "Ignored"
   }
 }

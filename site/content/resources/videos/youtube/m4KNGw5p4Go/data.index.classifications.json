@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:31:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:23:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development, experimentation, and collaboration, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development strategies and the importance of user value, experimentation, and collaboration, which are relevant to Continuous Delivery principles. However, it lacks direct mentions of Continuous Delivery practices, automation, or deployment strategies, making it more focused on general product development rather than the specific category of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,14 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:30:59",
+    "calculated_at": "2025-03-21T17:23:12",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses the importance of data-driven decision-making and experimentation, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on product development and personal anecdotes rather than a comprehensive exploration of EBM principles. While it mentions using data over opinions and improving collaboration with stakeholders, it lacks detailed discussions on EBM techniques, metrics, or case studies, which limits its depth in the category.",
+    "reasoning": "The content discusses the importance of data-driven decision-making and experimentation, which aligns with Evidence-Based Management principles. However, it primarily focuses on product development strategies rather than explicitly addressing EBM concepts. While there are mentions of using evidence to inform decisions and improve ROI, the depth of discussion on EBM-specific metrics and frameworks is limited.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "The content discusses principles of collaboration, experimentation, and user-centric approaches, which align with some aspects of BetaCodex, but it primarily focuses on product development techniques rather than the core principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:27:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development, experimentation, and collaboration, without a clear emphasis on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:16:37",
@@ -1566,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses product development, experimentation, and collaboration but does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements of early user feedback and iterative processes that align with the Shift-Left concept, the primary focus is on general product development practices rather than integrating testing, security, or compliance earlier in the lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:23:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of experimentation, collaboration, and data-driven decision-making, which are key aspects of Continuous Improvement. It highlights strategies for enhancing user value and reducing waste, aligning well with the principles of Continuous Improvement. However, while it touches on these themes, it does not delve deeply into specific Continuous Improvement frameworks or case studies, which slightly lowers the depth score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:23:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses various strategies for product development, including collaboration and reducing waste, which are relevant to the principles of Agile and DevOps. However, it primarily focuses on practical techniques and personal anecdotes rather than explicitly addressing the concept of Common Goals. While there are mentions of aligning efforts and improving collaboration, the depth of discussion on shared objectives and strategic alignment is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:23:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill development through experimentation and collaboration, which aligns with the core themes of competence. However, it primarily focuses on product development strategies rather than a deep exploration of competence itself. The mentions of deliberate experimentation and improving collaboration touch on competence but do not provide extensive detail on fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:23:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product development strategies, experimentation, and collaboration, which are not directly related to the One Engineering System framework. While there are mentions of Agile principles, the discussion does not delve into the integration or standardisation of engineering processes as required by the 1ES category.",
     "level": "Ignored"
   }
 }

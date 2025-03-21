@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:04:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:12:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses the evolution of product ownership and leadership within Agile frameworks, with only a brief mention of DevOps at the end.",
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on the evolution of the Product Owner role within Agile environments, discussing leadership and accountability rather than the core principles of DevOps. While it briefly mentions DevOps in the context of a specific individual, the overall discussion does not align closely with the key topics of DevOps, such as collaboration, automation, or shared accountability across teams. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -100,11 +103,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:04:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:13:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the evolution of product ownership into leadership roles within Agile frameworks, without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and leadership in Agile environments but lacks a direct focus on Evidence-Based Management principles. While it touches on accountability and creating systems for innovation, it does not provide empirical evidence or metrics that align with the core themes of EBM. The discussion is more about personal development and leadership rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -351,15 +357,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses the evolution of product ownership and leadership within Agile frameworks, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:05:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the evolution of product ownership and leadership in Agile, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -682,11 +679,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:05:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:13:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the evolution of product ownership and leadership in Agile, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the evolution of the Product Owner role within Agile environments, discussing leadership and accountability rather than Continuous Delivery practices. While it touches on aspects of Agile, it does not explicitly mention Continuous Delivery or its principles, nor does it delve into topics such as automation, incremental improvements, or rapid feedback, which are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -784,14 +784,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:48:15",
+    "calculated_at": "2025-03-21T19:12:57",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses the evolution of the Product Owner role and its implications for leadership within Agile environments, which aligns with the Agile Product Operating Model. However, it primarily focuses on individual roles and leadership rather than the broader organisational framework and principles of product-centric development. While it touches on key themes such as accountability and creating a thriving culture, it lacks a comprehensive exploration of the Agile Product Operating Model's core aspects, such as cross-functional teams and continuous feedback mechanisms.",
+    "reasoning": "The content discusses the evolution of the Product Owner role and its implications for leadership within Agile environments, which aligns with the Agile Product Operating Model. However, it primarily focuses on the individual journey of Product Owners rather than the broader principles and frameworks of APOM. While there are mentions of accountability and leadership, the discussion lacks depth in terms of the operational aspects and governance of product delivery that are central to APOM.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the evolution of the Product Owner role and leadership within Agile environments, with no direct mention of the Shift-Left Strategy or its principles. While there are themes of accountability and collaboration, they do not specifically relate to integrating testing, security, or compliance earlier in the software development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:12:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and the importance of leadership in fostering a thriving culture, which aligns with the principles of Continuous Improvement. However, it primarily focuses on individual growth and leadership rather than systematic processes or empirical evidence related to Continuous Improvement. The mention of creating systems that empower teams hints at Continuous Improvement but lacks depth in discussing specific techniques or frameworks associated with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:12:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role and its impact on leadership within Agile environments. While it touches on themes of accountability and creating a thriving culture, it lacks a direct focus on Common Goals as defined in the category. The discussion is more centred on personal development and leadership rather than explicitly aligning strategy with execution or shared objectives. Therefore, while there is some alignment with the principles of Agile, it does not fully meet the criteria for a strong focus on Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:12:50",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role into leadership, highlighting increased accountability and the importance of creating a thriving culture, which aligns with the principles of competence. However, while it touches on aspects of professional development and leadership, it does not delve deeply into continuous learning or skill development, which are core themes of the competence category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:12:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the evolution of the Product Owner role within Agile environments, discussing leadership and accountability rather than the principles or components of the One Engineering System. While it touches on themes of collaboration and systems thinking, it does not explicitly mention 1ES or its integration and standardisation aspects, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

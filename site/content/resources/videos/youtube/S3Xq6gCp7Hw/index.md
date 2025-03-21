@@ -37,8 +37,8 @@ tags:
 - Professional Scrum
 - Product Discovery
 - Agile Product Management
-- Agile Product Operating Model
 - People and Process
+- Product Backlog
 resourceTypes:
 - video
 categories:

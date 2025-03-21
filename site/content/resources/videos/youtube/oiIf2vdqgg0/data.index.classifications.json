@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:17:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:41:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product vision and goals, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of a product vision within the context of Scrum, which is a specific Agile methodology. While it touches on themes of direction and alignment, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth regarding DevOps practices and does not mention any relevant DevOps concepts or cultural shifts.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:17:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:42:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of product vision without reference to Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of a product vision within the context of Scrum, which does not directly address Evidence-Based Management principles. While it discusses the importance of direction and long-term goals, it lacks explicit references to empirical evidence, data-informed decision-making, or the specific metrics outlined in the EBM category. The discussion is more about product vision than evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -324,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product vision and goals, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:17:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of product vision, which is not related to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -628,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:18:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:42:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product vision and goals, which are not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of a product vision within the context of Scrum, which is not directly related to Continuous Delivery. While it touches on aspects of direction and goals in product development, it lacks explicit references to Continuous Delivery principles, practices, or the role of automation and feedback in the delivery process.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -718,15 +718,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-10T18:15:49",
-    "ai_confidence": 45.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content briefly discusses the concept of a product vision, which is relevant to the Agile Product Operating Model. However, it lacks explicit references to Agile principles or the broader framework of product-centric development. While it touches on the importance of direction and outcomes, it does not delve into strategies for value delivery, cross-functional teams, or continuous feedback, which are key aspects of the category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:41:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the concept of a product vision within the context of Scrum, which is a specific agile framework. While it touches on the importance of a product vision, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more aligned with Scrum practices rather than the broader APOM framework, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1455,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the concept of a product vision in the context of Agile development, without any direct reference to the Shift-Left Strategy. It lacks explicit mentions of integrating testing, security, or compliance early in the development process, and does not provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on the overarching goals and direction of product development rather than on the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:41:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on defining a product vision within the context of Scrum, which is not directly related to Continuous Improvement. While it touches on the importance of direction and long-term goals, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The content does not provide depth in terms of Continuous Improvement practices or their integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:41:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of a product vision, which is related to aligning team efforts towards a common goal. However, it primarily focuses on the definition and importance of a product vision rather than explicitly addressing the broader concept of Common Goals within Agile and DevOps frameworks. While it touches on alignment and direction, it lacks depth in discussing how these visions translate into shared objectives or strategic alignment across teams.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:41:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the concept of a product vision within Scrum, which is more about direction and goal-setting rather than directly discussing competence or skill development. While it touches on the importance of aligning team efforts, it does not delve into continuous learning, skill development, or the professional growth aspects that are central to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:41:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a product vision within the Scrum framework, which is not directly related to the One Engineering System. While it discusses aspects of team direction and goals, it does not address the integration or standardisation of engineering processes, nor does it mention the principles or components of 1ES. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   }
 }

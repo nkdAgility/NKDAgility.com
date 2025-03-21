@@ -32,6 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - People and Process
 - Agile Transformation
 - Agile Philosophy
@@ -41,7 +42,6 @@ tags:
 - Agile Leadership
 - Software Development
 - Coaching
-- Personal
 resourceTypes:
 - video
 categories:

@@ -59,15 +59,6 @@
     "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with the human-centric and adaptive principles of BetaCodex. However, it lacks direct mentions of BetaCodex principles and does not delve deeply into the foundational theories or broader implications of decentralisation and organisational culture. The focus is more on agility in a general sense rather than specifically on BetaCodex, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:36:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile practices and team empowerment rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:36:32",
@@ -88,11 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:36:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:29:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the importance of team empowerment in changing requirements based on user feedback, without a clear focus on DevOps practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and team empowerment rather than DevOps principles. While it touches on aspects like user feedback and team collaboration, which are relevant to DevOps, it does not explicitly discuss DevOps as a philosophy or its core practices. The depth of discussion on DevOps-related topics is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -127,14 +121,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T09:54:47",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-21T17:29:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with the principles of continuous feedback and iteration in product development. However, it lacks explicit references to the Agile Product Operating Model as a framework and does not delve deeply into the broader themes such as cross-functional teams or metrics for measuring product success. The focus is primarily on the empowerment of teams rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses key aspects of the Agile Product Operating Model, such as team empowerment, user feedback, and backlog management, which are central to the framework. It provides a detailed exploration of how these elements contribute to delivering customer-centric value, aligning well with the core themes of APOM. However, while it touches on these topics, it does not explicitly label them as part of the Agile Product Operating Model, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -352,15 +346,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:48:07",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T17:29:42",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of adapting requirements based on user feedback, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on agile practices and team engagement rather than explicitly addressing EBM principles or empirical data usage. While it mentions the need for updating the backlog based on insights and user feedback, it lacks a deeper exploration of metrics or case studies that would strengthen its alignment with EBM.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile practices and team empowerment but lacks a strong focus on empirical evidence or metrics that are central to Evidence-Based Management. While it touches on the importance of user feedback and adapting requirements, it does not provide a detailed analysis of current value, unrealised value, or empirical decision-making, which are key aspects of EBM.",
+    "level": "Tertiary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1114,11 +1108,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:29:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile practices and team empowerment rather than Continuous Delivery principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and team empowerment rather than Continuous Delivery specifically. While it touches on aspects like backlog updates and responding to user feedback, which are relevant to Continuous Delivery, it lacks a focused discussion on the principles, practices, and tools of Continuous Delivery itself. The emphasis is more on Agile methodologies and team dynamics, which are secondary to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1557,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agile practices and the importance of adapting requirements based on user feedback, which aligns with some principles of the Shift-Left Strategy. However, it primarily focuses on team engagement and backlog management rather than explicitly integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in terms of specific Shift-Left techniques or tools, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:29:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the importance of team empowerment, user feedback, and the need for continuous updates to the backlog, which aligns well with the principles of Continuous Improvement. It highlights the necessity of adapting processes based on empirical evidence and user insights, demonstrating a commitment to enhancing product value and team effectiveness. The depth of discussion on backlog management and the importance of deleting unnecessary requirements further supports its alignment with Continuous Improvement practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:29:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of team empowerment and adapting to user feedback, which aligns with the principles of Agile. However, while it touches on aspects of collaboration and value delivery, it lacks a direct focus on the concept of Common Goals as defined in the category. The discussion is more centred on team dynamics and backlog management rather than explicitly connecting individual contributions to overarching strategic objectives.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:29:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of team empowerment and adapting to user feedback, which indirectly relates to competence in Agile environments. However, while it touches on aspects of continuous learning and adapting processes, it does not explicitly focus on competence as a primary theme. The depth of discussion on competence-related strategies is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:29:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and team empowerment rather than the One Engineering System framework. While it touches on aspects of collaboration and adapting processes, it does not explicitly discuss the principles, components, or implementation of 1ES. The discussion is more aligned with Agile methodologies and personal experiences rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

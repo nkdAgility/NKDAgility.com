@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:07:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product management principles, focusing on vision, value, and validation, rather than Continuous Delivery practices.",
+    "calculated_at": "2025-03-21T18:07:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on product management concepts such as Vision, Value, and Validation, which are not directly related to Continuous Delivery. While there are mentions of project management and the importance of delivering value, the discussion lacks explicit references to Continuous Delivery principles, practices, or automation in testing and deployment. The content does not explore the core themes of Continuous Delivery, such as rapid feedback loops or incremental improvements, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,14 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T20:26:22",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T18:07:22",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the importance of Vision, Value, and Validation in product management, which aligns with some principles of Evidence-Based Management, particularly in the context of validating assumptions and measuring value. However, it lacks a direct focus on empirical evidence and data-driven decision-making, which are core to EBM. The discussion is more about product management practices rather than a thorough exploration of EBM principles.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of Vision, Value, and Validation in product management, which aligns with some aspects of Evidence-Based Management, particularly in terms of validating assumptions and focusing on delivering value. However, it lacks direct references to empirical decision-making and specific metrics that are central to EBM. The discussion is more focused on product management principles rather than a comprehensive exploration of evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:05:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:07:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management principles, focusing on vision, value, and validation, without a clear connection to DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product management concepts such as Vision, Value, and Validation, which are not directly related to DevOps principles. While there are mentions of Agile methodologies, the discussion does not delve into the core themes of DevOps, such as collaboration between development and operations, automation, or continuous improvement. The content lacks depth in discussing DevOps practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,11 +1483,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:46:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transition from project management to product management, emphasising the importance of vision, value, and validation in a product-centric approach, which aligns closely with the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T18:07:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the transition from traditional project management to product management, emphasising the importance of Vision, Value, and Validation. While it aligns with the Agile Product Operating Model by addressing the shift to a product-oriented mindset, it does not delve deeply into the specific principles or practices of APOM. The focus is more on the challenges faced by new Product Owners rather than a comprehensive exploration of the Agile Product Operating Model itself.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1503,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition from project management to product management, focusing on Vision, Value, and Validation. While it touches on aspects of collaboration and communication, it primarily centres on individual roles and responsibilities rather than broader social technologies or frameworks that promote collective intelligence and decision-making. The discussion lacks depth in exploring how these concepts foster collaboration or enhance organisational culture, which are key themes in the Social Technologies category.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:46:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product management principles rather than the One Engineering System framework or its integration and standardisation.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the transition from project management to product management, focusing on Vision, Value, and Validation. While it touches on the importance of understanding product goals and customer feedback, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:07:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of Vision, Value, and Validation in product management, which indirectly relates to Continuous Improvement through the emphasis on continuous validation and feedback loops. However, it primarily focuses on the transition from project management to product management rather than on Continuous Improvement as a core theme. The discussion lacks depth in terms of specific Continuous Improvement strategies or frameworks, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:07:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of Vision, Value, and Validation in product management, which indirectly relates to aligning team efforts with overarching goals. However, it primarily focuses on the role of a Product Owner rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The discussion lacks depth in connecting these concepts to shared objectives or strategic alignment, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:07:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition from project management to product management, emphasising the importance of Vision, Value, and Validation. While it touches on aspects of competence, such as the need for effective communication and understanding of product goals, it does not focus primarily on continuous learning or skill development. The discussion lacks depth in exploring how competence directly impacts team dynamics or decision-making, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:07:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management principles, specifically Vision, Value, and Validation, rather than discussing the One Engineering System (1ES) framework or its components. While it touches on the transition from project management to product management, it does not delve into the integration of tools or processes across teams, nor does it provide insights into the implementation of 1ES. The discussion lacks depth regarding the core themes of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

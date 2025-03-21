@@ -35,13 +35,13 @@ tags:
 - Frequent Releases
 - Deployment Frequency
 - Software Development
+- Continuous Delivery
 - Operational Practices
 - Product Delivery
 - Events and Presentations
 - Value Delivery
 - Market Adaptability
 - Organisational Agility
-- Pragmatic Thinking
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

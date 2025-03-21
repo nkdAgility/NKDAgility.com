@@ -35,6 +35,7 @@ sitemap:
 tags:
 - Practical Techniques and Tooling
 - Operational Practices
+- Continuous Improvement
 - Cycle Time
 - Agile Project Management
 - Metrics and Learning

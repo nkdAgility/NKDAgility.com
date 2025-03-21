@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:12:08",
+    "calculated_at": "2025-03-21T20:19:27",
     "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
     "final_score": 70.0,
-    "reasoning": "The content discusses the author's transition from development to DevOps, highlighting the importance of tools and people in the DevOps process. It mentions specific practices related to DevOps, such as migrations to Azure DevOps and the challenges faced in implementing these tools effectively. However, while it touches on DevOps principles, the primary focus is on Agile methodologies and personal experiences rather than a deep exploration of DevOps practices, which slightly lowers the confidence score.",
+    "reasoning": "The content discusses the author's transition into the DevOps space and touches on the importance of people and processes in relation to tools. While it mentions DevOps and aligns with some core themes, such as the need for cultural shifts and collaboration, the primary focus remains on Agile and Scrum methodologies. The depth of discussion on DevOps is limited compared to the emphasis on Agile practices, which detracts from a stronger alignment with the DevOps category.",
     "level": "Secondary"
   },
   "Social Technologies": {
@@ -265,11 +265,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:19:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile, Scrum, and DevOps, with little focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile and Scrum, with a focus on personal experiences and transitions rather than Continuous Delivery principles. While there are mentions of DevOps and some alignment with Agile practices, the core themes of Continuous Delivery, such as automation in testing and deployment, are not explicitly addressed. The depth of discussion on Continuous Delivery is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -411,15 +414,6 @@
     "non_ai_confidence": 20,
     "final_score": 2.0,
     "reasoning": "Content heavily discusses Agile, DevOps, and personal experiences in project management without a focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Agile and DevOps practices rather than the One Engineering System framework and its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1249,12 +1243,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:19:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices, particularly Scrum, and their effectiveness over traditional project management, which aligns with the principles of product-centric development and maximizing value delivery. However, it is primarily focused on personal experiences and technical practices associated with DevOps rather than a direct discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and Scrum, but primarily focuses on personal experiences and the transition from traditional project management to Agile and DevOps. While it touches on themes relevant to the Agile Product Operating Model, such as organisational culture and the importance of people, it lacks a direct focus on the specific principles and practices of the APOM framework. The depth of discussion on Agile concepts is present, but it does not fully align with the core topics outlined for the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1468,11 +1465,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:19:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences with Agile, Scrum, and DevOps, lacking a discussion on Evidence-Based Management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses personal experiences with Agile and Scrum, focusing on the author's journey rather than empirical evidence or data-informed decision-making. While it touches on themes of organisational change and the importance of adapting processes, it lacks a direct focus on Evidence-Based Management principles and does not provide specific metrics or data to support its claims.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile and DevOps principles, with a focus on personal experiences and challenges faced in traditional project management. While there are mentions of improving processes and workflows, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:19:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile and Scrum, highlighting the importance of adapting processes and fostering a culture of innovation. However, it primarily focuses on personal experiences and insights rather than providing a structured discussion on Continuous Improvement principles. While there are elements of reflection and adaptation, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:19:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences with Agile and Scrum, rather than explicitly discussing Common Goals. While it touches on themes of collaboration and the importance of Agile principles, it lacks a direct exploration of how these principles align with organisational objectives or the operationalisation of Common Goals. The discussion is more anecdotal and motivational, which detracts from a focused examination of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:19:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the author's journey and experiences with Agile and DevOps, highlighting the importance of understanding processes and the role of people in achieving effective outcomes. While it touches on the need for competence in navigating workflows and organisational challenges, it does not explicitly focus on continuous learning or skill development as a primary theme. The discussion is more narrative-driven, reflecting personal experiences rather than providing in-depth strategies or frameworks for fostering competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:19:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences with Agile and Scrum, discussing the author's journey and insights rather than the One Engineering System framework. While it touches on themes of process improvement and collaboration, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about Agile methodologies and personal reflections than about standardising and integrating engineering practices across teams.",
     "level": "Ignored"
   }
 }

@@ -130,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:50:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:27:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the importance of feedback and engagement within Agile teams, which is not directly aligned with the core principles of DevOps. While it touches on collaboration and communication, it lacks a focus on automation, shared accountability, and the cultural shifts necessary for effective DevOps implementation. The discussion is more centred on Agile methodologies rather than the DevOps philosophy, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -172,11 +175,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:27:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on feedback and engagement rather than Continuous Delivery principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the importance of feedback and engagement, which are relevant to Continuous Delivery but not explicitly focused on it. While it touches on themes like stakeholder engagement and team morale, it lacks a direct discussion on Continuous Delivery principles, automation, or specific practices that enhance software delivery. The depth of discussion is moderate, but it does not sufficiently explore Continuous Delivery as a primary focus.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -988,14 +994,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:09:45",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-21T18:27:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, particularly focusing on the role of the product owner and stakeholder involvement, which aligns with the principles of the Agile Product Operating Model. It provides a detailed exploration of the consequences of a lack of feedback and offers strategies to enhance engagement, demonstrating a strong conceptual alignment with the category. However, it does not explicitly mention the Agile Product Operating Model itself, which slightly lowers the confidence score.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, particularly highlighting the role of the product owner and stakeholder involvement. While it touches on key aspects of the Agile Product Operating Model, such as continuous delivery and responsiveness to market needs, it does not explicitly frame these discussions within the broader context of the APOM. The depth of discussion on feedback strategies and team morale is significant, but the primary focus remains on Agile practices rather than a comprehensive exploration of the Agile Product Operating Model itself.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1204,11 +1210,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:27:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engagement and feedback in the context of Scrum, rather than focusing directly on Evidence-Based Management practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the importance of feedback and engagement, which are relevant to team dynamics but do not directly address Evidence-Based Management principles. While it touches on the need for stakeholder engagement and the consequences of a lack of feedback, it lacks a strong focus on empirical decision-making or metrics that assess current value, time to market, or unrealised value. The discussion is more about maintaining Agile practices rather than applying evidence-based strategies to enhance organisational value.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1273,15 +1282,6 @@
     "final_score": 71.0,
     "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, highlighting how a lack of stakeholder involvement can lead to disengagement among team members. It aligns well with the core themes of employee engagement, such as the role of communication, recognition, and the impact of leadership (in this case, the product owner's role). The depth of discussion is substantial, providing strategies to combat disengagement and emphasising the psychological aspects of motivation and commitment. However, the primary focus on Agile processes slightly detracts from a pure employee engagement discussion.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which indirectly relates to the Shift-Left Strategy by emphasising early stakeholder involvement. However, it does not explicitly mention Shift-Left principles or techniques for integrating testing, security, or compliance early in the development process. The focus is primarily on engagement rather than the proactive measures characteristic of a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:27:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the consequences of a lack of feedback rather than providing a comprehensive exploration of Continuous Improvement strategies or frameworks. While it mentions the need for regular check-ins and open communication, it does not delve deeply into empirical evidence or structured methodologies that are central to Continuous Improvement. Therefore, while there is a relevant connection, the content does not fully embody the category's core themes.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:27:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which indirectly relates to Common Goals by emphasising alignment with business objectives. However, it primarily focuses on the consequences of a lack of feedback rather than explicitly addressing shared objectives or strategic alignment. The depth of discussion on Common Goals is limited, as it does not delve into frameworks like OKRs or the relationship between strategic and tactical commitments.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:27:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of feedback and engagement in Agile practices, which indirectly relates to competence by highlighting the need for continuous improvement and team morale. However, it primarily focuses on stakeholder engagement rather than directly addressing competence as a foundational principle. While it mentions the role of the product owner and the consequences of a lack of feedback, it does not delve deeply into strategies for skill development or the professional growth of team members, which are core to the competence category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:27:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and the importance of feedback and engagement within teams, which are not directly related to the One Engineering System framework. While it touches on themes of collaboration and communication, it does not discuss the principles, components, or implementation of 1ES. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   }
 }

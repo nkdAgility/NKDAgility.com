@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:44:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:49:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of discipline and motivation in the context of Agile and Scrum, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concepts of discipline and motivation within Agile and Scrum frameworks, which are methodologies rather than the DevOps philosophy. While there are mentions of Agile principles, the focus is not on DevOps practices, collaboration, or automation, which are central to the DevOps category. Therefore, the content does not align well with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:50:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the debate between discipline and motivation in the context of Agile and Scrum, rather than focusing on evidence-based management practices or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concepts of discipline and motivation in the context of Agile and Scrum, without any direct reference to Evidence-Based Management principles or metrics. While it touches on themes relevant to team performance, it lacks empirical evidence or data-informed decision-making discussions that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -342,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concepts of motivation and discipline in Agile and Scrum environments, without any direct reference to release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses discipline versus motivation in the context of Agile and Scrum, without reference to the One Engineering System framework or its integration and standardization principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -673,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:50:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concepts of discipline and motivation in the context of Agile and Scrum, without any focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concepts of discipline and motivation within Agile and Scrum contexts, without any direct reference to Continuous Delivery principles or practices. While it touches on Agile transformation, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or rapid feedback. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -769,11 +769,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:50:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concepts of discipline and motivation in the context of Agile transformation, without a focus on the Agile Product Operating Model or value-driven product development.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles, particularly focusing on the balance between discipline and motivation in Agile transformations. However, it does not explicitly address the Agile Product Operating Model or its core themes such as product management practices, operational stability, or continuous delivery. The discussion is more centred on Scrum and general Agile practices rather than the specific framework of APOM, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1518,6 +1521,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concepts of discipline and motivation within the context of Agile and Scrum, without any direct reference to the Shift-Left Strategy. While it touches on Agile principles, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:49:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile and Scrum, but it does not explicitly focus on Continuous Improvement as a primary theme. While it touches on the importance of discipline in adhering to Scrum practices and hints at continuous improvement, it lacks detailed exploration of Continuous Improvement strategies, empirical evidence, or case studies. The discussion is more centred on the dynamics of team motivation and discipline rather than a structured approach to improving processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:49:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of motivation and discipline in Agile environments, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the individual aspects of motivation and discipline rather than explicitly addressing shared objectives or alignment within teams. While it touches on the idea of working towards a common goal, it lacks a detailed exploration of how these concepts connect to the overarching strategic objectives of Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:49:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile and Scrum, which are related to competence. However, it primarily focuses on the motivational aspects rather than directly addressing competence as a foundational principle. While it touches on the importance of discipline in maintaining Scrum values, it lacks a thorough exploration of continuous learning, skill development, or the impact of competence on quality outcomes. Thus, while there is some alignment, it is not the primary focus.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:49:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concepts of discipline and motivation within Agile and Scrum contexts, without any direct reference to the One Engineering System (1ES). While it touches on Agile principles, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion is more focused on personal perspectives and general Agile practices rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

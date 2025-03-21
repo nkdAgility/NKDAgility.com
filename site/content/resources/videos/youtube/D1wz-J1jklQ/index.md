@@ -27,6 +27,7 @@ duration: 362
 isShort: false
 tags:
 - Deployment Frequency
+- Continuous Improvement
 - Practical Techniques and Tooling
 - Product Delivery
 - Code and Complexity
@@ -34,8 +35,7 @@ tags:
 - Technical Excellence
 - Frequent Releases
 - Software Development
-- Technical Mastery
-- Value Delivery
+- Continuous Delivery
 resourceTypes:
 - video
 sitemap:

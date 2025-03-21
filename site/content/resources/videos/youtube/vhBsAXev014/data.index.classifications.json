@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:08:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses chaos in agile transformations and project management, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:35:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses chaos in agile transformations and does not explicitly mention Continuous Delivery. While it touches on themes like communication and alignment, which are relevant to software delivery, it lacks a direct focus on Continuous Delivery principles, practices, or tools. The discussion is more about agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,14 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:26:23",
+    "calculated_at": "2025-03-21T18:35:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses chaos in agile transformations and the importance of vision and communication, but it lacks direct references to Evidence-Based Management principles or empirical data. While it touches on strategic objectives and alignment, it does not provide a detailed exploration of EBM practices or metrics, which are central to the category.",
+    "reasoning": "The content primarily discusses chaos in agile transformations and the importance of communication and alignment, but it does not explicitly mention Evidence-Based Management or its key topics. While there are elements of strategic direction and value, the focus remains on agile practices rather than empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,15 +1294,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T13:27:25",
-    "ai_confidence": 62.0,
-    "ai_mentions": 3,
-    "ai_alignment": 50.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-03-21T18:35:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the chaos in agile transformations and mentions DevOps as part of the broader context of organisational change. While it touches on communication and cultural aspects relevant to DevOps, the primary focus is on agile methodologies and project management rather than DevOps principles and practices. The depth of discussion on how to implement DevOps practices is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile transformation and chaos management within agile methodologies, with only a brief mention of DevOps at the end. While it touches on themes like communication and alignment, which are relevant to DevOps, the overall discussion does not delve deeply into DevOps principles or practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1483,12 +1486,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:08:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T18:35:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of strategic direction, product ownership, and communication in an agile context, aligning closely with the principles of the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses chaos in agile transformations and the importance of communication and alignment, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the challenges of chaos rather than the core principles of APOM, such as product ownership and continuous delivery. While there are mentions of strategic objectives and alignment, the depth of discussion does not fully explore the APOM framework, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1506,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and chaos in organisational transformation without a direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:08:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses chaos in agile transformations and project management, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1557,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses chaos in agile transformations and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on communication and alignment, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:35:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses chaos in agile transformations and the importance of communication, vision, and alignment, which are relevant to Continuous Improvement. However, it primarily focuses on navigating chaos rather than explicitly addressing Continuous Improvement principles or practices. The mention of continuous learning and adaptation aligns with the category, but the overall depth and focus on Continuous Improvement are limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:35:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of establishing clear strategic objectives and aligning team efforts towards a common vision, which aligns with the principles of Common Goals. However, while it touches on these themes, the primary focus is on chaos in agile transformations rather than a detailed exploration of Common Goals themselves. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:35:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of effective communication, strategic vision, and continuous learning in navigating chaos during agile transformations, which aligns with the core themes of competence. However, while it touches on these aspects, it does not delve deeply into specific strategies for skill development or mastery, leading to a moderate depth score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:35:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses chaos in agile transformations and does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of communication and alignment, which are relevant to 1ES, the focus is on agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

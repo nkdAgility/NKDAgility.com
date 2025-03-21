@@ -33,6 +33,7 @@ tags:
 - Agile Project Management
 - Software Development
 - Pragmatic Thinking
+- Competence
 - Personal
 resourceTypes:
 - video

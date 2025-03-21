@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:00:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:00:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and metrics related to team performance, rather than Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters in enhancing team performance and ROI, which is tangentially related to Continuous Delivery. However, it lacks a direct focus on Continuous Delivery principles, practices, or automation in testing and deployment. While it touches on aspects of team delivery and quality, it does not delve into the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or specific tools and frameworks that support these practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T16:21:14",
+    "calculated_at": "2025-03-21T17:00:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the importance of competent Scrum Masters and how their effectiveness can be measured through various metrics, which aligns with the principles of Evidence-Based Management. However, while it touches on empirical data and metrics, the primary focus is on the role of Scrum Masters rather than a broader discussion of EBM principles. The content does not explicitly mention Evidence-Based Management or its foundational concepts, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of competent Scrum Masters and their impact on team performance and ROI, which aligns with the Evidence-Based Management principles. It mentions metrics like innovation rate, on-product index, usage index, and installed version index, which are relevant to current value and empirical decision-making. However, the primary focus is on Scrum roles rather than a broader discussion of EBM, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "Content heavily discusses the role of Scrum Masters and metrics related to team performance and ROI, which are not central to the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:04:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and metrics related to team performance, which is not aligned with the principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:44",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the role and impact of competent Scrum Masters on team performance and ROI, without explicitly addressing the Shift-Left Strategy. While it touches on aspects of quality and delivery, it does not integrate testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:59:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competent Scrum Masters and their impact on team performance and ROI, which touches on aspects of Continuous Improvement. However, it primarily focuses on the role of Scrum Masters rather than a broader discussion on Continuous Improvement principles. While it mentions metrics and measurement, it lacks a comprehensive exploration of Continuous Improvement strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:59:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role and impact of competent Scrum Masters on team performance and ROI, which is somewhat related to the concept of Common Goals. However, it does not explicitly address shared objectives or alignment within Agile and DevOps frameworks. The focus is more on individual roles and metrics rather than on collective goals or strategic alignment, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:59:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the importance of competence in the role of Scrum Masters, detailing how their skills directly impact team performance and ROI. It provides specific examples and metrics to measure the effectiveness of competent Scrum Masters, aligning closely with the core themes of continuous learning, quality outcomes, and the necessity of demonstrable capability. The depth of discussion is significant, covering various aspects of competence and its implications in a professional setting.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:59:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the role and impact of Scrum Masters within the Scrum framework, discussing their importance in team performance and ROI. It does not address the principles or components of the One Engineering System, nor does it explore integration of tools and processes across teams, which are core themes of 1ES. The discussion is centred around Scrum methodology rather than the standardisation and integration of engineering practices.",
     "level": "Ignored"
   }
 }

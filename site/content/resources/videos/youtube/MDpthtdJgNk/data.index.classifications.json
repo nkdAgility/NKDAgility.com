@@ -628,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:27:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:46:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its application in creative industries, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kanban, which is a workflow management method, rather than Continuous Delivery. While it touches on aspects of workflow optimization and process improvement, it does not explicitly address Continuous Delivery principles, automation, or the rapid feedback mechanisms that are central to the category. The focus is on Kanban's adaptability in creative industries, which is outside the scope of Continuous Delivery discussions.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -805,11 +808,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:28:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the popularity of Kanban in creative industries and the challenges of applying Scrum, without focusing on evidence-based management principles or empirical data.",
+    "calculated_at": "2025-03-21T17:46:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and its application in creative industries, with no direct mention of Evidence-Based Management principles or metrics. While it discusses workflow optimization, it does not align with the core themes of EBM, such as empirical decision-making or current value metrics.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1246,11 +1252,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:25:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its application in creative industries, with a focus on individual workflows rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T17:46:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Kanban, a methodology that is not directly aligned with the core principles of DevOps. While it briefly mentions the potential for Kanban to integrate with team objectives, it lacks a substantial discussion on DevOps concepts such as collaboration, automation, or shared accountability. The emphasis is on workflow optimization in creative industries rather than on the cultural and process-oriented aspects of DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1424,22 +1433,16 @@
     "reasoning": "Content primarily discusses Kanban and its application in creative industries, with no clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:16:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Kanban and its application in creative industries, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:16:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:46:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban and its application in creative industries, with no clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Kanban and its application in creative industries, with no direct mention of the Agile Product Operating Model or its principles. While it touches on agile methodologies, it does not align with the core themes of APOM, such as product management or continuous delivery. The depth of discussion is focused on Kanban rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Kanban as a workflow optimization tool in creative industries, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of process improvement, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle, which are central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:46:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Kanban and its application in creative industries, touching on aspects of workflow optimization and gradual improvements. However, it primarily focuses on Kanban's flexibility and adaptability rather than a comprehensive exploration of Continuous Improvement principles. While it mentions 'Continuous Improvement' briefly, the overall discussion lacks depth and does not align closely with the core themes of Continuous Improvement as defined.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:46:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and its application in creative industries, with minimal reference to Common Goals. While it touches on team objectives, it lacks a detailed discussion on aligning strategy with execution or the significance of shared objectives in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:46:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the application of Kanban in creative industries, discussing its flexibility and workflow optimisation. While it touches on aspects of continuous improvement and personal workflows, it does not explicitly address competence as a foundational principle or delve into the importance of skill development, quality outcomes, or fostering a culture of competence. Therefore, the alignment with the category is minimal.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:46:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on Kanban, a methodology distinct from the One Engineering System. It discusses its application in creative industries without addressing the principles, integration, or implementation of 1ES. There are no direct mentions of 1ES, and the discussion lacks depth regarding the standardisation and integration of engineering processes.",
     "level": "Ignored"
   }
 }

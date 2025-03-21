@@ -37,9 +37,9 @@ tags:
 - Agile Values and Principles
 - Team Collaboration
 - People and Process
-- Agile Product Operating Model
 - Agile Product Management
 - Agile Planning
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

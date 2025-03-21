@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:11:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:12:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile consulting and Scrum practices, with no focus on Continuous Delivery principles or methodologies.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Agile consulting and personal experiences related to Scrum, without explicitly discussing Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not delve into the specific themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T06:12:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:13:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences as an Agile consultant, with no substantial discussion on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, discussing the impact of Agile methodologies and workshops. However, it lacks explicit references to Evidence-Based Management principles, empirical metrics, or data-informed decision-making. The discussion is anecdotal and does not delve into the core themes of EBM, such as current value, time to market, or outcome management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:09:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:12:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices without a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and Scrum methodologies, with no direct mention of DevOps principles or practices. While there are elements of collaboration and team dynamics, they are framed within the context of Agile rather than DevOps. The discussion lacks depth in terms of DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1472,22 +1481,16 @@
     "reasoning": "Content primarily discusses personal experiences as an Agile consultant, focusing on Scrum and Agile methodologies rather than the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:24:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and reflections as an Agile consultant, focusing on Scrum and Agile methodologies rather than the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:24:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:12:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences as an Agile consultant, discussing Scrum and workshops without a clear emphasis on the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, discussing Scrum and Agile methodologies in a general sense. While it touches on themes of transformation and team dynamics, it lacks a direct focus on the Agile Product Operating Model and its specific principles, such as product management integration or operational governance. The discussion is more anecdotal and does not delve into the structured framework of APOM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, discussing Scrum and Agile methodologies without explicitly addressing the Shift-Left Strategy. While there are mentions of workshops and training, the core themes of integrating testing, security, and compliance early in the development process are not present. The discussion lacks depth regarding the principles, techniques, or metrics associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:12:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal anecdote about an impactful day as an Agile consultant, with limited direct discussion on Continuous Improvement principles. While it touches on themes of transformation and the long-term impact of Agile practices, it lacks a structured exploration of Continuous Improvement methodologies or empirical evidence. The mention of Agile workshops and their effects is relevant but does not delve deeply into the systematic approach of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:12:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal anecdote about the author's experiences as an Agile consultant, which does not directly address the concept of Common Goals. While it mentions Agile and Scrum methodologies, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category. The narrative is more about individual experiences and reflections rather than a structured exploration of how Common Goals function within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:12:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a personal anecdote about an impactful day as an Agile consultant, with limited direct discussion on competence. While it touches on themes of learning and the transformative power of Agile methodologies, it lacks a detailed exploration of continuous skill development or the professional implications of competence. The narrative does not sufficiently delve into strategies for fostering a culture of competence or the distinction between performative activity and genuine progress, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:12:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on personal experiences as an Agile consultant, discussing Scrum and Agile methodologies without any direct reference to the One Engineering System (1ES). While it touches on themes of collaboration and team dynamics, it lacks a structured discussion on the principles, components, or implementation of 1ES. The content does not provide depth or detail relevant to the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

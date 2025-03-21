@@ -29,6 +29,7 @@ tags:
 - Organisational Agility
 - Agile Philosophy
 - Business Agility
+- Continuous Improvement
 - Agile Values and Principles
 - Organisational Culture
 - Agile Project Management

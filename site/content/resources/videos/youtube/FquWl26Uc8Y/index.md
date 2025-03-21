@@ -28,8 +28,10 @@ preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
+- Competence
 - Technical Debt
 - Technical Mastery
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

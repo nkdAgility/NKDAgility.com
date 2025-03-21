@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T15:01:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product backlog management strategies rather than evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T18:14:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum frameworks, discussing strategies for prioritisation and stakeholder engagement. While it touches on concepts that could relate to value delivery, it lacks explicit references to empirical evidence or metrics that are central to Evidence-Based Management. The discussion is more about practical strategies rather than data-informed decision-making, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
   "Personal": {
@@ -346,23 +349,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T17:31:20",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T18:14:53",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on product backlog management, which is a crucial aspect of the Agile Product Operating Model. It discusses strategies for prioritisation, limiting work in progress, and incorporating feedback, all of which align with the principles of product-centric development. However, while it touches on these themes, it does not delve deeply into the broader aspects of the Agile Product Operating Model, such as cross-functional teams or metrics for measuring product success. Therefore, while the content is relevant, it does not fully encompass the category's primary focus.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on product backlog management, which is a crucial aspect of Agile practices. While it discusses strategies for prioritisation and stakeholder engagement, it does not explicitly address the broader principles of the Agile Product Operating Model. The discussion aligns with some core themes, such as continuous improvement and customer-centric value, but lacks depth in exploring the full scope of APOM. Overall, it provides practical insights but does not fully encapsulate the Agile Product Operating Model.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:02:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:14:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product backlog management, which is primarily related to Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum methodologies, which are not directly aligned with the core principles of DevOps. While there are brief mentions of collaboration and feedback loops, these concepts are not explored in the context of DevOps practices. The discussion lacks depth regarding DevOps philosophy, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -385,15 +391,6 @@
     "final_score": 70.0,
     "reasoning": "The content discusses key aspects of product backlog management, including limiting work in progress (WIP) and using visual management tools like Kanban boards, which are directly related to flow efficiency. It also highlights the importance of prioritisation and regular refinement sessions, which contribute to optimising throughput. However, while flow efficiency is a significant theme, the primary focus is on backlog management rather than flow efficiency itself, leading to a slightly lower confidence score.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:02:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product backlog management in an Agile context, which is not central to the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1066,11 +1063,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product backlog management in the context of Agile methodology, which is unrelated to Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T18:14:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum frameworks, which does not directly address Continuous Delivery principles. While it touches on aspects like prioritisation and feedback loops that could relate to delivery practices, it lacks explicit discussions on Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1515,6 +1515,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum frameworks, discussing prioritisation, work in progress, and stakeholder engagement. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it address integrating testing, security, or compliance early in the development process. The discussion is more aligned with general Agile practices rather than the specific themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:14:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses product backlog management, which is related to Continuous Improvement through concepts like prioritisation and regular refinement sessions. However, it lacks a direct focus on Continuous Improvement principles and does not delve deeply into empirical evidence or broader strategies for fostering a culture of experimentation and learning.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:14:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses product backlog management, which is related to Agile practices but does not explicitly focus on Common Goals. While it touches on prioritisation and stakeholder engagement, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about tactical execution rather than the overarching strategic alignment that defines Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:14:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses strategies for effective product backlog management, which indirectly relates to competence through the emphasis on prioritisation, limiting work in progress, and regular refinement sessions. While it does not explicitly mention competence, the focus on improving skills and practices aligns with the core themes of continuous learning and quality outcomes. However, the depth of discussion on competence itself is limited, as the content primarily centres on backlog management rather than a broader exploration of competence in Agile.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:14:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum methodologies, which are not directly related to the One Engineering System framework. While it touches on aspects of collaboration and efficiency, it lacks explicit discussion of 1ES principles, components, or implementation strategies. The content does not provide depth on the integration of tools or processes across teams, nor does it address the impact of a unified engineering system on software quality or delivery timelines.",
     "level": "Ignored"
   }
 }

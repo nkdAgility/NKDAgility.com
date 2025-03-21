@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T19:00:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:17:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile methodologies and traditional project management, with a focus on risk mitigation strategies rather than Continuous Delivery principles.",
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile methodologies and their focus on delivering working software incrementally, which aligns with some principles of Continuous Delivery. However, it primarily centres on the comparison between Agile and traditional project management rather than explicitly addressing Continuous Delivery practices. While it mentions concepts like continuous validation and adaptation, it lacks a detailed exploration of Continuous Delivery's specific principles, practices, and tools.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1279,15 +1282,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:05:32",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T19:17:25",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 43.0,
-    "reasoning": "The content primarily discusses Agile methodologies and traditional project management, with only a brief mention of DevOps practices in relation to Agile. While it touches on concepts like continuous integration and the importance of collaboration, the focus remains on Agile versus traditional methods rather than a comprehensive exploration of DevOps principles. Therefore, it does not fully align with the core themes of the DevOps category.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages over traditional project management, with a brief mention of DevOps practices and automation. However, the primary focus is on Agile's principles rather than DevOps as a philosophy. While there are elements of collaboration and continuous delivery, the depth of discussion on DevOps concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1444,12 +1447,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T19:17:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and their advantages over traditional project management, touching on aspects of risk mitigation and adaptation, which are relevant to Evidence-Based Management. However, it primarily focuses on comparing methodologies rather than explicitly applying empirical evidence to enhance decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their advantages over traditional project management, focusing on risk mitigation through usable products rather than empirical evidence or metrics related to Evidence-Based Management. While it touches on concepts like adaptation and validation, it lacks direct references to the key topics of EBM, such as current value metrics or empirical decision-making, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1460,26 +1466,17 @@
     "reasoning": "Content heavily discusses Agile methodologies and traditional project management without a direct connection to platform engineering principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile methodologies and traditional project management, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:59:22",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
+    "calculated_at": "2025-03-21T19:17:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Agile methodologies and their advantages over traditional project management, particularly in terms of risk mitigation through usable working products. It aligns well with the principles of product-centric development and continuous feedback, which are key aspects of the Agile Product Operating Model. However, while it touches on Agile principles, the primary focus is on comparing Agile with traditional methods rather than a deep exploration of the Agile Product Operating Model itself. This results in a strong but not fully aligned confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages over traditional project management, particularly in terms of risk mitigation through usable products. However, it primarily focuses on the comparison between Agile and traditional methods rather than delving deeply into the Agile Product Operating Model itself. While it touches on Agile principles, it lacks a thorough exploration of the APOM framework, its principles, and its integration with product management practices.",
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1551,6 +1548,54 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Agile methodologies and risk mitigation through working products, which aligns with some principles of the Shift-Left Strategy, such as early validation and continuous feedback. However, it primarily focuses on the comparison between Agile and traditional project management without explicitly addressing the integration of testing, security, or compliance earlier in the development process. The discussion lacks depth in terms of specific Shift-Left practices and tools, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:17:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile methodologies and their focus on continuous validation and adaptation, which aligns with the principles of Continuous Improvement. However, it primarily contrasts Agile with traditional project management rather than delving deeply into Continuous Improvement practices themselves. While it mentions the importance of adapting and improving products incrementally, it does not provide extensive detail on specific Continuous Improvement strategies or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:17:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the comparison between Agile methodologies and traditional project management, focusing on risk mitigation through usable products versus documentation. While it touches on Agile principles, it does not explicitly address Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding how shared objectives guide decision-making or connect individual contributions to the overall mission, which is central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:17:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile methodologies and their emphasis on delivering usable products, which indirectly relates to competence through the need for continuous learning and adaptation. However, it primarily focuses on risk mitigation and the comparison between Agile and traditional project management rather than explicitly addressing competence as a foundational principle. The depth of discussion on competence is limited, as it does not explore strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:17:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and contrasts them with traditional project management practices, focusing on risk mitigation through usable products versus documentation. While it touches on collaboration and adaptation, it does not explicitly mention the One Engineering System framework or its principles, components, or implementation strategies. The discussion is more centred on Agile and Waterfall methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

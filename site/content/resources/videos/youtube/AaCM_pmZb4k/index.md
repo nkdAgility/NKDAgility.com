@@ -32,6 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - People and Process
 - Organisational Agility
 - Sociotechnical Systems

@@ -35,10 +35,10 @@ tags:
 - Organisational Agility
 - Agile Project Management
 - Agile Product Management
+- Common Goals
 - Agile Leadership
 - Agile Values and Principles
 - Employee Engagement
-- Agile Transformation
 resourceTypes:
 - video
 categories: []

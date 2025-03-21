@@ -217,11 +217,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:36:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions on various topics without a focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T20:59:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, focusing on their responsibilities and the impact of Scrum on organisational structure. While it touches on value delivery and organisational agility, it lacks a direct emphasis on evidence-based practices or metrics that are central to Evidence-Based Management. The discussion is more about roles and methodologies rather than empirical decision-making or data-informed strategies.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -262,11 +265,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:59:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on DevOps and Agile topics, with no specific emphasis on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, which is more focused on Agile practices rather than Continuous Delivery specifically. While there are mentions of value delivery and optimising delivery, the discussion lacks a direct focus on Continuous Delivery principles, automation, or deployment strategies. The content does touch on aspects of continuous improvement and rapid feedback, but these are not explored in depth or as a primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1141,14 +1147,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:27:00",
+    "calculated_at": "2025-03-21T20:59:26",
     "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
     "ai_depth": 40.0,
-    "non_ai_confidence": 50,
-    "final_score": 43.0,
-    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and the roles of Product Owners and Project Managers. While it briefly mentions DevOps in the context of automation and continuous delivery, the focus remains on Agile practices rather than a comprehensive exploration of DevOps principles. The discussion lacks depth in DevOps-specific topics such as CI/CD, automation tools, or cultural shifts necessary for DevOps implementation, leading to a moderate confidence score.",
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers within the Scrum framework, which is more aligned with Agile methodologies than DevOps principles. While it briefly touches on concepts like value delivery and continuous improvement, it lacks a direct focus on the core themes of DevOps, such as automation, shared accountability, and cross-functional collaboration in a DevOps context. The discussion is more about project management and Scrum practices rather than the integration of development and operations, which is central to DevOps.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -1358,23 +1364,17 @@
     "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility, without a clear emphasis on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:12:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Q&A session about various topics including DevOps and Agility, without a clear emphasis on the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on the Agile Product Operating Model.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:59:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, which is relevant to the Agile Product Operating Model. However, it does not deeply explore the broader principles of APOM or the transition from project to product ethos. While it touches on organisational structure and value delivery, it lacks comprehensive detail on the integration of agile methodologies with product management principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1425,6 +1425,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, focusing on agile practices rather than the Shift-Left Strategy. While it touches on concepts of value delivery and continuous improvement, it does not explicitly address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:59:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of adapting Scrum practices and the need for continuous improvement in delivery methods, particularly in the context of optimising flow and moving beyond story points. However, while it touches on Continuous Improvement, it primarily focuses on the roles of Product Owners and Project Managers, which makes Continuous Improvement a secondary theme rather than the primary focus.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:59:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the distinctions between Product Owners and Project Managers within the Scrum framework, which is relevant but does not directly address the concept of Common Goals. While it touches on organisational impacts and the importance of value delivery, it lacks a thorough exploration of shared objectives or alignment strategies that are central to the Common Goals category. The discussion is more about roles and practices rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:59:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles of Product Owners and Project Managers within Scrum, touching on the importance of understanding these roles for effective value delivery. However, while it hints at the necessity for competence in these roles, it primarily focuses on role distinctions and organisational impacts rather than a deep exploration of continuous learning, skill development, or fostering a culture of competence. The discussion lacks explicit strategies for developing competence or inspecting it over time, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:59:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers within the Scrum framework, which is not directly related to the One Engineering System. While it touches on organisational changes and agile practices, it lacks a direct discussion on the principles, components, or implementation of 1ES. The content does not provide substantial detail on integration or standardisation of engineering processes, which are core to the 1ES category.",
     "level": "Ignored"
   }
 }

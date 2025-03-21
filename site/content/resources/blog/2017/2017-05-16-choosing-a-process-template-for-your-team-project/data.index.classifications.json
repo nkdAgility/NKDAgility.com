@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T19:28:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:16:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the selection of process templates for Agile and Scrum, without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the selection of process templates for Agile teams, focusing on Scrum versus other templates. While it touches on some aspects of Agile methodologies, it does not engage with the core themes of Evidence-Based Management, such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion lacks a focus on data-informed decision-making and does not provide substantial evidence or metrics to support its claims.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -166,11 +169,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:46:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:16:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses choices between Agile, Scrum, and CMMI process templates without clear focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the selection of process templates for Agile teams, specifically discussing Scrum and its advantages over other templates. While it touches on aspects of Agile methodologies, it does not engage with the core principles of DevOps, such as collaboration, automation, or shared accountability. The discussion is more about project management frameworks rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -344,23 +350,17 @@
     "reasoning": "The content primarily discusses the choice of Agile, Scrum, and CMMI process templates, focusing on practical implications and decision-making rather than on Systems Thinking principles. It does not explore interconnectedness or holistic analysis of system dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:46:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the comparison and selection of Agile, Scrum, and CMMI process templates rather than discussing the integration and standardization principles of One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:16:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the differences between Agile, Scrum, and CMMI process templates, emphasizing the importance of choosing the right template for agile implementations, which suggests an understanding of Agile principles. However, it focuses more on templates rather than the broader Agile Product Operating Model and its principles, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the choice of process templates for agile teams, specifically focusing on the Scrum template versus Agile and CMMI templates. While it touches on agile principles, it does not delve into the broader Agile Product Operating Model or its key topics such as product-oriented mindset, continuous delivery, or Evidence-Based Management. The discussion is more about practical implementation of Scrum rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -433,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:16:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the choice and nuances of Agile and Scrum process templates, which do not directly address the principles and practices of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the selection of process templates for Agile teams, particularly focusing on Scrum versus other methodologies. While it touches on Agile principles, it does not directly address Continuous Delivery practices, automation, or the specific benefits of Continuous Delivery. The discussion is more about process choice rather than the delivery of software in reliable cycles, which is the core of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the selection of process templates for Agile and Scrum methodologies, focusing on the implications of these choices on team dynamics and project management. While it touches on aspects of Agile practices, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:16:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on selecting a process template for agile teams, particularly advocating for the Scrum template over Agile and CMMI templates. While it touches on aspects of team effectiveness and friction in processes, it lacks a direct discussion on Continuous Improvement principles. The mention of 'inspect and adapt' hints at improvement but does not delve into systematic practices or strategies for ongoing enhancement, which is central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:16:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the selection of process templates for Agile teams, particularly focusing on the Scrum template. While it touches on the importance of aligning the chosen template with the team's goals, it lacks a direct discussion on Common Goals as defined in the category. The content does not delve deeply into how these choices impact team alignment or ownership, nor does it explore the relationship between strategic and tactical commitments. Therefore, while there are relevant elements, they are not the primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:16:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the selection of process templates for Agile teams, particularly focusing on the Scrum template. While it touches on the importance of choosing the right template to reduce friction and enhance workflow, it does not delve deeply into the continuous development of skills or the broader implications of competence in Agile methodologies. The discussion is more about process selection than about fostering a culture of competence or continuous learning, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:16:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the choice of process templates (Agile, CMMI, Scrum) for team projects, focusing on the Scrum template's advantages. While it touches on aspects of agile methodologies, it does not directly address the principles or components of the One Engineering System framework, nor does it discuss integration or standardisation of engineering processes across teams. The discussion is more about personal opinions on process templates rather than a structured analysis of 1ES.",
     "level": "Ignored"
   }
 }

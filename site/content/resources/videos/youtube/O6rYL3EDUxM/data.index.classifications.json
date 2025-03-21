@@ -667,14 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T18:57:17",
+    "calculated_at": "2025-03-21T17:32:49",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses Continuous Delivery in the context of Agile practices, particularly highlighting the importance of delivering working software to users every iteration and regularly releasing to production. However, the primary focus is on Agile methodologies and the critique of organizations claiming to be Agile without genuine practices. While Continuous Delivery is mentioned and its benefits are outlined, the overall discussion leans more towards Agile principles rather than a deep exploration of Continuous Delivery itself.",
+    "reasoning": "The content discusses Agile practices and includes a section on Continuous Delivery, highlighting its importance in delivering working software frequently and gathering user feedback. However, the primary focus is on assessing Agile maturity rather than a deep exploration of Continuous Delivery principles. While it touches on relevant aspects, it does not provide extensive detail or a comprehensive discussion on Continuous Delivery as a standalone topic.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -844,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:57:39",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T17:32:51",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Agile practices and the importance of self-assessment in Agile maturity, but it lacks a strong focus on empirical evidence and data-driven decision-making, which are core to Evidence-Based Management. While it touches on continuous improvement and feedback, it does not provide substantial insights into EBM principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the challenges of organisations claiming to be Agile, without a strong focus on evidence-based management principles. While it touches on aspects like continuous delivery and feedback, it lacks a comprehensive exploration of empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about Agile maturity than about using data to inform management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1303,14 +1303,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T18:56:42",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-21T17:32:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses Agile practices and the challenges of implementing Agile methodologies, particularly in the context of the US Department of Defense. While it touches on concepts related to continuous delivery and the importance of delivering working software, it does not explicitly focus on DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific tools, cultural shifts, or metrics, which are crucial for a stronger alignment with the DevOps category.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and practices, with a focus on assessing Agile maturity rather than DevOps principles. While there are some overlaps, such as the emphasis on continuous delivery and feedback, the core discussion revolves around Agile rather than the broader DevOps philosophy, which integrates development and operations. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1484,22 +1484,16 @@
     "reasoning": "Content primarily discusses the concept of Agile and its implementation, focusing on identifying genuine Agile practices rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:45:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the challenges of true Agile adoption, without a focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T17:32:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles and practices of Agile, particularly in the context of assessing true Agile maturity and implementation, which aligns closely with the Agile Product Operating Model.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly in the context of assessing true Agile maturity. While it touches on aspects relevant to the Agile Product Operating Model, such as continuous delivery and adaptability, it primarily focuses on identifying superficial Agile practices rather than providing a comprehensive exploration of the Agile Product Operating Model itself. The depth of discussion on Agile principles is notable, but it lacks a direct focus on product management integration and governance, which are key elements of the APOM.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1566,6 +1560,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile principles and practices, focusing on the importance of continuous delivery and feedback loops, which are relevant to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or its integration into the software development lifecycle. The discussion is more centred on Agile maturity and self-assessment rather than on integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:32:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the principles of Continuous Improvement, particularly in the context of Agile practices. It highlights the importance of self-reflection, adaptability, and a culture of continuous improvement, which are core themes of the category. The detailed exploration of the six questions from the DoD guide serves as a practical framework for assessing and enhancing Agile maturity, demonstrating a strong alignment with Continuous Improvement strategies. The depth of discussion is significant, providing actionable insights and practical steps for organisations to improve their Agile practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:32:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile practices and the importance of self-assessment in achieving true Agile maturity, which indirectly relates to Common Goals. However, it primarily focuses on identifying Agile authenticity rather than explicitly addressing shared objectives or alignment within teams. The depth of discussion on Common Goals is limited, as it does not delve into strategic alignment or frameworks like OKRs.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:32:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of genuine Agile practices and continuous improvement, which aligns well with the principles of competence. It highlights the need for skill development, adaptability, and a culture of feedback, all of which are crucial for maintaining competence in Agile environments. The depth of discussion on self-reflection and practical steps for improvement further supports its relevance to the category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:32:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and practices, particularly in the context of the US Department of Defense's approach to assessing Agile maturity. While it touches on themes of improvement and adaptation, it does not explicitly mention or focus on the One Engineering System framework, its principles, or its implementation. The discussion is centred around Agile rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

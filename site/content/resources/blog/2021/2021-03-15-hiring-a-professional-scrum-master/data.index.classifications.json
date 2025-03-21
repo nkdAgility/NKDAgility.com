@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T20:31:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:42:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, which is related to Agile practices rather than Continuous Delivery. While there are brief mentions of concepts like effective delivery and continuous improvement, these are not explored in the context of Continuous Delivery principles or practices. The discussion lacks depth and does not address key topics such as automation in testing or deployment strategies, which are central to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1279,11 +1282,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T20:29:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:41:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, which is related to Agile methodologies rather than the core principles of DevOps. While there are some mentions of collaboration and team effectiveness, these are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth in terms of DevOps practices, automation, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1435,11 +1441,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:51:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:42:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role and responsibilities of a Scrum Master, rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing skills and qualifications rather than evidence-based management principles. While it touches on aspects of Scrum that could relate to empirical decision-making, it lacks a direct focus on metrics or data-informed decision-making that characterises Evidence-Based Management.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1451,22 +1460,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:51:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is not aligned with the principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:51:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:42:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the role and responsibilities of a Scrum Master, rather than discussing the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, which is a specific role within the Scrum framework rather than a discussion on the Agile Product Operating Model as a whole. While it touches on some principles of agile methodologies, it does not delve into the broader themes of transitioning to a product-oriented mindset or integrating product management practices. The depth of discussion is significant regarding the Scrum Master role, but it lacks a comprehensive exploration of the Agile Product Operating Model's key topics.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1542,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing hiring specifications and qualifications rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:41:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions 'continuous improvement and learning' as a characteristic of a successful Scrum Master, which aligns with the principles of Continuous Improvement. However, the primary focus of the content is on hiring practices and the role of a Scrum Master rather than a detailed discussion on Continuous Improvement itself. The alignment with key topics is limited, and the depth of discussion on Continuous Improvement is minimal.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:42:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, which is related to Agile practices but does not explicitly discuss Common Goals or their significance in aligning strategy with execution. While it touches on aspects of team effectiveness and leadership, it lacks a direct connection to shared objectives or frameworks like OKRs that operationalise Common Goals. The depth of discussion on Scrum Master responsibilities provides some context but does not sufficiently align with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:42:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising the importance of competence through required skills, certifications, and the need for continuous improvement. It highlights the necessity for Scrum Masters to possess knowledge and leadership skills that contribute to the effectiveness of the Scrum Team, aligning well with the core themes of competence. However, while competence is a significant focus, the content primarily revolves around job specifications and hiring rather than a broader discussion on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:42:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, which is a specific role within the Scrum framework. While it touches on aspects of team effectiveness and collaboration, it does not discuss the One Engineering System (1ES) framework, its principles, or its integration across teams. The content lacks a direct mention of 1ES and does not provide depth on standardising or integrating software development practices, which are core to the 1ES category.",
     "level": "Ignored"
   }
 }

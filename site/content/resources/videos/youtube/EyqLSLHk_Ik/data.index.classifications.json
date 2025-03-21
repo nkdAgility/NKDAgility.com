@@ -664,12 +664,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:35:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Continuous Delivery in the context of enabling teams to deliver high value and maintain quality, but it primarily focuses on team dynamics, engagement, and decision-making rather than the core principles and practices of Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Continuous Delivery within the context of DevOps practices, but the primary focus is on team empowerment and collaboration rather than the principles and practices of Continuous Delivery itself. While there are relevant themes such as continuous feedback loops and the importance of team morale, the discussion lacks depth in exploring Continuous Delivery specifically, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -847,12 +850,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of enabling teams to make informed decisions and the role of engagement and understanding in achieving organisational goals, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on team dynamics and individual decision-making rather than empirical evidence or data-driven approaches central to EBM.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:35:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses team empowerment and collaboration in product development but lacks a direct focus on Evidence-Based Management principles. While it touches on aspects like continuous feedback and decision-making, it does not provide empirical evidence or metrics that align with the core themes of EBM. The discussion is more centred on team dynamics and morale rather than data-informed decision-making.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1300,14 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T13:01:27",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T17:35:23",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of collaboration and engagement among team members, which aligns with DevOps principles. It briefly mentions DevOps and continuous delivery, indicating some relevance to the category. However, the primary focus is on team dynamics and product development rather than the specific practices and tools of DevOps. The depth of discussion on DevOps concepts is moderate, but it lacks detailed exploration of key DevOps practices, tools, or metrics.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of collaboration and continuous feedback loops, which are key principles of DevOps. It briefly mentions DevOps practices in the context of enhancing collaboration between development and operations, indicating a recognition of the DevOps philosophy. However, the primary focus is on team empowerment and morale rather than a deep exploration of DevOps principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1484,23 +1490,17 @@
     "reasoning": "Content primarily discusses team dynamics, product development processes, and the importance of developer engagement, without a clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:12:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team dynamics, decision-making, and the importance of collaboration in product development, which are relevant to the principles of 1ES. However, it primarily focuses on personal engagement and team culture rather than the specific framework or integration of tools and processes central to 1ES.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:12:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-21T17:35:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of team dynamics, engagement, and decision-making in product development, which aligns with the Agile Product Operating Model. However, it primarily focuses on team empowerment and individual roles rather than explicitly detailing Agile principles or frameworks.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses team empowerment, collaboration, and continuous feedback, which are relevant to the Agile Product Operating Model. However, it primarily focuses on team dynamics and morale rather than explicitly addressing the core principles of APOM or product management practices. The mention of Scrum indicates some alignment with agile methodologies, but the overall depth and focus on product management are limited.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1566,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses team dynamics, empowerment, and collaboration, which are important in software development but does not explicitly mention the Shift-Left Strategy or its principles. While there are elements of continuous feedback and quality culture that align with Shift-Left concepts, the primary focus is on team morale and engagement rather than integrating testing, security, and compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:35:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of team empowerment, collaboration, and continuous feedback loops, which align with the principles of Continuous Improvement. However, it primarily focuses on team dynamics and morale rather than explicitly addressing Continuous Improvement methodologies or frameworks. The mention of continuous feedback loops and the emphasis on a culture of learning contribute positively, but the overall depth and direct references to Continuous Improvement concepts are limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:35:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of team empowerment, collaboration, and alignment towards common goals, which are essential aspects of the Common Goals category. However, it primarily focuses on team morale and individual contributions rather than explicitly defining or operationalising common goals within Agile or DevOps frameworks. While it touches on relevant themes, the depth of discussion on strategic alignment and frameworks like OKRs is limited.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:35:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of empowering teams, continuous learning, and skill development, which aligns well with the principles of competence. It highlights the need for team members to possess the necessary knowledge and skills, and it emphasises the role of training and development in enhancing competence. However, while competence is a significant theme, the primary focus is more on team dynamics and morale rather than a deep exploration of competence itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:35:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses team empowerment, collaboration, and morale in product development, which are relevant to software engineering practices. However, it does not explicitly mention the One Engineering System or its principles, nor does it focus on the integration and standardisation of engineering processes. The discussion is more centred on team dynamics and personal development rather than the framework of 1ES.",
     "level": "Ignored"
   }
 }

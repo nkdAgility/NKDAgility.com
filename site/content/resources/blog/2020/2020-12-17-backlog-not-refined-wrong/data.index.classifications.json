@@ -1000,11 +1000,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T21:55:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:46:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the refinement of the Product Backlog, which is a part of Agile methodologies. While it touches on aspects of planning and team dynamics, it does not directly address Continuous Delivery principles, such as automation, rapid feedback, or incremental delivery. The discussion is more about Scrum roles and events rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1279,11 +1282,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:19:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:46:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the refinement of the Product Backlog, which is a methodology rather than a discussion on DevOps principles. While there are elements of collaboration and team dynamics mentioned, they do not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement in a broader context. The discussion lacks depth in relation to DevOps as a philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1414,11 +1420,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:52:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:46:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on backlog refinement rather than empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the refinement of the Product Backlog, rather than discussing Evidence-Based Management principles. While there are elements of empirical decision-making mentioned, such as the need for Developers to understand backlog items and the importance of refining for effective Sprint Planning, the overall emphasis is on Scrum methodology rather than on data-informed decision-making or the key topics outlined in Evidence-Based Management.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1427,15 +1436,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:52:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1459,15 +1459,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T02:43:17",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
+    "calculated_at": "2025-03-21T20:46:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the importance of backlog refinement within the Scrum framework, which is a key aspect of Agile methodologies. While it touches on principles of product-centric development and the role of cross-functional teams, it does not fully explore the broader Agile Product Operating Model or its strategic implications. The focus is more on Scrum practices rather than a comprehensive discussion of the Agile Product Operating Model, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices, particularly the refinement of the Product Backlog, which is a component of agile methodologies. However, it lacks a broader discussion on the Agile Product Operating Model as a whole, such as the transition from project to product ethos or the integration of product management principles. While it touches on aspects of agile processes and team dynamics, it does not delve into the comprehensive framework of APOM, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of backlog refinement in Scrum, which is a process related to Agile methodologies. While it touches on aspects of quality and preparation for development, it does not explicitly address the Shift-Left Strategy or its core principles, such as integrating testing, security, and compliance earlier in the development lifecycle. The focus is more on Scrum practices rather than a proactive approach to software quality and delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:46:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the importance of refining the Product Backlog within Scrum, which indirectly relates to Continuous Improvement by emphasising the need for clarity and quality in processes. However, it lacks explicit discussions on broader Continuous Improvement principles, such as empirical evidence or a culture of experimentation. While it touches on the need for ongoing refinement and adaptation, it does not delve deeply into strategies or frameworks that support Continuous Improvement, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:46:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the importance of refining the Product Backlog within Scrum, which indirectly relates to the concept of Common Goals by emphasising the need for clarity and understanding among team members. However, it does not explicitly discuss shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more tactical and operational rather than strategic, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:46:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of refining the Product Backlog, which indirectly relates to competence by emphasising the need for Developers to understand their tasks clearly. However, while it touches on the necessity for clarity and quality in Sprint Planning, it does not explicitly focus on continuous learning or skill development, which are core themes of competence. The depth of discussion is moderate, providing practical strategies but lacking a broader exploration of competence as a principle in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:46:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically backlog refinement, and does not discuss the One Engineering System framework or its principles. While it touches on aspects of team collaboration and efficiency, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

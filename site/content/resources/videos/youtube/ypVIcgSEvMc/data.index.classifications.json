@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:23:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on offering discounts for alumni and supporting learning, with no clear discussion on DevOps principles, practices, or tools.",
+    "calculated_at": "2025-03-21T19:34:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "While the content mentions 'DevOps' and discusses the journey from practitioner to consultant, it primarily focuses on a promotional offer for alumni and the importance of continuous learning. The discussion lacks depth in core DevOps principles and practices, making it more of a secondary mention rather than a primary focus on DevOps as a philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:23:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:34:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on offering a discount for alumni to support their learning, without discussing Evidence-Based Management principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on promoting a discount for alumni and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical evidence, data-informed decision-making, or any related metrics. The discussion is centred around personal growth and learning opportunities rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -315,15 +321,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on educational support and discounts for alumni, with no relevance to software release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:24:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on discounts for alumni and does not discuss the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -619,11 +616,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:25:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:34:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on educational support and discounts for alumni, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a promotional offer for alumni and does not discuss Continuous Delivery principles, practices, or related topics. While it mentions Agile and DevOps, these are not explored in the context of Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -712,11 +712,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on offering a discount for alumni and does not discuss Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:34:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a discount offer for alumni and does not explicitly discuss the Agile Product Operating Model or its core principles. While it mentions 'Agile knowledge,' it lacks depth and direct relevance to the APOM framework, making it peripheral to the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1428,6 +1431,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on promoting a discount for alumni and discussing personal growth in the context of DevOps and Agile learning. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about personal development and opportunities rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:34:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for alumni and does not explicitly discuss Continuous Improvement principles. While it mentions growth and learning, these concepts are not explored in the context of Continuous Improvement methodologies or practices. The discussion lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or specific strategies for fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:34:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a discount for alumni and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions growth and learning, these concepts are not tied to shared objectives or strategic alignment, which are central to the category of Common Goals. The discussion lacks depth and detail on how these themes connect to the overall mission of an organisation or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:34:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill development, which aligns with the core themes of competence. However, it primarily focuses on promotional aspects of a discount rather than a deep exploration of competence itself. The mention of growth and empowerment indicates some relevance, but the overall depth of discussion on competence is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:34:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on a promotional offer for alumni and does not discuss the One Engineering System or its principles. It mentions Agile and DevOps but does not align with the core themes of 1ES, such as integration of tools or standardisation of processes.",
     "level": "Ignored"
   }
 }

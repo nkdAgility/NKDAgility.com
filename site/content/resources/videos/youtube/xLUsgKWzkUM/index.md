@@ -33,9 +33,9 @@ tags:
 - Agile Project Management
 - Scrum Product Development
 - Accountability
-- Agile Product Operating Model
 - Product Strategy
 - Decision Making
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6

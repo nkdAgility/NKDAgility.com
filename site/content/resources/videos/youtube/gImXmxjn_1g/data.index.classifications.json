@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:17:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum, which are not central to DevOps principles.",
+    "calculated_at": "2025-03-21T20:06:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on skills for agile consultants, with only a brief mention of DevOps at the end. While it touches on themes of collaboration and transparency, which are relevant to DevOps, the overall discussion does not delve into the core principles or practices of DevOps. The lack of direct engagement with DevOps concepts and the emphasis on agile consulting skills lead to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -244,11 +247,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile consulting and Scrum roles rather than Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:06:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the skills needed for agile consulting, with only a brief mention of continuous delivery in the context of a disconnect between leadership and teams. While it touches on aspects of transparency and communication, it lacks a detailed exploration of Continuous Delivery principles, practices, or tools, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -384,15 +390,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on tips for agile consulting, with mentions of Scrum and Agile methodologies, but does not address Value Stream Management concepts.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum practices, with no mention of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1165,11 +1162,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:06:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on tips for new agile consultants and does not clearly discuss the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the skills required for agile consultants, such as understanding the domain, active listening, and honest communication. While it touches on aspects relevant to agile practices, it does not explicitly discuss the Agile Product Operating Model or its core principles. The alignment with the category is limited, as it lacks a direct focus on product management or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1375,11 +1375,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:06:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on tips for agile consulting rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the skills required for agile consulting, such as domain knowledge, active listening, and communication. While it touches on aspects of understanding team dynamics and transparency, it does not explicitly discuss Evidence-Based Management principles or metrics. The alignment with EBM is minimal, as the content lacks a focus on empirical decision-making or data-informed strategies, which are central to the category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1449,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the skills required for agile consultants, such as understanding the domain, active listening, and honest communication. It does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. While there are general references to agile practices, they do not align with the core themes of integrating testing, security, and compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:06:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on aspects of continuous improvement, particularly through the lens of active listening and transparency in organisational change. However, it lacks a direct focus on continuous improvement as a primary theme, and the discussion does not delve deeply into strategies or frameworks that support continuous improvement practices. The mention of disconnects in perceptions of delivery could hint at improvement opportunities, but overall, the content is more about essential skills for agile consultants rather than a comprehensive exploration of continuous improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:06:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the skills necessary for an agile consultant, such as understanding the domain, active listening, and honest communication. While it touches on the importance of understanding team goals and dynamics, it does not explicitly discuss Common Goals as a primary focus. The alignment with the category is weak, as it lacks depth in exploring how these skills connect to shared objectives or strategic alignment within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:06:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses essential skills for agile consultants, focusing on understanding the domain, active listening, and honest communication. While it does not explicitly mention 'competence', it aligns well with the core themes of continuous learning and skill development. The depth of discussion is moderate, providing practical advice that reflects the importance of competence in delivering quality outcomes and maintaining trust within teams.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:06:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on skills for agile consultants, such as understanding the domain, active listening, and communication, which are not directly related to the One Engineering System framework. While there are mentions of software development contexts, the discussion does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

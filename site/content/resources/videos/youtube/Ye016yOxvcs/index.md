@@ -37,6 +37,7 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Pragmatic Thinking
+- Competence
 resourceTypes:
 - video
 categories: []

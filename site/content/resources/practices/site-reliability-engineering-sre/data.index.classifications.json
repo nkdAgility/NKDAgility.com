@@ -226,11 +226,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T09:57:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:06:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and the experiences of a specific team, without a focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and the shift-left movement, with a focus on operational practices rather than evidence-based management principles. There are no direct mentions of empirical decision-making or metrics related to current value, time to market, or other key topics of EBM. The discussion lacks depth in relation to the category, making it clear that EBM is not a primary focus.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -271,11 +274,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T09:57:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:06:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the responsibilities of engineering teams, rather than focusing on Continuous Delivery principles and methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and its practices, which are related to operational aspects of software delivery rather than the principles of Continuous Delivery. While there are mentions of practices that could support Continuous Delivery, such as transparency and telemetry, the focus is not explicitly on Continuous Delivery itself. The discussion lacks depth in terms of Continuous Delivery principles and does not provide specific techniques or case studies related to the category.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1397,15 +1403,6 @@
     "reasoning": "Content primarily discusses Site Reliability Engineering practices and the shift-left movement, which are not central to the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:11:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and experiences, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:44:19",
@@ -1480,5 +1477,53 @@
     "final_score": 57.0,
     "reasoning": "The content briefly mentions the 'shift-left movement' in relation to engineering teams taking on more responsibility, which indicates a connection to the Shift-Left Strategy. However, it lacks a detailed discussion on integrating testing, security, or compliance early in the development process. The focus is more on operational practices and team dynamics rather than the core principles and benefits of the Shift-Left Strategy. Therefore, while there is some relevance, it does not provide a comprehensive exploration of the category.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:06:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on practices related to running a production site and mentions transparency and telemetry, which can relate to Continuous Improvement. However, it lacks a direct focus on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a culture of experimentation. The discussion is more centred on operational practices rather than a commitment to ongoing improvement and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:06:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the shift-left movement and the responsibilities of engineering teams, which could relate to common goals in terms of aligning team efforts with operational practices. However, it lacks explicit discussions on shared objectives, strategic alignment, or frameworks like OKRs. The focus is more on operational practices and experiences rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:06:40",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the importance of practices that help engineering teams cope with running a production site, which relates to competence in terms of skill development and maintaining trust. However, it lacks a direct focus on continuous learning or the depth of discussion required to fully align with the principles of competence. The mention of transparency and telemetry hints at quality outcomes but does not delve deeply into the strategies for fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:06:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and its practices, which are not directly related to the One Engineering System (1ES). While there are mentions of engineering practices and team responsibilities, the focus is on SRE principles rather than the integration and standardisation of engineering processes as outlined in the 1ES framework. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

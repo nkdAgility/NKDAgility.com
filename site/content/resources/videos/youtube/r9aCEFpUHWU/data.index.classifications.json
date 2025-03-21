@@ -673,11 +673,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T20:38:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and competence of Scrum Masters, focusing on Scrum practices rather than Continuous Delivery principles or methodologies.",
+    "calculated_at": "2025-03-21T17:00:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters in facilitating team success and product delivery, which is tangentially related to Continuous Delivery. However, it lacks direct mentions of Continuous Delivery principles, automation, or specific practices that enhance software delivery cycles. While it touches on aspects of product delivery and team dynamics, it does not delve into the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects of delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -853,11 +856,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:38:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:00:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and competence of Scrum Masters rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and their competence in driving team success, which is more aligned with Agile practices than with Evidence-Based Management. While it touches on the importance of delivering value and improving outcomes, it lacks a direct focus on empirical evidence or metrics that are central to EBM. The discussion is more about the qualitative aspects of Scrum Master effectiveness rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1490,15 +1496,6 @@
     "reasoning": "Content heavily discusses the role and competence of Scrum Masters in team effectiveness, focusing on traditional management practices rather than decentralised or adaptive organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:04:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role and competence of Scrum Masters without addressing the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:50",
@@ -1575,6 +1572,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the role of Scrum Masters in enhancing team effectiveness and product delivery, which indirectly relates to the Shift-Left Strategy by emphasising the importance of knowledge and skills in the development process. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, or compliance earlier in the software development lifecycle. The discussion is more centred on Scrum practices and the competence of Scrum Masters rather than the proactive measures associated with Shift-Left strategies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:00:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Scrum Masters in enhancing team effectiveness and product delivery, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the competence of Scrum Masters rather than on Continuous Improvement as a systematic practice. While there are mentions of improving team skills and knowledge, the discussion lacks depth in terms of specific Continuous Improvement strategies or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:00:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their competence in driving team success, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the individual capabilities of Scrum Masters rather than explicitly addressing shared objectives or alignment within teams. While there are mentions of aligning with broader business goals, the discussion lacks a strong emphasis on the foundational principles of Common Goals in Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:00:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the importance of competence for Scrum Masters, detailing how their knowledge impacts team effectiveness and product delivery. It aligns well with the core themes of continuous learning, skill development, and the necessity of competence in Agile environments. The depth of discussion is significant, providing examples and strategies for enhancing competence, which reinforces its primary focus on the category.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:00:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the role and importance of Scrum Masters in software development, discussing their competencies and impact on team success. While it touches on aspects of collaboration and product delivery, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion is centred around Scrum methodology rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

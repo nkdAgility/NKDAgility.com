@@ -586,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T21:27:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:10:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on personal development and continuous learning, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal and professional development within Agile and Scrum contexts, without directly addressing Continuous Delivery principles or practices. While it mentions continuous learning, it does not explore the specific themes of Continuous Delivery such as automation, rapid feedback, or software quality.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -757,11 +760,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T21:28:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:10:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal development and continuous learning rather than empirical evidence or management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal and professional development within Agile and Scrum contexts, lacking direct references to Evidence-Based Management principles or metrics. While it touches on continuous learning and innovation, it does not provide empirical evidence or data-informed decision-making discussions that are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1177,11 +1183,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:25:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:10:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal development and continuous learning without any specific reference to DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enhancing agile skills and professionalism, with a strong emphasis on continuous learning and personal development. While there are elements of continuous improvement and experimentation that resonate with DevOps principles, the overall discussion is centred around Agile and Scrum, which are not strictly aligned with the core themes of DevOps. Therefore, the confidence score reflects a minimal connection to the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1342,11 +1351,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:55:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal development and continuous learning rather than Agile principles or product-centric approaches.",
+    "calculated_at": "2025-03-21T19:10:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on personal development and continuous learning in the context of Agile and Scrum, but it does not explicitly discuss the Agile Product Operating Model or its core principles. While it touches on themes of professionalism and continuous improvement, it lacks depth in addressing the specific aspects of APOM, such as product management integration or operational governance.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1365,15 +1377,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on personal development and continuous learning rather than platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:55:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal development and continuous learning rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1416,6 +1419,54 @@
     "non_ai_confidence": 10,
     "final_score": 6.0,
     "reasoning": "The content primarily focuses on personal and professional development rather than discussing the Shift-Left Strategy in software development. While it touches on continuous learning and improvement, it does not explicitly mention or align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:10:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous learning and professional development, which aligns with the principles of Continuous Improvement. However, it lacks specific references to empirical evidence, structured frameworks, or detailed strategies for implementing Continuous Improvement practices. The focus is more on personal growth rather than organisational processes, which slightly diminishes its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:10:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal development and the importance of continuous learning in a professional context, which is somewhat related to the concept of Common Goals. However, it lacks explicit discussions on shared objectives, alignment within teams, or strategic goals that are central to the Common Goals category. The mention of Agile and Scrum is too vague and does not connect directly to the principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:10:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content strongly emphasises the importance of continuous learning and skill enhancement, which aligns well with the principles of competence in Agile and DevOps. It discusses professionalism as an ongoing journey, highlighting the necessity of trial and error in skill development. The depth of discussion on nurturing a personal investment in one's craft further supports the alignment with the category. However, while competence is a primary focus, some aspects are more general and could apply to broader professional development, slightly reducing the overall confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:10:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal development and enhancing agile skills, specifically within the context of Scrum. It does not discuss the One Engineering System framework, its principles, or its integration across teams, which are essential for alignment with the category. The mention of agile and Scrum is too peripheral to warrant a higher confidence score.",
     "level": "Ignored"
   }
 }

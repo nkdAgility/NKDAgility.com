@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Improvement
 - Operational Practices
 - Agile Frameworks
 - Agile Project Management
@@ -40,7 +41,6 @@ tags:
 - Pragmatic Thinking
 - Discovery and Learning
 - Team Performance
-- Agile Transformation
 resourceTypes:
 - video
 categories:

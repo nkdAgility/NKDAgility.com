@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:00:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the assessment phase of consulting engagements and the dynamics of understanding customer needs, with only brief mentions of DevOps, which is not central to the topic.",
+    "calculated_at": "2025-03-21T19:30:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the assessment phase of agile consulting, focusing on Scrum practices rather than Continuous Delivery principles. While there are mentions of continuous learning and adapting to customer needs, these concepts are not explored in the context of Continuous Delivery. The discussion lacks depth on key Continuous Delivery topics such as automation, rapid feedback, and delivery techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +823,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T07:01:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:30:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the assessment phase of consulting engagements and the need for adaptability, rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the assessment phase in agile consulting, focusing on the Scrum Master role and the importance of continuous engagement rather than a rigid assessment process. While it touches on themes of adaptability and understanding customer needs, it lacks explicit references to evidence-based management principles or metrics. The discussion is more centred on agile practices than on empirical decision-making or value delivery metrics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,15 +1285,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:08:24",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T19:30:05",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements, with a specific mention of past work in DevOps. While it touches on the importance of understanding customer needs and adapting to changing requirements, the primary focus is on consulting practices rather than core DevOps principles. The mention of DevOps is brief and serves more as a context rather than a central theme, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 43.0,
+    "reasoning": "The content primarily discusses the assessment phase of agile consulting, focusing on Scrum practices rather than DevOps principles. While there is a brief mention of past DevOps engagements, it does not delve into core DevOps themes such as collaboration, automation, or shared accountability. The discussion is more centred on agile methodologies and consulting strategies, which are not strictly aligned with the DevOps philosophy.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1465,11 +1471,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:56:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the assessment phase of consulting engagements and the need for adaptability, without a clear focus on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:30:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile consulting and the assessment phase, but it primarily focuses on the Scrum Master role and the nuances of consulting engagements rather than the Agile Product Operating Model itself. While there are mentions of agile principles, the discussion lacks a direct focus on product management practices or the core themes of the APOM framework.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1488,15 +1497,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the assessment phase of consulting engagements, with a focus on customer interactions and adapting to needs, rather than platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:56:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the assessment phase of consulting engagements and personal experiences in DevOps, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the assessment phase in consulting engagements, focusing on Agile and Scrum methodologies. While it touches on continuous assessment and adaptation, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth and detail related to integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:30:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the assessment phase in agile consulting, highlighting the importance of continuous engagement and adaptation rather than a rigid assessment process. While it touches on themes of learning and adapting to customer needs, it does not explicitly focus on Continuous Improvement as a primary topic. The discussion is more about the consulting process and agile methodologies rather than a dedicated exploration of Continuous Improvement principles.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:30:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the assessment phase of consulting engagements, focusing on the practicalities and challenges faced by a Scrum Master. While it touches on Agile principles and the importance of continuous engagement, it does not explicitly address Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in connecting individual contributions to overarching organisational objectives, which is central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:30:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on the importance of continuous learning and adapting to client needs, which aligns with the concept of competence. However, it does not explicitly focus on competence as a primary theme, and the depth of discussion on competence-related strategies is limited.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:30:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the assessment phase of agile consulting and Scrum practices, which are not directly related to the One Engineering System framework. While there are mentions of agile methodologies, the focus is on consulting strategies rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

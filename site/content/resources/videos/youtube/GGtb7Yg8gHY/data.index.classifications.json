@@ -127,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:51:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:27:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team conflict and Scrum roles, which are not central to DevOps principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses conflict resolution within Agile teams, focusing on team dynamics and communication strategies. While it touches on collaboration, which is a key aspect of DevOps, it does not explicitly address DevOps principles or practices. The discussion is more aligned with Agile methodologies rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -166,11 +169,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team conflict in an Agile context, particularly focusing on Scrum, rather than on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses team conflict management within Agile practices, focusing on communication and collaboration rather than Continuous Delivery principles. While it touches on aspects of teamwork that could indirectly relate to delivery processes, it does not explicitly address Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback mechanisms.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -967,11 +973,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses team conflict and Scrum roles but does not focus on the Agile Product Operating Model or value delivery in product teams.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses team conflict management within an Agile context, focusing on Scrum roles and strategies for de-escalation. While it touches on Agile principles, it does not explicitly address the Agile Product Operating Model or its core themes, such as product management practices or continuous delivery. The discussion is more about interpersonal dynamics than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1171,11 +1180,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses team conflict and the role of the Scrum Master in addressing disagreements, rather than focusing on the principles or practices of Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses conflict management within Agile teams, focusing on interpersonal dynamics rather than evidence-based management principles. While it touches on the importance of collaboration and communication, it lacks direct references to empirical metrics or data-informed decision-making that are central to Evidence-Based Management. The discussion is more about team dynamics and conflict resolution strategies, which do not align closely with the core themes of EBM.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1230,15 +1242,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses team conflict and Scrum roles, which do not align with employee engagement topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses team conflict in Agile contexts, with a focus on Scrum practices, and does not align with the principles or discussions surrounding the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses team conflict and conflict resolution strategies within Agile teams, with no direct mention of the Shift-Left Strategy or its principles. While it touches on collaboration and communication, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:27:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses conflict management within Agile teams, which indirectly relates to Continuous Improvement by emphasising the importance of open communication and collaboration. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or systematic processes for enhancement. The discussion is more centred on conflict resolution rather than the broader themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:27:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses team conflict and strategies for de-escalation, which are relevant to Agile practices. However, it primarily focuses on conflict management rather than explicitly addressing Common Goals. While it touches on collaboration and communication, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:28:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses team conflict and strategies for de-escalation, which are related to team dynamics rather than directly addressing competence. While it touches on the importance of communication and collaboration, it does not explicitly focus on continuous learning, skill development, or the professional growth aspects that define competence. The discussion lacks depth in exploring how competence impacts decision-making or quality outcomes, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:28:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on conflict resolution within Agile teams, discussing strategies for managing disagreements rather than addressing the principles or components of the One Engineering System. While it touches on collaboration, it does not delve into the integration of tools or processes, nor does it provide insights into the 1ES framework or its implementation. Therefore, it lacks the necessary depth and alignment with the core themes of the One Engineering System.",
     "level": "Ignored"
   }
 }

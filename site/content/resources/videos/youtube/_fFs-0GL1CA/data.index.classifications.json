@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile certifications and Scrum practices, with no substantial focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:18:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum certifications, with only a brief mention of DevOps at the end. While it touches on themes of continuous learning and improvement, which are relevant to DevOps, the overall discussion does not align closely with the core principles of DevOps. The depth of discussion on DevOps is minimal, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum methodology and Agile certifications, without focusing on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:18:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Agile certifications and their role in career advancement, with only brief mentions of continuous learning. It does not discuss Continuous Delivery principles, practices, or tools, and lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -399,15 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile certifications, Scrum, and professional career development without mentioning or focusing on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile certifications and Scrum practices, with no focus on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1213,14 +1210,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T01:17:02",
+    "calculated_at": "2025-03-21T20:18:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily discusses the value of Agile certifications and their role in career advancement rather than focusing on the Agile Product Operating Model itself. While it touches on Agile and Scrum principles, it does not delve into product-centric development, value delivery, or the operational model's key topics. The discussion is more about personal career growth and validation of knowledge through certifications, which is a secondary aspect of Agile methodologies.",
+    "reasoning": "The content primarily focuses on the importance of Agile and Scrum certifications for career advancement, which is tangentially related to Agile practices but does not directly address the Agile Product Operating Model. While it mentions Scrum and the value of certifications, it lacks a detailed discussion on the principles or frameworks of the Agile Product Operating Model, thus resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1429,11 +1426,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:18:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of agile certifications and the Scrum Guide, rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile certifications and their role in career advancement, with limited direct discussion on Evidence-Based Management principles. While it touches on the importance of validated learning and assessment, it does not delve into empirical decision-making or metrics that align with EBM. The discussion is more centred on personal development and validation of skills rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1506,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the value of Agile certifications and the importance of validated learning in career advancement. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it touches on Agile and Scrum, it does not align with the core themes of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:18:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous learning and improvement in the context of Agile certifications, which aligns with the principles of Continuous Improvement. However, it primarily focuses on certifications and career advancement rather than a comprehensive exploration of Continuous Improvement practices. The mention of validated learning and feedback mechanisms contributes to the alignment, but the overall depth and focus on Continuous Improvement as a primary theme are limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:18:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of Agile certifications for career advancement rather than discussing Common Goals within Agile and DevOps frameworks. While it touches on Scrum principles and the value of validated learning, it does not explicitly address shared objectives or alignment of strategy with execution, which are central to the Common Goals category. The discussion is more personal and anecdotal, lacking a strong connection to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:18:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of certifications as a means of validating skills and knowledge, which aligns with the concept of competence in Agile and DevOps. It emphasises continuous learning and the distinction between knowledge and actual skills, which are core themes of the competence category. The depth of discussion is substantial, covering various aspects of how certifications contribute to professional development and the importance of validated learning. However, while competence is a primary focus, the content also touches on related topics such as career advancement and employer perspectives, which slightly dilutes the focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:18:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum certifications, discussing their importance for career advancement rather than the principles or implementation of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

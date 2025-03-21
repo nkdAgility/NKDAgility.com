@@ -622,11 +622,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:33:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:25:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration issues in Azure DevOps, focusing on identity management and operational challenges, rather than Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Azure DevOps data migration, discussing challenges and best practices rather than Continuous Delivery principles. While it touches on aspects of software delivery, such as planning and execution, it lacks a direct focus on Continuous Delivery practices, automation, or rapid feedback mechanisms. The discussion is more about migration processes than the continuous delivery cycle itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -787,11 +790,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:34:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:25:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical challenges and processes related to Azure DevOps data migration, without reference to evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on practical aspects of Azure DevOps data migration, discussing common issues, best practices, and personal experiences. While it touches on the importance of planning and order, it does not explicitly discuss Evidence-Based Management principles or metrics. The discussion lacks depth in relation to empirical decision-making or value delivery metrics, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1397,22 +1403,16 @@
     "reasoning": "Content primarily discusses technical aspects of Azure DevOps data migration, focusing on operational challenges and identity management, without addressing BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:30:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Azure DevOps data migration issues and challenges, with no clear focus on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps data migration issues and technical challenges, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T17:25:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps data migration, discussing technical challenges and best practices without addressing the Agile Product Operating Model or its principles. While it touches on aspects of agile methodologies, such as planning and identity alignment, these are not explored in the context of product management or the APOM framework.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1476,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the technical aspects of data migration in Azure DevOps, discussing challenges and best practices without addressing the Shift-Left Strategy. While it touches on planning and preparation, it does not integrate testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:25:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps data migration, discussing common pitfalls and best practices. While it touches on the importance of careful planning and attention to detail, it lacks a direct emphasis on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into processes. The discussion is more about operational efficiency rather than a commitment to ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:25:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps data migration, discussing common issues, best practices, and personal experiences. While it touches on the importance of planning and order in migration, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is essential for the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:25:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of careful planning and attention to detail in the context of Azure DevOps data migration, which indirectly relates to competence. However, it primarily focuses on technical processes and common pitfalls rather than explicitly addressing continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth in exploring how competence impacts decision-making or team trust, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:25:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Azure DevOps data migration, discussing specific challenges and best practices related to that process. While it touches on aspects of software development and project management, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion lacks depth regarding integration and standardisation of engineering processes, which are core to 1ES.",
     "level": "Ignored"
   }
 }

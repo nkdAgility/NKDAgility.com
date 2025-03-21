@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:49:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:37:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and methodologies, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a flipped learning approach and training methodologies, which do not directly address DevOps principles or practices. While there are elements of collaboration and continuous improvement mentioned, they are not explicitly tied to DevOps as a philosophy. The discussion lacks depth in terms of DevOps-specific concepts such as automation, shared accountability, or feedback loops.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -259,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and related learning experiences, with no focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:37:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a flipped learning approach and fostering a people-first culture, which are not directly related to Continuous Delivery principles. While there are elements of continuous improvement mentioned, they do not specifically address Continuous Delivery practices or its core themes.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -402,15 +408,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and methodologies without a clear focus on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and coaching without any focus on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1234,11 +1231,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on professional Scrum training, methodologies and individual learning experiences rather than on the Agile Product Operating Model or product-centric development.",
+    "calculated_at": "2025-03-21T20:37:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses training and a flipped learning approach, which aligns with agile principles of continuous improvement and collaboration. However, it lacks direct mentions of the Agile Product Operating Model and does not delve into specific product management practices or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1453,11 +1453,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:37:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and educational approaches, with no significant emphasis on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a flipped learning approach and fostering a people-first culture, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on themes of growth and collaboration, it lacks direct references to empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1530,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on training methodologies and fostering a people-first culture, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on concepts of continuous improvement and collaboration, these are not directly related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:37:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses continuous improvement in the context of training and fostering a people-first culture, which aligns with the principles of Continuous Improvement. However, while it mentions the concept, it does not delve deeply into specific strategies or empirical evidence related to Continuous Improvement practices. The focus is more on the training approach rather than a comprehensive exploration of Continuous Improvement methodologies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:37:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and engagement strategies but lacks a direct focus on Common Goals within Agile and DevOps frameworks. While it mentions collaboration and a people-first culture, it does not explicitly connect these concepts to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:37:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill development through the flipped learning approach, which aligns well with the core themes of competence. It highlights strategies for fostering a culture of growth and collaboration, emphasising the role of personalised support and community access in enhancing competence. However, while competence is a significant focus, the content also leans towards broader themes of engagement and culture, which slightly dilutes its primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:37:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a flipped learning approach and training methodologies rather than discussing the One Engineering System framework or its principles. While there are elements of collaboration and growth mentioned, they do not directly relate to the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

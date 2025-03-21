@@ -232,11 +232,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T16:43:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:53:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engineering excellence and technical leadership without a clear focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses quality and value creation in engineering practices but lacks explicit references to Evidence-Based Management principles. While it touches on concepts like continuous improvement and customer trust, it does not focus on empirical evidence or metrics that are central to EBM. The discussion is more aligned with Agile practices rather than a data-informed decision-making approach.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -280,15 +283,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T17:07:12",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T16:53:55",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Continuous Integration and Delivery, which are key components of Continuous Delivery, but it primarily focuses on broader themes of quality, technical leadership, and agile practices. While there are relevant mentions, the overall emphasis is not strictly on Continuous Delivery principles, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses concepts related to Continuous Delivery, such as Continuous Integration and Delivery, and the importance of quality and user experience. However, it primarily focuses on broader themes of engineering excellence and technical leadership rather than delving deeply into Continuous Delivery principles or practices. The mention of Continuous Integration and Delivery is brief and does not explore the category's core themes in detail, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1469,15 +1472,6 @@
     "reasoning": "Content primarily discusses engineering excellence and technical leadership, with a focus on practices like shifting left and managing technical debt, rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:00:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses naked agility and its role in engineering excellence, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:39:30",
@@ -1555,5 +1549,53 @@
     "final_score": 70.0,
     "reasoning": "The content explicitly discusses the concept of 'shifting left' in the context of integrating various components early in the development lifecycle, which aligns well with the Shift-Left Strategy. It covers aspects such as continuous integration, user experience, and security, demonstrating a clear understanding of the proactive approach advocated by the Shift-Left Strategy. However, while it provides a good level of detail, it does not delve deeply into specific techniques or case studies, which slightly limits the depth of discussion.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:53:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality and technical leadership, which aligns with Continuous Improvement principles. It mentions 'continuous integration and delivery' and 'creating a culture of quality', indicating a focus on ongoing enhancement. However, while it touches on relevant themes, it lacks a deep exploration of Continuous Improvement methodologies and frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:53:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of quality and collaboration within engineering teams, which aligns with the concept of Common Goals. However, it primarily focuses on practices and challenges in engineering rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks. The mention of ownership and collaboration hints at common goals but lacks depth in discussing how these contribute to overarching organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:53:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of quality, trust, and technical leadership, which are closely related to competence. It mentions investing in skills development and fostering a culture of quality, aligning well with the core themes of continuous learning and capability development. However, while competence is a significant focus, the discussion is somewhat broad and could benefit from deeper exploration of specific strategies for fostering competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:53:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses engineering practices and quality but focuses primarily on 'naked agility' rather than the One Engineering System (1ES). While it touches on concepts like continuous integration and quality, it does not explicitly mention 1ES or its principles. The discussion lacks depth in relation to the integration and standardisation of engineering processes, which are core to 1ES.",
+    "level": "Ignored"
   }
 }

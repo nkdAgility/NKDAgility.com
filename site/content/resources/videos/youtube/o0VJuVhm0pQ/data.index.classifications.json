@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:54:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:25:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on product development rather than Continuous Delivery principles and practices.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum as a product development framework, focusing on its role in enhancing innovation and customer retention. While it touches on aspects of delivery, such as the cadence of delivering working products and the importance of feedback, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks a direct focus on automation, incremental improvements, or the cultural aspects of Continuous Delivery, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:38:25",
+    "calculated_at": "2025-03-21T20:25:47",
     "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses the role of Scrum in product development and its impact on customer acquisition and retention, which aligns with the principles of Evidence-Based Management (EBM). It mentions empirical process control and the importance of data-driven decision-making, which are core aspects of EBM. However, while it touches on these concepts, the primary focus is more on Scrum as a framework rather than a deep exploration of EBM itself. The discussion includes some relevant metrics and the need for organisational capabilities, but it lacks extensive case studies or detailed techniques for measuring performance, which would strengthen its alignment with EBM.",
+    "reasoning": "The content discusses Scrum in the context of product development and customer retention, touching on concepts like current value and unrealised value. However, it primarily focuses on Scrum as a framework rather than on evidence-based management practices. While it mentions empirical processes and the importance of data in decision-making, the overall emphasis is more on Scrum methodology than on EBM principles.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:52:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:25:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on product development rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum as a product development framework rather than discussing DevOps principles or practices. While it touches on concepts like collaboration and feedback loops, which are relevant to DevOps, the overall emphasis is on Scrum's role in product development and customer retention, lacking a direct connection to the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1487,17 @@
     "reasoning": "Content primarily discusses Scrum as a product development framework, focusing on execution and market value rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum as a product development framework, focusing on its principles and execution rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:35:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:25:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum as a product development framework and its role in value delivery, but it primarily focuses on Scrum practices rather than a comprehensive Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum as a product development framework and its role in enhancing customer acquisition and retention. While it touches on agile principles and the importance of organisational capabilities, it primarily focuses on Scrum rather than the broader Agile Product Operating Model. The discussion includes elements of value creation and market responsiveness, which align with APOM themes, but lacks a comprehensive exploration of the APOM framework itself. Therefore, while there is relevant content, it does not fully meet the criteria for a primary focus on the Agile Product Operating Model.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum as a product development framework and its role in acquiring and retaining customers. While it touches on aspects of feedback loops and execution, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on Scrum's operational aspects rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:25:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum and its role in product development, highlighting the importance of execution and the need for continuous improvement in processes. However, while it touches on aspects of Continuous Improvement, such as the need for feedback loops and the identification of problems, it primarily focuses on Scrum as a framework rather than a dedicated discussion on Continuous Improvement principles. The depth of discussion on Continuous Improvement is limited, and the content does not provide extensive strategies or case studies related to the category.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:25:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum's role in product development and customer retention, touching on the importance of team collaboration and execution. However, it primarily focuses on the operational aspects of Scrum rather than explicitly addressing the concept of Common Goals. While it mentions the need for alignment and the importance of delivering value, it lacks a detailed exploration of how these elements connect to overarching strategic objectives or frameworks like OKRs. The discussion is more about the execution of Scrum rather than the alignment of individual contributions to a shared mission.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:25:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of Scrum in product development and highlights the importance of team capabilities and skills in achieving success. It mentions the need for continuous improvement and the identification of skills gaps, which aligns with the concept of competence. However, while competence is a recurring theme, the primary focus is more on Scrum's framework and its application rather than a deep exploration of competence itself. The discussion is substantial but not exhaustive, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:25:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Scrum as a product development framework, focusing on its role in enhancing customer acquisition and retention. While it touches on some aspects of team collaboration and execution, it does not explicitly address the principles or components of the One Engineering System (1ES) framework. The discussion lacks depth regarding integration of tools and processes across teams, best practices for implementing 1ES, or the impact of 1ES on software quality and delivery timelines. Overall, the content is more aligned with Scrum methodology rather than the unified engineering processes that 1ES promotes.",
     "level": "Ignored"
   }
 }

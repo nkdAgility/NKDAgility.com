@@ -39,7 +39,7 @@ tags:
 - Agile Strategy
 - Pragmatic Thinking
 - Agile Project Management
-- Agile Product Operating Model
+- Products and Books
 resourceTypes:
 - video
 categories:

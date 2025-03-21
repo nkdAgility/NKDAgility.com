@@ -670,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:21:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:30:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the misconceptions of agility in software development, focusing on the relationship between agility and speed, rather than Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles and the misconception of speed in Agile methodologies, which is tangentially related to Continuous Delivery. While it touches on aspects of iterative processes and value delivery, it does not explicitly focus on Continuous Delivery practices, automation, or the specific principles outlined in the category definition. The discussion lacks depth in Continuous Delivery topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -853,11 +856,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T09:21:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:30:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the misconceptions of agility and speed in Agile methodologies, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value rather than speed, which aligns with some aspects of Evidence-Based Management. However, it lacks direct references to empirical metrics or data-informed decision-making, which are central to EBM. The focus is more on Agile methodology rather than a structured discussion on evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1306,11 +1312,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:18:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:30:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the misconceptions surrounding agility and speed, without a clear focus on DevOps practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles and the misconception of speed in Agile methodologies, which are not directly related to DevOps. While there are some overlapping themes, such as the importance of value delivery and iterative processes, the focus remains on Agile rather than the broader DevOps philosophy. The discussion lacks depth in DevOps-specific practices, such as automation, shared accountability, or cross-functional collaboration, which are central to the DevOps ethos.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,22 +1490,16 @@
     "reasoning": "The content discusses agility in the context of organisational effectiveness and the pitfalls of traditional approaches, which aligns with some principles of BetaCodex, but it primarily focuses on the misconceptions of agility rather than a comprehensive exploration of BetaCodex principles.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of agility in software development, focusing on the misconceptions around speed and efficiency, rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:38:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T17:30:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles of agility, the importance of market fit, and the value of iterative product development, aligning closely with the Agile Product Operating Model.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value rather than speed, which aligns with the Agile Product Operating Model. However, it lacks direct references to specific APOM concepts such as product management practices or operational stability, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1560,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering value rather than speed, which aligns with some Shift-Left concepts. However, it does not explicitly mention the Shift-Left Strategy or focus on integrating testing, security, or compliance early in the development process. The discussion is more about Agile methodology and its misconceptions, making the Shift-Left Strategy a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:30:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile principles, particularly the importance of value and iterative processes, which align with Continuous Improvement. However, it primarily focuses on debunking the myth of speed in Agile rather than explicitly addressing Continuous Improvement practices or frameworks. While it touches on experimentation and learning, it lacks detailed strategies or tools specific to Continuous Improvement, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:30:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value rather than speed, which aligns with the concept of Common Goals. However, it primarily focuses on misconceptions about agility and does not explicitly address shared objectives or strategic alignment within teams. The discussion lacks depth in connecting these ideas to the broader themes of Common Goals, such as ownership and accountability, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:30:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the importance of focusing on value rather than speed, which indirectly relates to competence in terms of delivering quality outcomes. However, it lacks direct mentions of continuous learning, skill development, or strategies for fostering a culture of competence, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:30:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their misconceptions, focusing on value and adaptability rather than the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is also minimal regarding the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

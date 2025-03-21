@@ -706,14 +706,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:30:10",
+    "calculated_at": "2025-03-21T16:46:11",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content extensively discusses the importance of delivery within the Scrum framework, linking it directly to Continuous Delivery principles. It highlights the need for automation, the role of CI/CD pipelines, and the necessity of delivering increments to production, which aligns closely with Continuous Delivery practices. The depth of discussion is significant, providing actionable strategies for ensuring delivery becomes a default practice. However, while it is heavily focused on delivery, it does not delve deeply into all aspects of Continuous Delivery, such as metrics or risk management, which slightly lowers the overall confidence score.",
+    "reasoning": "The content extensively discusses the importance of delivery within the Scrum framework, emphasising that delivery is the true measure of progress. It aligns closely with Continuous Delivery principles by highlighting the need for automation, rapid feedback, and the cultural shift required to prioritise delivery. The depth of discussion is significant, providing actionable strategies for ensuring delivery becomes a default practice. Overall, the content is highly relevant to Continuous Delivery, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1570,11 +1570,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:46:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:46:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum practices and the importance of delivery in software development, without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices and the importance of delivery over merely completing increments. While it touches on concepts like value delivery and responsiveness, it lacks a direct focus on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management. The discussion is more about Scrum methodology than about using evidence to drive management decisions.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1584,15 +1587,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:46:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum practices and delivery metrics, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -1677,6 +1671,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses the importance of delivery in Scrum and does not explicitly address the Shift-Left Strategy. While it touches on aspects of quality and feedback, it lacks a direct focus on integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:46:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the importance of delivery in Scrum, which indirectly relates to Continuous Improvement by emphasising the need for feedback and adaptation based on user impact. However, it does not explicitly discuss Continuous Improvement principles or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:46:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum, which indirectly relates to the concept of Common Goals by emphasising the need for alignment between what is produced (Done Increments) and what is delivered to users. However, it primarily focuses on the mechanics of delivery rather than explicitly addressing shared objectives or strategic alignment within teams. While it touches on the implications of delivery for organisational performance, it lacks a thorough exploration of how these practices connect to overarching strategic goals, which is a key aspect of the Common Goals category.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:46:06",
+    "ai_confidence": 75.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum, which indirectly relates to competence by emphasising the need for teams to demonstrate their capabilities through actual delivery rather than just completing tasks. It highlights the distinction between 'Done' and 'Delivered', which touches on the necessity for teams to develop skills that ensure quality outcomes. However, while competence is a theme, it is not the primary focus of the content, which centres more on delivery practices and their implications in Scrum and DevOps contexts.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:46:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the importance of delivery within that framework, without discussing the One Engineering System (1ES) or its principles. While it touches on aspects of software delivery, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

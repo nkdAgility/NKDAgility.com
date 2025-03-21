@@ -27,16 +27,16 @@ preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
+- Continuous Delivery
 - Complexity Thinking
+- Continuous Improvement
 - Pragmatic Thinking
 - Software Development
-- Continuous Delivery
 - People and Process
 - Software Developers
 - Code and Complexity
 - Product Delivery
 - Working Software
-- Technical Excellence
 resourceTypes:
 - video
 sitemap:

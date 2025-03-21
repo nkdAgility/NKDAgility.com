@@ -223,11 +223,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:44:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum tools and preferences without addressing Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T18:49:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps as a tool for Scrum Masters and Agile teams, discussing its features and benefits without explicitly addressing Evidence-Based Management principles. While it touches on value delivery and team empowerment, it lacks a strong emphasis on empirical decision-making or metrics that align with EBM. The discussion is more about tool usage than evidence-based practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -268,11 +271,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:44:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:49:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Azure DevOps as a tool for Scrum Masters and Agile teams, discussing its features and benefits in the context of Agile practices. While it touches on aspects of team collaboration and feedback loops, which are relevant to Continuous Delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in exploring Continuous Delivery as a primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1159,14 +1165,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T15:10:35",
-    "ai_confidence": 68.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 60.0,
+    "calculated_at": "2025-03-21T18:49:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 50,
-    "final_score": 66.0,
-    "reasoning": "The content explicitly mentions Azure DevOps and its appeal to Scrum Masters, indicating a direct connection to DevOps practices. However, while it touches on the integration of tools and team capabilities, it lacks a deeper exploration of core DevOps principles such as CI/CD, automation, or cultural shifts. The focus is primarily on the tool's usability rather than a comprehensive discussion of DevOps as a whole.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Azure DevOps primarily in the context of Scrum and agile practices, which are not strictly aligned with the core principles of DevOps. While it mentions collaboration and feedback loops, which are relevant to DevOps, the focus remains on the tool's application within Scrum rather than on DevOps as a philosophy. The depth of discussion on DevOps principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1390,11 +1396,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:55:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:49:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Azure DevOps and its benefits for Scrum Masters, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Azure DevOps as a tool for Scrum Masters, focusing on its features and benefits rather than the Agile Product Operating Model itself. While it touches on agile practices and team empowerment, it lacks a direct discussion of the APOM principles and does not delve into product management aspects, which are central to the category.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1404,15 +1413,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps in the context of Scrum and Agile teams, without a clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Azure DevOps in relation to Scrum Masters and Agile teams, without a focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1464,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Azure DevOps as a tool for Scrum Masters and Agile teams, focusing on its user-friendly interface, team visibility, and collaboration features. While it touches on aspects of team empowerment and feedback loops, it does not explicitly mention or align with the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:49:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Azure DevOps as a tool for Scrum Masters, highlighting its features that enhance team collaboration and visibility. While it touches on aspects of continuous improvement, such as feedback loops and empowering teams, the primary focus is on the tool itself rather than a comprehensive exploration of continuous improvement principles. The discussion lacks depth in terms of strategies or frameworks specifically related to continuous improvement, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:49:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Azure DevOps and its benefits for Scrum Masters and teams, but it primarily focuses on tool features and personal experiences rather than explicitly addressing Common Goals. While it touches on themes of team empowerment and collaboration, it lacks a direct discussion on aligning strategy with execution or the significance of shared objectives in Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:49:43",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Azure DevOps as a tool for Scrum Masters, highlighting its user-friendly interface and holistic team visibility. However, while it touches on aspects of team empowerment and collaboration, it lacks a direct focus on continuous learning, skill development, or the deeper implications of competence in Agile practices. The discussion is more about the tool's features than on fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:49:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps as a tool for Scrum Masters and agile teams, discussing its features and benefits without directly addressing the principles or components of the One Engineering System. While it touches on integration and collaboration, it does not provide a comprehensive discussion on the standardisation and unification of engineering practices as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

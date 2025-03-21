@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T07:28:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:53:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile consulting and Scrum, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and coaching, discussing the importance of provoking clients to rethink their approaches. While there are some indirect references to improving operations, the core principles of DevOps, such as collaboration, automation, and shared accountability, are not explicitly addressed. The discussion is centred around Agile methodologies rather than the DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -253,11 +256,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:54:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Agile consulting and practices, with no mention or discussion relevant to Continuous Delivery principles or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile consulting and the role of provocation in changing client mindsets, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not explore Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are essential to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -399,15 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile consulting and the mindset changes needed in that context without directly addressing Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile consulting and practices rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1243,12 +1240,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T19:54:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of provoking clients to rethink their product development operations, which aligns with Agile principles, but the primary focus is on consulting rather than the operational model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to product development, which aligns with the concept of fostering a product-oriented mindset. However, it primarily focuses on coaching and consulting rather than the specific principles and practices of the Agile Product Operating Model. The depth of discussion on APOM is limited, as it does not delve into key topics such as operational stability, governance, or Evidence-Based Management.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1465,11 +1465,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile consulting and the role of consultants in provoking new ways of thinking, without addressing evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on provoking clients to rethink their Agile practices rather than discussing Evidence-Based Management principles. While it touches on themes of change and improvement, it lacks explicit references to empirical evidence, metrics, or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1542,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on provoking clients to rethink their Agile practices and does not explicitly discuss the Shift-Left Strategy or its principles. While it touches on improving processes, it lacks direct references to integrating testing, security, or compliance early in development, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:53:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their processes, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the act of provocation rather than a comprehensive exploration of Continuous Improvement methodologies or frameworks. While there are mentions of improvement and questioning existing practices, the depth of discussion on Continuous Improvement concepts is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:53:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which touches on the importance of aligning strategies with execution. However, it primarily focuses on the consultant's approach rather than explicitly addressing Common Goals or their significance in Agile and DevOps. The discussion lacks depth in exploring how these provocations connect to shared objectives or frameworks like OKRs, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:53:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which indirectly relates to competence by emphasising the need for continuous improvement and introspection. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into strategies for fostering a culture of competence or skill development. The discussion is more about challenging mindsets than about developing demonstrable capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:54:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile consulting and the role of provocation in changing client mindsets, which does not directly address the principles or components of the One Engineering System. While it mentions Agile practices, it lacks a clear connection to the integration and standardisation of engineering processes that 1ES emphasises. The discussion is more about personal coaching techniques rather than the framework of 1ES.",
     "level": "Ignored"
   }
 }

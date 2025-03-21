@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T03:19:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-03-21T21:06:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the Definition of Done within the context of Scrum, focusing on quality and continuous improvement. However, it primarily revolves around Scrum practices rather than explicitly addressing Evidence-Based Management principles. While there are mentions of quality improvement and decision-making, the discussion lacks a strong emphasis on empirical evidence or data-driven approaches that are central to EBM. The depth of discussion on Scrum practices is significant, but it does not sufficiently align with the core themes of EBM.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the Definition of Done within the context of Scrum, focusing on quality and process improvements. While it touches on aspects of decision-making and quality management, it does not explicitly engage with the core themes of Evidence-Based Management, such as empirical decision-making or metrics for current value and innovation. The discussion is more about Scrum practices than evidence-based management principles.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -139,11 +139,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:54:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:05:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and the Definition of Done, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Scrum framework and the Definition of Done, which are not central to DevOps principles. While there are tangential references to quality and improvement, the focus remains on Scrum practices rather than the broader DevOps philosophy of collaboration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,23 +344,17 @@
     "reasoning": "Content primarily discusses Scrum practices and the Definition of Done, without a focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T17:55:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum practices and the Definition of Done, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:05:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done within the context of Scrum, which is a component of Agile methodologies. However, it primarily focuses on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Definition of Done within the context of Scrum, which is a specific agile practice rather than the broader Agile Product Operating Model. While it touches on quality and iterative improvement, it lacks a direct focus on product management principles or the transition from project to product ethos, which are central to the APOM. The depth of discussion on Scrum practices is significant, but it does not sufficiently align with the key topics of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -430,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T17:55:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:06:01",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the Definition of Done, which are not central to Continuous Delivery principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the Definition of Done within the context of Scrum, which is a framework for Agile development. While it touches on quality and the importance of maintaining standards, it does not explicitly address Continuous Delivery principles or practices. The focus is more on Scrum processes rather than the broader Continuous Delivery practices such as automation, rapid feedback, or incremental improvements. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not strongly support the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the Definition of Done in the context of Scrum, focusing on quality improvement and team processes. While it touches on quality, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about Scrum practices than integrating testing or security early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:05:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the evolution of the Definition of Done in Scrum, which aligns with the principles of Continuous Improvement. It highlights the importance of reflecting on and adapting processes to enhance quality, particularly during Sprint Retrospectives. However, while it touches on key aspects of Continuous Improvement, such as quality enhancement and team reflection, the discussion is primarily focused on Scrum practices rather than a broader exploration of Continuous Improvement methodologies. The depth of discussion is moderate, providing some insights but lacking extensive detail on Continuous Improvement frameworks or case studies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:05:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Definition of Done in Scrum, which is a specific aspect of Agile practices. While it touches on quality and team responsibilities, it does not explicitly address the concept of Common Goals or how they align with strategic objectives. The discussion is more focused on operational details rather than the overarching alignment of team efforts with organisational goals, which is central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:05:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done in Scrum and its implications for quality, which relates to competence in terms of maintaining standards and continuous improvement. However, while it touches on the importance of quality and the need for a consistent Definition of Done, it does not delve deeply into the broader themes of competence such as continuous learning or skill development. The focus is more on procedural aspects rather than on fostering a culture of competence or professional growth.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:05:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the Definition of Done within the Scrum framework, focusing on agile practices rather than the integration and standardisation of engineering processes as outlined in the One Engineering System. While it touches on quality and team processes, it does not explicitly mention 1ES or its principles, nor does it provide a detailed exploration of how these concepts relate to a unified engineering system.",
     "level": "Ignored"
   }
 }

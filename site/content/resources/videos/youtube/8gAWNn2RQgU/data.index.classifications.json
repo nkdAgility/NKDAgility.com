@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:07:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:03:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile training, discussing Joanna's expertise and teaching methods. While it briefly touches on concepts like feedback loops and continuous improvement, these are framed within the context of Agile rather than DevOps. The overall emphasis is on Agile methodologies, which do not align with the core principles of DevOps as defined in the classification criteria.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:08:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:03:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's personal qualities and expertise as a trainer, rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, with a strong emphasis on her teaching methods and personal qualities. While there are brief mentions of empirical practices, such as 'Inspect & Adapt' and 'Transparent Decision-Making', these are not the main focus of the content. The discussion lacks a robust exploration of Evidence-Based Management principles, metrics, or data-informed decision-making, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -335,15 +341,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:08:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -652,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:09:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:03:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum training, discussing Joanna's expertise and teaching methods. While it briefly touches on concepts like feedback loops and continuous improvement, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth and does not explore the core themes of Continuous Delivery, such as automation in deployment or case studies of Continuous Delivery implementations.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -745,11 +745,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:09:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, with no clear discussion on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T19:03:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Scrum training rather than the Agile Product Operating Model. While it touches on Agile principles and practices, it lacks a direct discussion of the APOM framework and its core themes. The depth of discussion on Agile practices is present, but it does not specifically address the transition to a product-oriented mindset or the integration of product management principles, which are central to the APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1476,6 +1479,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile training and Scrum practices, with no explicit discussion of the Shift-Left Strategy. While it touches on concepts like feedback loops and continuous improvement, these are general Agile principles rather than specific to integrating testing, security, or compliance earlier in the development process. Therefore, the content does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:03:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile training and the importance of feedback loops and iterative processes, which are relevant to Continuous Improvement. However, it primarily focuses on Joanna's expertise and training style rather than a comprehensive exploration of Continuous Improvement principles. While there are mentions of improvement and practical application, the depth of discussion on Continuous Improvement as a standalone topic is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:03:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and her teaching methods, rather than discussing Common Goals within Agile and DevOps frameworks. While it touches on Agile principles and training, it lacks a clear emphasis on shared objectives or alignment strategies that are central to the concept of Common Goals. The discussion is more about individual expertise and training experiences than about collective goals or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:03:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Joanna's expertise and the importance of her training in Agile and Scrum, highlighting her technical mastery and ability to inspire others. It aligns well with the themes of competence, particularly in continuous learning and skill development. However, while it touches on competence, it primarily focuses on Joanna's personal attributes and training style rather than a broader discussion on competence as a principle in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:03:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and discussing her teaching methods and expertise in Agile practices. While it mentions Agile and Scrum, it does not address the One Engineering System framework, its principles, or its integration across teams. The discussion is centred around individual training rather than the standardisation and integration of engineering processes, which is the core of the 1ES category.",
     "level": "Ignored"
   }
 }

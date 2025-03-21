@@ -34,10 +34,10 @@ tags:
 - Organisational Change
 - Value Delivery
 - Organisational Agility
+- Continuous Improvement
 - Software Development
 - Agile Leadership
 - Organisational Culture
-- People and Process
 categories:
 - Scrum
 - Leadership

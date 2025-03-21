@@ -41,7 +41,7 @@ tags:
 - Agile Philosophy
 - Agile Frameworks
 - Agile Transformation
-- Empirical Process Control
+- Continuous Improvement
 resourceTypes:
 - video
 categories:

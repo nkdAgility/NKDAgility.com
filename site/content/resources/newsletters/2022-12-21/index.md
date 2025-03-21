@@ -23,6 +23,7 @@ categories:
 - Scrum
 tags:
 - News and Reviews
+- Competence
 
 ---
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]

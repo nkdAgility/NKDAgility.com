@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:49:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the pitfalls of prescriptive frameworks like Scrum, without a focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:36:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and the pitfalls of prescriptive methodologies, with no direct mention of Continuous Delivery practices. While it touches on themes of adaptability and innovation, it does not delve into the specific principles, practices, or tools associated with Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,14 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:29:07",
+    "calculated_at": "2025-03-21T18:36:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile principles and the pitfalls of prescriptive methodologies, but it lacks a direct focus on Evidence-Based Management. While it touches on the importance of data accessibility and informed decision-making, it does not provide substantial empirical evidence or metrics that are central to EBM. The discussion is more about Agile philosophy than the application of empirical evidence to enhance organisational agility.",
+    "reasoning": "The content discusses Agile principles and the pitfalls of prescriptive methodologies, but it does not explicitly focus on Evidence-Based Management. While it touches on the importance of data accessibility and informed decision-making, these concepts are secondary to the overall theme of Agile transformation. The depth of discussion on EBM-related metrics and empirical decision-making is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:47:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the pitfalls of prescriptive frameworks like Scrum, without a clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:36:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on Agile principles and critiques prescriptive methodologies, with only a brief mention of DevOps at the end. While it touches on themes of collaboration and adaptability, which are relevant to DevOps, the overall discussion is centred around Agile rather than the core principles of DevOps. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1483,12 +1489,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:09:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:36:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and critiques prescriptive methodologies like Scrum, indicating a focus on value delivery and organisational agility, but it primarily critiques traditional practices rather than providing a clear framework for the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile principles and critiques prescriptive methodologies, but it does not focus specifically on the Agile Product Operating Model or its key topics. While it touches on themes of adaptability and principles over prescriptions, it lacks a direct connection to product management practices or the operational aspects of APOM.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1506,15 +1515,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Agile methodologies, Scrum, and organisational principles without a direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:09:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile methodologies and critiques prescriptive frameworks like Scrum, without focusing on the principles or components of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1557,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and the pitfalls of prescriptive methodologies, with no direct mention or alignment to the Shift-Left Strategy. It focuses on fostering creativity and adaptability rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:36:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of principles over prescriptive methodologies in Agile, which aligns with the concept of Continuous Improvement. However, it primarily focuses on the pitfalls of rigid frameworks and the need for adaptability rather than providing a detailed exploration of Continuous Improvement practices or strategies. The mention of fostering a learning environment and empowering decision-making hints at Continuous Improvement, but the overall depth and focus on the category are limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:36:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the pitfalls of prescriptive methodologies in Agile and emphasises the importance of principles over rigid rules, which indirectly relates to the concept of Common Goals. However, it does not explicitly mention shared objectives or alignment with strategic goals, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:36:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of principles over prescriptive methodologies, which indirectly relates to competence by emphasising the need for adaptability and continuous learning. However, it does not explicitly focus on competence as a primary theme, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:36:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and critiques prescriptive approaches, which diverges from the core principles of the One Engineering System. While it touches on themes of collaboration and adaptability, it does not explicitly mention or focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

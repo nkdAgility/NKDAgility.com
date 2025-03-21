@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:57:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses organizational structures and their impact on agility, with only a brief mention of continuous delivery as a potential practice within teams.",
+    "calculated_at": "2025-03-21T18:37:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges of traditional organizational structures in adopting Agile methodologies, rather than focusing on Continuous Delivery practices. While it touches on themes of agility and iterative implementation, it lacks direct mentions of Continuous Delivery principles, automation, or specific strategies for software delivery. The discussion is more about organisational change than the delivery of software itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -823,11 +826,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:58:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the limitations of traditional organizational structures on agility, rather than focusing on evidence-based management principles or practices.",
+    "calculated_at": "2025-03-21T18:37:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the challenges of traditional organizational structures in relation to agility, without a direct focus on Evidence-Based Management principles. While it touches on themes like decision-making and customer value, it lacks explicit references to empirical evidence or metrics that are central to EBM. The discussion is more about agile practices and structures rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:55:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses traditional organizational structures and their impact on agility, with only a brief mention of DevOps at the end.",
+    "calculated_at": "2025-03-21T18:37:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the challenges posed by traditional organizational structures, which are not directly related to DevOps principles. While it touches on themes of collaboration and decentralization, it lacks a focus on the core aspects of DevOps such as automation, shared accountability, and continuous delivery. The discussion is more aligned with Agile practices rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1462,14 +1471,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:33:22",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T18:37:49",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the challenges posed by traditional hierarchical structures (the Alpha model) to agility, which is relevant to the Agile Product Operating Model. However, it primarily focuses on the barriers to agility rather than the principles and practices of the Agile Product Operating Model itself. While it touches on the need for a product-centric approach and the importance of empowering teams, it lacks a detailed exploration of the Agile Product Operating Model's core themes, such as continuous feedback, cross-functional teams, and value delivery metrics.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses the challenges posed by traditional organizational structures to agility, which is relevant to the Agile Product Operating Model. However, it primarily focuses on the Alpha organizational structure and its limitations rather than directly addressing the principles and practices of the Agile Product Operating Model. While it touches on themes like decentralization and customer value, it lacks a comprehensive exploration of APOM's core elements, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1491,15 +1500,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile organisational structures and their impact on agility, with no clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:10:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the limitations of traditional organizational structures on agile practices, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the challenges of traditional organizational structures in adopting Agile methodologies, focusing on leadership and structural changes rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:37:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges posed by traditional organizational structures to agility and outlines strategies for overcoming these barriers, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the transition to a more agile framework rather than explicitly discussing Continuous Improvement as a primary topic. The mention of iterative implementation and fostering a culture of trust and innovation indicates some alignment with Continuous Improvement, but the depth of discussion is more about structural change than ongoing improvement practices.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:37:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges posed by traditional organizational structures to agility, which indirectly relates to the concept of Common Goals. However, it primarily focuses on structural issues rather than explicitly addressing shared objectives or alignment within teams. The mention of empowering teams and aligning efforts towards customer value touches on aspects of Common Goals, but the overall discussion lacks depth and direct references to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:37:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges posed by traditional organizational structures to agility, which indirectly relates to competence by highlighting the need for empowerment and decision-making at lower levels. However, it primarily focuses on structural issues rather than directly addressing competence, continuous learning, or skill development. The mention of leadership's role in facilitating change touches on competence but lacks depth in exploring how to foster a culture of competence specifically.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:37:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of traditional organizational structures in relation to Agile methodologies, focusing on the Alpha model and its impact on agility. While it touches on themes of collaboration and decision-making, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on standardising or integrating software development practices across teams.",
     "level": "Ignored"
   }
 }

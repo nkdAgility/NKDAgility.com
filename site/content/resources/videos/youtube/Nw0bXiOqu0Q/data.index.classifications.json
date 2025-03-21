@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:58:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:26:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their benefits during recessions, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their benefits during recessions, with a focus on adaptability and customer value. While it touches on concepts like rapid feedback and iterative growth, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in Continuous Delivery specifics, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,15 +835,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:41:14",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T20:26:41",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Agile methodologies and their application in organisational contexts, particularly during recessions. It mentions Empirical Process Control, which aligns with EBM principles, but the primary focus is on Agile rather than EBM itself. While there are references to data-driven decision-making and continuous improvement, the depth of discussion on EBM principles is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses agile methodologies and their relevance during recessions, but it primarily focuses on agile as a framework rather than on evidence-based management principles. While there are mentions of empirical process control and the importance of data-driven decision-making, these concepts are not the primary focus. The discussion lacks depth in terms of specific evidence-based metrics or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:56:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:26:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their benefits, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile methodologies and their relevance during economic downturns, without a direct focus on DevOps principles or practices. While there are some overlapping themes, such as continuous improvement and cross-functional collaboration, the core discussion revolves around agile rather than the broader DevOps philosophy. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,22 +1487,16 @@
     "reasoning": "The content discusses agile methodologies and contrasts them with traditional management practices, touching on themes of decentralisation and adaptive organisational structures, but it primarily focuses on agile rather than the principles of Beta Codex specifically.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their benefits, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:36:01",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-21T20:26:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Agile principles and their application in creating value for customers, aligning with the Agile Product Operating Model. However, it also covers broader themes of organizational change and traditional management, making Agile a major but secondary theme.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile methodologies and their application in organisational contexts, particularly during recessions. While it touches on agile principles and the importance of adapting to market needs, it lacks a direct focus on the Agile Product Operating Model specifically. The discussion is more general about agile practices rather than delving into the specific frameworks and principles of APOM, which affects the depth and alignment scores.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile methodologies and their benefits during economic downturns, without explicitly addressing the Shift-Left Strategy. While it touches on concepts like rapid feedback loops and empirical process control, it does not focus on integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:26:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of agile methodologies in fostering continuous improvement, particularly during challenging times like recessions. It mentions empirical process control and the need for rapid feedback loops, which align with the principles of Continuous Improvement. However, while these concepts are present, the primary focus is more on agile as a framework rather than a deep exploration of Continuous Improvement itself. The discussion lacks extensive detail on specific Continuous Improvement strategies or case studies, which affects the depth score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:26:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile methodologies and their relevance during recessions, touching on themes of adaptability and value creation. However, it lacks a direct focus on Common Goals as defined in the category. While it mentions the importance of aligning team efforts with customer value, it does not delve deeply into the specific frameworks or techniques for operationalising Common Goals, such as OKRs or the relationship between strategic and tactical commitments. The discussion is more about Agile as a tool rather than a thorough exploration of shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:26:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of agile methodologies in fostering competence within organisations, particularly during challenging times. It highlights the need for continuous learning and skill development, which aligns well with the core themes of competence. The depth of discussion is significant, as it explores how agile practices can help teams identify and develop necessary skills, adapt to market changes, and improve decision-making processes. However, while competence is a primary focus, the content also touches on broader themes of organisational change and market adaptation, which slightly dilutes the focus on competence alone.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:26:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile methodologies and their benefits during recessions, without any direct mention or focus on the One Engineering System (1ES). While it touches on themes of adaptability and process improvement, it does not align with the core principles of 1ES, such as integration across teams or standardisation of practices. The depth of discussion is also limited to agile concepts rather than the comprehensive framework of 1ES.",
     "level": "Ignored"
   }
 }

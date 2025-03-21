@@ -30,8 +30,8 @@ tags:
 - Software Development
 - Frequent Releases
 - Working Software
-- Continuous Delivery
 - Software Developers
+- Continuous Delivery
 - Product Delivery
 - Practical Techniques and Tooling
 - Value Delivery

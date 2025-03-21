@@ -52,11 +52,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T15:00:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:14:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of chastity in Agile and the importance of inclusivity and time in decision-making, without a clear focus on evidence-based management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of thoughtful implementation in agile practices, which touches on aspects of decision-making and stakeholder engagement. However, it lacks direct references to evidence-based management principles, empirical metrics, or data-informed decision-making. The focus is more on cultural change and inclusivity rather than on the specific metrics and outcomes associated with EBM.",
     "level": "Ignored"
   },
   "Personal": {
@@ -379,23 +382,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:41:05",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T18:14:09",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses agile principles and the importance of thoughtful implementation, which aligns with the Agile Product Operating Model. However, it lacks direct references to product-centric development, value delivery, or specific Agile methodologies, making it more of a general discussion on agility rather than a focused exploration of the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses agility and the importance of thoughtful implementation, but it does not explicitly mention the Agile Product Operating Model or its core principles. While it touches on themes like stakeholder engagement and inclusivity, it lacks a direct focus on product management practices or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:01:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:13:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the importance of inclusivity in decision-making, without a clear focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile practices and the importance of thoughtful implementation, which does not directly address DevOps principles. While there are mentions of collaboration and stakeholder engagement, these are framed within an agile context rather than a DevOps philosophy. The focus is on agility rather than the integration of development and operations, which is central to DevOps.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -417,15 +423,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of taking time and involving people in decision-making within an agile context, rather than focusing on optimising throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:01:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile principles and personal insights rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1102,11 +1099,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:14:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility, organizational change, and inclusivity in decision-making, with no significant focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of thoughtful implementation, but it does not explicitly mention Continuous Delivery or its core themes. The focus is on organisational transformation and stakeholder engagement rather than on the practices and principles of Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of taking time in implementing agile practices and does not directly address the Shift-Left Strategy. While it touches on themes of engagement and inclusivity, it lacks specific references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:14:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of thoughtful implementation in agile practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the concept of 'chastity' in agility rather than explicitly addressing Continuous Improvement methodologies or frameworks. While it touches on themes of stakeholder engagement and inclusivity, it lacks detailed exploration of Continuous Improvement techniques or empirical evidence, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:14:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of aligning individual and organisational goals, which is a key aspect of Common Goals. However, it primarily focuses on the virtue of 'chastity' in the context of agility and does not explicitly mention Common Goals or related frameworks like OKRs. The discussion on stakeholder engagement and shared vision hints at alignment but lacks depth in exploring how these concepts operationalise Common Goals within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:14:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which indirectly relates to competence through the idea of careful planning and understanding. However, it lacks direct mentions of competence and does not delve deeply into skill development or continuous learning, which are core themes of the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:14:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of agility and the importance of thoughtful implementation, but it does not directly mention or focus on the One Engineering System (1ES). The themes of organisational transformation and stakeholder engagement are relevant to agile practices but do not align with the specific principles and components of 1ES. There is minimal depth regarding integration of tools and processes across teams, which is a core aspect of 1ES.",
     "level": "Ignored"
   }
 }

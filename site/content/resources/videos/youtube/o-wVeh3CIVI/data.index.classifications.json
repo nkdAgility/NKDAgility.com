@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:40:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:46:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an agile framework, and does not discuss DevOps principles, practices, or cultural shifts. While there are mentions of collaboration and team dynamics, these are not explicitly tied to DevOps concepts. The discussion lacks depth regarding DevOps, making it clear that the primary focus is on Scrum rather than the integration of development and operations.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:47:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum principles and mechanisms without addressing evidence-based decision making or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum as an agile framework, discussing its principles and mechanics without any reference to Evidence-Based Management concepts. There are no direct mentions of empirical evidence, data-informed decision-making, or the key topics outlined in the EBM category. The discussion is centred around Scrum's role in managing complexity, which does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -336,15 +342,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum, which is unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -646,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:47:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, without any direct mention or discussion of Continuous Delivery principles, practices, or benefits. While it touches on themes of teamwork and productivity, it does not align with the core topics of Continuous Delivery, such as automation, rapid feedback, or software quality. The depth of discussion is also minimal regarding Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -742,11 +742,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:46:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on the Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum as an agile framework, discussing its principles and mechanics. While it touches on agile concepts, it does not explicitly address the Agile Product Operating Model or its key topics. The discussion lacks depth regarding product management principles and the transition from project to product ethos, which are central to the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1479,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on Scrum, a framework for Agile project management, without any direct mention or discussion of the Shift-Left Strategy. While it touches on concepts of complexity and team organisation, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:46:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on explaining Scrum as an agile framework, with limited direct mentions of Continuous Improvement. While it touches on themes of team effectiveness and collaboration, it lacks a detailed discussion on Continuous Improvement practices, strategies, or empirical evidence. The content does not delve into the core principles of Continuous Improvement, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:46:49",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 43.0,
+    "reasoning": "The content discusses Scrum as a framework that facilitates organising around a shared purpose, which aligns with the concept of Common Goals. However, it primarily focuses on the mechanics of Scrum and its application in complex situations rather than explicitly addressing the significance of Common Goals in Agile and DevOps. The mention of shared purpose is relevant but not deeply explored, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:46:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on explaining the Scrum framework and its application in navigating complexity. While it touches on themes relevant to Agile methodologies, such as teamwork and productivity, it does not explicitly discuss competence, continuous learning, or skill development. The mention of enhancing team productivity is vague and does not delve into the depth of competence as defined in the category. Overall, the content lacks a strong focus on the principles of competence, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:46:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum, an agile framework, and does not discuss the One Engineering System (1ES) or its principles. While it touches on concepts related to software development, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

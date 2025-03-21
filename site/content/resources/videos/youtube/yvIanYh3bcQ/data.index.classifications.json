@@ -170,15 +170,6 @@
     "reasoning": "Content primarily discusses lean governance and its implications in organizations, without personal anecdotes or experiences.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T18:28:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the concept of lean governance and compliance rather than the principles and components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T18:28:00",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T18:28:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:44:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses lean governance and how to reduce bureaucracy rather than focusing on evidence-based management principles or empirical data-driven decision making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses governance and its impact on agility and innovation, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on governance rather than empirical evidence or metrics related to value delivery, making it a secondary topic rather than a primary focus on EBM.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1198,11 +1192,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T18:28:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses governance and compliance in organizations, not Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T16:44:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses governance and compliance in organisations, focusing on lean governance principles. While it touches on aspects of agility and efficiency, it does not explicitly mention Continuous Delivery or its core principles, nor does it provide substantial detail on related practices such as automation, rapid feedback, or incremental improvements. The primary focus is on governance rather than software delivery practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses governance and compliance but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on the importance of integrating compliance into processes, it lacks a direct focus on early integration of testing, security, or compliance in the software development lifecycle, which is central to the Shift-Left concept. The discussion is more about governance and its impact on agility rather than a proactive approach to software quality.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:43:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses lean governance and the need to streamline processes, which aligns with the principles of Continuous Improvement. However, it primarily focuses on governance rather than explicitly addressing Continuous Improvement as a primary theme. The mention of strategies for eliminating waste and assessing processes indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:43:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses governance and its impact on agility and innovation, but it does not explicitly mention Common Goals or their significance in Agile and DevOps. While it touches on the importance of aligning processes with organisational objectives, it lacks a focused discussion on shared goals or frameworks like OKRs. The depth of discussion on aligning strategy with execution is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:43:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses governance and its impact on organisational agility, touching on the importance of streamlining processes and compliance. However, while it mentions the need for efficiency and value, it does not explicitly focus on competence as a primary theme. The discussion lacks depth in terms of continuous learning or skill development, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:44:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses governance and lean principles but does not explicitly mention the One Engineering System (1ES) or its core components. While it touches on themes of process optimisation and compliance, these are not directly aligned with the integration and standardisation focus of 1ES. The discussion lacks depth in relation to 1ES principles, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

@@ -130,11 +130,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:54:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses communication gaps in Agile teams, focusing on Agile principles rather than DevOps practices.",
+    "calculated_at": "2025-03-21T18:29:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses communication gaps within Agile teams, which is tangentially related to DevOps principles of collaboration and value delivery. However, it lacks direct mentions of DevOps practices or principles, and the depth of discussion does not sufficiently cover the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -169,11 +172,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses communication gaps in Agile teams without mentioning Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses communication gaps within Agile teams, which is tangentially related to Continuous Delivery but does not focus on its principles or practices. While it mentions the importance of delivering value and the consequences of silence on value delivery, it lacks a direct discussion on Continuous Delivery practices, automation, or specific strategies for incremental improvements. The depth of discussion is limited to communication strategies rather than the broader Continuous Delivery framework.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -964,12 +970,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:11:25",
-    "ai_confidence": 25,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "Content touches on communication issues within Agile teams but does not focus on the Agile Product Operating Model or product-centric development.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T18:29:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses communication gaps within Agile teams, which is relevant to Agile practices but does not explicitly focus on the Agile Product Operating Model. While it touches on themes of collaboration and value delivery, it lacks a direct connection to the principles and frameworks of APOM. The depth of discussion on Agile principles is present, but it does not delve into product management or the operational aspects of APOM, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1174,11 +1183,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses communication gaps in Agile teams rather than focusing on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses communication gaps in Agile teams, which indirectly relates to the delivery of value and team alignment. However, it lacks direct references to Evidence-Based Management principles, empirical metrics, or data-informed decision-making. The focus is primarily on communication strategies rather than on evidence-based practices or metrics that would enhance management decisions.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1233,15 +1245,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to communication gaps in Agile teams but does not focus on employee engagement, motivation, or commitment.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses communication gaps within Agile teams and does not focus on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses communication gaps in Agile teams, focusing on the importance of dialogue and feedback rather than integrating testing, security, or compliance early in the development process. While it touches on Agile principles, it does not directly address the Shift-Left Strategy or its core themes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:29:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of open communication in Agile teams, which indirectly relates to Continuous Improvement by highlighting the need for feedback and adaptation. However, it does not explicitly mention Continuous Improvement principles or frameworks, and the focus is more on communication rather than systematic improvement processes.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:29:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of communication in Agile teams, which indirectly relates to Common Goals by highlighting the need for alignment and open dialogue to achieve shared objectives. However, it primarily focuses on the issue of silence rather than explicitly addressing Common Goals or their significance in Agile and DevOps frameworks. The depth of discussion on Common Goals is minimal, as the content does not delve into strategic alignment or frameworks like OKRs.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:29:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 7,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of communication in Agile teams, which indirectly relates to competence by highlighting how silence can hinder team effectiveness and trust. However, the primary focus is on communication gaps rather than on competence itself. While it mentions the need for open dialogue and feedback, it does not delve deeply into continuous learning or skill development, which are core themes of competence. Therefore, while there are relevant points, they are not the main focus, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:29:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses communication issues within Agile teams, which is not directly related to the One Engineering System framework. While it touches on collaboration and value delivery, it lacks explicit references to 1ES principles, components, or implementation strategies. The discussion is more focused on Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

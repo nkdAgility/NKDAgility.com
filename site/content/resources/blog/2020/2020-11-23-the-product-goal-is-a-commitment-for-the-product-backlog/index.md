@@ -27,13 +27,13 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Professional Scrum
+- Common Goals
 - Agile Project Management
 - Software Development
 - Product Delivery
 - Agile Frameworks
 - Agile Planning
 - Product Backlog
-- Product Owner
 categories:
 - Scrum
 - Product Management

@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Coaching
 - Software Development
+- Competence
 - Personal
 - Agile Transformation
 - Mentoring

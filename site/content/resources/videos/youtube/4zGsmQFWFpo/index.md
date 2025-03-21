@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Competence
 - People and Process
 - Continuous Learning
 - Organisational Culture
@@ -38,7 +39,6 @@ tags:
 - Scrum Team
 - Scrum Master
 - Agile Leadership
-- Software Development
 resourceTypes:
 - video
 layout: video

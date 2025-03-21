@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:53:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:39:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and workshops, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training, which is a specific methodology rather than the broader DevOps philosophy. There are no direct mentions of DevOps principles, and the discussion lacks depth regarding collaboration, automation, or shared accountability, which are core to DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -241,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:39:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and workshops, which are not directly related to Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of relevant topics such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -372,15 +378,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about Scrum training and workshops, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and workshops, which are unrelated to the principles and components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1132,11 +1129,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:39:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on training for Scrum Product Owner rather than a comprehensive discussion on the Agile Product Operating Model.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Scrum training and workshops, which are related to agile practices but do not specifically address the Agile Product Operating Model. There are no direct mentions of product management principles or the transition from project to product ethos, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1339,11 +1339,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:39:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training and promotional material for Scrum without mentioning Evidence-Based Management principles or data-driven approaches.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training programme and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of empirical decision-making or the key topics outlined in the EBM category. The content lacks depth and does not align with the core themes of EBM, making it unsuitable for this classification.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1413,6 +1416,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on a training overview for Scrum roles and does not mention or align with the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance early in the development process, nor any related techniques or case studies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:39:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training programme and does not explicitly discuss Continuous Improvement principles. While Scrum can relate to Continuous Improvement, the content lacks direct mentions, conceptual alignment, and depth regarding the category's core themes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:39:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training programme and does not explicitly discuss Common Goals or their significance within Agile or DevOps frameworks. While it mentions Scrum, it lacks a detailed exploration of how shared objectives align with team efforts or organisational performance, which are key aspects of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:39:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions Scrum training, which relates to competence in a general sense, but it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The focus is more on promoting a training session rather than exploring the principles of competence in depth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:39:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum training, which is not directly related to the One Engineering System framework. While it mentions training and workshops, it does not discuss the principles, integration, or best practices of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

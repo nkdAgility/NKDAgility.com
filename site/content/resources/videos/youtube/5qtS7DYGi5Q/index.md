@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Decision Making
+- Evidence Based Management
 - Evidence Based Leadership
+- Continuous Improvement
 - Ability to Innovate
 - Discovery and Learning
 - Pragmatic Thinking
 - Operational Practices
 - Customer Satisfaction
-- Evidence Based Management
 - Value Delivery
-- Metrics and Learning
 resourceTypes:
 - video
 layout: video

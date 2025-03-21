@@ -253,14 +253,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-03-21T16:40:10",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the challenges of scaling organisations and the importance of maintaining agility, but it lacks explicit references to Evidence-Based Management principles or empirical data. While it touches on themes of adaptability and innovation, it does not provide detailed insights into data-driven decision-making or metrics, which are central to EBM.",
+    "reasoning": "The content discusses scaling teams and fostering innovation but does not explicitly mention Evidence-Based Management or its key topics. While it touches on themes of agility and adaptability, it lacks a focus on empirical evidence or metrics that are central to EBM. The discussion is more about organisational behaviour and culture rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
@@ -1081,14 +1081,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-03-21T16:40:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses agility and scaling in teams but does not explicitly mention Continuous Delivery or its core principles. While it touches on themes of innovation and adaptability, it lacks a direct focus on the practices and methodologies of Continuous Delivery, such as automation, deployment strategies, or maintaining a production-ready state. The discussion is more aligned with general agile principles rather than the specificities of Continuous Delivery.",
+    "reasoning": "The content discusses scaling teams and fostering innovation, which are related to agile practices but do not specifically address Continuous Delivery principles. While it touches on themes of agility and responsiveness, it lacks direct mentions of Continuous Delivery, automation, or deployment strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1643,18 +1643,6 @@
     "reasoning": "The content discusses the challenges of scaling agility and the pitfalls of rigid structures, which aligns with the core themes of the category. However, it lacks specific frameworks or detailed strategies for scaling agility, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses scaling and agility in software development but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of innovation and adaptability, it lacks a direct focus on the integration and standardisation of engineering processes that are central to 1ES. The discussion is more about general agility rather than the specific framework of 1ES.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1869,6 +1857,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses scaling teams and the challenges of bureaucracy but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on agility and innovation, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:39:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility and innovation, which aligns with the principles of Continuous Improvement. However, it does not explicitly mention Continuous Improvement or its key topics, leading to a moderate confidence score. The depth of discussion on fostering a culture of empowerment and streamlining processes contributes positively, but the overall focus is more on scaling and innovation rather than Continuous Improvement itself.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:39:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of maintaining agility and innovation, which indirectly relates to the concept of Common Goals. However, it does not explicitly mention Common Goals or their significance in Agile and DevOps frameworks. The focus is more on the practical implications of scaling rather than aligning strategy with execution. While there are elements of team empowerment and communication that touch on shared objectives, the overall discussion lacks depth in connecting these ideas to the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:40:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling teams and the importance of maintaining agility and innovation, which indirectly relates to competence. However, it primarily focuses on organisational structures and processes rather than explicitly addressing continuous learning, skill development, or the core themes of competence. The mention of empowering teams and fostering a culture of accountability touches on competence but lacks depth and direct discussion on the topic.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:40:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling teams and the challenges of bureaucracy, which are relevant to software development practices. However, it does not explicitly mention the One Engineering System or its principles. The focus is more on agile methodologies and team dynamics rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

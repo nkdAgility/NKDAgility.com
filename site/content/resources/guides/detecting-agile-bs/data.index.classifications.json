@@ -751,15 +751,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:48:11",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 20,
+    "calculated_at": "2025-03-21T17:10:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses agile development principles and practices, which align with the core themes of Evidence-Based Management, particularly in the context of using empirical data to inform decision-making. However, while it touches on metrics and user feedback, it lacks a focused discussion on EBM principles as outlined by Schwaber and Sutherland, and does not provide in-depth case studies or strategies for fostering a culture of evidence-based decision-making.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Agile methodologies and how to identify genuine Agile practices versus traditional approaches. While it touches on some aspects of empirical decision-making and user feedback, it lacks a focused discussion on Evidence-Based Management principles. The emphasis is more on Agile practices rather than on using empirical evidence to drive management decisions, which is central to EBM.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -886,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:10:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Continuous Delivery, particularly in relation to automation and the importance of feedback loops, but primarily focuses on identifying and critiquing agile practices rather than being solely about Continuous Delivery.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles and practices, which are closely related to Continuous Delivery, particularly in the context of automation, user feedback, and iterative development. However, it primarily focuses on identifying genuine Agile practices versus misapplications, rather than delving deeply into Continuous Delivery itself. While it mentions continuous integration and deployment tools, the overall emphasis is more on Agile methodology than on Continuous Delivery principles specifically.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -1490,15 +1493,6 @@
     "reasoning": "Content primarily discusses agile development practices and tools, focusing on identifying genuine agile methodologies versus traditional approaches, rather than the principles of BetaCodex or its human-centric, decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile methodologies and practices, with a focus on identifying genuine Agile practices versus misapplications, rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:59",
@@ -1575,6 +1569,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile principles and practices, including the importance of user feedback and continuous integration, which are relevant to the Shift-Left Strategy. However, it does not explicitly focus on integrating testing, security, and compliance earlier in the development process, which is central to the Shift-Left concept. The discussion is more about identifying genuine Agile practices rather than a detailed exploration of Shift-Left methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:10:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses agile development and the importance of user feedback, which aligns with Continuous Improvement principles. However, it primarily focuses on identifying non-agile practices rather than promoting Continuous Improvement as a core theme. The depth of discussion on Continuous Improvement techniques and strategies is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:10:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and values, which are related to the concept of Common Goals, but it primarily focuses on identifying whether projects are genuinely Agile or merely adopting Agile terminology. While it touches on aspects of alignment and user feedback, it lacks a thorough exploration of how Common Goals specifically guide decision-making and connect individual contributions to the organisation's mission. The depth of discussion on Agile values provides some relevant context, but it does not sufficiently address the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:10:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of competence in agile development, particularly through the lens of identifying genuine agile practices versus performative ones. It explicitly mentions 'competence trumps process' as a guiding maxim, indicating a direct focus on the concept of competence. The document aligns well with the core themes of continuous learning, quality outcomes, and the necessity of user feedback, which are essential for maintaining competence in Agile environments. Additionally, it provides a detailed exploration of questions and considerations for assessing competence in software development practices, demonstrating a significant depth of discussion on the topic.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:10:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on agile methodologies and their implementation within the Department of Defense, discussing how to identify true agile practices versus traditional methods. While it touches on some tools and practices that could relate to a unified engineering system, it does not explicitly discuss the One Engineering System framework or its principles. The emphasis is on agile values and practices rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

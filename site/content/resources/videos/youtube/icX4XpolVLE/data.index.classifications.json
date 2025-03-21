@@ -724,11 +724,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T17:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and insights related to DevOps, application life cycle management, and cultural shifts in software development, without a clear focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T17:38:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the evolution of DevOps and the challenges associated with its implementation. While it touches on themes like continuous improvement and feedback loops, it lacks a direct focus on Evidence-Based Management principles. The discussion is more centred on personal experiences and challenges rather than empirical evidence or metrics that inform decision-making, which is crucial for EBM.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -850,14 +853,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T19:12:47",
+    "calculated_at": "2025-03-21T17:38:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses the evolution of DevOps and highlights the importance of automation and integration, which are key aspects of Continuous Delivery. However, it primarily focuses on broader DevOps principles rather than specifically addressing Continuous Delivery practices. While there are mentions of automation and deployment processes, the depth of discussion on Continuous Delivery itself is limited, making it a secondary focus rather than a primary one.",
+    "reasoning": "The content discusses the evolution of DevOps and highlights the importance of automation, cultural shifts, and continuous learning, which are relevant to Continuous Delivery. However, while it touches on key aspects like automation and feedback loops, it primarily focuses on broader DevOps principles rather than specifically on Continuous Delivery practices. The mention of continuous delivery as a value proposition is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -1318,14 +1321,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:45:36",
-    "ai_confidence": 92.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 95.0,
+    "calculated_at": "2025-03-21T17:37:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
-    "reasoning": "The content provides a comprehensive exploration of DevOps principles, practices, and challenges, including personal experiences that highlight the importance of cultural shifts, automation, and continuous delivery. It discusses the evolution from application lifecycle management to DevOps, emphasising the integration of people, processes, and tools. The author shares specific challenges faced in implementing DevOps, the significance of collaboration, and the necessity of continuous learning, all of which align closely with the core themes of the DevOps category. The depth of discussion is substantial, covering various aspects of DevOps, including metrics, toolchain integration, and real-world examples, which further solidifies its relevance to the category.",
+    "final_score": 83.0,
+    "reasoning": "The content provides a comprehensive exploration of the author's journey through DevOps, explicitly discussing its principles, challenges, and the importance of cultural shifts, automation, and continuous improvement. It aligns well with the core themes of DevOps, such as collaboration, shared accountability, and the integration of processes and tools. The depth of discussion is significant, covering real-world examples and the evolution of practices, which reinforces its primary focus on DevOps.",
     "level": "Primary"
   },
   "Systems Thinking": {
@@ -1478,23 +1481,17 @@
     "reasoning": "The content discusses DevOps principles, automation, and toolchain integration, which are relevant to platform engineering, but the primary focus is on personal experiences and challenges in the DevOps journey rather than a direct exploration of platform engineering concepts.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:13:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges in DevOps, with a focus on cultural shifts, toolchain integration, and continuous learning, rather than the specific principles and components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:13:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and their relationship with DevOps, highlighting the importance of cultural shifts, collaboration, and continuous learning, which are relevant to the Agile Product Operating Model. However, the primary focus is on DevOps practices rather than a direct exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:38:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses DevOps and its evolution, focusing on challenges and cultural shifts rather than the Agile Product Operating Model. While it touches on agile principles, such as collaboration and continuous improvement, it does not delve into the specific frameworks or principles of APOM, making it a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1560,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses DevOps and its challenges, touching on automation and integration, which are relevant to the Shift-Left Strategy. However, it lacks a direct focus on integrating testing, security, and compliance early in the development process, which is central to the Shift-Left concept. The discussion is more about general DevOps principles and cultural shifts rather than a specific emphasis on the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:37:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the evolution of DevOps, highlighting the importance of continuous improvement through automation, cultural shifts, and feedback loops. It aligns well with the principles of Continuous Improvement by emphasising ongoing learning, adaptation, and the integration of processes and tools to enhance team effectiveness. The depth of discussion on challenges and strategies for fostering a culture of experimentation further supports its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:37:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the evolution of DevOps and the challenges faced, but it primarily focuses on personal experiences and anecdotes rather than explicitly addressing Common Goals. While it touches on themes of collaboration and cultural shifts, it lacks a direct emphasis on aligning strategy with execution or shared objectives that guide decision-making, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:38:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill development in the context of DevOps, particularly highlighting the need for ongoing adaptation and a culture of experimentation. It explicitly mentions the necessity for a cultural shift towards automation and collaboration, which aligns with the core themes of competence. The depth of discussion is significant, as it provides real-world examples and insights into the challenges faced in fostering competence within teams. Overall, while the primary focus is on the evolution of DevOps, competence is a central theme that is well-explored.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:38:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the evolution of DevOps and the challenges associated with its implementation, rather than focusing on the One Engineering System (1ES) framework. While there are mentions of integration and collaboration, these are framed within the context of DevOps rather than the specific principles and components of 1ES. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -673,11 +673,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T13:58:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:13:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban practices in the context of Scrum, with no clear focus on Continuous Delivery principles or methodologies.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Kanban in the context of Scrum, focusing on flow optimization and metrics rather than Continuous Delivery principles. While it touches on aspects like feedback loops and flow management, it does not explicitly address Continuous Delivery practices or principles, making it a secondary focus rather than a primary discussion.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -850,14 +853,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:42:18",
-    "ai_confidence": 42.0,
-    "ai_mentions": 3,
+    "calculated_at": "2025-03-21T17:13:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 45.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses Kanban practices in relation to Scrum, focusing on flow metrics and empirical process control, which aligns with EBM principles. However, it primarily centres on Kanban rather than EBM itself, leading to a moderate confidence score.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban practices within the Scrum framework, discussing flow metrics and empirical process control. While it touches on concepts like cycle time and work in progress, which relate to Evidence-Based Management, the overall emphasis is on Kanban and Scrum rather than a dedicated exploration of evidence-based practices in management. Therefore, it does not fully align with the category's primary focus.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1496,15 +1499,6 @@
     "reasoning": "Content primarily discusses Kanban practices within the Scrum framework, focusing on flow optimization and empirical process control, rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:12:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban practices in relation to the Scrum framework, without a focus on the One Engineering System principles or integration of tools and processes across teams.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:13:05",
@@ -1578,6 +1572,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban practices within the Scrum framework, discussing flow metrics and process optimisation. While it touches on aspects of feedback loops and continuous delivery, it does not explicitly address the Shift-Left Strategy or its core principles, such as early integration of testing, security, or compliance in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:13:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Kanban practices in relation to Scrum, highlighting the importance of flow, empirical process control, and metrics for improving team effectiveness. While it touches on aspects of Continuous Improvement, such as inspection and adaptation, the primary focus is on integrating Kanban with Scrum rather than a dedicated exploration of Continuous Improvement principles. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:13:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, discussing flow metrics and process optimisation. While it touches on aspects of team collaboration and efficiency, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in connecting individual contributions to overarching organisational objectives, which is central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:13:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban with Scrum, discussing flow metrics and practices rather than directly addressing the concept of competence. While it touches on aspects of team management and improvement, it lacks a strong emphasis on continuous learning, skill development, or the professional growth of team members, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:13:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban with Scrum, discussing practices and metrics specific to these methodologies. While it touches on concepts of flow and efficiency, it does not explicitly address the One Engineering System framework or its principles, components, or implementation. The discussion is more about enhancing Scrum with Kanban rather than standardising and integrating software development practices across teams as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

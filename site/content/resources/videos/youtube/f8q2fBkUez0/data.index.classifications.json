@@ -619,11 +619,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:07:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:17:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses financial literacy and employee-employer relationships, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Continuous Integration/Continuous Delivery (CI/CD) in the context of financial awareness and employee motivation, but it does not focus on Continuous Delivery principles or practices. The discussion primarily revolves around financial literacy and its impact on employee motivation, which is only tangentially related to Continuous Delivery. The depth of discussion on Continuous Delivery is minimal, as the content does not explore its core themes or provide substantial insights into its practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -787,12 +790,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T23:08:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses financial literacy and personal perspectives on money within organisations, rather than focusing on the principles and practices of Evidence-Based Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T17:17:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses financial awareness and its impact on employee motivation, which indirectly relates to Evidence-Based Management by highlighting the importance of understanding costs and making informed decisions. However, it lacks direct references to EBM principles and does not focus on empirical evidence or metrics that are central to the category.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1379,15 +1385,6 @@
     "reasoning": "The content primarily discusses financial awareness and motivation in the context of employee-employer relationships, without a clear focus on the principles or practices of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:16:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses financial awareness and motivation in the workplace, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:14:15",
@@ -1461,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses financial awareness and employee motivation, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of communication and decision-making in a development context, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:17:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of financial awareness in relation to employee motivation and decision-making, which indirectly touches on aspects of Continuous Improvement. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, measurable advancements, or specific strategies for integrating Continuous Improvement into organisational processes. The discussion is more centred on financial literacy and its impact on motivation rather than on continuous improvement methodologies or frameworks.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:17:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of financial awareness in relation to employee motivation, which indirectly touches on the concept of aligning individual contributions with organisational goals. However, it primarily focuses on financial literacy and personal anecdotes rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The discussion lacks a direct connection to shared objectives or strategic alignment, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:17:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of financial awareness in relation to employee motivation, which indirectly touches on competence by highlighting the need for employees to understand the financial implications of their work. However, while it mentions aspects of competence, such as decision-making and the need for skill development in financial literacy, it does not focus primarily on competence as a foundational principle in Agile or DevOps methodologies. The depth of discussion on competence is moderate, as it provides examples and reflections but does not delve deeply into strategies for fostering a culture of competence or continuous learning.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:17:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses financial awareness and employee motivation, with only a brief mention of agile practices and Scrum. It does not focus on the One Engineering System framework or its principles, components, or implementation. The discussion lacks depth regarding 1ES and does not address integration of tools or processes across teams, which are core themes of the category.",
     "level": "Ignored"
   }
 }

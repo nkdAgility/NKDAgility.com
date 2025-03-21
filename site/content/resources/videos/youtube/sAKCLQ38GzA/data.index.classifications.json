@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T02:01:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:38:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses motivation, purpose, and team dynamics, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses motivation within Agile practices and does not explicitly address Continuous Delivery principles or practices. While it touches on Agile methodologies, it lacks a focus on the delivery aspects, automation, or the specific benefits of Continuous Delivery. The discussion is more about intrinsic motivation and leadership in Agile rather than the continuous delivery process itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T02:02:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses motivation theories and the importance of purpose in work, without a clear focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T18:38:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses motivation and purpose in Agile practices, referencing Simon Sinek's concept of 'starting with why'. While it touches on intrinsic motivation and leadership's role in fostering purpose, it lacks a direct focus on Evidence-Based Management principles such as empirical decision-making or specific metrics related to current value, time to market, or unrealised value. The discussion is more aligned with Agile methodologies rather than evidence-based practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1282,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:59:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses motivation, purpose, and team dynamics, with only a brief mention of Agile and DevOps at the end, which does not constitute a central theme.",
+    "calculated_at": "2025-03-21T18:37:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of motivation within Agile teams, which is tangentially related to DevOps but does not focus on the core principles of DevOps itself. While it touches on collaboration and feedback, it lacks a direct emphasis on the integration of development and operations, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1474,15 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:34:39",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T18:38:11",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of purpose in Agile practices, which aligns with the Agile Product Operating Model's focus on value delivery and team alignment. However, it primarily centres on motivation and leadership rather than the broader principles and strategies of the Agile Product Operating Model, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of purpose and motivation within Agile practices, referencing concepts like intrinsic motivation and the role of leadership. However, it does not explicitly address the Agile Product Operating Model or its core principles. While it touches on Agile themes, it lacks depth in discussing product management integration and operational governance, which are central to the APOM framework.",
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1503,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses motivation and organisational culture, with no clear focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:10:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses motivation theories and personal insights on work culture, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of understanding motivation within Agile practices, focusing on the concept of 'starting with why' as proposed by Simon Sinek. While it touches on Agile principles, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding the Shift-Left approach, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:38:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of intrinsic motivation and purpose in Agile practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on motivation rather than explicitly addressing Continuous Improvement methodologies or strategies. While it mentions feedback and adaptation, it lacks detailed exploration of Continuous Improvement frameworks or case studies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:38:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of purpose and motivation in Agile practices, which aligns with the concept of Common Goals. It mentions aligning daily tasks with a broader vision and the role of leadership in cultivating purpose, indicating a connection to shared objectives. However, the primary focus is on motivation rather than explicitly defining or detailing Common Goals, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:38:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of intrinsic motivation, particularly mastery, which aligns with the concept of competence. It highlights the role of purpose in Agile practices and how it can drive engagement and skill development. However, while competence is a significant theme, the primary focus is on motivation rather than a detailed exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:38:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of motivation within Agile and Scrum frameworks, discussing intrinsic motivators and leadership roles in fostering purpose. While it touches on Agile practices, it does not explicitly mention or align with the principles of the One Engineering System, which is centred on standardising and integrating software development practices across teams. The discussion lacks depth regarding 1ES and does not provide insights into its implementation or impact.",
     "level": "Ignored"
   }
 }

@@ -1,12 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:11:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses running Live Virtual Classrooms and technology choices, which are not central to DevOps principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:58:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions DevOps in the context of agile training but primarily focuses on agile leadership and training methodologies. While there are elements of collaboration and value delivery that align with DevOps principles, the discussion lacks depth in core DevOps topics such as automation, shared accountability, and continuous improvement. The primary focus remains on agile practices rather than a comprehensive exploration of DevOps as a philosophy.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -250,11 +253,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses running a Professional Agile Leadership class, focusing on technology choices, rather than Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:59:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile leadership and training rather than Continuous Delivery specifically. While it touches on themes of delivering value and fostering self-organisation, it lacks direct mentions of Continuous Delivery principles, automation in deployment, or specific strategies for incremental improvements. The depth of discussion on agile practices is present, but it does not delve into Continuous Delivery as a primary focus.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -387,15 +393,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses running a Professional Agile Leadership class and the technology used, which is unrelated to Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an Agile leadership class and the use of virtual classroom technologies, which does not align with the key topics of One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1174,11 +1171,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a Live Virtual Classroom experience and does not relate to the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T20:58:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses agile leadership and the shift from management to leadership, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on training and leadership rather than the specific frameworks and practices of APOM. While there are mentions of delivering value and fostering self-organisation, the depth of discussion on APOM principles and product management practices is limited.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1387,11 +1387,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the experience of running a virtual class and does not address principles of Evidence-Based Management or empirical data relevant to management practices.",
+    "calculated_at": "2025-03-21T20:58:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile leadership and training, with a focus on self-organisation and value delivery. While it touches on concepts relevant to Evidence-Based Management, such as creating value and adapting to team needs, it lacks explicit references to empirical evidence or metrics that are central to EBM. The discussion is more about agile practices than data-informed decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1461,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile leadership and virtual training, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on themes of collaboration and continuous learning, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:58:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses agile leadership and the importance of fostering environments for team growth, which aligns with the principles of Continuous Improvement. However, it primarily focuses on leadership and training rather than specific Continuous Improvement practices or methodologies. While there are mentions of adapting and learning, the depth of discussion on Continuous Improvement techniques and empirical evidence is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:58:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and the importance of fostering self-organisation and value delivery, which are relevant to Common Goals. However, it primarily focuses on the training experience and personal development rather than explicitly addressing shared objectives or strategic alignment within teams. The discussion lacks depth in connecting these concepts to the overarching principles of Agile and DevOps, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:58:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of agile leadership and continuous learning, which aligns with the core themes of competence. It mentions fostering self-organisation and delivering value, indicating a focus on skill development. However, while it touches on these aspects, the depth of discussion on competence itself is somewhat limited, focusing more on the broader context of agile training rather than delving deeply into strategies for fostering competence specifically.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:58:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile leadership and virtual training, with no direct mention of the One Engineering System (1ES) framework or its principles. While it touches on themes of collaboration and team dynamics, it does not provide substantial detail on the integration of tools or processes across teams, nor does it address the standardisation of software development practices, which are core to 1ES. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   }
 }

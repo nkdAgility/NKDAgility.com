@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:26:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:31:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and practices, with a focus on values and complex work, rather than Continuous Delivery methodologies.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and the nature of complex work, touching on automation in the context of software development. However, it does not explicitly focus on Continuous Delivery practices or principles. While there are mentions of automation and continuous improvement, these are not explored in the context of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:26:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:31:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and the distinction between complicated and complex work, without a clear focus on Evidence-Based Management practices or empirical data application.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile principles and values, focusing on the distinction between complicated and complex work. While it touches on the importance of adapting practices based on learning and experimentation, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in terms of empirical decision-making or metrics that assess current value, time to market, or ability to innovate, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1282,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:24:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:31:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and Scrum practices, with no clear focus on DevOps concepts or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and methodologies, focusing on values and principles rather than DevOps practices. While there are mentions of automation and continuous improvement, these concepts are framed within the Agile context rather than the DevOps philosophy. The discussion lacks a direct focus on the integration of development and operations, shared accountability, or the cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1490,17 @@
     "reasoning": "The content discusses Agile principles and values, which align with human-centric and adaptive organisational practices, but it primarily focuses on Agile methodologies rather than the specific principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:39:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and practices, with a focus on Scrum, rather than the One Engineering System framework or its integration and standardisation of engineering processes.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:39:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:31:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and values, which are relevant to the Agile Product Operating Model, but it primarily focuses on the nature of complex work and the importance of values in Agile rather than explicitly addressing the product-centric approach or value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and values, which are foundational to the Agile Product Operating Model. However, it primarily focuses on the distinction between complicated and complex work rather than explicitly addressing the APOM framework or its specific principles. The depth of discussion on product management practices is limited, and while there are mentions of Scrum values, the content does not delve into the integration of Scrum with product management or the operational aspects of APOM.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and the nature of complex versus complicated work, without explicitly addressing the Shift-Left Strategy. While it touches on themes of continuous improvement and adaptation, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:31:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and the importance of values in navigating complex work, which indirectly relates to Continuous Improvement. However, it does not explicitly focus on Continuous Improvement practices or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:31:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and values, which are foundational to the Agile framework. However, it does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on the importance of values in guiding work, it lacks a direct focus on shared objectives or the relationship between strategic and tactical commitments. The depth of discussion on Agile principles is notable, but it does not sufficiently connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:31:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of values and principles in Agile, which indirectly relates to competence through the emphasis on continuous learning and adaptation. However, it does not explicitly focus on competence as a primary theme, nor does it provide in-depth strategies for fostering a culture of competence. The discussion on complex versus complicated work touches on the necessity of skills and knowledge but lacks a detailed exploration of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:31:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and methodologies, focusing on values and principles rather than the One Engineering System framework. While it touches on concepts relevant to software development, it does not explicitly mention 1ES or its components, nor does it provide depth on integration or standardisation of engineering processes. The discussion is more about Agile's adaptability and complexity rather than the unified approach that 1ES advocates.",
     "level": "Ignored"
   }
 }

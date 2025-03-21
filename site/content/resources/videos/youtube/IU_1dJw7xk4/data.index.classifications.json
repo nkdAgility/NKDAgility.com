@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:03:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the transition from traditional project management to Kanban, focusing on agile methodologies rather than Continuous Delivery principles.",
+    "calculated_at": "2025-03-21T17:45:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is an Agile methodology. While it discusses incremental improvements and gradual changes, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion is more about Agile practices rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,15 +838,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:34:38",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T17:45:46",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses Kanban as a method for transitioning from traditional project management to Agile, focusing on gradual improvements and data collection. While it mentions collecting metrics and using data to inform decisions, it does not explicitly discuss Evidence-Based Management principles or practices. The primary focus is on Kanban rather than EBM, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on transitioning to Kanban and does not explicitly discuss Evidence-Based Management. While it mentions collecting metrics and using data to identify areas for improvement, these points are secondary to the main topic of Kanban. The discussion lacks depth in terms of EBM principles and does not align closely with the core themes of current value, time to market, or empirical decision-making.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1291,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:01:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:45:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses the transition from traditional project management to Kanban, focusing on project management methodologies rather than DevOps principles or practices.",
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is an Agile methodology. While it briefly mentions DevOps in the context of a conversation, the main discussion revolves around Kanban and Agile practices, lacking a direct focus on DevOps principles such as collaboration, automation, and shared accountability. The content does not delve into the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1475,22 +1481,16 @@
     "reasoning": "Content primarily discusses project management methodologies, specifically Kanban and Scrum, without any direct connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:15:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the transition from traditional project management to Kanban, focusing on agile methodologies rather than the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the transition from traditional project management to Kanban, focusing on process optimisation rather than the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T17:45:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is an agile methodology. While it discusses aspects of agile practices, it does not explicitly address the Agile Product Operating Model or its core principles. The discussion is more about Kanban as a method rather than the broader framework of APOM, leading to a low confidence score in alignment with the specified category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing its benefits and implementation steps. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it address integrating testing, security, or compliance early in the development process. The discussion is centred around Kanban and Agile methodologies, which are not directly related to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:45:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the transition to Kanban, emphasising gradual and incremental improvements, which aligns well with Continuous Improvement principles. It mentions data collection, analysis, and making changes based on empirical evidence, all of which are core to the category. However, while it touches on Continuous Improvement, the primary focus is on Kanban as a methodology rather than a broader discussion on Continuous Improvement itself.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:45:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing methodologies and practical steps rather than the alignment of common goals within Agile or DevOps frameworks. While it touches on collaboration and improvement, it lacks a direct discussion on shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:45:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses transitioning to Kanban and improving workflows, which touches on the importance of competence in adapting to Agile methodologies. However, it primarily focuses on the process of implementation rather than explicitly discussing competence or continuous skill development. The depth of discussion on competence is limited, as it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:45:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is a specific agile methodology. It does not discuss the One Engineering System framework, its principles, or its components. While it touches on aspects of process improvement and workflow optimisation, these are not aligned with the core themes of 1ES, which emphasises integration and standardisation across engineering practices. The discussion is centred around Kanban, making it largely irrelevant to the 1ES category.",
     "level": "Ignored"
   }
 }

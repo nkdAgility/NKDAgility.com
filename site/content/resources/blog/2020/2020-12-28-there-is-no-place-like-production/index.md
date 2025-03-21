@@ -31,8 +31,8 @@ tags:
 - Working Software
 - Pragmatic Thinking
 - Agile Product Management
+- Evidence Based Management
 - Product Discovery
-- Agile Product Operating Model
 - Product Delivery
 - Agile Philosophy
 categories:

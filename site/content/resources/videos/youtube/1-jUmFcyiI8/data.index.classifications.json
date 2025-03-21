@@ -253,14 +253,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:17:55",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T16:47:14",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses metrics related to deployment frequency and the importance of data in decision-making, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on deployment processes and team dynamics rather than explicitly addressing EBM principles or practices. While it mentions the collection of data and the need for informed decisions, it lacks a comprehensive exploration of EBM techniques or case studies, resulting in a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses deployment frequency and its impact on time to market, which aligns with the Evidence-Based Management category. It mentions the importance of metrics and data-driven decision-making, particularly in the context of deployment and learning cycles. However, while it touches on relevant themes, it lacks a comprehensive focus on empirical evidence and broader EBM principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -310,14 +310,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:17:59",
+    "calculated_at": "2025-03-21T16:47:12",
     "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
     "final_score": 76.0,
-    "reasoning": "The content discusses key aspects of Continuous Delivery, such as deployment frequency, stability of environments, and the importance of feedback loops. It explicitly mentions 'Continuous Delivery' and explores its role in enabling teams to respond quickly to business needs. However, while it touches on relevant themes, the depth of discussion on specific Continuous Delivery practices and methodologies is somewhat limited, focusing more on general deployment strategies and business alignment.",
+    "reasoning": "The content explicitly discusses continuous delivery as a key enabler for faster feature shipping and responsiveness to business needs. It covers essential aspects such as deployment frequency, stability, and the importance of feedback loops, which are core themes of Continuous Delivery. The depth of discussion is substantial, providing insights into metrics, bottlenecks, and the relationship between engineering and business, all of which align closely with Continuous Delivery principles.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -1625,15 +1625,6 @@
     "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery processes, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:57:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses deployment frequency and feedback loops in software development, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:37:08",
@@ -1710,6 +1701,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses deployment frequency and the importance of stability and feedback loops in the software development process. However, it does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements of early feedback and continuous delivery that align with the Shift-Left concept, the primary focus is on deployment metrics and business alignment rather than integrating testing, security, and compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:47:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses deployment frequency and the importance of learning from deployments, which aligns with Continuous Improvement principles. It highlights the need for stability, feedback loops, and iterative processes, all of which are key aspects of Continuous Improvement. However, while it touches on these themes, it does not explicitly frame them within the broader context of Continuous Improvement methodologies or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:47:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses deployment frequency and its impact on business success, which indirectly relates to common goals in Agile and DevOps. However, it primarily focuses on metrics and processes rather than explicitly addressing shared objectives or alignment within teams. While there are mentions of aligning with business needs and fostering collaboration, these are secondary to the main theme of deployment metrics and speed, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:47:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of deployment frequency and learning time, which are indirectly related to competence in terms of continuous learning and skill development. It highlights the need for stability and effective feedback loops, which align with the core themes of competence. However, the primary focus is on deployment metrics rather than a direct exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:47:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses deployment frequency and its impact on software delivery, which is relevant to the principles of efficiency and collaboration in software development. However, it lacks direct mentions of the One Engineering System framework and does not delve into integration of tools or processes across teams, which are key aspects of 1ES. The focus is more on general software delivery practices rather than the specific integration and standardisation that 1ES promotes.",
     "level": "Ignored"
   }
 }

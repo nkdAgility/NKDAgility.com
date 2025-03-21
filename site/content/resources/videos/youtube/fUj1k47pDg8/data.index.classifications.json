@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:22:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:22:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product development, assumptions, and the feature factory problem, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding user needs and addressing assumptions in product development, which aligns with the principles of Continuous Delivery. However, it primarily focuses on the broader aspects of product development rather than specifically on Continuous Delivery practices. While there are mentions of delivery and validation, the depth of discussion on Continuous Delivery principles, automation, and specific strategies is limited, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,15 +838,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:28:13",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-21T17:22:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of addressing assumptions in product development, which aligns with the principles of Evidence-Based Management. It highlights the need for empirical data to inform decisions and improve understanding of user needs, which is a core theme of EBM. The mention of structured approaches, experimentation, and collecting evidence further supports this alignment. However, while the content touches on EBM concepts, it does not delve deeply into specific EBM practices or metrics, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of addressing assumptions in product development, which aligns with the principles of Evidence-Based Management. It highlights the need for data-informed decision-making and understanding user needs, which are key aspects of EBM. However, while it touches on empirical cycles and the significance of collecting evidence, the primary focus remains on assumptions and user understanding rather than a comprehensive exploration of EBM metrics or frameworks. Therefore, while there is a strong alignment with EBM concepts, the depth of discussion on specific EBM metrics and practices is somewhat limited.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1487,15 +1490,6 @@
     "reasoning": "Content primarily discusses product development processes and the feature factory problem, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:25:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product development challenges and assumptions, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:16:18",
@@ -1572,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses product development and the importance of understanding user needs, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are elements of early validation and learning that align with the proactive nature of Shift-Left, the focus is primarily on addressing assumptions and improving collaboration rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:22:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of addressing assumptions in product development, which aligns with the principles of Continuous Improvement. It highlights the need for empirical evidence, user understanding, and a culture of learning, all of which are key aspects of Continuous Improvement. However, while these themes are present, the primary focus is more on product development strategies rather than a dedicated exploration of Continuous Improvement practices. Therefore, the confidence score reflects a strong but not exclusive alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:22:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding user needs and addressing assumptions in product development, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the challenges of product development rather than explicitly aligning strategy with execution or shared objectives. The mention of collaboration and user understanding hints at the need for alignment, but it lacks a direct discussion on Common Goals within Agile or DevOps frameworks. Overall, while there are relevant themes, the content does not sufficiently centre on Common Goals to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:22:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding assumptions in product development, which indirectly relates to competence through the emphasis on continuous learning and improvement. It highlights the need for deeper user understanding and structured approaches to navigate complexity, aligning with the core themes of competence. However, while it touches on fostering a culture of learning, it does not delve deeply into strategies for skill development or the professional implications of competence, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:22:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product development and the importance of understanding user needs, which does not directly relate to the One Engineering System framework. While it touches on collaboration and assumptions in development, it lacks explicit discussion of 1ES principles, components, or implementation practices. The content is more aligned with general product management rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:24:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on distinguishing between the roles of Scrum Master and Agile Coach, which are specific to Agile methodologies rather than DevOps principles. While there is a brief mention of Agile practices, it does not delve into the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth regarding DevOps concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:24:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:25:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the differences between a Scrum Master and an Agile Coach, focusing on experience and knowledge rather than empirical evidence or data-driven management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the differences between a Scrum Master and an Agile Coach, focusing on their roles and experiences within Agile frameworks. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making or value delivery. The discussion is more about roles in Agile rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -338,15 +344,6 @@
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T21:24:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:24:53",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
@@ -664,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:25:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, which are related to Agile methodologies but do not specifically address Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of the category's key topics, such as automation, incremental improvements, or software quality. Overall, the content is more focused on Agile roles rather than Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -757,11 +757,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:25:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the roles and experiences of Scrum Masters and Agile Coaches, without a focus on the Agile Product Operating Model or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between a Scrum Master and an Agile Coach, which are roles within the Agile framework but do not directly address the Agile Product Operating Model. While it touches on Agile practices, it lacks a discussion on product management principles, continuous delivery, or the core themes of the APOM. Therefore, it does not meet the criteria for a strong alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, focusing on their differences and experiences in Agile practices. It does not mention the Shift-Left Strategy or its principles, benefits, or techniques, nor does it provide any depth on integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:24:46",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on distinguishing between the roles of a Scrum Master and an Agile Coach, with little emphasis on Continuous Improvement principles. While it touches on Agile practices, it does not delve into the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion lacks depth regarding Continuous Improvement strategies or their impact on team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:24:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on distinguishing between the roles of a Scrum Master and an Agile Coach, which does not directly address the concept of Common Goals. While it touches on the importance of Agile practices and the experience of an Agile Coach, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category. The content is more about role differentiation than about aligning strategy with execution within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:24:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the differences between a Scrum Master and an Agile Coach, touching on the depth of knowledge and experience required for each role. However, while it highlights the importance of experience and knowledge, it does not explicitly focus on the broader themes of competence as defined in the category. The discussion is more about role differentiation rather than a deep exploration of continuous learning, skill development, or fostering a culture of competence. Therefore, while there are relevant elements, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:24:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on distinguishing between the roles of Scrum Master and Agile Coach, which are specific to Agile methodologies rather than discussing the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is limited to role definitions and experiences, lacking any reference to the principles or implementation of 1ES.",
     "level": "Ignored"
   }
 }

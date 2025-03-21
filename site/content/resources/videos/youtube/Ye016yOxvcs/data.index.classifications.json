@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:47:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:09:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses skills for Agile consultants, focusing on understanding customer context rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and Scrum methodologies, with no direct mention of DevOps principles or practices. While there are themes of continuous learning and adaptation, which are somewhat aligned with DevOps, the overall discussion does not delve into the core aspects of DevOps such as collaboration, automation, or shared accountability. Therefore, the confidence score reflects a very low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:47:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:10:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of understanding customer context and the iterative nature of consulting, without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on skills for Agile consulting, discussing concepts like customer context and continuous learning, but does not explicitly mention Evidence-Based Management or its core themes. The discussion lacks depth in relation to empirical decision-making or metrics that would align with EBM principles.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of an agile consultant and the importance of understanding customer context, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:48:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses skills for agile consulting without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -652,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:49:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of an agile consultant and customer context, with no mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:10:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on skills for Agile consulting, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of continuous learning and adaptation, these concepts are not specifically tied to Continuous Delivery. The discussion lacks depth and detail regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -751,14 +751,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:43:02",
+    "calculated_at": "2025-03-21T19:09:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses skills relevant to Agile consulting but does not explicitly focus on the Agile Product Operating Model. While it touches on themes of continuous learning and adaptation, which are relevant to Agile principles, it lacks a direct connection to product-centric development or value delivery. The discussion is more about the consultant's role and mindset rather than the operational model itself.",
+    "reasoning": "The content primarily focuses on the skills required for agile consulting rather than the Agile Product Operating Model itself. While it touches on concepts like continuous learning and adaptation, which are relevant to agile practices, it does not explicitly discuss the principles or frameworks of the Agile Product Operating Model. The discussion is more about the consultant's role and mindset rather than product management or operational models.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1518,6 +1518,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the skills required for Agile consulting, discussing themes of adaptability, learning, and customer context. It does not explicitly mention the Shift-Left Strategy or its principles, nor does it delve into integrating testing, security, or compliance early in the development process. The discussion is more aligned with general Agile practices rather than the specific focus of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:09:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous learning and adaptation, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the skills needed for Agile consulting rather than a comprehensive exploration of Continuous Improvement practices. The mention of 'trial and error' and 'iterating on ideas' reflects some core themes, but the overall depth and direct mentions are limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:09:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses skills for Agile consultants but does not explicitly mention Common Goals or their significance in Agile and DevOps. While it touches on themes of learning and adaptation, which are relevant to the broader Agile context, it lacks a direct focus on aligning strategy with execution or shared objectives. The discussion is more about personal development and experiences rather than the collective goals that guide team efforts.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:09:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous learning and adaptation, which aligns well with the core themes of competence. It highlights the necessity for Agile consultants to embrace unpredictability and learn from setbacks, reflecting a commitment to skill development. However, while competence is a significant focus, the content also touches on broader themes of customer context and universal strategies, which slightly dilutes the primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:09:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on skills for Agile consulting, discussing concepts related to Agile and Scrum without any direct mention or alignment with the One Engineering System framework. It does not address integration, standardisation, or the principles of 1ES, which are essential for this category.",
     "level": "Ignored"
   }
 }

@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
+- Continuous Improvement
 - Discovery and Learning
 - Market Adaptability
 resourceTypes:

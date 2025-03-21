@@ -127,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:53:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile principles and team alignment, with only a brief mention of DevOps, making it not central to the topic.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and team alignment rather than DevOps principles. While it briefly mentions collaboration and efficiency, which are relevant to DevOps, it lacks a direct discussion of DevOps as a philosophy or its core practices. The depth of discussion on DevOps is minimal, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -166,11 +169,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:28:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team alignment and chaos in Agile, but does not address Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile team alignment and chaos management, which are not directly related to Continuous Delivery principles. While it touches on collaboration and efficiency, it lacks explicit references to Continuous Delivery practices, automation, or delivery cycles. The focus is more on team dynamics rather than the specific methodologies and tools associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -967,15 +973,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:11:16",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-21T18:28:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the importance of alignment within Agile teams, which is relevant to the Agile Product Operating Model. However, it primarily focuses on the challenges of chaos and misalignment rather than the specific principles and strategies of a product-centric approach. While it touches on collaboration and shared goals, it lacks detailed exploration of product value delivery, cross-functional teams, and continuous feedback mechanisms that are central to the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of alignment and collaboration within Agile teams, which is relevant to the Agile Product Operating Model. However, it primarily focuses on general Agile practices and team dynamics rather than the specific principles and frameworks of the APOM. The discussion lacks depth in terms of product management integration and does not explicitly mention the transition from project to product ethos or other key topics outlined in the APOM definition.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1180,11 +1186,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on chaos in Agile teams and the importance of alignment and common goals, without discussing empirical evidence or data-driven approaches.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of alignment and collaboration within Agile teams, which is relevant to organisational effectiveness. However, it lacks direct references to Evidence-Based Management principles, such as empirical decision-making or specific metrics related to current value or unrealised value. The focus is more on general Agile practices rather than data-informed decision-making, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1242,15 +1251,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mainly focuses on chaos in teams and the importance of alignment towards organizational goals, but does not directly address employee engagement, motivation, or commitment.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to chaos in Agile teams and the importance of alignment within teams and organizations, without focusing on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1515,6 +1515,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses alignment and chaos in Agile teams without explicitly addressing the Shift-Left Strategy. While it touches on collaboration and communication, which are relevant to Shift-Left principles, it does not delve into integrating testing, security, or compliance early in the development process. The focus remains on team dynamics rather than the proactive measures characteristic of a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:28:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of alignment and collaboration in Agile teams, which indirectly relates to Continuous Improvement. However, it lacks explicit references to Continuous Improvement principles, empirical evidence, or specific techniques for fostering a culture of experimentation and learning. The focus is more on addressing chaos and alignment rather than on the ongoing practice of reflection and adaptation that characterises Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:28:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of alignment and shared goals within Agile teams, addressing the chaos that arises from divergent objectives. It provides a detailed exploration of how clear goals enhance collaboration and efficiency, aligning closely with the principles of Common Goals in Agile and DevOps. The depth of discussion is significant, offering practical recommendations for establishing and maintaining alignment, which further supports the classification.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:28:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of alignment and shared goals in Agile teams, which indirectly relates to competence by emphasising the need for clarity and collaboration. However, it primarily focuses on team dynamics and strategies for reducing chaos rather than on continuous learning or skill development, which are core aspects of competence. The depth of discussion on fostering alignment and communication strategies provides some insight into competence but lacks a direct focus on professional development or mastery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:28:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of alignment within teams, which is somewhat related to the principles of collaboration and efficiency. However, it does not explicitly mention the One Engineering System (1ES) or its components, nor does it delve into the integration of tools and processes across teams, which are key aspects of 1ES. The focus remains on Agile practices rather than the standardisation and unification that 1ES aims to achieve.",
     "level": "Ignored"
   }
 }

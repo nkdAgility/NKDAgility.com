@@ -988,11 +988,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T08:54:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:52:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of evolution versus transformation in organisational change, focusing on agility and continuous adaptation rather than specific Continuous Delivery practices or methodologies.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which aligns with the principles of Continuous Delivery. However, it lacks direct mentions of Continuous Delivery practices, automation, or specific tools. The focus is more on agility and organisational change rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1117,14 +1120,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:58:18",
+    "calculated_at": "2025-03-21T20:52:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which aligns with some principles of Evidence-Based Management (EBM). However, it lacks explicit references to empirical evidence, metrics, or case studies that are central to EBM. The focus is more on philosophical perspectives rather than data-driven decision-making, resulting in a lower confidence score.",
+    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which aligns with the idea of adapting based on empirical evidence. However, it primarily focuses on the philosophical aspects of agility rather than providing specific evidence-based metrics or practices. While it touches on the need for leaders to make informed decisions, it lacks detailed discussions on current value, time to market, or empirical decision-making, which are crucial for a stronger alignment with Evidence-Based Management.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1217,15 +1220,6 @@
     "reasoning": "Content primarily discusses the philosophical aspects of change and agility rather than providing actionable installation or configuration guidance.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T22:39:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of continuous change and evolution in organisations, focusing on Agile and management practices rather than the specific principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-03-10T14:33:54",
@@ -1279,15 +1273,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T02:56:56",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-03-21T20:51:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
-    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which aligns with some DevOps principles, particularly the emphasis on continuous improvement and adaptation. However, it primarily focuses on Agile methodologies and leadership rather than specific DevOps practices, tools, or metrics. The mention of DevOps is minimal and does not serve as a primary focus, leading to a lower confidence score.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which aligns with some DevOps principles such as continuous improvement and the need for collaboration. However, it primarily focuses on agility and transformation rather than explicitly addressing DevOps practices, methodologies, or the cultural shifts necessary for effective DevOps implementation. The mention of 'DevOps Transformation' is brief and serves more as a critique than a discussion of DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1348,11 +1342,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the need for continuous evolution and adaptation in organisations, which aligns with Agile principles. However, it primarily focuses on the concept of evolution versus transformation rather than explicitly detailing the Agile Product Operating Model or its specific components.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the concept of agility as an evolution rather than a transformation, which aligns with the Agile Product Operating Model's emphasis on continuous change and adaptation. However, it lacks direct references to specific principles of the APOM, such as product management practices or operational stability. The depth of discussion is more focused on general agility rather than the specific frameworks and practices that define the Agile Product Operating Model.",
     "level": "Tertiary"
   },
   "Market Adaptability": {
@@ -1545,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of continuous change and evolution in organisations, focusing on Agile and management practices rather than explicitly addressing the Shift-Left Strategy. While it touches on themes of adaptation and feedback, it does not delve into integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:51:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the concept of continuous change and evolution within organisations, emphasising the need for ongoing adaptation rather than viewing change as a one-time transformation. It aligns well with the principles of Continuous Improvement by advocating for a culture of experimentation, learning from failures, and adapting processes based on empirical evidence. The depth of discussion is significant, providing insights into how organisations can foster a continuous improvement mindset and the importance of leadership in driving this change.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:52:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the concept of continuous change and evolution in organisations, which indirectly relates to the idea of aligning strategies with execution. However, it lacks explicit mentions of common goals, strategic alignment, or frameworks like OKRs. The focus is more on the philosophy of agility rather than on shared objectives or tactical commitments, resulting in a low confidence score for the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:52:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35,
+    "ai_depth": 34,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the necessity of continuous evolution and adaptation in organisations, which aligns with the concept of competence in Agile and DevOps. It mentions the importance of embracing change and developing skills to navigate challenges, indicating a focus on competence. However, while competence is a recurring theme, the primary focus is more on the concept of evolution versus transformation rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:52:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the concept of agility as an evolution rather than a transformation, focusing on continuous change and adaptation in organisations. While it touches on themes relevant to software development and organisational practices, it does not explicitly mention the One Engineering System framework or its principles. The discussion lacks depth regarding integration of tools and processes, best practices for implementation, or specific impacts on software quality and delivery timelines, which are key topics for the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:30:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T20:18:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the principles of Scrum, with only a brief mention of DevOps at the end. While it discusses aspects of team collaboration and accountability, which are relevant to DevOps, the main emphasis is on Scrum methodologies rather than the broader DevOps philosophy. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -250,11 +253,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum and Agile methodologies, which are not aligned with the specific principles and practices of Continuous Delivery.",
+    "calculated_at": "2025-03-21T20:18:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the insights gained from an Advanced PSM course, with no direct discussion of Continuous Delivery principles or practices. While it touches on aspects of Agile and team dynamics, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or delivery techniques. The content lacks depth in discussing Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -390,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without reference to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1198,11 +1195,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum roles and training for Scrum Masters, without addressing the Agile Product Operating Model as a central topic.",
+    "calculated_at": "2025-03-21T20:18:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the insights gained from the Advanced PSM course. While it touches on aspects of Agile and Scrum, it does not explicitly discuss the Agile Product Operating Model or its principles. The discussion is more centred on Scrum practices rather than the broader product-oriented mindset and organisational effectiveness that the APOM entails. Therefore, while there is some conceptual alignment, the depth and direct mentions are limited.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1411,11 +1411,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:18:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSM II course for Scrum Masters, focusing on training and professional development without any reference to evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the insights gained from the Advanced PSM course. While it touches on aspects of team empowerment and value delivery, it does not explicitly discuss Evidence-Based Management principles or metrics. The discussion is more centred on Scrum practices rather than data-informed decision-making or empirical evidence, which are core to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1488,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the insights gained from an Advanced PSM course. While it touches on aspects of team empowerment and accountability, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with Scrum practices rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:18:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of adapting one's approach to better serve the team and organisation. While it touches on themes of continuous learning and adaptation, it primarily focuses on the Scrum Master role rather than explicitly addressing Continuous Improvement principles. The mention of empowering teams and enhancing effectiveness aligns somewhat with Continuous Improvement, but the depth of discussion is limited and lacks specific strategies or frameworks related to the category.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:18:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the insights gained from the Advanced PSM course. While it touches on aspects of team empowerment and accountability, which are relevant to Common Goals, it lacks a direct discussion of shared objectives or strategic alignment within Agile and DevOps frameworks. The emphasis is more on individual roles and responsibilities rather than on collective goals or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:18:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of a Scrum Master and emphasises the importance of empowering teams, which aligns with the principles of competence. It highlights the need for continuous learning and skill development, particularly through the Advanced PSM course. The discussion on shifting focus from administrative tasks to enabling team growth reflects a deep understanding of competence in Agile environments. However, while competence is a significant theme, the content also touches on broader Scrum practices, which slightly dilutes its primary focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:18:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Scrum Master, discussing insights from the Advanced PSM course. While it touches on aspects of team dynamics and organisational challenges, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion is centred around Scrum methodology rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

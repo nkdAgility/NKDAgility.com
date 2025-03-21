@@ -39,9 +39,9 @@ tags:
 - People and Process
 - Organisational Agility
 - Pragmatic Thinking
-- Agile Product Operating Model
 - Agile Product Management
 - Agile Values and Principles
+- Strategic Goals
 resourceTypes:
 - video
 categories:

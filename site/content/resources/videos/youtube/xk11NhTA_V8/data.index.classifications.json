@@ -133,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:55:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile principles and team dynamics, with only a brief mention of DevOps at the end.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the impact of judgment on team dynamics, which is not directly aligned with DevOps principles. While it briefly mentions collaboration and metrics, these concepts are framed within an Agile context rather than a DevOps philosophy. The depth of discussion on DevOps is minimal, focusing instead on Agile practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -175,11 +178,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses judgment and metrics in Agile, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Agile practices and the impact of judgment on team dynamics, which is not directly related to Continuous Delivery. While it touches on themes of collaboration and metrics, it lacks a clear focus on Continuous Delivery principles, automation, or delivery practices. The discussion is more about fostering a supportive culture rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -982,11 +988,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses judgment in Agile practices and metrics, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and team dynamics but does not explicitly focus on the Agile Product Operating Model. It touches on metrics and team culture, which are relevant to Agile practices, but lacks a direct connection to product management or the specific themes outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1189,14 +1198,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:12:29",
+    "calculated_at": "2025-03-21T18:29:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
     "final_score": 39.0,
-    "reasoning": "The content discusses the importance of metrics and goals in Agile environments, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on the negative impacts of judgment related to metrics rather than providing a comprehensive exploration of EBM principles or empirical data application. The discussion lacks depth in terms of specific EBM practices and does not provide case studies or detailed strategies for fostering a culture of evidence-based decision-making.",
+    "reasoning": "The content discusses the impact of judgment on Agile practices and the importance of setting meaningful goals and metrics. However, it primarily focuses on the negative effects of judgment rather than providing a robust discussion on Evidence-Based Management principles. While it touches on the need to focus on outcomes over outputs, it lacks a strong empirical basis and does not delve deeply into the specific metrics or data-driven decision-making that characterise EBM.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1257,15 +1266,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses judgment in the context of Agile methodologies and metrics, without focusing on employee engagement themes like motivation, trust, or feedback.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses judgment in agile practices and does not focus on One Engineering System or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the impact of judgment on Agile teams and the importance of metrics, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are some themes related to improving team dynamics and outcomes, they do not align with the core focus of integrating testing, security, and compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:29:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the negative impact of judgment on team dynamics and suggests strategies for fostering a supportive culture, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the issue of judgment rather than explicitly addressing Continuous Improvement practices or frameworks. The mention of iterating on metrics and focusing on outcomes indicates some alignment with Continuous Improvement, but the depth of discussion is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:29:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of setting clear goals and metrics, which aligns with the concept of Common Goals. However, the primary focus is on the negative impacts of judgment within Agile teams rather than a thorough exploration of shared objectives or strategic alignment. While it touches on the need for alignment with broader organisational goals, it does not delve deeply into the principles of Agile or DevOps frameworks, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:29:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the negative impacts of judgment on team dynamics and innovation within Agile environments. While it touches on the importance of setting clear goals and metrics, which can relate to competence, the focus is more on fostering a supportive culture rather than directly addressing continuous learning or skill development. The discussion lacks explicit references to competence as a foundational principle, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:29:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the impact of judgment on team dynamics, which does not align with the core principles of the One Engineering System. While it touches on collaboration and metrics, it lacks a direct focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

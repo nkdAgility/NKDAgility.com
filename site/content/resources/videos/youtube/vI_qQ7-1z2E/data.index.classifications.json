@@ -640,11 +640,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T23:59:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:05:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the PSM II certification and the role of a Scrum Master, with no direct discussion of Continuous Delivery principles, practices, or tools. While it touches on skill development and facilitation techniques, these are not aligned with Continuous Delivery concepts, which emphasise software delivery practices and automation. The content does not provide any relevant insights or depth regarding Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +823,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T23:59:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:06:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSM II certification and skill development for Scrum Masters, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the PSM II certification and its role in skill development for Scrum Masters, without discussing Evidence-Based Management principles or metrics. While it touches on the importance of skill enhancement, it does not provide empirical evidence or data-informed decision-making related to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1273,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:57:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:05:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the PSM II certification and Scrum Master skills, which are not directly related to DevOps principles or practices. While there are mentions of team collaboration and accountability, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth in DevOps-related topics such as automation, continuous improvement, or shared accountability across development and operations teams.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1466,22 +1475,16 @@
     "reasoning": "Content primarily discusses the PSM II course and its focus on skill development for Scrum Masters, without addressing the principles or practices of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:16:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the PSM II course and Scrum Master skills, with no mention of the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:16:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:05:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the PSM II course and the role of a Scrum Master, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the PSM II certification and the role of a Scrum Master, which are related to agile practices but do not directly address the Agile Product Operating Model. While there are mentions of skill development and facilitation techniques relevant to agile methodologies, the discussion lacks a clear connection to the core themes of the APOM, such as product management principles or the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1533,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the PSM II certification and the development of skills as a Scrum Master, with no direct mention or discussion of the Shift-Left Strategy. While it touches on aspects of skill development and facilitation, it does not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle. The discussion is centred around Scrum practices rather than the proactive measures associated with Shift-Left methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:05:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the development of skills and capabilities as a Scrum Master, which aligns with the principles of Continuous Improvement. It emphasises the importance of skill development over mere validation, reflecting a commitment to ongoing learning and adaptation. However, while it touches on relevant themes, it does not deeply explore Continuous Improvement methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:05:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the PSM II certification and its role in skill development for Scrum Masters, rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on the Scrum Master's accountability and the importance of facilitation, it lacks a direct connection to shared objectives or strategic alignment that characterises Common Goals. The discussion is more about personal development and training rather than organisational alignment or collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:05:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the development of skills and capabilities as a Scrum Master, explicitly discussing the distinction between validation and skill development. It aligns well with the core themes of competence, such as continuous learning and the importance of professional growth. The depth of discussion is substantial, providing insights into facilitation techniques and the accountability of a Scrum Master, which are crucial for fostering competence. Overall, the content strongly emphasises the necessity for ongoing skill enhancement, justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:05:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the PSM II certification and Scrum Master skills, which are not directly related to the One Engineering System framework. While it discusses skill development and facilitation techniques, it does not address the principles, integration, or implementation of 1ES. The discussion is centred around Scrum methodology rather than the standardisation and integration of engineering processes.",
     "level": "Ignored"
   }
 }

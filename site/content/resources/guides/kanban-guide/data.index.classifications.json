@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T13:54:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:13:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban as a workflow optimisation strategy, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation strategy rather than discussing Continuous Delivery principles or practices. While it touches on concepts like flow and continuous improvement, it does not explicitly address Continuous Delivery or its key topics, such as automation in testing and deployment, rapid feedback, or cultural aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +823,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T13:54:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:13:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Kanban practices and theory, without a clear emphasis on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation strategy, with limited direct references to Evidence-Based Management principles. While it discusses metrics and flow measures, it does not explicitly connect these to the broader EBM framework or its key topics, such as current value or empirical decision-making. The discussion lacks depth in terms of how these metrics inform strategic improvements or value delivery in an evidence-based context.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1451,15 +1457,6 @@
     "reasoning": "Content primarily focuses on Kanban practices and theories, with no clear discussion on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:10:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Kanban methodology and its practices, with no clear discussion on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:22",
@@ -1533,6 +1530,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban as a workflow optimisation strategy and does not explicitly discuss the Shift-Left Strategy or its principles. While there are elements of continuous improvement and workflow management that could tangentially relate to early integration of processes, the core themes of the Shift-Left Strategy are not addressed, and there are no direct mentions of testing, security, or compliance integration in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:13:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Kanban as a strategy for optimising workflows and mentions continuous improvement as a key aspect of the Kanban system. However, while it touches on the principles of continuous improvement, the primary focus is on the Kanban methodology itself rather than a broader discussion of continuous improvement practices. The depth of discussion on continuous improvement is limited, primarily framed within the context of Kanban, which affects the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:13:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, discussing its practices and principles without explicitly addressing the concept of Common Goals. While it touches on aspects of workflow optimisation and team collaboration, it lacks a direct connection to shared objectives or strategic alignment within Agile or DevOps frameworks, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:13:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology and its practices for optimising workflow and value delivery. While it touches on aspects of continuous improvement and the importance of managing workflow effectively, it does not explicitly discuss competence as a foundational principle or delve into the continuous learning and skill development aspects that are central to the category of Competence. The discussion is more about the mechanics of Kanban rather than the development of professional capabilities or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:13:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban as a methodology for optimising workflow and value delivery, without any direct mention or discussion of the One Engineering System (1ES). While there are some concepts related to process improvement and workflow management that could conceptually align with 1ES, the content does not delve into the principles, components, or implementation of 1ES itself. Therefore, it does not meet the criteria for a strong alignment with the category.",
     "level": "Ignored"
   }
 }

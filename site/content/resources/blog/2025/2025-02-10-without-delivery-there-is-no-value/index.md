@@ -27,9 +27,9 @@ tags:
 - Product Delivery
 - Working Software
 - Software Development
+- Continuous Delivery
 - Release Management
 - Transparency
-- Deployment Frequency
 categories:
 - Scrum
 - DevOps

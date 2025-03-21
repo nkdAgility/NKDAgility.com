@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:26:04",
-    "ai_confidence": 92.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
+    "calculated_at": "2025-03-21T20:56:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
-    "reasoning": "The content extensively discusses the integration of development and operations within the Azure DevOps team, highlighting principles of DevOps such as automation, continuous delivery, and the importance of a live site culture. It provides detailed insights into how the team manages operational challenges, builds transparency with customers, and utilises telemetry for continuous improvement, all of which are core themes of DevOps. The depth of discussion on these topics, along with specific examples and practices, strongly aligns with the DevOps category.",
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the practices and principles of Site Reliability Engineering (SRE) within the context of Azure DevOps, which aligns closely with the DevOps philosophy. It discusses key elements such as automation, incident response, and cross-functional teams, all of which are core to effective DevOps implementation. The depth of discussion is substantial, providing detailed insights into how these practices enhance reliability and agility, thus reinforcing the DevOps ethos. The content does not merely mention DevOps but integrates its principles throughout the narrative, justifying a high confidence score.",
     "level": "Primary"
   },
   "Social Technologies": {
@@ -289,14 +289,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T03:08:21",
+    "calculated_at": "2025-03-21T20:56:41",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses Continuous Delivery in the context of Azure DevOps, highlighting the importance of automation and the ability to maintain a deployable state. However, the primary focus is on site reliability engineering and operational practices rather than a deep exploration of Continuous Delivery principles. While it mentions Continuous Delivery and its benefits, the discussion is not exhaustive and is secondary to the broader topic of site reliability.",
+    "reasoning": "The content discusses Continuous Delivery in the context of Azure DevOps, highlighting its importance in modern software development. It mentions automation, incident response, and the shift towards a culture that embraces continuous delivery practices. However, while it touches on relevant aspects, the primary focus is on site reliability engineering rather than a deep exploration of Continuous Delivery principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -444,15 +444,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses site reliability engineering, DevOps practices, and operational transparency, which are not directly aligned with the core principles of Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-15T03:08:06",
-    "ai_confidence": 30,
-    "non_ai_confidence": 30,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on Azure DevOps, site reliability engineering, and operational practices, while only briefly touching on topics related to standardizing and integrating software development practices that align with 1ES. There are no substantial discussions about the core principles, best practices, or challenges of the One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1255,12 +1246,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and practices, particularly in the context of site reliability engineering and DevOps within Microsoft. It covers elements of cross-functional teams, continuous feedback, automation, and aligning product delivery with customer needs, which are relevant to the Agile Product Operating Model. However, the primary focus is on operational culture and site reliability rather than a direct exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T20:56:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile practices and site reliability engineering but does not explicitly focus on the Agile Product Operating Model. While it touches on themes like cross-functional teams and continuous delivery, it lacks a direct connection to the core principles of APOM, such as product management integration and operational governance.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1462,12 +1456,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:56:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles related to transparency, continuous improvement, and data collection in the context of site reliability engineering within Azure DevOps, which are relevant to Evidence-Based Management. However, it is mostly focused on site reliability and operational practices rather than a clear, primary discussion of Evidence-Based Management itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses site reliability engineering and practices from the Azure DevOps team, focusing on transparency, telemetry, and incident response. However, it lacks a direct focus on Evidence-Based Management principles, such as empirical decision-making or metrics related to current value and unrealised value. While there are elements of data-informed practices, they are not explicitly tied to EBM concepts, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1537,5 +1534,53 @@
     "final_score": 60.0,
     "reasoning": "The content discusses principles of site reliability engineering and automation, which align with the Shift-Left Strategy by emphasising early integration of processes and continuous improvement. However, it does not explicitly mention the Shift-Left concept or focus on testing, security, or compliance integration, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:56:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Continuous Improvement in the context of incident response and post-incident reviews, highlighting the importance of learning from past mistakes and implementing improvements. However, while it touches on relevant themes, such as automation and cross-functional teams, the primary focus is on site reliability engineering and practices rather than a comprehensive exploration of Continuous Improvement principles. Therefore, while there is a significant connection, it does not fully align with the category's core themes.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:56:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses practices related to site reliability engineering and the Azure DevOps team's approach to balancing reliability and agility. While it touches on themes of collaboration and transparency, it lacks a direct focus on the concept of Common Goals as defined in the category. The discussion is more centred on operational practices rather than aligning strategy with execution or shared objectives that guide decision-making. Therefore, while there are relevant elements, they do not constitute a primary focus on Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:56:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of site reliability engineering and the practices of the Azure DevOps team, which align with the principles of competence in Agile and DevOps. It highlights continuous improvement, transparency, and the necessity of skill development through automation and incident response. However, while competence is a significant theme, the focus is more on operational practices rather than a deep exploration of competence as a foundational principle, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:56:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on site reliability engineering and practices within the Azure DevOps team, which, while related to software development, does not explicitly discuss the One Engineering System framework or its principles. There are mentions of cross-functional teams and automation, which align with some aspects of 1ES, but the overall discussion lacks depth in terms of integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
   }
 }

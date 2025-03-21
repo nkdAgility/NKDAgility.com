@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:37:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum principles and myths, with no clear focus on Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T17:35:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a framework within Agile methodologies. While it touches on aspects of planning and team dynamics, it does not directly address Continuous Delivery principles, practices, or benefits. The discussion is more about Agile practices rather than the specific discipline of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,14 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:06:29",
+    "calculated_at": "2025-03-21T17:36:00",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily focuses on debunking myths about Scrum rather than discussing Evidence-Based Management principles. While it touches on aspects of empirical processes within Scrum, it lacks a direct emphasis on data-driven decision-making or the broader implications of EBM. The discussion is more about clarifying misconceptions than providing insights into EBM practices or metrics.",
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a framework within Agile methodologies. While it touches on concepts like empiricism and planning, it does not explicitly discuss Evidence-Based Management or its key topics. The discussion lacks depth in terms of empirical decision-making and metrics that assess value delivery, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1306,11 +1309,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:35:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to DevOps principles and practices.",
+    "calculated_at": "2025-03-21T17:35:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is an Agile framework, rather than discussing DevOps principles or practices. While there are some overlaps in the themes of collaboration and value delivery, the content does not explicitly address DevOps as a philosophy or its key topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1484,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:12:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum and its myths, which are unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:12:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 40,
-    "final_score": 49.0,
-    "reasoning": "The content primarily discusses Scrum practices and myths, which are related to Agile methodologies, but it does not focus on the broader Agile Product Operating Model or its principles. It touches on aspects of product development and team dynamics, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:35:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific agile framework rather than the broader Agile Product Operating Model. While it touches on governance and planning, these discussions are framed within the context of Scrum rather than the principles of APOM. The content lacks a direct focus on product management practices or the transition from project to product ethos, which are key aspects of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1557,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on debunking myths about Scrum and Agile methodologies, with no direct mention or discussion of the Shift-Left Strategy. While it touches on planning and governance, these concepts are not aligned with the proactive integration of testing, security, and compliance earlier in the software development lifecycle, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:35:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum rather than discussing Continuous Improvement directly. While it touches on concepts like inspection and adaptation, which are relevant to Continuous Improvement, the overall emphasis is on clarifying misunderstandings of Scrum rather than exploring the principles of Continuous Improvement in depth. The discussion lacks detailed strategies or empirical evidence related to Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:35:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum rather than discussing Common Goals directly. While it touches on aspects of alignment and planning within Scrum, it does not explicitly address the foundational principles of Common Goals in Agile and DevOps. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is crucial for the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:35:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum principles and debunks myths that can hinder Agile success, which indirectly relates to competence by emphasising the importance of understanding and effectively implementing Scrum practices. However, it does not explicitly focus on continuous learning or skill development, which are core aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:35:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile methodology, rather than discussing the One Engineering System (1ES). While it touches on some principles of Agile and Scrum, it does not address the integration, standardisation, or comprehensive framework aspects of 1ES. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

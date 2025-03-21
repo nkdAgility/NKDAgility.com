@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:40:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:52:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management (EBM) for product owners, focusing on value delivery and metrics rather than Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) for product owners, discussing metrics and decision-making rather than Continuous Delivery principles. While it touches on aspects like 'Time to Market' which relates to delivery speed, it lacks a direct focus on Continuous Delivery practices, automation, or cultural aspects. The discussion is more about product management than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:46:38",
+    "calculated_at": "2025-03-21T17:52:04",
     "ai_confidence": 92.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
     "final_score": 85.0,
-    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its application for product owners, detailing its principles, metrics, and the importance of data-driven decision-making. It aligns closely with the core themes of EBM, such as the use of empirical data to guide management practices and improve organisational performance. The depth of discussion is significant, providing insights into how EBM can be integrated into product management and the benefits it brings to decision-making processes.",
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), detailing its importance for product owners and how it can be applied to maximise value delivery. It explicitly mentions the four key value areas of EBM and provides practical examples of how these metrics can guide decision-making. The depth of discussion is significant, covering various aspects of EBM and its application in a product management context, which aligns closely with the core themes of the category.",
     "level": "Primary"
   },
   "Backlog Refinement": {
@@ -1291,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:38:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:51:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on evidence-based management for product owners, discussing metrics and value delivery rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) for product owners, which is more aligned with product management than DevOps. While there are mentions of collaboration and decision-making, the core principles of DevOps, such as automation, shared accountability, and continuous improvement, are not explicitly addressed. The discussion lacks depth in DevOps practices and does not engage with the cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1480,11 +1486,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:05:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of product owners in maximising value delivery through evidence-based management, aligning closely with the principles of the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T17:51:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) as a framework for product owners, which is a key aspect of the Agile Product Operating Model. It discusses how EBM helps in making informed decisions and maximising product value, aligning with the principles of continuous improvement and data-driven measures. However, while it touches on relevant themes, it does not deeply explore the broader Agile Product Operating Model concepts such as transitioning from project to product ethos or operational stability, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1507,15 +1516,6 @@
     "final_score": 61.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in decision-making for product owners, which aligns with the principles of social technologies. However, while it touches on collaboration and value delivery, the primary focus is on metrics and decision-making frameworks rather than the broader social frameworks and methodologies that promote collaboration and collective intelligence within teams. The depth of discussion on social technologies is limited, as it primarily revolves around the technical aspects of EBM without extensive exploration of team dynamics or cultural impacts.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:05:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management (EBM) for product owners, focusing on metrics and value delivery, which does not align with the core principles of the One Engineering System.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1557,6 +1557,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) for product owners, discussing metrics and decision-making rather than integrating testing, security, or compliance earlier in the software development lifecycle. While there are elements of improving product value and team engagement, these do not directly relate to the Shift-Left Strategy, which is not explicitly mentioned or explored in depth.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:51:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in helping product owners make informed decisions, which aligns with the principles of Continuous Improvement. However, while it touches on metrics and decision-making, it lacks a comprehensive exploration of Continuous Improvement techniques, strategies, or a culture of experimentation. The focus is primarily on EBM rather than a broader discussion of Continuous Improvement practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:51:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its importance for product owners, focusing on metrics that guide decision-making. While it touches on the alignment of product goals with organisational objectives, it primarily centres on individual decision-making and metrics rather than explicitly discussing shared objectives or strategic alignment within teams, which are core to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:51:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Evidence-Based Management (EBM) for product owners, emphasising informed decision-making and the continuous development of skills necessary for maximising product value. It directly mentions the need for product owners to engage with metrics and adapt strategies based on data, which aligns with the core themes of competence. However, while it touches on the development of skills and team engagement, the depth of discussion on competence as a foundational principle is somewhat limited, focusing more on EBM as a tool rather than a broader culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:51:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) for product owners, discussing metrics and decision-making processes rather than the principles or components of the One Engineering System. While there are elements of team collaboration and value delivery, they are not directly tied to the 1ES framework, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

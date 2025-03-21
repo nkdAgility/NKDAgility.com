@@ -31,12 +31,12 @@ tags:
 - People and Process
 - Software Development
 - Agile Frameworks
+- Competence
 - Agile Product Management
 - Professional Scrum
 - Software Developers
 - Agile Transformation
 - Team Performance
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

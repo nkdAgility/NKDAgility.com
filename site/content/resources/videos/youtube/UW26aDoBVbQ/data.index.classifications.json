@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:47:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:48:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product ownership and lean product delivery, which are not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product ownership and lean product delivery, which are not core aspects of DevOps. While there are mentions of collaboration and continuous improvement, these concepts are discussed in the context of product management rather than the broader DevOps philosophy. The depth of discussion on DevOps principles is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:47:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:49:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product ownership and lean product delivery without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses product ownership and lean product delivery, which are relevant to Evidence-Based Management, but it primarily focuses on the roles and practices of product ownership without explicitly addressing empirical evidence or metrics. While there are mentions of value delivery and continuous improvement, the discussion lacks a strong emphasis on data-informed decision-making and the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -345,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product ownership and lean product delivery without a clear focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:48:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product ownership and lean product delivery, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -661,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:49:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses product ownership and lean product delivery, which are not central to Continuous Delivery principles.",
+    "calculated_at": "2025-03-21T18:49:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses lean product delivery and the role of product ownership, which are related to Continuous Delivery principles. However, it primarily focuses on product ownership and lean methodologies rather than explicitly addressing Continuous Delivery practices. While there are mentions of continuous improvement and delivering value, the discussion lacks depth in Continuous Delivery specifics, such as automation, rapid feedback, and deployment strategies.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -754,14 +754,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T15:21:52",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-03-21T18:49:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the role of product ownership within lean product delivery, which aligns closely with the Agile Product Operating Model. It highlights the importance of aligning product vision with business goals, enhancing collaboration, and adapting to change, all of which are core themes of the Agile framework. The depth of discussion on continuous improvement and value delivery further supports its relevance to the category. However, while it touches on Agile principles, it does not explicitly mention the Agile Product Operating Model, which slightly lowers the confidence score.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of product ownership and lean product delivery, which are relevant to the Agile Product Operating Model. However, it primarily focuses on lean methodologies and product ownership without explicitly addressing the broader principles of the Agile Product Operating Model. While there are mentions of alignment with business goals and continuous improvement, the depth of discussion on APOM-specific themes is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -1518,6 +1518,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses lean product delivery and product ownership, which are related to agile methodologies but do not explicitly address the Shift-Left Strategy. While there are mentions of continuous improvement and collaboration, the focus is primarily on product ownership rather than integrating testing, security, and compliance earlier in the development process. Therefore, the confidence score reflects a low direct mention and depth of discussion regarding the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:48:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses continuous improvement as part of lean methodologies, highlighting its importance in reflecting on processes and enhancing outcomes. However, while it mentions continuous improvement, the primary focus is on product ownership and lean delivery rather than a deep exploration of continuous improvement principles. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:48:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the alignment of product ownership with business goals, which is a key aspect of Common Goals. It highlights the importance of collaboration and adaptability, linking these to shared objectives. However, while it touches on these themes, the primary focus is on product ownership and lean delivery rather than explicitly on Common Goals within Agile and DevOps frameworks. The depth of discussion on aligning goals and enhancing collaboration is significant, but it does not fully explore the broader implications of Common Goals as defined in the category.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:48:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of product ownership and continuous improvement, which aligns with the themes of competence in Agile and Lean methodologies. However, while it touches on training and empowerment, it does not delve deeply into the concept of competence itself or provide extensive detail on strategies for fostering a culture of competence.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:49:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product ownership and lean product delivery, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and alignment with business goals, these concepts are discussed in the context of lean methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the principles and components of 1ES, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

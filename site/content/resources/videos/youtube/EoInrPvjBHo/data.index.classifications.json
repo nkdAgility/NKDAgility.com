@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:56:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:58:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a product owner in Agile methodologies, focusing on team dynamics and engagement rather than Continuous Delivery principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in Agile and the pitfalls of micromanagement, which are not directly related to Continuous Delivery principles. While it touches on themes of team engagement and empowerment, it lacks a focus on Continuous Delivery practices such as automation, rapid feedback, or incremental improvements. Therefore, it only marginally aligns with the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T07:57:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner in Agile and criticises the concept of 'agile banditry', without focusing on empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-03-21T17:58:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in Agile and the pitfalls of micromanagement, which aligns with some aspects of Evidence-Based Management, such as focusing on outcomes and team engagement. However, it lacks direct references to empirical evidence or specific metrics that are central to EBM. The discussion is more about Agile practices than evidence-based decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1261,11 +1267,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:54:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:57:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a product owner in Agile methodologies, focusing on team dynamics and project management rather than DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the role of the Product Owner, with no direct mention of DevOps principles or practices. While there are themes of collaboration and team empowerment, which are relevant to DevOps, the focus remains on Agile practices rather than the integration of development and operations that characterises DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1447,14 +1456,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:08:00",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-21T17:58:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner within the Agile framework, focusing on the importance of value delivery and team empowerment, which aligns well with the Agile Product Operating Model. It explicitly addresses the pitfalls of traditional project management approaches, such as micromanagement, and emphasises the need for a product-centric mindset. The depth of discussion on how to enable teams and focus on outcomes rather than tasks further supports its relevance to the category.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of the Product Owner in Agile, highlighting the importance of focusing on value and team empowerment rather than rigid task management. While it addresses key aspects of the Agile Product Operating Model, such as the shift from project to product mindset and the importance of team engagement, it does not delve deeply into the broader principles or frameworks of APOM. The primary focus is on the pitfalls of micromanagement, which, while relevant, does not fully encapsulate the comprehensive nature of the Agile Product Operating Model.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1477,15 +1486,6 @@
     "final_score": 70.0,
     "reasoning": "The content discusses the role of the Product Owner in Agile, emphasising the importance of fostering team engagement, collaboration, and empowerment, which aligns well with the principles of social technologies. It highlights the negative impact of micromanagement on team dynamics and advocates for a focus on vision and value delivery, which are core themes of the category. However, while it touches on relevant topics, the primary focus is on the pitfalls of Agile Banditry rather than a comprehensive exploration of social technologies themselves.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:24:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner in Agile methodologies, focusing on team dynamics and personal experiences rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1527,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of a Product Owner in Agile and the pitfalls of micromanagement, which does not directly address the Shift-Left Strategy. While there are mentions of team engagement and outcomes, these concepts are not tied to integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:57:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of empowering teams and focusing on outcomes rather than rigid task management, which aligns with Continuous Improvement principles. However, it primarily centres on the concept of 'Agile Banditry' and the role of the Product Owner, making Continuous Improvement a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:58:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of the Product Owner and the importance of focusing on outcomes and team engagement, which aligns with the concept of Common Goals. However, it primarily centres on the pitfalls of micromanagement and Agile Banditry rather than explicitly addressing shared objectives or strategic alignment. While it touches on the significance of vision and value, it lacks a comprehensive exploration of how these elements connect to overarching organisational goals.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:58:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of the Product Owner in Agile and highlights the importance of empowering teams, which aligns with the concept of competence. However, while it touches on aspects of competence, such as trust and engagement, it primarily focuses on the pitfalls of micromanagement rather than a comprehensive exploration of continuous learning or skill development. The depth of discussion on competence is moderate, as it provides practical advice but lacks a thorough examination of competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:58:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the role of the Product Owner, with a focus on avoiding micromanagement and fostering team engagement. It does not address the principles or components of the One Engineering System (1ES), nor does it discuss integration of tools and processes across teams, best practices for implementing 1ES, or any related challenges and solutions. Therefore, it does not align with the core themes of the 1ES category.",
     "level": "Ignored"
   }
 }

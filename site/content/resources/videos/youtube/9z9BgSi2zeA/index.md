@@ -39,8 +39,8 @@ tags:
 - Business Agility
 - Agile Product Management
 - People and Process
+- Competence
 - Coaching
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories: []

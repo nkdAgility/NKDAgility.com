@@ -667,11 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:42:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:56:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint reviews within Agile practices, discussing how to handle feedback rather than Continuous Delivery principles. While it touches on aspects of responsiveness and stakeholder engagement, it lacks direct references to Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,14 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T22:16:02",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T18:56:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of feedback in Sprint reviews and how to respond to it, which aligns with some principles of Evidence-Based Management, such as using empirical data (feedback) to inform decisions. However, it lacks a direct focus on EBM principles, metrics, or case studies, and primarily centres on Agile practices rather than a comprehensive discussion of EBM.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on managing feedback during Sprint reviews, which is more aligned with Agile practices than with Evidence-Based Management. While it touches on the importance of stakeholder engagement and adapting strategies based on feedback, it lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The discussion is more about qualitative aspects of feedback rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1297,11 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:56:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile practices, specifically Sprint reviews, and does not directly address DevOps principles or practices. While it touches on collaboration and stakeholder engagement, which are relevant to DevOps, the discussion lacks depth in core DevOps themes such as automation, shared accountability, or continuous improvement. Therefore, it does not align closely with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:28:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder feedback and product direction during a Sprint review, which aligns with the Agile Product Operating Model. However, it primarily focuses on Scrum practices rather than a broader discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:56:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses Sprint reviews, a specific Agile practice, rather than the broader Agile Product Operating Model. While it touches on stakeholder engagement and adapting based on feedback, which are relevant to APOM, it lacks a comprehensive exploration of the core principles and themes of the Agile Product Operating Model. The focus remains on managing feedback rather than on product management strategies or the transition to a product-oriented mindset.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1499,15 +1508,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:28:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on managing feedback during Sprint reviews in an Agile context, which does not directly address the Shift-Left Strategy. While it touches on aspects of stakeholder engagement and adaptability, it lacks explicit discussions on integrating testing, security, or compliance earlier in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:56:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses how to handle harsh feedback during Sprint reviews, which aligns with the principles of Continuous Improvement by emphasising reflection, adaptation, and stakeholder engagement. However, it primarily focuses on feedback management rather than a broader discussion of Continuous Improvement strategies or frameworks. The mention of adapting based on feedback and the importance of communication indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:56:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of feedback in Sprint reviews and how to respond to it, which indirectly relates to aligning team efforts with stakeholder expectations. However, it primarily focuses on handling feedback rather than explicitly addressing Common Goals or their significance in Agile and DevOps. The discussion lacks depth in connecting these concepts to overarching strategic objectives, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:56:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of handling feedback in Sprint reviews, which indirectly relates to competence through the themes of continuous learning and improvement. It highlights the need for introspection and adapting strategies based on stakeholder feedback, aligning with the core themes of competence. However, the primary focus is on feedback management rather than a direct exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:56:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint reviews within Agile methodologies, discussing how to handle feedback rather than the principles or components of the One Engineering System. While it touches on collaboration and stakeholder engagement, it does not delve into the integration or standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

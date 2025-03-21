@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:43:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:27:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the challenges of delivering value to clients through consulting contracts, with only a brief mention of DevOps at the end, making it not central to the topic.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the importance of understanding client needs beyond the statement of work (SoW) in a consulting context. While it briefly mentions agile principles and invites discussion on DevOps, the main focus is on client relationships and contract flexibility rather than the core principles of DevOps such as collaboration, automation, or shared accountability. Therefore, the alignment with the DevOps category is minimal, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:43:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:27:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of adhering to statements of work and the importance of delivering value to clients, rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding client needs and delivering value beyond contractual obligations, which aligns with the concept of managing for meaningful outcomes. However, it lacks direct references to Evidence-Based Management principles and empirical decision-making, focusing more on personal anecdotes and flexible contracting rather than data-informed practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -348,15 +354,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of delivering value to clients and the limitations of contracts, without a clear focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:44:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of delivering value beyond contractual obligations in consulting, without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -673,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:45:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:27:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of delivering value to clients through statements of work, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of understanding client needs and delivering value beyond contractual obligations, which is more aligned with general consulting practices rather than Continuous Delivery. While there are elements of agile methodology mentioned, they do not specifically address Continuous Delivery principles or practices. The focus is on client relationships and contract flexibility, lacking direct relevance to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -775,14 +775,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:23:50",
+    "calculated_at": "2025-03-21T19:27:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses the importance of understanding client needs and delivering value beyond contractual obligations, which aligns with the principles of value-driven product development. However, it primarily focuses on the statement of work and client relationships rather than the Agile Product Operating Model itself. The mention of agile is brief and does not delve into specific Agile methodologies or frameworks, resulting in a lower confidence score.",
+    "reasoning": "The content discusses the importance of understanding client needs and delivering value beyond contractual obligations, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the statement of work and client relationships rather than the core themes of APOM, such as product management practices or agile processes. The discussion lacks depth in terms of agile methodologies and does not explicitly mention the Agile Product Operating Model, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the disconnect between statements of work and client needs, focusing on contract flexibility and relationship building rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the themes do not align with its core principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:27:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding client needs beyond the statement of work (SoW) and emphasises delivering value rather than merely fulfilling contractual obligations. While it touches on themes of adaptability and client satisfaction, it lacks a direct focus on Continuous Improvement principles such as empirical evidence, systematic processes, or specific frameworks. The discussion is more about personal experiences and insights rather than a structured approach to Continuous Improvement, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:27:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of understanding client needs beyond the statement of work (SoW) and focuses on delivering value rather than merely fulfilling contractual obligations. While it touches on themes of collaboration and adaptability, it does not explicitly address Common Goals within Agile or DevOps frameworks. The discussion lacks depth in connecting these ideas to strategic alignment or team ownership, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:27:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding client needs and delivering value beyond contractual obligations, which indirectly relates to competence in terms of skill development and professionalism. However, it does not explicitly focus on continuous learning or the development of capabilities, which are core themes of the competence category. The discussion is more centred on client relationships and contract flexibility rather than on fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:27:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of understanding client needs beyond the statement of work (SoW) in consulting, which does not align with the core principles of the One Engineering System. While it touches on themes of flexibility and value delivery, it lacks direct references to 1ES, integration of tools, or standardisation of engineering practices. The focus is on personal experiences and anecdotal evidence rather than a structured discussion on engineering systems.",
     "level": "Ignored"
   }
 }

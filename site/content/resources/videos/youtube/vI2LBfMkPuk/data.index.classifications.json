@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:41:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:33:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum training, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an agile framework, rather than DevOps principles. While it touches on collaboration and learning through experience, it lacks direct references to DevOps practices, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -250,11 +253,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:34:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Agile and Scrum training, lacking mention or discussion of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the learning experience associated with them, without any direct mention or exploration of Continuous Delivery principles. While it touches on agile methodologies, it does not discuss automation, incremental improvements, or the rapid feedback loops that are central to Continuous Delivery. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -393,15 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses agile training and Scrum rather than Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile concepts, primarily around Scrum training and coaching, which is not aligned with the core principles of One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1204,11 +1201,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on agile training and consultancy, with an emphasis on Scrum rather than on the Agile Product Operating Model specifically.",
+    "calculated_at": "2025-03-21T20:34:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on teaching Scrum through experiential learning, which is a specific agile methodology rather than the broader Agile Product Operating Model. While it touches on concepts like chaos and structure in agile practices, it does not explicitly discuss the principles or frameworks of the Agile Product Operating Model. The discussion is more about Scrum's application in a classroom setting, lacking depth in product management principles and the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1417,11 +1417,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:34:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile training and coaching without focusing on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on teaching Scrum through experiential learning and does not explicitly discuss Evidence-Based Management principles or metrics. While it touches on the value of Scrum, it lacks a clear connection to empirical decision-making or data-informed practices central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on teaching Scrum through experiential learning and does not explicitly discuss the Shift-Left Strategy. While it touches on aspects of project management and agile methodologies, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept. The discussion is more about the chaos and structure of Scrum rather than proactive quality assurance or early issue identification.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:34:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the application of Scrum and the learning process involved in the course, which touches on aspects of Continuous Improvement, such as reflection and adaptation. However, it primarily focuses on the Scrum framework and experiential learning rather than a dedicated exploration of Continuous Improvement principles. The mention of reflection and understanding Scrum's value indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:34:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum and its application in a course setting, but it primarily focuses on personal experiences and teaching methods rather than explicitly addressing Common Goals. While there are mentions of objectives and alignment during sprints, the overall emphasis is on individual learning experiences and chaos management rather than a cohesive discussion on shared objectives or strategic alignment within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:34:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the application of Scrum and the learning process involved, which aligns with the concept of competence in terms of skill development and understanding. However, while it touches on the importance of learning and adapting through experience, it does not explicitly focus on continuous development or the professional aspects of competence. The depth of discussion on Scrum practices and the learning journey provides a moderate level of detail, but it lacks a comprehensive exploration of competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:34:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, an agile methodology, and does not discuss the One Engineering System framework or its principles. While it touches on collaboration and project management, it lacks any direct mention or detailed exploration of 1ES, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

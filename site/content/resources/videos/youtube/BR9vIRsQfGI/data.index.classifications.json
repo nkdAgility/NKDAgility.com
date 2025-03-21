@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:46:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:08:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses teaching a product owner apprentice without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on aspects of effective communication and decision-making, it does not explicitly discuss Evidence-Based Management principles or metrics. The connection to EBM is minimal and lacks depth, as the content does not provide empirical evidence or data-informed decision-making strategies.",
     "level": "Ignored"
   },
   "Personal": {
@@ -328,20 +331,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:47:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a product owner apprentice without a clear discussion on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T18:08:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on aspects relevant to product ownership, such as stakeholder communication and decision implications, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion lacks depth in relation to APOM, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:47:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:07:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on collaboration, which is a component of DevOps, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The discussion lacks depth in relation to the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -360,15 +369,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses teaching a product owner apprentice without a focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:48:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1015,11 +1015,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:08:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and agile project management, which are unrelated to Continuous Delivery principles.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1449,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on negotiation skills for product owners, with no direct mention or discussion of the Shift-Left Strategy. While it touches on aspects of communication and collaboration, these are not specifically tied to integrating testing, security, or compliance earlier in the software development lifecycle. The content lacks depth and relevance to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:07:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on themes like effective communication and collaboration, it does not explicitly discuss Continuous Improvement principles or practices. The connection to Continuous Improvement is minimal, as the content lacks a focus on empirical evidence, data-driven decision-making, or strategies for integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:07:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, which is not directly related to the concept of Common Goals. While it touches on collaboration and communication, it lacks explicit discussions on shared objectives or alignment within Agile and DevOps frameworks. The mention of improving outcomes through negotiation does not sufficiently connect to the core themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:07:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses negotiation skills essential for product owners, which indirectly relates to competence through the lens of skill development and effective communication. However, it primarily focuses on negotiation techniques rather than a broader discussion on competence in Agile or DevOps contexts. While there are mentions of skills and their importance, the depth of discussion on competence as a foundational principle is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:07:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss the One Engineering System framework, its principles, or its implementation. While there are mentions of collaboration and communication, these are not directly tied to the core themes of 1ES, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

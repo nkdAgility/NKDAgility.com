@@ -34,6 +34,7 @@ sitemap:
 tags:
 - Customer Feedback Loops
 - Scrum Product Development
+- Continuous Improvement
 - Customer Satisfaction
 - Organisational Agility
 - Product Validation
@@ -41,7 +42,6 @@ tags:
 - Software Development
 - Product Delivery
 - Discovery and Learning
-- Operational Practices
 resourceTypes:
 - video
 categories:

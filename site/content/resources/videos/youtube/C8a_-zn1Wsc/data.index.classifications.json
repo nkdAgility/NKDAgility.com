@@ -37,11 +37,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:34:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:49:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum, discussing cognitive biases and the importance of practical application. While it touches on continuous improvement and learning, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks a strong connection to empirical decision-making or the specific key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Personal": {
@@ -322,20 +325,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:35:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without a clear focus on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T17:49:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Agile and Scrum, discussing cognitive biases and the importance of continuous improvement. While it touches on Agile principles, it does not explicitly address the Agile Product Operating Model or its key topics, such as transitioning to a product ethos or integrating product management practices. The discussion is more centred on personal development and training rather than the broader organisational framework of APOM.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T13:35:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:49:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning in Agile and cognitive bias, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing immersive learning and cognitive biases within that context. While it touches on themes of continuous improvement and learning, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in relation to DevOps, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -357,15 +366,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile, without a clear focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:35:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses immersive learning and cognitive bias in the context of Agile and Scrum, without a clear focus on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1141,11 +1141,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in the context of Agile and Scrum, without focusing on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:49:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing immersive learning and cognitive biases rather than Continuous Delivery principles. While it touches on continuous improvement, it does not explicitly address Continuous Delivery practices, automation, or deployment strategies, which are central to the category.",
     "level": "Ignored"
   },
   "Decision Making": {
@@ -1497,6 +1500,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum, discussing cognitive biases and the importance of continuous improvement. While it touches on themes of learning and doing, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with Agile methodologies rather than the proactive integration of testing, security, and compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:49:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses continuous improvement as a key aspect of Agile and immersive learning, highlighting the importance of ongoing reflection and adaptation. It provides practical strategies for fostering a culture of learning and improvement, aligning well with the principles of Continuous Improvement. However, while it mentions continuous improvement, the primary focus is on immersive learning and cognitive biases, which slightly detracts from its alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:49:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on immersive learning and cognitive biases in Agile and Scrum, with only brief mentions of continuous improvement and learning by doing. While it touches on themes relevant to Agile practices, it lacks a direct discussion on Common Goals, their significance, or how they align with strategic objectives. The depth of discussion on Common Goals is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:49:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the importance of continuous learning and skill development in Agile and Scrum, particularly through immersive learning. It highlights the Dunning-Kruger effect, emphasising the need for practitioners to confront their knowledge gaps, which aligns closely with the core themes of competence. The depth of discussion is significant, providing practical examples and strategies for fostering a culture of competence, such as setting clear goals and engaging with the community. Overall, the content is highly relevant to the category of competence.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:49:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing immersive learning and cognitive biases rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is centred around personal development in Agile practices, which does not align with the core themes of 1ES.",
     "level": "Ignored"
   }
 }

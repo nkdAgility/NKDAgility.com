@@ -685,14 +685,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:29:19",
+    "calculated_at": "2025-03-21T16:45:57",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content primarily focuses on the flaws of traditional branch promotion models and advocates for Continuous Delivery practices such as GitHub Flow and Release Flow. It discusses the importance of maintaining a production-ready state, the role of automation in deployment, and strategies to mitigate risks associated with deployment. The depth of discussion is substantial, providing detailed insights into how to achieve Continuous Delivery effectively, thus aligning well with the category's core themes.",
+    "reasoning": "The content explicitly discusses continuous delivery practices, particularly in the context of branching strategies and their impact on delivery speed and quality. It critiques traditional models and advocates for GitHub Flow and Release Flow as effective continuous delivery methods. The depth of discussion is substantial, covering the failures of branch promotion and the benefits of continuous integration and delivery, aligning closely with the core themes of the category.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1516,11 +1516,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:46:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:45:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software delivery models and branching strategies, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses software delivery models and branching strategies but does not explicitly mention Evidence-Based Management or its key topics. While it touches on concepts like value delivery and agility, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1533,15 +1536,6 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses branching strategies and their impact on software delivery, which indirectly relates to platform engineering principles. However, it primarily focuses on version control practices rather than the design and construction of internal platforms or enhancing developer productivity through IDPs. While it touches on automation and continuous delivery, it lacks a direct connection to the core themes of platform engineering, resulting in a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:46:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses branching models and their impact on software delivery, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -1626,6 +1620,54 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the flaws of traditional branch promotion models and advocates for continuous integration and delivery, which aligns with the Shift-Left Strategy's principles of integrating processes earlier in the development lifecycle. However, it primarily focuses on branching strategies rather than explicitly addressing testing, security, or compliance integration, leading to a lower confidence score. The depth of discussion on alternative models like GitHub Flow and Release Flow provides some relevant insights but does not fully explore the Shift-Left Strategy's core themes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:45:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and advocates for more efficient practices like GitHub Flow and Release Flow, which aligns with the principles of Continuous Improvement. It highlights the need for ongoing reflection and adaptation in software delivery processes, emphasising the importance of reducing complexity and enhancing delivery speed. However, while it touches on Continuous Improvement concepts, it primarily focuses on specific branching strategies rather than a broader discussion of Continuous Improvement as a whole.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:45:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily critiques traditional branching models and advocates for more efficient practices like GitHub Flow and Release Flow. While it touches on the importance of delivering value and reducing complexity, it does not explicitly discuss shared objectives or alignment within teams, which are central to the concept of Common Goals. The focus is more on technical practices rather than the strategic alignment of goals within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:45:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and promotes alternatives like GitHub Flow and Release Flow, which indirectly relate to competence by emphasising efficiency and reducing complexity in software delivery. However, it lacks a direct focus on continuous learning, skill development, or fostering a culture of competence, which are core themes of the category. The discussion is more about process improvement than about developing capabilities or professionalism.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:45:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses branching strategies and their implications on software delivery, focusing on GitHub Flow and Release Flow. While it touches on concepts of continuous delivery and integration, it does not explicitly mention or align with the One Engineering System framework, its principles, or its components. The discussion is more about alternative methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

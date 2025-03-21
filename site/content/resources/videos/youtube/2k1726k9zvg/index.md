@@ -30,11 +30,11 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Agile Project Management
+- Competence
 - Scrum Team
 - Team Performance
 - Agile Frameworks
 - Pragmatic Thinking
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

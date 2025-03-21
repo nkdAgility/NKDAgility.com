@@ -688,14 +688,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:24:44",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
+    "calculated_at": "2025-03-21T16:43:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, focusing on their mastery and effectiveness within Scrum Teams. While it briefly touches on concepts related to software delivery and mentions 'continuous delivery of value', it does not delve into the principles, practices, or methodologies of Continuous Delivery as defined in the category. The discussion is centred around Scrum and Agile practices, which are not the main focus of Continuous Delivery.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, focusing on their mastery and effectiveness within Scrum Teams. While it touches on aspects of software delivery and the importance of having a competent Scrum Master to drive effectiveness, it does not explicitly address Continuous Delivery principles or practices. The discussion is more centred on Scrum methodology rather than Continuous Delivery as a distinct practice, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1513,11 +1513,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:43:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role and expectations of a Scrum Master, focusing on experience and mastery rather than empirical evidence or data-driven management practices.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the role and expectations of a Scrum Master, focusing on the importance of experience and mastery rather than empirical evidence or data-driven decision-making. While it touches on concepts of effectiveness and leadership, it does not explicitly engage with the principles of Evidence-Based Management or provide metrics or data to support its claims.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1527,15 +1530,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses the role and responsibilities of Scrum Masters, focusing on Agile methodologies rather than Platform Engineering principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of Scrum Masters, focusing on Scrum methodology rather than the principles or integration of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -1647,6 +1641,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role and importance of a Scrum Master in Agile teams, focusing on their qualifications and responsibilities. While it touches on aspects of team effectiveness and quality delivery, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with Agile methodologies rather than the proactive integration of testing, security, and compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:42:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of mastery and experience in the role of a Scrum Master, which indirectly relates to Continuous Improvement through the emphasis on enabling team effectiveness and driving meaningful change. However, it primarily focuses on the qualifications and selection of Scrum Masters rather than on Continuous Improvement practices or methodologies. While there are mentions of continuous improvement in the context of Scrum, the overall discussion does not deeply engage with the principles or strategies of Continuous Improvement as a primary focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:42:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role and expectations of a Scrum Master, focusing on the need for mastery and experience rather than explicitly addressing Common Goals. While it touches on aspects of team effectiveness and leadership, it lacks a direct connection to shared objectives or strategic alignment within Agile and DevOps frameworks. The discussion is more about individual roles than about aligning team efforts with overarching goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:42:55",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the necessity of competence in the role of a Scrum Master, emphasising that they should possess technical, business, and organisational mastery. It critiques the notion of a 'junior' Scrum Master and highlights the importance of real-world experience and demonstrated capability. The depth of discussion is significant, covering various aspects of competence and its impact on team effectiveness, decision-making, and leadership within Agile frameworks.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:42:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the role and expectations of a Scrum Master, focusing on individual competencies rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it touches on aspects of team dynamics and effectiveness, it does not engage with the core principles or components of 1ES, nor does it provide insights into the broader framework of software development practices across teams.",
     "level": "Ignored"
   }
 }

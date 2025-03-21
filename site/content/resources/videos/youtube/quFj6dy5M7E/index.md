@@ -26,6 +26,7 @@ preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 266
 isShort: false
 tags:
+- Competence
 - People and Process
 - Product Delivery
 - Value Delivery

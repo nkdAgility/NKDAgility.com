@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:17:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:10:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the PSM II course and the role of Scrum Masters, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not explore Continuous Delivery concepts such as automation, rapid feedback, or software quality. The discussion is centred around Scrum roles and misconceptions, which are not aligned with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:18:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and development of Scrum Masters, focusing on personal experiences and training rather than empirical evidence or data-driven management practices.",
+    "calculated_at": "2025-03-21T20:10:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the PSM II course and the role of Scrum Masters, discussing myths and assumptions without any direct reference to Evidence-Based Management principles or metrics. While it touches on Agile methodologies, it lacks empirical evidence or data-informed decision-making discussions, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1282,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:15:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the PSM II course and its impact on Scrum Masters, without a clear emphasis on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:10:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on the PSM II course and the role of Scrum Masters, which are not central to DevOps principles. While there are brief mentions of Agile and a potential connection to DevOps, the discussion lacks depth and does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1475,22 +1484,16 @@
     "reasoning": "Content primarily discusses the role and development of Scrum Masters, focusing on Scrum practices rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the PSM II course, which are not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:22:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and development of Scrum Masters, focusing on personal growth and training rather than the Agile Product Operating Model or product-centric approaches.",
+    "calculated_at": "2025-03-21T20:10:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the PSM II course, which are related to agile practices but do not directly address the Agile Product Operating Model. While it touches on agile principles and the evolution of Scrum roles, it lacks a clear discussion on product management, operational stability, or the integration of agile methodologies with product management principles, which are core to the APOM framework.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1542,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of Scrum Masters and the PSM II course, discussing myths and assumptions related to Scrum rather than addressing the Shift-Left Strategy in software development. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are key aspects of the Shift-Left Strategy. The discussion lacks depth and relevance to the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:10:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the PSM II course and its impact on Scrum Masters, discussing myths and misconceptions rather than directly addressing Continuous Improvement principles. While it touches on themes of evolving roles and fostering self-sufficiency, it lacks a strong emphasis on empirical evidence, data-driven decision-making, or specific Continuous Improvement strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:10:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the PSM II course and the role of Scrum Masters, discussing myths and misconceptions rather than addressing Common Goals directly. While it touches on the importance of Scrum Masters in guiding teams, it lacks a clear connection to shared objectives or strategic alignment within Agile and DevOps frameworks, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:10:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the PSM II course and its role in challenging assumptions about the Scrum Master role, which indirectly relates to competence through the lens of skill development and professional growth. However, it primarily focuses on debunking myths rather than providing a deep exploration of competence as a foundational principle. The discussion lacks explicit references to continuous learning or strategies for fostering a culture of competence, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:10:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the PSM II course and Scrum Master roles, which are not directly related to the One Engineering System framework. While it discusses Agile methodologies, it does not address the principles, integration, or implementation of 1ES, nor does it provide insights into standardising engineering practices across teams.",
     "level": "Ignored"
   }
 }

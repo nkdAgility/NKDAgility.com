@@ -238,11 +238,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:53:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:39:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures, without a focus on empirical evidence or data-driven decision-making principles central to Evidence-Based Management.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses backlog management and the benefits of a flat structure, which indirectly relates to value delivery. However, it primarily focuses on Agile practices and does not explicitly mention Evidence-Based Management principles or metrics. The discussion lacks depth in empirical decision-making and current value metrics, which are central to EBM.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -286,11 +289,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:53:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses backlog management and Scrum practices, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:39:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses backlog management within Scrum and Kanban frameworks, focusing on the structure and prioritisation of tasks. While it touches on concepts that could relate to Continuous Delivery, such as delivering value and agility, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in deployment. The discussion is more about improving backlog management rather than the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1246,11 +1252,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:52:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses backlog management and Scrum practices, with a focus on hierarchy issues rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T17:39:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on backlog management within Scrum and Kanban frameworks, which are methodologies rather than core DevOps principles. While it touches on concepts like agility and value delivery, it does not explicitly discuss DevOps practices, principles, or cultural shifts. The discussion lacks depth in terms of DevOps-specific themes such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -1469,26 +1478,17 @@
     "reasoning": "Content heavily discusses backlog management and Agile methodologies, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:13:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses backlog management and agile methodologies, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T19:17:50",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:39:15",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses backlog management in an Agile context, focusing on value delivery and the importance of a flat structure over hierarchical approaches. While it touches on Agile principles, it primarily centres on practical backlog management techniques rather than a comprehensive exploration of the Agile Product Operating Model as a whole. The discussion aligns with some key themes, such as maximising value delivery and adapting to customer needs, but lacks depth in covering broader aspects of the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses backlog management within Scrum and Kanban frameworks, which are agile practices. However, it primarily focuses on the structure of backlogs rather than the broader principles of the Agile Product Operating Model. While it touches on agility and value delivery, it lacks a direct connection to product management principles and does not address key topics of APOM such as operational stability, governance, or Evidence-Based Management.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses backlog management and the benefits of a flat structure in Agile practices, without any explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile principles, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion lacks depth regarding Shift-Left practices, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:39:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses backlog management and the benefits of a flat structure, which indirectly relates to Continuous Improvement by promoting agility and value delivery. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The focus is more on backlog management techniques rather than a comprehensive exploration of Continuous Improvement as a primary theme.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:39:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses backlog management and the benefits of a flat structure, which are more tactical than strategic. While it touches on the importance of delivering value, it does not explicitly connect to the concept of Common Goals or how these goals align with Agile and DevOps frameworks. The discussion lacks depth in exploring shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:39:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 7,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses backlog management and the importance of a flat structure in enhancing agility and value delivery. While it touches on the need for effective practices and decision-making, it does not explicitly focus on continuous learning or skill development, which are core to the competence category. The discussion is more about process improvement than about developing competence within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:39:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on backlog management within Scrum and Kanban frameworks, discussing the benefits of a flat structure over a hierarchical one. While it touches on concepts relevant to agile practices, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around specific methodologies rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES.",
     "level": "Ignored"
   }
 }

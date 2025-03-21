@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T19:12:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:15:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Continuous Delivery without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Continuous Delivery, which are methodologies rather than evidence-based management practices. There are no direct mentions of evidence-based metrics or decision-making, and the focus is on agile practices without empirical evidence or data-informed discussions.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -124,14 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:44:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "calculated_at": "2025-03-21T21:15:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content briefly mentions Continuous Delivery in relation to Scrum, indicating a connection to DevOps principles. However, the primary focus is on Scrum, with limited exploration of DevOps practices, tools, or cultural shifts. The discussion lacks depth and does not provide substantial insights into DevOps as a category.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum and its relationship with Continuous Delivery, which are methodologies rather than core DevOps principles. While there is a brief mention of Continuous Delivery, the focus remains on Scrum practices, lacking a deeper exploration of DevOps concepts such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,22 +332,16 @@
     "reasoning": "Content heavily discusses Scrum and Continuous Delivery, which are not central to Systems Thinking principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T19:13:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its relationship with Continuous Delivery, which is not aligned with the principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T19:13:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:15:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, without a focus on the Agile Product Operating Model or value delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and its relationship with Continuous Delivery, which are agile practices but do not directly address the Agile Product Operating Model. While there is a mention of agile practices, the focus is not on product management principles or the specific themes outlined in the APOM framework. The depth of discussion is limited to the interplay between Scrum and Continuous Delivery, lacking a comprehensive exploration of the APOM concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -418,14 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T03:44:11",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T21:15:30",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content briefly mentions the relationship between Scrum and Continuous Delivery, indicating that they can complement each other. However, it lacks a detailed exploration of Continuous Delivery principles, practices, or methodologies. The focus is primarily on Scrum, with only a passing reference to Continuous Delivery, which does not provide sufficient depth or alignment with the core themes of the category.",
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions Continuous Delivery in the context of its relationship with Scrum, but does not delve deeply into the principles or practices of Continuous Delivery itself. While it acknowledges the complementarity of Scrum and Continuous Delivery, the focus remains primarily on Scrum, which limits the depth and direct discussion of Continuous Delivery. Therefore, while there is some alignment, it is not the primary focus of the content.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1470,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the relationship between Scrum and Continuous Delivery, with no explicit mention of the Shift-Left Strategy. While it touches on Agile principles, it does not address the integration of testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:15:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum and Continuous Delivery, which are related to Continuous Improvement, but does not explicitly discuss the principles or practices of Continuous Improvement itself. The focus is more on the relationship between Scrum and Continuous Delivery rather than on Continuous Improvement as a primary topic. There is minimal depth in discussing how these concepts contribute to ongoing improvement or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:15:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum and Continuous Delivery, which are related to Agile practices, but it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The focus is more on the relationship between Scrum and Continuous Delivery rather than on shared objectives or alignment within teams. While there is some conceptual alignment with Agile principles, the depth of discussion on Common Goals is minimal.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:15:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum and Continuous Delivery, which are related to Agile practices, but does not explicitly discuss competence or the importance of skill development. The focus is more on the relationship between Scrum and Continuous Delivery rather than on fostering competence or continuous learning. Therefore, while there is some alignment with the category, it is not a primary focus.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:15:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Continuous Delivery, which are not directly related to the One Engineering System framework. While there is a mention of agile practices, it does not delve into the principles, components, or implementation of 1ES. The discussion lacks depth and does not address the integration or standardisation of engineering processes, which are core to the 1ES category.",
     "level": "Ignored"
   }
 }

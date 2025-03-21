@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:11:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:02:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master in Agile, focusing on facilitation and team dynamics, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on micromanagement versus facilitation. While it touches on themes of team effectiveness and collaboration, it does not explicitly address DevOps principles or practices. The discussion is more aligned with Agile frameworks rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -259,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:02:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master in Agile methodology, with no relevant connection to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on micromanagement versus facilitation. While it touches on themes of team effectiveness and continuous learning, it does not directly address Continuous Delivery principles, practices, or tools. The discussion is more aligned with Agile practices rather than the specific focus of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -405,15 +411,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master in Agile, focusing on facilitation and not micromanagement, which is not directly related to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and micromanagement within Agile, which is not related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1237,11 +1234,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:02:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly focuses on the role of a Scrum Master and micromanagement issues without adequately addressing the broader Agile Product Operating Model principles or value delivery.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and addresses misconceptions about micromanagement within Agile teams. While it touches on Agile principles, it does not explicitly focus on the Agile Product Operating Model or its key topics such as product management practices, operational stability, or Evidence-Based Management. The discussion is more centred on Scrum and team dynamics rather than the broader framework of APOM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1459,11 +1459,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:02:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the role of a Scrum Master and the importance of not micromanaging, without discussing Evidence-Based Management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the concept of micromanagement within Agile practices. While it touches on themes of team effectiveness and empowerment, it does not explicitly mention Evidence-Based Management or its key topics. The focus is more on Agile principles rather than data-informed decision-making or empirical evidence, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of avoiding micromanagement within Agile teams. While it touches on themes of facilitation and team empowerment, it does not explicitly mention or align with the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more centred on Agile principles rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:02:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Scrum Master in fostering a culture of continuous learning and improvement, which aligns with the principles of Continuous Improvement. However, the primary focus is on addressing micromanagement rather than a comprehensive exploration of Continuous Improvement practices. The discussion is somewhat superficial, lacking detailed strategies or empirical evidence related to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:02:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of facilitation over micromanagement. While it touches on themes relevant to Agile practices, such as team empowerment and collaboration, it does not explicitly address the concept of Common Goals or how they align with strategic objectives. The focus is more on the Scrum Master's responsibilities rather than on shared objectives that guide decision-making within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:02:25",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master in facilitating team effectiveness and fostering a culture of continuous learning, which aligns with the principles of competence. However, while it touches on the importance of empowering teams and avoiding micromanagement, it does not delve deeply into strategies for skill development or the inspection and adaptation of competence over time. The focus is more on the Scrum Master's role rather than a comprehensive exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:02:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on micromanagement versus facilitation. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum, which is a specific Agile framework, rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
     "level": "Ignored"
   }
 }

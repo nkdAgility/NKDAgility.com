@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:21:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:54:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing leadership and influence rather than DevOps principles. While it briefly mentions collaboration and continuous improvement, which are relevant to DevOps, the main emphasis is on Scrum roles and responsibilities, leading to a low confidence score for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:21:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and influence of the Scrum Master within Scrum, without a focus on evidence-based management principles or empirical data.",
+    "calculated_at": "2025-03-21T18:54:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on influence rather than authority. While it touches on leadership and team dynamics, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks empirical evidence or data-informed decision-making, which are central to EBM. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -344,15 +350,6 @@
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -673,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:22:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:54:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on leadership and influence rather than Continuous Delivery practices. While it touches on aspects of team effectiveness and accountability, it does not explicitly address Continuous Delivery principles, automation, or related strategies. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -772,15 +772,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:10:23",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-21T18:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on influence rather than authority. While it touches on Agile principles and the importance of value delivery, it does not explicitly address the Agile Product Operating Model or its key topics. The discussion is more centred on Scrum roles and dynamics rather than a comprehensive exploration of the Agile Product Operating Model as a whole.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing authority and influence rather than the broader Agile Product Operating Model. While it touches on agile principles and the importance of collaboration, it does not delve into product management practices or the transition from project to product ethos, which are key aspects of the APOM. Therefore, the confidence score reflects a low direct mention of the category, moderate conceptual alignment, and limited depth of discussion regarding the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on influence and accountability rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of the Scrum Master in fostering effective teams, which touches on aspects of Continuous Improvement, particularly in relation to team effectiveness and the agile mindset. However, it primarily focuses on authority and influence rather than providing a detailed exploration of Continuous Improvement principles or practices. The mention of 'continuous improvement' is brief and not a primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:54:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of the Scrum Master and their influence within a Scrum team, touching on accountability and team dynamics. However, it does not explicitly address Common Goals or their significance in Agile and DevOps frameworks. While there are elements of alignment and ownership mentioned, the primary focus is on the Scrum Master's influence rather than on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:54:21",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Scrum Master in fostering team effectiveness, which touches on the importance of skill development and the ability to lead without authority. It highlights the need for continuous learning and the development of trust and respect, aligning with the core themes of competence. However, while competence is a significant aspect of the discussion, it is not the primary focus, as the content primarily centres on the nature of authority and influence in Scrum. Therefore, the confidence score reflects a strong but not exclusive emphasis on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:54:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing leadership and influence rather than the integration and standardisation of engineering processes as outlined in the One Engineering System. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

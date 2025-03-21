@@ -36,6 +36,7 @@ sitemap:
   priority: 0.6
 tags:
 - Product Delivery
+- Continuous Delivery
 resourceTypes:
 - video
 categories: []

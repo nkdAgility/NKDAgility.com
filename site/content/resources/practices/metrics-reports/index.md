@@ -36,8 +36,8 @@ tags:
 - Product Delivery
 - Value Delivery
 - Team Performance
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
 - Throughput
 
 ---

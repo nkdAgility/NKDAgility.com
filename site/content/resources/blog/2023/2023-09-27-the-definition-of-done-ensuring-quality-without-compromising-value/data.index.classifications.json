@@ -643,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T18:09:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Definition of Done and its relationship with acceptance criteria, which are not central to Continuous Delivery principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) within agile practices, which is related to quality assurance but does not explicitly focus on Continuous Delivery principles. While it touches on aspects of quality and transparency that are important in a Continuous Delivery context, it lacks a direct discussion on Continuous Delivery practices, automation, or rapid feedback mechanisms. The depth of discussion is limited to the DoD and acceptance criteria, which are not core to Continuous Delivery, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1246,11 +1249,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T18:07:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:50:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria within the context of Scrum, which is not central to DevOps principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) within agile practices, which is more aligned with agile methodologies than with the core principles of DevOps. While it touches on quality assurance and transparency, it lacks a direct focus on DevOps concepts such as collaboration, automation, or shared accountability. The discussion is primarily centred on maintaining quality standards rather than integrating people, processes, and technology for continuous value delivery, which is essential in DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1405,11 +1411,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:48:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Definition of Done and its relationship with acceptance criteria, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) in agile practices, focusing on quality and transparency rather than empirical evidence or data-informed decision-making. While it touches on the importance of maintaining standards and clarity, it does not explicitly engage with the core themes of Evidence-Based Management, such as current value metrics or empirical decision-making. The discussion lacks depth in terms of evidence-based practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1421,25 +1430,16 @@
     "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in the context of Agile methodologies, without a direct connection to platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:48:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:03:31",
+    "calculated_at": "2025-03-21T18:50:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, focusing on quality assurance rather than the broader Agile Product Operating Model. While it touches on Agile principles, it lacks a direct discussion on product-centric development, value delivery strategies, or the role of cross-functional teams, which are core themes of the Agile Product Operating Model. The depth of discussion is limited to quality measures and does not explore the holistic approach to product development as outlined in the category definition.",
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are important aspects of agile practices. However, it does not explicitly address the Agile Product Operating Model or its core principles. While there are mentions of quality and transparency in agile delivery, the focus remains on specific agile practices rather than the broader framework of APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1512,6 +1512,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses the Definition of Done (DoD) and its relationship with acceptance criteria, focusing on quality assurance in the context of Agile practices. While it touches on aspects of quality and standards, it does not explicitly mention the Shift-Left Strategy or its principles. The discussion lacks depth in terms of integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. Therefore, the content is only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:50:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its importance in ensuring quality and transparency in agile practices. While it touches on aspects of quality assurance and adaptability, it does not explicitly focus on Continuous Improvement as a primary theme. The discussion is more centred on maintaining standards rather than fostering a culture of experimentation or incremental advancements. Therefore, while there are relevant elements, they do not constitute a comprehensive exploration of Continuous Improvement principles.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:50:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) and its implications for quality and transparency in Agile practices. While it touches on aspects of team flexibility and standards, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in connecting the DoD to overarching strategic objectives or shared goals within teams, which is essential for a higher confidence score in the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:50:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its role in ensuring quality and transparency in agile practices, which indirectly relates to competence by emphasising the importance of maintaining standards and clarity in work. However, while it touches on quality and standards, it does not explicitly focus on continuous learning or skill development, which are core themes of competence. The depth of discussion is moderate, providing insights into the DoD but lacking a broader exploration of competence as a foundational principle in Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:50:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within agile practices, discussing its importance for quality and transparency. While it touches on aspects of quality assurance, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around agile methodologies rather than the integration and standardisation of engineering processes across teams, which is the core focus of 1ES. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   }
 }

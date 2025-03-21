@@ -31,8 +31,7 @@ tags:
 - Software Developers
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 ## Scrum in a DevOps World: A Game Changer!

@@ -124,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:30:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:18:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring an agile coach, focusing on their experience and suitability, which is not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach, which is more aligned with Agile methodologies than DevOps principles. While it touches on themes like continuous improvement and collaboration, these are not explicitly framed within the context of DevOps. The discussion lacks depth regarding DevOps practices, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -163,11 +166,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on hiring an agile coach and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "calculated_at": "2025-03-21T18:18:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and does not explicitly discuss Continuous Delivery principles or practices. While it touches on aspects of Agile transformation, it lacks direct mentions of Continuous Delivery, automation in deployment, or related strategies. The discussion is more about Agile coaching rather than the delivery of software, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -937,11 +943,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hiring criteria for agile coaches, without a central focus on the Agile Product Operating Model or product-centric development.",
+    "calculated_at": "2025-03-21T18:18:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and does not explicitly discuss the Agile Product Operating Model. While it touches on Agile principles and transformation, it lacks depth in addressing the specific themes of the APOM, such as product-oriented mindsets or integration with product management practices.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1132,11 +1141,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on hiring practices for agile coaches rather than on principles of evidence-based management.",
+    "calculated_at": "2025-03-21T18:18:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and does not explicitly discuss Evidence-Based Management principles. While it touches on evaluating a coach's track record and adaptability, which could relate to empirical decision-making, it lacks a strong emphasis on data-informed decision-making or the specific metrics outlined in the EBM category. The discussion is more about personal insights and subjective evaluations rather than grounded in empirical evidence.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1194,15 +1206,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the hiring of an agile coach, focusing on their qualifications and experience rather than employee engagement strategies or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on hiring an agile coach and does not discuss the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1461,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on hiring an Agile coach and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it touches on Agile practices, it does not align with the core themes of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:18:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of hiring the right Agile coach, which indirectly relates to Continuous Improvement by emphasising the need for tailored guidance and sustainable agility. However, while it mentions fostering a culture of continuous improvement, the primary focus is on the hiring process rather than on Continuous Improvement principles themselves. The depth of discussion on Continuous Improvement is limited, as it is not the main topic but rather a supporting theme.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:18:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and the qualities to look for, rather than discussing Common Goals directly. While it touches on the importance of aligning coaching with organizational needs, it lacks a thorough exploration of how these alignments connect to shared objectives or strategic goals within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:18:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of hiring an Agile coach who possesses the right skills and experience, which aligns with the concept of competence. It mentions evaluating a coach's track record and adaptability, both of which are crucial for fostering competence within teams. However, while competence is a significant theme, the focus is more on the hiring process rather than a deep exploration of continuous learning or skill development, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:18:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and does not discuss the One Engineering System framework or its principles. While it touches on Agile practices, it lacks direct relevance to the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

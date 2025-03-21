@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T12:25:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:39:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, specifically focusing on the sprint review process, rather than Continuous Delivery principles or practices.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on Sprint Reviews and retrospectives within the Agile framework, which are not directly related to Continuous Delivery. While there are mentions of feedback and iterative improvement, these concepts are more aligned with Agile practices rather than the specific principles and practices of Continuous Delivery. The discussion lacks depth in Continuous Delivery topics such as automation, deployment strategies, or cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,12 +847,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the sprint review process in Scrum, which includes elements of empirical feedback and decision-making based on outcomes. However, it primarily focuses on the mechanics of the sprint review rather than a broader application of Evidence-Based Management principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T20:39:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical aspects of running Sprint Reviews and does not explicitly discuss Evidence-Based Management principles. While it mentions gathering feedback and retrospectives, which are related to empirical decision-making, it lacks a strong emphasis on metrics or data-informed decision-making that are central to EBM. The discussion is more about the execution of Agile practices rather than a strategic approach to management based on empirical evidence.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1291,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:19:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on sprint reviews rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:39:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Sprint Reviews and retrospective practices within Agile methodologies, which are not directly aligned with the core principles of DevOps. While there are mentions of feedback and continuous improvement, these concepts are discussed in the context of Agile rather than the broader DevOps philosophy. The lack of explicit discussion on collaboration between development and operations, automation, or shared accountability further diminishes its relevance to the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1490,17 @@
     "reasoning": "Content primarily discusses Scrum roles and events, focusing on the mechanics of sprint reviews rather than the principles of decentralised, adaptive, and human-centric organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:58:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and practices, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:58:06",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the sprint review process within the Scrum framework, focusing on its purpose, stakeholder involvement, and the importance of feedback and value delivery, which aligns closely with the Agile Product Operating Model.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T20:39:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the specifics of running Sprint Reviews, which is a component of Scrum rather than a comprehensive discussion on the Agile Product Operating Model. While it touches on agile practices, it lacks a clear connection to the broader principles of APOM, such as transitioning to a product ethos or integrating product management practices. The depth of discussion is limited to the workshop's execution and technical issues, without exploring the strategic aspects of product delivery or organisational structure that are central to APOM.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses a workshop focused on Sprint Reviews and retrospectives, which are Agile practices. It does not mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around event delivery and participant feedback, lacking any connection to integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:39:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Sprint Review and includes elements of feedback and retrospective, which are integral to Continuous Improvement. However, while it mentions feedback and learning points, it lacks a broader discussion on systematic improvement strategies or empirical evidence. The focus is more on the specific workshop rather than a comprehensive exploration of Continuous Improvement principles.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:39:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the logistics and execution of a specific workshop, detailing technical issues and participant feedback rather than discussing Common Goals in the context of Agile or DevOps. While it mentions goals related to the workshop's delivery, it lacks a broader discussion on how these goals align with organisational objectives or team collaboration, which is central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:39:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the delivery of a workshop focused on Sprint Reviews, which indirectly relates to competence through the emphasis on effective feedback gathering and planning. However, it lacks explicit discussions on continuous learning or skill development, which are core to the competence category. The retrospective section touches on learning from past experiences, but overall, the content does not deeply explore the principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:39:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a workshop about Sprint Reviews, which is a specific Agile practice rather than discussing the One Engineering System (1ES). While it touches on aspects of software development, it does not explicitly mention 1ES or its principles, components, or implementation strategies. The discussion is more about the delivery of a workshop and technical issues encountered, lacking depth in relation to the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

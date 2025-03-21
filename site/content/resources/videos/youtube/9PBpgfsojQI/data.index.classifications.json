@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:03:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:25:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses business strategy, product ownership, and methodologies like Scrum and Kanban, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and frameworks like Scrum, which are related to Continuous Delivery, but it primarily focuses on broader business strategies and employee satisfaction rather than the specific principles and practices of Continuous Delivery. While there are mentions of improving product development and delivery speed, the discussion lacks depth in Continuous Delivery concepts and does not explicitly address its core themes.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -823,14 +826,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:36:39",
+    "calculated_at": "2025-03-21T20:25:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses various aspects of business strategy and organisational improvement, touching on agile methodologies like Scrum and Kanban. However, it lacks a strong focus on empirical evidence or data-driven decision-making, which are core to Evidence-Based Management. While there are mentions of performance improvement and competitive advantage, these are not substantiated with empirical data or metrics, leading to a lower confidence score.",
+    "reasoning": "The content discusses various strategies for improving business performance in 2023, touching on aspects like employee satisfaction, product ownership, and market analysis. However, it lacks a direct focus on Evidence-Based Management principles, such as empirical decision-making or specific metrics related to current value or unrealised value. While it mentions the importance of understanding customer needs and competitive advantage, it does not provide a detailed exploration of how data informs these decisions, which is central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:01:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:25:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses business strategy, product ownership, and methodologies like Scrum and Kanban, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile methodologies, particularly Scrum, which is related to DevOps principles but does not explicitly focus on DevOps as a philosophy. While it touches on collaboration and continuous improvement, the primary focus is on Agile leadership and strategies for business success rather than the core tenets of DevOps. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1484,22 +1490,16 @@
     "reasoning": "Content primarily discusses the need for effective product management and the use of Scrum and Kanban, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:35:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses business strategies, product ownership, and methodologies like Scrum and Kanban, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:35:32",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of product ownership, effective ways of working, and the role of Agile methodologies like Scrum and Kanban in delivering value, aligning closely with the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T20:25:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses agile methodologies, particularly Scrum, and their relevance to product development and organisational effectiveness. While it touches on key aspects of the Agile Product Operating Model, such as product ownership and market analysis, it does not explicitly focus on the APOM framework itself. The discussion is more general about agile practices and leadership in a challenging business environment, which limits its direct alignment with the specific category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content discusses various aspects of business strategy and agile methodologies but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on improving product development and employee satisfaction, it lacks a focused discussion on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:25:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of adapting and improving business strategies in response to challenges, which aligns with the principles of Continuous Improvement. It mentions the need for organizations to identify what isn't working and to invest in training and practices that enhance team effectiveness. However, while it touches on relevant themes, the discussion lacks depth in specific Continuous Improvement frameworks and empirical evidence, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:25:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of aligning organisational goals and strategies, which is a key aspect of Common Goals. It highlights the need for clarity in corporate strategy and the role of effective leadership in achieving shared objectives. However, while it touches on these themes, the discussion is more focused on general strategies for success rather than a deep exploration of Common Goals within Agile and DevOps frameworks. The mention of Scrum and Kanban provides some alignment, but the overall depth of discussion on Common Goals is moderate rather than comprehensive.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:25:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of competence in the context of Agile leadership and adaptation, highlighting the need for continuous learning, skill development, and employee satisfaction. It addresses how investing in training and practice can enhance team capabilities, which aligns well with the core themes of competence. The depth of discussion is substantial, covering various aspects of competence, including product ownership and market analysis, while also emphasising the impact of a competent workforce on organisational success.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:25:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile methodologies, particularly Scrum, and their role in improving product development and organisational effectiveness. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles. While there is some conceptual alignment with the themes of integration and standardisation in engineering practices, the focus is primarily on Agile practices rather than the unified framework of 1ES. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

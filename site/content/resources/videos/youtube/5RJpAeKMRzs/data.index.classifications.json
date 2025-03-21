@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile principles and the pitfalls associated with Agile methodologies, without a clear focus on Continuous Delivery practices or principles.",
+    "calculated_at": "2025-03-21T17:37:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and pitfalls rather than Continuous Delivery specifically. While it touches on themes of value delivery and accountability, it does not delve into Continuous Delivery practices, automation, or the specific benefits of delivering software in reliable cycles.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T23:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the 'seven deadly sins' of Agile without a clear focus on Evidence-Based Management principles or practices. It lacks empirical evidence application and does not provide insights into data-driven decision-making processes.",
+    "calculated_at": "2025-03-21T17:37:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the 'Seven Deadly Sins of Agile' and focuses on common pitfalls in Agile transformations rather than on evidence-based management practices. While it touches on concepts like value delivery and accountability, it lacks explicit references to empirical decision-making or metrics that are central to Evidence-Based Management. The discussion is more about Agile principles and behaviours than about using data to inform management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1300,11 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:43:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, focusing on the seven deadly sins of Agile without a clear connection to DevOps practices or principles.",
+    "calculated_at": "2025-03-21T17:37:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles and pitfalls rather than DevOps specifically. While there are mentions of concepts like accountability and value delivery, which are relevant to DevOps, the focus is on Agile methodologies and their challenges. The discussion lacks depth in DevOps practices and does not address key DevOps themes such as automation, collaboration between teams, or the cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,22 +1487,16 @@
     "reasoning": "Content heavily discusses Agile principles and practices without a direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the challenges associated with them, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:37:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and practices, including value delivery, team dynamics, and the importance of feedback, but it primarily focuses on the pitfalls and misconceptions of Agile rather than a structured discussion on the Agile Product Operating Model itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses Agile principles and common pitfalls in Agile transformations, which aligns with some aspects of the Agile Product Operating Model. However, it primarily focuses on the 'Seven Deadly Sins of Agile' rather than the specific framework of APOM. While it touches on themes like accountability and value delivery, it lacks a detailed exploration of product management practices or the transition from project to product ethos, which are central to APOM.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -1560,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and common pitfalls in Agile transformations, without any explicit mention or focus on the Shift-Left Strategy. While it touches on themes of accountability and value delivery, these are not directly related to integrating testing, security, or compliance earlier in the development process, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:37:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the 'Seven Deadly Sins of Agile' and highlights the importance of ongoing reflection and adaptation in Agile practices. While it does not explicitly mention 'Continuous Improvement,' it aligns with its principles by addressing the need for regular evaluation of practices, fostering a culture of accountability, and encouraging learning from mistakes. However, the focus is more on identifying pitfalls rather than detailing strategies for continuous improvement, which limits the depth of discussion.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:37:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the 'Seven Deadly Sins of Agile' which highlights pitfalls in Agile practices but does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on accountability and value delivery, it lacks a focused discussion on shared objectives or frameworks like OKRs that operationalise Common Goals. The content is more about identifying issues rather than fostering alignment towards common objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:37:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding Agile principles and the need for continuous effort and commitment to achieve true agility, which aligns with the concept of competence. However, while it touches on accountability and the need for skill development, it does not delve deeply into strategies for fostering a culture of competence or continuous learning, which limits its depth of discussion.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:37:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and pitfalls rather than the One Engineering System framework. While it touches on themes of organisational transformation and efficiency, it does not explicitly mention 1ES or its components, nor does it provide depth on integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

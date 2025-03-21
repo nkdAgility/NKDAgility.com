@@ -232,11 +232,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T17:25:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses quality engineering and the shift left concept, which are not central to Evidence-Based Management principles.",
+    "calculated_at": "2025-03-21T16:56:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the shift-left approach in software development, focusing on quality assurance and team collaboration. While it touches on aspects of improving outcomes and efficiency, it does not explicitly mention Evidence-Based Management or its key topics. The discussion is more centred on Agile practices rather than empirical decision-making or metrics that align with EBM.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -277,15 +280,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T17:12:04",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T16:56:05",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the 'shift left' approach, which is related to quality assurance and early testing in the software development lifecycle. While it touches on aspects that can contribute to Continuous Delivery, such as early involvement of QA and continuous feedback, it does not explicitly focus on Continuous Delivery principles or practices. The discussion lacks depth in terms of Continuous Delivery methodologies, deployment strategies, and the relationship with DevOps, which are crucial for a higher confidence score in this category.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the shift-left approach, which aligns with Continuous Delivery principles by emphasising early quality assurance and continuous feedback. However, it does not explicitly mention Continuous Delivery or its specific practices, leading to a moderate confidence score. The depth of discussion on benefits and implementation strategies contributes positively, but the primary focus remains on the shift-left concept rather than Continuous Delivery itself.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1403,15 +1406,6 @@
     "reasoning": "Content primarily discusses the concept of 'shift left' in software development and quality assurance, which is not directly related to the principles of BetaCodex or its focus on decentralised and human-centric organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'shift left' in quality assurance, which is not directly related to the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:40:16",
@@ -1486,5 +1480,53 @@
     "final_score": 85.0,
     "reasoning": "The content explicitly discusses the Shift-Left Strategy, detailing its principles, benefits, and practical recommendations for implementation. It provides a thorough exploration of how integrating quality assurance early in the development process enhances software quality and delivery speed, aligning closely with the core themes of the category. The depth of discussion is significant, with personal experiences and actionable steps included, demonstrating a strong commitment to the Shift-Left approach.",
     "level": "Primary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:55:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the shift-left approach in software development, which aligns with Continuous Improvement principles by emphasising early quality assurance, continuous feedback, and collaboration. However, while it touches on aspects of Continuous Improvement, such as proactive problem-solving and iterative processes, it primarily focuses on the shift-left methodology rather than a broader discussion of Continuous Improvement as a whole. The depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:55:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the shift-left approach in software development, which indirectly relates to common goals through enhanced collaboration and alignment among team members. While it mentions the importance of shared understanding and teamwork, the primary focus is on quality assurance rather than explicitly addressing common goals within Agile or DevOps frameworks. The depth of discussion on common goals is moderate, as it touches on collaboration but lacks a thorough exploration of strategic alignment or frameworks like OKRs.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:55:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the shift-left approach in software development, which aligns with the principles of competence by emphasising early quality assurance, continuous feedback, and collaboration. It highlights the importance of integrating QA early to improve quality and build trust, which are key aspects of competence. However, while it touches on these themes, the primary focus is on the shift-left methodology rather than a deep exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the 'shift-left' approach in quality assurance, which, while relevant to software development, does not explicitly mention or focus on the One Engineering System (1ES). The principles of early QA integration and collaboration are touched upon, but they do not align closely with the core themes of 1ES, such as standardisation and integration across teams. The depth of discussion is limited to the shift-left methodology without connecting it to the broader framework of 1ES.",
+    "level": "Ignored"
   }
 }

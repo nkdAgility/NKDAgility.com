@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:27:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing team dynamics and organisational challenges. While there are elements of collaboration and accountability, which are relevant to DevOps, the content does not explicitly address DevOps principles or practices. The discussion is centred around Scrum, which is a specific framework rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -253,11 +256,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and team dynamics, which are not directly related to Continuous Delivery principles. While it touches on aspects of team effectiveness and organisational challenges, it lacks explicit references to Continuous Delivery practices, automation, or delivery cycles. The focus is more on Scrum methodology rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -399,15 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and Agile methodologies without directly addressing Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not aligned with the core principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1204,11 +1201,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master in Agile and Scrum practices rather than the Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master, focusing on team dynamics and organisational challenges. While it touches on aspects of agile practices, it does not explicitly address the Agile Product Operating Model or its core principles. The discussion is more centred on Scrum methodology rather than the broader product-oriented mindset and continuous delivery aspects of APOM.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1420,11 +1420,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:16:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and skills of a scrum master, focusing on agile and scrum training, without tying into the principles of Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of team dynamics and relationships within an organisation. While it touches on aspects of organisational effectiveness and value delivery, it does not explicitly mention Evidence-Based Management or its key topics. The focus is more on subjective experiences and relationships rather than empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1494,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and team dynamics, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on collaboration and organisational challenges, it does not address integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:16:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a Scrum Master in facilitating team dynamics and navigating organisational challenges, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the Scrum Master's role rather than explicitly addressing Continuous Improvement practices or methodologies. While there are mentions of fostering relationships and influencing change, the depth of discussion on Continuous Improvement concepts is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:16:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of team fit and relationships, which are relevant to the concept of Common Goals. However, it primarily focuses on the Scrum Master's individual attributes and their interactions rather than explicitly addressing shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks a direct emphasis on how these elements contribute to overarching organisational goals, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:16:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of team fit and relationship-building, which are indirectly related to competence. However, it lacks a direct focus on continuous learning, skill development, or the core themes of competence as defined in the category. While it touches on the Scrum Master's ability to influence change and navigate organisational challenges, it does not delve deeply into the principles of professionalism or quality delivery, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:16:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and their impact on team dynamics and organisational challenges, which is not directly related to the One Engineering System framework. While it touches on collaboration and organisational relationships, it lacks explicit references to 1ES principles, components, or implementation practices.",
     "level": "Ignored"
   }
 }

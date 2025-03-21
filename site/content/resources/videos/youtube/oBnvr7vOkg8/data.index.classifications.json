@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:46:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:14:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, focusing on Agile and Scrum practices rather than Continuous Delivery principles and methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on becoming an Agile consultant, discussing Agile principles and practices without specifically addressing Continuous Delivery. While it touches on Agile methodologies, it lacks direct mentions of Continuous Delivery concepts, automation in deployment, or the specific practices that enhance software delivery cycles.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +823,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T03:47:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:14:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the journey and requirements to become an Agile consultant, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on becoming an Agile consultant, discussing Agile and Scrum practices without a direct emphasis on Evidence-Based Management principles. While it touches on the importance of experience and context, it lacks specific references to empirical decision-making, metrics, or the core themes of EBM. The discussion is more about personal development in Agile consulting rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1270,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:44:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:14:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile consulting and practices, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile consulting and methodologies, with no direct discussion of DevOps principles or practices. While Agile and DevOps share some common themes, such as collaboration and continuous improvement, the article does not address the specific cultural shifts, automation, or shared accountability that are central to DevOps. Therefore, it does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1463,22 +1472,16 @@
     "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, focusing on Agile and Scrum practices rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:26:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, focusing on Agile and Scrum methodologies rather than the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:26:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:14:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, focusing on personal experiences and the integration of Agile practices rather than the Agile Product Operating Model itself.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing Agile principles and practices in a general sense rather than specifically addressing the Agile Product Operating Model. While it touches on Agile methodologies and their application across various industries, it lacks a direct focus on the core themes of the Agile Product Operating Model, such as product management integration, operational stability, or evidence-based management. The discussion is more about personal development in Agile consulting rather than the operational model itself.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1530,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing Agile principles and practices without explicitly addressing the Shift-Left Strategy. While it touches on the importance of integrating Agile methodologies into one's expertise, it does not delve into the proactive integration of testing, security, or compliance earlier in the software development lifecycle, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:14:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of mastering one's domain and integrating Agile practices. However, it primarily focuses on personal development and career progression rather than Continuous Improvement as a systematic approach. While there are mentions of Agile principles and their application, the content lacks a strong emphasis on empirical evidence, measurable advancements, or a culture of experimentation, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:14:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing personal experiences and insights rather than the concept of Common Goals. While it touches on Agile principles, it lacks a direct discussion on shared objectives or alignment within teams, which are central to the Common Goals category. The depth of discussion on the category is minimal, as it does not explore how Common Goals can enhance collaboration or accountability in Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:14:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses the journey to becoming an Agile consultant, emphasising the importance of competence in one's profession before applying Agile principles. It highlights the necessity of mastering one's domain and the role of experience in developing competence. The article also touches on the significance of being recognised as an expert, which aligns with the principles of professionalism and quality delivery. However, while competence is a primary focus, the content also includes broader discussions about Agile practices and personal experiences, which slightly dilutes the focus on competence alone.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:14:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on becoming an Agile consultant and discusses Agile methodologies in detail, but it does not explicitly mention or align with the One Engineering System framework. The discussion is centred around personal experiences and insights related to Agile consulting rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

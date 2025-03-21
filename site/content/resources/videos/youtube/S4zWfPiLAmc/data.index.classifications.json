@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T02:09:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban and metrics, with no focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:42:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban methodology and the importance of metrics within that context. While it touches on continuous improvement, it does not explicitly discuss Continuous Delivery principles, practices, or tools. The discussion is centred around avoiding common mistakes in Kanban rather than the broader scope of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T14:53:05",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:42:07",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of using proper metrics in Kanban, which aligns with the principles of Evidence-Based Management. It highlights the need for data-driven decision-making and the avoidance of vanity metrics, which is a key aspect of EBM. However, while it touches on relevant topics, it primarily focuses on Kanban rather than EBM itself, leading to a moderate confidence score.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of using proper metrics in Kanban, which aligns with the principles of Evidence-Based Management. It highlights the need to avoid vanity metrics and focus on actionable data, such as cycle time and throughput, which are relevant to current value and empirical decision-making. However, the primary focus is on Kanban rather than EBM itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1276,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:07:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Kanban and metrics related to Agile methodologies, without a clear focus on DevOps principles or practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Kanban, a project management methodology, rather than discussing DevOps principles or practices. While it touches on continuous improvement and metrics, it does not explicitly address the core themes of DevOps such as collaboration, automation, or shared accountability among teams.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1457,22 +1463,16 @@
     "reasoning": "Content heavily discusses Kanban and metrics without any direct connection to platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:14:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban implementation and metrics, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:14:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:41:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of using vanity metrics in Kanban implementation, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban methodology and the importance of metrics in its implementation. While it touches on continuous improvement, it does not discuss the Agile Product Operating Model or its principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban metrics and strategies, with no direct mention or discussion of the Shift-Left Strategy. While it touches on data analysis and workflow improvements, these concepts do not align with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about optimising Kanban processes rather than addressing the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:41:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of using proper metrics in Kanban to drive improvements, which aligns with the principles of Continuous Improvement. It mentions the need to avoid vanity metrics and focus on actionable data, reflecting a commitment to data-driven decision-making. However, while it touches on Continuous Improvement, it primarily focuses on Kanban strategy rather than a broader discussion of Continuous Improvement practices, resulting in a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:41:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban metrics and avoiding common mistakes in its implementation, which does not directly address the concept of Common Goals in Agile or DevOps. While it mentions the importance of data analysis and metrics, it lacks a discussion on shared objectives, alignment, or strategic goals that connect individual contributions to the overall mission of an organisation. Therefore, it does not meet the criteria for the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:41:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of using proper metrics in Kanban to drive continuous improvement, which aligns with the concept of competence in terms of skill development and quality outcomes. However, it primarily focuses on metrics and data analysis rather than a broader discussion on competence itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:41:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban methodology and its metrics, with no direct mention or discussion of the One Engineering System (1ES). While it touches on aspects of workflow improvement, it does not align with the core themes of 1ES, such as integration across teams or standardisation of practices. The depth of discussion is limited to Kanban-specific practices, further distancing it from the 1ES framework.",
     "level": "Ignored"
   }
 }

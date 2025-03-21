@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:12:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:53:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the role of a product owner and their responsibilities, with a focus on product management and decision-making rather than DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and strategies for team success, which are more aligned with agile methodologies than with DevOps principles. While there are brief mentions of collaboration and evidence-based decision-making, these concepts are not deeply tied to the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion lacks a strong emphasis on the cultural shifts and practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,14 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-10T12:00:25",
+    "calculated_at": "2025-03-21T18:53:22",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
     "final_score": 71.0,
-    "reasoning": "The content discusses the importance of making decisions based on empirical data, which aligns with the principles of Evidence-Based Management. It mentions the need for product owners to adopt an evidence-based approach and highlights the significance of metrics and data in decision-making. However, while it touches on EBM, the primary focus is on the role of product owners and their strategies, which makes EBM a secondary theme rather than the main focus. The depth of discussion on EBM concepts is moderate, as it provides some insights but lacks comprehensive exploration of EBM practices or case studies.",
+    "reasoning": "The content discusses evidence-based decision-making explicitly, highlighting the importance of data in product management. It aligns with key topics such as current value and ability to innovate, but the overall focus is more on product ownership strategies rather than a comprehensive exploration of Evidence-Based Management principles.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -348,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a product owner and their responsibilities, with a focus on value creation and decision-making rather than specific release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:13:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role of a product owner and strategies for product management, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -682,11 +676,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:14:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:53:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of product owners and their decision-making processes, focusing on value creation and market strategies, which are not directly related to Continuous Delivery principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of a product owner in connecting teams to value and making evidence-based decisions, which are important in Agile practices but do not specifically address Continuous Delivery principles. While it touches on aspects like time to market and user feedback, it lacks a direct discussion on Continuous Delivery practices, automation, or the cultural aspects of Continuous Delivery. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -784,14 +781,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:07:54",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-03-21T18:53:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on the role of a product owner within an Agile framework, discussing how to connect teams to value and make evidence-based decisions, which aligns well with the principles of the Agile Product Operating Model. It addresses key aspects such as communicating vision, setting sprint goals, and the importance of user feedback, all of which are crucial for value delivery in product teams. However, while it touches on Agile concepts, it does not delve deeply into the broader organisational framework or case studies, which slightly limits its depth of discussion.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a product owner and emphasises connecting the team to value and making evidence-based decisions, which aligns with the principles of the Agile Product Operating Model. However, it lacks a comprehensive exploration of the APOM framework and its key topics, such as operational stability and governance, which limits its depth. The mention of Evidence-Based Management is relevant but is not the primary focus of the content, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -1551,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a product owner in driving team success through value connection and evidence-based decision-making. While it touches on aspects of agile practices, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:53:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of making evidence-based decisions and connecting the team to value, which aligns with Continuous Improvement principles. However, it primarily focuses on the role of a product owner and does not delve deeply into Continuous Improvement methodologies or frameworks. The mention of evidence-based management indicates a connection to data-driven decision-making, but the overall discussion lacks comprehensive strategies or case studies related to Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:53:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of connecting the team to value and setting clear sprint goals, which aligns with the concept of Common Goals. However, it primarily focuses on the role of the product owner and evidence-based decision-making rather than a broader discussion of shared objectives across teams. While there are relevant mentions of aligning team efforts with product goals, the depth of discussion on Common Goals as a foundational principle is limited.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:53:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a product owner in connecting the team to value and making evidence-based decisions, which indirectly relates to competence. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about team dynamics and decision-making rather than explicitly addressing competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:53:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and strategies for team success, which does not directly address the principles or components of the One Engineering System. While there are mentions of team alignment and decision-making, these concepts are not explicitly tied to the 1ES framework or its implementation. The discussion lacks depth regarding integration of tools and processes, best practices for 1ES, or challenges in adopting a unified engineering system.",
     "level": "Ignored"
   }
 }

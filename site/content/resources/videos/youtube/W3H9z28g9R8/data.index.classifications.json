@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T23:36:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational challenges and management structures related to Agile practices, without a focus on Continuous Delivery principles or methodologies.",
+    "calculated_at": "2025-03-21T18:37:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses resource scarcity in Agile organisations and does not explicitly mention Continuous Delivery or its principles. While it touches on themes of empowerment and trust, which are relevant to Agile practices, it lacks a direct focus on Continuous Delivery, automation, or delivery cycles. The discussion is more about overcoming organisational challenges rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,14 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:30:54",
+    "calculated_at": "2025-03-21T18:37:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses the challenges of resource scarcity in Agile organisations and suggests strategies for overcoming these issues. However, it primarily focuses on personal insights and anecdotal evidence rather than empirical data or structured evidence-based management practices. While it touches on themes of empowerment and trust, it lacks a direct connection to the core principles of Evidence-Based Management, such as the use of metrics or case studies demonstrating EBM applications.",
+    "reasoning": "The content discusses resource scarcity in Agile organisations and the importance of empowerment and trust, which aligns with some principles of Evidence-Based Management. However, it lacks direct references to empirical metrics or data-informed decision-making, which are central to EBM. The focus is more on qualitative insights and personal experiences rather than a structured analysis of evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:33:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Agile methodologies and organisational management, with a focus on resource allocation and decision-making, rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:36:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the challenges of resource scarcity within Agile organisations, rather than focusing on DevOps principles. While it touches on themes of empowerment and continuous improvement, which are relevant to DevOps, it lacks direct references to DevOps practices, automation, or collaboration between development and operations teams. The discussion is more aligned with Agile philosophy than with the core tenets of DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1480,12 +1486,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:09:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses organisational challenges related to resource allocation and decision-making, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the concept of 'famine' in organisations rather than a comprehensive exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:37:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses resource scarcity in Agile organisations and the importance of empowerment and trust, which are relevant to the Agile mindset. However, it lacks direct references to the Agile Product Operating Model and does not delve into specific principles or practices associated with it. The focus is more on general Agile challenges rather than the product-oriented approach central to the APOM.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1503,15 +1512,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and organisational challenges without a direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:09:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to agile practices and organisational management rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses resource scarcity in Agile organisations and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on themes of empowerment and decision-making, it lacks a direct focus on integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:36:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile organisations, highlighting the importance of resources, trust, and training, which are essential for continuous improvement. It provides actionable strategies for overcoming resource scarcity, aligning with the principles of continuous improvement. However, the primary focus is on the challenges of resource allocation rather than a deep exploration of continuous improvement methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:36:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource scarcity in Agile organisations and suggests strategies for overcoming it, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the challenges and solutions rather than explicitly addressing shared objectives or alignment within teams. The mention of empowerment and trust aligns somewhat with the category, but the overall discussion lacks depth in connecting these ideas to the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:36:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training, trust, and resource allocation, which are essential for fostering competence within Agile organisations. It highlights strategies for empowering teams and investing in their development, aligning well with the core themes of competence. However, while it touches on these topics, the primary focus is on resource scarcity rather than a deep exploration of competence itself, leading to a slightly lower depth score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:36:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses resource scarcity in Agile organisations and does not directly address the principles or components of the One Engineering System. While it touches on themes of empowerment and resource allocation, it lacks a focus on the integration and standardisation of engineering processes, which are central to 1ES. The discussion is more aligned with Agile methodologies rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

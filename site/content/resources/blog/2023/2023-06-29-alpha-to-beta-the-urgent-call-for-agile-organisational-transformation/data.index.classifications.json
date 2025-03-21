@@ -643,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T19:08:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:23:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational transformation and agility, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the need for agile organisational transformation and critiques traditional hierarchical structures. While it touches on agility, it does not explicitly mention Continuous Delivery or its principles, practices, or benefits. The focus is more on organisational change rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1267,11 +1270,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T19:06:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:22:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational transformation and agility, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for organisational transformation and agility, which are relevant to DevOps principles, particularly in terms of collaboration and breaking down silos. However, it primarily focuses on agile methodologies and organisational structures rather than the specific practices and cultural shifts associated with DevOps. The mention of cross-functional teams aligns with DevOps, but the overall emphasis is on agility rather than the integration of development and operations, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1435,11 +1441,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:50:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:23:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the need for organisational transformation and agility, focusing on historical context and hierarchical structures rather than empirical evidence or data-driven decision-making.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the need for agile transformation and critiques traditional hierarchical structures, but it lacks explicit references to Evidence-Based Management principles or metrics. While it touches on themes of organisational change and adaptability, it does not provide empirical evidence or data-informed decision-making practices central to EBM.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1451,22 +1460,16 @@
     "reasoning": "Content heavily discusses organisational transformation and agility, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:50:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the need for organisational transformation and agility, focusing on hierarchical structures and market dynamics, without a clear connection to the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T19:23:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the need for organisational transformation towards agility and modern network models, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on the critique of traditional hierarchical structures and the historical context of organisational change rather than providing a clear, primary discussion on the Agile Product Operating Model itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the need for agile transformation and critiques traditional hierarchical structures, which aligns with the Agile Product Operating Model's emphasis on transitioning to a product-oriented mindset. However, it lacks direct mentions of specific APOM principles and does not delve deeply into product management practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational transformation and agility, focusing on hierarchical structures and market dynamics rather than the specific principles and practices of the Shift-Left Strategy. While it touches on the need for change in organisational processes, it does not explicitly mention integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:22:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the need for organisational transformation and the shift from hierarchical to network models, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the challenges and historical context of agility rather than specific Continuous Improvement practices or frameworks. While it mentions the need for ongoing adaptation and refactoring, it lacks detailed strategies or empirical evidence typically associated with Continuous Improvement discussions.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:22:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for agile transformation and the shift from hierarchical to network organisational structures, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the challenges and historical context of organisational change rather than explicitly addressing shared objectives or alignment within teams. While there are mentions of agility and the need for alignment with market demands, the discussion lacks a direct focus on how these changes create common goals or enhance accountability across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:22:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for organisational transformation and agility but does not explicitly focus on competence or skill development. While it touches on the importance of adapting to market changes, it lacks a detailed exploration of continuous learning, mastery, or the role of competence in delivering quality outcomes. The discussion is more about organisational structures and dynamics rather than the development of individual or team capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:23:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the need for agile transformation and critiques traditional hierarchical structures, but it does not explicitly mention the One Engineering System (1ES) or its principles. While there are some conceptual overlaps regarding the need for integration and modernisation in organisational practices, the focus is more on agile methodologies and organisational change rather than the specific framework of 1ES. The depth of discussion on 1ES-related topics is minimal, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

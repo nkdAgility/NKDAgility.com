@@ -127,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:28:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:16:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the product owner in managing the product backlog, which is more aligned with project management and Agile methodologies rather than DevOps principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the importance of prioritisation in product management. While it touches on accountability and stakeholder engagement, which are relevant to DevOps, it lacks direct discussions on DevOps principles, practices, or cultural shifts. The alignment with DevOps themes is minimal, and the depth of discussion does not delve into automation, collaboration, or continuous improvement, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -166,11 +169,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:17:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role of the product owner in prioritization and budget management, without discussing Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in prioritisation and stakeholder engagement, which are important aspects of product management but do not directly address Continuous Delivery principles or practices. While there are mentions of value delivery and budget control, these concepts are not explicitly tied to Continuous Delivery methodologies or the automation and rapid feedback loops that characterise it. The discussion lacks depth in Continuous Delivery topics such as automation, incremental improvements, or cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -958,14 +964,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:48:40",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T18:17:14",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the role of a Product Owner and the importance of prioritisation in delivering value, which aligns with the Agile Product Operating Model. However, it primarily focuses on the responsibilities of the Product Owner rather than the broader principles and strategies of the Agile Product Operating Model. While it touches on value delivery and stakeholder engagement, it lacks a comprehensive exploration of the model's key topics, such as cross-functional teams and continuous feedback mechanisms.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the importance of prioritisation in product management. While it touches on key aspects of the Agile Product Operating Model, such as value delivery and stakeholder engagement, it does not explicitly discuss the broader framework or principles of APOM. The depth of discussion on prioritisation and its impact on product success is significant, but the content lacks a comprehensive exploration of the Agile Product Operating Model as a whole.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1165,12 +1171,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and their responsibilities rather than focusing on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T18:17:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses prioritisation and value delivery, which are relevant to Evidence-Based Management, but it lacks explicit references to empirical evidence or metrics. The focus is more on the role of the Product Owner and strategic decision-making without a strong emphasis on data-informed practices.",
+    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1230,15 +1239,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the product owner in managing the backlog and budget, which is focused on product management rather than employee engagement strategies or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role of product owners in Scrum and prioritization, which is unrelated to the principles and discussions of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1497,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a Product Owner in prioritising tasks and managing budgets, with no explicit mention of the Shift-Left Strategy or its principles. While there are elements of collaboration and stakeholder engagement, these do not directly relate to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:17:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses prioritisation and accountability in the role of a Product Owner, which touches on aspects of Continuous Improvement, such as value delivery and stakeholder engagement. However, it lacks a direct focus on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The discussion is more centred on prioritisation strategies rather than a comprehensive exploration of Continuous Improvement methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:17:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of a Product Owner in prioritising tasks and aligning product development with business goals, which touches on the concept of Common Goals. However, it primarily focuses on prioritisation techniques and personal experiences rather than a comprehensive exploration of Common Goals within Agile or DevOps frameworks. The discussion lacks depth in connecting these concepts to broader organisational objectives or frameworks like OKRs.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:17:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Product Owner and the importance of prioritisation, which indirectly relates to competence through accountability and decision-making. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about the responsibilities and strategies of prioritisation rather than fostering a culture of competence or professional growth.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:17:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the importance of prioritisation in product management. While it touches on aspects of accountability and stakeholder engagement, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more aligned with product management practices rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

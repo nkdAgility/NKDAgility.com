@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T02:45:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:29:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting engagement outcomes and systemic change, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses consulting engagements and systemic change, with a focus on Agile and Scrum methodologies. While it touches on themes of transformation and organisational change, it does not explicitly address Continuous Delivery principles, practices, or tools. The mention of Agile is not directly related to Continuous Delivery, and the overall discussion lacks depth in the specific context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T02:45:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:29:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value of systemic change in consulting engagements without a clear focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses consulting engagements and systemic change but lacks explicit references to Evidence-Based Management principles or metrics. While it touches on transformation and organisational change, it does not provide a data-informed decision-making framework or empirical evidence, which are central to EBM. The focus is more on general Agile and Scrum concepts rather than on evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:43:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses systemic change in organisations and the challenges of implementing change, with only a brief mention of DevOps at the end, making it not central to the content.",
+    "calculated_at": "2025-03-21T19:29:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses systemic change and transformation within organisations, which can relate to DevOps principles of collaboration and continuous improvement. However, it primarily focuses on consulting and agile methodologies without explicitly addressing DevOps concepts or practices. The mention of lean principles and a culture of experimentation aligns somewhat with DevOps, but the overall focus is not on DevOps itself.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1468,11 +1477,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:52:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value of systemic change in consulting engagements, with only a brief mention of agile and scrum, which does not align with the core principles of the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:29:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses systemic change and transformation in an organisational context, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on consulting engagements and does not explicitly mention the Agile Product Operating Model or its key topics. The depth of discussion on APOM-related themes is limited, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1491,15 +1503,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses consulting engagement outcomes and systemic change, with only brief mentions of Agile and DevOps, which are not central to platform engineering.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:52:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses systemic change in organisations and consulting outcomes, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1542,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses consulting engagements and systemic change without any explicit mention of the Shift-Left Strategy. While it touches on themes of transformation and organisational change, it does not align with the core principles of integrating testing, security, or compliance early in the software development lifecycle. The focus is more on general business transformation and Agile principles rather than the specific proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:29:25",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of systemic change and the importance of fostering a culture of experimentation, which aligns with Continuous Improvement principles. However, it primarily focuses on consulting outcomes rather than a structured approach to Continuous Improvement, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:29:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of systemic change and transformation within organisations, which aligns with the broader themes of Common Goals in Agile and DevOps. However, it lacks direct mentions of specific common goals or frameworks like OKRs, and the focus is more on personal insights and experiences rather than a structured discussion on aligning strategy with execution. The depth of discussion is moderate, touching on challenges and cultural shifts but not providing detailed techniques or frameworks for ensuring alignment with strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:29:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of systemic change and transformation within organisations, which aligns with the concept of competence in fostering a culture of continuous learning and adaptation. However, while it touches on the need for skill development and experimentation, it does not explicitly focus on competence as a primary theme, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:29:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses consulting engagements and systemic change without any direct reference to the One Engineering System (1ES). While it touches on themes of transformation and agility, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices. The focus is more on personal and organisational change rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

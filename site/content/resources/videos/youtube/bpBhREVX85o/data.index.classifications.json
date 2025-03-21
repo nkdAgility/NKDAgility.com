@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:26:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and its role in decision-making for leadership teams, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and its role in decision-making for leadership teams, without addressing Continuous Delivery principles or practices. While it touches on agile methodologies, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or rapid feedback loops in the context of software delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,14 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:39:17",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T20:26:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of empirical evidence in guiding leadership teams. However, it primarily focuses on the limitations of Scrum rather than providing a comprehensive exploration of Evidence-Based Management principles. While it touches on the need for data-driven decision-making, it lacks detailed discussions on metrics, KPIs, or case studies that would strengthen its alignment with the EBM category.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and its limitations in decision-making, rather than focusing on Evidence-Based Management principles. While it touches on the importance of empirical evidence and feedback loops, it does not delve deeply into the key topics of EBM such as current value, time to market, or outcome management. The discussion is more about the role of Scrum in leadership decision-making rather than a comprehensive exploration of evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:49:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:25:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile methodologies, which are not central to DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum, an agile framework, and its role in decision-making for leadership teams. While it touches on concepts like feedback loops and collaboration, it does not explicitly address DevOps principles or practices. The focus is on Scrum rather than the integration of development and operations, which is central to DevOps. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1484,17 @@
     "reasoning": "Content heavily discusses Scrum and its role in decision-making, but does not focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:35:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its role in decision-making, which is unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:26:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and value delivery, which aligns with the Agile Product Operating Model, but it primarily focuses on Scrum rather than the broader model itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum as an agile framework and its limitations in decision-making for leadership teams. While it touches on aspects of agile methodologies, it does not explicitly address the Agile Product Operating Model or its principles. The focus is more on Scrum rather than a product-oriented mindset, which is central to the APOM. Therefore, while there are relevant themes, the content does not align closely enough with the core topics of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Scrum framework and its role in decision-making for leadership teams, without any direct mention or exploration of the Shift-Left Strategy. While it touches on aspects of agile methodologies, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy. The focus is on leadership and decision-making rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:25:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum and its role in decision-making and feedback loops, which are relevant to Continuous Improvement. However, it primarily focuses on the limitations of Scrum in directly identifying valuable work rather than on Continuous Improvement practices themselves. While it touches on aspects of empirical evidence and the need for leadership to drive improvements, it lacks a comprehensive exploration of Continuous Improvement strategies or techniques, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:25:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership teams in identifying valuable work. While it touches on the concept of aligning strategy with execution, it primarily focuses on the limitations of Scrum rather than the foundational principles of Common Goals. The discussion lacks depth in exploring how shared objectives guide decision-making or connect individual contributions to the overall mission, which is crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:25:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership teams understanding their business and customers. While it touches on aspects of competence, such as the need for leaders to develop insights and make informed decisions, it does not focus primarily on continuous learning or skill development. The discussion is more about the limitations of Scrum rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:26:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum, an agile framework, and its role in decision-making for leadership teams. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The focus is on Scrum's limitations and benefits rather than on the integration and standardisation of engineering processes, which are core to 1ES. Therefore, the content does not align with the category.",
     "level": "Ignored"
   }
 }

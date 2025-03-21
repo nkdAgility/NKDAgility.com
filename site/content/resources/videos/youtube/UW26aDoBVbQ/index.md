@@ -33,9 +33,9 @@ tags:
 - Lean
 - Lean Principles
 - Lean Thinking
-- Agile Product Operating Model
 - Organisational Agility
 - Discovery and Learning
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

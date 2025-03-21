@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:00:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses competence-based hierarchies and leadership, with no clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses competence-based hierarchies and leadership within Agile and Scrum contexts, which are not directly related to DevOps principles. While there are elements of collaboration and team empowerment, the focus is not on the core themes of DevOps such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -232,11 +235,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:56:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses competence-based hierarchies in leadership and decision-making, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses competence-based hierarchies and leadership within Agile and Scrum contexts, without any direct mention or exploration of Continuous Delivery principles, practices, or benefits. While it touches on themes of empowerment and decision-making, these are not specifically related to Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -369,15 +375,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses competence-based hierarchies and leadership, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses competence-based hierarchies and leadership, which are unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1168,11 +1165,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:56:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on competence-based hierarchies in leadership and decision-making, with no clear connection to the Agile Product Operating Model or its principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and leadership, which are relevant to agile principles but does not explicitly focus on the Agile Product Operating Model. While it mentions agile and scrum, the primary focus is on leadership and decision-making rather than the core themes of APOM such as product management practices or operational stability.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1390,11 +1390,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:56:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses competence-based hierarchies and leadership approaches, but does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and decision-making but lacks a direct focus on Evidence-Based Management principles. While it touches on informed decision-making, it does not provide empirical evidence or metrics related to EBM. The primary emphasis is on leadership and competence rather than data-driven management practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1473,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses competence-based hierarchies and leadership rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the software development lifecycle, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on leadership and decision-making, which does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:55:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on decision-making and leadership, which aligns with some principles of Continuous Improvement, such as fostering a culture of learning and empowerment. However, it lacks direct mentions of Continuous Improvement practices, empirical evidence, or specific strategies for integrating these concepts into organisational processes. The focus is more on leadership and competence rather than on continuous improvement as a systematic approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:55:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on decision-making and leadership, which are relevant to Agile principles. However, it does not explicitly mention Common Goals or their significance in aligning strategy with execution. The focus is more on individual competence rather than shared objectives or team alignment, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:56:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses competence-based hierarchies, emphasising the importance of recognising individual expertise over authority. It aligns well with the core themes of competence, such as continuous learning and the role of competence in decision-making. The depth of discussion is substantial, providing insights into how competence influences leadership and team dynamics, thus justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:56:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses competence-based hierarchies and leadership in agile environments, with a focus on individual expertise rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. There are no direct mentions of 1ES principles or components, and the discussion lacks depth regarding the implementation or impact of a unified engineering system.",
     "level": "Ignored"
   }
 }

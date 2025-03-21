@@ -44,15 +44,6 @@
     "reasoning": "Content primarily focuses on Kanban boards and workflow visualisation, which does not align with the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Kanban methodology and visualising workflows, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-03-06T13:42:56",
@@ -76,11 +67,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:40:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:31:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban methodology and visualising workflows, which are not central to DevOps principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow management tool, which is not directly aligned with the core principles of DevOps. While it touches on collaboration and efficiency, it lacks explicit discussions on DevOps philosophy, automation, or shared accountability among teams. The depth of discussion is limited to practical advice on Kanban boards without connecting to broader DevOps concepts.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -112,11 +106,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:40:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:31:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban boards and visualising workflows, which does not align with the Agile Product Operating Model's emphasis on product-centric development and value delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow visualisation tool, which is more aligned with agile practices rather than the specific principles of the Agile Product Operating Model. While it touches on collaboration and efficiency, it does not discuss product management principles, governance, or the transition from project to product ethos, which are core to the APOM framework.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -316,11 +313,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:41:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:31:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban boards and visualising workflows, with no clear discussion on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban boards and workflow visualisation, which are not directly related to Evidence-Based Management. While there are elements of process improvement and efficiency, the discussion lacks explicit references to empirical evidence, data-informed decision-making, or the specific metrics outlined in the EBM category. The content does not engage with the core themes of current value, time to market, or outcome management, leading to a low confidence score.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1027,11 +1027,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban boards and visualizing workflows, which are not directly related to Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:31:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 5,
+    "ai_depth": 5,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow management tool, discussing visualisation and efficiency rather than Continuous Delivery principles. While it touches on aspects of workflow improvement and team collaboration, it does not explicitly address Continuous Delivery practices, automation, or rapid feedback mechanisms. The mention of continuous improvement is too vague to establish a strong connection to Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1470,6 +1473,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Kanban and workflow visualisation, with no direct mention of the Shift-Left Strategy or its principles. While it discusses improving processes and team collaboration, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:31:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of visualising workflows and adapting Kanban boards, which aligns with the principles of Continuous Improvement. It mentions assessing and adjusting processes, which reflects a commitment to incremental enhancements. However, the primary focus is on Kanban methodology rather than a broader discussion of Continuous Improvement principles, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:31:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical aspects of using a Kanban board to visualise workflows, which does not directly address the concept of Common Goals. While it mentions enhancing collaboration and improving efficiency, these points are more about workflow management than aligning team efforts with overarching strategic objectives. The discussion lacks explicit references to shared objectives or the relationship between strategic and tactical goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:31:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of visualising workflows and adapting Kanban boards, which indirectly relates to competence through the lens of continuous improvement and efficiency. However, it lacks a direct focus on skill development or the professional growth aspects of competence, making it a secondary theme rather than a primary one.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:31:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Kanban methodology and visualising workflows, which are not directly related to the One Engineering System framework. While it touches on collaboration and efficiency, it does not discuss the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or methodologies. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   }
 }

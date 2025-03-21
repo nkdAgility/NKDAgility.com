@@ -127,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:34:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:20:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an agile coach in engaging with technical and leadership teams, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and the skills necessary for effective engagement with technical teams and leadership. While it touches on themes relevant to DevOps, such as collaboration and bridging gaps between teams, it does not explicitly discuss DevOps principles or practices. The emphasis is more on Agile methodologies rather than the broader DevOps philosophy, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -166,11 +169,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualities and understanding needed for an agile coach, focusing on engagement with technical and leadership roles, rather than Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:20:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of an Agile coach in facilitating Agile practices, focusing on engagement with technical teams and leadership. While it touches on aspects of Agile that could relate to Continuous Delivery, such as improving processes and aligning business goals, it does not explicitly address Continuous Delivery principles, practices, or the importance of automation and rapid feedback. The discussion is more centred on Agile coaching rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -964,11 +970,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the qualifications and roles of an agile coach rather than the Agile Product Operating Model itself. It does not discuss principles, strategies, or methodologies related to agile product development.",
+    "calculated_at": "2025-03-21T18:20:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the role of an Agile coach in facilitating Agile practices within an organisation, focusing on both technical and leadership engagement. While it touches on aspects of Agile methodologies, it does not explicitly address the Agile Product Operating Model or its core principles. The discussion is more centred on the hiring process and traits of an Agile coach rather than the broader framework of APOM, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1165,11 +1174,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:20:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on hiring an agile coach and the necessary skills without discussing Evidence-Based Management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging technical and leadership engagement, which indirectly relates to Evidence-Based Management by emphasising the importance of aligning Agile practices with business outcomes. However, it lacks direct references to empirical evidence or specific metrics that are central to EBM. The focus is more on hiring practices and personal experiences rather than on data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1227,15 +1239,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses hiring criteria for agile coaches, focusing on technical understanding and gaining credibility, rather than strategies or practices related to employee engagement.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring an agile coach and their qualifications rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1497,6 +1500,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the role of an Agile coach in bridging technical and leadership engagement, which indirectly relates to the Shift-Left Strategy by emphasising the importance of understanding technical challenges and business outcomes. However, it does not explicitly mention the Shift-Left Strategy or its core principles, nor does it provide detailed techniques or metrics related to integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:20:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of an Agile coach in facilitating organisational change and improving team dynamics, which aligns with the principles of Continuous Improvement. However, it primarily focuses on hiring criteria rather than on Continuous Improvement practices themselves. While there are mentions of improving processes and aligning Agile with business outcomes, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:20:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which indirectly relates to aligning team efforts with organisational goals. However, it primarily focuses on hiring criteria and personal experiences rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The discussion lacks depth on how these roles contribute to shared objectives or strategic alignment, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:20:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of hiring an Agile coach who possesses both technical understanding and business acumen, which directly relates to the concept of competence. It highlights the necessity for continuous development and the ability to engage effectively with both technical teams and leadership, aligning well with the core themes of competence. The depth of discussion is substantial, providing specific traits and examples that illustrate how competence impacts the effectiveness of an Agile coach in driving organisational change.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:20:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on hiring an Agile coach and their role in bridging technical teams and leadership, which does not directly discuss the One Engineering System framework or its principles. While there are mentions of Agile practices, the content lacks a clear connection to the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

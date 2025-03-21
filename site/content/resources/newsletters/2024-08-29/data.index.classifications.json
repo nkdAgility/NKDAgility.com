@@ -745,11 +745,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T15:59:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:18:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily promotes a workshop on product discovery and validation skills, lacking a focus on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which is related to customer-centric development. However, it lacks explicit discussions on Evidence-Based Management principles, such as empirical decision-making or metrics for current value and unrealised value. While it touches on customer needs and validation techniques, it does not delve into the core themes of EBM in a meaningful way.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -871,11 +874,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T16:00:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:18:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a workshop for product discovery and validation, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, which is related to product development but does not explicitly discuss Continuous Delivery principles or practices. While it touches on customer-centric development and validation techniques, these topics do not align closely with the core themes of Continuous Delivery, such as automation in deployment or rapid feedback loops in the context of software delivery.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1487,15 +1493,6 @@
     "reasoning": "Content primarily focuses on a workshop for product validation and discovery, with an emphasis on customer-centric development and agile practices, rather than discussing BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:16:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a workshop for product discovery and validation, with no clear discussion on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:14:34",
@@ -1572,6 +1569,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a workshop for product validation and discovery, which does not explicitly discuss the Shift-Left Strategy. While it touches on customer-centric development and validation techniques, these concepts are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle. The discussion lacks depth and does not provide specific techniques or case studies relevant to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:17:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which includes elements of customer-centric development and iterative feedback. However, it lacks a direct discussion on Continuous Improvement principles and does not delve deeply into strategies or frameworks that support Continuous Improvement. While there are mentions of enhancing skills and fostering collaboration, these are more about the workshop's offerings rather than a commitment to ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:17:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which is relevant to Agile practices. However, it lacks a direct discussion on Common Goals as a foundational principle. While it mentions team collaboration and alignment towards a common goal, these concepts are not explored in depth or connected to the broader strategic objectives of Agile or DevOps frameworks. The focus is more on the workshop's benefits rather than a thorough examination of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:18:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content promotes a workshop focused on product validation and discovery skills, which indirectly relates to competence through skill development. However, it lacks explicit discussions on continuous learning or the deeper implications of competence in Agile methodologies. While it mentions enhancing skills and fostering collaboration, these points are not explored in depth, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:18:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, which is related to agile methodologies but does not explicitly discuss the One Engineering System (1ES) framework or its principles. There are no direct mentions of 1ES, and the discussion is centred around product development skills rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

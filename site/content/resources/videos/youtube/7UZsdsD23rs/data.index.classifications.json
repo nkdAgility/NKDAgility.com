@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:28:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:59:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses empiricism and Agile methodologies, particularly Scrum, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses empiricism within the Agile framework, focusing on Scrum practices rather than Continuous Delivery principles. While it touches on aspects of feedback and adaptation, it does not explicitly address Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,15 +835,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T22:24:33",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-21T18:59:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content extensively discusses empiricism, a foundational concept in Evidence-Based Management, particularly within the Agile framework. It highlights the importance of transparency, inspection, and adaptation, which are core principles of EBM. The discussion on Scrum practices and the role of metrics aligns well with EBM themes. However, while it provides a solid overview, it lacks specific case studies or detailed techniques for measuring organisational performance, which slightly limits its depth in the context of EBM.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses empiricism extensively, which is a foundational concept in Evidence-Based Management. It highlights the importance of data-driven decision-making and the need for transparency, inspection, and adaptation, aligning well with the core themes of EBM. However, the focus is primarily on Agile and Scrum practices rather than a direct discussion of EBM principles, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile principles, specifically empiricism and Scrum practices, without a clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:59:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles, specifically empiricism within the Scrum framework, rather than discussing DevOps as a philosophy or its core principles. While there are mentions of collaboration and feedback loops, which are relevant to DevOps, the overall emphasis is on Agile methodologies, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1477,12 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:51:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:59:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the principles of empiricism and its importance in Agile, particularly in the context of Scrum, which relates to the Agile Product Operating Model. However, it primarily focuses on Scrum practices rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the concept of empiricism within the Agile framework, focusing heavily on Scrum practices and roles. While it touches on aspects relevant to Agile methodologies, it does not explicitly address the Agile Product Operating Model or its core principles. The discussion is more aligned with Scrum than with the broader product-oriented mindset of APOM, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1500,15 +1509,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and Scrum processes without any direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:51:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses empiricism and Agile practices, particularly Scrum, without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of empiricism within Agile methodologies, focusing on transparency, inspection, and adaptation. While these principles are relevant to Agile practices, they do not specifically address the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the software development lifecycle. The discussion lacks direct mentions of Shift-Left concepts and does not delve into techniques or tools that support this strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:59:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses the principles of empiricism within the Agile framework, which aligns closely with Continuous Improvement. It highlights the importance of observation, adaptation, and feedback loops, all of which are key components of Continuous Improvement practices. The depth of discussion on Scrum events and the role of team dynamics in fostering a culture of continuous refinement further supports this alignment. However, while the content is rich in related concepts, it primarily focuses on empiricism rather than explicitly framing these discussions within the broader context of Continuous Improvement, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:59:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of empiricism within Agile and Scrum frameworks, focusing on observation, adaptation, and transparency. While it touches on aspects of team dynamics and alignment, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks a direct focus on shared objectives or the operationalisation of Common Goals, which are central to the category. Therefore, while there are relevant themes, the overall emphasis is not on Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:59:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses empiricism in Agile, which indirectly relates to competence through the themes of continuous learning and adaptation. However, it primarily focuses on the principles of empiricism rather than directly addressing competence as a foundational principle. The mentions of fostering a culture of feedback and adaptation suggest a connection to competence, but the depth of discussion on competence itself is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:59:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the concept of empiricism within the Agile framework, particularly Scrum, without any direct mention or discussion of the One Engineering System (1ES). While it touches on themes of collaboration and adaptation, it does not align with the core principles or components of 1ES, nor does it provide depth on its implementation or impact. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   }
 }

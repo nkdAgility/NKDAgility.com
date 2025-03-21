@@ -36,6 +36,7 @@ tags:
 - People and Process
 - Agile Project Management
 - Scrum Master
+- Competence
 - Scrum Team
 - Professional Scrum
 - Agile Frameworks

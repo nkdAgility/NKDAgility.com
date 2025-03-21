@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T03:09:21",
+    "calculated_at": "2025-03-21T20:57:12",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 50,
-    "final_score": 34.0,
-    "reasoning": "The content briefly mentions DevOps in the context of training and consulting but primarily focuses on Agile practices, specifically Scrum and Kanban. While there are elements of collaboration and continuous improvement, the discussion lacks depth in DevOps principles, practices, and tools. The content does not provide substantial insights into DevOps metrics, automation, or cultural shifts, which are critical for a strong alignment with the DevOps category.",
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile training and methodologies, with a significant emphasis on Scrum practices and continuous forecasting. While there are elements of collaboration and iterative processes that could relate to DevOps, the core discussion does not align with the principles of DevOps as a philosophy. The mention of Agile practices and tools does not sufficiently connect to the broader DevOps themes of shared accountability, automation, or continuous value delivery.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -244,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Ask Me Anything session with a focus on DevOps and Agility, without specific mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:57:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, with only a brief mention of concepts related to Continuous Delivery. While it discusses planning and metrics that could relate to delivery practices, it lacks a direct focus on Continuous Delivery principles, automation, or deployment strategies. The depth of discussion on Continuous Delivery is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -378,15 +381,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Ask Me Anything session regarding DevOps and Agile, without a focus on One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1144,11 +1138,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on a general Q&A session about various topics including DevOps and Agility without a specific emphasis on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T20:57:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, which are related to Agile practices but do not specifically address the Agile Product Operating Model. While there are mentions of Scrum and some principles of Agile, the discussion lacks a direct focus on the core themes of the APOM, such as product management integration and operational governance. The depth of discussion on Agile practices is present, but it does not delve into the product-oriented mindset or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1351,11 +1348,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:57:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a general Q&A format and does not focus on Evidence-Based Management principles or data-driven decision-making.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting, which are related to Agile practices but do not explicitly focus on Evidence-Based Management. While there are mentions of metrics and a flexible planning approach, the primary focus remains on training methods rather than empirical decision-making or value delivery metrics central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1425,6 +1425,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile training and continuous forecasting, with no explicit discussion of the Shift-Left Strategy. While it touches on Agile practices and metrics, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:57:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses continuous forecasting, which aligns with the principles of Continuous Improvement by promoting adaptive planning and the use of metrics for better decision-making. However, the primary focus is on Agile training and methods rather than a dedicated exploration of Continuous Improvement practices. While there are relevant elements, such as the emphasis on iterative learning and feedback, the overall depth and direct mentions of Continuous Improvement concepts are limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:57:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on Agile practices and continuous forecasting, which are relevant to the Agile framework. However, it lacks a focused discussion on Common Goals, such as shared objectives or alignment within teams. The mention of sprint planning and metrics does not sufficiently connect to the core themes of Common Goals, and the overall depth of discussion is limited to training experiences rather than strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:57:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses innovative learning methods and continuous forecasting in Agile training, which aligns with the importance of continuous learning and skill development. However, while it touches on these themes, it does not explicitly focus on competence as a primary topic. The depth of discussion on fostering a culture of competence is moderate, but the overall emphasis is more on training methods rather than on competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:57:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, which are not directly related to the One Engineering System framework. While there are mentions of Agile practices, the discussion does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

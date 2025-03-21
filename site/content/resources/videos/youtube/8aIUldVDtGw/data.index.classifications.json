@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:24:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Lean and Scrum methodologies, focusing on workflow and project management rather than Continuous Delivery principles.",
+    "calculated_at": "2025-03-21T17:51:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of completing tasks and limiting work in progress, which aligns with some principles of Continuous Delivery, such as delivering small, incremental improvements and reducing cycle times. However, it primarily focuses on Agile and Scrum methodologies without explicitly addressing Continuous Delivery practices or tools. The discussion lacks depth in Continuous Delivery specifics, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:45:45",
+    "calculated_at": "2025-03-21T17:51:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses productivity and efficiency in teams, primarily through the lens of Lean and Scrum methodologies. While it touches on concepts like limiting work in progress and prioritising tasks based on value, it lacks a strong focus on empirical evidence or data-driven decision-making, which are core to Evidence-Based Management. The discussion is more about practical advice and principles rather than a thorough exploration of EBM principles or case studies.",
+    "reasoning": "The content primarily discusses the importance of focusing on completing tasks rather than multitasking, which aligns with some principles of Evidence-Based Management, such as improving productivity and delivering value. However, it lacks direct references to empirical metrics or data-driven decision-making, which are central to EBM. The discussion is more focused on Agile and Scrum methodologies without a strong emphasis on evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1303,11 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:22:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:51:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and Lean principles, focusing on project management and team dynamics rather than DevOps practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically Scrum and Lean, focusing on productivity and task management rather than the core principles of DevOps. While it touches on concepts like limiting work in progress and prioritising value, it does not delve into the collaborative, automated, and cultural aspects central to DevOps. The discussion is more aligned with Agile practices than with the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1486,11 +1492,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:05:17",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-21T17:51:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses principles of Agile and Lean methodologies, focusing on the importance of value delivery and the role of the product owner, which aligns with the Agile Product Operating Model. However, it primarily centres on the concept of managing work in progress rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with Agile principles. It mentions Scrum and the role of the Product Owner, indicating a connection to product management. However, the primary focus is on productivity and efficiency rather than a comprehensive exploration of the Agile Product Operating Model itself.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1513,15 +1522,6 @@
     "final_score": 60.0,
     "reasoning": "The content discusses Agile methodologies, particularly Scrum and Lean, focusing on the importance of completing tasks rather than multitasking. While it touches on collaboration and decision-making within teams, it primarily centres on productivity and efficiency rather than the broader themes of social technologies. The mention of roles like the Product Owner and concepts like limiting work in progress aligns with the category, but the depth of discussion is more about task management than fostering collective intelligence or emergent problem-solving.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:05:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Lean and Scrum methodologies, focusing on work management and team dynamics, without a clear emphasis on the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1563,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with some principles of efficiency in software development. However, it does not explicitly mention the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance. The discussion is more centred on productivity and Scrum practices rather than the proactive identification of issues in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:51:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with Continuous Improvement principles. It mentions Lean and Scrum methodologies, emphasising limiting work in progress and prioritising value, which are key aspects of Continuous Improvement. However, while it touches on these concepts, the primary focus is on productivity and team effectiveness rather than a comprehensive exploration of Continuous Improvement as a category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:51:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than starting new ones, which aligns with the concept of Common Goals in terms of enhancing team effectiveness and productivity. However, it primarily centres on the pitfalls of multitasking and does not explicitly address shared objectives or strategic alignment within Agile or DevOps frameworks. The mention of Scrum and Lean practices provides some connection to the category, but the overall focus is more on individual productivity rather than collective goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:51:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with the principles of competence in Agile and Lean methodologies. It mentions the role of leadership and the Product Owner in managing priorities, which indirectly relates to competence in ensuring quality outcomes. However, while it touches on these themes, the primary focus is more on productivity and efficiency rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:51:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically Scrum and Lean, focusing on the importance of task completion over multitasking. While it touches on some principles that could align with the One Engineering System, such as efficiency and prioritisation, it does not explicitly discuss the 1ES framework or its components. The discussion is more centred on Agile practices rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

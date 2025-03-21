@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:15:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:04:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, with a focus on data-driven insights rather than DevOps principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses data-driven decision-making and continuous improvement, which are relevant to DevOps principles. However, it primarily focuses on empiricism within an agile context rather than explicitly addressing DevOps practices or cultural shifts. The mention of continuous improvement aligns with DevOps, but the overall discussion lacks depth in DevOps-specific themes.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,14 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-10T14:14:07",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T19:04:54",
+    "ai_confidence": 78.0,
     "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which aligns with the principles of Evidence-Based Management. It highlights the importance of observable data and iterative experimentation, key aspects of EBM. However, it lacks specific references to established EBM practices or metrics, which slightly reduces the depth of discussion.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and empiricism, which aligns closely with Evidence-Based Management principles. It explicitly mentions the need for access to data, deliberate actions based on hypotheses, and monitoring outcomes, all of which are key aspects of EBM. However, while it touches on agile methodologies, it does not delve deeply into specific EBM metrics or frameworks, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -348,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:16:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -664,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:17:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:04:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and continuous improvement, which are relevant to Continuous Delivery principles. However, it primarily focuses on empiricism and agile methodologies without explicitly addressing Continuous Delivery practices, tools, or case studies. The discussion lacks depth in terms of specific Continuous Delivery techniques and does not mention automation or deployment strategies, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -757,14 +754,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T22:32:36",
+    "calculated_at": "2025-03-21T19:04:48",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the importance of empiricism and data-driven decision-making within an agile context, which aligns with the principles of continuous improvement and adaptation in the Agile Product Operating Model. However, it lacks direct references to product-centric development, cross-functional teams, or specific strategies for maximising value delivery, which are key topics in the category. The discussion is more focused on the empirical approach rather than the broader Agile Product Operating Model framework.",
+    "reasoning": "The content discusses the importance of data-driven decision-making and empiricism within an agile context, which aligns with the principles of the Agile Product Operating Model. However, it does not explicitly mention the Agile Product Operating Model or delve deeply into product management practices, focusing instead on general agile methodologies. The discussion on continuous improvement and informed decision-making reflects some core themes of APOM, but lacks specific references to product-oriented frameworks or structures.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -1527,6 +1524,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses empiricism and data-driven decision-making within an agile context but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on continuous improvement and informed decisions, these concepts are not directly tied to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core focus of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:04:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of data-driven decisions and the cycle of experimentation, which are key aspects of Continuous Improvement. It highlights how empirical evidence can lead to informed decisions and foster a culture of continuous improvement. However, while it aligns well with the principles of Continuous Improvement, it does not delve deeply into specific strategies or case studies, which slightly limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:04:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making within an agile context, which aligns with the principles of continuous improvement and informed decision-making. However, it does not explicitly mention Common Goals or their significance in aligning strategy with execution. The focus is more on the empirical approach rather than on shared objectives or team alignment, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:04:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and continuous improvement, which aligns with the principles of competence in Agile methodologies. It mentions the need for deliberate actions and monitoring outcomes, reflecting a commitment to skill development and quality delivery. However, while competence is a significant theme, the primary focus is on empiricism and data rather than directly on competence itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:04:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in agile methodologies, without directly addressing the One Engineering System framework or its principles. While it touches on data-driven decision-making, it does not explore integration, standardisation, or the specific components of 1ES, which are essential for a higher confidence score.",
     "level": "Ignored"
   }
 }

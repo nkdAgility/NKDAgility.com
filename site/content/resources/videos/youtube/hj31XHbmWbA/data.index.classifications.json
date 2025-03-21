@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:12:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:40:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a quote by Steve Jobs and focuses on the concept of connecting past experiences to inform future decisions, which is not relevant to DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of reflective learning, which are not central to the DevOps philosophy. While there are some overlapping themes, such as iterative improvement and data-driven decision-making, the focus remains on Agile rather than the broader DevOps principles. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,14 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:40:45",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T18:40:57",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly references the importance of learning from past experiences to inform future decisions, which aligns with the concept of using empirical evidence. However, it lacks explicit discussion of Evidence-Based Management principles, techniques, or metrics, and does not delve into the depth required for a comprehensive understanding of EBM.",
+    "final_score": 39.0,
+    "reasoning": "The content discusses reflective learning and data-driven decision-making in Agile environments, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on Steve Jobs' philosophy rather than providing a comprehensive exploration of EBM concepts. The discussion lacks explicit metrics or detailed analysis related to current value, time to market, or unrealised value, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -324,15 +327,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses philosophical reflections on decision-making and learning from the past, lacking any reference to release management concepts or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a quote by Steve Jobs regarding the perspective on the future and the past, which is unrelated to the principles and discussions of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -634,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:40:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a quote from Steve Jobs regarding decision-making and reflection, with no direct relevance to the principles or practices of Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of reflective learning, which is tangentially related to Continuous Delivery. However, it lacks direct mentions of Continuous Delivery principles, automation, or specific practices that enhance software delivery. The focus is more on Agile philosophy rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -727,11 +724,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical perspective on connecting past experiences to inform future decisions, without clear relevance to the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T18:40:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile practices and the importance of reflective learning, which aligns with some principles of the Agile Product Operating Model. However, it lacks a direct focus on product management principles and does not delve into the specific elements of the APOM framework, such as operational stability or governance in product delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1458,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses reflective learning in Agile environments, focusing on the importance of past experiences rather than integrating testing, security, or compliance early in the development process. It does not explicitly mention the Shift-Left Strategy or its principles, techniques, or tools, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:40:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of reflective learning and data-driven decision-making in Agile environments, which aligns with Continuous Improvement principles. However, it primarily focuses on Steve Jobs' quote and its implications rather than providing a comprehensive exploration of Continuous Improvement strategies or frameworks. The discussion is relevant but lacks depth in terms of specific techniques or case studies related to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:40:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses reflective learning in Agile environments, which is somewhat related to the concept of Common Goals. However, it primarily focuses on the importance of learning from past experiences rather than explicitly addressing shared objectives or alignment within teams. The mention of Agile practices and decision-making based on historical data provides some alignment, but it lacks a direct connection to the core themes of Common Goals, such as strategic alignment and ownership within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:40:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of reflective learning and adapting based on past experiences, which aligns with the core themes of competence in Agile. However, it does not explicitly focus on continuous skill development or strategies for fostering a culture of competence, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:40:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of reflective learning, which, while relevant to software development, does not specifically address the One Engineering System framework or its principles. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration, standardisation, or best practices related to 1ES.",
     "level": "Ignored"
   }
 }

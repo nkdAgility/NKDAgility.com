@@ -253,15 +253,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "calculated_at": "2025-03-21T16:39:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content briefly mentions the importance of data in decision-making and scaling, but it lacks a direct focus on Evidence-Based Management principles. While it discusses challenges in scaling and the need for strong leadership and systems, it does not delve into empirical evidence or specific EBM practices. The discussion is more about general agile practices and scaling rather than a thorough exploration of EBM concepts.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses scaling product development and mentions the importance of data in decision-making, which aligns with the principles of Evidence-Based Management. However, the primary focus is on scaling challenges and team dynamics rather than a thorough exploration of EBM concepts. While it touches on relevant metrics like time to market and innovation, it lacks a deep dive into empirical decision-making or outcome management, which are core to EBM.",
+    "level": "Tertiary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -1081,14 +1081,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-03-21T16:39:51",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses scaling product development and addresses challenges related to alignment and technical debt, which are not directly tied to Continuous Delivery principles. While it mentions DevOps and continuous learning, these concepts are not explored in the context of Continuous Delivery practices or methodologies. The focus is more on organisational growth and efficiency rather than the specific practices of Continuous Delivery.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling product development and the challenges associated with it, which are relevant to Continuous Delivery. However, it primarily focuses on team dynamics, leadership, and organisational culture rather than the specific principles and practices of Continuous Delivery. There are brief mentions of concepts like DevOps and continuous learning, but these are not explored in depth or directly tied to Continuous Delivery practices. Overall, while there is some alignment with the category, the primary focus is on scaling rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1643,18 +1643,6 @@
     "reasoning": "The content discusses scaling in the context of product development and mentions frameworks like LeSS and Nexus, which are relevant to scaling agility. However, the primary focus is on team-level challenges and solutions rather than a comprehensive exploration of scaling agility across the organisation. While it touches on leadership and collaboration, it lacks in-depth discussion on organisational structures or metrics for assessing agility, which are crucial for a higher confidence score.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses scaling product development and mentions frameworks like LeSS and Nexus, which are not part of the One Engineering System (1ES). While it touches on themes of collaboration and reducing friction, it lacks a direct focus on the principles and components of 1ES, and does not provide detailed insights into its implementation or impact. Therefore, the content is only tangentially related to the 1ES category.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1869,6 +1857,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses scaling product development and the challenges associated with it, such as alignment and technical debt. However, it does not explicitly mention the Shift-Left Strategy or its principles. While there are themes related to improving processes and reducing bottlenecks, the focus is more on scaling and team dynamics rather than integrating testing, security, or compliance early in the development lifecycle. Therefore, the confidence score reflects a low alignment with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:39:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses challenges and strategies related to scaling product development, which touches on aspects of Continuous Improvement, such as eliminating bottlenecks and fostering a culture of continuous learning. However, it lacks explicit discussions on Continuous Improvement principles and frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:39:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of scaling product development and the importance of alignment within teams, which relates to the concept of Common Goals. However, it does not explicitly define or focus on Common Goals as a primary theme. The discussion on leadership and clear priorities touches on aspects of alignment and ownership but lacks depth in connecting these to overarching strategic objectives. Overall, while there are relevant elements, the content does not fully embrace the core principles of Common Goals.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:39:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of scaling in product development and highlights the importance of fostering a culture of collaboration and continuous learning, which aligns with the principles of competence. However, while it touches on leadership and team structuring, it lacks a deeper exploration of skill development and mastery, which are crucial aspects of competence. The focus is more on processes and systems rather than on the continuous development of individual capabilities.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:39:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses scaling product development and addresses challenges such as alignment and technical debt, which are relevant to engineering practices. However, it primarily focuses on Naked Agility and does not explicitly mention the One Engineering System or its principles. The discussion lacks depth regarding the integration and standardisation of engineering processes, which is central to the 1ES framework.",
     "level": "Ignored"
   }
 }

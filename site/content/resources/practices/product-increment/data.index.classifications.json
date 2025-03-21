@@ -466,11 +466,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T09:23:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:07:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Product Increment, which is not directly related to Evidence-Based Management principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the concept of a Product Increment, which relates to value delivery but does not explicitly discuss Evidence-Based Management principles or metrics. It lacks a focus on empirical evidence or data-informed decision-making, making it only tangentially relevant to the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -511,11 +514,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T09:23:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:07:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the concept of a Product Increment, which is related to software development cycles, but it does not explicitly discuss Continuous Delivery principles or practices. While it touches on the idea of delivering improvements, it lacks depth in exploring automation, rapid feedback, or cultural aspects of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1343,15 +1349,6 @@
     "reasoning": "Content primarily discusses the concept of Product Increment, which is not directly related to the principles or practices of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:12:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Increment, which is not directly related to the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:44:57",
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content primarily focuses on defining a Product Increment, which is not directly related to the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, nor does it discuss the principles or benefits of the Shift-Left approach. The content lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:07:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions improvements in the context of a Product Increment, but it lacks a direct focus on Continuous Improvement principles. It does not discuss empirical evidence, techniques for fostering a culture of experimentation, or strategies for integrating Continuous Improvement into processes. The discussion is primarily about the outcome of development rather than the ongoing practice of reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:07:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the concept of a Product Increment, which is related to Agile practices, but does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The focus is more on the outcome of development rather than the shared objectives that guide decision-making within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:07:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Increment, which is more related to deliverables in Agile rather than directly discussing competence. While it touches on the outcomes of development, it lacks explicit references to continuous learning, skill development, or the role of competence in maintaining trust and quality within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:07:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Increment, which is a specific outcome in software development rather than discussing the One Engineering System framework. There are no direct mentions of 1ES principles or components, and the discussion lacks depth regarding integration, best practices, or the impact of 1ES on software quality. Overall, it does not align with the core themes of the category.",
     "level": "Ignored"
   }
 }

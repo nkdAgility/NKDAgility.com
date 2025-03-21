@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T20:54:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:12:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses value-based prioritization in the context of Scrum, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions prioritization in the context of delivering value to stakeholders, which is a general software development practice rather than a focused discussion on Continuous Delivery. It lacks explicit references to Continuous Delivery principles, automation, or the specific practices that enhance software quality and responsiveness. The discussion is too high-level and does not delve into the core themes or provide sufficient detail related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:54:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:13:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is not directly related to Evidence-Based Management principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions value delivery and prioritization, which aligns with the concept of current value in Evidence-Based Management. However, it lacks a detailed discussion on empirical metrics or data-informed decision-making, focusing instead on general value creation without specific evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1460,15 +1466,6 @@
     "reasoning": "Content primarily discusses value-based prioritization in the context of Scrum, which does not align with the principles of BetaCodex or its focus on decentralised and adaptive organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:28:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses value-based prioritization in Scrum, which is not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:12:18",
@@ -1530,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, which does not directly address the Shift-Left Strategy. While there is a mention of prioritising tasks, it lacks explicit references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept. The discussion is more focused on stakeholder value rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:12:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions prioritization based on value, which is a component of Continuous Improvement, but does not delve into the broader principles or practices associated with it. The focus is more on value delivery rather than on continuous reflection, adaptation, or empirical evidence, which are core to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:12:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions prioritization based on value, which relates to aligning team efforts with stakeholder needs. However, it lacks a detailed discussion on how this connects to broader Common Goals within Agile or DevOps frameworks. The focus is more on value delivery rather than explicitly discussing shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:12:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions prioritization and value delivery, which are relevant to competence in terms of ensuring quality outcomes. However, it lacks a direct discussion on continuous learning, skill development, or the role of competence in maintaining trust within teams. The focus is primarily on value rather than on the development of capabilities or professionalism.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:12:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses value-based prioritization within a Scrum context, which does not directly address the principles or components of the One Engineering System. While it touches on prioritization, it lacks explicit mentions of 1ES, integration of tools, or best practices related to the unified engineering framework. The focus is on stakeholder value rather than the standardisation and integration of engineering processes.",
     "level": "Ignored"
   }
 }

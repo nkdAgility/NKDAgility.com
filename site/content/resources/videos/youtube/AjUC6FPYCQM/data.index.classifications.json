@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:15:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:04:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum application and its professional practices, which are not central to DevOps principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum and professionalism within Agile teams, with only a brief mention of DevOps at the end. While it touches on collaboration and transparency, which are relevant to DevOps, the main discussion revolves around Scrum practices rather than the broader DevOps philosophy. Therefore, the confidence score reflects a low alignment with the core principles of DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:04:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no primary focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and professionalism within Agile teams, which are not directly related to Continuous Delivery. While it touches on aspects of team dynamics and the importance of delivering a usable product, it lacks explicit discussions on Continuous Delivery principles, automation, or rapid feedback mechanisms. The focus remains on Scrum practices rather than the broader Continuous Delivery framework.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -402,15 +408,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum application and practices without directly addressing Value Stream Management principles or techniques.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and its professional application without mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1216,11 +1213,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on Scrum practices and their professional application rather than the broader Agile Product Operating Model or its product-centric approach.",
+    "calculated_at": "2025-03-21T20:04:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and professionalism within Agile teams, but it does not explicitly address the Agile Product Operating Model or its core principles. While there are mentions of product management and the importance of professionalism in delivering value, the focus remains on Scrum practices rather than a comprehensive exploration of the APOM framework. The discussion lacks depth in terms of the specific elements of the Agile Product Operating Model, such as transitioning to a product ethos or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1429,11 +1429,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum application and professional practices, but does not focus on Evidence-Based Management principles or empirical data-driven decision-making.",
+    "calculated_at": "2025-03-21T20:04:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and professionalism within Agile teams, with limited direct references to Evidence-Based Management principles. While it touches on the importance of transparency and the need for professional behaviour, it lacks a strong focus on empirical evidence or metrics that are central to EBM. The discussion is more about improving Scrum practices rather than making data-informed decisions or managing for outcomes, which are key aspects of EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1506,6 +1509,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses professionalism within Scrum and Agile teams, focusing on team dynamics and the importance of delivering a production-ready product. While it touches on aspects of transparency and collaboration, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:04:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses professionalism in Scrum and highlights the importance of transparency and collaboration, which are related to Continuous Improvement. However, it primarily focuses on the challenges teams face in adopting professional behaviours rather than explicitly addressing Continuous Improvement practices or strategies. The mention of gaps in processes and the need for teams to evolve suggests a connection to Continuous Improvement, but it lacks a direct focus on empirical evidence, data-driven decision-making, or specific techniques for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:04:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses professionalism in Scrum and the importance of delivering value, but it does not explicitly address Common Goals or their significance in Agile and DevOps. While it touches on team dynamics and transparency, it lacks a direct focus on aligning strategy with execution or shared objectives that guide decision-making. The depth of discussion on professionalism and Scrum practices is notable, but it does not sufficiently connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:04:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of professionalism in Scrum, highlighting the gap between current capabilities and the desired professional standards. It directly addresses the need for continuous learning and skill development, particularly in the context of Scrum practices. The depth of discussion includes specific examples and reflections on team behaviours, which align well with the core themes of competence. However, while competence is a significant focus, the content also touches on broader themes of Scrum and team dynamics, which slightly dilutes the primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:04:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Scrum and professionalism within Agile teams, which does not align with the core principles of the One Engineering System. While it touches on some aspects of team dynamics and processes, it lacks direct discussion of 1ES, its components, or its implementation. The content is more about personal experiences and opinions regarding Scrum rather than a structured analysis of a unified engineering framework.",
     "level": "Ignored"
   }
 }

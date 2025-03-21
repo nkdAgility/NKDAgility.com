@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:08:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of pride in Agile practices, focusing on assumptions and value delivery, without addressing Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:41:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of pride within Agile practices, focusing on the balance between confidence and overconfidence. While it touches on themes like data-driven decision-making and learning from failures, which are relevant to Continuous Delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in terms of Continuous Delivery techniques, automation, or cultural aspects specific to Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,14 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:41:04",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T18:41:20",
+    "ai_confidence": 78.0,
     "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of data-driven decision-making in Agile practices, which aligns with the principles of Evidence-Based Management. It mentions the need to validate work with data, avoid assumptions, and focus on meaningful metrics, all of which are core themes of EBM. However, the primary focus is on the concept of pride in Agile rather than a comprehensive exploration of EBM itself, leading to a moderate confidence score.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making in Agile practices, which aligns well with the principles of Evidence-Based Management. It explicitly mentions the need to validate work with data, avoid assumptions, and focus on real metrics rather than vanity metrics. However, while it touches on these themes, the primary focus is on the concept of pride in Agile rather than a comprehensive exploration of EBM itself. Therefore, while there is strong alignment and depth in the discussion of data usage, the overall focus on pride slightly detracts from a full classification under Evidence-Based Management.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1273,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:06:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and the pitfalls of pride in product development, with only a brief mention of DevOps at the end.",
+    "calculated_at": "2025-03-21T18:41:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the concept of pride within that context, which is not directly related to DevOps. While it touches on themes like data-driven decision-making and continuous learning, these are more aligned with Agile methodologies rather than the core principles of DevOps. The focus remains on Agile rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1453,15 +1459,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:41:52",
-    "ai_confidence": 62.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 55.0,
+    "calculated_at": "2025-03-21T18:41:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the implications of pride in Agile practices, touching on themes such as data-driven decision-making and value-driven development, which align with the Agile Product Operating Model. However, it primarily focuses on the pitfalls of pride rather than providing a comprehensive exploration of the Agile Product Operating Model itself. The discussion is relevant but lacks depth in terms of the broader principles and strategies of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile practices and the importance of data-driven decision-making, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the concept of pride within Agile rather than the broader framework of APOM. The discussion lacks depth in terms of product management principles and does not address key topics such as operational stability, governance, or the transition to a product ethos.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1479,15 +1485,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and the pitfalls of pride in software development, without a direct connection to platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:13:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of pride in Agile practices, focusing on assumptions and outcomes rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1530,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of pride in Agile practices, focusing on decision-making, data validation, and learning from failures. While it touches on themes relevant to Agile methodologies, it does not explicitly mention or align with the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the software development lifecycle. The discussion is more about personal and team dynamics rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:41:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and learning from failures, which are key aspects of Continuous Improvement. However, it primarily focuses on the concept of pride in Agile rather than Continuous Improvement itself. While there are mentions of continuous learning and the need for humility, these are secondary to the main theme of pride. The depth of discussion on Continuous Improvement principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:41:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of pride in Agile practices, focusing on the balance between confidence and overconfidence. While it touches on the importance of data-driven decisions and aligning work with customer value, it does not explicitly address the concept of Common Goals or how they relate to team alignment and strategic objectives. The discussion is more centred on individual behaviours and pitfalls rather than the collective goals of teams within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:41:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of balancing pride with humility and continuous learning, which aligns with the principles of competence. It mentions the need for data-driven decisions and learning from failures, both of which are crucial for developing skills and capabilities. However, the primary focus is on the concept of pride rather than competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:41:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of pride within Agile methodologies, focusing on personal and team dynamics rather than the integration and standardisation of engineering processes as outlined in the One Engineering System framework. While it touches on some aspects of Agile practices, it does not directly address the principles or components of 1ES, nor does it provide insights into its implementation or impact on software quality and delivery timelines.",
     "level": "Ignored"
   }
 }

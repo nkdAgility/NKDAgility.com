@@ -33,8 +33,8 @@ tags:
 - People and Process
 - Products and Books
 - Continuous Learning
-- Agile Product Operating Model
 - Agile Transformation
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

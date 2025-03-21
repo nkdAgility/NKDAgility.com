@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:08:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile coaching and Scrum practices, with no focus on Continuous Delivery principles or methodologies.",
+    "calculated_at": "2025-03-21T18:24:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of agnosticism in practices, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile principles and flexibility, it does not delve into Continuous Delivery concepts such as automation, rapid feedback, or delivery cycles, which are essential to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:09:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:24:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an agile coach and the importance of agnosticism in practices, without a focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of agnosticism in practices, with only brief references to decision-making and outcomes. While it touches on principles that could relate to Evidence-Based Management, it lacks a strong emphasis on empirical evidence or metrics that are central to EBM. The discussion is more about flexibility and guiding teams rather than using data to inform management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:06:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:24:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile coaching and practices, with a strong emphasis on flexibility and agnosticism in frameworks. While it touches on principles like continuous improvement and value delivery, which are relevant to DevOps, it does not explicitly discuss DevOps as a philosophy or its core practices. The discussion is more aligned with Agile methodologies rather than the integration of development and operations that characterises DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,22 +1487,16 @@
     "reasoning": "Content heavily discusses Agile coaching and Scrum principles, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:44:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses agile coaching and Scrum practices, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:24:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of an agile coach and the importance of agnosticism in practices, with a focus on Scrum rather than the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of agnosticism in practices rather than directly addressing the Agile Product Operating Model. While it touches on Agile principles and frameworks, it does not delve into the specific themes of the APOM, such as product-oriented mindsets or operational stability in product delivery. The discussion is more about coaching methodologies than the integration of agile with product management principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1536,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile coaching and the importance of flexibility and agnosticism in practices. While it touches on principles of Agile, Lean, and Scrum, it does not explicitly discuss the Shift-Left Strategy or its integration into the software development lifecycle. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:24:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of flexibility and experimentation in Agile coaching, which aligns with Continuous Improvement principles. It mentions continuous improvement explicitly and provides strategies for fostering a culture of experimentation. However, the primary focus is on Agile coaching rather than Continuous Improvement itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:24:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of an Agile coach and the importance of flexibility and agnosticism in coaching practices. While it touches on principles of Agile, Lean, and Scrum, it does not explicitly focus on the concept of Common Goals or how they align with team objectives. The discussion is more about individual coaching practices rather than shared objectives that guide decision-making within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:24:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of flexibility and understanding core principles in Agile coaching, which aligns with the concept of competence. It emphasises continuous learning and the need for coaches to educate teams on various frameworks, fostering a culture of competence. However, while competence is a significant theme, the primary focus is on agnosticism in coaching rather than competence itself, leading to a slightly lower confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:24:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile coaching and the importance of agnosticism in practices, with specific references to Scrum, Lean, and Agile principles. It does not discuss the One Engineering System framework, its components, or its implementation, which are essential for alignment with the category. The discussion is centred around personal coaching philosophies rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:53:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:14:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of Agile Leadership, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and the instructor's qualities, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile concepts, it does not delve into Continuous Delivery's specific themes such as automation, incremental improvements, or software quality. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T07:53:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:14:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership class, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of participants in an Agile leadership course. While it mentions Agile practices, it does not discuss Evidence-Based Management principles or metrics, nor does it provide empirical evidence or data-informed decision-making insights. The discussion is more about personal experiences and enthusiasm rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1267,11 +1273,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:51:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile leadership and teaching effectiveness, with only a brief mention of DevOps at the end, which does not constitute a central theme.",
+    "calculated_at": "2025-03-21T19:13:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content primarily focuses on agile leadership and the instructor's qualities, with only a brief mention of DevOps at the end. It lacks substantial discussion on DevOps principles, practices, or cultural shifts, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1453,11 +1462,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:08:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:14:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership class, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership course and the instructor's qualities, with only brief mentions of agile practices. While it touches on leadership and transformation, it lacks a direct discussion of the Agile Product Operating Model and its core principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1479,15 +1491,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and leadership training, with no clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:08:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership course, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1530,6 +1533,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the teaching style and experiences of an instructor in an Agile leadership course, with no direct mention or discussion of the Shift-Left Strategy. While it touches on Agile principles, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:13:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of participants in an Agile leadership course. While it touches on themes of transformation and agility, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation. The content does not provide substantial detail on Continuous Improvement practices or their integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:14:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of the audience in an Agile leadership course. While it touches on Agile principles and the importance of leadership in transformation, it lacks a direct discussion on Common Goals as defined in the category. The mentions of Agile and leadership are secondary to the personal attributes of the instructor and the dynamics of the class, which do not align closely with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:14:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Johanna's passion and experience in teaching Agile leadership, which indirectly relates to competence through her ability to engage and transform leaders. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about her teaching style and audience engagement rather than a deep exploration of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:14:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile Leadership course, discussing personal attributes and audience engagement rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

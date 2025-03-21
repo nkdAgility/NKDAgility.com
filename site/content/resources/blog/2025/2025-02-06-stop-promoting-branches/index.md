@@ -25,9 +25,9 @@ tags:
 - Modern Source Control
 - Continuous Integration
 - Value Delivery
+- Continuous Delivery
 - Release Management
 - Software Developers
-- Continuous Delivery
 - Engineering Practices
 - Deployment Strategies
 - Practical Techniques and Tooling

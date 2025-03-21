@@ -706,11 +706,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T17:43:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:36:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of language and transparency in Agile, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of language and transparency in the agile context, without any explicit mention of Evidence-Based Management principles or metrics. While it touches on agile coaching, it does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -829,11 +832,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T17:43:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:36:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and roles, with no focus on Continuous Delivery practices or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of language and transparency within that context. While Agile methodologies can relate to Continuous Delivery, the focus here is not on Continuous Delivery practices, automation, or delivery cycles. The discussion lacks direct mentions of Continuous Delivery and does not delve into its principles or practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1249,11 +1255,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T17:40:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:36:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile principles and practices, with only a brief mention of DevOps in the context of one of the hosts' expertise.",
+    "final_score": 32.0,
+    "reasoning": "While the content briefly mentions DevOps in the context of Martin Hinshelwood's expertise, the primary focus is on Agile principles and the importance of language and transparency within that framework. The discussion does not delve into core DevOps themes such as automation, shared accountability, or continuous improvement, which are essential for a higher confidence score in the DevOps category.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1400,22 +1409,16 @@
     "reasoning": "Content heavily discusses Agile principles and practices without a direct connection to platform engineering.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:12:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and coaching, with no focus on the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:12:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:36:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of language and transparency in the Agile context, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the importance of language and transparency in the agile context, which is somewhat related to agile practices but does not specifically address the Agile Product Operating Model or its core principles. The focus is more on general agile coaching and consulting rather than on product management or the transition to a product-oriented mindset.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1482,6 +1485,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and the importance of language in Agile contexts, with no direct mention of the Shift-Left Strategy or its core themes. The focus is on Agile coaching and consulting rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:36:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of language and transparency in the agile context, which can relate to Continuous Improvement. However, it lacks a direct focus on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation and learning. The discussion is more centred on communication within Agile rather than on the continuous enhancement of processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:36:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of language and transparency in the Agile context, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on themes relevant to Agile, such as communication and collaboration, it lacks a focused discussion on shared objectives or frameworks like OKRs that operationalise Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:36:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of language and transparency in Agile, which can relate to competence in terms of communication skills. However, it does not explicitly discuss continuous learning, skill development, or the core themes of competence in depth. The focus is more on the hosts' roles and their expertise rather than on fostering a culture of competence or strategies for skill development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:36:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile practices and the importance of language in the Agile context, with no direct mention or discussion of the One Engineering System framework. While it touches on themes relevant to software development, it does not align with the core principles of 1ES, such as integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

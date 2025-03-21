@@ -634,11 +634,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:29:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:20:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of improvement and adaptation, it lacks a focus on the specific practices of Continuous Delivery, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -805,11 +808,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:30:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a focus on empirical evidence or Evidence-Based Management principles.",
+    "calculated_at": "2025-03-21T19:20:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile's journey and perceptions but lacks a direct focus on Evidence-Based Management principles. While it touches on themes like expectations and the importance of people, it does not provide empirical evidence or metrics that align with EBM. The discussion is more about perceptions and experiences rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1243,11 +1249,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:27:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile and Scrum, with only a brief mention of DevOps at the end, making it not central to the overall discussion.",
+    "calculated_at": "2025-03-21T19:19:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with a focus on the journey of Agile rather than DevOps principles. While there are some mentions of collaboration and people-centric approaches, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not explicitly addressed. Therefore, the content does not align closely with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1429,11 +1438,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:55:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:20:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile concepts and the journey towards enlightenment but does not specifically address the Agile Product Operating Model or its principles. It focuses more on general Agile practices and perceptions rather than product management integration or operational frameworks.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1455,15 +1467,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum concepts without a direct connection to platform engineering.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:55:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Gartner's Hype Cycle and personal opinions on Agile and Scrum, without focusing on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1506,6 +1509,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Agile Hype Cycle and the challenges faced by Agile practitioners, with no explicit mention of the Shift-Left Strategy. While it touches on themes of improvement and collaboration, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:19:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the journey of Agile and the challenges faced, which indirectly relates to Continuous Improvement. However, it primarily focuses on the Hype Cycle and perceptions of Agile rather than explicitly addressing Continuous Improvement principles. While there are mentions of learning and adapting, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:19:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the journey of Agile and the challenges faced, touching on themes of collective understanding and the importance of people over processes. However, it lacks a direct focus on shared objectives or strategic alignment, which are central to the concept of Common Goals. While it hints at the need for alignment in Agile practices, it does not delve deeply into how these alignments can be operationalised or their impact on organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:19:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment, touching on the importance of understanding Agile principles and prioritising people over processes, which aligns with the core themes of competence. However, while it mentions the need for realistic expectations and learning from pioneers, it does not delve deeply into continuous skill development or strategies for fostering a culture of competence, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:20:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of the One Engineering System (1ES). While it touches on themes of collaboration and improvement in software practices, it does not provide specific insights or discussions related to the principles, components, or implementation of 1ES. The focus remains on Agile's evolution rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

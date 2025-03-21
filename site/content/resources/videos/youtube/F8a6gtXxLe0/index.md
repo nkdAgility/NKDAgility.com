@@ -26,6 +26,7 @@ duration: 101
 isShort: false
 tags:
 - People and Process
+- Continuous Improvement
 - Personal
 sitemap:
   filename: sitemap.xml

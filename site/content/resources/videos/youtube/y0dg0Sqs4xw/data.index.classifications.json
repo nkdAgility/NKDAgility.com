@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:37:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:24:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum practices, with no focus on Continuous Delivery principles or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the mistakes made by rookie agile consultants in implementing Scrum, focusing on the importance of understanding the framework rather than merely following its rules. While it touches on agile principles, it does not specifically address Continuous Delivery practices, automation, or the delivery of software in reliable cycles, which are central to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,15 +841,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:32:02",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T20:24:09",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the importance of understanding the principles behind Scrum and the need for empirical evidence in decision-making, which aligns with Evidence-Based Management. However, it primarily focuses on the mistakes of rookie agile consultants rather than providing a comprehensive discussion on EBM principles or practices. The mention of empiricism and the need for data-driven decision-making contributes positively, but the overall focus is more on agile consulting than on EBM itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of understanding the underlying principles of Scrum and the need for empirical decision-making, which aligns with Evidence-Based Management. However, the primary focus is on the mistakes of rookie agile consultants rather than a thorough exploration of EBM principles. While there are mentions of empiricism and the need for data-informed decisions, these are not the central theme of the content, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1294,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:34:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:23:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile consulting and Scrum practices, which are methodologies rather than the DevOps philosophy. While there are some overlapping themes, such as the importance of understanding processes and the need for collaboration, the focus is not on DevOps principles or practices. The content does not address key DevOps topics like automation, shared accountability, or continuous improvement in the context of software delivery.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1487,17 @@
     "reasoning": "Content heavily discusses the mistakes of rookie agile consultants in implementing Scrum, focusing on adherence to processes rather than the principles of agile methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:34:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:35:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:24:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile consulting and the application of Scrum, which relates to the Agile Product Operating Model, but it primarily focuses on the mistakes of rookie agile consultants rather than a comprehensive exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the mistakes made by rookie agile consultants, focusing on the application of Scrum rather than the Agile Product Operating Model itself. While it touches on agile principles and the importance of understanding the context of agile practices, it does not explicitly address the core themes of the Agile Product Operating Model, such as product-oriented mindsets or continuous delivery. The discussion lacks depth in relation to the specific elements of APOM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the mistakes made by rookie agile consultants in implementing Scrum, focusing on the importance of understanding the framework rather than merely following its rules. While it touches on aspects of agile methodologies, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:23:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding and adapting agile practices, particularly Scrum, to improve team effectiveness. It highlights the need for empirical evidence and reflection, which aligns with Continuous Improvement principles. However, the primary focus is on rookie mistakes in agile consulting rather than a dedicated exploration of Continuous Improvement itself.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:23:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the mistakes of rookie agile consultants, focusing on the importance of understanding the underlying principles of Scrum rather than just following the rules. While it touches on the significance of aligning practices with team goals, it primarily centres on individual consultant behaviours and experiences rather than explicitly addressing Common Goals as a category. The depth of discussion on how these mistakes impact team objectives is present, but the overall focus is not primarily on Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:23:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the mistakes rookie agile consultants make, particularly focusing on the importance of understanding the underlying principles of Scrum rather than just following the rules. This aligns with the concept of competence as it highlights the need for genuine understanding and skill development. However, while competence is a theme, it is not the primary focus of the content, which leans more towards the pitfalls of agile consulting rather than a comprehensive exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:24:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses common mistakes made by agile consultants, particularly in relation to Scrum, without addressing the principles or components of the One Engineering System. While it touches on agile methodologies, it does not focus on the integration or standardisation of engineering processes, which are core to the 1ES framework.",
     "level": "Ignored"
   }
 }

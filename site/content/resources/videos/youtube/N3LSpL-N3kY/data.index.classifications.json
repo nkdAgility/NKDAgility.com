@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:38:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:35:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the product owner role and training, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the differences between two training courses for Product Owners within the Agile framework, specifically Scrum. While it touches on learning and feedback, it does not discuss DevOps principles, practices, or cultural shifts. The mention of Agile does not align with the core themes of DevOps, which emphasises collaboration and automation across development and operations. Therefore, the content does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:39:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:36:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the structure and value of product owner training classes, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and benefits without any reference to evidence-based management principles or metrics. While it touches on learning and development, it lacks direct mentions of empirical decision-making or the core themes of EBM, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the product owner role and training, with no focus on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:39:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between two training formats for product owners, focusing on learning and assessment rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -646,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:40:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:36:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the product owner in Scrum, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and learning outcomes. While it touches on Agile principles, it does not explicitly mention Continuous Delivery or its core themes such as automation, incremental improvements, or rapid feedback. The discussion is more about training methodologies rather than software delivery practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -739,11 +739,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:40:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the structure and value of product owner training rather than the Agile Product Operating Model itself.",
+    "calculated_at": "2025-03-21T19:36:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, which is related to Agile practices but does not explicitly discuss the Agile Product Operating Model. While it touches on the role of the Product Owner and mentions Agile principles, it lacks a comprehensive exploration of the APOM framework and its core themes. The depth of discussion is moderate, but the primary focus remains on training formats rather than the broader operational model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1485,6 +1488,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the training paths for Product Owners and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it touches on Agile concepts, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:35:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on comparing two training approaches for Product Owners, which does not directly address Continuous Improvement principles. While it mentions aspects of learning and feedback, it lacks a strong emphasis on empirical evidence, measurable advancements, or a culture of experimentation. The discussion is more about training formats rather than continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:36:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on the importance of learning and understanding the Product Owner role, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category. The content does not delve into how these training paths connect to broader organisational missions or team collaboration, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:36:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of learning and skill development in the context of Product Owner training, which aligns with the core themes of competence. It contrasts two approaches to learning (intense vs. gradual), highlighting the benefits of each in terms of skill acquisition and practical application. However, while it touches on competence, it does not delve deeply into strategies for fostering a culture of competence or the impact of competence on decision-making, which limits its depth of discussion.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:36:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners within the Scrum framework, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes. The content is more about personal learning preferences and training methodologies rather than the unified engineering practices that 1ES promotes.",
     "level": "Ignored"
   }
 }

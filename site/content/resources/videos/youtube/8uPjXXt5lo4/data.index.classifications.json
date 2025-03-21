@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:16:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training in Agile and Scrum, with no focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:27:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and Agile training experiences, focusing on common challenges faced by teams adopting Agile methodologies. While it touches on themes like improving time to market and responding to customer needs, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in the delivery process. The discussion is more about Agile frameworks rather than Continuous Delivery specifically, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:16:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and insights from training people in Agile, without a clear focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T20:27:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum training and the common challenges faced by organisations adopting agile methodologies. While it touches on concepts like empiricism and the need for effective problem-solving, it lacks a direct focus on Evidence-Based Management principles. The discussion is more centred on personal experiences and training rather than on empirical decision-making or metrics that assess current value, time to market, or ability to innovate. Therefore, while there are some relevant themes, they are not explored in depth or as a primary focus.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1273,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:14:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:27:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training and engagement in Agile and Scrum, without a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and agile methodologies, discussing training experiences and common challenges faced by teams adopting these frameworks. While there are mentions of improving time to market and responding to competitor disruption, which are relevant to DevOps, the core discussion revolves around Scrum rather than the broader DevOps philosophy. Therefore, the alignment with DevOps principles is minimal, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1466,26 +1475,17 @@
     "reasoning": "Content primarily discusses training experiences and the value of multicultural interactions in Agile training, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:36:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training experiences and the value of multicultural engagement in Agile and Scrum, which does not align with the core principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T01:44:23",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
+    "calculated_at": "2025-03-21T20:27:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the transition from traditional project management to agile frameworks, particularly Scrum, which aligns with the principles of the Agile Product Operating Model. It highlights common challenges faced by organisations adopting agile, emphasising the importance of product-centric development and the role of cross-functional teams. However, while it touches on value delivery and customer satisfaction, it lacks a deeper exploration of metrics, KPIs, or specific case studies related to the Agile Product Operating Model, which limits its overall depth of discussion.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Scrum and agile training experiences, which are related to agile methodologies but do not explicitly focus on the Agile Product Operating Model. While it touches on themes of transitioning from traditional project management to agile values, it lacks a detailed exploration of the APOM principles, operational stability, or product-oriented mindset. The discussion is more about training and common challenges faced in agile environments rather than the specific framework of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile methodologies, particularly Scrum, and the common challenges faced by teams adopting these practices. While it touches on themes of improvement and problem-solving in software development, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on training and cultural insights rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:27:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the common challenges faced by organisations adopting agile methodologies, particularly Scrum, and highlights the importance of training and shared experiences in overcoming these challenges. While it touches on themes of improvement and adaptation, it does not delve deeply into Continuous Improvement practices or frameworks. The focus is more on training and engagement rather than systematic, incremental enhancements, which limits its alignment with the Continuous Improvement category.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:27:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses common challenges faced by individuals in agile training, highlighting shared experiences across different cultures and regions. While it touches on the idea of common goals in terms of improving customer satisfaction and solving complex problems, it does not explicitly define or deeply explore the concept of Common Goals within Agile and DevOps frameworks. The focus is more on personal insights and experiences rather than a structured discussion on aligning strategy with execution or the operationalisation of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:27:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the common challenges faced by individuals in agile training, highlighting the importance of shared experiences and insights in overcoming these challenges. While it touches on the need for competence in navigating agile frameworks like Scrum, the primary focus is more on the training experience and cultural exchange rather than a deep exploration of competence itself. The discussion of how training can lead to improved problem-solving and effectiveness aligns with the category, but it lacks a thorough examination of continuous learning and skill development as core themes.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:27:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and agile training experiences, which are not directly related to the One Engineering System framework. While it touches on common challenges faced in agile environments, it does not delve into the principles, components, or implementation of 1ES. The focus remains on Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:51:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:49:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses lean product development and product ownership, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on lean product development, which is not directly related to DevOps principles. While it touches on decision-making and value creation, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The mention of minimising risks and creating value aligns somewhat with DevOps goals, but the overall emphasis is on lean methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,14 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:59:35",
+    "calculated_at": "2025-03-21T18:49:32",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 38.0,
-    "reasoning": "The content discusses lean product development and decision-making, which aligns with some principles of Evidence-Based Management, particularly in terms of making informed decisions and minimising waste. However, it lacks explicit references to EBM principles, empirical data, or detailed discussions on metrics and KPIs, leading to a moderate confidence score.",
+    "reasoning": "The content discusses lean product development and its impact on decision-making and value creation, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on lean methodologies rather than explicitly addressing empirical evidence or metrics related to EBM. The discussion on minimising risks and making informed choices hints at data-informed decision-making but lacks depth in empirical analysis and specific metrics that are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -348,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses lean product development and decision-making rather than release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses lean product development and decision-making, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -661,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:53:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:49:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses lean product development and decision-making, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses lean product development, focusing on decision-making and value creation, which are not directly related to Continuous Delivery principles. While there are mentions of improving processes and minimising risks, these concepts do not specifically address Continuous Delivery practices such as automation, rapid feedback, or deployment strategies. The content lacks a clear focus on Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -757,15 +754,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:59:40",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-21T18:49:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses lean product development, which aligns with the principles of the Agile Product Operating Model, particularly in terms of value creation and decision-making. However, it primarily focuses on lean methodologies rather than explicitly addressing the Agile Product Operating Model itself. The depth of discussion on related concepts is moderate, but it lacks direct references to Agile principles and practices, which affects the overall confidence score.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses lean product development rather than the Agile Product Operating Model. While it touches on themes like decision-making and value creation, which are relevant to agile principles, it does not explicitly mention the Agile Product Operating Model or its core components. The depth of discussion is limited to lean practices, lacking a comprehensive exploration of APOM principles.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1548,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses lean product development and decision-making processes, with no explicit mention of the Shift-Left Strategy. While there are themes of minimising risks and improving processes, these do not directly align with the core principles of integrating testing, security, and compliance earlier in the software development lifecycle. The focus remains on product ownership and value creation rather than on the proactive measures characteristic of a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:49:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses lean product development, which aligns with Continuous Improvement principles, particularly in enhancing decision-making and minimising risks. However, it lacks a direct focus on Continuous Improvement as a primary topic, and the depth of discussion on Continuous Improvement practices is limited. The emphasis is more on lean methodologies rather than a comprehensive exploration of Continuous Improvement strategies.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:49:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses lean product development and its benefits, such as better decision-making and value creation, but it does not explicitly mention Common Goals or their significance in Agile and DevOps. While there is some conceptual alignment regarding strategic decision-making, the focus is primarily on lean methodologies rather than the alignment of team efforts with overarching organisational objectives. The depth of discussion on Common Goals is minimal, as the content does not delve into frameworks like OKRs or the relationship between strategic and tactical commitments.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:49:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses lean product development and its impact on decision-making and value creation, which indirectly relates to competence through the emphasis on informed choices and minimising risks. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into continuous learning or skill development, which are core themes of the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:49:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on lean product development, which is not directly related to the One Engineering System. While it discusses decision-making and value creation, it does not mention the principles or components of 1ES, nor does it address integration of tools or processes across teams. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

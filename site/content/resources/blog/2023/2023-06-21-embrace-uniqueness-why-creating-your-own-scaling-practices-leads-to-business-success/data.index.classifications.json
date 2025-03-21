@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T19:12:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:28:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling practices and organisational uniqueness, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of creating unique scaling practices for business success, focusing on agility and adaptability. However, it does not explicitly mention Continuous Delivery or its principles, nor does it delve into topics such as automation, rapid feedback, or software quality, which are central to Continuous Delivery. The discussion is more aligned with general scaling practices rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1273,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T19:10:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:28:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling practices and organisational uniqueness, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the creation of unique scaling practices and the importance of organisational distinctiveness, which does not directly address DevOps principles. While it touches on themes of agility and continuous improvement, these concepts are presented in the context of scaling rather than the collaborative and automated practices central to DevOps. The mention of frameworks like SAFe and the Spotify Model indicates a focus on methodologies rather than the DevOps philosophy itself, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1435,11 +1441,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:50:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:28:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of creating unique scaling practices rather than focusing on empirical evidence or data-driven decision-making.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses the importance of creating unique scaling practices and emphasises agility and adaptability, but it does not explicitly mention Evidence-Based Management or its core themes. The focus is more on organisational uniqueness and tailored solutions rather than on empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1451,22 +1460,16 @@
     "reasoning": "Content primarily discusses scaling practices and methodologies, focusing on organisational uniqueness rather than platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:50:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation of unique scaling practices and critiques established frameworks like SAFe and the Spotify Model, without focusing on the principles or integration aspects of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:50:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:28:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of creating unique scaling practices rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of creating unique scaling practices and fostering agility, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the idea of tailoring practices rather than explicitly addressing the core themes of APOM, such as product management integration or continuous delivery. The discussion lacks depth in relation to APOM specifics, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of creating unique scaling practices for organisations, focusing on agility and adaptability rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the themes do not align with its core principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:28:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of creating unique scaling practices and fostering agility, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the need for tailored solutions rather than explicitly addressing Continuous Improvement methodologies or frameworks. The mention of agility and adaptability suggests a connection to Continuous Improvement, but the depth of discussion on specific techniques or empirical evidence is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:28:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of creating unique scaling practices and fostering agility, but it does not explicitly mention Common Goals or their significance in Agile and DevOps. While it touches on themes of ownership and alignment, these are not the primary focus. The discussion is more about individual organisational strategies rather than shared objectives that connect to the overall mission, which is central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:28:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of creating unique scaling practices and fostering a culture of ownership, which indirectly relates to competence through continuous improvement and adaptability. However, it lacks a direct focus on skill development and the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:28:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of creating unique scaling practices rather than focusing on the One Engineering System framework. While it mentions methodologies like SAFe and the Spotify Model, it does not engage with the principles or components of 1ES, nor does it provide insights into integration or standardisation of engineering processes. The discussion is centred around individual organisational practices and agility, which deviates from the core themes of 1ES.",
     "level": "Ignored"
   }
 }

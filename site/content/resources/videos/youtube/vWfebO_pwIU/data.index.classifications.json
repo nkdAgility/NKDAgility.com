@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:19:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T20:07:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and their professional growth within the Scrum framework, which is not directly aligned with the core principles of DevOps. While it briefly mentions the importance of collaboration and continuous learning, these concepts are framed within the context of Scrum rather than DevOps. The discussion lacks depth regarding DevOps practices, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -247,11 +250,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum Master certifications and Scrum principles, with no clear relevance to Continuous Delivery.",
+    "calculated_at": "2025-03-21T20:08:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and their professional growth, with no direct mention of Continuous Delivery principles or practices. While it touches on learning and improvement, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or delivery techniques. The discussion is more about personal development within the Scrum framework rather than the delivery of software.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -387,15 +393,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which is unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1171,11 +1168,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the motivations and certifications of Scrum Masters, which is not central to the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T20:08:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and their professional growth, which is related to agile practices but does not explicitly discuss the Agile Product Operating Model. While it touches on themes of continuous learning and team effectiveness, it lacks a direct connection to the core principles of APOM, such as product-oriented mindsets or integration of product management practices.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1381,11 +1381,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:08:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the motivations behind certification levels for Scrum Masters and the importance of continuous learning in the Scrum domain, rather than focusing on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the personal growth of Scrum Masters and the importance of passion in their professional development. While it touches on the role of Scrum Masters in generating value, it does not explicitly discuss Evidence-Based Management principles or metrics. The discussion lacks empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1455,6 +1458,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of Scrum Masters and their professional growth, with no direct mention of the Shift-Left Strategy or its principles. While it discusses the importance of continuous learning and engagement in agile practices, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:08:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of passion and continuous learning for Scrum Masters, which aligns with the principles of Continuous Improvement. However, it primarily focuses on personal growth and professional development rather than systematic processes or empirical evidence related to Continuous Improvement. The mention of strategies for enhancing Scrum Master skills indicates some alignment, but the overall depth and focus on Continuous Improvement as a structured practice are limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:08:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the personal growth of Scrum Masters and the importance of passion in their professional journey. While it touches on the role of Scrum Masters in enhancing team effectiveness, it does not explicitly discuss Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth regarding shared objectives or alignment with organisational missions, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:08:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of passion and continuous learning for Scrum Masters, which aligns well with the principles of competence. It highlights the need for ongoing skill development and the commitment to personal growth, directly addressing the core themes of competence. The depth of discussion is substantial, providing specific strategies for enhancing skills and fostering a culture of competence. However, while competence is a primary focus, the emphasis on passion slightly shifts the focus away from competence as a standalone topic.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:08:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and their professional growth, discussing the importance of passion and personal development rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is centred around Scrum methodologies, which are not aligned with the core themes of 1ES.",
     "level": "Ignored"
   }
 }

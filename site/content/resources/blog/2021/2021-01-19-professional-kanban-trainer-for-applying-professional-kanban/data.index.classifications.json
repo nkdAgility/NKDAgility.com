@@ -622,11 +622,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T20:54:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:43:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban and Scrum methodologies, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Scrum methodologies, discussing training and certification rather than Continuous Delivery principles. While it touches on workflow and value flow, it does not explicitly address Continuous Delivery practices or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1225,11 +1228,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T20:52:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:43:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban and Scrum methodologies without a focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Scrum methodologies, discussing training and certification rather than the core principles of DevOps. While there are mentions of optimizing value flow, the discussion lacks depth in DevOps concepts such as collaboration, automation, and shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1387,11 +1393,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:51:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:43:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban training and its integration with Scrum, without a focus on Evidence-Based Management principles or empirical data application.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Professional Kanban training and its integration with Scrum, with minimal direct discussion of Evidence-Based Management principles. While it mentions empirical process control, it does not delve into the core themes of EBM such as current value, time to market, or empirical decision-making. The discussion lacks depth in relation to EBM, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1403,22 +1412,16 @@
     "reasoning": "Content heavily discusses Kanban and Scrum methodologies without a direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:51:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban and Scrum methodologies, with no focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:51:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:43:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its integration with Scrum, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Kanban and Scrum methodologies, discussing training and certification rather than the Agile Product Operating Model. While it touches on agile principles, it does not delve into the specific themes of APOM, such as product management integration or operational governance.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1491,6 +1494,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Kanban and Scrum methodologies without any explicit mention of the Shift-Left Strategy. While it touches on principles of workflow and value optimisation, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:43:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on becoming a Professional Kanban Trainer and the associated training programmes. While it mentions Kanban principles and practices, it does not explicitly discuss Continuous Improvement as a primary focus. The alignment with Continuous Improvement concepts is present but limited, as the content lacks depth in discussing strategies or empirical evidence related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:43:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on becoming a Professional Kanban Trainer and the specifics of Kanban training, with only brief mentions of Scrum and Kanban principles. While it touches on the importance of training and collaboration between Scrum and Kanban communities, it lacks a detailed discussion on aligning strategy with execution or shared objectives, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:43:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses becoming a Professional Kanban Trainer and the associated training, which implies a focus on skill development and competence in applying Kanban principles. However, while it touches on the importance of training and certification, it lacks a deeper exploration of continuous learning or the broader implications of competence in Agile methodologies. The primary focus is on the training process rather than a comprehensive discussion of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:43:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Professional Kanban and its integration with Scrum, with no direct mention or discussion of the One Engineering System (1ES). While it touches on concepts of optimisation and flow, these are not aligned with the core principles of 1ES, which emphasises standardisation and integration across teams. The depth of discussion is limited to Kanban practices, further distancing it from the 1ES framework.",
     "level": "Ignored"
   }
 }

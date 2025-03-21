@@ -38,9 +38,9 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - People and Process
+- Continuous Improvement
 - Practical Techniques and Tooling
 - Agile Transformation
-- Flow Efficiency
 resourceTypes:
 - video
 categories:

@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:38:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:00:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and training formats, with only a brief mention of continuous development, which is not central to the topic.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning experiences and professional development, with no direct mention of Continuous Delivery principles or practices. While it touches on concepts like feedback loops and incremental improvements, these are framed within the context of learning rather than software delivery. The focus is on educational methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,11 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:39:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and training formats, lacking a focus on empirical evidence or decision-making processes related to Evidence-Based Management.",
+    "calculated_at": "2025-03-21T19:00:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses immersive learning and its benefits, which indirectly relates to Evidence-Based Management through the emphasis on real-time application and feedback loops. However, it lacks a direct focus on empirical evidence or metrics that are central to EBM. The mention of positive client feedback and ROI hints at data-informed decision-making but does not delve deeply into the core themes of EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and training formats, with only a brief mention of Agile, Scrum, and DevOps at the end, which does not constitute a central theme.",
+    "calculated_at": "2025-03-21T19:00:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning and its benefits, which are relevant to professional development but do not explicitly focus on DevOps principles or practices. While it mentions concepts like feedback loops and collaboration, these are presented in the context of learning rather than the broader DevOps philosophy. The primary focus is on educational methodologies rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1471,12 +1480,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:55:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and continuous development, which are relevant to Agile principles, but the primary focus is on training formats rather than the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:00:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning experiences, primarily focusing on professional development and training methods rather than the Agile Product Operating Model. While there are elements of continuous improvement and collaboration, which are relevant to agile principles, the primary focus is not on product management or the specific frameworks outlined in the APOM. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1494,15 +1506,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning experiences and training formats, with no clear focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:55:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and training formats, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses immersive learning in professional development but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on concepts like feedback loops and continuous learning, these are not directly related to integrating testing, security, or compliance earlier in the software development lifecycle. The focus is more on learning methodologies rather than software development processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:00:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses immersive learning and its advantages, highlighting concepts like feedback loops, real-time collaboration, and progressive development, which align with Continuous Improvement principles. However, it primarily focuses on the immersive learning approach rather than explicitly addressing Continuous Improvement as a standalone topic. The depth of discussion on Continuous Improvement concepts is moderate, but the primary focus remains on the learning method itself.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:00:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses immersive learning experiences and their advantages, with minimal direct reference to Common Goals within Agile or DevOps frameworks. While it touches on collaboration and community, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more focused on the learning methodology rather than how it aligns with organisational goals or team accountability.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:00:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses immersive learning as a method for professional development, emphasising continuous learning, skill application, and community support, which aligns well with the principles of competence. It highlights the importance of ongoing dialogue, feedback loops, and progressive development, all of which are crucial for fostering competence. However, while competence is a significant theme, the content primarily focuses on the immersive learning format rather than directly addressing competence as a standalone concept, leading to a slightly lower confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:00:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning experiences and does not discuss the One Engineering System or its principles. While it touches on professional development, it lacks any direct mention or alignment with the core themes of 1ES, such as integration of tools, processes, or methodologies related to software development.",
     "level": "Ignored"
   }
 }

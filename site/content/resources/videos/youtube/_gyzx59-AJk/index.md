@@ -29,15 +29,15 @@ duration: 358
 isShort: false
 tags:
 - Market Adaptability
-- Continuous Delivery
 - Resilience and Change
+- Continuous Delivery
 - Deployment Frequency
 - Product Delivery
 - Value Delivery
 - Business Agility
+- Continuous Improvement
 - Digital Transformation
 - Metrics and Learning
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

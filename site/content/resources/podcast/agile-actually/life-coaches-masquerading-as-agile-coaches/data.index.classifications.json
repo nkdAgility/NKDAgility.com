@@ -1,14 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T00:55:19",
+    "calculated_at": "2025-03-21T20:10:33",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content primarily discusses Agile coaching and the qualifications of Agile coaches, with only a brief mention of DevOps in the context of one of the hosts. While there is a connection to Agile methodologies, which can relate to DevOps, the focus is not on DevOps principles, practices, or tools. The discussion lacks depth regarding DevOps topics, making it a secondary theme rather than a primary focus.",
+    "reasoning": "The content primarily focuses on Agile coaching and the controversy surrounding life coaches presenting themselves as Agile coaches. While there is a brief mention of DevOps in the context of one of the hosts' expertise, it is not a primary focus of the discussion. The content lacks depth in exploring DevOps principles or practices, and the overall alignment with the core themes of DevOps is minimal.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -253,11 +253,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:10:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile coaching and related roles, with no direct relevance to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile coaching and the controversy surrounding life coaches presenting themselves as Agile coaches. While Agile methodologies can relate to Continuous Delivery, the content does not explicitly address Continuous Delivery principles, practices, or benefits. It lacks direct mentions of Continuous Delivery, and the discussion is more focused on Agile coaching rather than the delivery aspect of software development.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -393,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile coaching and related roles, with no focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Agile coaching and the qualifications of Agile coaches, rather than the integration and standardization of software development practices related to One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1198,11 +1192,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:10:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role and qualifications of Agile coaches rather than the Agile Product Operating Model.",
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the trend of life coaches presenting themselves as agile coaches, which does not directly address the Agile Product Operating Model. While it mentions agile coaching, it lacks a focus on product management principles, the transition to a product ethos, or any of the key topics outlined in the APOM definition. The discussion is more about the qualifications and roles of agile coaches rather than the operational model itself.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1408,11 +1405,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:10:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and qualifications of Agile Coaches, without focusing on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of life coaches in the context of Agile coaching, without any direct reference to Evidence-Based Management principles or metrics. While it touches on Agile practices, it does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence. The discussion lacks depth regarding EBM, focusing instead on the qualifications and roles of Agile coaches.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1482,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of Agile coaches and the controversy surrounding their qualifications. It does not mention the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on Agile coaching rather than integrating testing, security, or compliance early in the development process, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:10:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the trend of life coaches presenting themselves as agile coaches, which does not directly address Continuous Improvement principles. While it touches on agile coaching, it lacks a focus on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The discussion is more about the qualifications and roles of agile coaches rather than continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:10:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the trend of life coaches presenting themselves as agile coaches, which does not directly address the concept of Common Goals in Agile or DevOps. While it mentions agile coaching, it lacks a focus on shared objectives, alignment, or strategic goals that are central to the category of Common Goals. The discussion is more about the qualifications and credibility of agile coaches rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:10:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the qualifications and experience required for agile coaches, highlighting the importance of competence in the role. However, it primarily focuses on the controversy surrounding life coaches presenting themselves as agile coaches rather than providing a deep exploration of competence itself. While there are mentions of professional skills and the implications of lacking competence, the discussion does not delve into strategies for fostering a culture of competence or continuous learning, which are key themes in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:10:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the role of life coaches in the context of Agile coaching, which is not directly related to the One Engineering System framework. There are no explicit mentions of 1ES principles, components, or its impact on software development practices. The discussion is focused on Agile methodologies rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

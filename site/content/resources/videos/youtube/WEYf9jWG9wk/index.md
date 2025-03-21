@@ -28,6 +28,7 @@ preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
+- Continuous Improvement
 - Software Development
 - Product Delivery
 - Discovery and Learning
@@ -35,9 +36,8 @@ tags:
 - Metrics and Learning
 - Agile Values and Principles
 - Agile Philosophy
+- Continuous Delivery
 - Customer Feedback Loops
-- People and Process
-- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

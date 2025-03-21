@@ -598,11 +598,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:35:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:33:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a program for underemployment and training, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on underemployment and a training programme, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The depth of discussion is entirely centred on career development rather than software delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -760,11 +763,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T00:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:33:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a program for underemployment and training opportunities, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a programme for the underemployed, discussing strategies for personal development and financial models rather than evidence-based management principles. While it touches on concepts like trust and mutual respect, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1192,11 +1198,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T00:32:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a program for underemployed individuals and training opportunities, with only a brief mention of Scrum and DevOps at the end, which does not constitute a central theme.",
+    "calculated_at": "2025-03-21T19:33:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on underemployment and a training programme, with no direct references to DevOps principles, practices, or cultural shifts. While it discusses personal development and strategies for career advancement, these topics do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any relevant DevOps concepts.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1363,11 +1372,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:19:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a program for underemployment and training, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T19:33:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on underemployment and a training programme, with no direct references to the Agile Product Operating Model or its principles. While it discusses strategies for career advancement, it does not align with the core themes of APOM, such as product management or agile methodologies.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1386,15 +1398,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a program for underemployed individuals and training opportunities, with no clear focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:19:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a program for underemployment and training, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1437,6 +1440,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses underemployment and a training programme, with no direct references to the Shift-Left Strategy or its principles. While it touches on personal development and skills enhancement, it does not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:33:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on underemployment and a specific training programme rather than discussing Continuous Improvement principles. While it touches on personal development and strategies for career advancement, it lacks direct references to Continuous Improvement methodologies, empirical evidence, or a culture of experimentation. The discussion is more about individual empowerment and job readiness than about systematic process enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:33:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on underemployment and a specific training programme rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on themes of personal development and empowerment, it lacks explicit references to shared objectives, strategic alignment, or frameworks like OKRs that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:33:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of upskilling and continuous learning, which aligns with the core themes of competence. However, it primarily focuses on underemployment and the programme's financial model rather than a deep exploration of competence itself. While there are mentions of strategies for skill enhancement, the overall depth of discussion on competence as a foundational principle is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:33:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on underemployment and a training programme, with no direct mention or discussion of the One Engineering System framework, its principles, or its components. The themes of integration and standardisation in software development are absent, and the depth of discussion does not align with the key topics outlined for the category.",
     "level": "Ignored"
   }
 }

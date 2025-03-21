@@ -988,14 +988,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T02:46:29",
+    "calculated_at": "2025-03-21T20:47:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the importance of Test First principles, particularly in relation to Test Driven Development (TDD), which is a key practice that supports Continuous Delivery. It highlights how adopting a test-first approach can lead to more reliable software delivery and reduce risks associated with production changes. However, while it touches on Continuous Delivery, the primary focus is on testing methodologies rather than the broader principles and practices of Continuous Delivery itself. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "reasoning": "The content discusses Test First principles, particularly Test Driven Development (TDD), which is relevant to Continuous Delivery as it emphasises the importance of testing in the software development lifecycle. However, while it touches on aspects that support Continuous Delivery, such as reducing bugs and improving quality, the primary focus is on testing methodologies rather than Continuous Delivery practices themselves. The content does not delve deeply into Continuous Delivery principles, automation in deployment, or rapid feedback mechanisms, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -1120,11 +1120,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T22:05:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:48:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Test First principles and practices, focusing on software development methodologies rather than Evidence-Based Management principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Test First principles, particularly Test Driven Development (TDD) and its benefits in software development. While it touches on aspects of validation and quality assurance, which could relate to evidence-based practices, it does not explicitly focus on Evidence-Based Management as defined. The discussion lacks a direct connection to the key topics of EBM, such as current value metrics or empirical decision-making, leading to a low confidence score in alignment with the category.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1211,15 +1214,6 @@
     "reasoning": "Content primarily discusses Test First principles and methodologies in software development, rather than installation or configuration processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T22:05:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Test First principles and methodologies such as TDD, ATDD, and BDD, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-13T22:05:42",
@@ -1276,15 +1270,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:26:36",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T20:47:38",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Test First principles and their importance in software development, particularly in relation to Test Driven Development (TDD). While it touches on aspects of continuous delivery and the need for validation in the development process, it primarily focuses on testing methodologies rather than the broader DevOps practices. The mention of DevOps is limited and not a primary focus, which affects the overall confidence score.",
-    "level": "Secondary"
+    "final_score": 41.0,
+    "reasoning": "The content primarily focuses on Test First principles, particularly Test Driven Development (TDD), which is a methodology rather than a discussion on DevOps as a philosophy. While it touches on aspects like continuous delivery and the importance of validation, it lacks a comprehensive exploration of DevOps principles such as collaboration, shared accountability, and cultural shifts. The mention of DevOps is limited and does not serve as a primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1351,14 +1345,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T02:47:43",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
+    "calculated_at": "2025-03-21T20:47:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses Test First principles and Test Driven Development (TDD), which are technical practices rather than a holistic approach to product development. While it touches on aspects of Agile methodologies, it lacks a direct focus on the Agile Product Operating Model and does not sufficiently address the broader themes of value delivery, cross-functional teams, or continuous feedback in product development.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Test First principles, specifically Test Driven Development (TDD) and its benefits in software development. While it touches on agile concepts, it does not explicitly discuss the Agile Product Operating Model or its core themes such as transitioning to a product ethos or operational stability in product delivery. The discussion is more aligned with software testing practices rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1543,5 +1537,53 @@
     "final_score": 74.0,
     "reasoning": "The content primarily discusses the importance of Test First principles, which align closely with the Shift-Left Strategy by advocating for early testing and validation in the software development lifecycle. It highlights the benefits of integrating testing early to reduce defects and improve quality, which are core themes of the Shift-Left approach. The depth of discussion on various testing methodologies (TDD, ATDD, BDD) and their roles in achieving a proactive development process further supports this alignment. Overall, the content effectively addresses the principles and benefits of the Shift-Left Strategy, justifying a high confidence score.",
     "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:47:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Test First principles, particularly Test Driven Development (TDD), which aligns with Continuous Improvement by emphasising the importance of validating work and reducing bugs. However, while it touches on aspects of improvement and quality assurance, it does not deeply explore the broader themes of Continuous Improvement, such as organisational processes or a culture of experimentation. The focus is more on specific methodologies rather than a comprehensive discussion on Continuous Improvement as a whole.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:47:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Test First principles, specifically Test Driven Development (TDD) and its benefits in software development. While it touches on the importance of meeting customer needs and reducing bugs, it does not explicitly discuss Common Goals or their significance in Agile and DevOps frameworks. The mention of aligning tests with customer expectations hints at a connection to shared objectives, but this is not the primary focus. The depth of discussion on Common Goals is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:47:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the importance of Test First principles, particularly in relation to Test Driven Development (TDD) and its impact on software quality and team professionalism. It highlights the necessity for developers to validate their work, which aligns closely with the core themes of competence, such as continuous learning and skill development. The depth of discussion on how Test First practices can enhance quality outcomes and maintain trust within teams further supports a high confidence score. The content also addresses the distinction between performative activity and genuine progress, reinforcing its relevance to the competence category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:47:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Test First principles, specifically Test Driven Development (TDD) and related methodologies, rather than discussing the One Engineering System (1ES) framework. While there are mentions of improving software quality and collaboration, these are not directly tied to the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the principles and components of 1ES, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   }
 }

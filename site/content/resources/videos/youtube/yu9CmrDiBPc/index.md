@@ -35,8 +35,10 @@ sitemap:
 tags:
 - Organisational Culture
 - People and Process
+- Continuous Improvement
 - Sociotechnical Systems
 - Organisational Change
+- Competence
 resourceTypes:
 - video
 categories:

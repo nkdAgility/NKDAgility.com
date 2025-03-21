@@ -640,11 +640,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:12:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:18:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses becoming a Scrum Master and Agile methodologies, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and discusses Agile principles, but it does not directly address Continuous Delivery practices or principles. While there are mentions of Agile and Scrum, the discussion lacks depth in Continuous Delivery concepts, automation, or delivery strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -814,11 +817,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:13:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:18:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the journey and advice for becoming a Scrum Master, focusing on certifications, skills, and personal experiences rather than empirical evidence or data-driven management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and discusses certifications and skills rather than evidence-based management principles. While it touches on concepts like validated learning, it lacks a direct connection to the core themes of Evidence-Based Management, such as empirical decision-making or current value metrics.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1258,11 +1264,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:10:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:17:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses becoming a Scrum Master and Agile principles, with no significant focus on DevOps practices or principles.",
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and discusses Agile principles rather than DevOps. While it mentions being a Lean-Agile & DevOps Consultant, the discussion does not delve into DevOps principles, practices, or cultural shifts. The emphasis is on Scrum and Agile methodologies, which are not strictly aligned with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1451,22 +1460,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on certification and skills rather than the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses becoming a Scrum Master and Agile methodologies, which are not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:29:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:18:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses becoming a Scrum Master and the value of certifications, rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and the value of certifications, which are related to agile practices but do not directly address the Agile Product Operating Model. While it mentions Scrum principles and the importance of skills, it lacks a comprehensive discussion on the core themes of the Agile Product Operating Model, such as product-oriented mindsets or continuous delivery. Therefore, the confidence score reflects a low alignment with the specified category.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1518,6 +1521,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on becoming a Scrum Master and the value of certifications, with no direct discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It briefly touches on Agile principles but does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:17:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the journey of becoming a Scrum Master and touches on concepts like validated learning and the importance of applying knowledge, which are relevant to Continuous Improvement. However, it primarily focuses on personal development and certification rather than a broader discussion on Continuous Improvement principles or strategies. The mention of 'continuous improvement' in the context of the consultancy's mission is too vague to significantly elevate the confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:17:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the journey to becoming a Scrum Master and the importance of certifications and skills, rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on principles related to Scrum, it lacks a direct emphasis on shared objectives or alignment with organisational strategy, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:18:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of skills and knowledge application in becoming a Scrum Master, emphasising the distinction between mere certification and genuine competence. It highlights continuous learning, validated learning, and the necessity of internalising Scrum principles, which aligns well with the core themes of competence. However, while competence is a significant focus, the content also touches on broader career advice, which slightly dilutes its primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:18:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on becoming a Scrum Master and discusses Agile methodologies, which are not directly related to the One Engineering System framework. While it touches on principles of Scrum, it does not address the integration or standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

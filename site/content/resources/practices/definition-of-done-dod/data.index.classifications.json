@@ -739,11 +739,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T15:32:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:05:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Definition of Done in Scrum, focusing on criteria for product increments rather than evidence-based management principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, focusing on quality assurance and team agreements rather than evidence-based management principles. While it touches on aspects of quality and transparency, it lacks a strong emphasis on empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about process and standards than about using data to inform strategic improvements.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -877,14 +880,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T17:34:48",
+    "calculated_at": "2025-03-21T17:05:44",
     "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
     "final_score": 66.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which is related to ensuring that increments of software are releasable. However, it primarily focuses on Scrum practices rather than the broader principles and methodologies of Continuous Delivery. While it touches on aspects of quality and readiness for production, it lacks a comprehensive exploration of Continuous Delivery practices, automation, and deployment strategies, which are central to the category.",
+    "reasoning": "The content discusses the Definition of Done (DoD) extensively, which is crucial for ensuring that increments of software are releasable. It highlights the importance of quality, transparency, and shared understanding within teams, all of which are essential principles of Continuous Delivery. However, while it touches on aspects of Continuous Delivery, such as automation and quality assurance, it primarily focuses on the DoD concept rather than a broader discussion of Continuous Delivery practices. Therefore, while there is significant alignment, the depth of discussion is somewhat limited to the DoD itself.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -1490,15 +1493,6 @@
     "reasoning": "Content primarily discusses the Definition of Done in Scrum, focusing on quality assurance and team processes rather than decentralised organisational design or human-centric approaches.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the Definition of Done (DoD) in Scrum, which is not directly related to the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:44:32",
@@ -1572,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which indirectly relates to the Shift-Left Strategy by emphasising the importance of quality and testing early in the development process. However, it does not explicitly mention the Shift-Left Strategy or its principles, nor does it provide detailed techniques or case studies that would strengthen its alignment with the category. The focus is primarily on Scrum practices rather than a comprehensive discussion of integrating testing and quality assurance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:05:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which indirectly relates to Continuous Improvement through the emphasis on quality and the iterative nature of defining and refining the DoD. However, it primarily focuses on the criteria for product increments rather than broader Continuous Improvement strategies or empirical evidence. While it touches on the need for regular reflection and adaptation, it lacks a comprehensive exploration of Continuous Improvement principles and practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:05:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within Scrum, which is a specific practice rather than a discussion on Common Goals. While it touches on the importance of shared understanding and quality, it does not explicitly address the alignment of strategy with execution or the broader implications of Common Goals in Agile and DevOps. The discussion lacks depth in connecting these practices to overarching strategic objectives, resulting in a low confidence score for the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:05:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) extensively, highlighting its importance in ensuring quality and transparency in Agile practices. It mentions the need for teams to define and adhere to quality standards, which aligns with the concept of competence in maintaining professionalism and trust. The depth of discussion on how to create and implement a DoD reflects a strong understanding of competence, although it does not explicitly focus on continuous learning or skill development, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:05:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, which is a specific methodology rather than the broader One Engineering System framework. While it touches on aspects of quality and team collaboration, it does not explicitly address the principles or components of 1ES, nor does it provide insights into integrating tools and processes across teams. The focus is more on Scrum practices than on the unified engineering processes that 1ES aims to standardise.",
     "level": "Ignored"
   }
 }

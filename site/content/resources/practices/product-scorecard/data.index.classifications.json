@@ -217,11 +217,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T09:25:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:03:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Evidence-Based Management or its key topics. It appears to focus on resource details without any discussion on data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -262,11 +265,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T09:26:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:03:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Continuous Delivery or its principles. It lacks any discussion on automation, incremental improvements, or related strategies. The focus appears to be on gathering information rather than exploring Continuous Delivery concepts, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1334,15 +1340,6 @@
     "reasoning": "Content does not provide sufficient information to determine relevance to Beta Codex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:12:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information related to the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:44:52",
@@ -1416,6 +1413,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It lacks a clear focus on integrating testing, security, or compliance early in the development process. The discussion appears to be more general and does not provide sufficient detail or context related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:03:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Continuous Improvement or its principles. It lacks any discussion on empirical evidence, data-driven decision-making, or techniques for fostering a culture of experimentation. The focus appears to be on resource details rather than on continuous improvement practices or strategies, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:03:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content does not explicitly mention Common Goals or related concepts. It lacks a clear focus on aligning strategy with execution within Agile and DevOps frameworks, and does not provide any depth or detail on the significance of shared objectives or their impact on organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:03:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content does not explicitly discuss competence or its related themes. It appears to focus on resource details without addressing continuous learning, skill development, or any of the key topics associated with competence in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:03:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It appears to focus on resource details without any discussion on integration, standardisation, or software development practices related to 1ES.",
     "level": "Ignored"
   }
 }

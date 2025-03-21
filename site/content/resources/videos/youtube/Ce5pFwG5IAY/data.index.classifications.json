@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:25:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing tools and techniques for Scrum Masters rather than the principles and practices of DevOps. While there is a mention of collaboration, it is not in the context of DevOps, and the discussion lacks depth regarding DevOps concepts such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:25:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:54:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses liberating structures in the context of Scrum, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and tools, specifically liberating structures, without discussing evidence-based management principles or metrics. While it touches on improving team dynamics and effectiveness, it lacks direct references to empirical decision-making or the key topics outlined in the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -326,15 +332,6 @@
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T18:25:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:25:53",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
@@ -652,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:26:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:54:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, specifically discussing tools and techniques for Scrum Masters. While it touches on improving team dynamics and effectiveness, it does not address Continuous Delivery principles, practices, or related topics. The mention of Agile is not directly tied to Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -748,11 +748,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:26:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T18:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on tools and techniques for Scrum Masters, specifically liberating structures, which are relevant to Agile practices but do not directly address the Agile Product Operating Model. While it mentions Agile and Scrum, it lacks a clear discussion on product management principles or the transition from project to product ethos, which are central to the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1479,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum Masters and the use of liberating structures to enhance team collaboration and meeting effectiveness. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. The mention of Agile practices is too general and does not align with the specific themes of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:54:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses tools and techniques that Scrum Masters can use to enhance team dynamics and meeting effectiveness, which aligns with the principles of Continuous Improvement. However, it primarily focuses on specific tools (liberating structures) rather than a broader discussion on Continuous Improvement as a philosophy. The mention of improving team engagement and effectiveness indicates some alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on tools and techniques for Scrum Masters, specifically liberating structures, rather than discussing common goals within Agile or DevOps frameworks. While it touches on the importance of meeting objectives, it lacks a direct connection to shared organisational goals or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on tools and techniques for Scrum Masters, with a strong emphasis on improving team dynamics and meeting effectiveness. While it touches on the importance of purposeful meetings and engagement, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The mention of transforming team dynamics hints at competence but does not delve deeply into the foundational principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:54:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and the use of liberating structures within Agile practices, which are not directly related to the One Engineering System framework. While there are mentions of improving collaboration and effectiveness, these concepts are not explicitly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES.",
     "level": "Ignored"
   }
 }

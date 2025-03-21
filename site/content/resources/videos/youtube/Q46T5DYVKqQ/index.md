@@ -34,8 +34,8 @@ tags:
 - Discovery and Learning
 - Pragmatic Thinking
 - Agile Philosophy
+- Continuous Improvement
 - Agile Values and Principles
-- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

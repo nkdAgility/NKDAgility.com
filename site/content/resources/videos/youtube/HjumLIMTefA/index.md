@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Improvement
 - Discovery and Learning
 - Continuous Learning
 - Organisational Change
@@ -38,9 +39,8 @@ tags:
 - Pragmatic Thinking
 - Agile Philosophy
 - Change Management
+- Competence
 - Operational Practices
-- Agile Values and Principles
-- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

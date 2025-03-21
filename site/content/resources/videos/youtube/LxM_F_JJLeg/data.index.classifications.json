@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:34:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile methodologies and team dynamics, with only a brief mention of DevOps at the end, making it not central to the topic.",
+    "calculated_at": "2025-03-21T18:47:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile methodologies and the systemic issues within agile environments, rather than focusing on DevOps principles. While it touches on themes like collaboration and continuous improvement, it lacks explicit references to DevOps practices, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -100,15 +103,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T21:53:45",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T18:47:39",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the impact of measurement systems on team dynamics and decision-making, which aligns with the principles of Evidence-Based Management. However, it lacks explicit references to EBM concepts and does not provide empirical evidence or detailed techniques for measuring performance. The focus is more on systemic issues rather than a structured approach to EBM.",
-    "level": "Ignored"
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the impact of measurement on behaviour and the importance of addressing systemic issues in agile environments, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on cultural and behavioural aspects rather than empirical metrics or data-driven decision-making, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -360,15 +363,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile coaching and team dynamics without a clear focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:35:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses agile coaching and the impact of measurement on team dynamics, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -700,11 +694,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:36:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the impact of measurement on team dynamics, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:47:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile practices and systemic issues within teams, which are not directly related to Continuous Delivery. While it touches on themes of adaptability and continuous improvement, it lacks explicit references to Continuous Delivery principles, automation, or deployment strategies. The focus is more on cultural and behavioural aspects rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -802,15 +799,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:54:32",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T18:47:35",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses systemic issues and measurement in agile environments, which aligns with the Agile Product Operating Model's focus on value delivery and continuous improvement. However, it primarily centres on individual behaviours and organisational culture rather than explicitly addressing product-centric development or the Agile Product Operating Model itself. The discussion lacks direct references to product teams or specific Agile methodologies, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses systemic issues in agile environments and the importance of measurement in influencing behaviour, which aligns with some principles of the Agile Product Operating Model. However, it lacks a direct focus on product management practices and does not explicitly mention key topics such as Evidence-Based Management or operational stability in product delivery. The discussion is more centred on team dynamics and cultural aspects rather than the core elements of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1551,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses systemic issues and measurement in agile environments, which indirectly relates to the Shift-Left Strategy by highlighting the importance of addressing underlying processes that affect delivery. However, it does not explicitly mention Shift-Left practices or focus on integrating testing, security, or compliance early in the development lifecycle, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:47:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses systemic issues and the importance of re-evaluating metrics, which aligns with Continuous Improvement principles. It mentions fostering a culture of adaptability and engaging in Continuous Improvement, indicating a commitment to ongoing enhancement. However, while these themes are present, the primary focus is more on addressing systemic challenges rather than a detailed exploration of Continuous Improvement methodologies or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:47:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses systemic issues in Agile environments and the impact of measurement on behaviour, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on themes of collaboration and adaptability, it lacks a direct focus on shared objectives or frameworks like OKRs that operationalise Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:47:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of addressing systemic issues that affect individual behaviours in agile environments, which indirectly relates to competence. It highlights how measurement systems can influence performance and the need for continuous improvement, aligning with the core themes of competence. However, the primary focus is on team dynamics and systemic challenges rather than a direct exploration of competence itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:47:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses systemic issues in agile environments and the impact of measurement on behaviour, but it does not explicitly mention the One Engineering System (1ES) or its principles. While there are themes related to improving processes and fostering collaboration, the focus is primarily on agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

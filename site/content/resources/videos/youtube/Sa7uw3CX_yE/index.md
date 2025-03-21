@@ -24,7 +24,8 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 isShort: false
-tags: []
+tags:
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

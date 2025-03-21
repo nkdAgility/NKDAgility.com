@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:59:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and historical perspectives on work practices, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:01:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and its historical context rather than focusing on Continuous Delivery practices. While it touches on themes of adaptation and learning, it does not explicitly address Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,11 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:59:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the historical context and evolution of Agile methodologies, focusing on personal experiences and opinions rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-03-21T17:02:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the history and evolution of Agile methodologies, focusing on human connection and adaptability rather than empirical evidence or data-driven decision-making. While it touches on the importance of competence and the challenges faced in Agile transformations, it does not explicitly address the core themes of Evidence-Based Management, such as current value metrics or empirical decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1493,15 +1499,6 @@
     "reasoning": "The content discusses Agile principles and their historical context, touching on human-centric approaches and the importance of adaptability. However, it primarily focuses on Agile as a methodology rather than explicitly addressing BetaCodex principles. While there are mentions of human connection and the need for competence, the discussion does not delve deeply into decentralisation or the specific frameworks of BetaCodex, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:04:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the history and evolution of Agile methodologies, focusing on personal experiences and opinions rather than the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:42:22",
@@ -1578,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and historical context rather than focusing on the Shift-Left Strategy. While it touches on themes of adaptation and learning, it does not explicitly address integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:01:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and the importance of adapting and learning from experiences, which aligns with the concept of Continuous Improvement. However, it primarily focuses on the historical context and evolution of Agile rather than providing a detailed exploration of Continuous Improvement practices or strategies. While there are mentions of adapting and learning, the depth of discussion on Continuous Improvement techniques and empirical evidence is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:01:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and their historical context, but it primarily focuses on the evolution of Agile and the importance of competence rather than explicitly addressing Common Goals. While it touches on themes of collaboration and adaptability, it lacks a direct focus on aligning strategy with execution or shared objectives that guide decision-making, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:01:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 4,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the concept of competence, particularly in the context of Agile methodologies. It highlights the importance of competence in roles such as engineering, product management, and leadership, and addresses the competence gap that exists within Agile practices. The depth of discussion is significant, providing insights into the implications of this gap and the need for continuous learning and skill development. Overall, the content aligns closely with the core themes of the 'Competence' category, making it a primary focus.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:01:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their historical context, with no direct mention of the One Engineering System (1ES) framework. While it touches on themes of collaboration and adaptation, it does not delve into the principles or components of 1ES, nor does it provide insights on integrating tools and processes across teams. The focus remains on Agile's evolution rather than on standardising engineering practices.",
     "level": "Ignored"
   }
 }

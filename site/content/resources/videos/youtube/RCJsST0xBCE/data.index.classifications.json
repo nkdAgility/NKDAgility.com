@@ -1,15 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:28:53",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
+    "calculated_at": "2025-03-21T21:05:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content focuses extensively on Azure DevOps migration tools, discussing their functionalities, setup, and usage in detail. It directly addresses the integration of tools and processes, which is a core aspect of DevOps. The discussion includes automation, migration processes, and the importance of proper configuration, aligning well with DevOps principles. The depth of the content is significant, providing a comprehensive guide on using the tools effectively, which further supports its strong alignment with the DevOps category.",
-    "level": "Primary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Migration Tools, which are integral to the DevOps process, particularly in facilitating seamless migrations and enhancing collaboration between development and operations teams. While it does not explicitly discuss the broader philosophy of DevOps, it aligns well with key practices such as automation, shared accountability, and continuous improvement. The depth of discussion on setup, configuration, and best practices indicates a strong understanding of DevOps principles, though it lacks a more comprehensive exploration of the cultural shifts and feedback loops inherent in DevOps.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -244,11 +244,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:05:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Azure DevOps migration tools and practices, which do not align closely with the principles of Continuous Delivery.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and their setup, which does not directly address Continuous Delivery principles or practices. While there are mentions of best practices and community contributions, these are not specifically tied to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -381,15 +384,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily focuses on Azure DevOps migration tools and practices, which do not align with Value Stream Management concepts.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Azure DevOps migration tools, not on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1153,11 +1147,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:05:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration tools and techniques without focus on the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and does not discuss the Agile Product Operating Model or its principles. While it mentions aspects of project management, it does not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1363,11 +1360,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:05:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration tools and practices, with no clear focus on Evidence-Based Management principles or discussions.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and their features, setup, and best practices. It does not discuss Evidence-Based Management principles or metrics, nor does it provide empirical evidence or data-informed decision-making insights relevant to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1455,6 +1455,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Azure DevOps Migration Tools and their usage, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles or practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:05:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and their setup, with minimal direct mention of Continuous Improvement principles. While it discusses best practices and community contributions, which could relate to improvement, it lacks a strong emphasis on the ongoing practice of reflection and adaptation that defines Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:05:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps migration tools, including setup, configuration, and best practices. While it touches on community support, it does not discuss the alignment of strategy with execution or shared objectives that guide decision-making, which are central to the concept of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:05:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps migration tools, including setup and best practices. While it implies a level of competence required to use these tools effectively, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The mention of the tools being designed for experienced users hints at competence but lacks depth in exploring how to foster or assess it within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:05:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and their setup, with no direct mention of the One Engineering System or its principles. While it discusses best practices for migration, it does not align with the core themes of 1ES, such as integration and standardisation of engineering processes across teams.",
     "level": "Ignored"
   }
 }

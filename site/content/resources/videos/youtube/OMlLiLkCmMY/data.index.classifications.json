@@ -49,11 +49,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:58:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:13:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on engaging teams and personal goals rather than empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses engaging teams and fostering participation during organisational change, which aligns with some principles of Evidence-Based Management, such as the importance of empirical decision-making and outcome management. However, it lacks direct mentions of evidence-based metrics or data-informed decision-making, focusing instead on general engagement strategies without grounding in empirical evidence.",
     "level": "Ignored"
   },
   "Personal": {
@@ -355,20 +358,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:59:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:13:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on organisational change and employee engagement rather than the Agile Product Operating Model or its principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational change and team engagement, which are relevant to agile principles, but it does not explicitly mention the Agile Product Operating Model or its core themes. The focus is more on general change management rather than the specific integration of agile methodologies with product management practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:59:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:13:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on organisational change and team engagement, which are not specific to DevOps principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses organisational change and team engagement, which are relevant to DevOps principles like collaboration and shared goals. However, it lacks explicit references to DevOps practices, methodologies, or the cultural shifts necessary for effective DevOps implementation. The focus is more on general change management rather than the specificities of DevOps.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -387,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and team engagement, with no clear focus on flow efficiency or related principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:59:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on organisational change and team engagement rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1042,11 +1042,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:27:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses organisational change and employee engagement, not Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:13:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on organisational change and team engagement, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of communication and participation, these are not specific to Continuous Delivery, which emphasises automation, rapid feedback, and incremental improvements in software delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1482,6 +1485,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily focuses on engaging teams during organisational change, with no direct mention or discussion of the Shift-Left Strategy. While it touches on themes of communication and involvement, these are not specific to software development processes or the proactive integration of testing, security, and compliance. Therefore, it does not align with the core principles of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:13:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses engaging teams and fostering a culture of participation, which aligns with some principles of Continuous Improvement, such as feedback loops and empowerment. However, it lacks explicit references to Continuous Improvement methodologies or frameworks, and the focus is more on engagement rather than systematic improvement processes.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:13:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of aligning individual goals with organisational goals, which is a key aspect of Common Goals. It highlights shared purpose and ownership, which are central to Agile and DevOps principles. However, while it touches on these themes, the discussion lacks depth in terms of specific frameworks or detailed strategies related to Common Goals, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:13:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement and participation in organisational change, which indirectly relates to competence through the empowerment of team members and the importance of shared goals. However, it lacks a direct focus on continuous learning, skill development, or the professional standards that underpin competence. The discussion is more centred on team dynamics and communication rather than the development of demonstrable capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:13:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on organisational change and team engagement, with no explicit mention of the One Engineering System or its principles. While it touches on themes of collaboration and communication, these are not directly related to the standardisation and integration of software development practices as outlined in the 1ES framework. The discussion lacks depth regarding the specific components or best practices of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

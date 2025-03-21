@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:45:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:06:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects related to the role of a product owner, without discussing Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding product vision and delivering value, which aligns with some aspects of Evidence-Based Management, particularly in terms of defining success metrics. However, it lacks explicit references to empirical decision-making or the specific metrics outlined in the EBM framework. The focus is more on the role of a Product Owner and communication strategies rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Personal": {
@@ -328,20 +331,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:46:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects related to a product owner apprenticeship, without a clear emphasis on the Agile Product Operating Model or its principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T18:06:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Product Owner and the importance of understanding product vision, engaging teams, and delivering value, which aligns with the principles of the Agile Product Operating Model. However, it lacks explicit references to agile methodologies or the broader framework of APOM, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:46:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:06:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While there are elements of collaboration and feedback, which are relevant to DevOps, the overall emphasis is on product ownership rather than the broader DevOps philosophy or practices. The discussion lacks depth in DevOps-specific principles and does not address key topics such as automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -360,15 +369,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses teaching a product owner apprentice, focusing on Scrum roles and events, rather than flow efficiency principles or optimisation techniques.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:46:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1015,11 +1015,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:06:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are unrelated to Continuous Delivery.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on aspects of delivering value, it does not explicitly address Continuous Delivery principles, practices, or the role of automation, which are central to the category. The discussion lacks depth in Continuous Delivery topics and does not provide specific strategies or tools related to the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1449,6 +1452,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a Product Owner in understanding product vision and engaging stakeholders, with no explicit mention of the Shift-Left Strategy. While there are elements of value delivery and alignment with product goals, these do not directly relate to integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in addressing the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:06:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of product ownership, such as understanding vision and engaging teams, which are related to Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or structured methodologies. The focus is more on individual responsibilities and communication rather than on systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:06:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding product vision and aligning team efforts with that vision, which relates to the concept of Common Goals. However, it primarily focuses on the role of a Product Owner and personal experiences rather than explicitly addressing the broader implications of Common Goals within Agile and DevOps frameworks. The discussion lacks depth in exploring how these goals connect to organisational performance or frameworks like OKRs.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:06:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding product vision and engaging teams, which indirectly relates to competence through effective communication and clarity in roles. However, it lacks a direct focus on continuous learning or skill development, which are core aspects of the competence category. The depth of discussion on delivering value and aligning features with vision provides some insight into competence but does not fully explore the foundational principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:06:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on aspects of team communication and alignment, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion lacks depth regarding integration of tools and processes or best practices for implementing a unified engineering system, which are key topics for the 1ES category.",
     "level": "Ignored"
   }
 }

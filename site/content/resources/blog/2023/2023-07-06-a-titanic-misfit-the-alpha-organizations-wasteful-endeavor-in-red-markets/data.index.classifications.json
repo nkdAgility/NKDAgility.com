@@ -628,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T19:04:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:21:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in adapting to modern markets, focusing on hierarchical structures and waste, without addressing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the inefficiencies of Alpha organisations in adapting to fast-paced markets, contrasting them with more agile Beta organisations. While it touches on themes of responsiveness and innovation, it does not explicitly address Continuous Delivery principles, practices, or tools. The focus is more on organisational structure and market adaptability rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1237,11 +1240,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T19:02:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:20:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in adapting to modern markets, focusing on hierarchical structures and decision-making processes, without any mention of DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the inefficiencies of Alpha organisations in fast-paced markets, contrasting them with agile Beta organisations. While it touches on themes of adaptability and responsiveness, which are relevant to DevOps, it primarily focuses on organisational structures and market dynamics rather than the core principles of DevOps such as collaboration, automation, and shared accountability. The discussion lacks direct references to DevOps practices or cultural shifts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1396,11 +1402,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:49:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:21:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in red markets without reference to empirical evidence or evidence-based management principles.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the inefficiencies of Alpha organisations in red markets, highlighting issues like wasted resources and slow decision-making. However, it lacks explicit references to Evidence-Based Management principles or metrics. While it touches on themes of responsiveness and innovation, it does not provide a structured analysis based on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1412,22 +1421,16 @@
     "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in adapting to red markets, focusing on hierarchical structures and decision-making processes, without any direct connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:50:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations, without any mention of the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:50:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:21:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily critiques traditional hierarchical organisations (Alpha) and contrasts them with more agile, decentralised organisations (Beta), but does not focus on the Agile Product Operating Model or its principles directly.",
+    "final_score": 31.0,
+    "reasoning": "The content discusses the contrast between Alpha and Beta organisations, highlighting the inefficiencies of traditional hierarchical structures in fast-paced markets. While it touches on agility and responsiveness, it does not explicitly mention the Agile Product Operating Model or its principles. The focus is more on the critique of Alpha organisations rather than a detailed exploration of APOM concepts, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1503,6 +1506,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the inefficiencies of Alpha organisations in adapting to fast-paced markets, focusing on hierarchical structures and decision-making delays. It does not mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about organisational agility and market responsiveness rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:20:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the inefficiencies of Alpha organisations in red markets and contrasts them with the more agile Beta organisations. While it touches on themes of waste and the need for adaptation, it does not explicitly mention Continuous Improvement or provide detailed strategies for fostering a culture of experimentation and learning. The focus is more on the critique of existing models rather than on the principles of Continuous Improvement itself.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:21:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the inefficiencies of Alpha organisations in adapting to fast-paced markets, highlighting the waste generated by their rigid structures. However, it lacks a direct focus on Common Goals as defined in the category. While it touches on the need for alignment and responsiveness, it does not explicitly connect these ideas to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion is more about organisational waste and the contrast between Alpha and Beta models rather than a thorough exploration of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:21:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the inefficiencies of Alpha organisations in adapting to fast-paced markets, highlighting the waste of human potential and the stifling of creativity. However, it primarily focuses on the structural issues of these organisations rather than explicitly addressing competence as a principle. While there are implications regarding the need for skill development and adaptability, the discussion lacks depth in exploring strategies for fostering competence or continuous learning, which are central to the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:21:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations. It does not mention the One Engineering System or its principles, nor does it explore integration or standardisation of engineering processes. The focus is on organisational models rather than the core themes of 1ES.",
     "level": "Ignored"
   }
 }

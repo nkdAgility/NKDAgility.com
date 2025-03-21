@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:24:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:39:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and practices, which are not directly related to Continuous Delivery principles.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum and estimation techniques within Agile methodologies, which are not directly related to Continuous Delivery. While it touches on planning and uncertainty in software development, it does not discuss Continuous Delivery principles, practices, or tools, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +823,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T03:25:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:39:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of creative work, without focusing on evidence-based management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques and the challenges associated with them, without discussing Evidence-Based Management principles or metrics. While it touches on the importance of understanding and adapting in Agile, it does not provide empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1273,11 +1279,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:22:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not central to DevOps principles.",
+    "calculated_at": "2025-03-21T19:39:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, rather than discussing DevOps principles or practices. While it touches on estimation and planning within a Scrum context, it does not address the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is limited to Scrum roles and events, which are not aligned with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1447,14 +1456,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:51:51",
+    "calculated_at": "2025-03-21T19:39:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content primarily focuses on Scrum practices, specifically around estimation in Sprints, which is a technical aspect of Agile rather than a discussion on the Agile Product Operating Model. While it touches on Agile principles and the unpredictability of product development, it lacks a comprehensive exploration of the product-centric approach, value delivery, and cross-functional team dynamics that are central to the Agile Product Operating Model. Therefore, the confidence score reflects a low alignment with the category.",
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around Sprint estimation, which is a component of agile methodologies but does not directly address the Agile Product Operating Model. While it touches on agile principles and the unpredictability of product development, it lacks a clear connection to the broader themes of APOM, such as product-oriented mindsets or integration with product management practices. The discussion is detailed regarding Scrum but does not sufficiently explore the APOM framework.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1473,15 +1482,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not directly related to platform engineering.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:04:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1524,6 +1524,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Scrum roles and the process of estimating deliverables within a Sprint, which does not directly address the Shift-Left Strategy. While it touches on Agile principles, it lacks explicit discussions on integrating testing, security, or compliance early in the development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:39:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques and the challenges associated with predicting deliverables in a Sprint. While it touches on the importance of understanding and adapting to uncertainties, it does not explicitly discuss Continuous Improvement principles or strategies. The discussion lacks depth in terms of Continuous Improvement methodologies and does not provide empirical evidence or case studies related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:39:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Sprint estimation techniques within Scrum, which is a tactical aspect of Agile rather than a discussion on Common Goals. While it touches on the importance of understanding the product backlog and the unpredictability of creative tasks, it does not explicitly address the alignment of strategy with execution or the significance of shared objectives that guide decision-making. The discussion lacks depth in connecting these concepts to the overarching goals of the organisation, resulting in a low confidence score for the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:39:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the process of estimating deliverables in Scrum, which is more about project management techniques than on the development of competence. While it touches on understanding and adapting to uncertainties, it lacks a strong emphasis on continuous learning or skill development, which are key aspects of competence. The discussion is somewhat relevant but does not delve deeply into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:39:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around Sprint estimation, which is not aligned with the One Engineering System framework. While it touches on agile methodologies, it does not discuss the integration or standardisation of engineering processes, nor does it mention 1ES principles or components. Therefore, the confidence score reflects a very low relevance to the One Engineering System category.",
     "level": "Ignored"
   }
 }

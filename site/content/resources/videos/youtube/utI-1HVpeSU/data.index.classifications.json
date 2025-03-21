@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:11:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:39:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of dictatorship and democracy in decision-making, which is unrelated to DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses leadership styles within Agile frameworks, focusing on the balance between dictatorship and democracy. While it touches on collaboration and team engagement, it does not explicitly address DevOps principles or practices. The discussion lacks depth in relation to DevOps, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -88,11 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the comparison between dictatorship and democracy in decision-making, rather than focusing on Evidence-Based Management principles or empirical data application in organizational contexts.",
+    "calculated_at": "2025-03-21T18:40:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses leadership styles in Agile but does not explicitly mention Evidence-Based Management or its key topics. While it touches on decision-making and collaboration, it lacks a focus on empirical evidence or metrics that define EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -321,15 +327,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses political concepts and collaboration rather than release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the dynamics of collaboration in decision-making and does not relate to the principles, tools, or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -628,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:40:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the concepts of dictatorship and democracy in decision-making, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses leadership styles within Agile frameworks, focusing on the balance between dictatorship and democracy. It does not directly address Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -724,11 +724,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses collaboration and strategic direction, which are related ideas, but it does not explicitly address the Agile Product Operating Model or its principles, making it not relevant enough to classify.",
+    "calculated_at": "2025-03-21T18:40:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses leadership styles within an Agile context but does not explicitly address the Agile Product Operating Model or its core principles. While it touches on collaboration and decision-making, it lacks a focus on product management practices, operational stability, or continuous delivery, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1467,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content discusses leadership styles within Agile but does not mention or align with the Shift-Left Strategy. It focuses on decision-making dynamics rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:39:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership styles in Agile but does not focus on Continuous Improvement principles. While it touches on collaboration and decision-making, it lacks a direct emphasis on empirical evidence, measurable advancements, or specific Continuous Improvement strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:39:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the balance between dictatorship and democracy in Agile leadership, touching on the importance of collaboration and shared objectives, which aligns with the concept of Common Goals. However, it does not explicitly mention Common Goals or delve deeply into how they operationalise within Agile frameworks. The focus is more on leadership styles rather than the foundational principles of aligning strategy with execution.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:40:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership styles in Agile but does not explicitly focus on competence or skill development. While it touches on team engagement and decision-making, these are secondary to the main theme of leadership dynamics. The discussion lacks depth regarding continuous learning or professional development, which are core to the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:40:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses leadership styles within Agile frameworks, focusing on the balance between dictatorship and democracy. It does not mention the One Engineering System or its principles, components, or implementation. The discussion is centred on personal leadership philosophies rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
     "level": "Ignored"
   }
 }

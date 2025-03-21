@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:55:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the concept of 'just enough' without a clear focus on Evidence-Based Management practices or empirical data.",
+    "calculated_at": "2025-03-21T18:12:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses agile practices and the 'just enough' philosophy without explicitly addressing Evidence-Based Management principles. While it touches on concepts like value delivery and efficiency, it lacks direct references to empirical decision-making or the specific metrics outlined in the EBM category. The focus remains on general agile methodologies rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Personal": {
@@ -343,23 +346,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T16:18:21",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T18:12:42",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses agile principles and practices, particularly the 'just enough' philosophy, which aligns with the Agile Product Operating Model's focus on value delivery and efficiency. However, it lacks direct references to product-centric development and does not delve deeply into the specific elements of the Agile Product Operating Model, such as cross-functional teams or metrics for product success.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile practices and the principle of 'just enough and no more', which aligns with agile methodologies. However, it lacks a direct focus on the Agile Product Operating Model specifically, as it does not address product management principles, operational stability, or the transition from project to product ethos. The discussion is more general about agile practices rather than the specific framework of APOM.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:56:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:12:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on backlog management and minimising effort, without addressing DevOps concepts.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the philosophy of 'just enough and no more', which is not directly related to DevOps. While there are some overlapping themes, such as efficiency and continuous improvement, the focus remains on Agile methodologies rather than the core principles of DevOps. The content lacks explicit mentions of DevOps concepts, and the depth of discussion does not sufficiently cover the necessary aspects of DevOps culture, collaboration, or automation.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -382,15 +388,6 @@
     "final_score": 66.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with the principles of flow efficiency by emphasising the importance of minimising unnecessary work and focusing on value delivery. However, while it touches on backlog management and prioritising value, it lacks detailed techniques for identifying and eliminating bottlenecks or specific metrics for measuring flow efficiency. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:56:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and practices, specifically the concept of 'just enough' in relation to backlog management and team efficiency, without a clear focus on the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -442,11 +439,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and practices rather than Continuous Delivery.",
+    "calculated_at": "2025-03-21T18:12:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the philosophy of 'just enough and no more', which does not directly address Continuous Delivery principles. While there are mentions of optimising processes and enhancing productivity, these concepts are more aligned with general Agile methodologies rather than the specific practices and benefits of Continuous Delivery. The depth of discussion on Continuous Delivery is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and the 'just enough' philosophy, which does not directly address the Shift-Left Strategy. While there are mentions of optimising processes, the focus is on Agile practices rather than integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:12:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with the principles of Continuous Improvement by promoting efficiency and focus. However, while it touches on aspects of optimisation and iterative processes, it lacks explicit discussions on empirical evidence, data-driven decision-making, or specific Continuous Improvement frameworks. The depth of discussion is moderate, primarily focusing on agile practices rather than a comprehensive exploration of Continuous Improvement as a standalone concept.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:12:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the 'just enough and no more' philosophy, which relates to optimising processes in Agile but does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on themes of efficiency and prioritisation, it lacks a direct focus on shared objectives or the relationship between strategic and tactical commitments, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:12:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the 'just enough and no more' philosophy, which indirectly relates to competence by emphasising efficiency and prioritisation in agile practices. However, it lacks a direct focus on continuous learning or skill development, which are core aspects of competence. The depth of discussion on optimising processes and enhancing productivity is substantial, but it does not explicitly address the development of skills or capabilities.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:12:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and the 'just enough and no more' philosophy, which does not directly relate to the One Engineering System framework. While it touches on optimisation and efficiency, it lacks explicit references to 1ES principles, components, or implementation strategies. The focus is on personal reflections and general agile concepts rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

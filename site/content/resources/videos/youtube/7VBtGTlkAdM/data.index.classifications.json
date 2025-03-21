@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:11:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:04:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses contract management and the unpredictability of product development, which are not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of over-specifying contracts, with a focus on Agile and Scrum methodologies. While it touches on themes of value delivery and adaptability, it does not explicitly address DevOps principles or practices, nor does it delve into the cultural or collaborative aspects central to DevOps. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:11:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:04:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements rather than focusing on evidence-based management principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content briefly touches on the importance of focusing on outcomes over outputs, which aligns with the Evidence-Based Management theme of managing for meaningful outcomes. However, it primarily discusses consulting contracts and the pitfalls of over-specification without providing substantial empirical evidence or metrics related to EBM. The discussion lacks depth in terms of data-informed decision-making and does not explicitly mention key EBM topics such as current value or unrealised value.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implications of contract terms in consulting engagements rather than focusing on release management strategies or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:12:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, which is not relevant to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -646,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:13:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:04:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications, with a focus on Agile and Scrum methodologies. While it touches on themes of adaptability and outcomes, it does not explicitly address Continuous Delivery principles or practices, nor does it provide substantial detail on the category. Therefore, the confidence score reflects a very low alignment with Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -742,15 +742,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-13T16:45:46",
-    "ai_confidence": 47.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-21T19:04:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 44.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes over outputs in consulting engagements, which aligns with the Agile Product Operating Model's emphasis on value delivery. However, it primarily centres on consulting contracts and does not delve deeply into the principles or practices of the Agile Product Operating Model itself. The mention of Agile and Scrum courses suggests a connection to Agile methodologies, but the overall focus remains on consulting rather than product-centric development.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses consulting engagements and the importance of focusing on outcomes rather than outputs, which aligns with some principles of the Agile Product Operating Model. However, it primarily centres on consulting practices rather than a comprehensive exploration of the Agile Product Operating Model itself. The mention of Agile and Scrum is brief and does not delve into the core themes of APOM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1491,6 +1491,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses consulting contracts and the challenges of product development without any explicit mention of the Shift-Left Strategy. While it touches on themes of adaptability and outcomes in consulting, it does not align with the core principles of integrating testing, security, or compliance early in the software development lifecycle. The focus is on contract management rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:04:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the pitfalls of over-specifying contracts in consulting engagements and emphasises the importance of focusing on outcomes rather than outputs. However, it does not explicitly mention Continuous Improvement or its principles. While there is a conceptual alignment with the idea of adapting to changing circumstances and fostering a more agile approach, the depth of discussion is limited and primarily focused on consulting rather than a broader application of Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:04:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs in consulting engagements, which loosely aligns with the concept of Common Goals. However, it primarily centres on the pitfalls of consulting contracts and does not explicitly address shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks depth regarding the principles of Common Goals, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:04:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs in consulting engagements, which aligns with the concept of competence in delivering quality outcomes. However, it primarily centres on contract pitfalls and does not delve deeply into continuous learning or skill development, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:04:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications in an Agile context, without any direct mention or focus on the One Engineering System framework. It does not address the integration of tools, processes, or methodologies that are central to 1ES, nor does it provide any depth on its principles or implementation. The discussion is more about Agile practices in consulting rather than the standardisation and unification of engineering processes.",
     "level": "Ignored"
   }
 }

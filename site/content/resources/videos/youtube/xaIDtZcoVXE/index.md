@@ -33,14 +33,14 @@ sitemap:
 tags:
 - Agile Product Management
 - Ability to Innovate
+- Continuous Improvement
 - Working Software
 - Software Development
 - Product Delivery
 - Evidence Based Leadership
 - Agile Strategy
+- Evidence Based Management
 - Flow Efficiency
-- Operational Practices
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

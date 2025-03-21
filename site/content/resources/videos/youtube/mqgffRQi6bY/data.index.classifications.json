@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:17:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:45:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on the oversimplification of complex software development realities. While it touches on themes relevant to software development, it does not engage with DevOps principles, practices, or cultural shifts. The discussion is centred around Scrum, which is a separate methodology, and does not align with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of using Lego as a training tool in Scrum, focusing on complexity and variance in software development, rather than on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T18:45:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on the oversimplification of complex realities in software development. While it touches on the importance of understanding complexity, it does not directly engage with the principles of Evidence-Based Management or provide empirical evidence to support its claims. The discussion is more about training methodologies rather than data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -333,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges of software development and the use of Lego as a metaphor, but does not focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:18:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the challenges of integrating independent software components, but primarily focuses on the use of Lego as a metaphor for Scrum training, which deviates from the core principles of 1ES.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -637,11 +634,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:19:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:45:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of software integration and complexity in relation to Scrum, without addressing Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on the oversimplification of complex software development realities. It does not discuss Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -730,11 +730,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:19:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:45:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of using Lego as a metaphor for Scrum training, focusing on complexity in software development rather than the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on the oversimplification of complex realities in software development. While it touches on Scrum, it does not engage with the Agile Product Operating Model or its principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1467,6 +1470,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the limitations of using Lego as a training tool for Scrum, focusing on the oversimplification of complex software development realities. It does not address the Shift-Left Strategy or its principles, techniques, or benefits, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:45:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content critiques the use of LEGO in Scrum training, focusing on the oversimplification of complex realities in software development. While it touches on the importance of understanding complexity, it does not explicitly discuss Continuous Improvement principles or practices. The discussion is more about the inadequacy of a specific training tool rather than a broader commitment to ongoing improvement or empirical evidence. Therefore, the confidence score reflects a low alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:45:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content critiques the use of LEGO in Scrum training, focusing on the oversimplification of complex realities in software development. While it touches on the importance of understanding complexity, it does not explicitly discuss Common Goals or their significance in Agile and DevOps frameworks. The discussion is more about training methodologies rather than aligning strategy with execution or shared objectives, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:45:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 7,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content critiques the use of Lego in Scrum training, highlighting the oversimplification of complex realities in software development. While it touches on the importance of understanding complexity, it does not explicitly discuss continuous learning or skill development, which are core themes of competence. The depth of discussion is moderate, focusing on the limitations of a specific training tool rather than broader strategies for fostering competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:45:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily critiques the use of LEGO in Scrum training, focusing on the oversimplification of complex software development realities. It does not discuss the One Engineering System framework, its principles, or its integration across teams, which are essential for alignment with the category. The discussion is centred on Scrum, a specific methodology, rather than the broader themes of 1ES.",
     "level": "Ignored"
   }
 }

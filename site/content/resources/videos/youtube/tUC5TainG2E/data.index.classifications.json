@@ -631,11 +631,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:16:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and relationships with Microsoft, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the author's journey and relationships in becoming a Scrum training provider for Microsoft, with no direct discussion of Continuous Delivery principles, practices, or tools. While it touches on Agile methodologies, it does not delve into Continuous Delivery specifically, thus lacking depth and alignment with the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -796,11 +799,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:16:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and relationships in becoming a Scrum training provider, lacking a focus on empirical evidence or data-driven management practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal experiences and relationships in becoming a Scrum training provider for Microsoft, with minimal reference to evidence-based management principles. While it touches on Agile methodologies, it lacks a direct discussion on metrics, empirical decision-making, or the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1234,14 +1240,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T13:59:45",
+    "calculated_at": "2025-03-21T19:51:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 50,
     "final_score": 61.0,
-    "reasoning": "The content discusses the author's expertise in both DevOps and Scrum, highlighting their relationship with Microsoft and the value of long-term engagements with clients. However, the primary focus is on Scrum training rather than DevOps practices. While DevOps is mentioned, it is not the central theme, and the depth of discussion on DevOps principles, practices, or tools is minimal.",
+    "reasoning": "The content briefly mentions DevOps in the context of the author's expertise and relationship with Microsoft, but the primary focus is on Scrum training and personal experiences rather than on DevOps principles or practices. While there is some alignment with the DevOps ethos through the emphasis on relationships and delivering value, the depth of discussion on core DevOps topics is minimal.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1423,11 +1429,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:46:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:51:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses personal experiences and relationships in becoming a Scrum training provider, with minimal focus on the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the author's journey as a Scrum training provider for Microsoft, emphasising relationships and personal expertise rather than the Agile Product Operating Model itself. While it mentions Agile methodologies, it does not delve into the principles or frameworks of APOM, nor does it discuss product management practices or operational governance, which are key aspects of the category. The discussion is more about personal experience and training rather than a structured exploration of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1446,15 +1455,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and relationships with Microsoft, with no clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:46:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses personal experiences and relationships in Scrum training, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1497,6 +1497,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the author's journey and relationships as a Scrum training provider for Microsoft, with no explicit discussion of the Shift-Left Strategy or its principles. While it touches on Agile methodologies, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:51:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences and relationships in becoming a preferred Scrum training supplier, with limited direct discussion on Continuous Improvement principles. While it touches on aspects of building expertise and delivering consistent value, it lacks a thorough exploration of Continuous Improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation. The content does not provide substantial detail on how these experiences contribute to ongoing improvements in processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:51:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and relationships rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on Agile methodologies and the importance of relationships in a professional context, it lacks a direct discussion on shared objectives or strategic alignment that characterises Common Goals. The content does not provide substantial detail on how these relationships contribute to organisational performance or adaptability, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:51:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the author's journey to becoming a preferred Scrum training supplier, highlighting the importance of continuous development and expertise in Agile and DevOps. It mentions building relationships and delivering consistent value, which aligns with the core themes of competence. However, while competence is a significant aspect, the focus is more on personal experiences and relationships rather than a deep exploration of competence as a foundational principle in Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:51:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and relationships in becoming a Scrum training supplier for Microsoft, with no direct mention or discussion of the One Engineering System framework. While it touches on Agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

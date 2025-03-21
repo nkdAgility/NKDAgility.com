@@ -36,9 +36,9 @@ tags:
 - Product Delivery
 - Agile Transformation
 - Operational Practices
+- Competence
 - Agile Product Management
 - Agile Frameworks
-- Agile Strategy
 resourceTypes:
 - video
 layout: video

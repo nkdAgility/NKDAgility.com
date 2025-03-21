@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:26:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and product management, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:22:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning and its application in product management, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of continuous improvement and organizational change, these are not specifically tied to Continuous Delivery. The discussion lacks depth in relation to the core topics of Continuous Delivery, such as automation in deployment or rapid feedback mechanisms.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,14 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:29:39",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:22:57",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses evidence-based management in the context of immersive learning, highlighting its importance in evaluating metrics and driving meaningful change. While it does mention EBM and its principles, the primary focus is on immersive learning rather than EBM itself. The discussion includes practical applications and outcomes, but it lacks a comprehensive exploration of EBM principles and practices, which affects the depth of the discussion.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses evidence-based management in the context of immersive learning, particularly in relation to product management. It highlights the importance of using metrics that reflect true value delivery and critiques vanity metrics. However, while it mentions evidence-based management and aligns with some of its principles, the primary focus is on immersive learning rather than a thorough exploration of EBM itself.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "The content discusses immersive learning and its potential to drive change within organisations, which aligns with human-centric approaches and fostering adaptive cultures. However, it primarily focuses on product management training rather than the core principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:27:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and product management without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:16:32",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on immersive learning in product management, discussing its features, benefits, and real-world applications. While it touches on concepts like continuous improvement and practical application, it does not explicitly mention or align with the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in software development. The discussion lacks depth in relation to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:22:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses immersive learning as a method for fostering continuous improvement within organisations. It highlights the importance of practical application, reflective sessions, and outcome-based assignments, which align closely with the principles of Continuous Improvement. The discussion on overcoming challenges and encouraging conversations within teams further supports the category's themes. The depth of detail provided about the learning process and its impact on organisational change reinforces the content's strong alignment with Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:22:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning and its application in product management, but it does not explicitly address Common Goals within Agile or DevOps frameworks. While there are mentions of organizational change and team empowerment, these concepts are not directly tied to shared objectives or strategic alignment, which are central to the Common Goals category. The focus is more on learning methodologies and personal experiences rather than on aligning team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:22:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous learning and practical application, which aligns well with the principles of competence. It highlights immersive learning as a method for skill development and fostering a culture of competence through outcome-based assignments and reflective sessions. The depth of discussion on how these practices lead to meaningful change and improvement in organisations supports a strong alignment with the category, although it does not explicitly mention competence as a term frequently.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:22:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in product management, discussing its features, applications, and challenges. It does not directly address the principles or components of the One Engineering System, nor does it explore integration of tools and processes across teams, which are core themes of 1ES. While there are elements of organisational change and improvement, they are not framed within the context of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

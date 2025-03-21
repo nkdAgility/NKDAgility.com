@@ -637,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:54:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:37:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and practices related to Azure DevOps, focusing on agile methodologies and specific user mistakes rather than Continuous Delivery principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Azure DevOps and its alignment with agile practices, but it does not explicitly focus on Continuous Delivery principles or practices. While it touches on aspects of software delivery and the importance of traceability, it lacks a detailed exploration of Continuous Delivery techniques, automation, or cultural aspects. The discussion is more centred on common pitfalls in using Azure DevOps rather than on Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -976,11 +979,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T17:44:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and features related to Azure DevOps without focusing on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T17:37:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and addressing common pitfalls in its use, which is more aligned with practical Agile practices rather than Evidence-Based Management. While there are mentions of improving productivity and decision-making, these are not grounded in empirical evidence or metrics specific to EBM. The discussion lacks a direct focus on the key topics of EBM, such as current value metrics or empirical decision-making, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -1240,15 +1246,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:45:26",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
+    "calculated_at": "2025-03-21T17:37:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on Azure DevOps, discussing its features, common pitfalls, and the evolution of the tool in relation to Agile practices. It explicitly mentions DevOps principles, such as continuous delivery and the integration of tools and processes, aligning well with the core themes of the DevOps category. The depth of discussion is substantial, providing insights into user experiences and specific issues encountered with Azure DevOps, which enhances its relevance to the DevOps classification.",
-    "level": "Primary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Azure DevOps, which is a tool that supports DevOps practices, but it does not deeply engage with the broader DevOps philosophy or principles. While it discusses common pitfalls and best practices related to Azure DevOps, it lacks a comprehensive exploration of key DevOps concepts such as collaboration, automation, and shared accountability. The discussion is more centred on tool usage rather than the cultural and process-oriented aspects of DevOps.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1424,29 +1430,17 @@
     "reasoning": "Content primarily discusses Azure DevOps and Agile practices, with a focus on common pitfalls rather than platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T19:12:23",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the One Engineering System (1ES) in the context of Azure DevOps, highlighting its vision and purpose. However, while it mentions 1ES and its goals, the primary focus is on common pitfalls in using Azure DevOps rather than a comprehensive exploration of 1ES principles or best practices. The discussion lacks depth in terms of specific implementation strategies or case studies related to 1ES, which affects the overall confidence score.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T19:12:27",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T17:37:42",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Azure DevOps in the context of agile practices, highlighting the transition from traditional project management to agile methodologies. It mentions principles of product-centric development and the importance of traceability, which aligns with the Agile Product Operating Model. However, the focus is primarily on technical practices and common pitfalls rather than a comprehensive exploration of the Agile Product Operating Model itself, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses agile practices and the use of Azure DevOps, but it primarily focuses on common pitfalls and technical issues rather than the Agile Product Operating Model itself. While it touches on agile principles and the transition from traditional project management, it lacks a comprehensive exploration of the APOM framework and its core themes.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1510,5 +1504,53 @@
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Azure DevOps and common pitfalls in its usage, with a focus on agile practices rather than explicitly addressing the Shift-Left Strategy. While there are mentions of traceability and collaboration, which are relevant to Shift-Left principles, the overall discussion does not delve deeply into integrating testing, security, or compliance earlier in the development process. Therefore, the content aligns with the category only in a limited capacity.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:37:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses optimising Azure DevOps and highlights common pitfalls that hinder agile practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on specific issues and solutions related to Azure DevOps rather than a broader discussion on Continuous Improvement methodologies or frameworks. The mention of agile principles and the importance of simplicity in processes contributes to the alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:37:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Azure DevOps and common pitfalls in its usage, but it does not explicitly focus on the concept of Common Goals within Agile and DevOps. While it touches on the importance of alignment and traceability, it primarily centres on practical issues rather than the foundational principles of shared objectives and strategic alignment. The discussion lacks depth in exploring how these pitfalls relate to overarching goals or frameworks like OKRs, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:37:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the effective use of Azure DevOps and highlights common pitfalls that can hinder productivity, which indirectly relates to competence in terms of skill development and maintaining quality outcomes. However, while it touches on the importance of understanding agile principles and avoiding missteps, it does not explicitly focus on continuous learning or the development of competence as a primary theme. The depth of discussion on competence-related issues is moderate, but the primary focus remains on tool usage rather than on fostering a culture of competence.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:37:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) in the context of Azure DevOps, highlighting its vision and the importance of clear visibility in project management. However, while it mentions 1ES, the primary focus is on common pitfalls in using Azure DevOps rather than a comprehensive exploration of 1ES principles or best practices. The discussion lacks depth in terms of detailed implementation strategies or case studies related to 1ES, which affects the overall confidence score.",
+    "level": "Secondary"
   }
 }

@@ -34,14 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T03:17:00",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T21:05:14",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses collocation in the context of Scrum and Agile practices, mentioning empirical evidence regarding its effectiveness. However, it primarily focuses on personal opinions and experiences rather than a structured discussion on Evidence-Based Management principles. While there are references to data and the importance of team dynamics, the overall emphasis is more on subjective views rather than a comprehensive exploration of EBM concepts.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses collocation in Scrum teams, focusing on personal experiences and opinions rather than empirical evidence or data-driven decision-making. While it touches on the importance of team dynamics and communication, it lacks a strong emphasis on metrics or evidence-based practices that are central to Evidence-Based Management. The discussion is more anecdotal and subjective, which does not align well with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:50:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:04:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses collocation in the context of Scrum and Agile practices, without a clear focus on DevOps principles or practices.",
+    "final_score": 26.0,
+    "reasoning": "The content primarily discusses collocation within Scrum teams, which is a specific agile practice rather than a core DevOps principle. While it touches on team dynamics and communication, it does not delve into the broader DevOps philosophy or practices such as automation, shared accountability, or continuous improvement. The focus on Scrum roles and practices indicates a secondary relevance to DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -338,23 +341,17 @@
     "reasoning": "Content primarily discusses collocation in Scrum teams and the implications of remote work, without a clear focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T17:51:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses collocation in Scrum teams and personal opinions on communication methods, which deviates from the core principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:05:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses collocation as a practice within Scrum, which is related to Agile methodologies, but it primarily focuses on the dynamics of team communication rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses collocation within Scrum teams, which is a specific agile practice rather than a comprehensive exploration of the Agile Product Operating Model. While it touches on team dynamics and communication, it lacks a direct focus on the broader principles and frameworks of APOM. The discussion is more about Scrum practices than the integration of agile methodologies with product management principles, which is central to the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -424,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T17:51:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:05:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses collocation in Scrum teams and does not address Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses collocation within Scrum teams, focusing on team communication and performance rather than Continuous Delivery principles. While it touches on aspects of team dynamics, it does not address Continuous Delivery practices, automation, or delivery cycles, which are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses collocation within Scrum teams and the benefits of face-to-face communication, which does not directly relate to the Shift-Left Strategy. While there are mentions of team dynamics and communication, these are not aligned with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The focus is on team collaboration rather than proactive quality measures, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:04:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses collocation in Scrum teams, highlighting its benefits for communication and team performance. While it touches on empirical evidence and the importance of team dynamics, it does not explicitly focus on Continuous Improvement as a primary theme. The discussion is more about team structure and communication rather than a systematic approach to improving processes or products. Therefore, while there are relevant elements, the overall focus does not align closely with the principles of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:04:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of collocation within Scrum teams, focusing on communication and team dynamics rather than explicitly addressing Common Goals. While it touches on the importance of team collaboration, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about practices and personal experiences rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:05:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses collocation in Scrum teams, focusing on communication and performance rather than directly addressing competence. While it touches on the importance of team interaction and the role of the Scrum Master in mitigating challenges, it lacks a thorough exploration of continuous learning, skill development, or the professional standards that underpin competence. The primary focus remains on the debate around collocation rather than on competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:05:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses collocation within Scrum teams, focusing on communication and team dynamics rather than the principles or practices of the One Engineering System. While it touches on team organisation, it does not address the integration or standardisation of engineering processes, which are core to 1ES.",
     "level": "Ignored"
   }
 }

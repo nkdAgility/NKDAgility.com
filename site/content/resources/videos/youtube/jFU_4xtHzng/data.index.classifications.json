@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:52:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:17:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses training formats and learning processes, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses training formats and learning processes in Agile environments, with a focus on efficiency rather than Continuous Delivery principles. While it touches on continuous learning, it does not delve into the core themes of Continuous Delivery such as automation, deployment, or rapid feedback mechanisms.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,11 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T05:53:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:17:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training formats and learning processes rather than empirical evidence or decision-making practices related to Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses training formats and learning efficiencies, which are relevant to improving outcomes in Agile environments. However, it lacks direct references to Evidence-Based Management principles and does not focus on empirical evidence or metrics that are central to the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1276,12 +1282,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:50:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:17:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training formats and learning processes, with a focus on Agile principles rather than DevOps practices.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses training formats and learning processes, primarily focusing on the benefits of a four half-day training approach over two full days. While it touches on concepts like flow efficiency and continuous improvement, which are relevant to DevOps, the primary focus is on training design rather than the broader principles and practices of DevOps. The mention of flow efficiency is somewhat aligned with DevOps principles, but the overall discussion lacks depth in terms of DevOps culture, collaboration, and automation, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1478,23 +1487,17 @@
     "reasoning": "Content primarily discusses training formats and learning processes, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:28:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses training formats and learning efficiencies, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:28:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:17:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to Agile principles and continuous learning, but it primarily focuses on training formats rather than the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses training formats and learning efficiencies in an agile context but does not explicitly address the Agile Product Operating Model or its core principles. While it touches on concepts like continuous learning and iterative processes, it lacks a direct focus on product management or the specific themes outlined in the APOM framework.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses training formats and learning processes rather than integrating testing, security, or compliance early in software development. While it touches on concepts of efficiency and continuous improvement, these are not directly related to the Shift-Left Strategy, which focuses on proactive measures in the software lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:17:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the benefits of a four half-day training format, which aligns with the principles of continuous improvement by emphasising iterative learning and adaptation. It mentions continuous learning and the importance of applying knowledge, which are key aspects of continuous improvement. However, the primary focus is on training formats rather than a broader discussion of continuous improvement practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:17:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training formats and learning efficiencies, which are tangentially related to Agile principles but do not explicitly address Common Goals. While it touches on concepts like continuous improvement and flow efficiency, it lacks a direct focus on shared objectives or alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:17:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the benefits of a four half-day training format, which indirectly relates to competence through the emphasis on effective learning and continuous improvement. However, while it touches on the importance of learning and adapting, it does not explicitly focus on competence as a primary theme. The discussion is more about training formats rather than a deep exploration of competence in Agile or DevOps contexts.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:17:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses training formats in Agile environments, specifically the benefits of four half days versus two full days. While it touches on concepts like resource and flow efficiency, it does not directly address the principles or components of the One Engineering System framework, nor does it provide insights into integration, best practices, or challenges related to 1ES. The focus remains on training methodologies rather than the standardisation and integration of engineering processes.",
     "level": "Ignored"
   }
 }

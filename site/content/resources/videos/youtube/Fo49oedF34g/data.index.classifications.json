@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:35:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and Scrum, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and traditional management, discussing concepts related to agile methodologies rather than DevOps principles. While there are mentions of collaboration and team dynamics, these are framed within the context of agile practices, which do not directly align with the core themes of DevOps. The depth of discussion is limited to agile concepts, lacking any substantial exploration of DevOps-specific practices or philosophies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:35:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and consultancy services without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and traditional management, with a strong emphasis on agile methodologies and training. It does not explicitly discuss Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making. The mention of agile practices is secondary and does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -327,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:36:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile leadership and Scrum, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -631,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:37:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile leadership and Scrum, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile leadership and traditional management, with a focus on agile methodologies and Scrum training. While it touches on themes related to agile practices, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth and does not provide relevant insights into Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -724,11 +724,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:37:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:08:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and training, with a focus on Scrum, rather than the Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile leadership and contrasts it with traditional management, which is somewhat related to agile practices but does not focus on the Agile Product Operating Model specifically. While there are mentions of agile and scrum, the content lacks a detailed exploration of the principles and frameworks associated with the Agile Product Operating Model, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1440,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses agile leadership and Scrum practices without any explicit mention or discussion of the Shift-Left Strategy. It focuses on agile methodologies and coaching rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:08:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions continuous improvement in the context of agile leadership and team evolution, but it primarily focuses on the differences between agile and traditional management without delving deeply into Continuous Improvement principles. The discussion lacks empirical evidence, specific techniques, or detailed strategies related to Continuous Improvement, which diminishes its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:08:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the differences between agile leadership and traditional management, which does not directly address the concept of Common Goals. While it mentions agile principles and the importance of a collaborative workforce, it lacks explicit discussions on shared objectives or alignment with strategic goals. The depth of discussion is limited, focusing more on the consultancy's offerings rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:08:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the differences between agile leadership and traditional management, with a strong emphasis on agile methodologies. However, it lacks direct discussions on competence as a foundational principle, such as continuous learning or skill development. While it mentions the importance of high-performing teams, it does not delve into the specifics of fostering a culture of competence or the impact of competence on decision-making. Therefore, while there are some relevant themes, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:08:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and traditional management, discussing concepts related to agile methodologies such as Scrum. It does not mention the One Engineering System (1ES) framework or its principles, components, or implementation. The discussion is centred around agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

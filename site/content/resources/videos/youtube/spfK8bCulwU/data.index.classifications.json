@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T07:27:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles.",
+    "calculated_at": "2025-03-21T19:53:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on product ownership and the principles of Scrum, with only a brief mention of DevOps at the end. While it discusses collaboration and customer focus, which are relevant to DevOps, the core themes and depth of discussion do not align closely with the principles of DevOps as outlined in the classification criteria.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -259,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T08:00:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:53:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and product management rather than Continuous Delivery principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and the importance of balancing innovation with customer needs and team dynamics. While it touches on concepts like collaboration and customer feedback, which are relevant to Continuous Delivery, it does not explicitly discuss Continuous Delivery principles, practices, or automation in testing and deployment. The discussion lacks depth in Continuous Delivery-specific topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -402,15 +408,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Agile and Scrum practices, focusing on product ownership and management without directly addressing Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and training rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1207,14 +1204,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:18:55",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T19:53:35",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the role of a product owner and touches on concepts like customer needs, team dynamics, and collaboration, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the personal reflections of the author and the Advanced PSPO course rather than providing a comprehensive exploration of the Agile Product Operating Model itself. While there are mentions of balancing innovation and customer needs, the discussion lacks depth in terms of Agile principles and practices, leading to a moderate confidence score.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a product owner and touches on agile principles, particularly through the lens of the Advanced Professional Scrum Product Owner course. While it mentions customer focus and collaboration, which are relevant to the Agile Product Operating Model, it does not explicitly address the broader framework or principles of APOM. The discussion is more centred on the individual role of the product owner rather than the organisational model itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1426,11 +1423,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Product Owner course and its relevance for entrepreneurs, without a focus on Evidence-Based Management principles or empirical data-driven approaches.",
+    "calculated_at": "2025-03-21T19:53:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of a product owner and touches on concepts like customer needs and team dynamics, which are relevant to Evidence-Based Management. However, it primarily focuses on the balance between innovation and customer focus without deeply engaging with empirical decision-making or specific metrics that define EBM. The mention of hypothesis-driven engineering hints at data-informed decision-making, but the overall discussion lacks a strong emphasis on the core themes of EBM, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1500,6 +1500,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a product owner and the importance of balancing innovation with customer needs and team dynamics. While it touches on collaboration and customer engagement, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:53:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of product ownership, including customer needs and team dynamics, which are relevant to Continuous Improvement. However, it primarily focuses on the role of a product owner and innovation rather than explicitly addressing Continuous Improvement principles. While there are mentions of data-driven decision-making and collaboration, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:53:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of balance, customer needs, and team dynamics, which are relevant to the concept of Common Goals. However, it primarily focuses on personal reflections and experiences rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks. The mention of collaboration and customer focus aligns with the category, but the overall depth and direct discussion of Common Goals are limited.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:53:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a product owner and touches on aspects of competence, such as the importance of understanding customer needs and fostering collaboration. However, it primarily focuses on product ownership and team dynamics rather than a deep exploration of competence as a foundational principle in Agile methodologies. The mentions of competence are not the primary focus, and while there is some alignment with the core themes, the depth of discussion on competence itself is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:53:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the role of a product owner within the context of Scrum and Agile methodologies, discussing customer needs, team dynamics, and collaboration. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles, components, or implementation. The discussion is more centred on personal experiences and insights related to product ownership rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

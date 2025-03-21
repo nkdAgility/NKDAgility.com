@@ -664,12 +664,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:23:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile in the context of delivering value to customers, which is a significant aspect of Continuous Delivery. However, the primary focus is on the integration of DevOps and Agile rather than on Continuous Delivery principles and practices specifically.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery, highlighting its role in delivering value to customers. It explicitly mentions continuous delivery multiple times and connects it to Agile practices. However, while it provides a good overview of the relationship between DevOps and Agile, it lacks in-depth exploration of specific Continuous Delivery techniques and tools, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -835,11 +838,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:51:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:23:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than empirical evidence or decision-making processes central to Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on their integration and importance in delivering value to customers. While it touches on concepts like feedback and data, which are relevant to Evidence-Based Management, it does not explicitly address the core themes of EBM such as current value metrics, empirical decision-making, or outcome management. The discussion lacks depth in terms of evidence-based practices and metrics, leading to a low confidence score in alignment with the EBM category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1291,14 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T15:58:54",
-    "ai_confidence": 82.0,
-    "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-21T20:23:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "The content explicitly discusses the importance of DevOps in the context of continuous delivery and its relationship with Agile methodologies. It highlights the integration of DevOps practices in delivering value to customers and emphasises the need for collaboration and feedback loops, which are core themes of DevOps. However, while it provides a good overview of the concepts, it lacks detailed exploration of specific tools, metrics, or case studies that would enhance the depth of discussion.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses DevOps as a crucial element in the continuous delivery of value to customers, making direct mentions throughout. It aligns well with core DevOps themes such as collaboration, feedback loops, and the integration of practices with Agile. However, while it provides a good depth of discussion, it also heavily intertwines DevOps with Agile, which may dilute the focus on DevOps as a standalone philosophy. Overall, the content is primarily focused on DevOps, but the overlap with Agile slightly reduces the confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1481,23 +1487,17 @@
     "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their integration and delivery of value, rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:34:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:34:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:23:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting the importance of continuous delivery of value to customers, which aligns with the Agile Product Operating Model. However, the primary focus is on DevOps rather than a comprehensive exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their integration in delivering value to customers. However, it primarily focuses on DevOps practices rather than the Agile Product Operating Model specifically. While there are mentions of agile principles and the importance of continuous delivery, the content lacks a detailed exploration of the APOM framework and its core themes, such as transitioning to a product ethos or Evidence-Based Management.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on their integration and importance in delivering value to customers. While it touches on concepts like feedback loops and risk mitigation, it does not explicitly address the Shift-Left Strategy or its principles. The discussion lacks depth regarding early integration of testing, security, or compliance, which are central to the Shift-Left concept. Therefore, the content does not align closely with the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:23:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering continuous value to customers, which aligns with the principles of Continuous Improvement. It mentions key aspects such as feedback loops and adapting based on data, which are crucial for Continuous Improvement. However, the primary focus is on the relationship between DevOps and Agile rather than a deep exploration of Continuous Improvement practices themselves. The discussion lacks detailed strategies or case studies specifically about Continuous Improvement initiatives, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:23:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of DevOps and Agile in achieving shared objectives and delivering value to customers, which aligns with the concept of Common Goals. However, while it mentions shared purpose and strategic objectives, the focus is more on the integration of DevOps and Agile practices rather than a detailed exploration of Common Goals themselves. The discussion lacks depth in terms of specific frameworks or techniques for operationalising Common Goals, which affects the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:23:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers and touches on Agile principles, but it does not explicitly focus on the concept of competence as defined in the category. While it mentions the need for effective collaboration and continuous delivery, it lacks a detailed exploration of skill development, professionalism, or strategies for fostering a culture of competence. The discussion is more centred on processes and methodologies rather than the development of individual or team capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:23:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on their integration and importance in delivering value to customers. While it touches on themes of collaboration and delivery, it does not explicitly address the One Engineering System framework or its principles. The discussion lacks depth regarding 1ES, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   }
 }

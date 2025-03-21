@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:43:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of say-do metrics in Agile project management, focusing on the implications of monitoring these metrics rather than Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:00:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the pitfalls of say-do metrics in Agile environments, focusing on the importance of outcomes over outputs. While it touches on themes relevant to Continuous Delivery, such as the need for transparency and delivering value, it does not explicitly address Continuous Delivery principles or practices. The discussion is more centred on Agile methodologies and metrics rather than Continuous Delivery itself, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,14 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T20:12:41",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-21T18:00:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the pitfalls of relying on say-do metrics and emphasises the importance of focusing on outcomes over outputs, which aligns with the principles of Evidence-Based Management. However, it primarily critiques specific metrics rather than providing a comprehensive exploration of EBM principles or practices. The discussion on fostering transparency and psychological safety touches on EBM themes but lacks depth in empirical evidence application and measurement techniques.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs, which aligns with the core themes of Evidence-Based Management. It critiques the use of say-do metrics and highlights the dangers of relying on misleading data, which directly relates to empirical decision-making and managing for meaningful outcomes. The depth of discussion is substantial, providing examples and actionable steps to shift focus towards value delivery, thus reinforcing its relevance to EBM.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1291,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:40:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses agile practices and metrics, focusing on say-do metrics and their implications, rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:00:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the pitfalls of say-do metrics, which are not directly related to DevOps principles. While there are some mentions of value delivery and team dynamics, the focus is on Agile practices rather than the broader DevOps philosophy, which emphasises collaboration, automation, and shared accountability across development and operations.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1480,11 +1486,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:33:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T18:00:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and the implications of metrics on value delivery, but it primarily focuses on the pitfalls of say-do metrics rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile methodologies and the importance of focusing on outcomes over outputs, which aligns with some principles of the Agile Product Operating Model. However, it primarily centres on the pitfalls of say-do metrics rather than providing a comprehensive exploration of the Agile Product Operating Model itself. The discussion lacks depth in terms of APOM-specific themes such as product management practices, operational stability, or governance, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1507,15 +1516,6 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of transparency, psychological safety, and focusing on outcomes rather than outputs, which aligns with the principles of social technologies. However, the primary focus is on the pitfalls of say-do metrics rather than a broader discussion of social technologies as a framework for collaboration and decision-making. While it touches on relevant themes, it does not delve deeply into methodologies or frameworks that promote collaboration within teams.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:33:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the pitfalls of say-do metrics in agile practices, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1557,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses metrics and outcomes in Agile environments but does not explicitly address the Shift-Left Strategy or its principles. While it touches on the importance of focusing on outcomes over outputs, it lacks a direct connection to integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:00:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes over outputs, which aligns with the principles of Continuous Improvement. It highlights the need for transparency, psychological safety, and a shift in mindset towards value delivery, all of which are key aspects of Continuous Improvement. However, while it touches on these themes, the primary focus is on the pitfalls of say-do metrics rather than a comprehensive exploration of Continuous Improvement practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:00:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes over outputs, which aligns with the concept of Common Goals in Agile. However, it primarily centres on the pitfalls of say-do metrics and does not explicitly address shared objectives or strategic alignment, which are core to the Common Goals category. The discussion lacks depth in connecting these ideas to broader organisational goals, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:00:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes over outputs, which aligns with the principles of competence in Agile. It highlights the need for continuous improvement and transparency, which are key aspects of developing skills and capabilities. However, while competence is a significant theme, the primary focus is on metrics and their implications rather than a direct exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:00:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the pitfalls of say-do metrics, which are not directly related to the One Engineering System framework. While it touches on themes of transparency and outcomes, it does not provide substantial insights into the principles, components, or implementation of 1ES. The focus remains on Agile practices rather than the integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

@@ -40,8 +40,8 @@ tags:
 - Value Delivery
 - Continuous Delivery
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: excellence-1-1.jpg
 
 ---

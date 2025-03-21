@@ -185,15 +185,6 @@
     "reasoning": "Content primarily discusses scaling teams and improving collaboration in a general context, without a focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-25T12:16:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling teams and improving collaboration without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
     "calculated_at": "2025-02-25T12:16:52",
@@ -811,11 +802,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-25T12:18:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:42:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling teams and improving delivery processes without a focus on empirical evidence or Evidence-Based Management principles.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses scaling teams and the importance of collaboration, which aligns with the concept of improving outcomes. However, it lacks direct references to empirical evidence or specific metrics related to Evidence-Based Management. The focus is more on practical advice rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -1180,11 +1174,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-25T12:19:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and improving collaboration rather than the principles and practices of Continuous Delivery.",
+    "calculated_at": "2025-03-21T16:41:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses scaling teams and the challenges associated with it, which indirectly relates to Continuous Delivery principles. However, it does not explicitly mention Continuous Delivery or its core practices, focusing instead on team dynamics and collaboration. While there are elements that touch on improving delivery outcomes, the primary focus is not on Continuous Delivery itself, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling teams and the challenges associated with it, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are themes related to improving processes and quality, the focus is primarily on team dynamics and coordination rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is weak, and the depth of discussion does not provide substantial insights into the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:41:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of scaling teams and emphasises the importance of minimising friction and enhancing collaboration, which aligns with the principles of Continuous Improvement. However, it does not explicitly mention Continuous Improvement or provide detailed strategies or frameworks related to it. The focus is more on team dynamics and outcomes rather than a systematic approach to continuous improvement practices.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:41:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of alignment, which relates to the concept of Common Goals. However, it primarily focuses on operational issues and personal experiences rather than explicitly defining or exploring Common Goals within Agile or DevOps frameworks. The mention of alignment is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:41:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of effective collaboration, which indirectly relates to competence. However, it does not explicitly focus on continuous learning or skill development, which are core aspects of the competence category. The discussion is more about team dynamics and operational efficiency rather than the development of individual or collective capabilities.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:41:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling teams and collaboration but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of team coordination and minimising friction, which are relevant to 1ES, it lacks a direct focus on the integration and standardisation of engineering processes that characterise the 1ES framework.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:51:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:37:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum training and immersive learning experiences, which are methodologies related to Agile rather than DevOps. While there are elements of collaboration and feedback mentioned, they are not deeply tied to the core principles of DevOps. The discussion lacks a comprehensive exploration of DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -91,11 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:51:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:37:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and Scrum techniques without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting an immersive Scrum training course, with no explicit discussion of Evidence-Based Management principles. While it mentions practical assignments and collaborative feedback, these elements do not directly relate to the core themes of EBM, such as empirical decision-making or current value metrics. The content lacks depth in discussing how data informs management decisions, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -331,15 +337,6 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T22:51:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T22:51:44",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
@@ -661,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:52:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:37:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on an immersive learning course related to Scrum, which is a framework within Agile methodologies. While it mentions practical assignments and collaborative feedback, it does not explicitly discuss Continuous Delivery principles, practices, or tools. The discussion is more about training and learning rather than the delivery of software in short, reliable cycles, which is the essence of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -760,11 +760,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:53:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:37:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on an immersive Scrum training course, which is more aligned with Scrum practices than the Agile Product Operating Model. While it mentions agile principles and the transformative nature of learning, it lacks a direct discussion on the core themes of APOM, such as product management integration or operational governance. The depth of discussion is limited to the training format and benefits, without addressing the broader implications of an Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1533,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on immersive learning within the context of Scrum, with no direct mention or discussion of the Shift-Left Strategy. While it touches on collaborative feedback and practical assignments, these elements do not specifically relate to integrating testing, security, or compliance earlier in the software development lifecycle. Therefore, the content does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:37:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting an immersive Scrum training course, which is more about learning and engagement rather than Continuous Improvement. While it mentions practical assignments and collaborative feedback, which are elements that could support Continuous Improvement, the overall emphasis is on the course structure and benefits rather than a deep exploration of Continuous Improvement principles or strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:37:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting an immersive learning course in Scrum, with limited direct discussion of Common Goals. While it mentions collaborative feedback and practical assignments, which could relate to team alignment, it lacks a thorough exploration of how these elements connect to overarching strategic objectives or the principles of Agile and DevOps. The emphasis is more on the course structure and benefits rather than on aligning individual contributions to a common mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:37:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses an immersive learning course focused on Scrum, which implies a connection to skill development and competence. However, it primarily promotes the course rather than deeply exploring the principles of competence in Agile methodologies. While there are mentions of practical assignments and collaborative feedback, the discussion lacks depth in addressing continuous learning and the broader implications of competence in professional settings.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:37:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and immersive learning experiences, which are not directly related to the One Engineering System framework. While it mentions Agile methodologies, it does not discuss the principles, integration, or implementation of 1ES, nor does it provide any insights into standardising engineering practices across teams.",
     "level": "Ignored"
   }
 }

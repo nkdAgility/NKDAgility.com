@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:13:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the suitability of a trainer for an organisation, which is unrelated to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal health, perspective, and connection in the tech industry, with no explicit discussion of DevOps principles or practices. While it touches on themes of innovation and leadership, these are not aligned with the core concepts of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -238,11 +241,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:14:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Continuous Delivery principles, practices, or methodologies; it focuses on trainer fit and optimism.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal health, perspective, and innovation in the tech industry, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of creativity and connection, these are not aligned with the core aspects of Continuous Delivery, such as automation, testing, or deployment strategies. The discussion lacks depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -372,15 +378,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses trainer fit and organizational culture rather than Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the fit of a trainer for an organization and does not relate to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1138,11 +1135,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:13:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses trainer fit and optimism without reference to Agile principles or product operating models.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on personal insights related to health, perspective, and innovation in the tech industry, without any direct mention or discussion of the Agile Product Operating Model or its principles. While it touches on themes of leadership and creativity, these are not aligned with the core topics of APOM, such as product management practices or agile processes.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1345,11 +1345,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:13:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on choosing the right trainer for an organization and creating optimism, which is not related to Evidence-Based Management principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses personal insights on health, perspective, and connection in the tech industry, without a direct focus on Evidence-Based Management principles. While it touches on themes like innovation and leadership, it lacks explicit references to empirical evidence or metrics that are central to EBM. The discussion is more anecdotal and motivational rather than grounded in data-informed decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1419,6 +1422,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal reflections about health, perspective, and innovation in the tech industry, with no direct mention or discussion of the Shift-Left Strategy. While it touches on themes of creativity and detail, it does not align with the core principles of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:13:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses themes of health, perspective, and connection in the tech industry, but it does not explicitly mention Continuous Improvement or its principles. While there are elements that touch on innovation and fostering environments for creativity, these are not directly tied to the core themes of Continuous Improvement. The discussion lacks depth in terms of strategies or frameworks that support Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:13:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal reflections and insights related to health, perspective, and connection in the tech industry, rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on themes of innovation and leadership, it lacks explicit references to shared objectives or alignment with strategic goals, which are central to the Common Goals category. The discussion is more anecdotal and motivational, without a clear connection to the principles of Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:13:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses themes of health and perspective in relation to innovation in tech, but it does not explicitly address competence or skill development. While there are mentions of fostering creativity and supporting builders, these are secondary to the main focus on well-being and perspective. The alignment with competence is weak, as the discussion lacks depth on continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:13:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal insights related to health, perspective, and innovation in the tech industry, without any direct mention or discussion of the One Engineering System framework or its principles. While it touches on themes of connection and leadership, these are not aligned with the core topics of 1ES, such as standardisation and integration of software development practices.",
     "level": "Ignored"
   }
 }

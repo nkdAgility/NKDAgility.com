@@ -59,15 +59,6 @@
     "reasoning": "The content discusses the empowerment of teams to adapt their processes, which aligns with the human-centric and adaptive principles of BetaCodex. However, it lacks explicit references to BetaCodex itself and does not delve deeply into its foundational theories or broader implications. The focus is primarily on team dynamics and value maximization, which are relevant but not comprehensive enough to fully embody the BetaCodex category.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:33:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses empowerment in Agile teams and the importance of flexibility in processes, which deviates from the core principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:33:57",
@@ -88,11 +79,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:33:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:27:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and team empowerment, with no clear focus on DevOps practices or principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the empowerment of teams, which, while related to DevOps principles, does not explicitly discuss DevOps as a philosophy or its core practices. The mention of continuous improvement and collaboration aligns somewhat with DevOps themes, but the overall emphasis is on Agile processes rather than DevOps integration. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -127,14 +121,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T09:54:34",
-    "ai_confidence": 68.0,
+    "calculated_at": "2025-03-21T17:28:10",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the empowerment of teams to adapt their processes, which aligns with Agile principles of flexibility and value maximization. However, it lacks explicit references to the Agile Product Operating Model and does not delve deeply into the specific strategies or metrics associated with it. The focus is more on team dynamics rather than the broader product-centric approach, leading to a moderate confidence score.",
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the empowerment of Agile teams, which aligns with the principles of the Agile Product Operating Model, particularly in fostering a culture of continuous improvement and maximising value. However, it lacks direct mentions of the APOM framework and does not delve deeply into product management practices or governance, which are key aspects of the category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -355,15 +349,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:44:07",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T17:28:14",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the importance of empowering teams and adapting processes, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on empowerment and continuous improvement without explicitly referencing empirical evidence or metrics that are central to EBM. The discussion lacks depth in terms of data-driven decision-making and does not provide case studies or specific techniques for measuring performance, which are crucial for a higher confidence score in this category.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of empowering Agile teams and maximising ROI, which aligns with the concept of delivering value. However, it lacks explicit references to evidence-based metrics or empirical decision-making, focusing more on empowerment and adaptability rather than data-informed management practices.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1129,11 +1123,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:28:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the empowerment of Agile teams and the importance of flexibility in processes, without specific focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the empowerment of Agile teams and their adaptability, which is related to Agile principles rather than Continuous Delivery specifically. While it touches on themes of continuous improvement and flexibility, it lacks direct mentions of Continuous Delivery practices, automation, or deployment strategies. The focus is more on team dynamics and ROI rather than the delivery process itself.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1560,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile principles and team empowerment but does not explicitly mention the Shift-Left Strategy or its core themes. While it touches on continuous improvement and adapting processes, it lacks a direct focus on integrating testing, security, or compliance earlier in the development lifecycle, which are essential aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:28:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of empowering Agile teams, which is closely tied to the principles of Continuous Improvement. It highlights the need for teams to adapt their processes based on reflection and learning, aligning well with the core themes of Continuous Improvement. The depth of discussion is significant, covering techniques like retrospectives and experimentation, and providing personal experiences that illustrate the impact of these practices. Overall, the content is a strong fit for the category, focusing on fostering a culture of Continuous Improvement within Agile teams.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:28:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of empowering Agile teams and adapting processes, which indirectly relates to the concept of Common Goals. However, it primarily focuses on empowerment and flexibility rather than explicitly addressing shared objectives or alignment with strategic goals. While there are mentions of maximizing ROI and fostering collaboration, these are not deeply tied to the core themes of Common Goals, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:28:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of empowering teams, which aligns with the concept of competence by emphasising continuous improvement and adaptability. It mentions fostering a culture of continuous learning and the need for teams to reflect on their processes, which directly relates to skill development. However, while competence is a significant theme, the primary focus is more on empowerment and adaptability rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:28:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile empowerment and team autonomy, which are not central to the One Engineering System framework. While it touches on themes of flexibility and adaptation, it lacks direct references to 1ES principles, integration of tools, or standardisation across teams. The depth of discussion on Agile practices is significant, but it does not align closely with the core focus of 1ES.",
     "level": "Ignored"
   }
 }

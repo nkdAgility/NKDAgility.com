@@ -33,6 +33,7 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - People and Process
+- Competence
 - Software Developers
 - Agile Philosophy
 - Coaching

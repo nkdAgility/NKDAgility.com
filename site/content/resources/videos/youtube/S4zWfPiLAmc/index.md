@@ -41,9 +41,9 @@ tags:
 - Transparency
 - Cycle Time
 - Practical Techniques and Tooling
+- Continuous Improvement
 - Evidence Based Leadership
 - Flow Efficiency
-- Transparency and Accountability
 resourceTypes:
 - video
 categories:

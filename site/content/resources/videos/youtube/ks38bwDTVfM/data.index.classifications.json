@@ -127,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:41:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and Scrum practices, which are not central to the DevOps philosophy. While there is a brief mention of DevOps in the conclusion, it is not a primary focus of the discussion. The strategies outlined are more aligned with Agile principles rather than the core themes of DevOps, such as automation, shared accountability, and continuous improvement. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -169,11 +172,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices, roles, and planning strategies without addressing Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile practices and Scrum strategies, which are not directly related to Continuous Delivery. While it touches on aspects like the Definition of Done and planning, these are more about Agile methodologies rather than the principles and practices of Continuous Delivery. The discussion lacks explicit references to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
@@ -979,15 +985,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:58:52",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T18:23:26",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content primarily focuses on Agile and Scrum practices, discussing strategies for improving team performance within Sprints. While it touches on Agile principles, it lacks a direct emphasis on the Agile Product Operating Model as a holistic framework for product-centric development. The discussion is more about operational tactics rather than the broader organisational model, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum practices, specifically strategies for improving team performance during Sprints. While it touches on Agile principles, it does not explicitly discuss the Agile Product Operating Model or its core themes such as product management integration, operational stability, or Evidence-Based Management. The discussion is more aligned with general Agile practices rather than the specific framework of APOM, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1210,11 +1216,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:23:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile practices and strategies for improving team performance in sprints, without addressing the principles of Evidence-Based Management or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile strategies and Scrum practices, with no direct mention of Evidence-Based Management or its key topics. While it discusses improving team productivity and workflow, it lacks empirical evidence or metrics that align with EBM principles. The discussion is more about practical Agile techniques rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1272,15 +1281,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and event management rather than focusing on employee motivation or engagement strategies.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile strategies and Scrum practices without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Agile and Scrum principles, discussing strategies for improving team productivity and Sprint success. While it touches on aspects like testing and planning, it does not explicitly address the Shift-Left Strategy or its core themes of integrating testing, security, and compliance earlier in the development process. The discussion lacks depth in relation to the Shift-Left approach, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:23:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile strategies that indirectly support Continuous Improvement principles, such as defining 'done' and prioritising refinement. However, it lacks a direct focus on Continuous Improvement as a primary theme, and the depth of discussion on empirical evidence or specific Continuous Improvement frameworks is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:23:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile strategies that indirectly relate to Common Goals, such as establishing a Definition of Done and avoiding overcommitting, which can contribute to team alignment. However, it lacks a direct focus on shared objectives or strategic alignment, making it more about tactical execution than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:23:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses strategies that indirectly relate to competence, such as defining 'done' and avoiding overcommitment, which are essential for team effectiveness. However, it lacks a direct focus on continuous learning or skill development, which are core to the competence category. The depth of discussion on these strategies is substantial, but the primary focus remains on operational practices rather than on fostering competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:23:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing strategies for improving team performance within Sprints. It does not mention the One Engineering System (1ES) framework or its principles, components, or implementation. The discussion is centred around Agile practices rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

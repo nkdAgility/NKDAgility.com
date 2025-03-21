@@ -658,12 +658,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition towards a more agile and continuous delivery model at Microsoft, highlighting the contributions of key figures in promoting shorter feedback loops and a continuous cadence. However, the primary focus is on the role of product owners and the broader context of product management rather than a detailed exploration of Continuous Delivery principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:34:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development, focusing on their contributions to cultural and process changes within Microsoft. While it touches on aspects of Agile that may relate to Continuous Delivery, such as shorter feedback loops and iterative improvements, it does not explicitly address Continuous Delivery principles or practices. The discussion is more centred on Agile methodologies rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:46:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:34:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the contributions of specific individuals in product management at Microsoft, focusing on their experiences and changes in product release cadences rather than empirical evidence or data-driven decision-making principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development, focusing on their contributions and cultural shifts within Microsoft. While it touches on aspects of Agile practices and leadership, it lacks a direct emphasis on Evidence-Based Management principles such as empirical decision-making or specific metrics related to current value, time to market, or unrealised value. The discussion is more anecdotal and does not provide substantial detail on how data informs management decisions, which is central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,15 +1285,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T15:56:05",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T19:33:59",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the contributions of product owners in the context of Agile and DevOps practices, particularly highlighting the shift towards continuous delivery and feedback loops at Microsoft. While it mentions DevOps and its principles, the primary focus is on the role of product owners and their impact on organisational change rather than a comprehensive exploration of DevOps itself. The discussion lacks depth in terms of specific DevOps practices, tools, or metrics, which affects the overall confidence score.",
-    "level": "Secondary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development, focusing on their contributions to cultural and process changes within Microsoft. While it touches on themes like collaboration and feedback loops, which are relevant to DevOps, the main focus is on Agile practices rather than the broader DevOps philosophy. The discussion lacks depth in core DevOps principles such as automation, shared accountability, and continuous improvement, leading to a low confidence score in alignment with the DevOps category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1477,12 +1483,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:23:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T19:34:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the contributions of product owners in enhancing agility and value delivery within Microsoft, touching on principles of product-centric development and the importance of feedback loops, but it primarily focuses on specific individuals and their experiences rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners in Agile environments, particularly highlighting the contributions of Brian Harry and Aaron Bjork at Microsoft. It discusses the transition from project-centric to product-centric approaches, which aligns well with the Agile Product Operating Model. The depth of discussion includes cultural transformation, strategic vision, and the importance of feedback loops, all of which are relevant to APOM principles. However, while it touches on key aspects of the model, it does not delve deeply into all the specific elements outlined in the APOM definition, such as operational stability or Evidence-Based Management, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1500,15 +1509,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the contributions of product owners and the evolution of product management practices at Microsoft, with a focus on Agile and DevOps, rather than platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:23:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the contributions of specific product owners and their impact on product management and agile practices at Microsoft, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the role of Product Owners in Agile development, focusing on leadership and cultural transformation rather than explicitly addressing the Shift-Left Strategy. While there are mentions of shorter feedback loops and Agile practices, these concepts are not directly tied to integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left Strategy. The discussion lacks depth in terms of specific techniques or tools related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:34:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, highlighting their contributions to cultural and process changes at Microsoft. While it touches on aspects of Continuous Improvement, such as shorter feedback loops and cultural transformation, it primarily focuses on individual contributions and leadership rather than a systematic approach to Continuous Improvement. The discussion lacks a comprehensive exploration of Continuous Improvement principles and frameworks, which limits its alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:34:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Product Owners in Agile development, highlighting their contributions to strategic vision and cultural transformation. However, while it touches on aspects of alignment and ownership, it primarily focuses on individual contributions and anecdotes rather than a cohesive discussion on Common Goals as defined in the category. The mention of aligning product goals with market demands is relevant, but the overall depth and focus on shared objectives are limited.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:34:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the impactful role of Product Owners in Agile development, highlighting their contributions to cultural transformation and strategic vision, which aligns with the principles of competence. It mentions continuous learning and skill development indirectly through the advocacy of Agile practices and the emphasis on team autonomy. However, while competence is a significant theme, the focus is more on specific individuals and their actions rather than a broader discussion on competence as a foundational principle.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:34:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile development, focusing on specific individuals and their contributions to Agile practices at Microsoft. While it touches on themes of collaboration and cultural transformation, it does not explicitly mention or align with the One Engineering System framework. The discussion is more centred on Agile methodologies rather than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

@@ -640,11 +640,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T12:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without a focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:22:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, with a focus on their roles in software delivery. While it touches on concepts like rapid feedback loops and systems thinking, which are relevant to Continuous Delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion is more about the methodologies rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -808,11 +811,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T12:31:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without a focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T20:22:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, with a focus on processes and methodologies rather than on evidence-based management principles. While it touches on concepts like empirical process control and rapid feedback loops, it does not explicitly address the key topics of Evidence-Based Management such as current value metrics, time to market, or empirical decision-making. The discussion lacks depth in terms of evidence-based practices, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1243,14 +1249,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:12:57",
-    "ai_confidence": 67.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 65.0,
+    "calculated_at": "2025-03-21T20:22:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their similarities and the importance of both in delivering software products. While it does mention DevOps explicitly, the focus is more on the comparison with Agile rather than a deep dive into DevOps principles or practices. The discussion touches on key themes like automation and cycle times, but lacks detailed exploration of specific DevOps practices or tools, which affects the depth of the discussion.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses DevOps in relation to Agile, highlighting their similarities and differences. While it mentions key DevOps concepts such as rapid feedback loops and systems thinking, the primary focus is on comparing DevOps with Agile rather than a deep exploration of DevOps principles. This results in a moderate confidence score, as it aligns with some core themes but lacks depth in discussing DevOps as a standalone philosophy.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1433,22 +1439,16 @@
     "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:34:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences and similarities between DevOps and Agile, which are unrelated to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:34:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T20:22:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, without a direct focus on the Agile Product Operating Model. While it touches on agile principles and practices, it does not delve into the specific aspects of the APOM framework, such as product management integration or operational governance. The discussion is more about general agile methodologies rather than the specific product-oriented mindset that APOM embodies.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1500,6 +1500,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the relationship between DevOps and Agile, focusing on their similarities and the importance of rapid feedback loops. While it touches on concepts relevant to software development processes, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:22:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile and DevOps, highlighting their similarities and the importance of rapid feedback loops and empirical process control, which are key aspects of Continuous Improvement. However, while it touches on these principles, the primary focus is on comparing Agile and DevOps rather than a dedicated exploration of Continuous Improvement practices. The depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:22:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the alignment between Agile and DevOps, highlighting their shared purpose of delivering value to customers and creating value for the organisation. While it does touch on the importance of aligning strategies and practices, it does not explicitly define or delve deeply into the concept of Common Goals as outlined in the category description. The discussion is more focused on the relationship between Agile and DevOps rather than on the specific principles of Common Goals, which limits its overall alignment and depth in this context.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:22:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile and DevOps primarily in terms of their similarities and differences, focusing on delivery and processes rather than explicitly addressing competence or skill development. While it touches on concepts like rapid feedback loops and systems thinking, which are related to competence, it does not delve deeply into continuous learning or the development of skills. Therefore, while there is some alignment with the category, it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:22:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, which are not directly related to the One Engineering System framework. While it touches on concepts like systems thinking and integration, it does not focus on the principles, components, or implementation of 1ES. The discussion is more about methodologies rather than the standardisation and integration of engineering processes as required by the 1ES category.",
     "level": "Ignored"
   }
 }

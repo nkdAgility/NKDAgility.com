@@ -655,11 +655,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:08:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the drawbacks of using story points and velocity in Agile methodologies, which is not related to Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:59:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile metrics, specifically critiquing the use of story points and velocity, which are not directly related to Continuous Delivery principles. While it touches on the importance of delivering value and mentions metrics like throughput and cycle time, it lacks a focused discussion on Continuous Delivery practices, automation, or cultural aspects. The content is more about Agile methodologies rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,12 +832,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:09:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily critiques the use of story points and velocity as metrics in Agile, focusing on subjective experiences rather than empirical evidence or evidence-based management principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T17:59:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the pitfalls of using story points and velocity as metrics in Agile, advocating for a shift towards more meaningful metrics like throughput and cycle time, which aligns with the Evidence-Based Management focus on data-informed decision-making. However, while it touches on the importance of metrics, it does not explicitly frame the discussion within the broader context of Evidence-Based Management principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1270,11 +1276,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:06:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:59:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies, specifically the use of story points and velocity, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically critiquing the use of story points and velocity as metrics. While it touches on themes of value delivery and efficiency, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The focus remains on Agile practices rather than the integration of people, processes, and technology characteristic of DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1447,15 +1456,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:11:19",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T17:59:46",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Agile metrics, particularly critiquing the use of story points and velocity, which are relevant to Agile practices. However, it does not explicitly focus on the Agile Product Operating Model as a primary theme. While it touches on value delivery and team dynamics, it lacks a comprehensive exploration of the Agile Product Operating Model's principles, strategies, and case studies, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile metrics, particularly the pitfalls of story points and velocity, which are relevant to Agile practices but do not directly address the Agile Product Operating Model. While it touches on value delivery, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The focus is more on Agile methodologies rather than the specific framework of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1477,15 +1486,6 @@
     "final_score": 56.0,
     "reasoning": "The content discusses Agile metrics and the pitfalls of focusing on story points and velocity, which indirectly relates to value delivery and team dynamics. However, it primarily centres on technical metrics rather than the broader social frameworks and methodologies that promote collaboration and decision-making within organisations. While there are mentions of team focus and value delivery, the depth of discussion on social technologies and their impact on organisational culture is limited.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:31:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the drawbacks of story points and velocity in agile methodologies, without addressing the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1527,6 +1527,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile metrics, specifically critiquing the use of story points and velocity, without addressing the Shift-Left Strategy or its principles. While it touches on the importance of delivering value, it does not integrate testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:59:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the pitfalls of using story points and velocity as metrics in Agile, advocating for a shift towards more meaningful metrics like throughput and cycle time. While it touches on the importance of focusing on value delivery, which aligns with Continuous Improvement principles, the primary focus is on critiquing specific metrics rather than a broader discussion on Continuous Improvement practices. The content lacks detailed exploration of Continuous Improvement strategies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:59:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques the use of story points and velocity as metrics in Agile, focusing instead on value delivery. While it touches on the importance of delivering value, it does not explicitly discuss the concept of Common Goals or how they align with Agile and DevOps principles. The discussion is more about metrics and practices rather than shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:59:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile metrics and the pitfalls of focusing on story points and velocity, which indirectly relates to competence by emphasising the importance of delivering value and maintaining quality outcomes. However, it does not explicitly address continuous learning or skill development, which are core themes of competence. The discussion is more focused on metrics rather than the development of skills or capabilities, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:59:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically critiquing the use of story points and velocity as metrics. It does not address the principles or components of the One Engineering System, nor does it explore integration or standardisation of engineering processes. The focus is on Agile practices rather than the unified framework of 1ES.",
     "level": "Ignored"
   }
 }

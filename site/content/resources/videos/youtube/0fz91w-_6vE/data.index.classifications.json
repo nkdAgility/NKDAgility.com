@@ -1,15 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:04:44",
-    "ai_confidence": 82.0,
+    "calculated_at": "2025-03-21T19:57:00",
+    "ai_confidence": 87.0,
     "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "The content explicitly discusses the role of a consultant in a DevOps context, focusing on optimising the flow of value and addressing bottlenecks in the delivery process. It aligns well with core DevOps themes such as continuous delivery and the importance of feedback loops. The depth of discussion is significant, as it explores both technical and people-related challenges in DevOps, demonstrating a comprehensive understanding of the category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the role of a DevOps consultant, focusing on optimising workflows, identifying bottlenecks, and fostering a culture of continuous improvement, which are core principles of DevOps. It aligns well with the key topics of flow efficiency, feedback loops, and shared accountability. The depth of discussion is substantial, providing specific examples of technical and people-related bottlenecks, which enhances the overall understanding of DevOps practices.",
+    "level": "Primary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -259,15 +259,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-15T00:26:25",
-    "ai_confidence": 42.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses DevOps and the flow of value in software delivery, which relates to Continuous Delivery principles. However, it lacks explicit mentions of Continuous Delivery practices and does not delve deeply into automation, testing, or deployment processes specific to CD. The focus is more on general DevOps challenges rather than the specific methodologies of Continuous Delivery.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T19:57:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses DevOps consulting and the importance of optimising workflows, which aligns with Continuous Delivery principles. However, it lacks direct mentions of Continuous Delivery and does not delve deeply into its specific practices or tools. The focus is more on general improvement and bottleneck identification rather than the specific methodologies of Continuous Delivery.",
+    "level": "Tertiary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -421,15 +421,6 @@
     "final_score": 66.0,
     "reasoning": "The content discusses the optimisation of value flow in a DevOps context, which aligns with Value Stream Management principles. It mentions identifying bottlenecks and improving processes, but lacks a focused discussion on specific Value Stream Management techniques or metrics. The depth of discussion is moderate, primarily centred on personal experiences rather than comprehensive analysis.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:37:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps consulting and roles, without a clear focus on the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1261,12 +1252,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:37:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of value delivery and feedback loops, which are relevant to the Agile Product Operating Model, but the primary focus is on DevOps practices and consultancy rather than a thorough exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:57:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on DevOps consulting, identifying bottlenecks, and optimising workflows, which are not directly aligned with the Agile Product Operating Model. While it touches on concepts of continuous improvement and agility, it lacks explicit discussions on product management principles or the transition from project to product ethos, which are core to the APOM. Therefore, the confidence score reflects a low direct mention and depth of discussion, with some conceptual alignment.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1468,11 +1462,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T08:37:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:57:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps consulting roles and frustrations in the workflow, rather than empirical evidence and decision-making processes.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps consulting and the importance of optimising workflows and identifying bottlenecks, but it does not explicitly mention Evidence-Based Management or its key topics. While there is some alignment with the concept of continuous improvement and data-informed decision-making, the focus remains on practical consulting rather than empirical evidence or metrics specific to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1542,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses DevOps and the importance of optimising workflows and identifying bottlenecks, which are relevant to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, or compliance earlier in the development process. The discussion is more general about improving processes and collaboration rather than specifically addressing the principles and techniques of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:57:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a DevOps consultant in fostering a culture of continuous improvement, identifying bottlenecks, and optimising workflows. While it does mention continuous improvement explicitly, the focus is more on practical applications and problem-solving rather than a deep exploration of continuous improvement principles. The discussion aligns with the category's themes but lacks extensive detail on strategies or frameworks, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:57:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of a DevOps consultant in optimising workflows and identifying bottlenecks, which indirectly relates to the concept of Common Goals. However, it primarily focuses on individual experiences and problem-solving rather than explicitly addressing shared objectives or strategic alignment within teams. While there are mentions of fostering a culture of continuous improvement and enhancing collaboration, these themes are not deeply explored in relation to Common Goals, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:57:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of a DevOps consultant in optimising workflows and fostering a culture of continuous improvement, which aligns with the principles of competence. However, while it touches on the importance of identifying bottlenecks and enhancing collaboration, it lacks a direct focus on continuous learning and skill development, which are crucial aspects of competence. The depth of discussion on fostering a culture of improvement adds to the score, but the overall emphasis remains more on problem-solving than on competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:57:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on DevOps consulting, identifying bottlenecks, and optimising workflows, which are not directly related to the One Engineering System framework. While there are elements of process improvement and collaboration, the discussion lacks explicit references to 1ES principles, components, or its implementation. The depth of discussion on the topic is limited, focusing more on personal experiences and general DevOps practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

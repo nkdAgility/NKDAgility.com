@@ -25,14 +25,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:18:53",
+    "calculated_at": "2025-03-21T19:33:34",
     "ai_confidence": 62.0,
-    "ai_mentions": 50.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 60.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
     "final_score": 61.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, which is relevant to the DevOps category. However, it primarily focuses on the conceptual relationship between the two methodologies rather than providing in-depth insights into DevOps practices, tools, or metrics. While it mentions continuous delivery, it lacks detailed exploration of DevOps principles or specific practices, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the integration of DevOps and Agile, which indicates a direct mention of DevOps. However, the focus is more on the relationship between the two methodologies rather than a deep exploration of DevOps principles or practices. The alignment with core DevOps themes is present but not robust, as it lacks detailed discussion on automation, shared accountability, or continuous improvement. Overall, while DevOps is a primary topic, the depth of discussion is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -97,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:20:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:33:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and synergies. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making. The discussion is more about methodologies rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -339,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:20:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -655,14 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T23:37:06",
+    "calculated_at": "2025-03-21T19:33:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content briefly mentions continuous delivery in the context of DevOps but does not delve into the principles, practices, or methodologies of Continuous Delivery itself. The focus is primarily on the integration of DevOps and Agile, lacking detailed discussion on Continuous Delivery's core themes.",
+    "reasoning": "The content briefly mentions continuous delivery in the context of DevOps but primarily focuses on the integration of DevOps and Agile without delving into the principles or practices of Continuous Delivery itself. While there is some conceptual alignment regarding the importance of collaboration and synergy, the depth of discussion on Continuous Delivery is minimal, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -748,11 +742,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:21:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:33:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their synergies rather than the Agile Product Operating Model specifically. While Agile is mentioned, it does not delve into the principles or practices of the Agile Product Operating Model, nor does it address the key topics outlined in the category description. The discussion lacks depth regarding product management and the transition to a product-oriented mindset, which are central to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1485,6 +1482,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the integration of DevOps and Agile, without any explicit mention of the Shift-Left Strategy. While it touches on themes of collaboration and process, it does not delve into the principles, techniques, or benefits specific to the Shift-Left approach. The focus remains on the relationship between DevOps and Agile rather than on integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:33:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, touching on their unique perspectives and strengths. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, measurable advancements, or specific strategies for fostering a culture of experimentation. The discussion is more about the synergy between DevOps and Agile rather than a commitment to ongoing improvement, which is central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:33:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the integration of DevOps and Agile, hinting at a shared objective but lacks a focused discussion on Common Goals. It does not explicitly define or explore the significance of Common Goals within Agile and DevOps frameworks, nor does it provide depth on how these frameworks create alignment and ownership within teams. The mention of 'synchronised synergies' suggests a connection but does not delve into the operationalisation of Common Goals or their impact on organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:33:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the integration of DevOps and Agile, hinting at the importance of understanding their strengths. However, it lacks a direct focus on competence, continuous learning, or skill development, which are central to the category. The discussion is more about the synergy between the two methodologies rather than a deep exploration of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:33:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, which are not directly related to the One Engineering System framework. While there are mentions of engineering practices, the focus is on the relationship between DevOps and Agile rather than on the principles, components, or implementation of 1ES. The discussion lacks depth regarding 1ES and does not provide relevant examples or best practices related to the category.",
     "level": "Ignored"
   }
 }

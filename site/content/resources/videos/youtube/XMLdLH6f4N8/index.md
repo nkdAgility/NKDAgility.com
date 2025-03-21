@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Organisational Culture
 - Organisational Agility
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

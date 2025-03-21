@@ -26,6 +26,7 @@ duration: 466
 isShort: false
 tags:
 - Scrum Master
+- Competence
 - Scrum Team
 - Software Development
 - People and Process
@@ -34,7 +35,6 @@ tags:
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Product Development
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

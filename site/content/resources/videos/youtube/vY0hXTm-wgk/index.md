@@ -30,6 +30,7 @@ tags:
 - Coaching
 - People and Process
 - Organisational Culture
+- Continuous Improvement
 - Team Motivation
 sitemap:
   filename: sitemap.xml

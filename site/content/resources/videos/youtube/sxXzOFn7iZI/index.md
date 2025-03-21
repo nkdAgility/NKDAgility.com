@@ -39,8 +39,8 @@ tags:
 - Technical Leadership
 - Software Development
 - Organisational Agility
-- People and Process
-- Agile Frameworks
+- Competence
+- Continuous Improvement
 resourceTypes:
 - video
 categories: []

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:10:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily focuses on using Microsoft Teams and Mural for Scrum training, with no substantial discussion on DevOps principles, practices, or tools.",
+    "calculated_at": "2025-03-21T20:58:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on tools and techniques for facilitating Scrum training in virtual classrooms, with no explicit discussion of DevOps principles or practices. While it mentions collaboration and technology, these are not framed within the context of DevOps, which emphasises a broader philosophy of integration and continuous value delivery.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -253,11 +256,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:58:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on using Microsoft Teams and Mural for virtual Scrum training, and does not address principles, practices, or methodologies of Continuous Delivery.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on virtual classroom experiences and the use of specific tools like Microsoft Teams and Mural for Scrum training. While it mentions Scrum, it does not discuss Continuous Delivery principles, practices, or benefits. The discussion is centred around enhancing learning experiences rather than software delivery practices, leading to a very low confidence score in relation to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -390,15 +396,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses virtual classroom tools and techniques for Scrum training without any direct relation to Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the usage of Microsoft Teams and Mural for Scrum training without addressing the One Engineering System framework or its integration and standardization principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1171,11 +1168,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on using software tools for virtual Scrum training rather than discussing the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T20:58:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms for Scrum training, with no direct discussion of the Agile Product Operating Model or its principles. While it mentions Scrum, it does not delve into product management practices or the transition to a product-oriented mindset, which are core to the APOM. The discussion is more about enhancing learning experiences rather than addressing the operational model itself.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1384,11 +1384,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:58:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of using Microsoft Teams and Mural for a Scrum training class, rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms for Scrum training, with no direct mention of Evidence-Based Management principles or metrics. While it discusses enhancing learning experiences, it does not align with the core themes of EBM, such as data-informed decision-making or outcome management. The depth of discussion is limited to practical tips for using specific tools, lacking any empirical evidence or strategic insights related to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1461,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on enhancing virtual classroom experiences using specific tools like Microsoft Teams and Mural, which are not related to the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it discuss the principles or benefits of the Shift-Left approach. The discussion is centred around technology use in training rather than software development processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:58:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms and does not explicitly discuss Continuous Improvement principles. While there are elements of enhancing learning experiences, they do not align with the core themes of Continuous Improvement, such as empirical evidence or strategies for organisational processes. The discussion lacks depth in relation to Continuous Improvement, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:58:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions Scrum in passing, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about practical tips for using tools rather than fostering collaboration towards a common mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:58:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms rather than discussing competence directly. While it touches on the importance of effective learning environments, it lacks explicit discussions on continuous learning, skill development, or the role of competence in delivering quality outcomes. The mention of tools like Microsoft Teams and Mural is more about their functionality than about fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:58:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of specific tools (Microsoft Teams and Mural) for enhancing virtual classroom experiences in Scrum training. While it discusses technology integration in a learning context, it does not address the principles, components, or implementation of the One Engineering System framework. The discussion is centred around personal experiences and tips for using these tools rather than on standardising or integrating software development practices across teams, which is the core of 1ES.",
     "level": "Ignored"
   }
 }

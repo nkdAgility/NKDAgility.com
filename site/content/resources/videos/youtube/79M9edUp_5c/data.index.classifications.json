@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:59:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, which is not directly related to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses asynchronous communication, which is relevant to collaboration in a team setting, a principle that can be associated with DevOps. However, it does not explicitly mention DevOps or its core principles, such as automation, shared accountability, or continuous improvement. The focus is primarily on communication strategies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without reference to Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T18:51:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any explicit reference to Evidence-Based Management principles or metrics. While it touches on themes of flexibility and improved outcomes, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -324,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, with no focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:00:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits, which is not directly related to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -628,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:01:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses asynchronous communication and its benefits for collaboration, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, which does not directly relate to Continuous Delivery principles or practices. While there are mentions of improving workflows and team dynamics, these are not specific to Continuous Delivery, and the content lacks depth in discussing any relevant Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -724,11 +724,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:01:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, without any direct mention or discussion of the Agile Product Operating Model or its principles. While it touches on themes of flexibility and team dynamics, these are not specifically aligned with the core topics of APOM, such as product management or continuous delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1440,6 +1443,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any direct mention or alignment with the Shift-Left Strategy. It does not address integrating testing, security, or compliance early in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:51:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses asynchronous communication and its benefits for collaboration and productivity, which indirectly relates to Continuous Improvement by promoting flexibility and enhanced team interactions. However, it lacks direct mentions of Continuous Improvement principles, empirical evidence, or structured strategies for integrating these concepts into organisational processes. The focus is more on communication methods rather than a systematic approach to continuous improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:51:11",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits, with only a brief mention of collaboration and productivity. It does not explicitly discuss Common Goals or their significance in Agile or DevOps frameworks. While it touches on themes of teamwork and communication, it lacks depth in connecting these ideas to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:51:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses asynchronous communication and its benefits for collaboration and productivity, but it does not explicitly address competence or continuous skill development. While it touches on aspects of effective communication that could relate to competence, such as setting clear expectations and encouraging thoughtful responses, these points are secondary to the main focus on communication methods. The depth of discussion on competence-related themes is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:51:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, which does not directly relate to the One Engineering System framework. While it touches on themes of collaboration and communication, it lacks explicit discussion of 1ES principles, integration of tools and processes, or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

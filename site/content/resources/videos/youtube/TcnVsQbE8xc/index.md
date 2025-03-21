@@ -33,6 +33,7 @@ tags:
 - People and Process
 - Agile Project Management
 - Continuous Learning
+- Competence
 - Pragmatic Thinking
 - Software Development
 resourceTypes:

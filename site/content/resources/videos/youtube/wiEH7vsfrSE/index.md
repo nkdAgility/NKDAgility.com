@@ -36,11 +36,11 @@ tags:
 - People and Process
 - Resilience and Change
 - Market Adaptability
+- Continuous Improvement
 - Enterprise Agility
 - Sociotechnical Systems
 - Pragmatic Thinking
 - Continuous Learning
-- Discovery and Learning
 resourceTypes:
 - video
 categories:

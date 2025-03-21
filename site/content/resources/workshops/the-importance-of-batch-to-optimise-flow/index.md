@@ -35,8 +35,8 @@ tags:
 - Practical Techniques and Tooling
 - Value Delivery
 - Agile Project Management
+- Continuous Improvement
 - Pragmatic Thinking
-- Software Development
 
 ---
 ## Duration

@@ -244,14 +244,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T14:45:43",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T16:52:21",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses traditional budgeting and its limitations, touching on concepts related to Evidence-Based Management, such as unrealised value and the need for flexibility in resource allocation. However, it primarily focuses on the budgeting process rather than explicitly detailing EBM principles or empirical evidence. While it aligns with some core themes, it lacks depth in discussing EBM practices and does not provide substantial empirical data or case studies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses traditional budgeting and its limitations, particularly in relation to unrealised value and the need for dynamic funding, which aligns with Evidence-Based Management principles. However, while it touches on key topics like unrealised value and value-driven decisions, it does not explicitly focus on empirical evidence or metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -295,11 +295,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T16:15:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:52:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses budgeting practices in an agile context, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses budgeting practices and the concept of Beyond Budgeting, which focuses on financial flexibility and value maximisation rather than Continuous Delivery principles. While there are mentions of agility and responsiveness, these are not directly tied to Continuous Delivery practices or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -1493,15 +1496,6 @@
     "reasoning": "The content discusses the limitations of traditional budgeting practices and advocates for a more adaptive, fluid approach to financial management that aligns with the principles of Beta Codex, but it primarily focuses on budgeting rather than the broader themes of decentralised organisational design.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:59:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses budgeting practices and challenges, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:38:54",
@@ -1578,6 +1572,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses traditional budgeting and the Beyond Budgeting approach, which focuses on flexibility and value maximisation rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on themes of responsiveness and value-driven decisions, it does not explicitly address the Shift-Left Strategy or its principles, techniques, or metrics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the limitations of traditional budgeting and introduces the concept of Beyond Budgeting, which aligns with Continuous Improvement principles by advocating for flexibility, responsiveness, and value-driven decision-making. However, while it touches on themes relevant to Continuous Improvement, such as iterative investment and dynamic funding, it does not delve deeply into specific Continuous Improvement techniques or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:52:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of traditional budgeting and introduces the concept of Beyond Budgeting, which aligns with the need for flexibility and responsiveness in achieving organisational goals. However, it primarily focuses on budgeting techniques rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The discussion lacks depth in connecting these budgeting principles to shared objectives or strategic alignment, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the limitations of traditional budgeting and introduces the concept of Beyond Budgeting, which indirectly relates to competence by emphasising the need for flexibility and responsiveness in resource allocation. However, it lacks direct mentions of competence, continuous learning, or skill development, making it a secondary focus rather than a primary discussion.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:52:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses budgeting practices and the concept of Beyond Budgeting, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development. The discussion lacks depth regarding integration or standardisation of engineering processes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

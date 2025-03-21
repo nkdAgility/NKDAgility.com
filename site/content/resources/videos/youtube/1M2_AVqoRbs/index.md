@@ -29,6 +29,7 @@ tags:
 - Technical Debt
 - Product Delivery
 - Value Delivery
+- Continuous Improvement
 - Working Software
 sitemap:
   filename: sitemap.xml

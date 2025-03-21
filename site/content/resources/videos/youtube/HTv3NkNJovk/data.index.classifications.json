@@ -664,11 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T06:40:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:28:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and compares the leadership styles of Satya Nadella and Steve Jobs, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile leadership and compares the leadership styles of Satya Nadella and Steve Jobs. While it touches on Agile principles, it does not specifically address Continuous Delivery practices, automation, or the delivery of software in reliable cycles. The focus is more on leadership and organisational culture rather than the technical aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,14 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:49:14",
+    "calculated_at": "2025-03-21T20:28:56",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses agile leadership and the importance of empirical data in decision-making, particularly in the context of Satya Nadella's leadership at Microsoft. It mentions the use of metrics to drive value creation and customer satisfaction, which aligns with EBM principles. However, the primary focus is on comparing leadership styles rather than a thorough exploration of EBM itself, leading to a moderate confidence score.",
+    "reasoning": "The content discusses agile leadership and the importance of empirical decision-making, particularly in the context of Satya Nadella's leadership at Microsoft. It highlights the shift towards using data to inform decisions and improve customer satisfaction, which aligns with the principles of Evidence-Based Management. However, the primary focus is on leadership styles rather than a comprehensive exploration of EBM concepts, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1288,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T06:38:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:28:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile leadership and comparisons between Steve Jobs and Satya Nadella, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses agile leadership, focusing on the comparison between Satya Nadella and Steve Jobs. While it touches on themes of collaboration and innovation, it does not explicitly address DevOps principles or practices. The discussion is centred around agile methodologies rather than the broader DevOps philosophy, which includes aspects like automation, shared accountability, and continuous improvement. Therefore, the content does not align well with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,23 +1487,17 @@
     "reasoning": "The content discusses agile leadership and decentralisation in the context of Satya Nadella's approach at Microsoft, which aligns with some principles of Beta Codex, but it primarily focuses on comparisons between Nadella and Jobs rather than a comprehensive exploration of BetaCodex principles.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses agile leadership and compares the leadership styles of Satya Nadella and Steve Jobs, without focusing on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T20:28:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile leadership and its implications for product development and innovation, making it a major but secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile leadership and the differences between Satya Nadella and Steve Jobs, touching on agile principles and their application in product development. However, it primarily focuses on leadership styles rather than the Agile Product Operating Model itself. While there are relevant mentions of agile practices and the importance of decentralised decision-making, the content lacks a comprehensive exploration of the APOM framework and its core principles.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile leadership and compares the leadership styles of Satya Nadella and Steve Jobs. While it touches on Agile principles, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle. The focus is more on leadership and organisational culture rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:28:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses agile leadership and the transformation of Microsoft under Satya Nadella, highlighting aspects of continuous improvement such as decentralised decision-making, empirical process control, and a culture of innovation. However, while it touches on these themes, it primarily focuses on leadership styles rather than a comprehensive exploration of continuous improvement principles. The depth of discussion on continuous improvement techniques and frameworks is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:28:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and the differences between Satya Nadella and Steve Jobs, touching on themes of innovation and decision-making authority. However, it lacks a direct focus on Common Goals as defined in the category. While it mentions aspects of team collaboration and the importance of aligning efforts, it does not delve deeply into the foundational principles of Common Goals, such as shared objectives or frameworks like OKRs. The discussion is more centred on leadership styles rather than the alignment of strategy with execution within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:28:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses agile leadership and the importance of fostering a culture of innovation and decision-making capabilities within organisations, particularly through the examples of Satya Nadella and Steve Jobs. While it touches on aspects of competence, such as the need for systemic capabilities and the role of individuals in driving innovation, it does not delve deeply into continuous learning or skill development as core themes. The focus is more on leadership styles and organisational culture rather than on competence as a foundational principle.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:28:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses agile leadership through the lens of Satya Nadella and Steve Jobs, focusing on their leadership styles rather than the principles or components of the One Engineering System. While it touches on agile methodologies, it does not delve into the integration or standardisation of engineering processes, which are core to 1ES. The discussion lacks depth regarding the specific impacts of a unified engineering system on software quality or delivery timelines.",
     "level": "Ignored"
   }
 }

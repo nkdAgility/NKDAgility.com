@@ -637,11 +637,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:14:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product backlog management in Agile, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product backlog management within the Agile framework, discussing its importance and common pitfalls. While it touches on aspects of team alignment and value delivery, it does not explicitly address Continuous Delivery principles, practices, or automation. The discussion is more aligned with Agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -808,12 +811,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:03:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product backlog management in Agile, lacking a focus on empirical evidence or decision-making processes central to Evidence-Based Management.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T18:14:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses product backlog management in an Agile context, highlighting the importance of clarity and stakeholder involvement. However, while it touches on the need for data-driven decisions, it primarily focuses on practical tips for backlog management rather than a comprehensive exploration of Evidence-Based Management principles. The discussion lacks depth in empirical decision-making and does not fully align with the core themes of EBM.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1252,11 +1258,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:01:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:14:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product backlog management within the context of Agile, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product backlog management within an Agile context, specifically Scrum, rather than discussing DevOps principles or practices. While there are some indirect references to collaboration and efficiency, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not explicitly addressed. The discussion lacks depth in relation to DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1429,14 +1438,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:43:02",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-21T18:14:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content focuses extensively on product backlog management, which is a crucial aspect of the Agile Product Operating Model. It discusses the importance of transparency, clarity, and regular refinement in backlog management, aligning well with the principles of product-centric development. The depth of discussion on common pitfalls and strategies for improvement indicates a strong understanding of how effective backlog management contributes to value delivery. However, while it aligns closely with the category, it does not explicitly mention the Agile Product Operating Model itself, which slightly lowers the confidence score.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses product backlog management, which is a crucial aspect of Agile methodologies, particularly in the context of product management. However, while it touches on important themes such as transparency, stakeholder involvement, and team collaboration, it does not explicitly address the broader principles of the Agile Product Operating Model or its integration with product management practices. The focus remains primarily on backlog management rather than a comprehensive exploration of the APOM framework.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1459,15 +1468,6 @@
     "final_score": 60.0,
     "reasoning": "The content discusses product backlog management, which is relevant to Agile practices and touches on themes of transparency and collaboration. However, it primarily focuses on the technical aspects of backlog management rather than the broader social technologies framework. While it mentions the importance of team involvement and stakeholder communication, it lacks a deeper exploration of self-organisation and collective intelligence, which are core to the Social Technologies category.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:01:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses product backlog management in Agile, which is not central to the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1509,6 +1509,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses product backlog management within Agile practices, focusing on transparency, clarity, and team involvement. While it touches on aspects of improving processes, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:14:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses product backlog management, which is related to Continuous Improvement in the context of Agile methodologies. However, it primarily focuses on backlog management rather than broader Continuous Improvement principles. While it mentions the importance of regular refinement and using empirical data, it lacks a comprehensive exploration of Continuous Improvement strategies or case studies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:14:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses product backlog management, which is related to Agile practices but does not explicitly focus on Common Goals. While it touches on the importance of clarity and alignment within teams, it primarily centres on backlog management techniques rather than the overarching strategic objectives that define Common Goals. The discussion lacks depth in connecting these practices to shared organisational objectives, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:14:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of product backlog management, which indirectly relates to competence by emphasising the need for clarity, transparency, and regular refinement in Agile practices. However, it does not explicitly focus on continuous learning or skill development, which are core aspects of competence. The discussion is somewhat detailed but primarily revolves around backlog management rather than a broader exploration of competence in Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:14:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product backlog management within the Agile framework, specifically Scrum, and does not discuss the One Engineering System (1ES) or its principles. While it touches on themes of transparency and team collaboration, these are not directly related to the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T18:54:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:12:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with conferences and training rather than focusing on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses conferences and training related to Agile and DevOps, with no explicit focus on Evidence-Based Management principles or metrics. While there are mentions of value in training, it lacks a structured discussion on empirical decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,14 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:32:28",
+    "calculated_at": "2025-03-21T21:12:01",
     "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
     "final_score": 43.0,
-    "reasoning": "The content briefly mentions DevOps in the context of conferences and talks, but it primarily focuses on Agile methodologies and Scrum practices. While there are references to DevOps events, the discussion lacks depth on DevOps principles, practices, and tools. The alignment with DevOps themes is present but not substantial enough to classify the content as primarily focused on DevOps.",
+    "reasoning": "The content mentions DevOps in the context of conferences and training but lacks a deep exploration of DevOps principles or practices. While it touches on the integration of Agile and DevOps, the primary focus is on personal experiences and training opportunities rather than a thorough discussion of DevOps as a philosophy or its core themes.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -344,22 +347,16 @@
     "reasoning": "Content primarily discusses conferences, training, and personal experiences related to Agile and DevOps, without a clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:55:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences with conferences, workshops, and training related to Agile and Scrum, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T18:55:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:12:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with conferences and training related to Agile and Scrum, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses various conferences and training sessions related to Agile and DevOps, with a focus on personal experiences rather than the Agile Product Operating Model itself. While Agile concepts are mentioned, there is no direct discussion of the APOM framework or its principles. The content lacks depth in exploring the transition from project to product ethos or the integration of Scrum with product management practices, which are key aspects of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -433,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T18:55:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:12:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile and Scrum methodologies, with a focus on conferences and training rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agility and DevOps, with a focus on conferences and training rather than Continuous Delivery principles. While there are mentions of Agile practices, there is no direct discussion of Continuous Delivery concepts, automation, or related strategies. The content lacks depth in addressing the core themes of Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses personal experiences with conferences, workshops, and training related to Agile and Scrum, without any explicit mention of the Shift-Left Strategy or its principles. While there are references to Agile practices, they do not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth on the Shift-Left approach, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:12:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on themes of training and knowledge transfer, which are related to Continuous Improvement, but lacks a focused discussion on the principles and practices of Continuous Improvement itself. While there are mentions of workshops and the value of training, the overall emphasis is more on personal experiences and conference summaries rather than systematic improvement processes or empirical evidence.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:12:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences and reflections related to conferences and training sessions in Agile and DevOps. While it mentions Agile and DevOps, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding the relationship between strategic goals and tactical commitments, and it does not provide techniques for ensuring alignment with overarching objectives. Therefore, the confidence score reflects a low alignment with the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:12:09",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses various training opportunities and the importance of imparting knowledge to clients, which aligns with the concept of competence. However, it lacks a direct focus on continuous learning and skill development as a primary theme, and the depth of discussion on competence is limited.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:12:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Agile and DevOps conferences, training, and personal experiences rather than focusing on the One Engineering System framework. While it touches on related themes, such as training and software practices, it lacks direct mentions of 1ES principles, integration of tools, or best practices specific to 1ES. The discussion is more about personal insights and experiences rather than a structured analysis of the One Engineering System.",
     "level": "Ignored"
   }
 }

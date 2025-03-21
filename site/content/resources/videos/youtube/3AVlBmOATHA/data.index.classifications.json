@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:41:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and how to pitch Agile internally, without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T20:26:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses pitching Agile methodologies within organisations, focusing on the benefits of Agile rather than Continuous Delivery specifically. While it touches on aspects of Agile that relate to continuous improvement and delivery, it lacks a direct focus on Continuous Delivery principles, practices, or tools. The discussion is more about change management and the adoption of Agile rather than the specifics of Continuous Delivery, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -826,14 +829,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T01:41:54",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-03-21T20:27:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of metrics and data in pitching agile to leadership, which aligns with the principles of Evidence-Based Management. However, the primary focus is on how to communicate the benefits of agile rather than a deep exploration of EBM principles or practices. While it mentions metrics and the need for a data-driven approach, it lacks detailed discussions on EBM techniques or case studies, resulting in a moderate confidence score.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses how to pitch agile within an organisation, focusing on metrics and the importance of data in making a business case for agile. It mentions specific metrics like NPS and OKRs, which align with the Evidence-Based Management principles. However, the primary focus is on agile methodologies rather than a deep exploration of EBM concepts, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1282,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:39:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:26:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and how to pitch them internally, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on pitching agile methodologies within organisations, discussing how to manage change and gain buy-in for agile practices. While it touches on concepts like continuous improvement and collaboration, it does not explicitly address DevOps principles or practices. The discussion is more aligned with agile project management rather than the broader DevOps philosophy, which integrates development and operations for continuous value delivery.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,22 +1484,16 @@
     "reasoning": "The content discusses Agile principles and the importance of engaging individuals in the change process, which aligns with human-centric approaches and adaptive organisational cultures. However, it primarily focuses on pitching Agile internally rather than deeply exploring BetaCodex principles.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:36:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and strategies for internal communication rather than the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:36:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of pitching Agile internally and engaging stakeholders, which aligns with the Agile Product Operating Model. However, it primarily focuses on communication strategies rather than the core principles and practices of the model.",
+    "calculated_at": "2025-03-21T20:26:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of pitching agile internally and highlights the transition from traditional project management to agile product development. However, it primarily focuses on the communication strategies and metrics for gaining buy-in rather than delving deeply into the principles and practices of the Agile Product Operating Model itself. While it touches on relevant themes, the depth of discussion on APOM is limited.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1545,6 +1545,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses how to pitch Agile internally, focusing on managing up and down within an organisation. While it touches on Agile principles and metrics, it does not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance in the development process. The discussion is more about Agile adoption rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:26:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses how to pitch agile within an organisation, highlighting the importance of metrics and the need for continuous delivery of value, which aligns with Continuous Improvement principles. However, the primary focus is on communication strategies rather than a deep exploration of Continuous Improvement itself. While it mentions aspects like metrics and the benefits of agile, it does not provide extensive detail on Continuous Improvement methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:26:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses how to pitch Agile within an organisation, focusing on the importance of aligning Agile practices with the specific goals and metrics that matter to different stakeholders. While it touches on the significance of shared objectives and the need for alignment, it primarily centres on the process of advocating for Agile rather than deeply exploring the concept of Common Goals itself. The mention of OKRs and metrics indicates some alignment with the category, but the overall depth of discussion on Common Goals is limited.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:26:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses how to pitch agile within an organisation, focusing on the importance of understanding metrics and the language of different stakeholders. While it touches on aspects of competence, such as the need for continuous improvement and the importance of involving team members in decision-making, it primarily centres on the process of advocating for agile rather than a deep exploration of competence itself. The discussion lacks explicit references to skill development or the continuous learning aspect of competence, which diminishes its alignment with the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:26:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses pitching agile methodologies within organisations, focusing on the benefits and metrics of agile rather than the One Engineering System framework. While it touches on aspects of integration and collaboration, it does not explicitly mention 1ES or its principles, components, or implementation best practices, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

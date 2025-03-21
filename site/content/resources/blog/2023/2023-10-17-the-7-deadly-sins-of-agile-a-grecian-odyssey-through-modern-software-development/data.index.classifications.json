@@ -649,11 +649,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T16:15:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:39:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the seven deadly sins in the context of Agile methodologies, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the pitfalls associated with them, using the metaphor of the seven deadly sins. While it touches on themes relevant to software development, it does not explicitly address Continuous Delivery principles, practices, or tools. The focus is more on Agile culture and challenges rather than the specific practices of Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1270,11 +1273,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T16:12:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:39:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their pitfalls, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the pitfalls associated with them, using the metaphor of the seven deadly sins. While Agile and DevOps share some principles, the discussion does not explicitly address DevOps as a philosophy or its core themes such as automation, shared accountability, or continuous value delivery. The content lacks direct mentions of DevOps practices and does not delve into the cultural shifts necessary for effective DevOps implementation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1441,11 +1447,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T21:47:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:39:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the seven deadly sins in the context of Agile software development, without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the '7 Deadly Sins of Agile' through a philosophical lens, focusing on human behaviours and challenges in agile practices rather than on evidence-based management principles. While it touches on some agile concepts, it lacks direct references to empirical evidence, metrics, or data-informed decision-making that are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1457,25 +1466,16 @@
     "reasoning": "Content heavily discusses Agile principles and challenges, with no direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the seven deadly sins of Agile methodology, drawing parallels with ancient Greek philosophy, without focusing on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:38:43",
+    "calculated_at": "2025-03-21T18:39:18",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content discusses the challenges faced by agile teams through the metaphor of the seven deadly sins, but it does not explicitly focus on the Agile Product Operating Model or its principles. While it touches on some agile concepts, it lacks a direct exploration of product-centric development, value delivery, or the integration of Agile methodologies within the product lifecycle, which are key aspects of the category.",
+    "reasoning": "The content discusses agile principles and challenges but does not focus on the Agile Product Operating Model specifically. It touches on agile pitfalls and human behaviours in software development, which are relevant to agile practices but lacks a direct connection to the core themes of the Agile Product Operating Model, such as product management integration and continuous delivery.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1551,6 +1551,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the 'seven deadly sins' in the context of Agile methodologies, focusing on human behaviours and pitfalls rather than the Shift-Left Strategy. While it touches on Agile principles, it does not explicitly mention or align with the proactive integration of testing, security, or compliance earlier in the software development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:39:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced in Agile development, drawing parallels with the seven deadly sins from Greek philosophy. While it touches on themes of introspection and the need for adaptation, it does not explicitly focus on Continuous Improvement as a primary topic. The discussion is more about identifying pitfalls rather than providing strategies or frameworks for continuous improvement, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:39:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the challenges faced in Agile but does not explicitly mention Common Goals or their significance in aligning strategy with execution. While it touches on themes of collaboration and accountability, it primarily focuses on the pitfalls of Agile practices rather than the foundational principles of Common Goals. The depth of discussion is limited, as it does not provide detailed insights into how to operationalise Common Goals or their impact on organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:39:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges faced in Agile through the lens of the seven deadly sins, touching on themes of adaptability and the importance of genuine commitment to Agile principles. However, it lacks a direct focus on competence as a primary theme, with only brief mentions of skill development and team accountability. The depth of discussion on competence is minimal, primarily serving as a backdrop to the broader narrative about Agile pitfalls.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:39:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the '7 Deadly Sins of Agile' and draws parallels with ancient Greek philosophy, which does not directly address the principles or components of the One Engineering System. While it discusses challenges in agile practices, it does not mention 1ES, its integration, or standardisation of engineering processes, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

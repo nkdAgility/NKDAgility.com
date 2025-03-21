@@ -664,14 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-13T15:02:04",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
+    "calculated_at": "2025-03-21T17:24:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content explicitly discusses Continuous Delivery as a critical aspect of Agile practices, highlighting its importance in enabling rapid and reliable deployments. It aligns well with the core themes of Continuous Delivery, such as the need for automation, maintaining a production-ready state, and the elimination of bureaucratic barriers. The depth of discussion is significant, providing practical advice and a self-assessment framework for organisations to evaluate their agility and Continuous Delivery capabilities.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses Continuous Delivery as a critical aspect of achieving true Agile practices, highlighting its importance in enabling rapid and reliable deployment without manual intervention. It aligns well with the core themes of Continuous Delivery, such as the role of automation, the need for quality, and the elimination of bureaucratic barriers. The depth of discussion is substantial, providing practical advice and a litmus test for assessing an organisation's agility, which reinforces the principles of Continuous Delivery.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -841,11 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T05:07:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:24:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile practices and challenges, with a focus on quality and bureaucratic processes, rather than empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and the importance of a fully Agile ecosystem, but it primarily focuses on the challenges and pitfalls of Agile implementation rather than on evidence-based management principles. While it touches on continuous delivery and quality, it lacks a strong emphasis on empirical decision-making or metrics that align with Evidence-Based Management. The discussion is more about Agile methodologies than about using data to inform management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1487,15 +1490,6 @@
     "reasoning": "Content primarily discusses agile practices and challenges within traditional bureaucratic structures, rather than focusing on the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:30:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile practices and challenges, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:17:14",
@@ -1572,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile practices and the importance of quality and continuous delivery, which are related to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or focus on integrating testing, security, and compliance earlier in the development process. The discussion is more about Agile methodologies and overcoming bureaucratic hurdles rather than a direct exploration of Shift-Left principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:24:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of continuous delivery and quality in Agile practices, aligning closely with the principles of Continuous Improvement. It highlights the need for ongoing evaluation and adaptation of processes, which is a core theme of the category. The detailed exploration of the six-question litmus test and practical steps for fostering a culture of continuous improvement further supports its relevance. Overall, the content is focused on enhancing processes and team effectiveness, making it a strong fit for the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:24:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of a fully Agile ecosystem and the need for alignment between Agile practices and broader organisational processes. However, it primarily focuses on identifying and eliminating obstacles to agility rather than explicitly addressing shared objectives or strategic alignment, which are central to the concept of Common Goals. The discussion lacks depth in exploring how these goals connect to team ownership and accountability.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:24:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of a fully Agile ecosystem and continuous delivery, which aligns with the core themes of competence in Agile methodologies. It highlights the necessity for quality and continuous improvement, which are essential for demonstrating capability. However, while competence is a significant theme, the focus is more on Agile practices and processes rather than a deep exploration of competence itself, leading to a slightly lower depth score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:24:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Agile practices and the challenges of achieving true agility within an organisation, particularly in relation to the Department of Defense's insights. While it touches on themes of integration and quality, it does not explicitly mention the One Engineering System framework or its principles. The focus is more on Agile methodologies rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

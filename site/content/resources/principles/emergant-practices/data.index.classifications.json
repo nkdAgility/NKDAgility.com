@@ -598,11 +598,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T21:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:06:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address Continuous Delivery principles, practices, or methodologies; it is too vague and general.",
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on the emergence of processes and practices but lacks explicit discussion on Continuous Delivery principles, automation, or specific strategies related to software delivery. It does not provide sufficient detail or focus on the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -760,11 +763,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T21:02:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:06:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Evidence-Based Management principles or practices; it focuses on emergent practices without empirical evidence.",
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on the emergence of practices and tools but lacks any explicit mention of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence, and provides minimal detail on the topic.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1361,15 +1367,6 @@
     "reasoning": "Content does not specifically address BetaCodex principles or practices; it is too vague and does not focus on decentralisation or human-centric organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:27:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general processes and practices without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:13:22",
@@ -1431,6 +1428,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It vaguely refers to processes and practices emerging during work, which lacks a clear connection to integrating testing, security, or compliance early in the software development lifecycle. The discussion is too general and does not provide any depth or specific techniques related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:06:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the emergence of processes and practices, which could relate to Continuous Improvement. However, it lacks explicit discussion of Continuous Improvement principles, empirical evidence, or detailed strategies. The mention of 'emerging practices' is too vague and does not provide sufficient depth or alignment with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:06:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on the emergence of processes and practices but lacks explicit discussion on Common Goals or their significance in Agile and DevOps. It does not provide any depth or detail related to aligning strategy with execution, nor does it connect individual contributions to organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:06:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the emergence of processes and practices but lacks explicit discussion on competence, continuous learning, or skill development. It does not provide sufficient detail or depth regarding the core themes of competence, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:06:13",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on processes and practices but lacks explicit mention of the One Engineering System framework or its principles. It does not provide sufficient detail or alignment with the core themes of 1ES, such as integration, standardisation, or best practices.",
     "level": "Ignored"
   }
 }

@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:51:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:10:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Lean methodologies, which are not central to DevOps principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Lean methodologies, which are not aligned with the core principles of DevOps. While there are mentions of collaboration and efficiency, these concepts are framed within the context of Agile and Lean rather than DevOps. The discussion lacks depth regarding DevOps practices, principles, or cultural shifts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -94,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:51:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:10:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with Scrum and Lean, without a focus on Evidence-Based Management principles or empirical data.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Lean methodologies without a direct focus on Evidence-Based Management principles. While it mentions the importance of data and insights in relation to Lean, it does not explicitly address the core themes of EBM such as current value, time to market, or empirical decision-making. The discussion lacks depth in terms of EBM metrics and outcomes, making it more of a general reflection on Agile practices rather than a focused examination of evidence-based management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -342,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Lean methodologies without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:52:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Lean methodologies, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -673,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:53:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:10:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Lean methodologies, which are not directly related to Continuous Delivery principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum and Lean methodologies, focusing on personal insights and experiences rather than Continuous Delivery principles. While it touches on themes of efficiency and collaboration, it does not explicitly address Continuous Delivery practices, automation, or the rapid feedback loop essential to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -769,11 +769,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:53:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Lean methodologies without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T19:10:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences with Scrum and Lean methodologies, which are not directly aligned with the Agile Product Operating Model. While it mentions Agile and discusses Scrum, it lacks a clear focus on product management principles or the broader themes of the Agile Product Operating Model. The discussion is more about personal insights rather than a structured exploration of APOM concepts.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the relationship between Scrum and Lean methodologies, focusing on personal experiences and insights rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. The discussion lacks depth in addressing the principles, techniques, or metrics related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:10:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean, highlighting the importance of Lean principles in enhancing the Scrum journey. While it touches on concepts related to Continuous Improvement, such as the need for data-driven insights and the benefits of collaboration, it does not delve deeply into the core themes of Continuous Improvement as defined. The focus is more on personal reflection and advice rather than a structured discussion on Continuous Improvement practices or methodologies.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:10:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding the integration of Lean principles with Scrum, rather than discussing Common Goals directly. While it touches on collaboration and efficiency, it lacks explicit references to shared objectives or strategic alignment within Agile and DevOps frameworks. The discussion is more anecdotal and motivational, which does not align closely with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:10:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of integrating Lean principles with Scrum, which aligns with the concept of competence in terms of continuous learning and skill development. However, while it touches on the benefits of this integration, it lacks a deeper exploration of competence as a foundational principle, focusing more on personal reflection rather than systematic strategies for fostering competence within teams.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:10:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Lean methodologies, discussing personal experiences and insights rather than the One Engineering System framework. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is limited to personal reflections on Scrum and Lean, which are not relevant to the 1ES category.",
     "level": "Ignored"
   }
 }

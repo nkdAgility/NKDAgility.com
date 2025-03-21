@@ -31,6 +31,7 @@ tags:
 - Technical Leadership
 - Technical Mastery
 - Sociotechnical Systems
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

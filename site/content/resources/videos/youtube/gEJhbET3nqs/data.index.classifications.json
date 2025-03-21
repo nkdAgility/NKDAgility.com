@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:00:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and team dynamics, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile methodologies and leadership within agile frameworks, specifically Scrum. While it touches on collaboration and cultural change, which are relevant to DevOps, it does not explicitly discuss DevOps principles or practices. The emphasis is on agile leadership rather than the integration of development and operations, which is central to DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -259,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:33:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:52:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Agile leadership and management principles, rather than Continuous Delivery practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile leadership and the Professional Agile Leadership Essentials workshop, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of agility and collaboration, it lacks specific discussions on Continuous Delivery techniques, automation, or rapid feedback mechanisms. The depth of discussion is limited to leadership skills rather than the delivery practices themselves.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -408,15 +414,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile leadership and the role of managers, not specifically about Value Stream Management or its principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:33:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership principles and the role of leaders in improving agility, without reference to the One Engineering System framework or its specific components.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1231,15 +1228,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:00:59",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T20:52:33",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses agile leadership and the importance of alignment within agile teams, which are relevant to the Agile Product Operating Model. However, it primarily focuses on leadership skills and workshops rather than the product-centric approach or detailed strategies for value delivery in product teams. The discussion lacks depth on the core themes of the Agile Product Operating Model, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile leadership and the importance of alignment within organisations, which are relevant to the Agile Product Operating Model. However, it primarily focuses on leadership skills and the Professional Agile Leadership Essentials workshop rather than the core principles of the APOM. While there are mentions of agile practices and the need for collaboration, the content lacks a detailed exploration of product management principles and the transition from project to product ethos, which are central to the APOM framework.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1450,15 +1447,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-15T02:59:52",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-21T20:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses agile leadership and the importance of alignment and collaboration within agile teams, which are relevant to Evidence-Based Management. However, it primarily focuses on the workshop and practical skills rather than explicitly addressing EBM principles, empirical evidence, or data-driven decision-making. The mention of measuring success is a positive aspect, but the overall depth and direct discussion of EBM concepts are limited.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on agile leadership and the Professional Agile Leadership Essentials workshop, with limited direct mention of Evidence-Based Management principles. While it discusses the importance of measuring success and improving responsiveness, it lacks a strong emphasis on empirical evidence and data-informed decision-making, which are central to EBM. The discussion is more about agile practices and leadership rather than a detailed exploration of evidence-based metrics or outcomes.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1533,6 +1530,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on agile leadership and the Professional Agile Leadership Essentials workshop, with no direct mention of the Shift-Left Strategy. While it discusses collaboration and alignment within agile teams, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth regarding the principles and benefits of the Shift-Left approach, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:52:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile leadership and the importance of alignment and collaboration within agile teams, which are relevant to Continuous Improvement. However, it primarily focuses on leadership skills and the workshop's practical applications rather than explicitly addressing Continuous Improvement principles or strategies. The discussion lacks depth in terms of empirical evidence and specific Continuous Improvement techniques, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of alignment within agile organisations and how the workshop fosters collaboration towards common goals. However, it primarily focuses on leadership skills and practical applications rather than deeply exploring the concept of Common Goals itself. The mention of alignment is significant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:52:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of enhancing leadership skills in an agile environment, which aligns with the principles of competence. It highlights the need for continuous learning and skill development through the Professional Agile Leadership Essentials workshop. The emphasis on practical skills, guiding and coaching agile teams, and measuring success reflects a strong alignment with the core themes of competence. However, while competence is a significant focus, the content also touches on broader themes of agile transformation and collaboration, which slightly dilutes the primary focus on competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile leadership and the Scrum framework, with no direct mention of the One Engineering System (1ES). While it discusses the importance of alignment and collaboration within agile teams, it does not delve into the principles, components, or implementation of 1ES. The discussion is centred around personal development in agile methodologies rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   }
 }

@@ -667,11 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:18:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:27:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the relationship between product management and product development in agile environments, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Product Management and Product Development within Agile environments, focusing on their collaboration and strategic direction. While it touches on concepts like continuous improvement and feedback loops, which are relevant to Continuous Delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in terms of automation, deployment strategies, or specific Continuous Delivery tools, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,15 +844,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T15:25:05",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T17:27:54",
+    "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content briefly mentions Evidence-Based Management (EBM) as an analogy to illustrate the interplay between Product Management and Product Development. However, it does not delve into the principles or practices of EBM, nor does it provide empirical evidence or metrics related to decision-making. The discussion primarily focuses on the roles and integration of Product Management and Development without a strong emphasis on data-driven approaches or continuous improvement strategies that are central to EBM.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development in an agile context, with a specific mention of Evidence-Based Management (EBM) as a useful analogy. While it touches on key EBM concepts like Current Value and Unrealised Value, the primary focus remains on the interplay between the two roles rather than a thorough exploration of EBM itself. The discussion includes relevant metrics and the importance of data-driven decision-making, but it lacks a deep dive into empirical evidence or structured EBM practices.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1297,11 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:16:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:27:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between product management and product development in Agile environments, without a clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the relationship between Product Management and Product Development within Agile environments, which does not directly address DevOps principles. While it mentions concepts like feedback loops and continuous improvement, these are framed within the context of product management rather than the broader DevOps philosophy. The discussion lacks depth in DevOps-specific practices, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1481,22 +1487,16 @@
     "reasoning": "Content primarily discusses the relationship between product management and product development in agile environments, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:33:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the relationship between product management and product development in agile environments, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:33:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T17:27:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the integration of product management and product development within an Agile framework, focusing on value delivery, market value, and the roles of both functions in achieving product success.",
+    "final_score": 72.0,
+    "reasoning": "The content extensively discusses the integration of Product Management and Product Development within an agile framework, highlighting key concepts such as Evidence-Based Management and the continuous cycle of improvement. It aligns well with the core themes of the Agile Product Operating Model, focusing on collaboration, value creation, and strategic direction. However, while it covers relevant topics, it does not delve deeply into all aspects of the APOM, such as operational stability or governance, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1563,6 +1563,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of Product Management and Product Development in an agile environment, focusing on their integration and collaboration. While it touches on concepts like feedback loops and continuous improvement, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:27:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of continuous improvement in the context of Agile Product Management and Development, highlighting the need for rapid feedback loops and the cycle of experimentation and adjustment. However, while it touches on these themes, the primary focus is on the roles and interplay between Product Management and Product Development rather than a dedicated exploration of Continuous Improvement principles. Thus, while relevant, it does not fully align with the category's core themes.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:27:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the roles of Product Management and Product Development, highlighting their collaboration and strategic alignment. However, while it touches on the importance of shared objectives and strategic direction, it lacks a focused discussion on Common Goals as defined in the category. The content primarily revolves around the operational aspects of product development rather than explicitly addressing the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:27:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of collaboration and continuous improvement between Product Management and Product Development, which relates to competence. However, it primarily focuses on the roles and interactions of these functions rather than a deep exploration of competence as a foundational principle in Agile methodologies. The discussion lacks detailed strategies for fostering competence or the impact of competence on decision-making and commitment fulfilment.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:27:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the relationship between Product Management and Product Development in Agile environments, without explicitly discussing the One Engineering System framework or its principles. While it touches on integration and collaboration, it does not delve into the standardisation of software development practices or the specific components of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

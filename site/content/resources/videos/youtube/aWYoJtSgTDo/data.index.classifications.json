@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:31:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:07:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies through the metaphor of mushroom foraging, with no direct mention of DevOps principles or practices. While it touches on themes of collaboration and continuous improvement, these are framed within an Agile context rather than a DevOps one. The focus remains on Agile practices, which are distinct from the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -85,11 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:31:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:07:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and metaphors related to mushroom foraging, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile practices and personal insights from mushroom foraging, with no direct mention of Evidence-Based Management or its key topics. While it touches on themes like patience and environment selection, these are not grounded in empirical evidence or metrics related to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -321,15 +327,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:32:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses personal experiences with mushroom foraging and draws loose parallels to Agile and Scrum, without focusing on the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -628,11 +625,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:33:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum concepts, with no mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:07:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles through the metaphor of mushroom foraging, with no direct mention of Continuous Delivery. While it touches on themes of iterative processes and patience, it lacks a focus on the specific practices and principles of Continuous Delivery, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -721,11 +721,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:33:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:07:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses personal experiences with mushroom foraging and does not focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content draws parallels between mushroom foraging and Agile principles, but it primarily focuses on general Agile practices rather than the specific framework of the Agile Product Operating Model. While it mentions concepts like environment selection and iterative processes, it lacks a direct discussion on product management principles, governance, or the transition from project to product ethos, which are central to the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1434,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile practices and personal insights from mushroom foraging, with no direct mention or discussion of the Shift-Left Strategy. While it touches on themes of patience and iterative processes, these concepts are not specifically tied to integrating testing, security, or compliance earlier in the software development lifecycle, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:07:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content draws parallels between mushroom foraging and Agile practices, touching on themes like patience and stepping out of comfort zones. However, it lacks direct discussions on Continuous Improvement principles, empirical evidence, or specific strategies for integrating Continuous Improvement into processes. While it hints at the importance of iterative learning and adapting, it does not provide substantial depth or focus on Continuous Improvement as a primary topic.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:07:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content uses mushroom foraging as a metaphor to discuss Agile principles, but it does not explicitly address Common Goals or their significance in Agile and DevOps. While it touches on themes like environment selection and patience, these concepts are more about personal growth and Agile practices rather than aligning team objectives or strategic goals. The discussion lacks depth in connecting these ideas to the core principles of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:07:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content draws parallels between mushroom foraging and Agile practices, touching on themes of patience, environment selection, and stepping out of comfort zones. However, it lacks direct discussions on competence as a foundational principle, focusing more on team dynamics and personal growth rather than on continuous skill development or professionalism. The insights provided are somewhat relevant but do not delve deeply into the core themes of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:07:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles through the metaphor of mushroom foraging, which does not directly relate to the One Engineering System framework. While it touches on themes of environment and team dynamics, it lacks explicit references to 1ES, its components, or its implementation. The focus is on personal insights rather than a structured discussion of standardisation and integration in software development.",
     "level": "Ignored"
   }
 }

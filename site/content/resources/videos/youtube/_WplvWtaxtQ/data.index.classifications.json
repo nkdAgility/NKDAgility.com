@@ -622,11 +622,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T12:49:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and training of Scrum Masters, which is unrelated to Continuous Delivery principles and practices.",
+    "calculated_at": "2025-03-21T18:21:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the importance of immersive training for enhancing their skills. While it briefly touches on the concept of continuous improvement, which is a component of Continuous Delivery, it does not explicitly discuss Continuous Delivery principles, practices, or tools. The main emphasis is on Scrum methodology rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -793,11 +796,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T12:49:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:21:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and training of Scrum Masters without reference to evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the importance of immersive training, with little to no direct mention of Evidence-Based Management principles or metrics. While it touches on concepts like maximizing team value and continuous improvement, these are not framed within an evidence-based context, nor do they provide empirical data or metrics to support decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1222,11 +1228,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:46:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:20:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and the role of Scrum Masters, which are not directly related to DevOps principles. While it touches on themes of continuous improvement and value delivery, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks explicit references to DevOps practices, automation, or cross-functional collaboration, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1415,22 +1424,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:35:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and training of Scrum Masters, which is unrelated to the principles of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T15:35:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and training experiences, without a clear focus on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T18:21:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the importance of immersive training for their development. While it touches on Agile principles and continuous improvement, it does not explicitly discuss the Agile Product Operating Model or its core themes. The discussion is more aligned with Scrum practices rather than the broader product-oriented mindset and governance aspects of APOM.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1473,6 +1476,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role and training of Scrum Masters, discussing their effectiveness and the importance of immersive training. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around Scrum practices rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:20:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous improvement for Scrum Masters, highlighting how immersive training can enhance their skills and effectiveness. It mentions continuous learning and improvement as essential for adapting to the evolving Agile landscape. However, while it touches on these themes, the primary focus is on the training experience rather than a comprehensive exploration of continuous improvement principles.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:21:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the importance of immersive training for Scrum Masters, discussing their roles and challenges rather than explicitly addressing Common Goals. While it touches on team effectiveness and value maximisation, it lacks a direct connection to shared objectives or strategic alignment within Agile frameworks, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:21:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 4,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of competence in the role of a Scrum Master, emphasising continuous learning, skill development, and the impact of experience on team effectiveness. It highlights the necessity of immersive training for enhancing leadership skills and fostering a culture of continuous improvement, aligning closely with the core themes of the 'Competence' category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:21:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and training of Scrum Masters, discussing Scrum practices rather than the One Engineering System framework. While it touches on concepts of continuous improvement and team effectiveness, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on integration or standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

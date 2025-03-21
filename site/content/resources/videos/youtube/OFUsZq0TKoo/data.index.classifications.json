@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:11:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:18:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development, user value, and collaboration rather than Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development and structured learning but does not explicitly mention Continuous Delivery or its principles. While there are elements related to user value and collaboration that could tangentially relate to Continuous Delivery, the primary focus is on general product development practices rather than the specific practices and benefits of Continuous Delivery. The depth of discussion is moderate, but it lacks a direct connection to Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T15:23:31",
+    "calculated_at": "2025-03-21T17:18:26",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
     "final_score": 67.0,
-    "reasoning": "The content discusses the importance of structured learning and experimentation in product development, which aligns with the principles of Evidence-Based Management. It highlights the use of empirical evidence to inform decisions, particularly in increasing user value and reducing waste. However, while it touches on EBM concepts, it does not delve deeply into specific EBM practices or metrics, which slightly limits its depth of discussion.",
+    "reasoning": "The content discusses the importance of structured learning and evidence-based approaches in product development, particularly in relation to increasing user value and reducing waste. It mentions evidence-based budgeting and data-driven discussions, which align with the core themes of Evidence-Based Management. However, while it touches on relevant concepts, it does not delve deeply into metrics or empirical decision-making, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1487,15 +1490,6 @@
     "reasoning": "Content primarily focuses on product development, user value, and collaboration techniques rather than the principles and practices of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:16:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development, user value, and collaboration techniques, without direct reference to the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:14:40",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses product development and structured learning but does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements of improving processes and collaboration, the focus is primarily on user value and experimentation rather than integrating testing, security, or compliance early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:18:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses aspects of Continuous Improvement, particularly through structured learning, experimentation, and evidence-based decision-making. It mentions the importance of reducing waste and enhancing collaboration, which aligns with Continuous Improvement principles. However, while these topics are relevant, they are not the primary focus of the content, which is more about product development strategies rather than a dedicated exploration of Continuous Improvement practices. The depth of discussion on Continuous Improvement concepts is moderate, but not exhaustive, leading to a high confidence score without reaching the maximum.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:18:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses enhancing collaboration and reducing waste, which are relevant to the principles of Agile and DevOps. However, it lacks explicit references to Common Goals or strategic alignment, focusing more on personal insights and general product development techniques. The discussion is somewhat aligned with the category but does not delve deeply into the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:18:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses structured learning and continuous improvement, which are key aspects of competence. It mentions the importance of evidence-based decision-making and experimentation, aligning with the need for skill development. However, while it touches on these themes, the primary focus is more on product development strategies rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:18:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product development and structured learning, discussing user value, waste reduction, and collaboration. While these topics are relevant to software development, they do not specifically address the principles or components of the One Engineering System (1ES). There are no direct mentions of 1ES, and the discussion lacks depth regarding integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

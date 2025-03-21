@@ -616,11 +616,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T20:22:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:58:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS on-prem to Azure DevOps, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, discussing compatibility and customisations rather than Continuous Delivery principles. While it touches on aspects of software delivery, such as planning and ensuring code safety, it lacks a direct discussion on Continuous Delivery practices, automation, or rapid feedback mechanisms. The content does not delve into the core themes of Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -781,11 +784,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:22:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:58:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, focusing on technical aspects rather than evidence-based management principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a data-informed decision-making framework. The discussion lacks depth in relation to EBM principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1385,15 +1391,6 @@
     "reasoning": "Content primarily discusses migration from TFS to Azure DevOps, focusing on compatibility issues and technical considerations, with no mention of BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:03:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration from TFS to Azure DevOps and compatibility issues, which does not align with the core principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:41:21",
@@ -1467,6 +1464,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, focusing on compatibility and customisations rather than integrating testing, security, or compliance early in the development process. While it touches on the importance of planning and safety, it does not explicitly address the Shift-Left Strategy or its core principles, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:58:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility and customisations rather than Continuous Improvement principles. While it touches on planning and adapting to changes, it lacks a strong emphasis on empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:58:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. While it touches on the importance of planning and adapting to changes, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is a core theme of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:58:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, focusing on compatibility and planning, but it does not explicitly address the concept of competence or continuous skill development. While it touches on the importance of careful planning and understanding of existing systems, it lacks a direct emphasis on professional growth, quality outcomes, or fostering a culture of competence, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:58:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, discussing compatibility issues and customisations rather than the One Engineering System framework. While it touches on aspects of integration and planning, it does not explicitly mention 1ES or its principles, nor does it provide in-depth discussion on standardising engineering practices across teams.",
     "level": "Ignored"
   }
 }

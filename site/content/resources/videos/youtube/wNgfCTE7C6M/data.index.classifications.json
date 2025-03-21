@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:18:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles.",
+    "calculated_at": "2025-03-21T20:07:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and Scrum practices, with only a brief mention of DevOps at the end. While it touches on collaboration and continuous delivery, which are relevant to DevOps, the main emphasis is on Scrum and user experience rather than the core principles of DevOps. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -253,12 +256,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the PSU course and Scrum practices, with no relevant mention of Continuous Delivery principles or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T20:07:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development and mentions integrating strategies into a continuous delivery model. However, the primary focus is on product development practices rather than Continuous Delivery itself. While there are relevant elements, such as the importance of feedback loops and running experiments, the overall discussion does not delve deeply into Continuous Delivery principles or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -399,15 +405,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles, Agile methodologies, and a specific training course, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the PSU course and Scrum methodology, with no focus on the One Engineering System framework or its integration and standardization principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1222,14 +1219,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:49:05",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T20:07:49",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with Agile principles, particularly in terms of continuous feedback and iteration. However, it primarily focuses on specific methodologies (like the PSU course) rather than the broader Agile Product Operating Model. While it touches on collaboration and user needs, it lacks a comprehensive exploration of the Agile Product Operating Model's key topics, such as cross-functional teams and metrics for product success.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with agile principles and continuous delivery. However, it primarily focuses on Scrum and user experience rather than the broader Agile Product Operating Model. While it touches on collaboration and iterative processes, it lacks a comprehensive exploration of APOM's core themes, such as operational stability and governance.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1444,12 +1441,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:07:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the PSU course and its benefits for product development, with a focus on Scrum and Agile methodologies rather than on Evidence-Based Management principles.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with the principles of Evidence-Based Management by emphasising data-informed decision-making and experimentation. However, it primarily focuses on the practical application of these concepts in a Scrum context rather than explicitly addressing the broader themes of EBM. While it mentions the importance of measuring success and running experiments, it does not delve deeply into the specific metrics or outcomes associated with EBM, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1521,6 +1521,54 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which touches on aspects of early testing and user feedback, but does not explicitly mention the Shift-Left Strategy or its core principles. While there is some alignment with the idea of integrating user needs and continuous feedback, the focus is primarily on product development methodologies rather than the specific integration of testing, security, and compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:07:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses a hypothesis-driven approach and the importance of running experiments, which aligns with the principles of Continuous Improvement. However, while it touches on aspects of iterative processes and feedback loops, it does not deeply explore the broader implications of Continuous Improvement or provide extensive detail on its integration into organisational processes. The focus is more on product development and user experience rather than a comprehensive discussion on Continuous Improvement itself.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:07:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which indirectly relates to aligning team efforts with user needs and strategic goals. However, it primarily focuses on personal experiences and methodologies rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The mention of collaboration and integration of strategy hints at alignment but lacks depth in discussing how these contribute to shared objectives across teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:07:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of informed decision-making and continuous learning through the PSU course, which aligns with the principles of competence. It mentions the need for collaboration and understanding across disciplines, which supports the idea of developing skills and capabilities. However, while competence is a significant theme, the focus is more on product development strategies rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:07:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and the Professional Scrum with User Experience course, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and integration, they are not explicitly tied to the principles of 1ES, and the discussion lacks depth regarding the standardisation and integration of engineering processes across teams.",
     "level": "Ignored"
   }
 }

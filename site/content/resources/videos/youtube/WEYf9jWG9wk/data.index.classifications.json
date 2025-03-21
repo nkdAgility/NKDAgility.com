@@ -754,15 +754,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T17:15:22",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T16:57:21",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the transformation in feature delivery through small experiments, which aligns with the principles of Evidence-Based Management by emphasising iterative processes and data-driven decision-making. However, it lacks explicit references to EBM principles or metrics, and while it touches on customer feedback and learning, it does not delve deeply into empirical evidence or case studies that are central to EBM.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transformation of feature delivery through smaller experiments, which aligns with the principles of Evidence-Based Management, particularly in terms of empirical decision-making and customer-centric development. However, it lacks explicit references to specific EBM metrics or a structured approach to measuring current value or unrealised value, which limits its depth in the context of EBM.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -883,12 +883,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T19:56:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of conducting small experiments in feature delivery rather than focusing on Continuous Delivery principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T16:57:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the transformation of feature delivery through smaller, incremental improvements, which aligns well with Continuous Delivery principles. It emphasises the importance of rapid feedback, reduced risk, and continuous learning, all of which are key aspects of Continuous Delivery. However, while it touches on these themes, it does not explicitly mention Continuous Delivery as a practice, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1496,15 +1499,6 @@
     "reasoning": "The content discusses the benefits of conducting small experiments to enhance feature delivery, which aligns with adaptive and human-centric approaches. However, it primarily focuses on the process of feature delivery rather than the broader principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:02:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of conducting small experiments in feature delivery, without a clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:40:47",
@@ -1578,6 +1572,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the benefits of smaller feature delivery and iterative processes, which align with the Shift-Left Strategy's emphasis on early feedback and quality. However, it does not explicitly mention testing, security, or compliance integration, nor does it focus on the Shift-Left concept as a primary theme, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:57:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the transformation of feature delivery through a culture of experimentation, which aligns closely with the principles of Continuous Improvement. It highlights the importance of iterative processes, customer feedback, and learning from smaller experiments, all of which are core themes of Continuous Improvement. The depth of discussion is substantial, providing insights into how these practices lead to enhanced product quality and team effectiveness. Overall, the content strongly embodies the philosophy of Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:57:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transformation in feature delivery through smaller experiments, which indirectly relates to the concept of aligning team efforts with customer needs. However, it lacks explicit mentions of Common Goals, Agile, or DevOps principles. The focus is more on the process of experimentation rather than on shared objectives or strategic alignment, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:57:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of continuous learning and experimentation in software development, which aligns with the core themes of competence. It highlights how smaller features and iterative processes enhance quality and customer satisfaction, reflecting a commitment to professional growth and effective delivery. However, while competence is a significant theme, the primary focus is more on the methodology of feature delivery rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:57:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of smaller features and a culture of experimentation in software development, but it does not explicitly mention the One Engineering System (1ES) or its principles. While there are elements of process improvement and efficiency, the focus is primarily on feature delivery rather than the integration and standardisation of engineering practices across teams, which is central to 1ES.",
     "level": "Ignored"
   }
 }

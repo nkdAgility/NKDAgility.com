@@ -35,12 +35,12 @@ tags:
 - Operational Practices
 - Portfolio Management
 - Agile Frameworks
-- Agile Product Operating Model
 - Agile Project Management
 - Value Delivery
 - Large Scale Agility
 - Product Delivery
 - Flow Efficiency
+- Agile Strategy
 resourceTypes:
 - video
 categories: []

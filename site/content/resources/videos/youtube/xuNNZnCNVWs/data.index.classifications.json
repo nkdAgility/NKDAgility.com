@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:07:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:59:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically Scrum, and the importance of teaching the rationale behind practices. While it touches on collaboration and continuous improvement, which are relevant to DevOps, it does not explicitly discuss DevOps principles or practices. The emphasis is on Agile teaching strategies rather than the integration of development and operations, which is central to DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -238,11 +241,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T20:00:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the role of teaching within Scrum, which does not directly address Continuous Delivery principles. While there are elements of collaboration and improvement that could tangentially relate to Continuous Delivery, the focus is on understanding Agile methodologies rather than the specific practices and benefits of Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -381,15 +387,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile principles rather than Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles, Agile methodologies, and coaching, which are not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1168,11 +1165,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a scrum master and focuses on Scrum practices rather than the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T20:00:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of teaching the 'why' in Scrum practices, which is more aligned with Agile methodologies than specifically with the Agile Product Operating Model. While it touches on themes of understanding and collaboration, it lacks a direct focus on product management principles, operational stability, or the transition from project to product ethos, which are core to the APOM. The discussion is valuable for Agile teams but does not delve deeply into the specific frameworks or principles of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1375,11 +1375,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:00:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a critical skill for a scrum master in agile environments and promotes agile training and consulting services, rather than discussing Evidence-Based Management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of teaching the 'why' behind Agile practices, focusing on understanding and collaboration rather than empirical evidence or data-driven decision-making. While it touches on concepts like value and engagement, it does not explicitly address Evidence-Based Management principles or metrics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1458,6 +1461,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master in teaching Agile principles and fostering understanding among team members. While it touches on themes of collaboration and continuous improvement, it does not explicitly address the Shift-Left Strategy or its core principles, such as integrating testing, security, and compliance early in the development process. The focus is more on Agile practices rather than the proactive measures associated with Shift-Left, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:59:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding the 'why' behind Agile practices, which aligns with the principles of Continuous Improvement by fostering a culture of learning and adaptation. It highlights strategies for effective teaching and encourages experimentation, which are key aspects of Continuous Improvement. However, while it touches on these themes, the primary focus is more on teaching and engagement rather than a systematic approach to Continuous Improvement itself.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:00:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding the 'why' behind Agile practices, which indirectly relates to the concept of Common Goals by fostering team engagement and ownership. However, it primarily focuses on teaching methods and personal experiences rather than explicitly addressing shared objectives or strategic alignment within Agile frameworks. The discussion lacks depth in connecting these ideas to the broader themes of Common Goals, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:00:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of teaching the 'why' behind Scrum practices, which directly relates to fostering competence within Agile teams. It highlights the necessity of understanding and continuous learning, aligning well with the core themes of competence. The depth of discussion is significant, providing strategies for effective teaching and illustrating the impact of understanding on team dynamics and performance. Overall, while the primary focus is on teaching and engagement, it strongly supports the development of competence in Agile environments.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:00:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum practices, discussing the importance of teaching the rationale behind these methodologies. While it touches on collaboration and improvement, it does not explicitly mention or align with the principles of the One Engineering System framework, which is centred on standardising and integrating software development practices across teams. The discussion is more about personal experiences and strategies in Agile rather than the integration of tools and processes as required by the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -36,7 +36,7 @@ tags:
 - Software Development
 - Coaching
 - Agile Transformation
-- Scrum Master
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

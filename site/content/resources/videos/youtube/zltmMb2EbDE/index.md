@@ -40,7 +40,7 @@ tags:
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Pragmatic Thinking
-- Cycle Time
+- Continuous Improvement
 resourceTypes:
 - video
 categories:

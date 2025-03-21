@@ -35,13 +35,13 @@ tags:
 - People and Process
 - Scrum Master
 - Agile Project Management
+- Competence
 - Professional Scrum
 - Continuous Learning
 - Accountability
 - Agile Frameworks
 - Pragmatic Thinking
 - Practical Techniques and Tooling
-- Scrum Team
 resourceTypes:
 - video
 categories:

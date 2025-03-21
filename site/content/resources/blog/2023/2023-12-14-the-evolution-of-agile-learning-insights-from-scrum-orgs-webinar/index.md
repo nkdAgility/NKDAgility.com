@@ -34,6 +34,7 @@ tags:
 - Events and Presentations
 - People and Process
 - Pragmatic Thinking
+- Competence
 categories:
 - Scrum
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg

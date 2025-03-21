@@ -40,7 +40,7 @@ tags:
 - Continuous Learning
 - Professional Scrum
 - Pragmatic Thinking
-- Scrum Product Development
+- Continuous Improvement
 categories:
 - Scrum
 - Social Technologies

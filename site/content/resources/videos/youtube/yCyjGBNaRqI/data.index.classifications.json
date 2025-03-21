@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:26:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:34:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team engagement and the importance of autonomy, mastery, and purpose, without any direct reference to Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on team dynamics and employee engagement rather than Continuous Delivery principles. While it touches on aspects that could indirectly relate to software quality (like team happiness leading to better products), it lacks direct mentions of Continuous Delivery practices, automation, or specific strategies for software delivery. The discussion is more about creating a positive work environment than about the delivery process itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,11 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T23:26:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:34:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team engagement, autonomy, mastery, and purpose without reference to empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to the outcomes of product quality. However, it lacks direct references to evidence-based management principles, metrics, or empirical decision-making. The focus is more on team dynamics and emotional factors rather than data-informed strategies or specific metrics that align with EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1297,11 +1303,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:24:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:34:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team dynamics and engagement rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on team dynamics, engagement, and the importance of autonomy, mastery, and purpose in creating successful products. While these themes can relate to DevOps principles, such as collaboration and shared accountability, the discussion does not explicitly mention DevOps or its core practices. The alignment with DevOps concepts is present but not strong enough to classify the content as primarily about DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1478,23 +1487,17 @@
     "reasoning": "Content heavily discusses team dynamics and engagement rather than platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:11:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team dynamics and individual engagement rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:11:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team engagement and autonomy in creating great products, which aligns with the principles of the Agile Product Operating Model, but it primarily focuses on team dynamics rather than the broader framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:34:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with agile principles of collaboration and continuous improvement. However, it lacks direct references to the Agile Product Operating Model and does not delve into specific product management practices or frameworks, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1560,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on team dynamics and employee engagement rather than discussing the integration of testing, security, or compliance early in the software development lifecycle. While it touches on the importance of team happiness and its impact on product quality, it does not explicitly mention or align with the core principles of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:34:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Continuous Improvement by highlighting how these factors can lead to better products. However, it lacks explicit references to Continuous Improvement principles, empirical evidence, or structured methodologies. The focus is more on team dynamics and individual motivations rather than on systematic improvement processes.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:34:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Common Goals by emphasising the need for alignment and purpose within teams. However, it lacks direct references to Agile or DevOps frameworks and does not explicitly define or explore Common Goals as a concept. The focus is more on team dynamics and individual motivations rather than on shared objectives that guide decision-making.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:34:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of mastery and skill development, which are key aspects of competence. It highlights how autonomy and purpose contribute to team engagement and quality outcomes, aligning well with the core themes of the category. The depth of discussion on strategies for fostering engagement and development further supports a strong alignment with competence, although it primarily focuses on team happiness rather than competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:34:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on team happiness and engagement rather than the principles and components of the One Engineering System. While it touches on aspects of team dynamics that could relate to software development, it does not explicitly discuss 1ES or its integration and standardisation of engineering processes.",
     "level": "Ignored"
   }
 }

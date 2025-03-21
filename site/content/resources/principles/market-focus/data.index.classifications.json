@@ -628,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T21:15:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:11:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on user feedback and timelines, which are not directly related to Continuous Delivery principles or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the importance of rapid feedback in Continuous Delivery. However, it lacks explicit discussion of Continuous Delivery principles, automation, or detailed strategies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -790,11 +793,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T21:16:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:12:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user feedback and timelines, which does not align with the principles of Evidence-Based Management.",
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions user feedback, which aligns with the concept of empirical decision-making. However, it lacks explicit discussion of Evidence-Based Management principles and does not provide sufficient detail or depth on the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1400,15 +1406,6 @@
     "reasoning": "Content primarily discusses user feedback and timelines, which are not central to the principles of BetaCodex or its organisational design concepts.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:28:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user feedback and timelines, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:12:42",
@@ -1470,6 +1467,54 @@
     "non_ai_confidence": 0,
     "final_score": 9.0,
     "reasoning": "The content briefly touches on user feedback and timelines, which could imply a focus on iterative development, but it does not explicitly mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:11:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of Continuous Improvement. However, it lacks depth and does not explicitly discuss the principles or strategies associated with Continuous Improvement, such as empirical evidence or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:11:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which could relate to aligning with common goals. However, it lacks explicit discussion of shared objectives, strategic alignment, or the principles of Agile and DevOps. The focus is more on operational tasks rather than the foundational concepts of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:11:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which could imply a need for competence in understanding user needs. However, it lacks explicit discussion on continuous learning, skill development, or the core themes of competence. The focus is primarily on market responsiveness rather than on the development of capabilities or professionalism.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:11:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It briefly touches on user feedback and timelines, which are not core themes of 1ES. The discussion lacks depth and does not provide any relevant details about integration, standardisation, or best practices related to 1ES.",
     "level": "Ignored"
   }
 }

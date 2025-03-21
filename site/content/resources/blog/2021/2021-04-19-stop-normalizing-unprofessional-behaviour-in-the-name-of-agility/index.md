@@ -29,12 +29,12 @@ tags:
 - Agile Project Management
 - Increment
 - Software Development
+- Competence
 - Agile Product Management
 - Agile Values and Principles
 - Agile Philosophy
 - Agile Transformation
 - Software Developers
-- Team Performance
 categories:
 - Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg

@@ -30,11 +30,11 @@ tags:
 - Scrum Product Development
 - Value Delivery
 - Ability to Innovate
-- Agile Product Operating Model
 - People and Process
 - Evidence Based Leadership
 - Evidence Based Management
 - Metrics and Learning
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

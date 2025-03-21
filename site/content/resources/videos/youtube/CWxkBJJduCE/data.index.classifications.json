@@ -268,11 +268,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:02:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:57:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development and pair programming, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, which are methodologies focused on software development rather than evidence-based management. While there are mentions of productivity and strategic choices, these concepts are not directly tied to the core themes of Evidence-Based Management, such as empirical decision-making or current value metrics. The discussion lacks a strong focus on data-informed decision-making and does not provide detailed insights into how these practices relate to managing for meaningful outcomes.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
@@ -369,15 +372,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses test-driven development and pair programming, which are not central to platform engineering principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:03:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Test-Driven Development (TDD) and Pair Programming, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -1051,11 +1045,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:57:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on test-driven development and pair programming, without discussing principles or practices related to Continuous Delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, which are methodologies focused on improving code quality and architecture rather than Continuous Delivery itself. While there are mentions of improving code quality and reducing complexity, the discussion does not explicitly address Continuous Delivery principles, such as automation in deployment or rapid feedback loops. The content lacks a direct focus on the Continuous Delivery practices and does not provide in-depth exploration of its core themes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1495,5 +1492,53 @@
     "final_score": 56.0,
     "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are practices that can align with the Shift-Left Strategy by promoting early issue detection and enhancing code quality. However, it does not explicitly mention the Shift-Left Strategy or its principles, focusing instead on TDD and pair programming as standalone concepts. While there is a clear connection to the benefits of addressing issues early in the development process, the primary focus remains on TDD and pair programming rather than a comprehensive discussion of the Shift-Left Strategy itself.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:57:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are practices that can contribute to Continuous Improvement by enhancing code quality and team collaboration. However, while it touches on the importance of these practices in improving processes, it does not explicitly frame them within the broader context of Continuous Improvement principles or strategies. The discussion is more focused on specific methodologies rather than a comprehensive exploration of Continuous Improvement as a category.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:57:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, focusing on their benefits for code quality and architecture. While it touches on strategic choices and long-term productivity, it lacks a direct discussion of Common Goals within Agile or DevOps frameworks. The mention of aligning with business objectives is too vague to strongly connect to the category, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:57:44",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of test-driven development (TDD) and pair programming, which are practices that enhance competence through skill development and knowledge sharing. It explicitly mentions how these practices lead to improved code quality and team skill sets, aligning well with the core themes of competence. However, while it touches on the importance of these methodologies, it does not delve deeply into strategies for fostering a culture of competence or inspecting and adapting competence over time, which slightly limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:57:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are specific methodologies rather than discussions on the One Engineering System (1ES). While there are mentions of improving code quality and collaboration, these concepts are not directly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES. Overall, the content does not align with the key topics outlined for the One Engineering System category.",
+    "level": "Ignored"
   }
 }

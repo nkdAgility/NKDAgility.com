@@ -745,14 +745,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:19:19",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 30,
+    "calculated_at": "2025-03-21T17:40:06",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics, which aligns with Evidence-Based Management principles. However, it primarily focuses on Candan strategies rather than EBM itself, leading to a moderate confidence score.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses flow metrics and continuous improvement, which are relevant to Evidence-Based Management. However, it primarily focuses on Candan strategies and Scrum without explicitly addressing the core themes of EBM, such as empirical decision-making or current value metrics. The discussion lacks depth in terms of evidence-based practices and does not provide a strong connection to the specific metrics outlined in the EBM definition.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -868,12 +868,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T18:10:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Caman and Cban strategies, focusing on workflow improvement and metrics, without a clear connection to Continuous Delivery principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T17:40:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses continuous improvement and transparency, which are relevant to Continuous Delivery principles. However, it primarily focuses on Candan strategies and flow metrics rather than explicitly addressing Continuous Delivery practices, automation, or deployment strategies. While it touches on aspects like monitoring workflows and improving systems, it lacks a direct focus on Continuous Delivery as a primary topic.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1318,11 +1321,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T18:07:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:39:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Candan and Scrum strategies, focusing on workflow improvement and metrics, which are not central to DevOps principles.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses continuous improvement and transparency, which are relevant to DevOps principles. However, it primarily focuses on Candan strategies and flow metrics, which are not explicitly tied to the core DevOps philosophy. While there are mentions of monitoring workflows and improving systems, the depth of discussion does not fully align with the broader DevOps concepts such as shared accountability or automation. Therefore, the confidence score reflects a moderate alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1481,23 +1487,17 @@
     "reasoning": "Content heavily discusses Candan strategies and Scrum, with no clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:13:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Candan strategies and Scrum, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:13:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Candan strategies and flow metrics in the context of improving workflows, which relates to Agile principles, but it primarily focuses on monitoring and transparency rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:39:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement and transparency, which are relevant to agile methodologies, but it primarily focuses on Candan strategies rather than the Agile Product Operating Model itself. While there are mentions of Scrum and flow metrics, the core principles of APOM, such as product-oriented mindset and integration of product management practices, are not explicitly addressed. Therefore, the content does not align closely enough with the category to warrant a higher confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1560,6 +1560,54 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content discusses continuous improvement and transparency in workflows, which are relevant to the Shift-Left Strategy. However, it primarily focuses on Candan strategies and flow metrics without explicitly addressing the integration of testing, security, or compliance earlier in the development process. The mention of Scrum and the importance of monitoring workflows hints at some alignment with Shift-Left principles, but the overall focus is not on the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:39:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses continuous improvement as a core aspect of the Candan strategy, highlighting its importance in enhancing workflows and decision-making. It aligns well with the principles of Continuous Improvement by focusing on empirical evidence through flow metrics, fostering a culture of transparency, and encouraging proactive experimentation. The depth of discussion is substantial, providing insights into how to implement these strategies effectively, which further supports the high confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:39:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous improvement and transparency within workflows, which are relevant to Agile principles. However, it primarily focuses on Candan strategies and flow metrics rather than explicitly addressing Common Goals or their significance in Agile and DevOps. The mention of Scrum is secondary and does not delve into the alignment of strategic goals with team efforts, which is central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:39:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous improvement and the importance of transparency in workflows, which aligns with the core themes of competence. It mentions the need for ongoing monitoring and decision-making based on flow metrics, indicating a focus on skill development and quality outcomes. However, while it touches on these aspects, it does not delve deeply into strategies for fostering a culture of competence or the distinction between performative activity and genuine progress, which limits the depth of discussion.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:39:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses Candan strategies and flow metrics, which are not directly related to the One Engineering System framework. While there are mentions of improving workflows and transparency, these concepts do not align closely with the core principles of 1ES, such as standardisation and integration across teams. The focus is on a specific methodology rather than the broader integration and standardisation of engineering processes that 1ES advocates.",
     "level": "Ignored"
   }
 }

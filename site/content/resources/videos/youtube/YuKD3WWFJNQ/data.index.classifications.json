@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:07:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:35:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and stakeholder engagement in Sprint reviews, which are not directly related to Continuous Delivery principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses agile practices and stakeholder engagement, with a focus on communication strategies during sprint reviews. While it touches on themes of collaboration and feedback, it does not explicitly address Continuous Delivery principles, automation, or deployment strategies. The discussion is more aligned with Agile methodologies rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:07:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to stakeholder engagement and communication in Agile practices, rather than focusing on empirical evidence or data-driven decision-making principles central to Evidence-Based Management.",
+    "calculated_at": "2025-03-21T18:35:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses engagement strategies in agile teams, focusing on communication and stakeholder involvement during sprint reviews. While it touches on the importance of strategic objectives and alignment, it does not explicitly mention Evidence-Based Management or provide empirical metrics related to value delivery, innovation, or decision-making. The discussion is more aligned with general agile practices rather than a data-informed management approach.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1297,11 +1303,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile practices and Scrum roles, with no clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T18:35:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile methodologies and stakeholder engagement rather than DevOps principles. While it touches on collaboration and communication, which are relevant to DevOps, it does not explicitly discuss DevOps as a philosophy or its core practices. The depth of discussion is limited to agile practices, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1480,12 +1489,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:08:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback mechanisms within Agile practices, which are relevant to the Agile Product Operating Model, but it primarily focuses on issues of communication and participation rather than a comprehensive exploration of the model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T18:35:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses agile practices, particularly focusing on stakeholder engagement and communication strategies during sprint reviews. While it touches on the role of product owners and the importance of aligning work with strategic objectives, it does not explicitly mention the Agile Product Operating Model or its core principles. The discussion is relevant to agile methodologies but lacks a direct focus on the product-oriented mindset and continuous delivery aspects central to the APOM framework.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1503,15 +1515,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and stakeholder engagement, with no clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Agile practices and stakeholder engagement in Sprint reviews, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1554,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses engagement strategies within Agile teams, focusing on communication and stakeholder involvement during sprint reviews. While it touches on themes of collaboration and alignment, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with general Agile practices rather than the specific integration of testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:35:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses engagement strategies in agile teams, focusing on communication and stakeholder involvement during sprint reviews. While it touches on aspects of team effectiveness and the importance of feedback, it does not explicitly address Continuous Improvement principles or frameworks. The discussion is more about overcoming silence and fostering engagement rather than a systematic approach to continuous improvement. Therefore, the confidence score reflects a low alignment with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:35:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of clear communication and alignment of goals within agile teams, particularly in the context of stakeholder engagement during sprint reviews. It highlights the need for strategic objectives and tactical actions that connect daily work to overarching goals, which aligns with the principles of Common Goals. However, while it touches on these themes, the primary focus is on the issue of silence and engagement rather than a comprehensive exploration of Common Goals themselves.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:35:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and communication strategies in agile teams, which indirectly relates to competence. However, it primarily focuses on the dynamics of silence and engagement rather than on continuous learning, skill development, or the professional capabilities of team members. While there are mentions of fostering an inclusive environment and the role of product owners, these points do not delve deeply into the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:35:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile methodologies and stakeholder engagement, with no direct mention of the One Engineering System framework or its principles. While it discusses communication strategies within agile teams, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is also limited to agile practices, further distancing it from the 1ES category.",
     "level": "Ignored"
   }
 }

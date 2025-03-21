@@ -25,14 +25,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:18:37",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
+    "calculated_at": "2025-03-21T19:31:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
     "ai_alignment": 65.0,
-    "ai_depth": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
-    "reasoning": "The content explicitly mentions DevOps as a critical component within a Scrum environment, indicating a direct discussion of the category. It aligns with core themes of DevOps, such as the integration of practices to enhance product development. However, while it touches on the importance of DevOps, it lacks detailed exploration of specific practices, tools, or metrics associated with DevOps, which slightly lowers the depth score. Overall, the content is relevant and focused on the DevOps category, but it could benefit from more comprehensive coverage.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the relationship between Scrum and DevOps, highlighting how they complement each other. While it mentions DevOps and its principles, the primary focus is on Scrum's role within a DevOps context rather than a deep exploration of DevOps itself. The discussion touches on key DevOps themes like automation and collaboration, but it does not delve deeply into the broader principles of DevOps as a philosophy. Therefore, while there is a significant connection to DevOps, it is not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -97,11 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:08:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:32:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the integration of Scrum and DevOps without focusing on evidence-based management principles or empirical data.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their practices and principles rather than on evidence-based management. While it touches on improving processes and efficiency, it lacks explicit references to empirical evidence, metrics, or the core themes of Evidence-Based Management. The discussion is more about methodologies than data-informed decision-making.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -345,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and its relationship with DevOps, without a clear focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:08:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and its relationship with DevOps, without focusing on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -658,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:09:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:32:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the relationship between Scrum and DevOps, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, focusing on how Scrum enhances DevOps practices. While it touches on aspects of software delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in Continuous Delivery specifics, such as automation in testing and deployment, or rapid feedback mechanisms, which are crucial to the category. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -751,11 +748,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:10:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:32:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the relationship between Scrum and DevOps, focusing on their practices rather than the Agile Product Operating Model.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their compatibility and complementary nature. While it touches on agile principles, it does not explicitly address the Agile Product Operating Model or its core themes such as product management, operational stability, or evidence-based management. The discussion is more centred on Scrum practices rather than the broader framework of APOM, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1506,6 +1506,54 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their compatibility and complementary nature. While it touches on themes of collaboration and efficiency, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:32:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting the importance of improving processes and efficiency. However, it primarily focuses on the relationship between Scrum and DevOps rather than on Continuous Improvement as a standalone concept. While there are mentions of enhancing performance and collaboration, the depth of discussion on Continuous Improvement principles is limited, and it lacks empirical evidence or specific strategies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:32:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the relationship between Scrum and DevOps, highlighting their complementary nature. However, it lacks a direct focus on Common Goals as defined in the category. While it touches on collaboration and strategy, it does not explicitly address shared objectives or the operationalisation of Common Goals. The discussion is more about the integration of Scrum and DevOps rather than aligning individual contributions to a common mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:32:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting the importance of collaboration and efficiency. However, it lacks a direct focus on competence as defined in the category, such as continuous learning or skill development. While it touches on improving processes, it does not delve deeply into the principles of professionalism or the development of capabilities, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:32:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses Scrum and its relationship with DevOps, which are not directly related to the One Engineering System framework. While there are mentions of improving processes and collaboration, the focus is on Scrum's role rather than the principles or components of 1ES. The depth of discussion is moderate, but it does not provide specific insights into 1ES or its implementation, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

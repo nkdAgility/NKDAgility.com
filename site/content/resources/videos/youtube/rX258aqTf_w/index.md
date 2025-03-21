@@ -36,6 +36,7 @@ tags:
 - Agile Transformation
 - Software Development
 - Organisational Agility
+- Competence
 resourceTypes:
 - video
 categories:

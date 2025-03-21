@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:43:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:48:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses product management and the role of entrepreneurs, with only a brief mention of agile and DevOps at the end.",
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with only a brief mention of DevOps at the end. While it touches on some principles that could align with DevOps, such as customer-centricity and iterative processes, the main discussion does not delve into the core themes of DevOps, such as collaboration, automation, or shared accountability. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product management and the role of product owners in startups, without a focus on empirical evidence or evidence-based decision-making.",
+    "calculated_at": "2025-03-21T19:48:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of value in product management, which aligns with the Evidence-Based Management category. However, it primarily focuses on personal experiences and recommendations for entrepreneurs rather than empirical evidence or specific metrics related to EBM. While there are mentions of understanding customer needs and the importance of value, the discussion lacks depth in terms of data-informed decision-making and specific EBM metrics.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -342,15 +348,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses product management and the importance of value for entrepreneurs, with no clear focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product management and the role of an entrepreneur, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -673,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:48:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses product management and entrepreneurial value focus rather than Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Continuous Delivery principles or practices. While it touches on iterative processes and customer feedback, these concepts are not specifically tied to Continuous Delivery, which emphasises automation and deployment practices. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -769,15 +769,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-11T17:43:37",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T19:48:38",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of value in product management and touches on Agile principles, particularly through the lens of the PSPO course. However, it primarily focuses on the entrepreneurial perspective and does not delve deeply into the Agile Product Operating Model itself. While it mentions concepts like customer-centricity and iteration, it lacks a comprehensive exploration of the Agile framework and its application in a product-centric context.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses product management and the importance of value, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the PSPO course and general product management rather than the specific frameworks and methodologies of APOM. The discussion lacks depth in terms of agile processes and governance, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of the Shift-Left Strategy. While there are elements of early engagement and iterative processes that could conceptually align with Shift-Left principles, the discussion lacks depth and specificity regarding testing, security, or compliance integration in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:48:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of value in product management and encourages iterative processes, which aligns with Continuous Improvement principles. However, it primarily focuses on product management and startup success rather than explicitly addressing Continuous Improvement as a primary theme. The mention of iterating and adapting based on feedback is relevant but not deeply explored, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:48:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of value in product management and the need for clear communication of vision, which can relate to common goals. However, it primarily focuses on personal experiences and the PSPO course rather than explicitly addressing common goals within Agile or DevOps frameworks. The discussion lacks depth in connecting these concepts to strategic alignment or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:48:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of mastering product management and understanding value, which are related to competence in terms of skill development and professionalism. However, it primarily focuses on product management rather than directly addressing competence as a foundational principle. The discussion on tools and techniques from the PSPO course hints at skill development, but the overall emphasis is more on value delivery than on continuous learning or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:48:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of the One Engineering System (1ES) framework or its principles. While it discusses tools and techniques relevant to product management, it does not align with the core themes of 1ES, such as integration of processes across teams or standardisation in software development. The depth of discussion is also minimal regarding the specific aspects of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:09:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:01:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters within Agile teams, discussing traits that hinder effective Scrum practices. While it touches on team dynamics, it does not engage with DevOps principles, such as collaboration, automation, or shared accountability. The discussion is centred around Scrum methodology rather than the broader DevOps philosophy, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:01:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the traits of unskilled Scrum Masters and focuses on Agile practices rather than Continuous Delivery principles. While it touches on aspects of team effectiveness and facilitation, it does not explicitly mention Continuous Delivery or its core themes such as automation, incremental improvements, or rapid feedback. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -394,15 +400,6 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T10:21:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T10:21:50",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
@@ -1207,11 +1204,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the traits of unskilled Scrum Masters rather than focusing on the Agile Product Operating Model as a whole.",
+    "calculated_at": "2025-03-21T20:01:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the traits of unskilled Scrum Masters, which is more aligned with Scrum practices than the Agile Product Operating Model. While it touches on the role of a Scrum Master in facilitating agile teams, it does not delve into the broader principles or frameworks of the Agile Product Operating Model. The discussion lacks depth regarding product management integration and does not address key topics such as operational stability or evidence-based management.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1426,11 +1426,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:01:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and traits of unskilled Scrum Masters rather than focusing on evidence-based management practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the traits of unskilled Scrum Masters and focuses on Agile practices rather than Evidence-Based Management. While it touches on the importance of effective facilitation, it lacks direct references to empirical evidence or metrics that are central to EBM. The discussion is more about personal characteristics and misconceptions rather than data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1500,6 +1503,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the traits of unskilled Scrum Masters and does not mention or align with the Shift-Left Strategy. It focuses on Scrum roles and behaviours rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:01:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the traits of unskilled Scrum Masters and how they hinder effective Agile practices. While it touches on the importance of enhancing team effectiveness, it does not explicitly discuss Continuous Improvement as a primary focus. The discussion lacks depth in terms of strategies or frameworks related to Continuous Improvement, and the overall alignment with the category is weak, as it does not delve into empirical evidence or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:01:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the traits of unskilled Scrum Masters rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on the role of a Scrum Master in facilitating team effectiveness, it does not explicitly mention or explore the concept of Common Goals. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is crucial for the category. Overall, the content is more about personal traits and misconceptions than about aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:01:33",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the traits of unskilled Scrum Masters and contrasts them with effective behaviours, which indirectly relates to competence in terms of skill development and professional capability. However, it primarily focuses on misconceptions and traits rather than a deep exploration of competence itself. The discussion lacks explicit references to continuous learning or strategies for fostering competence, which limits its depth and alignment with the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:01:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 10,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the traits of unskilled Scrum Masters and does not discuss the One Engineering System framework or its principles. While it mentions Scrum, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   }
 }

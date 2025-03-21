@@ -34,12 +34,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:13:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum and Agile methodologies in the context of organisational change within the Ghana Police Service, touching on empirical experimentation and the importance of understanding the problem domain, which aligns with some principles of Evidence-Based Management. However, the primary focus is on training and practical application rather than a comprehensive discussion of EBM principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of Scrum training within the Ghana Police Service, focusing on practical exercises and the challenges of teaching non-technical individuals. While it touches on concepts of empirical experimentation and organisational change, it lacks a strong emphasis on evidence-based management principles, such as current value metrics or outcome management. The mention of empirical experimentation is relevant but not sufficiently detailed to align closely with the core themes of Evidence-Based Management.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -136,11 +139,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T19:03:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:12:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and its application within the Ghana Police Service, lacking a central discussion on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training for the Ghana Police Service, discussing agile practices and the implementation of Scrum rather than the broader DevOps philosophy. While there are some elements of collaboration and iterative processes that align with DevOps principles, the emphasis is on Scrum as a methodology rather than on the integration of people, processes, and technology for continuous value delivery, which is central to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -344,23 +350,17 @@
     "reasoning": "The content discusses the application of Scrum within the Ghana Police Service, touching on organisational change and the need for a holistic understanding of the system. However, the primary focus is on Scrum training rather than a deep exploration of Systems Thinking principles.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T19:04:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum training and its application within the Ghana Police Service, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T21:13:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Scrum within the Ghana Police Service, focusing on organisational change and the training of officers in Agile principles. While it touches on Agile concepts, the primary focus is on training and Scrum practices rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the implementation of Scrum training within the Ghana Police Service, focusing on agile practices and the training process rather than the broader Agile Product Operating Model. While it touches on concepts like organisational change and the importance of understanding agile principles, it lacks a direct focus on the core themes of the Agile Product Operating Model, such as product-oriented mindsets, continuous delivery, and governance in product delivery. The discussion is more about Scrum as a methodology rather than integrating agile with product management principles.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -430,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T19:04:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:13:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and its application in the Ghana Police Service, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum training and its application within the Ghana Police Service, focusing on agile practices rather than Continuous Delivery specifically. While there are mentions of iterative processes and organisational change, the core themes of Continuous Delivery, such as automation in deployment and rapid feedback loops, are not addressed. The discussion is more about Scrum methodology and its implementation rather than the principles and practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on teaching Scrum to the Ghana Police Service, discussing the practical application of Scrum principles rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile concepts, it does not explicitly address the Shift-Left Strategy or its core themes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:12:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of Scrum training within the Ghana Police Service, highlighting the importance of empirical experimentation and iterative learning. While it mentions aspects of Continuous Improvement, such as adapting teaching methods based on feedback and fostering a culture of collaboration, the primary focus is on the training process itself rather than a broader discussion of Continuous Improvement principles. The content does not deeply explore strategies or frameworks for Continuous Improvement, which limits its alignment with the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:12:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implementation of Scrum training within the Ghana Police Service, highlighting the importance of aligning the training with organisational change goals. While it mentions the concept of common goals in the context of teamwork and collaboration, the primary focus is on the training process and personal experiences rather than a deep exploration of common goals as a strategic principle. The content does provide some insights into how Scrum can facilitate achieving shared objectives, but it lacks a thorough examination of the broader implications of common goals within Agile and DevOps frameworks.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:13:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the introduction of Scrum training to the Ghana Police Service, highlighting the importance of learning and skill development in an Agile context. It mentions the challenges faced by officers in understanding Scrum and the need for a foundational knowledge base, which aligns with the concept of competence. However, while competence is a theme, the focus is more on the training process and experiences rather than a deep exploration of competence itself. The content does not extensively cover strategies for fostering a culture of competence or the impact of competence on decision-making, which limits its depth in this area.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:13:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training for the Ghana Police Service, discussing agile practices and the implementation of Scrum rather than the One Engineering System framework. While there are mentions of organisational change and collaboration, the discussion does not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The content lacks depth in addressing the specific components and impacts of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

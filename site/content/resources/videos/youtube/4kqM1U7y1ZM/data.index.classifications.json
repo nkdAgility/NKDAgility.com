@@ -25,15 +25,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:17:10",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-21T19:25:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the transition of a Scrum team towards continuous delivery, which aligns with DevOps principles. It mentions the importance of continuous delivery and the integration of feedback loops, which are key aspects of DevOps. However, the primary focus is on Scrum practices and team dynamics rather than a comprehensive exploration of DevOps as a whole. The mention of DevOps is brief and secondary, but the overall themes and depth of discussion support a strong alignment with the category.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, with only brief mentions of continuous delivery and feedback loops, which are relevant to DevOps. However, it lacks a comprehensive discussion on the core principles of DevOps, such as shared accountability and cultural shifts. The emphasis is more on Scrum practices rather than the broader DevOps philosophy.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -103,14 +103,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T23:16:58",
+    "calculated_at": "2025-03-21T19:25:25",
     "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
     "final_score": 39.0,
-    "reasoning": "The content discusses the transformation of a Scrum team and touches on concepts like continuous delivery and organisational support. However, it lacks explicit references to Evidence-Based Management principles, empirical data, or metrics. While there are elements of alignment with EBM, such as the importance of understanding value and feedback loops, the discussion is more focused on Scrum practices rather than a thorough exploration of EBM itself.",
+    "reasoning": "The content primarily focuses on Scrum practices and team dynamics rather than explicitly discussing Evidence-Based Management principles. While it touches on aspects like clarifying value and integrating feedback loops, which align with EBM concepts, the overall emphasis is on Scrum methodologies and team empowerment without a strong reliance on empirical evidence or metrics. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -364,15 +364,6 @@
     "final_score": 56.0,
     "reasoning": "The content discusses continuous delivery and the transformation of a Scrum team, which are relevant to release management. However, it primarily focuses on Scrum practices and team dynamics rather than the broader strategies and practices of release management. While there are mentions of establishing continuous delivery and integrating feedback loops, these concepts are not explored in depth within the context of release management. The overall emphasis is more on Agile and Scrum methodologies rather than the specific processes of planning, scheduling, and controlling software releases.",
     "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:29:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team dynamics and continuous delivery rather than the One Engineering System framework.",
-    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -718,14 +709,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T23:17:47",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
+    "calculated_at": "2025-03-21T19:25:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content explicitly discusses the establishment of Continuous Delivery within a Scrum team, indicating a clear focus on the category. It aligns well with core themes such as the importance of feedback loops and the cultural shift required for effective delivery. However, while it provides a good level of detail on the transformation process, it also includes broader Agile and Scrum concepts that slightly dilute the primary focus on Continuous Delivery.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the concept of continuous delivery as a primary focus, particularly in the context of transforming a Scrum team. It outlines strategies for achieving continuous delivery, such as establishing delivery capabilities, integrating feedback loops, and empowering team members. While it does touch on Agile principles and team dynamics, the depth of discussion on continuous delivery practices and the emphasis on delivering usable products aligns well with the category's core themes. However, the content also includes broader Agile concepts, which slightly detracts from its focus on continuous delivery alone.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -823,15 +814,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:18:02",
-    "ai_confidence": 67.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 60.0,
+    "calculated_at": "2025-03-21T19:25:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the transformation of a Scrum team with a focus on continuous delivery, value clarification, and feedback integration, which aligns with the principles of the Agile Product Operating Model. However, it primarily centres on Scrum practices rather than a broader product-centric approach, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily focuses on transforming a Scrum team and enhancing continuous delivery, which aligns with agile practices but does not explicitly discuss the Agile Product Operating Model (APOM) or its core principles. While it touches on aspects like value clarity and team empowerment, it lacks a comprehensive exploration of the APOM framework, making it more aligned with Scrum methodologies than the broader APOM context.",
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1548,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses strategies for transforming a Scrum team and focuses on continuous delivery, feedback loops, and team empowerment. While it touches on aspects of early integration of feedback, it does not explicitly mention the Shift-Left Strategy or its core principles. The discussion lacks depth in addressing testing, security, or compliance early in the development process, which are critical components of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:25:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses strategies for transforming a Scrum team, focusing on continuous delivery and empowerment, which aligns with the principles of Continuous Improvement. However, while it mentions aspects like integrating feedback loops and establishing a culture of delivery, it does not delve deeply into the broader implications of Continuous Improvement or provide empirical evidence. The primary focus is on Scrum practices rather than a comprehensive exploration of Continuous Improvement as a standalone concept.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:25:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transformation of a Scrum team with a focus on continuous delivery and clarifying value, which aligns with the principles of Common Goals. However, it primarily centres on practical strategies and personal experiences rather than explicitly defining or deeply exploring the concept of Common Goals within Agile and DevOps frameworks. The mention of aligning the backlog with organisational goals indicates some connection, but the overall discussion lacks a thorough exploration of how these strategies contribute to shared objectives across teams.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:25:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transformation of a Scrum team with a focus on continuous delivery, which aligns with the principles of competence in Agile methodologies. It highlights the importance of team readiness, organisational support, and the need for continuous learning and empowerment, all of which are key aspects of competence. The depth of discussion on strategies for fostering a culture of competence, such as establishing continuous delivery and integrating feedback loops, further supports a strong alignment with the category. However, while competence is a significant theme, the content also touches on broader Scrum practices, which slightly dilutes its primary focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:25:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices and strategies for team transformation rather than discussing the One Engineering System (1ES) framework. While it touches on concepts like continuous delivery and team empowerment, it lacks direct references to 1ES principles, components, or its integration across teams. The discussion is more about Agile methodologies and Scrum rather than the standardisation and integration of engineering processes that 1ES emphasises.",
     "level": "Ignored"
   }
 }

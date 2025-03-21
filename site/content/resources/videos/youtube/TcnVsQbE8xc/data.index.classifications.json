@@ -22,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:38:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:17:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is centred around Scrum and Agile methodologies rather than DevOps principles. While it briefly mentions concepts like feedback loops and automation practices, these are not explored in the context of DevOps. The discussion lacks depth in terms of DevOps culture, collaboration, and shared accountability, which are core to the category. Overall, the content does not align closely with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -97,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:38:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:18:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of a Scrum Master rather than focusing on Evidence-Based Management principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting the PSM II course for Scrum Masters, discussing skills and benefits related to Scrum rather than evidence-based management practices. While it mentions applying knowledge for team and organizational benefits, it lacks direct references to empirical decision-making or the specific metrics outlined in Evidence-Based Management.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -342,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:39:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -670,11 +667,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:40:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:18:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the PSM II course and Scrum practices, with only a brief mention of automation practices. It does not discuss Continuous Delivery principles, practices, or its role in software delivery, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -769,14 +769,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:00:46",
+    "calculated_at": "2025-03-21T19:18:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
     "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the PSM II course and Scrum Master skills, with limited direct discussion on the Agile Product Operating Model. While it touches on concepts like product ownership and team empowerment, it lacks a comprehensive exploration of the product-centric approach and value delivery principles central to the Agile Product Operating Model.",
+    "reasoning": "The content primarily focuses on the PSM II course for Scrum Masters, discussing Scrum roles and skills rather than the Agile Product Operating Model. While it touches on product ownership and team effectiveness, it lacks a comprehensive exploration of the APOM principles and does not delve into the broader themes of product management or organisational effectiveness central to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the PSM II course and Scrum practices, with no direct mention or discussion of the Shift-Left Strategy. While it touches on concepts like feedback loops and automation, these are not specifically tied to integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:17:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the PSM II course and its benefits for Scrum Masters, including fostering a high-performing team environment and enabling a culture of growth and learning. While it touches on aspects of Continuous Improvement, such as feedback loops and actionable insights, the primary focus is on the course itself rather than a comprehensive exploration of Continuous Improvement principles. Therefore, while there is some alignment, it is not the main focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:17:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the benefits of the PSM II course for Scrum Masters, discussing skills enhancement and team empowerment. While it touches on aspects of team effectiveness and organizational maturity, it lacks a direct discussion on Common Goals as defined in the category. The mention of fostering a high-performing team and supporting product owners hints at alignment with strategic objectives, but it does not delve deeply into the principles of Agile or DevOps frameworks. Overall, the content is more about personal development and course benefits rather than a thorough exploration of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:17:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content focuses on the importance of the PSM II course for enhancing Scrum Master skills, which directly relates to the concept of competence in Agile methodologies. It discusses continuous learning, skill development, and the application of knowledge for team and organisational benefits, aligning well with the core themes of competence. The depth of discussion is substantial, covering various aspects of how the course can improve professional capabilities, although it does not delve deeply into strategies for fostering a culture of competence or inspecting and adapting competence over time.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:18:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the PSM II course and Scrum practices, with no direct mention or discussion of the One Engineering System framework. While it touches on team dynamics and agile methodologies, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation in software development. The depth of discussion is limited to Scrum-specific topics, further distancing it from the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -32,13 +32,13 @@ tags:
 - Professional Scrum
 - Team Performance
 - Software Development
+- Competence
 - Agile Frameworks
 - Scrum Master
 - Agile Leadership
+- Continuous Improvement
 - People and Process
 - Technical Leadership
-- Scrum Product Development
-- Value Delivery
 resourceTypes:
 - video
 layout: video

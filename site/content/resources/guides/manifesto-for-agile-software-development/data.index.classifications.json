@@ -664,14 +664,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T17:40:04",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T17:14:10",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on agile methodologies rather than Continuous Delivery specifically. While it mentions 'early and continuous delivery of valuable software,' this is a brief mention and does not delve into the practices or principles of Continuous Delivery as defined by Jez Humble and Dave Farley. The content lacks detailed discussion on automation, deployment strategies, or risk management, which are crucial for a higher confidence score in the Continuous Delivery category.",
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses Agile principles rather than Continuous Delivery specifically. While it mentions 'early and continuous delivery of valuable software,' this is a brief mention and does not delve into the practices, tools, or cultural aspects of Continuous Delivery. The focus is more on Agile methodologies and values, which are related but not directly aligned with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,11 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T13:50:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:14:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Agile Manifesto and its principles, which focus on Agile methodologies rather than Evidence-Based Management.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Agile principles and values, focusing on software development practices rather than evidence-based management. While it touches on customer satisfaction and delivery of value, it lacks explicit references to empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1478,15 +1481,6 @@
     "reasoning": "The content discusses Agile principles, which share some similarities with BetaCodex, particularly in terms of valuing individuals and interactions, and promoting self-organising teams. However, it primarily focuses on Agile methodologies rather than the broader principles of decentralised and adaptive organisational design that define BetaCodex. The mention of self-organising teams aligns with BetaCodex, but the overall discussion lacks depth in exploring the specific principles and practices of BetaCodex, leading to a moderate confidence score.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:09:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Agile Manifesto and its principles, which are not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:17",
@@ -1560,6 +1554,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on Agile methodologies rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, and the discussion lacks depth on the specific themes of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:13:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles, which include aspects of Continuous Improvement, such as reflecting on team effectiveness and adapting behaviours. However, it does not explicitly focus on Continuous Improvement as a primary topic, nor does it provide in-depth strategies or empirical evidence related to the category. The mention of reflecting on effectiveness aligns with Continuous Improvement, but the overall discussion is more centred on Agile values and principles.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:13:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and values, which indirectly relate to Common Goals by emphasising collaboration and customer satisfaction. However, it lacks a direct focus on aligning strategy with execution or shared objectives, which are central to the Common Goals category. The discussion is more about Agile values than specific Common Goals, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:14:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Agile Manifesto and its principles, which emphasise values such as individuals and interactions, working software, and customer collaboration. While these principles indirectly relate to competence by promoting effective teamwork and continuous improvement, the discussion lacks explicit references to competence as a foundational principle. The content does mention aspects of continuous delivery and reflection, which align with the concept of competence, but it does not delve deeply into strategies for skill development or the importance of competence in maintaining trust and quality outcomes.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:14:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on Agile methodologies rather than the One Engineering System framework. There are no direct mentions of 1ES, and the content does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is also minimal regarding the specific aspects of 1ES.",
     "level": "Ignored"
   }
 }

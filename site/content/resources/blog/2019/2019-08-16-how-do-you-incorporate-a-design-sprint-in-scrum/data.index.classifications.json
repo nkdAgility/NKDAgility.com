@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T18:28:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:09:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum practices and the incorporation of UX activities within Scrum, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on integrating Design Sprints into Scrum, discussing roles and practices within the Scrum framework. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide empirical evidence or metrics to support decision-making. The discussion is more about Scrum methodologies rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -130,11 +133,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T18:28:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:09:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodology and the integration of Design Sprints within that framework. While it touches on collaboration and team dynamics, it does not explicitly discuss DevOps principles or practices. The discussion lacks depth in terms of DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -329,25 +335,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the integration of UX within Scrum rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:30:19",
+    "calculated_at": "2025-03-21T21:09:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses the integration of Design Sprints within the Scrum framework, focusing on roles and activities rather than the broader Agile Product Operating Model. While it touches on concepts like team collaboration and iterative work, it lacks a direct focus on product-centric development principles and value delivery strategies that are central to the Agile Product Operating Model. The discussion is more about Scrum practices than the holistic approach to product development, leading to a lower confidence score.",
+    "reasoning": "The content primarily focuses on integrating Design Sprints within the Scrum framework, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on collaboration and iterative delivery, it lacks a direct focus on the principles and operational aspects of APOM. The depth of discussion is moderate, but it does not sufficiently cover the key topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -421,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T18:29:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:09:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum practices and the integration of Design Sprints within that framework. While it touches on aspects of collaboration and refinement, it does not explicitly address Continuous Delivery principles, automation, or the delivery of incremental improvements. The focus is on Scrum methodology rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum practices and the integration of UX activities within sprints, without explicitly addressing the Shift-Left Strategy. While there are elements of early involvement in the development process, the focus is on Scrum roles and methodologies rather than on integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:09:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on integrating Design Sprints into Scrum, discussing roles and responsibilities within the Scrum framework. While it touches on the importance of collaboration and refinement, which are elements of Continuous Improvement, it does not explicitly address the principles of Continuous Improvement as a primary focus. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or specific strategies for fostering a culture of experimentation and learning, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:09:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of Design Sprints into Scrum, focusing on how team members can contribute to the Sprint Goal. While it touches on the importance of collaboration and the roles of team members, it does not explicitly define or emphasise Common Goals as a primary focus. The discussion is more centred on Scrum practices and roles rather than the overarching strategic alignment that Common Goals represent. Therefore, while there is some alignment with the category, it is not the main focus of the content.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:09:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of Design Sprints into Scrum, focusing on the roles and contributions of team members, which indirectly touches on competence. However, it primarily centres on Scrum practices rather than explicitly addressing continuous learning or skill development. While there are mentions of leveraging skills and the importance of team collaboration, the depth of discussion on competence as a foundational principle is limited.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:09:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating Design Sprints within the Scrum framework, discussing roles and practices specific to Scrum rather than the One Engineering System. While it touches on collaboration and team dynamics, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on standardising or integrating engineering processes across teams.",
     "level": "Ignored"
   }
 }

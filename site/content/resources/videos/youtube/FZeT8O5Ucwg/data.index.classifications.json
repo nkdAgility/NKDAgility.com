@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:04:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical management practices and critiques Agile adoption, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile practices and Scrum methodologies, with only brief mentions of concepts that could relate to DevOps, such as feedback loops and the importance of delivering value. However, it lacks a direct discussion of DevOps principles, such as automation, shared accountability, or cultural shifts necessary for effective DevOps implementation. The depth of discussion on Agile practices overshadows any relevance to DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -253,11 +256,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the historical context of management practices and critiques the adoption of Agile methodologies rather than discussing Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T21:04:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and the challenges teams face in implementing them, rather than focusing on Continuous Delivery specifically. While it touches on concepts like short iterations and user feedback, which are relevant to Continuous Delivery, these are not explored in depth. The emphasis is more on Agile principles and cultural aspects rather than the specific practices and tools of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -393,15 +399,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses historical management practices and critiques Agile adoption without focusing on Value Stream Management principles or related techniques.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical management practices and critiques Agile implementations rather than 1ES principles or practices.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1222,11 +1219,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the historical context of management practices and critiques the adoption of Agile, but it does not focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T21:04:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses agile practices and the challenges organisations face in implementing genuine agility. While it touches on some principles of agile methodologies, such as short iterations and the importance of retrospectives, it does not specifically address the Agile Product Operating Model or its core themes. The focus is more on general agile practices rather than the integration of agile with product management principles, which is central to the APOM. Therefore, while there is some relevant content, it lacks the depth and direct focus required for a higher confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1447,11 +1447,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the historical context of management practices and critiques modern agile adoption, rather than focusing on Evidence-Based Management principles.",
+    "calculated_at": "2025-03-21T21:04:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses agile practices and the importance of retrospectives, but it primarily focuses on the challenges of implementing genuine agility rather than on evidence-based management principles. While there are mentions of metrics and the need for feedback loops, the overall emphasis is on cultural resistance and historical context rather than on empirical decision-making or specific evidence-based metrics.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1521,6 +1524,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile practices and the challenges of implementing them effectively, without explicitly addressing the Shift-Left Strategy. While it touches on concepts like feedback loops and continuous improvement, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:04:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of retrospectives and the need for teams to reflect on their processes, which aligns with Continuous Improvement principles. However, while it touches on related themes, such as cultural resistance to change and the need for genuine agility, it does not delve deeply into specific Continuous Improvement strategies or frameworks. The focus is more on identifying gaps in agile practices rather than a comprehensive exploration of Continuous Improvement itself.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:04:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile practices and the importance of aligning team efforts with strategic goals, but it primarily focuses on the challenges and misconceptions surrounding agility rather than explicitly addressing Common Goals. While there are mentions of strategic goals and the need for teams to understand their contributions, the overall emphasis is on cultural resistance and historical context rather than a detailed exploration of Common Goals within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:04:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of genuine agility and continuous improvement, which aligns with the principles of competence. It highlights the need for teams to reflect on their processes and adapt, indicating a focus on skill development and quality outcomes. However, while competence is a theme, the primary focus is more on agile practices and cultural resistance rather than a deep exploration of competence itself.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:04:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and Scrum methodologies, discussing the challenges and misconceptions surrounding them. While it touches on themes of collaboration and improvement, it does not explicitly mention or align with the One Engineering System framework, which is centred on standardising and integrating software development practices across teams. The discussion lacks depth regarding the principles or components of 1ES, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

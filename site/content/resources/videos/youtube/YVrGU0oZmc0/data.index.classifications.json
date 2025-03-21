@@ -247,14 +247,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T16:34:06",
+    "calculated_at": "2025-03-21T16:47:30",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses the use of feature flags in software development, which relates to continuous delivery and user feedback. However, it does not explicitly mention Evidence-Based Management principles or practices, nor does it focus on empirical data to inform decision-making processes. While there is some alignment with the idea of using feedback and metrics, the depth of discussion on EBM is minimal, leading to a low confidence score.",
+    "reasoning": "The content discusses the use of feature flags and incremental delivery, which relates to the concept of empirical decision-making and the importance of feedback. However, it lacks a direct focus on Evidence-Based Management principles and does not provide specific metrics or a structured approach to value delivery. The discussion is more centred on software development practices rather than a strategic management framework.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -298,14 +298,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T00:15:38",
+    "calculated_at": "2025-03-21T16:47:28",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
     "final_score": 80.0,
-    "reasoning": "The content extensively discusses the practice of using feature flags as a key strategy in Continuous Delivery, detailing how they facilitate safe and gradual deployment of new features. It aligns well with the principles of Continuous Delivery by emphasising automation, telemetry, and user feedback, which are crucial for maintaining a production-ready state. The depth of discussion is significant, providing real-world examples and insights into the Azure DevOps team's approach, thus demonstrating a strong understanding of Continuous Delivery methodologies.",
+    "reasoning": "The content explicitly discusses Continuous Delivery, particularly through the lens of feature flags and incremental releases. It provides a clear definition of Continuous Delivery and illustrates its principles with a real-world example from Azure DevOps. The discussion on feedback and monitoring aligns well with the core themes of Continuous Delivery, emphasising the importance of user engagement and continuous improvement. The depth of the discussion is substantial, covering various aspects of the practice, including the role of automation and the cultural implications of Continuous Delivery. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -1547,15 +1547,6 @@
     "reasoning": "Content primarily discusses feature flags and continuous delivery practices in software development, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T11:57:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses feature flags and continuous delivery practices, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T10:37:14",
@@ -1629,6 +1620,54 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the use of feature flags, which are related to the software development lifecycle. However, it does not explicitly mention the Shift-Left Strategy or its core principles, such as integrating testing and security early in the process. While there is some alignment with the idea of gathering feedback early, the focus is primarily on feature flags rather than a comprehensive Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:47:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the use of feature flags as a method for continuous delivery, which aligns closely with the principles of Continuous Improvement. It highlights the importance of incremental releases, user feedback, and continuous monitoring, all of which are key aspects of the category. The depth of discussion is significant, providing a real-world example and detailing the process of feature deployment and feedback collection. However, while it strongly aligns with Continuous Improvement, it does not explicitly mention the term 'Continuous Improvement' itself, which slightly lowers the direct mentions score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:47:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the use of feature flags in software development and continuous delivery, which is a tactical approach rather than a discussion on Common Goals. While it touches on the importance of feedback and user engagement, it does not explicitly connect these practices to shared objectives or strategic alignment within Agile or DevOps frameworks. The focus is more on implementation techniques rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:47:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of feature flags in software development, which indirectly relates to competence through the lens of continuous delivery and the importance of feedback. However, it lacks a direct focus on the development of skills or capabilities, which is central to the competence category. While it touches on the need for ongoing adjustments and improvements based on user feedback, it does not delve deeply into strategies for fostering a culture of competence or the role of continuous learning in Agile and DevOps environments.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:47:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the use of feature flags in software development, focusing on continuous delivery and user feedback. While it touches on aspects of software delivery, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The discussion lacks depth regarding integration and standardisation of engineering processes, which are core to 1ES. Therefore, the content is only tangentially related to the category.",
     "level": "Ignored"
   }
 }

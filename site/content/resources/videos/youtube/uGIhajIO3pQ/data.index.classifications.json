@@ -601,11 +601,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T00:27:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upcoming Agile conference and personal experiences related to it, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the Agile Scotland event, with no direct mention of Continuous Delivery principles or practices. While it touches on community interaction and innovation, these themes are not specifically aligned with Continuous Delivery, which emphasises software delivery practices. The discussion lacks depth regarding Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -763,11 +766,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T00:28:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upcoming Agile event and personal experiences, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting an Agile event in Scotland and discusses the community aspect of Agile methodologies. While it touches on themes of collaboration and innovation, it lacks direct mentions of Evidence-Based Management principles or metrics. The discussion is more about the event and community engagement rather than empirical decision-making or data-informed practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1183,11 +1189,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T00:25:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses an Agile event and mentions Agile and Scrum without a clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T19:24:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the Agile community in Scotland, with no direct mention of DevOps principles or practices. While there are themes of collaboration and community, which are relevant to DevOps, the discussion lacks depth and specificity regarding DevOps as a philosophy or its core practices. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1357,11 +1366,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:24:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:24:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an upcoming event and personal experiences rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile methodologies and the importance of community engagement in the context of an event, but it lacks a direct focus on the Agile Product Operating Model. While it touches on themes of collaboration and innovation, it does not delve into the specific principles or practices of APOM, nor does it provide detailed insights into product management or operational frameworks.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1380,15 +1392,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile events and personal experiences, with no focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:24:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an upcoming Agile event in Scotland and personal experiences related to it, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1431,6 +1434,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile methodologies and the community surrounding Agile events in Scotland, with no explicit mention of the Shift-Left Strategy or its principles. While there are themes of collaboration and community, they do not specifically relate to integrating testing, security, or compliance earlier in the software development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:24:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile methodologies and community engagement, which are related to Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or detailed strategies for fostering a culture of experimentation. The focus is more on promoting an event rather than on the ongoing practice of reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:24:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Agile Scotland 2023 event and highlights community interaction and collaboration, which are related to Common Goals. However, it lacks explicit discussions on aligning strategy with execution or the operationalisation of Common Goals within Agile frameworks. The focus is more on the event and community spirit rather than a deep exploration of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:24:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of community interaction and learning within the Agile context, which aligns with the themes of competence. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into strategies for skill development or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:24:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the Agile Scotland 2023 event, with no direct mention or discussion of the One Engineering System framework. While it touches on themes of community and collaboration, these are not specific to 1ES principles or practices. The discussion lacks depth regarding integration, standardisation, or the impact of a unified engineering system, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

@@ -49,11 +49,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:48:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:08:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of empathy and relationships in Agile, rather than focusing on evidence-based management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which does not directly address Evidence-Based Management principles. While it touches on aspects of decision-making and feedback, it lacks explicit discussions on metrics, empirical evidence, or data-informed decision-making that are central to EBM. The themes of trust and collaboration are relevant but do not align closely enough with the core topics of EBM.",
     "level": "Ignored"
   },
   "Personal": {
@@ -349,20 +352,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:49:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of empathy and trust in Agile relationships, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T18:08:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in agile practices, which is relevant to the Agile Product Operating Model. However, it does not explicitly mention the APOM framework or its principles, focusing instead on interpersonal dynamics rather than product management or operational models. The alignment with core themes is moderate, but the depth of discussion on APOM is minimal.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:49:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:08:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses empathy and relationships within Agile, without any focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on empathy and relationship-building within agile practices, which, while relevant to team dynamics, does not directly address DevOps principles or practices. There are brief mentions of collaboration and feedback, which are important in DevOps, but the overall discussion lacks depth in terms of DevOps-specific themes such as automation, shared accountability, or continuous delivery. Therefore, the content does not align closely with the core principles of DevOps.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -384,15 +393,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses building trust and relationships in Agile, which is not related to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:49:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses empathy and relationship-building in Agile, which is not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1051,11 +1051,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of empathy and building relationships within Agile teams, which is not relevant to Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:08:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of empathy and relationships within Agile practices, focusing on team dynamics and leadership rather than Continuous Delivery principles. While it touches on aspects of collaboration and feedback, it does not explicitly address Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1500,6 +1503,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of empathy and relationships within Agile practices, focusing on team dynamics and communication rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left concept. The discussion is more about interpersonal relationships and collaboration, which, while relevant to Agile, does not align with the specific principles and practices of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:08:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of empathy and respect in agile practices, which indirectly relates to Continuous Improvement through the emphasis on feedback and collaboration. However, it does not explicitly focus on Continuous Improvement as a primary theme, nor does it delve deeply into specific strategies or frameworks associated with it. The mention of fostering a culture of continuous improvement is present but is not the main focus of the discussion.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:08:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in Agile practices, which indirectly relates to Common Goals. However, it lacks direct mentions of shared objectives or strategic alignment, focusing more on interpersonal dynamics rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:08:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses empathy and relationship-building in Agile, which are important but not directly related to the concept of competence. While it touches on aspects of trust and collaboration that can indirectly relate to competence, it lacks explicit discussions on skill development, continuous learning, or the professional standards that underpin competence. The focus is more on interpersonal dynamics rather than the foundational principles of competence in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:08:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and trust, it lacks specific discussions on standardising or integrating software development practices, making it only tangentially related to the 1ES framework.",
     "level": "Ignored"
   }
 }

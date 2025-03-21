@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T20:52:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the shift to virtual training and compares experiences, lacking a direct focus on Evidence-Based Management principles, practices, or empirical data-driven decision making.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the transition to Live Virtual Classrooms and the benefits of virtual training, which does not directly address Evidence-Based Management principles. While it mentions the effectiveness of virtual training, it lacks a focus on empirical evidence or metrics related to value delivery, decision-making, or outcome management. The discussion is more about personal experiences and observations rather than a structured analysis of data-informed practices.",
     "level": "Ignored"
   },
   "Code and Complexity": {
@@ -133,11 +136,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T20:52:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the shift to virtual training and its implications for the knowledge industry, focusing on Scrum and Agile methodologies rather than directly addressing DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the transition to Live Virtual Classrooms and the benefits of remote training, with a focus on Agile and Scrum methodologies. While it touches on collaboration and communication, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in terms of DevOps concepts, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -341,26 +347,17 @@
     "reasoning": "Content primarily discusses the shift to virtual classrooms and the experiences associated with it, rather than focusing on Systems Thinking principles or their applications in organizations.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T20:52:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the shift to virtual training and the experiences with online classes, with a focus on Scrum and Agile methodologies, rather than on the principles or implementation of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T03:06:28",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T20:54:53",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the shift to virtual training and its implications for Agile practices, particularly in relation to Scrum. While it touches on Agile concepts, it primarily focuses on the logistics of virtual training rather than the Agile Product Operating Model itself. The mention of product delivery in a virtual context hints at alignment with the category, but the overall discussion lacks depth and direct focus on the principles and strategies of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the transition to Live Virtual Classrooms and touches on Agile and Scrum concepts, but it primarily focuses on the delivery of training rather than the Agile Product Operating Model itself. While there are mentions of Agile principles, they are not the primary focus, and the discussion lacks depth regarding the core themes of the APOM.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -430,11 +427,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T20:52:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:54:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses virtual training and the impact of remote work on communication and participation, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the transition to Live Virtual Classrooms and the benefits of virtual training, which is not directly related to Continuous Delivery. While it touches on aspects of remote collaboration and training, it lacks explicit discussions on Continuous Delivery principles, practices, or tools. The focus is more on the educational context rather than software delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1536,6 +1536,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the transition to virtual training and the benefits of remote learning environments, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on Agile and Scrum methodologies, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:54:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the shift to Live Virtual Classrooms and how this change has enhanced learning experiences, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the adaptation to virtual training rather than a systematic approach to ongoing improvement. While there are mentions of enhanced learning and adaptation, the depth of discussion on Continuous Improvement practices, such as empirical evidence or specific strategies for fostering a culture of experimentation, is limited.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:54:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the shift to Live Virtual Classrooms and the benefits of virtual training, but it does not explicitly address Common Goals within Agile or DevOps frameworks. While it touches on collaboration and communication in a virtual environment, it lacks a direct focus on shared objectives or strategic alignment, which are central to the concept of Common Goals. The discussion is more about the practicalities of virtual training rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:54:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition to Live Virtual Classrooms and the effectiveness of virtual training, which indirectly touches on the importance of competence in delivering quality learning experiences. However, it lacks explicit discussions on continuous learning, skill development, or strategies for fostering a culture of competence. The focus is more on the logistics and benefits of virtual training rather than on the development of professional capabilities or the principles of competence in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:54:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the transition to Live Virtual Classrooms and the benefits of virtual training, with a focus on Scrum and Agile methodologies. While it touches on aspects of collaboration and communication in a virtual environment, it does not explicitly address the One Engineering System framework or its principles. The discussion is more centred on personal experiences and opinions regarding virtual training rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

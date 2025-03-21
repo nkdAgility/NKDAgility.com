@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T07:25:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:52:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of attending courses over reading books, focusing on Agile and Scrum methodologies without addressing DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the limitations of learning Scrum through books versus attending courses, which is more aligned with Agile methodologies rather than DevOps principles. While it mentions collaboration and interactive learning, these concepts are not specifically tied to the core themes of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, the content does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -256,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:53:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the comparison between reading books and attending courses, focusing on Agile and Scrum, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the limitations of learning Scrum through books versus attending courses, focusing on interactive learning rather than Continuous Delivery principles. While it mentions Agile and Scrum, it does not address Continuous Delivery practices, automation, or related strategies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -402,15 +408,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses the benefits of attending courses and Agile practices, with no mention of Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of attending courses versus reading books in the context of Agile and Scrum, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1231,11 +1228,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:53:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of interactive learning and the limitations of books compared to courses, with only peripheral mentions of Agile and Scrum.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the limitations of learning Scrum through books versus interactive courses, which is more focused on training and learning methodologies rather than the Agile Product Operating Model itself. While it mentions Agile and Scrum, it does not delve into the core principles or practices of the Agile Product Operating Model, such as product-oriented mindsets or continuous delivery. The discussion lacks depth in relation to the specific themes of APOM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1447,11 +1447,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T09:08:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:53:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the benefits of interactive learning in courses versus reading books, specifically in the context of Agile and Scrum training, without reference to empirical evidence or the principles of Evidence-Based Management.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the limitations of learning through books versus interactive courses, focusing on Agile and Scrum training. While it touches on the importance of engagement and collaboration in learning, it does not explicitly mention Evidence-Based Management or its core themes such as empirical decision-making or metrics related to value delivery. The discussion is more about learning methodologies rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1521,6 +1524,54 @@
     "non_ai_confidence": 0,
     "final_score": 4.0,
     "reasoning": "The content primarily discusses the benefits of interactive learning through courses versus reading books, focusing on Agile and Scrum training. It does not mention the Shift-Left Strategy or its principles, techniques, or metrics, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:52:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the limitations of learning from books compared to interactive courses, focusing on engagement and collaboration rather than Continuous Improvement principles. While it touches on themes of learning and collaboration, it lacks a direct focus on Continuous Improvement methodologies or strategies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:53:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the limitations of learning from books versus attending courses, focusing on interactive learning rather than the alignment of strategy and execution within Agile and DevOps frameworks. While it mentions Agile and Scrum, it does not delve into the concept of Common Goals or their significance in fostering collaboration and accountability. The discussion lacks depth in connecting individual contributions to organisational objectives, which is central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:53:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the limitations of learning from books compared to interactive courses, which indirectly relates to the concept of competence through the emphasis on active engagement and continuous learning. However, it does not explicitly focus on competence as a primary theme, nor does it delve deeply into strategies for fostering a culture of competence or the impact of competence on decision-making. The discussion is more about the learning process rather than the development of skills and capabilities in a professional context.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:53:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the limitations of learning Scrum through books compared to interactive courses. While it mentions Agile and Scrum, it does not focus on the One Engineering System framework or its principles, components, or implementation. The discussion is centred around personal learning experiences and training methods rather than the integration and standardisation of engineering processes, which is the core of the 1ES category.",
     "level": "Ignored"
   }
 }

@@ -56,15 +56,6 @@
     "reasoning": "The content briefly touches on agility and the need for a streamlined process, which aligns with some principles of BetaCodex. However, it lacks direct mentions of decentralisation, human-centric approaches, or adaptive organisational cultures, which are core themes of the category. The discussion is more focused on the operational aspects of agility rather than the foundational theories of BetaCodex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility in project ecosystems and the need for automation, without a clear focus on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T12:30:57",
@@ -85,14 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:41:15",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "calculated_at": "2025-03-21T17:26:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the need for automation and the importance of streamlining workflows, which aligns with DevOps principles. However, it primarily focuses on Agile methodologies and does not delve deeply into specific DevOps practices or tools, resulting in a moderate confidence score.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of automation and continuous integration/deployment (CI/CD), which are key principles of DevOps. It highlights the need for streamlined processes and short feedback loops, aligning well with DevOps themes of collaboration and efficiency. However, while it touches on DevOps concepts, the primary focus is on Agile practices, which slightly detracts from its alignment with the DevOps category.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -127,14 +118,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-10T17:55:33",
+    "calculated_at": "2025-03-21T17:26:46",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the need for an agile ecosystem and highlights the importance of shortening feedback loops and maximising value delivery, which aligns with the principles of the Agile Product Operating Model. However, it lacks explicit references to product-centric development and does not delve deeply into the specific strategies or roles within the model.",
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes to achieve true agility, which aligns with the Agile Product Operating Model. However, it primarily focuses on project ecosystems and automation rather than explicitly addressing the core principles of APOM or product management. While it touches on relevant themes like stakeholder value and feedback loops, it lacks a deep exploration of the APOM framework itself.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -358,11 +349,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:31:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the agility of project ecosystems and the need for automation, without a clear focus on Evidence-Based Management principles or empirical data.",
+    "calculated_at": "2025-03-21T17:26:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to Evidence-Based Management. However, it primarily focuses on Agile methodologies and does not explicitly mention empirical evidence or metrics that are central to EBM. The discussion lacks depth in terms of data-informed decision-making and does not provide specific metrics or outcomes that align with the key topics of EBM.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
@@ -1117,12 +1111,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content touches on themes of automation and shortening feedback loops relevant to Continuous Delivery, it primarily focuses on the broader topic of project agility and the integration of agile practices rather than specifying Continuous Delivery methodologies or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T17:26:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of automation and CI/CD pipelines, which are central to Continuous Delivery. It highlights the need for streamlined deployment processes and the role of feedback loops in delivering value, aligning well with Continuous Delivery principles. However, while it touches on these topics, the primary focus is on Agile practices rather than Continuous Delivery specifically, which slightly reduces the confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1564,5 +1561,53 @@
     "final_score": 56.0,
     "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to the Shift-Left Strategy. However, it primarily focuses on the overall Agile ecosystem and deployment processes rather than explicitly addressing the integration of testing, security, and compliance earlier in the development lifecycle. While there are mentions of automating testing and shortening feedback loops, the depth of discussion on Shift-Left principles is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:26:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of streamlining processes and embracing automation to enhance Agile practices, which aligns with Continuous Improvement principles. It mentions techniques like CI/CD and the need for short feedback loops, indicating a focus on incremental enhancements. However, while it touches on Continuous Improvement, it primarily centres on Agile methodologies and deployment processes, which slightly dilutes its direct focus on Continuous Improvement as a standalone topic.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:26:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of aligning Agile practices with deployment processes, which touches on the concept of Common Goals. However, it primarily focuses on automation and feedback loops rather than explicitly defining or exploring Common Goals within Agile and DevOps frameworks. While there are mentions of stakeholder value and team alignment, the depth of discussion on Common Goals is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:26:39",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of Agile practices and automation in project management, which indirectly relates to competence through the emphasis on continuous improvement and efficiency. However, it lacks a direct focus on skill development or the professional growth of team members, which are core aspects of the competence category. The discussion is more about processes and systems rather than the development of individual or team capabilities.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:26:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes, which aligns with some principles of the One Engineering System. However, it primarily focuses on Agile methodologies and automation rather than the specific integration and standardisation aspects of 1ES. The mention of CI/CD pipelines and automation is relevant but does not delve deeply into the broader framework of 1ES or its implementation challenges.",
+    "level": "Ignored"
   }
 }

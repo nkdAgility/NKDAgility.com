@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:14:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:01:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on fostering an agile mindset within development teams, discussing leadership, quality, and cultural aspects rather than the core principles of DevOps. While it touches on collaboration and continuous feedback, it lacks a direct focus on DevOps practices, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -247,11 +250,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:01:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses fostering an agile mindset and cultural aspects of agile practices, which are related to Continuous Delivery but do not explicitly focus on its principles or practices. While it touches on quality and feedback, it lacks direct references to Continuous Delivery techniques, automation, or specific tools that support the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -381,15 +387,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses professionalism and conflicting priorities within an Agile context, without focusing on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which do not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1153,12 +1150,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a chat about professionalism and conflicting priorities in relation to a Scrum Trainer, without clear discussion on the Agile Product Operating Model.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T21:01:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses fostering an agile mindset and the importance of quality in development teams, which aligns with some principles of the Agile Product Operating Model. However, it lacks direct references to the APOM framework, specific product management practices, or detailed discussions on transitioning from project to product ethos. The focus is more on cultural change and team dynamics rather than the operational model itself.",
+    "level": "Tertiary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1360,11 +1360,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T21:01:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a chat about professionalism and conflicting priorities, without discussing Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses fostering an agile mindset and cultural change within development teams, focusing on intrinsic motivation and leadership strategies. While it touches on quality and customer feedback, it lacks direct references to evidence-based management principles or metrics. The discussion is more about agile practices and cultural aspects rather than empirical decision-making or data-informed strategies, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1434,6 +1437,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of quality and feedback in agile development, which aligns with some principles of the Shift-Left Strategy. However, it primarily focuses on cultural aspects and mindset rather than explicitly integrating testing, security, or compliance earlier in the development process. The mention of practices like code reviews and continuous feedback hints at Shift-Left concepts but lacks depth in discussing how these practices are implemented early in the lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T21:01:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and continuous improvement in team effectiveness, particularly through strategies like retrospectives and feedback mechanisms. However, while it touches on key aspects of Continuous Improvement, such as quality and ownership, it does not explicitly frame these discussions within the broader context of Continuous Improvement principles or methodologies. The focus is more on cultural change and agile practices rather than a systematic approach to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T21:01:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and ownership within development teams, which aligns with the principles of Common Goals. However, it primarily focuses on cultural aspects and personal anecdotes rather than explicitly addressing shared objectives or strategic alignment. While it touches on the significance of quality and customer feedback, it lacks a direct discussion on how these elements connect to overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T21:01:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and continuous skill development, which aligns well with the principles of competence. It highlights strategies for promoting mastery and quality, and the role of leadership in creating a culture that values these aspects. However, while competence is a significant theme, the focus on cultural and motivational aspects slightly dilutes the primary emphasis on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:01:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses fostering an agile mindset and cultural change within development teams, which is tangentially related to the principles of the One Engineering System. However, it lacks direct mentions of 1ES, its components, or its implementation. The focus is more on agile methodologies rather than the integration and standardisation of engineering processes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

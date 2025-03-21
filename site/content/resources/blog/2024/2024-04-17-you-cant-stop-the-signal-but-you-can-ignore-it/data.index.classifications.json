@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T13:20:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:37:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Agile and Scrum frameworks, their implementation challenges, and cultural aspects within organizations, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on team dynamics and cultural challenges rather than Continuous Delivery specifically. While it touches on themes of continuous improvement and responsiveness, it does not delve into the principles or practices of Continuous Delivery, such as automation, incremental delivery, or rapid feedback mechanisms. The discussion is more about the challenges of implementing Agile rather than the delivery of software itself, leading to a low confidence score in alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1288,14 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T19:09:03",
+    "calculated_at": "2025-03-21T17:36:46",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on team dynamics and cultural challenges rather than DevOps principles. While it touches on concepts of continuous improvement and signals for action, it lacks direct references to DevOps practices, tools, or metrics, which are essential for a higher confidence score in this category.",
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, which are not directly aligned with the core principles of DevOps. While it touches on themes of continuous improvement and responsiveness, it lacks a direct focus on DevOps practices, such as automation, shared accountability, or the integration of quality and security early in the development lifecycle. The discussion is more centred on the challenges of implementing Agile and Scrum rather than on the collaborative and automated nature of DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1456,12 +1459,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:37:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of responding to signals within Agile and Scrum frameworks, which aligns with the principles of continuous improvement and organisational performance. However, it primarily focuses on cultural and philosophical aspects rather than empirical evidence or specific EBM practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on team dynamics and cultural challenges rather than directly addressing Evidence-Based Management principles. While it touches on the importance of responding to signals and continuous improvement, it lacks explicit references to empirical decision-making or the specific metrics outlined in the EBM category. The discussion is more about the challenges of implementing Agile rather than using evidence to inform management decisions.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1472,22 +1478,16 @@
     "reasoning": "Content heavily discusses Agile and Scrum frameworks without a direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T21:47:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum frameworks, focusing on team dynamics and cultural challenges rather than the principles or implementation of the One Engineering System (1ES).",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:37:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile and Scrum frameworks in the context of team dynamics and organizational culture, highlighting the importance of responding to signals and fostering a culture of continuous improvement, which aligns with the principles of the Agile Product Operating Model.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile and Scrum principles, focusing on continuous improvement and responsiveness to challenges within teams. However, it primarily addresses the cultural and philosophical aspects of Agile rather than the specific frameworks and practices of the Agile Product Operating Model. While there are relevant themes, such as the importance of a product-oriented mindset and the need for operational stability, the discussion lacks depth in terms of product management integration and specific APOM principles.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1563,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses Agile and Scrum frameworks, focusing on identifying and addressing issues within teams. However, it does not explicitly mention the Shift-Left Strategy or its principles. While it touches on the importance of early problem identification, it lacks a direct connection to integrating testing, security, or compliance earlier in the software development lifecycle, which is central to the Shift-Left concept. The discussion is more about cultural and organisational challenges rather than specific Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:36:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the importance of continuous improvement within the context of Agile and Scrum, highlighting the need for a culture that values responsiveness to signals and feedback. It draws parallels to Toyota's 'andon' chain, illustrating the systemic challenges in fostering a continuous improvement mindset. The depth of discussion is significant, as it explores barriers to effective implementation and the necessity of embedding continuous improvement into organisational culture, aligning well with the key topics of the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:36:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile and Scrum frameworks and their role in identifying challenges within teams, which aligns with the concept of Common Goals. However, it primarily focuses on the cultural and philosophical aspects of these frameworks rather than explicitly addressing shared objectives or strategic alignment. The mention of signals and the analogy with Toyota's 'andon' chain illustrates the importance of responsiveness to issues but does not delve deeply into how these relate to common goals or organisational performance. Therefore, while there is some alignment, the depth and direct mentions are limited.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:36:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile and Scrum in the context of identifying and addressing challenges within teams, which indirectly relates to competence. However, it primarily focuses on team dynamics and cultural barriers rather than explicitly addressing continuous learning or skill development. While it touches on the importance of fostering a culture that values responsiveness to signals, it lacks a detailed exploration of competence as a foundational principle, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:36:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on their challenges and cultural implications rather than the One Engineering System framework. While it touches on themes of continuous improvement and responsiveness, it does not explicitly mention or align with the principles of 1ES, nor does it provide depth on its components or implementation. The discussion is more about Agile practices than the integration and standardisation of engineering processes as defined by 1ES.",
     "level": "Ignored"
   }
 }

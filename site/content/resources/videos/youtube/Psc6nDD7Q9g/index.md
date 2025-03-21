@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Software Development
 - Operational Practices
+- Continuous Improvement
 - Transparency and Accountability
 - Practical Techniques and Tooling
 - Discovery and Learning
@@ -40,7 +41,6 @@ tags:
 - Lean
 - Pragmatic Thinking
 - Throughput
-- Transparency
 resourceTypes:
 - video
 categories:

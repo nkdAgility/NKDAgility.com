@@ -652,11 +652,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:15:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:32:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and governance, which are not directly related to Continuous Delivery. While it touches on Agile practices, it does not explore Continuous Delivery principles, automation, or the delivery of incremental improvements. The focus is on governance within Scrum rather than on the Continuous Delivery process itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -829,11 +832,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T05:15:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:32:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and governance, focusing on the balance between flexibility and compliance. While it touches on the importance of governance in Agile practices, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in empirical decision-making and metrics that are central to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1279,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:13:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, which are not central to DevOps principles.",
+    "calculated_at": "2025-03-21T18:32:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on Scrum and governance, discussing Agile methodologies rather than DevOps principles. While it briefly touches on the importance of compliance and governance, it does not delve into core DevOps themes such as automation, shared accountability, or continuous improvement. The mention of Agile practices does not align with the DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1465,14 +1474,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T21:19:37",
-    "ai_confidence": 42.0,
-    "ai_mentions": 3,
-    "ai_alignment": 2,
-    "ai_depth": 3,
+    "calculated_at": "2025-03-21T18:32:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses Scrum and its relationship with governance, which is relevant to Agile practices. However, it primarily focuses on governance rather than the broader Agile Product Operating Model. While it touches on aspects of Agile methodologies and their application in regulated environments, it lacks a comprehensive exploration of product-centric development, value delivery, and cross-functional teams, which are core themes of the Agile Product Operating Model.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Scrum and its relationship with governance, which is a specific agile framework rather than the broader Agile Product Operating Model. While it touches on themes of governance and compliance relevant to product development, it does not explicitly address the core principles or practices of the Agile Product Operating Model. The focus remains on Scrum, making it a secondary topic rather than a primary discussion on APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1491,15 +1500,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and governance, with no clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:05:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1542,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses governance in the context of Scrum but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on compliance and regulatory aspects, which are relevant to the Shift-Left approach, the primary focus is on governance within Scrum rather than integrating testing, security, or compliance earlier in the development lifecycle. The discussion lacks depth regarding the proactive identification of issues typical of Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T18:32:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses governance in Scrum, touching on the need for continuous evaluation and adaptation of policies, which aligns with Continuous Improvement principles. However, the primary focus is on governance rather than Continuous Improvement itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T18:32:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses governance in Scrum, which is tangentially related to Common Goals but does not explicitly address shared objectives or alignment within teams. While it touches on the importance of governance structures and their role in Agile practices, it lacks a direct focus on how these relate to common goals or strategic alignment. The discussion is more about governance than about aligning team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T18:32:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses governance in Scrum, touching on the importance of compliance and internal standards, which indirectly relates to competence. However, it primarily focuses on governance rather than the continuous development of skills or the core principles of competence. The depth of discussion on governance and its relationship to Agile practices is present, but it lacks a strong emphasis on competence as a primary theme.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:32:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and its governance aspects, which are not directly related to the One Engineering System framework. While it touches on the importance of governance in Agile practices, it does not discuss the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or methodologies. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   }
 }

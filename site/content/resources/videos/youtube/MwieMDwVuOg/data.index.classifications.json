@@ -170,15 +170,6 @@
     "reasoning": "Content discusses principles and frameworks of Agile scaling without personal anecdotes or individual experiences.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-20T18:24:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile frameworks and scaling rather than the One Engineering System principles or integration of tools and processes.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-20T18:24:51",
@@ -787,11 +778,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-20T18:24:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:42:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile scaling and frameworks rather than evidence-based management principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses scaling and value delivery, which aligns with some principles of Evidence-Based Management, particularly around the importance of delivering value and understanding constraints. However, it lacks direct references to empirical evidence or specific metrics that are central to EBM. The focus is more on agile methodologies and general scaling principles rather than a rigorous evidence-based approach.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1198,11 +1192,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-20T18:24:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T16:42:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses scaling Agile methodologies and frameworks, rather than focusing on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling and agile methodologies but does not explicitly mention Continuous Delivery or its principles. While there are themes of value delivery and organisational design, the focus is more on scaling strategies rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1425,6 +1422,54 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content discusses scaling and agile methodologies but does not explicitly mention the Shift-Left Strategy or its principles. It focuses on organisational growth and agility rather than integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:42:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses scaling and the importance of sustainability and value, which aligns with Continuous Improvement principles. However, it lacks direct mentions of Continuous Improvement practices and frameworks, focusing more on scaling strategies and NE agility. The depth of discussion on Continuous Improvement concepts is moderate, as it touches on reflection and the need for systemic change but does not delve deeply into specific Continuous Improvement techniques or case studies.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:42:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses scaling in the context of agility and the importance of aligning efforts for sustainable growth. However, it lacks explicit references to Common Goals as defined in the category, focusing more on the principles of NE agility and the need for coordination rather than shared objectives. While it touches on themes of value and alignment, it does not delve deeply into the specifics of how these relate to Common Goals within Agile or DevOps frameworks.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:42:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of building capability and understanding constraints in the context of scaling organisations, which aligns with the core themes of competence. However, while it touches on the need for sustainable growth and value delivery, it does not delve deeply into continuous learning or skill development, which are critical aspects of competence. The discussion is more focused on scaling strategies rather than explicitly addressing competence as a primary theme.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:42:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses scaling and agile methodologies but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of sustainability and value in scaling, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general agile practices rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

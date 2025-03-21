@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T23:07:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:25:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses product ownership and management within the context of Scrum, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, focusing on value delivery and iterative cycles. While it touches on concepts related to shorter delivery cycles, it does not explicitly address Continuous Delivery principles, practices, or automation in testing and deployment. The discussion is more centred on Agile methodologies rather than Continuous Delivery specifically, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -841,14 +844,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T18:37:07",
+    "calculated_at": "2025-03-21T17:25:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses product ownership and management within the context of Scrum, touching on the importance of value delivery and iterative cycles. However, it lacks a direct focus on Evidence-Based Management principles, such as empirical data application or specific metrics for decision-making. While it aligns with some themes of EBM, such as the need for adaptability and value orientation, it does not provide substantial evidence-based techniques or case studies, leading to a lower confidence score.",
+    "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, focusing on value delivery. While it touches on the importance of value and adapting to market changes, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management. The discussion is more about Agile practices than about using evidence to drive management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1484,15 +1487,6 @@
     "reasoning": "Content primarily discusses the roles and responsibilities of product ownership and product management within the context of Scrum, without a clear focus on the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:30:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities within Scrum, particularly focusing on product ownership and product management, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:17:20",
@@ -1569,6 +1563,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, focusing on value delivery and iterative cycles. While it touches on aspects of Agile methodologies, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core elements of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:24:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of product ownership and product management within the Scrum framework, highlighting the importance of value delivery and iterative cycles. However, it primarily focuses on clarifying misconceptions about these roles rather than explicitly addressing Continuous Improvement principles. While there are elements of adaptation and responsiveness to market changes, the discussion lacks a comprehensive exploration of Continuous Improvement techniques, empirical evidence, or case studies, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:24:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the roles of product ownership and product management within the Scrum framework, highlighting the importance of aligning these roles with the strategic goals of the organisation. While it does mention the need for alignment and value delivery, the primary focus is on clarifying the relationship between product ownership and management rather than explicitly discussing common goals as a central theme. The depth of discussion on common goals is limited, as it primarily revolves around the roles rather than techniques or frameworks for operationalising common goals.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:24:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the roles of product ownership and product management within the Scrum framework, touching on the importance of value delivery and adaptability. However, while it mentions aspects of competence indirectly, such as the need for effective product management and the accountability of the product owner, it does not explicitly focus on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The primary focus remains on clarifying roles rather than on fostering a culture of competence.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:25:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product ownership and product management within the Scrum framework, which is not directly related to the One Engineering System. While it touches on concepts of value delivery and iterative cycles, it does not address the integration or standardisation of engineering processes, nor does it provide insights into the principles or components of the 1ES framework.",
     "level": "Ignored"
   }
 }

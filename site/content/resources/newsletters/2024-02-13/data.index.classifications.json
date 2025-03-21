@@ -748,14 +748,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-14T19:39:20",
-    "ai_confidence": 68.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 70.0,
+    "calculated_at": "2025-03-21T17:47:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 30,
-    "final_score": 64.0,
-    "reasoning": "The content explicitly mentions Evidence Based Management (EBM) in the context of a training course, highlighting its focus on improving customer outcomes and organisational performance through data-driven approaches. This aligns well with the core themes of EBM, particularly in relation to continuous improvement and decision-making. However, the overall discussion is more promotional and less detailed in exploring the principles and practices of EBM, which slightly lowers the depth score.",
+    "final_score": 63.0,
+    "reasoning": "The content mentions Evidence Based Management (EBM) in the context of a training course, highlighting its focus on customer value and systematic improvement. However, the primary focus of the content is on promoting various Agile training classes rather than a deep exploration of EBM principles. While there is some alignment with EBM concepts, the overall depth and direct discussion of the category are limited.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -874,11 +874,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T18:23:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:47:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and training courses, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training and related courses, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or rapid feedback. The discussion is more about training offerings rather than the Continuous Delivery process itself.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -1321,11 +1324,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T18:20:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:46:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses Agile methodologies and training courses, with no clear focus on DevOps principles or practices.",
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on Agile training and methodologies, specifically Scrum and related courses. While there is a brief mention of DevOps in the author's credentials, the main discussion revolves around Agile practices, which do not align closely with the core principles of DevOps. The content lacks depth in discussing DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1475,23 +1481,17 @@
     "reasoning": "Content heavily discusses Agile methodologies and training courses without any direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:16:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile methodologies and training courses, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T17:47:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various Agile training courses and methodologies, which are relevant to the Agile Product Operating Model, but the primary focus is on training offerings rather than a comprehensive discussion of the model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on various Agile training courses, including PSPO, PSM, and Agile Kata, which are related to Agile practices but do not explicitly discuss the Agile Product Operating Model. While there are mentions of Evidence-Based Management and backlog management, these are presented in the context of training rather than a comprehensive discussion of the APOM framework. The content lacks a deep exploration of the core principles and themes of the Agile Product Operating Model, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1557,6 +1557,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile training courses and facilitation skills, with no explicit mention of the Shift-Left Strategy or its principles. While it discusses Agile methodologies, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy. The discussion lacks depth and relevance to the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:46:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content mentions Agile Kata and Evidence-Based Management, which are related to Continuous Improvement, but the primary focus is on promoting training courses rather than a deep discussion of Continuous Improvement principles. While there are references to overcoming challenges and improving outcomes, the overall depth and direct engagement with Continuous Improvement concepts are limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:46:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on promoting Agile training courses and does not explicitly discuss Common Goals. While it mentions overcoming challenges in agile transformations and guiding teams towards improving outcomes, these points are not deeply connected to the core themes of Common Goals. The discussion lacks a detailed exploration of how shared objectives align with strategy and execution within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:46:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses various Agile training courses that aim to enhance skills and capabilities, which aligns with the concept of competence. However, while it mentions skill development and continuous improvement, it lacks a deeper exploration of how these courses specifically foster a culture of competence or the impact on team trust and quality outcomes.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:47:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and specific courses related to Scrum and Agile methodologies, which are not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion does not address integration, standardisation, or the impact of a unified engineering system on software delivery.",
     "level": "Ignored"
   }
 }

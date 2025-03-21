@@ -643,11 +643,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:44:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:38:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically on setting Sprint goals, which is not directly related to Continuous Delivery. While it touches on aspects of team collaboration and planning, it lacks explicit discussions on Continuous Delivery principles, automation, or delivery techniques. The content does not provide depth or detail on Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -817,11 +820,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:45:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:39:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the process of deciding on a Sprint goal, without a focus on empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the process of setting a Sprint goal, with little emphasis on evidence-based management principles. While it touches on stakeholder engagement and alignment with organisational strategy, it lacks a strong connection to empirical decision-making or metrics that assess current value, time to market, or ability to innovate.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1261,11 +1267,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:42:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:38:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and the process of setting Sprint goals, which is not directly related to DevOps principles. While it touches on collaboration and teamwork, it lacks a comprehensive discussion on DevOps practices, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1441,15 +1450,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T23:49:44",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 25,
+    "calculated_at": "2025-03-21T19:38:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the process of setting a Sprint goal within the Scrum framework, which is a specific Agile methodology. While it touches on aspects of collaboration, stakeholder engagement, and alignment with organisational strategy, it does not explicitly address the broader Agile Product Operating Model or its principles. The focus is more on Scrum practices rather than a holistic view of product-centric development, which limits its alignment with the category.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the process of setting a Sprint goal. While it touches on collaboration and alignment with organisational strategy, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more aligned with Scrum methodology rather than the broader APOM framework, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1463,15 +1472,6 @@
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T22:59:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:59:52",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
@@ -1518,6 +1518,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the process of setting a Sprint goal within a Scrum framework, focusing on collaboration, stakeholder engagement, and planning. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around Agile practices rather than integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:38:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the process of setting a Sprint goal within Scrum, which is more about team collaboration and planning rather than Continuous Improvement. While it touches on aspects of alignment and communication that could relate to Continuous Improvement, it lacks a direct discussion on empirical evidence, measurable advancements, or a culture of experimentation. The depth of discussion is limited to the mechanics of goal setting rather than broader Continuous Improvement strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:38:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of the Sprint goal in Scrum, highlighting its role as a shared objective that aligns with the broader organisational strategy. It provides detailed insights into the collaborative process of crafting the Sprint goal, emphasising teamwork and stakeholder engagement, which are key aspects of Common Goals. The depth of discussion on aligning individual contributions with the overall mission of the organisation further supports its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:38:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the process of setting a Sprint goal in Scrum, which indirectly touches on aspects of competence, such as teamwork and collaboration. However, it primarily focuses on the mechanics of goal setting rather than on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion lacks depth in exploring how competence impacts decision-making or quality outcomes, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:38:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically on setting Sprint goals, which is not aligned with the One Engineering System framework. While it touches on collaboration and team dynamics, it does not discuss the principles, components, or implementation of 1ES, nor does it provide insights into integrating tools and processes across teams.",
     "level": "Ignored"
   }
 }

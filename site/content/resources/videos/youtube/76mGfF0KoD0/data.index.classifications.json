@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:20:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:09:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing the role of a Scrum Master and the use of Agile Process Simulation workshops. While it briefly mentions DevOps in the conclusion, it does not delve into the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion is more centred on Scrum practices rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -265,11 +268,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:09:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and Agile Process Simulation workshops, which are not directly related to Continuous Delivery principles. While there are mentions of collaboration and team dynamics, these concepts do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The focus is on Agile practices rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -408,15 +414,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without referencing the One Engineering System framework or its integration and standardisation principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1255,11 +1252,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:09:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on the role and challenges of a Scrum Master and suggests Agile process simulation workshops, but does not address the Agile Product Operating Model or product-centric development.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and Agile Process Simulation workshops, which are more focused on Scrum practices rather than the broader Agile Product Operating Model. While there are elements of collaboration and team dynamics that align with agile principles, the content does not explicitly address the core themes of the Agile Product Operating Model, such as product management integration or continuous delivery. Therefore, the confidence score reflects a low primary focus on the specified category.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1465,11 +1465,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:09:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and Agile methodologies rather than focusing on Evidence-Based Management principles, practices, or empirical data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the use of Agile Process Simulation workshops, which are more focused on Agile practices rather than Evidence-Based Management. While there are some elements of decision-making and team dynamics that could relate to EBM, the discussion lacks explicit references to empirical evidence or metrics that are central to EBM. The content does not provide a detailed exploration of the key topics outlined in the EBM definition, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1539,6 +1542,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and Agile Process Simulation workshops, focusing on team dynamics and collaboration rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on Agile principles, it does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:09:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the potential benefits of an Agile Process Simulation workshop, which indirectly relates to Continuous Improvement. However, it primarily focuses on team dynamics and conflict resolution rather than the broader principles of Continuous Improvement. While there are elements of fostering collaboration and understanding, the discussion lacks depth in terms of empirical evidence, structured strategies, or specific Continuous Improvement frameworks.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:09:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and the dynamics within a team, which are relevant to Agile practices but do not explicitly focus on Common Goals. While it touches on collaboration and team empowerment, it lacks a direct discussion on aligning strategy with execution or shared objectives that guide decision-making. The depth of discussion on the Scrum Master's role and the APS workshop is significant, but it does not sufficiently connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:09:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of collaboration and understanding within a team, which touches on competence. However, it primarily focuses on team dynamics and the effectiveness of the Scrum Master rather than explicitly addressing continuous learning or skill development. The depth of discussion on competence is limited, as it does not delve into strategies for fostering a culture of competence or methods for inspecting and adapting competence over time.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:09:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, discussing the role of a Scrum Master and the use of Agile Process Simulation workshops. It does not directly address the One Engineering System framework or its principles, components, or implementation. While there are mentions of collaboration and team dynamics, these are framed within the context of Scrum rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }

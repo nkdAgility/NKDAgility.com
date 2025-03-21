@@ -658,11 +658,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T22:40:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:56:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, focusing on rituals and organisational behaviour, without addressing Continuous Delivery concepts.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles and practices, focusing on the importance of delivering value and adapting to change. While it touches on automation and continuous improvement, it does not explicitly address Continuous Delivery as a primary focus. The discussion lacks depth in Continuous Delivery practices and does not provide specific strategies or tools related to this category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -832,11 +835,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T22:41:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile practices and the importance of belief in processes rather than empirical evidence or data-driven decision-making.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value, but it primarily focuses on rituals and processes rather than empirical evidence or metrics. While it touches on the need for outcomes and adapting to change, it lacks a strong emphasis on data-informed decision-making and the specific metrics outlined in Evidence-Based Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1285,11 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T22:38:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, focusing on rituals and processes, without addressing DevOps concepts or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their principles, focusing on the importance of delivering value and adapting to change. While there are some overlaps with DevOps concepts, such as continuous improvement and the need for human judgment in automated processes, the main focus is on Agile rather than DevOps. The discussion lacks direct mentions of DevOps practices, principles, or cultural shifts, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1465,14 +1474,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T20:03:05",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T17:56:04",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Agile principles and the importance of delivering value, which aligns with the Agile Product Operating Model. However, it primarily critiques the mechanical application of Agile rituals rather than focusing on the product-centric approach and strategies for value delivery. While it touches on key themes like adaptability and outcomes, it lacks detailed exploration of cross-functional teams, continuous feedback, and specific metrics for product success.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value, which aligns with the Agile Product Operating Model. However, it primarily focuses on the critique of Agile rituals rather than a comprehensive exploration of the APOM framework. While it touches on product delivery and adapting to change, it lacks detailed discussion on key APOM topics such as governance, operational stability, and the integration of Scrum with product management practices.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1498,15 +1507,6 @@
     "final_score": 65.0,
     "reasoning": "The content discusses Agile principles, focusing on delivering value and adapting to change, which aligns with the core themes of Social Technologies. However, it primarily centres on Agile rituals and practices rather than explicitly addressing collaboration, decision-making, or value delivery frameworks. The depth of discussion on social technologies is limited, as it does not explore specific methodologies or tools that promote collaboration or collective intelligence.",
     "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their implementation, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1548,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Agile principles and practices, focusing on rituals and the importance of delivering value rather than explicitly addressing the Shift-Left Strategy. While there are mentions of adapting processes and improving outcomes, these concepts do not directly relate to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:55:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of moving beyond Agile rituals and emphasises the need for reflection and adaptation, which aligns with Continuous Improvement principles. However, while it touches on these themes, the primary focus is on Agile methodologies rather than a dedicated exploration of Continuous Improvement itself. The depth of discussion on Continuous Improvement concepts is moderate, but it lacks extensive detail on specific strategies or tools related to Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:55:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value, but it primarily focuses on the critique of rituals rather than establishing or aligning with common goals. While it touches on the need for teams to understand their objectives, it lacks a detailed exploration of how common goals specifically guide decision-making or connect individual contributions to the organisation's mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:55:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding Agile beyond rituals, which aligns with the concept of competence in fostering genuine progress and continuous improvement. It mentions the need for belief in Agile practices and the role of human judgment in complex systems, which ties into the idea of skill development and maintaining quality outcomes. However, while competence is a theme, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and critiques the mechanical application of Agile rituals. It does not focus on the One Engineering System framework, its principles, or its integration across teams. While there are mentions of processes and adaptability, these are not aligned with the specific themes of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -38,9 +38,9 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Agile Project Management
+- Competence
 - Team Collaboration
 - Scrum Team
-- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

@@ -601,14 +601,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-03-21T16:39:32",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses the Kanban methodology and the pitfalls of measuring individual cycle time, which is more aligned with workflow optimisation than Continuous Delivery principles. While it touches on aspects of system efficiency and flow, it does not explicitly address Continuous Delivery practices, automation, or deployment strategies, leading to a low confidence score.",
+    "reasoning": "The content primarily discusses Kanban and the importance of optimising workflow rather than focusing on individual productivity. While it touches on concepts related to flow and efficiency, it does not explicitly address Continuous Delivery principles or practices. The discussion is more aligned with general process improvement and team dynamics rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Software Developers": {
@@ -985,14 +985,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-04T12:48:58",
+    "calculated_at": "2025-03-21T16:39:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
     "final_score": 56.0,
-    "reasoning": "The content discusses the importance of measuring system flow over individual productivity, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on Kanban practices and does not explicitly mention EBM or empirical evidence in decision-making processes. While it touches on metrics and systemic improvement, it lacks a comprehensive exploration of EBM principles, resulting in a moderate confidence score.",
+    "reasoning": "The content discusses the importance of optimising system flow over individual metrics, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on Kanban practices and does not explicitly mention EBM or its key topics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1631,18 +1631,6 @@
     "reasoning": "The content primarily discusses the importance of optimising system flow over individual productivity, which aligns well with the principles of value delivery. It highlights the significance of measuring metrics that enhance overall system efficiency, such as Process Cycle Efficiency and customer lead time, which are crucial for delivering value to customers. The depth of discussion on systemic improvements and the negative impacts of focusing on individual metrics further supports its relevance to the category. However, while it touches on value delivery concepts, it does not explicitly frame them within Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses Kanban and individual cycle time metrics, which are not directly related to the One Engineering System (1ES). While it touches on system optimisation and flow, it lacks explicit references to 1ES principles, components, or its implementation. The focus is more on individual productivity versus system efficiency, which diverges from the core themes of 1ES.",
-    "level": "Ignored"
-  },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1869,6 +1857,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the importance of optimising workflow and system efficiency in Kanban, focusing on individual cycle time metrics and their impact on team dynamics. While it touches on concepts relevant to improving processes, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with general process improvement rather than the proactive integration of testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T16:39:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of optimising system flow over individual productivity, which aligns with Continuous Improvement principles. It highlights the need for data-driven decision-making and the impact of measuring the right metrics on team effectiveness. However, while it touches on Continuous Improvement concepts, it primarily focuses on Kanban practices rather than a broader discussion of Continuous Improvement strategies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T16:39:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the pitfalls of measuring individual cycle time in Kanban and emphasises the importance of optimising the entire system rather than focusing on individual performance. While it touches on concepts related to team collaboration and systemic improvement, it does not explicitly address the foundational principles of Common Goals in Agile and DevOps. The discussion lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T16:39:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of optimising systems over individual performance, which indirectly relates to competence by highlighting the need for proper training and support. However, the primary focus is on flow and process efficiency rather than on continuous skill development or the role of competence in delivering quality outcomes.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:39:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Kanban and individual cycle time metrics, which are not directly related to the One Engineering System framework. While it touches on concepts of system flow and efficiency, it does not explicitly mention 1ES or its principles, nor does it provide depth on the integration of tools and processes across teams as required by the category. The focus is more on individual productivity versus system optimisation, which deviates from the core themes of 1ES.",
     "level": "Ignored"
   }
 }

@@ -670,11 +670,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:03:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:12:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile approaches and business agility but does not explicitly mention Continuous Delivery or its principles. While there is a focus on improving responsiveness and competitiveness, which are relevant to Continuous Delivery, the discussion lacks depth in terms of specific practices, tools, or case studies related to Continuous Delivery. The primary focus is on agile methodologies rather than the delivery aspect, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -844,14 +847,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-13T14:59:41",
-    "ai_confidence": 68.0,
+    "calculated_at": "2025-03-21T17:12:47",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of agile approaches and evidence-based portfolio management in achieving better business outcomes, which aligns with the principles of Evidence-Based Management. However, it lacks explicit references to key concepts such as metrics, KPIs, or detailed techniques for measuring performance. The discussion is somewhat superficial, focusing more on the need for agile practices rather than providing in-depth insights into EBM principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses evidence-based portfolio management, which aligns with the principles of Evidence-Based Management by focusing on improving business agility and responsiveness. However, it does not delve deeply into specific metrics or empirical decision-making processes, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1487,15 +1490,6 @@
     "reasoning": "The content discusses agile approaches and the need for organisational change towards improved responsiveness, which aligns with the principles of BetaCodex, but it primarily focuses on agile practices rather than a deep exploration of BetaCodex itself.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:08:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and their impact on business agility, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:13:01",
@@ -1572,6 +1566,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses agile approaches and business agility, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on the need for responsiveness and improvement in management practices, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:12:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the need for organisations to improve their responsiveness and competitiveness through agile approaches, which aligns with the principles of Continuous Improvement. However, it primarily focuses on evidence-based portfolio management rather than directly addressing Continuous Improvement practices or methodologies. The mention of agile principles suggests a connection, but the depth of discussion on Continuous Improvement itself is moderate, leading to a confidence score that reflects a significant but not primary focus on the category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:12:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of agile approaches for improving responsiveness and competitiveness, which aligns with the concept of Common Goals in terms of organisational objectives. However, it lacks direct mentions of specific Common Goals or frameworks like OKRs, and the depth of discussion on aligning strategy with execution is limited. Overall, while it touches on relevant themes, it does not provide a comprehensive exploration of Common Goals.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:12:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the need for agile approaches to enhance business agility and responsiveness, which indirectly relates to competence. However, it lacks direct mentions of continuous learning, skill development, or the role of competence in delivering quality outcomes. The focus is more on organisational agility rather than individual or team competence, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:12:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses agile approaches and business agility but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on improving responsiveness and competitiveness, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about agile practices at a broader organisational level rather than the specific framework of 1ES.",
     "level": "Ignored"
   }
 }

@@ -36,8 +36,8 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Pragmatic Thinking
-- Agile Product Operating Model
 - Increment
+- Continuous Improvement
 - Empirical Process Control
 resourceTypes:
 - video

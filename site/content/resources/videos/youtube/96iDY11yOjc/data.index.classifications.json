@@ -646,11 +646,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T10:12:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between average and great Agile developers, focusing on learning, engagement, and training rather than Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:37:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the qualities and practices of Agile developers, emphasising continuous learning and self-improvement rather than the specific principles and practices of Continuous Delivery. While it touches on themes of engagement and iterative improvement, it lacks direct references to Continuous Delivery concepts such as automation, rapid feedback, or deployment strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -820,11 +823,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:13:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between average and great Agile developers, focusing on personal development and engagement rather than empirical evidence or management practices.",
+    "calculated_at": "2025-03-21T19:37:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal development and engagement in Agile practices rather than on Evidence-Based Management principles. While it touches on continuous learning and self-directed learning, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making that are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1282,11 +1288,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:10:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the differences between average and great Agile developers, focusing on learning, engagement, and training rather than DevOps principles or practices.",
+    "calculated_at": "2025-03-21T19:37:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the journey of becoming a great Agile developer, discussing concepts like self-directed learning and engagement, which are more aligned with Agile methodologies than DevOps principles. While there are elements of continuous improvement and learning, the discussion lacks a direct focus on DevOps practices, such as collaboration between development and operations, automation, or shared accountability. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1471,12 +1480,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:50:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the qualities of great Agile developers and the importance of continuous learning and engagement, which are relevant to the Agile Product Operating Model. However, it primarily focuses on individual developer skills rather than the broader organisational framework or principles of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T19:37:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the qualities of a great Agile developer and emphasises continuous learning and engagement, which are relevant to agile practices. However, it lacks a direct focus on the Agile Product Operating Model and does not delve into product management principles or the operational aspects of APOM. The discussion is more about individual developer skills rather than the broader organisational framework of APOM.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1494,15 +1506,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile development and personal development of developers, without a clear focus on platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:50:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the differences between average and great Agile developers, focusing on personal development and learning rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
@@ -1545,6 +1548,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the qualities of great Agile developers and their learning journeys, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on continuous learning and engagement, these themes do not directly align with integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T19:37:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of continuous learning and adaptation, which aligns with the principles of Continuous Improvement. However, it primarily focuses on personal development and engagement rather than systematic processes or organisational strategies. While it mentions concepts like self-directed learning and practice, it lacks detailed exploration of frameworks or empirical evidence typically associated with Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T19:37:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on personal development and the journey of becoming a great Agile developer, rather than discussing shared objectives or alignment within teams. While it touches on concepts like self-directed learning and engagement, it lacks a direct connection to the principles of Common Goals in Agile and DevOps, making it more of a motivational piece than a discussion on strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T19:37:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of continuous learning, self-investment, and practice, which are core aspects of competence. It highlights the distinction between average and great Agile developers, focusing on engagement and the journey of learning and adaptation. The depth of discussion on fostering a culture of self-directed learning and innovative training methods further supports its alignment with the competence category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:37:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal development and methodologies related to Agile practices, without discussing the One Engineering System framework or its principles. It lacks direct mentions of 1ES and does not explore integration or standardisation of engineering processes, which are core to the category.",
     "level": "Ignored"
   }
 }

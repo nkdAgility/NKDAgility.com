@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:10:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:01:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and Agile principles, without a focus on DevOps practices or principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing teaching as a critical skill. While Agile practices can intersect with DevOps principles, the content does not explicitly mention DevOps or its core themes, such as collaboration, automation, or shared accountability. The discussion is centred around Scrum, which is a specific framework rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -253,11 +256,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:02:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and teaching within Agile frameworks, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile practices. While it touches on Agile principles, it does not discuss Continuous Delivery, its practices, or its benefits. The mention of Agile does not align with the specific focus on Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -399,15 +405,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content focuses primarily on the role of a Scrum Master, teaching, and Agile principles, with no direct connection to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and emphasizes teaching within the Scrum framework, which does not align with the One Engineering System concepts.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -1243,14 +1240,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-15T00:36:41",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T20:02:06",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of teaching within that role. While it touches on Agile principles and transformation, it does not explicitly focus on the Agile Product Operating Model or its key topics. The discussion is more about Scrum practices rather than a comprehensive exploration of the product-centric approach, which limits its alignment with the category.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on Agile principles, it does not explicitly discuss the Agile Product Operating Model or its core themes. The discussion is more about Scrum practices rather than the broader product-oriented mindset and operational aspects of APOM.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
@@ -1465,11 +1462,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T20:02:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the teaching role of a Scrum Master and aspects of Agile transformation, but does not focus on Evidence-Based Management principles or the use of empirical evidence in management.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on aspects of Agile transformation, it does not explicitly discuss Evidence-Based Management or its key topics. The discussion lacks empirical evidence or metrics that are central to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1539,6 +1539,54 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile practices. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. The mention of Agile transformation is too general and does not specifically relate to integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T20:01:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of teaching in the context of a Scrum Master, which indirectly relates to Continuous Improvement through the lens of fostering understanding and engagement in Agile practices. However, it lacks a direct focus on Continuous Improvement principles, empirical evidence, or specific strategies for integrating these practices into organisational processes. The discussion is more centred on the teaching aspect rather than on continuous improvement methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:01:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the teaching role of a Scrum Master rather than discussing Common Goals directly. While it touches on the importance of understanding the 'why' behind Agile principles, it lacks explicit discussions on shared objectives or alignment within teams, which are central to the Common Goals category. The content does not delve deeply into how these teaching skills connect to broader organisational goals or frameworks like OKRs, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T20:01:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the critical skill of teaching for Scrum Masters, which aligns with the concept of competence in Agile environments. It highlights the importance of understanding and effectively communicating the 'why' behind Agile principles, fostering a culture of learning and capability development. The depth of discussion on teaching as a means to drive change and enhance team understanding contributes significantly to the overall competence theme.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:02:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile methodologies, which does not directly address the principles or components of the One Engineering System. While it touches on Agile practices, it lacks a clear connection to the integration and standardisation of engineering processes that 1ES emphasises.",
     "level": "Ignored"
   }
 }

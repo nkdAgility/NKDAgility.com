@@ -661,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:16:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:09:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum practices and the implications of batch size on flow, rather than Continuous Delivery principles or methodologies.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses breaking down large Backlog Items into smaller pieces, which aligns with the principles of Continuous Delivery by promoting incremental improvements. However, it primarily focuses on a workshop format and Scrum practices rather than explicitly addressing Continuous Delivery as a primary topic. The mention of flow and batch size is relevant but does not delve deeply into Continuous Delivery principles or practices, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -838,11 +841,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:16:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:09:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on optimising flow through batch processing in a workshop setting, without a clear emphasis on evidence-based management principles or empirical data application.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop about optimising flow through batch processing, which is more aligned with Agile practices than with Evidence-Based Management. While it touches on concepts like delivery and flow, it lacks explicit discussions on empirical evidence or metrics that are central to EBM. The depth of discussion is limited to practical exercises without a strong connection to data-informed decision-making or the key topics outlined in the EBM definition.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1496,15 +1502,6 @@
     "reasoning": "Content primarily discusses workshop facilitation techniques related to Scrum and batch processing, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:10:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum practices and batch processing rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-03-21T11:11:12",
@@ -1578,6 +1575,54 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces to optimise flow, which is somewhat related to the Shift-Left Strategy in terms of improving processes early in development. However, it primarily focuses on batch size and flow rather than explicitly addressing testing, security, or compliance integration, which are core aspects of the Shift-Left Strategy. The discussion lacks depth in terms of specific Shift-Left practices or metrics, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-21T17:08:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses optimising flow through breaking down large Backlog Items into smaller pieces, which aligns with Continuous Improvement principles. It mentions the impact of batch size on delivery and flow, indicating a focus on incremental enhancements. However, while it touches on relevant concepts, it lacks a comprehensive exploration of Continuous Improvement strategies and empirical evidence, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T17:08:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical aspects of optimising flow through batch processing in a workshop setting. While it touches on concepts relevant to Agile practices, such as Scrum and team dynamics, it does not explicitly discuss the alignment of common goals or shared objectives that guide decision-making. The mention of smaller batches improving flow hints at a connection to organisational performance, but it lacks a thorough exploration of how these practices relate to overarching strategic goals or frameworks like OKRs. Therefore, the content is only tangentially related to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-03-21T17:08:56",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a workshop designed to optimise flow through batch processing, which indirectly relates to competence by emphasising the importance of breaking down tasks for better delivery. However, it lacks direct discussions on continuous learning, skill development, or the role of competence in maintaining trust and quality within teams. The depth of discussion on competence is minimal, as it does not explore strategies for fostering a culture of competence or methods for inspecting and adapting competence over time.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:08:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a workshop about optimising flow through batch processing, which is related to Agile methodologies like Scrum. While it touches on concepts of delivery and efficiency, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about practical exercises rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   }
 }
