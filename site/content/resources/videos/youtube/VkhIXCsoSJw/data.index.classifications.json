@@ -1267,14 +1267,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:24:21",
+    "calculated_at": "2025-03-21T10:37:25",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
     "final_score": 83.0,
-    "reasoning": "The content extensively discusses automation, continuous delivery, and the transformation of development processes, which are core principles of DevOps. It provides detailed examples from the Azure DevOps team, illustrating the impact of automation on deployment frequency and team confidence. The discussion on reducing cycle time and improving testing infrastructure aligns well with DevOps practices. The depth of the content is significant, covering both technical and cultural aspects of DevOps implementation.",
+    "reasoning": "The content primarily focuses on automation within the development process, which is a key principle of DevOps. It discusses automated testing, deployment, and validation, all of which align with the DevOps ethos of continuous delivery and shared accountability. The mention of the Azure DevOps team further reinforces the connection to DevOps practices. However, while the content is rich in detail about automation, it does not extensively cover other core DevOps themes such as collaboration, cultural shifts, or the integration of quality and security practices early in the development lifecycle, which slightly limits its overall alignment.",
     "level": "Primary"
   },
   "People and Process": {
@@ -1510,12 +1510,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:57:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation and continuous delivery in the context of product development, which aligns with Agile principles, but it primarily focuses on technical practices rather than a holistic view of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T10:37:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in the development process, which is relevant to agile practices but does not explicitly focus on the Agile Product Operating Model. While it touches on themes like continuous delivery and iterative processes, it lacks a direct connection to the core principles of APOM, such as product management integration and operational governance.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

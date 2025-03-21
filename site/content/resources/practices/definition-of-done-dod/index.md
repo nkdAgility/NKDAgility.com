@@ -41,6 +41,7 @@ card:
 categories:
 - Scrum
 - Engineering Excellence
+- DevOps
 tags:
 - Increment
 - Transparency

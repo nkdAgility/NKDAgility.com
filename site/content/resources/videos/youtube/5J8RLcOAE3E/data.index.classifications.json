@@ -1273,15 +1273,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:23:47",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-21T10:36:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content extensively discusses continuous delivery, audience-based deployment strategies, and the importance of collaboration and quality in production, which are core principles of DevOps. It also touches on the cultural shifts needed for successful implementation and the philosophy of finding and fixing issues in production, aligning well with DevOps practices. The depth of discussion is significant, providing detailed examples and insights into the complexities of modern software delivery, thus justifying a high confidence score.",
-    "level": "Primary"
+    "final_score": 75.0,
+    "reasoning": "The content discusses continuous delivery, audience-based strategies, and the importance of testing in production, all of which align closely with DevOps principles. It emphasises collaboration, continuous improvement, and adapting practices to complex environments, which are core themes of DevOps. However, while it touches on these topics, it does not delve deeply into the cultural shifts or shared accountability aspects of DevOps, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1519,15 +1519,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T16:32:36",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-21T10:37:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses continuous delivery and practices that enhance collaboration and quality, which are relevant to Agile principles. However, it lacks a direct focus on the Agile Product Operating Model itself, as it primarily addresses continuous delivery strategies without explicitly linking them to product-centric development or the broader Agile framework. The mention of cross-functional collaboration aligns with Agile concepts, but the overall depth and direct references to the Agile Product Operating Model are limited.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous delivery and practices that enhance it, which are relevant to agile methodologies. However, it does not explicitly mention the Agile Product Operating Model or its core principles. The focus is more on general continuous delivery strategies rather than a product-oriented mindset or the integration of agile with product management. Therefore, while there is some conceptual alignment, the lack of direct mentions and depth regarding the Agile Product Operating Model limits the overall confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

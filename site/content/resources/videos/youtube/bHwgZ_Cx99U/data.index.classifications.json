@@ -10,15 +10,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T16:19:34",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T10:34:54",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the challenges of scaling teams and the importance of alignment and collaboration, which are relevant to DevOps principles. However, it lacks direct mentions of DevOps practices, tools, or metrics, and does not delve deeply into automation or CI/CD processes. The focus is more on team dynamics and organisational structure rather than specific DevOps methodologies.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of scaling teams and emphasises the importance of collaboration and minimising friction, which aligns with DevOps principles. However, it does not explicitly mention DevOps or its core practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -205,12 +205,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-25T12:16:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:34:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling teams and improving delivery, which aligns with Agile principles, but it primarily focuses on team dynamics and operational efficiency rather than the Agile Product Operating Model specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses scaling teams and the challenges associated with it, which touches on agile principles. However, it lacks a direct focus on the Agile Product Operating Model specifically, as it primarily addresses team dynamics and coordination rather than product management practices or the core principles of APOM. The discussion is relevant but does not delve deeply into the specific aspects of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",

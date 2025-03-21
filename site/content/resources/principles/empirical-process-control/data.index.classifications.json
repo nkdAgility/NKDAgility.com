@@ -1240,11 +1240,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T21:06:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:13:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Scrum, which is a framework that does not align with the core principles of DevOps. While it mentions transparency and adaptation, these concepts are not exclusive to DevOps and are more relevant to Agile methodologies. The focus on Scrum roles and processes detracts from a direct discussion of DevOps principles.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1432,11 +1435,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T17:27:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:13:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the principles of empirical process control within Scrum, which is a component of agile methodologies. However, it does not explicitly address the Agile Product Operating Model or its core themes such as product management principles, transitioning to a product ethos, or operational stability in product delivery. The focus is more on Scrum practices rather than the broader APOM framework, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {

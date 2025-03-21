@@ -1303,11 +1303,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T00:41:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:16:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product development, assumptions, and the importance of collaboration and learning, without a clear focus on DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on product development and the importance of addressing assumptions rather than discussing DevOps principles or practices. While it touches on collaboration and continuous improvement, these concepts are not explicitly tied to DevOps, and the overall emphasis is on product management rather than the integration of development and operations.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1492,12 +1495,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:28:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:16:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product development and the importance of understanding user needs, assumptions, and collaboration, which are relevant to the Agile Product Operating Model, but it primarily focuses on a specific course rather than the model itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of addressing assumptions in product development, which aligns with the principles of the Agile Product Operating Model. It emphasises a shift from mere delivery to understanding user needs, which is a core theme of APOM. However, while it touches on agile concepts, it does not explicitly mention the Agile Product Operating Model or its specific principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:02:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:22:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Master and Product Owner course, focusing on Scrum roles, principles, and practices, which are central to the category of Social Technologies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Professional Scrum Master and Product Owner course, which focuses on enhancing collaboration and shared understanding within Scrum teams. While it mentions collaboration and the importance of roles, it does not deeply explore the broader themes of social technologies such as self-organisation, transparency, or collective intelligence. The discussion is primarily centred on training and certification rather than the underlying social frameworks that drive effective collaboration and decision-making in organisations.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:02:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:22:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum roles and training, which is not central to DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and roles, which are methodologies distinct from the DevOps philosophy. While there is a mention of collaboration, it does not delve into the core principles of DevOps such as automation, shared accountability, or continuous improvement. The discussion is centred around Scrum practices rather than the broader DevOps concepts.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -586,12 +592,12 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:43:19",
+    "calculated_at": "2025-03-21T11:21:56",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "Content primarily focuses on Scrum Master and Product Owner roles and training, which is more about team-level practices rather than scaling agility across an organization.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:43:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters and Product Owners in a Scrum environment, emphasizing the importance of product management and value-driven development, which aligns with the principles of the Agile Product Operating Model.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T11:22:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master and Product Owner roles, which are specific to Scrum rather than the broader Agile Product Operating Model. While it mentions collaboration and training for Scrum teams, it does not explicitly discuss the principles or frameworks of the Agile Product Operating Model. The discussion lacks depth in terms of product management practices and does not address key topics such as operational stability, governance, or evidence-based management, which are central to the APOM.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:43:19",
-    "ai_confidence": 100,
+    "calculated_at": "2025-03-21T11:21:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 95.0,
-    "reasoning": "The content primarily discusses a Scrum training course for Scrum Masters and Product Owners, detailing the objectives, topics covered, and structure of the course, which are all central to the Scrum framework.",
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master and Product Owner course, which directly discusses Scrum roles and their importance in team synergy. It explicitly mentions the Scrum Master and Product Owner accountabilities, aligning well with the core themes of the Scrum framework. The depth of discussion is significant, detailing the course structure and benefits of combined training, which enhances understanding of Scrum principles. Overall, the content is highly relevant to the Scrum category.",
     "level": "Primary"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum roles and training for Scrum Masters and Product Owners, with no clear focus on Lean Startup principles such as MVP, Build-Measure-Learn, or validated learning. It centers on Scrum methodology rather than Lean Startup concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:22:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and does not mention Artificial Intelligence or its application within Agile methodologies or DevOps practices. While it discusses team collaboration and training, it lacks any direct references to AI, its integration, or its impact on decision-making and automation in these contexts.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:22:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and training for Scrum Masters and Product Owners, with no direct mention or discussion of Internal Developer Platforms. It does not align with the core themes of IDPs, such as streamlining development processes or automation in software delivery. The depth of discussion is also minimal, as it revolves around Scrum practices rather than the IDP framework.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:22:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum training and the roles of Scrum Masters and Product Owners, with no direct mention or discussion of the Shift-Left Strategy. While it touches on collaboration within teams, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

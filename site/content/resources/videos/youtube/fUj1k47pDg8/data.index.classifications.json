@@ -1303,11 +1303,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:20:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:16:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product development, assumptions, and the feature factory problem, with no clear focus on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product development and the importance of understanding user needs, which is not directly aligned with DevOps principles. While it touches on collaboration and experimentation, these concepts are framed within the context of product management rather than the broader DevOps philosophy. The discussion lacks explicit references to DevOps practices, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1495,12 +1498,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:25:23",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-21T11:16:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses product development, assumptions, and the importance of understanding user needs, which aligns with the Agile Product Operating Model. However, it primarily focuses on the feature factory problem and learning processes rather than a comprehensive exploration of the Agile Product Operating Model itself.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses product development and the importance of understanding user needs, which aligns with the Agile Product Operating Model's focus on customer-centric value. However, it primarily addresses assumptions and challenges in product development rather than explicitly discussing the principles or frameworks of APOM. The depth of discussion on APOM-related topics is limited, focusing more on general product development practices.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",

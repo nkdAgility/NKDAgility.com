@@ -13,10 +13,12 @@
     {{ $RelPathMarkdown := printf "{{< ref \"%s\" >}}" .Path }}
     <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ $RelPathMarkdown }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy RelPath Markdown:&#10;&#10;{{ $RelPathMarkdown }}">RelPath Markdown <i class="fa-regular fa-clipboard"></i></button>
     <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Path }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy RelPath:&#10;&#10;{{ .Path }}">RelPath Solo <i class="fa-regular fa-clipboard"></i></button>
-    <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Params.ResourceId }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy ResourceId:&#10;&#10;{{ .Params.ResourceId }}">ResourceId <i class="fa-regular fa-clipboard"></i></button>
+    {{ if eq .Type "resources" }}
+      <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Params.ResourceId }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy ResourceId:&#10;&#10;{{ .Params.ResourceId }}">ResourceId <i class="fa-regular fa-clipboard"></i></button>
+    {{ end }}
     <hr />
     <strong>External</strong>
-    <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ $url }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy URL:&#10;&#10;'https://nkdagility.com/resources/{{ .Params.ResourceId }}'">Permalink <i class="fa-regular fa-clipboard"></i></button>
+    <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ $url }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy URL:&#10;&#10;'{{ $url }}'">Permalink <i class="fa-regular fa-clipboard"></i></button>
     <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Summary }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy summery:&#10;&#10;{{ .Summary }}">Summary <i class="fa-regular fa-clipboard"></i></button>
     <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Description }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Description:&#10;&#10;{{ .Description }}'">Description <i class="fa-regular fa-clipboard"></i></button>
     {{ $keywords := partial "functions/keywords.html" . }}

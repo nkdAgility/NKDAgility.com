@@ -1267,14 +1267,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T17:05:16",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T10:39:22",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses Agile methodologies and the unpredictability of software development, with only brief mentions of continuous delivery and feedback, which are relevant to DevOps. However, it lacks a focused discussion on DevOps principles, practices, or tools, leading to a moderate confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile principles and technical leadership in software development, which are not strictly aligned with the core principles of DevOps. While there are mentions of continuous delivery and feedback, the focus remains on Agile methodologies rather than the broader DevOps philosophy. The depth of discussion on Agile concepts is significant, but it does not delve into the shared accountability or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -1507,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:00:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:39:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and their impact on software development, but it primarily focuses on unpredictability in project management rather than a comprehensive exploration of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and their application in software development, which aligns with the Agile Product Operating Model. However, it primarily focuses on general Agile practices and technical leadership rather than the specific framework of APOM. While it mentions iterative development and continuous delivery, it lacks a detailed exploration of product management principles and the transition from project to product ethos, which are central to APOM.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

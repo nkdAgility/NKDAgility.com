@@ -19,12 +19,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-20T18:18:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to DevOps principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T10:36:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses architectural adaptation in software development, which is relevant to DevOps principles like continuous improvement and collaboration. However, it lacks explicit mentions of DevOps as a philosophy or its core practices. The case study of the Azure DevOps team provides some alignment, but the overall focus is more on software architecture than on DevOps itself.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -403,11 +406,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:36:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and does not focus on the Agile Product Operating Model.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of adapting architecture in software development, which aligns with agile principles of continuous improvement and responsiveness to change. However, it lacks direct mentions of the Agile Product Operating Model and does not delve into specific product management practices or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Culture": {

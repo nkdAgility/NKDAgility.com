@@ -1324,12 +1324,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T15:39:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:12:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Evidence-Based Management (EBM) and its principles, which are more aligned with project management and organisational improvement rather than the specific practices and tools of DevOps.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in improving value delivery, which aligns with some DevOps principles such as continuous improvement and the importance of measuring outcomes. However, it primarily focuses on EBM as a methodology rather than the broader DevOps philosophy, which limits its relevance to the DevOps category. The discussion lacks depth in core DevOps themes like automation, shared accountability, and cultural shifts, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1498,11 +1501,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:09:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:12:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) as a framework for improving value delivery in organisations, which aligns closely with the principles of the Agile Product Operating Model. It covers key aspects such as goal setting, measuring value, and adapting based on feedback, all of which are central to a product-centric approach.",
+    "final_score": 73.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), which is a key aspect of the Agile Product Operating Model. It aligns well with the principles of continuous improvement, data-driven decision-making, and the focus on delivering customer value. However, while it touches on relevant themes, it does not explicitly cover all aspects of the Agile Product Operating Model, such as transitioning from project to product ethos or operational stability in product delivery, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Leadership": {

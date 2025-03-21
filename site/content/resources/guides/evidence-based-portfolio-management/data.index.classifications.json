@@ -1300,11 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:00:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:12:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile principles and practices, focusing on business agility rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile approaches and evidence-based portfolio management, which are not directly aligned with the core principles of DevOps. While it touches on themes of responsiveness and agility, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The depth of discussion is limited, focusing more on agile practices rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1495,12 +1498,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:13:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile approaches and the need for agile principles to extend beyond team levels, indicating a focus on improving business agility, which aligns with the Agile Product Operating Model as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile approaches and the need for broader application beyond team levels, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on portfolio management rather than the specific elements of the APOM framework, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

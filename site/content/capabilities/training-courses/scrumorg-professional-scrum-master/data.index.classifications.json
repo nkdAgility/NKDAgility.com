@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:10:22",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-21T11:28:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily focuses on the Professional Scrum Master course, which extensively covers Scrum principles, roles, events, and the Agile mindset, aligning closely with the key topics of the Social Technologies category.",
-    "level": "Primary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum principles and their application in enhancing team collaboration and organisational success, which aligns with the core themes of Social Technologies. However, while it mentions collaboration and continuous improvement, the focus is primarily on Scrum methodologies and certification rather than a broader discussion of social technologies as frameworks for collaboration and decision-making. The depth of discussion on social technologies is limited, as it primarily revolves around the Scrum framework without extensive exploration of the underlying social frameworks or methodologies.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:10:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:28:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum principles and practices, which are not central to DevOps discussions.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and practices, which are not aligned with the core principles of DevOps. While there are mentions of collaboration and continuous improvement, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth in terms of DevOps-specific practices such as automation, shared accountability, and integration of quality and security early in the development lifecycle.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:16:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:28:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on Scrum principles and the role of the Scrum Master, which are important aspects of Agile methodologies. However, it does not explicitly discuss the Agile Product Operating Model as a central theme, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Master course, which is centred around Scrum methodologies rather than the Agile Product Operating Model. While it mentions Agile principles and the importance of Scrum in enhancing organisational effectiveness, it does not delve into the specific aspects of the Agile Product Operating Model, such as transitioning to a product ethos or integrating product management practices. The discussion is more about Scrum roles and events, which are not the primary focus of the APOM framework.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:20:37",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-21T11:28:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 33,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily focuses on the Professional Scrum Master course, detailing Scrum principles, roles, events, and the framework, which are central to Scrum discussions.",
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses Scrum principles, roles, and events, indicating a strong focus on the Scrum framework. It provides detailed learning objectives that align closely with Scrum practices, such as facilitating Scrum events, managing the Product Backlog, and fostering continuous improvement. The depth of discussion is significant, covering various aspects of Scrum implementation and the importance of Scrum in leadership and team dynamics. Overall, the content is highly relevant to the Scrum category.",
     "level": "Primary"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum principles and training, with no clear emphasis on Lean Startup concepts such as MVP, Build-Measure-Learn feedback loop, or validated learning.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:28:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and Agile leadership without any explicit mention or discussion of Artificial Intelligence. While it touches on themes of team collaboration and productivity, it does not explore AI's role or applications within these contexts, which is essential for alignment with the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:28:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and practices, which are not directly related to Internal Developer Platforms. While there is a mention of improving team effectiveness, it does not discuss the IDP framework, its benefits, or its role in streamlining development processes.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:28:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and leadership training rather than discussing the Shift-Left Strategy. While it touches on Agile principles, it does not explicitly mention integrating testing, security, or compliance earlier in the development process, which are key aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

@@ -49,14 +49,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T16:22:55",
+    "calculated_at": "2025-03-21T10:34:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses Agile methodologies and scaling frameworks like SAFe, LeSS, and Nexus, which are not directly related to DevOps principles. While it touches on the importance of delivering value and maintaining agility, it lacks explicit references to DevOps practices, tools, or cultural shifts. The focus is more on Agile scaling rather than the integration of development and operations, which is central to DevOps.",
+    "reasoning": "The content primarily focuses on scaling agile methodologies and frameworks, such as SAFe and LeSS, rather than discussing DevOps principles or practices. While there are elements of collaboration and value delivery mentioned, they are framed within the context of agile scaling rather than the broader DevOps philosophy. The depth of discussion on agile practices is significant, but it does not align closely with the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1357,15 +1357,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-08T13:09:46",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-03-21T10:34:24",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses scaling Agile and the complexities involved, which relates to the Agile Product Operating Model. However, it primarily focuses on the challenges of scaling and does not delve deeply into product-centric development or the specific principles and strategies outlined in the category description. The mention of frameworks like SAFe, LeSS, and Nexus indicates some alignment with Agile methodologies, but the overall discussion lacks depth regarding value delivery and product vision alignment.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses scaling agile practices across multiple teams, which is related to agile methodologies but does not focus on the Agile Product Operating Model specifically. While it touches on themes of agility and organisational challenges, it lacks direct references to product management principles, operational stability, or the transition from project to product ethos, which are core to the APOM. The depth of discussion on scaling strategies is notable, but it does not sufficiently align with the key topics outlined for the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",

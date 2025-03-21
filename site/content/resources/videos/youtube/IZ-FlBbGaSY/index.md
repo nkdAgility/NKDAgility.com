@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

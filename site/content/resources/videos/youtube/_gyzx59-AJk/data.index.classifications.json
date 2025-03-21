@@ -85,14 +85,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:23:15",
+    "calculated_at": "2025-03-21T10:36:26",
     "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
     "final_score": 83.0,
-    "reasoning": "The content explicitly discusses the transformation of Azure DevOps from infrequent releases to a model of continuous delivery, which is a core principle of DevOps. It highlights the importance of reducing lead times, increasing deployment frequency, and adapting to market changes, all of which align closely with DevOps practices. The depth of the discussion is significant, providing a detailed narrative on the challenges faced and the solutions implemented, thus demonstrating a strong alignment with the key topics of the DevOps category.",
+    "reasoning": "The content primarily focuses on the transformation of Azure DevOps towards continuous delivery, which is a core principle of DevOps. It discusses the importance of shortening feedback loops, embracing continuous delivery, and leveraging data—all of which align closely with DevOps philosophies. The depth of discussion is substantial, providing specific examples and actionable takeaways that reflect the cultural and procedural shifts necessary for effective DevOps implementation. However, while it does mention DevOps explicitly, the content could benefit from a more direct exploration of shared accountability and cross-functional collaboration, which are also key aspects of the DevOps philosophy.",
     "level": "Primary"
   },
   "Install and Configuration": {
@@ -130,14 +130,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-10T11:33:59",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-21T10:36:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content discusses the transition from traditional long release cycles to a continuous delivery model, which aligns closely with the principles of the Agile Product Operating Model. It emphasises the importance of rapid feedback loops, adapting to market changes, and maximising value delivery, all of which are core themes of the category. The depth of discussion regarding Azure DevOps' transformation and the need for continuous delivery further supports a high confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery, which aligns with the Agile Product Operating Model's emphasis on responsiveness and customer-centric value. However, it primarily focuses on the operational aspects of continuous delivery rather than explicitly addressing the principles of the Agile Product Operating Model or product management practices. While it mentions key concepts like feedback loops and value creation, it lacks a detailed exploration of the APOM framework itself, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {

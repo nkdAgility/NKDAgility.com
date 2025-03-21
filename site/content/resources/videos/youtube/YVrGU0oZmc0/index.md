@@ -43,8 +43,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 In my journey through the world of software development, one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates continuous delivery but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.

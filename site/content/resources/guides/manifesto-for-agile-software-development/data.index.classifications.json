@@ -1294,11 +1294,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T13:47:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:11:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the Agile Manifesto, which are not central to DevOps practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Agile principles and values, which are related to software development but do not explicitly address DevOps as a philosophy or its core themes. While there are mentions of collaboration and customer satisfaction, the focus is on Agile methodologies rather than the integration of development and operations, automation, or shared accountability that characterise DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1486,14 +1489,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T17:40:24",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T11:11:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to Agile methodologies. However, it does not specifically address the Agile Product Operating Model or its key topics such as product-centric development, value delivery, or cross-functional teams. While there are mentions of customer collaboration and responding to change, these are more aligned with general Agile principles rather than the specific framework of the Agile Product Operating Model. The depth of discussion is moderate, focusing on principles rather than practical application within a product context.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on agile methodologies rather than the specific Agile Product Operating Model. While there are mentions of customer collaboration and continuous delivery, the content lacks a direct focus on product management principles, operational stability, or the transition from project to product ethos, which are key aspects of the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Leadership": {

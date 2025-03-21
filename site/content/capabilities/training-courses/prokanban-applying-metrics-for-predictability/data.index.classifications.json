@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:01:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:19:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting, which are key components of Agile methodologies, particularly in the context of Kanban training.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are more technical aspects of project management rather than discussions on social technologies. While it mentions decision-making and project success, it lacks a strong emphasis on collaboration, self-organisation, or the social frameworks that underpin effective teamwork. The depth of discussion on metrics is significant, but it does not sufficiently address the core themes of social technologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:01:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:19:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting, which are not central to DevOps principles and practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and project management rather than DevOps principles. While it mentions flow metrics, which can relate to DevOps, the overall emphasis is on project success and decision-making rather than the collaborative and cultural aspects of DevOps. The discussion lacks depth in terms of DevOps practices and does not address key topics such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:20:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content focuses on agile metrics and forecasting, which is related to decision-making in an Agile context. However, it primarily addresses project management rather than specific product-centric approaches or the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting within a project management context, which does not directly address the Agile Product Operating Model. While it mentions agile practices and metrics, it lacks a clear connection to product management principles or the broader themes of the APOM. The discussion is more aligned with traditional project management methodologies rather than the product-oriented mindset central to the APOM.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:19:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on metrics and forecasting in Agile project management and is centered around Kanban training, with no clear emphasis on Scrum principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than Scrum specifically. While it touches on concepts relevant to project management, such as risk management and decision-making, it does not explicitly mention Scrum roles, events, or artifacts. The discussion on flow metrics and analytics is more aligned with general agile practices rather than the specific principles and frameworks of Scrum. Therefore, the confidence score reflects a low alignment with the Scrum category.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1369,11 +1381,47 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-03-21T11:18:52",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on agile metrics and forecasting in project management. While it mentions concepts like validated learning and risk management, these are more aligned with general agile practices rather than a specific focus on Lean Startup methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:19:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than the application of AI in Agile or DevOps. While it discusses decision-making and project management, it does not explicitly mention AI or its integration into these processes. The discussion lacks depth regarding AI's role, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:20:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile metrics and project management rather than discussing Internal Developer Platforms. While it touches on aspects of predictability and decision-making, it does not explicitly mention IDPs or their components, benefits, or implementation practices. The discussion is more aligned with general project management methodologies than with the specific framework of an Internal Developer Platform.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:20:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than explicitly discussing the Shift-Left Strategy. While it touches on aspects of project management and risk minimization, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the specific principles and techniques associated with Shift-Left practices.",
+    "level": "Ignored"
   }
 }

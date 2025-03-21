@@ -1306,14 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T18:05:47",
+    "calculated_at": "2025-03-21T11:13:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 50,
     "final_score": 34.0,
-    "reasoning": "The content primarily discusses Scrum and evidence-based management, which are more aligned with Agile methodologies than DevOps. While it touches on some DevOps concepts like time to market and technical debt, these are not the main focus. The discussion lacks depth in DevOps principles and practices, and the overall emphasis is on Scrum roles and metrics rather than the integration of development and operations.",
+    "reasoning": "The content primarily discusses Evidence-Based Management within the context of Scrum, focusing on value areas that are more aligned with project management than the core principles of DevOps. While there are mentions of efficiency and innovation, the discussion lacks a strong emphasis on collaboration, automation, and shared accountability, which are central to DevOps. The content does not delve deeply into DevOps practices or cultural shifts, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1501,11 +1501,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:12:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:13:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of evidence-based management within the context of Scrum, focusing on value delivery, product management, and organisational capabilities, which are central to the Agile Product Operating Model.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Evidence-Based Management within the context of Scrum, which is a key agile practice. While it touches on aspects relevant to the Agile Product Operating Model, such as market value and organisational capability, it primarily focuses on Scrum-specific metrics and practices rather than the broader principles of the Agile Product Operating Model. The discussion is detailed but does not fully encompass the core themes of APOM, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Leadership": {

@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:06:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:27:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, which aligns closely with the principles of Agile methodologies and their application in organisations.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of leaders in facilitating agile transformation, which aligns with the principles of self-organisation and collaboration. However, while it touches on these themes, the primary focus is on the workshop structure and certification rather than a deep exploration of social technologies. The mention of cultural and behavioural changes supports the category, but the overall depth of discussion on social technologies is limited.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:06:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:27:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and Scrum training, with no direct discussion of DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than DevOps principles. While it touches on themes of collaboration and organisational change, it lacks explicit discussions on DevOps practices, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:08:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:27:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile leadership and the role of leaders in driving agile transformation, which aligns with the principles of the Agile Product Operating Model, but it primarily focuses on leadership training rather than the model itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of leaders in driving agile transformation, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on leadership skills and training rather than the broader framework of APOM. While it touches on aspects like cultural change and team support, it lacks a detailed exploration of product management principles and operational governance, which are central to the APOM. Therefore, while there is a relevant connection, it does not fully meet the criteria for a primary focus on the Agile Product Operating Model.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:10:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:27:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses a course related to Agile leadership, which includes Scrum principles and practices, but it primarily focuses on leadership roles rather than Scrum itself.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses agile leadership and transformation, which are relevant to Scrum principles, but it does not explicitly mention Scrum roles, events, or artifacts. While it aligns with the core themes of agility and team dynamics, the depth of discussion on Scrum-specific practices is limited.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and Scrum training, with no clear emphasis on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:27:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation without any explicit mention or discussion of Artificial Intelligence. While it touches on themes of organisational change and team dynamics, it does not explore AI's role in these processes, nor does it provide any depth regarding AI applications in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:27:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than discussing Internal Developer Platforms. While it touches on themes of organisational change and team dynamics, it does not explicitly mention IDPs or their components, benefits, or implementation practices. The discussion is centred around Agile methodologies and leadership roles, which are outside the scope of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:27:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than explicitly discussing the Shift-Left Strategy. While it touches on themes of agility and organisational change, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy. The discussion is more about leadership roles and cultural changes in Agile environments, lacking the necessary depth and direct mentions of Shift-Left principles.",
     "level": "Ignored"
   }
 }

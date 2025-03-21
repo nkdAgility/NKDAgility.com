@@ -28,7 +28,6 @@ card:
   title: One Engineering System
   content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
 categories:
-- DevOps
 - Engineering Excellence
 tags:
 - One Engineering System (1ES)

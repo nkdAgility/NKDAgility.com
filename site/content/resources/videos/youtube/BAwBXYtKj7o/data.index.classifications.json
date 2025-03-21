@@ -1282,15 +1282,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:28:15",
-    "ai_confidence": 87.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-21T10:40:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content discusses automated testing extensively, highlighting its importance in the DevOps process, particularly in relation to Continuous Integration and Continuous Delivery. It mentions Azure DevOps and the need for fast-running tests, which aligns with DevOps principles. The depth of discussion on test automation and its impact on software delivery indicates a strong focus on DevOps practices, although it does not explicitly mention the term 'DevOps' frequently.",
-    "level": "Primary"
+    "final_score": 75.0,
+    "reasoning": "The content discusses technical debt management, which is relevant to DevOps, particularly in the context of continuous delivery and feedback loops. However, it primarily focuses on technical debt rather than the broader DevOps philosophy. While it mentions the Azure DevOps team and touches on aspects like feedback loops and value delivery, the depth of discussion on core DevOps principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1477,11 +1477,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:40:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automated testing and its importance in software engineering, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt management and its impact on software delivery, which is relevant to agile practices. However, it primarily focuses on technical debt rather than the Agile Product Operating Model itself. While there are mentions of agile methodologies and continuous delivery, the core principles of the Agile Product Operating Model are not explicitly addressed, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Leadership": {

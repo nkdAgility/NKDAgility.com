@@ -1306,14 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T17:30:27",
+    "calculated_at": "2025-03-21T10:42:35",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on evidence-based management and metrics related to product management and software engineering, with only peripheral references to DevOps principles such as continuous delivery and the importance of data in decision-making. While it touches on some relevant tools and practices, the main emphasis is on product management rather than the integration of development and operations teams, which is central to DevOps.",
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management within Agile frameworks, discussing data-driven decision-making and metrics for product development. While it touches on concepts like continuous improvement and customer satisfaction, it does not explicitly address DevOps principles or practices. The discussion lacks depth in DevOps-specific topics such as automation, shared accountability, or cross-functional collaboration, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1507,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:05:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 40,
-    "final_score": 49.0,
-    "reasoning": "The content discusses evidence-based management and its application in product management, touching on aspects of data collection, analysis, and decision-making in a product-centric context. However, it primarily focuses on data management and technical practices rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T10:42:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM), which is a key aspect of the Agile Product Operating Model. While it discusses data-driven decision-making and its importance in Agile environments, it does not explicitly cover the broader principles of the Agile Product Operating Model or its transition from project to product ethos. The depth of discussion on EBM is substantial, but it lacks a comprehensive exploration of how EBM integrates with product management practices, which is crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

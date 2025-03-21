@@ -19,11 +19,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-20T18:16:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:35:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product development and user feedback rather than DevOps principles. While it touches on the importance of user engagement and validation, it lacks explicit discussions on collaboration, automation, or shared accountability, which are core to DevOps. The mention of user feedback aligns somewhat with the feedback loops in DevOps, but the overall depth and focus do not sufficiently meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -400,12 +403,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and events without a clear focus on the Agile Product Operating Model.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T10:36:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of engaging real users early in the product development process, which aligns with the principles of the Agile Product Operating Model, particularly in terms of user feedback and iterative development. However, it does not explicitly mention the Agile Product Operating Model or its specific components, leading to a lower score in direct mentions. The depth of discussion on user engagement and validation of assumptions provides a solid foundation but lacks comprehensive coverage of APOM's broader themes such as operational stability or governance.",
+    "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",

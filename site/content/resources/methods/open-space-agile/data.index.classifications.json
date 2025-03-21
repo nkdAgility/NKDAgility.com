@@ -1177,11 +1177,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T17:31:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:43:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on project management failures, which may relate to DevOps indirectly, but it primarily focuses on Scrum-related issues rather than the core principles of DevOps. There are no explicit mentions of DevOps practices, and the discussion lacks depth in addressing the cultural and collaborative aspects central to DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1363,11 +1366,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T17:29:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:43:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses failures in Agile practices without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions agile concepts related to project management failures but does not explicitly discuss the Agile Product Operating Model or its core principles. The focus is primarily on project management issues rather than product-oriented approaches, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {

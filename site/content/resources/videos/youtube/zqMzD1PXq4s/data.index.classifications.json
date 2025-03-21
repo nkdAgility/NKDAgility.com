@@ -1255,14 +1255,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:25:24",
+    "calculated_at": "2025-03-21T10:38:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
     "final_score": 70.0,
-    "reasoning": "The content discusses the importance of optimising systems and processes to enhance engineering excellence, which aligns with DevOps principles. It mentions the role of technical leadership and the impact of automation on productivity, particularly through the example of Azure DevOps improving their feature delivery. However, while it touches on relevant themes, it lacks a focused discussion on specific DevOps practices like CI/CD or cultural shifts, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with DevOps principles of continuous improvement and collaboration. However, it lacks direct mentions of DevOps as a philosophy and does not delve deeply into the cultural shifts or practices specific to DevOps. The focus is more on general engineering excellence rather than the collaborative and automated aspects of DevOps.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1510,12 +1510,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:58:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:38:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of optimising systems and processes to enhance product delivery, which aligns with the Agile Product Operating Model. However, it primarily focuses on technical leadership and engineering excellence rather than explicitly addressing Agile principles or product-centric development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses optimising systems and addressing technical debt, which are relevant to improving product delivery. However, it lacks direct references to the Agile Product Operating Model and does not focus on agile principles or product management practices. The discussion is more centred on technical leadership and engineering excellence rather than the core themes of APOM.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:03:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance in software development, with no clear emphasis on Scrum, Kanban, Lean, or Agile practices.",
+    "calculated_at": "2025-03-21T11:23:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions collaboration within the context of an Azure Test Plans training course, which aligns with the category's focus on teamwork and quality assurance. However, the primary focus is on the technical aspects of using Azure Test Plans rather than a deep exploration of social technologies or frameworks that promote collaboration and decision-making. The discussion lacks depth in addressing the core themes of self-organisation, transparency, and collective intelligence, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -19,12 +22,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:03:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:23:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Azure Test Plans, which is a tool within the Azure DevOps ecosystem, and focuses on quality assurance in software development. However, it primarily centres on testing practices rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content mentions Azure DevOps Services and discusses tools for planning, developing, testing, and delivering software, which aligns with the DevOps philosophy. However, the focus is primarily on Azure Test Plans and quality assurance rather than broader DevOps principles such as collaboration, automation, or cultural shifts. The discussion lacks depth in exploring the core themes of DevOps, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on quality assurance training using Azure Test Plans and does not discuss the Agile Product Operating Model or its key principles.",
+    "calculated_at": "2025-03-21T11:23:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions agile methodologies and teamwork but primarily focuses on Azure Test Plans and quality assurance rather than the core principles of the Agile Product Operating Model. It lacks a detailed discussion on transitioning to a product ethos or integrating product management practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Azure Test Plans in the context of agile teams, mentioning roles such as Scrum Masters and the testing aspect during sprints, indicating that Scrum principles are involved, though it is not primarily about Scrum itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:23:00",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions agile teams and collaboration, which are relevant to Scrum, but it primarily focuses on Azure Test Plans and quality assurance rather than the Scrum framework itself. While there is some alignment with agile principles, the depth of discussion on Scrum-specific roles, events, or artifacts is minimal.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1375,5 +1387,41 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on Azure Test Plans and quality assurance training for software development teams, not on Lean Startup principles.",
     "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:23:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance in Agile methodologies, with no explicit mention of Artificial Intelligence or its applications. While it discusses Agile practices, it does not explore how AI can enhance these processes, thus lacking alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:23:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance within Agile teams, which does not directly address the concept of Internal Developer Platforms. While it mentions tools that could be part of an IDP, it lacks a clear discussion on the IDP's purpose, benefits, or architecture. The content is more aligned with testing practices rather than the broader framework of an IDP.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:23:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Azure Test Plans and their role in ensuring quality throughout the development process, which aligns with the Shift-Left Strategy's emphasis on integrating testing early. However, it lacks explicit mention of the Shift-Left concept and does not delve deeply into the principles or benefits of this strategy, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

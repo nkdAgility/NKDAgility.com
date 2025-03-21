@@ -1300,11 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:57:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:14:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses product discovery and its processes, with only a brief mention of Azure DevOps, which does not align with the core principles of DevOps.",
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on Product Discovery, which is a concept related to product development rather than DevOps. While it briefly mentions Azure DevOps in the context of team alignment and strategic direction, this is not a central theme of the discussion. The core principles of DevOps, such as collaboration, automation, and shared accountability, are not addressed in detail, leading to a low confidence score for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1492,15 +1495,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T18:17:47",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T11:14:46",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses Product Discovery extensively, which is a crucial aspect of the Agile Product Operating Model. It highlights the importance of aligning product vision with customer needs and market trends, as well as the role of cross-functional teams in the discovery process. However, while it touches on Agile principles, it does not explicitly frame the discussion within the context of the Agile Product Operating Model, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Product Discovery, which is related to product management and agile methodologies, but it does not explicitly focus on the Agile Product Operating Model. While it touches on themes like strategic direction and team alignment, it lacks a comprehensive exploration of APOM principles and practices, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

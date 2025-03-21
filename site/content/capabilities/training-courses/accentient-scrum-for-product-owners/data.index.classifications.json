@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:03:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:24:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the Scrum framework, detailing roles, events, and practices relevant to Product Owners, which aligns closely with the category's definition.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners within the Scrum framework, which is a specific methodology rather than a broader discussion on social technologies. While it mentions driving value, it lacks explicit discussions on collaboration, decision-making, or the underlying social frameworks that characterise social technologies. The depth of discussion is limited to the responsibilities of Product Owners without exploring the collaborative or adaptive aspects that are central to the category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:03:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:24:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Scrum and the role of Product Owners, which is not aligned with the core principles of DevOps. While there is a mention of driving value, it does not discuss DevOps concepts such as collaboration, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Product Owners within the Scrum framework, highlighting their responsibilities related to value delivery. However, the primary focus is on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:24:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners within the Scrum framework, which is a specific agile practice rather than a comprehensive discussion on the Agile Product Operating Model. While it mentions driving value, it lacks a broader exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The depth of discussion is limited to Scrum-specific roles and does not address the wider implications of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -847,12 +856,12 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-03-21T11:24:16",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content primarily focuses on Scrum, particularly on the roles and responsibilities within the Scrum framework, rather than addressing the broader Agile philosophy or its fundamental principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:45:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:24:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content is primarily focused on training for Product Owners within the Scrum framework, addressing roles, events, and best practices associated with Scrum.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly focuses on the role of the Product Owner within the Scrum framework, which is a key aspect of Scrum discussions. It mentions the responsibilities and practices associated with this role, indicating a strong alignment with Scrum principles. The depth of discussion is significant, as it involves interactive learning methods aimed at enhancing effectiveness in a Scrum context.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no clear emphasis on Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:24:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and the role of Product Owners, with no explicit mention of Artificial Intelligence or its application within Agile methodologies. The discussion lacks alignment with the core themes of AI enhancing Agile practices, and there is minimal depth regarding AI-related topics.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:24:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the role of Product Owners, which are unrelated to Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes or provide any depth on the topic of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:24:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, with no direct mention or discussion of the Shift-Left Strategy. While there may be some implicit connections to early involvement in the development process, the core themes of integrating testing, security, and compliance earlier in the software lifecycle are not addressed.",
     "level": "Ignored"
   }
 }

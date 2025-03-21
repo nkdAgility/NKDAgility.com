@@ -1381,14 +1381,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:34:41",
-    "ai_confidence": 92.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
+    "calculated_at": "2025-03-21T10:35:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
-    "reasoning": "The content extensively discusses DevOps principles, particularly focusing on audience-based deployment, continuous delivery, and the cultural shifts necessary for successful implementation. It provides detailed insights into Microsoft's transformation and the strategies employed by the Azure DevOps team, aligning closely with key DevOps topics such as automation, collaboration, and real-time monitoring. The depth of discussion is significant, covering both theoretical and practical aspects of DevOps, making it a primary focus of the content.",
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses audience-based deployment, a modern DevOps practice that emphasises continuous delivery, feedback loops, and automation. It highlights the cultural shift required for effective DevOps implementation, particularly in the context of Microsoft’s transformation. The discussion includes key principles such as reducing silos, embracing automation, and the importance of real-time observability, all of which align closely with the core themes of DevOps. The depth of the discussion is significant, providing detailed strategies and examples, particularly from Microsoft, which reinforces its relevance to the DevOps category.",
     "level": "Primary"
   },
   "Azure DevOps": {
@@ -1594,15 +1594,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T16:26:04",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T10:35:27",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses modern deployment strategies and the shift from traditional environments to audience-based deployment, which aligns with Agile principles of continuous delivery and customer-centric development. However, it primarily focuses on technical practices and deployment strategies rather than explicitly addressing the Agile Product Operating Model as a holistic framework for product development. While it touches on aspects of value delivery and user feedback, it lacks a comprehensive exploration of the Agile Product Operating Model's core themes.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses modern deployment strategies and continuous delivery, which are relevant to agile practices. However, it primarily focuses on technical aspects of deployment rather than the broader principles of the Agile Product Operating Model. While it touches on themes like customer-centric value and iterative delivery, it lacks a direct focus on the APOM framework and its core principles.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

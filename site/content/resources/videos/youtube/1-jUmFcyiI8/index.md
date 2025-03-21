@@ -43,8 +43,8 @@ sitemap:
   priority: 0.6
 categories:
 - Engineering Excellence
-- DevOps
 - Product Management
+- DevOps
 
 ---
 In my journey through the world of software development, I've come to realise that deployment frequency is a crucial leading indicator of a company's ability to reduce time to market. It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.

@@ -24,6 +24,7 @@ aliasesArchive:
 - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 categories:
 - Kanban
+- DevOps
 - Engineering Excellence
 tags:
 - Throughput

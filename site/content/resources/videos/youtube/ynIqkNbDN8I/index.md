@@ -30,7 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Agile Product Operating Model
 - Business Agility
 - Deployment Frequency
 - Value Delivery
@@ -39,11 +38,11 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Evidence Based Leadership
+- Evidence Based Management
 resourceTypes:
 - video
 categories:
 - Product Management
-- DevOps
 
 ---
 In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is unrealised value. This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your product development strategy.

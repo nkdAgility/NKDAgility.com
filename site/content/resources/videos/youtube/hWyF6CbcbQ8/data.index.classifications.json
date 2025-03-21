@@ -1195,14 +1195,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T14:43:15",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
+    "calculated_at": "2025-03-21T10:41:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
     "ai_alignment": 75.0,
-    "ai_depth": 70.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses DevOps migrations, which is a core aspect of DevOps practices. It addresses the integration of data integrity within the migration process, highlighting the balance between fidelity and flexibility, which aligns with the principles of continuous delivery and the role of automation in DevOps. The discussion provides a moderate level of detail about the challenges and considerations involved in migrating data within a DevOps context, although it could benefit from deeper exploration of tools and metrics related to DevOps success.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses DevOps migrations, focusing on the critical aspect of data integrity, which is a significant concern in the DevOps philosophy. It aligns well with the core themes of DevOps, such as collaboration and shared accountability, particularly in the context of team readiness and communication during migrations. The depth of discussion is substantial, providing detailed insights into migration strategies and their implications, which reflects a strong understanding of the DevOps principles. Overall, the content is primarily focused on DevOps, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1372,11 +1372,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:03:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:41:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity and DevOps migrations, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing aspects such as flexibility and fidelity, which are not directly related to the Agile Product Operating Model. While there may be a tangential connection to agile principles in terms of team readiness and communication, the core themes of APOM, such as product management and continuous delivery, are not addressed.",
     "level": "Ignored"
   },
   "Leadership": {

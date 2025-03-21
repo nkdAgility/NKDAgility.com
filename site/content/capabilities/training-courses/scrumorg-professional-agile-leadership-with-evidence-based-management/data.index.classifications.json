@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:02:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:21:41",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Evidence-Based Management (EBM) framework, which is an Agile approach that aligns with the principles of Scrum and Agile methodologies, focusing on value delivery and continuous improvement.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the PAL-EBM course, which incorporates elements of self-organisation and continuous improvement, aligning with the principles of Social Technologies. However, the primary focus is on the course structure and certification rather than a deep exploration of social frameworks or methodologies. While it mentions community interaction and customer value, these aspects are not elaborated upon in detail, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:02:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:21:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and Evidence-Based Management, with no clear discussion of DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, which are not directly aligned with the core principles of DevOps. While there are mentions of improving customer outcomes and organisational capabilities, these concepts are more related to Agile methodologies rather than the specific practices and cultural shifts associated with DevOps. The discussion lacks depth in terms of DevOps principles such as automation, shared accountability, and continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:42:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:21:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily addresses Evidence-Based Management (EBM) as it relates to Agile leadership, focusing on measuring success and improving customer outcomes. While it touches on aspects relevant to the Agile Product Operating Model, such as value delivery and organizational agility, it is more centered on leadership practices and frameworks rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in enhancing business agility and customer value, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on leadership training rather than a comprehensive exploration of the Agile Product Operating Model itself. The mention of customer value and continuous improvement is relevant, but the depth of discussion on the APOM framework is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:42:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:21:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "While the content primarily focuses on Evidence-Based Management and agile leadership principles, it connects to Scrum through discussions on roles such as Scrum Masters and Product Owners, and mentions core Scrum concepts. However, it does not focus specifically on Scrum as the central theme.",
+    "final_score": 43.0,
+    "reasoning": "The content mentions Scrum in the context of prerequisites for the course, indicating some relevance to Scrum principles. However, the primary focus is on Evidence-Based Management and leadership skills rather than Scrum itself. While there is conceptual alignment with Agile principles, the depth of discussion on Scrum is limited, focusing more on leadership and metrics rather than the Scrum framework or its specific roles and events.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on Evidence-Based Management and Agile practices, not specifically on the Lean Startup methodology or concepts like MVP, Build-Measure-Learn feedback loop, or validated learning.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:21:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, with no explicit mention of Artificial Intelligence or its application within Agile methodologies or DevOps practices. While it discusses improving business agility and customer value, it does not explore how AI can enhance these processes, thus lacking alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:21:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, with no direct mention or discussion of Internal Developer Platforms. It does not align with the core themes of IDPs, such as streamlining development processes or automation. The depth of discussion is also minimal regarding IDPs, as the content is centred around Agile methodologies and leadership skills.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:21:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile leadership and Evidence-Based Management, with no explicit mention of the Shift-Left Strategy. While it discusses improving customer outcomes and organisational capabilities, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

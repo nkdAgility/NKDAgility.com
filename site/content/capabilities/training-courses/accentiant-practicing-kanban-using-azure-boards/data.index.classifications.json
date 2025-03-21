@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:04:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:24:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on Kanban principles and practices, detailing how to implement them using Azure Boards, which aligns closely with the category of Social Technologies.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a course about Kanban and Azure Boards, which are tools for improving workflow in software development. While it mentions team collaboration and improving throughput, it lacks a direct discussion on the broader principles of social technologies, such as self-organisation or collective intelligence. The depth of discussion is moderate, as it provides some context on team dynamics but does not delve into the underlying social frameworks or methodologies that promote collaboration and decision-making in a comprehensive manner.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,12 +22,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:04:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Kanban practices and their application within Azure Boards, which is a tool associated with DevOps. However, the primary focus is on Kanban rather than DevOps principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:24:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, which are methodologies and tools rather than core DevOps principles. While there is a mention of improving flow and throughput, it lacks a direct discussion on DevOps philosophy, collaboration, or shared accountability. The course is more aligned with agile practices than with the broader DevOps culture and principles.",
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses mainly on practicing Kanban using Azure Boards, which is related to technical practices rather than a comprehensive discussion on the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T11:24:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, which are specific agile practices rather than the broader Agile Product Operating Model. While it mentions agile teams and improving flow, it does not discuss the core principles or themes of the APOM, such as product management integration or continuous delivery. The discussion lacks depth regarding the transition from project to product ethos and does not address the operational stability or governance aspects of APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:48:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:24:41",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content focuses primarily on Kanban practices and Azure Boards, with no substantial discussion on Scrum principles, roles, or events.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, with no direct mentions of Scrum principles, roles, or events. While it touches on agile practices, it does not align with the core themes of Scrum, and the depth of discussion regarding Scrum is minimal.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and Azure Boards, with no focus on Lean Startup principles such as MVP, iterative learning, or validated learning.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:24:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards in the context of Agile methodologies, with no explicit mention of Artificial Intelligence or its applications. While it discusses improving team flow and throughput, it does not explore how AI could enhance these processes, thus lacking alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:24:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, which are tools for agile project management, rather than discussing the concept of Internal Developer Platforms. While there is a mention of improving flow and throughput, it does not align with the core themes of IDPs, such as streamlining development processes or automation. The depth of discussion is limited to a course description without any detailed exploration of IDP principles.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:24:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban and Azure Boards, with no explicit discussion of the Shift-Left Strategy. While it touches on improving flow and throughput, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

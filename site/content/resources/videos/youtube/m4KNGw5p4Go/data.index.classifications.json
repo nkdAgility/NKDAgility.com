@@ -1297,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:16:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product development, experimentation, and collaboration, without a clear emphasis on DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product development strategies, experimentation, and collaboration, which are relevant to Agile methodologies rather than the core principles of DevOps. While there are mentions of collaboration and iterative processes, the discussion lacks a direct focus on DevOps practices such as automation, shared accountability, or continuous delivery. Therefore, it aligns only tangentially with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1492,11 +1495,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:27:21",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses principles of user value, experimentation, collaboration, and improving product development processes, which align with the Agile Product Operating Model. However, it does not explicitly focus on the model itself as a primary topic.",
+    "calculated_at": "2025-03-21T11:16:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile principles and practices, such as experimentation, collaboration, and user value, which align with the Agile Product Operating Model. However, it lacks a direct focus on the specific framework of APOM and does not delve deeply into its core principles or operational aspects, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Leadership": {

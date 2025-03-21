@@ -1285,11 +1285,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T21:27:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:11:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a working agreement and facilitation steps related to customer engagement, with a focus on Agile principles rather than DevOps practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on establishing a Working Agreement in a workshop setting, which is more aligned with project management and Agile methodologies rather than the core principles of DevOps. While there are elements of collaboration and roles mentioned, the discussion lacks depth in DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1483,12 +1486,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T17:25:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:11:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of agility and customer collaboration in the context of a working agreement, which aligns with Agile principles, but it is primarily focused on the facilitation of a workshop rather than a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses a Working Agreement workshop that includes elements of agility and customer roles, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the facilitation of a workshop rather than the broader principles and practices of APOM. The mention of agility is present but not deeply explored, and the content lacks a comprehensive discussion on product management or the transition from project to product ethos.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

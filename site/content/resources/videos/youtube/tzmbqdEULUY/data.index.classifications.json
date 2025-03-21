@@ -1237,15 +1237,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:29:22",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T10:41:24",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses data migration and its impact on engineers' productivity, which is relevant to DevOps practices, particularly in the context of minimising downtime during deployments. It mentions Azure DevOps and Git, which are tools associated with DevOps, but the primary focus is on the migration process rather than broader DevOps principles or practices. While there is some alignment with DevOps concepts, such as planning and collaboration, the depth of discussion on core DevOps themes like CI/CD, automation, or cultural shifts is limited.",
-    "level": "Secondary"
+    "final_score": 43.0,
+    "reasoning": "The content discusses data migration and the importance of planning and tools like Git, which are relevant to DevOps practices. However, it primarily focuses on the specifics of data migration rather than the broader principles of DevOps, such as collaboration, automation, and shared accountability. While there are mentions of maintaining productivity and minimising downtime, the discussion lacks depth in exploring the cultural and philosophical aspects of DevOps.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1423,11 +1423,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:03:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:41:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration strategies and minimising downtime, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, with no direct mention of the Agile Product Operating Model or its principles. While it discusses planning and collaboration, these topics do not align with the core themes of APOM, such as product management or continuous delivery. The discussion lacks depth regarding agile methodologies or product-oriented mindsets, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {

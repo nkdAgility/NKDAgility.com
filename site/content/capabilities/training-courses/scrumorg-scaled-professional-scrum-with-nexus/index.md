@@ -4,7 +4,9 @@ description: Master scaling Scrum with the Scaled Professional Scrum™ course. 
 ResourceId: -U-z8x8yTw9
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 date: 2017-01-01
+weight: 550
 creator: Martin Hinshelwood
 type: course
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
@@ -18,7 +20,7 @@ aliases:
 - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
 - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
 - /resources/-U-z8x8yTw9
-aliasesFor404:
+aliasesArchive:
 - /training-courses/scrum-at-scale-workshop
 - /training-courses/scaling-professional-scrum
 - /training-courses/scaled-professional-scrum-sps
@@ -40,18 +42,17 @@ delivery-audiences:
 - Teams
 tags:
 - Scrum Product Development
-- Professional Scrum
-- Software Development
 - Large Scale Agility
-- Scaled Agile
 - People and Process
+- Professional Scrum
+- Scaled Agile
 - Scaling Scrum
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Scaling Agility
+- Practical Techniques and Tooling
 categories:
 - Scrum
-- Social Technologies
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-SPS-400x.png
 brandColour: 

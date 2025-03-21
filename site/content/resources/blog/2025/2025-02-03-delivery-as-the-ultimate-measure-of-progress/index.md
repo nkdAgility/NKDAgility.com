@@ -35,8 +35,8 @@ tags:
 - Scrum Team
 categories:
 - Scrum
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

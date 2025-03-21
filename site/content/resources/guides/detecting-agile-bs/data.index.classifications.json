@@ -1330,15 +1330,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:32:59",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T11:11:54",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Agile methodologies and includes references to DevSecOps, continuous integration, and automation, which are relevant to DevOps. However, the primary focus is on identifying genuine Agile practices rather than a comprehensive exploration of DevOps principles. While it touches on some tools and practices that align with DevOps, the overall emphasis is more on Agile and its misinterpretations, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile development and its principles, which are closely related to DevOps practices, particularly in the context of collaboration, automation, and continuous feedback. However, the primary focus is on Agile methodologies rather than DevOps as a philosophy. While it mentions DevSecOps, it does not delve deeply into the broader DevOps principles or cultural shifts necessary for effective implementation, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1501,12 +1501,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:11:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses principles and values of agile development, as well as key indicators of true agile practices, but it primarily focuses on identifying and critiquing non-agile practices rather than providing a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses agile principles and values, but primarily focuses on identifying whether projects are genuinely agile or merely adopting agile terminology without true implementation. While it touches on some aspects of agile methodologies, it lacks a comprehensive exploration of the Agile Product Operating Model, such as product-oriented mindsets, continuous delivery, and integration of product management practices. The depth of discussion is more about critique than about the operational model itself.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

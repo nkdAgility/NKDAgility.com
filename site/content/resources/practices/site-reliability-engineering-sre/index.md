@@ -29,8 +29,7 @@ card:
     content: Learn More
   content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
   title: Site Reliability Engineering (SRE)
-categories:
-- DevOps
+categories: []
 tags: []
 
 ---

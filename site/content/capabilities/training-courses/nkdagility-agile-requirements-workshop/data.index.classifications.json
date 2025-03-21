@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:34:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:29:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on an Agile workshop, which is related to Agile practices, but does not delve deeply into specific frameworks or methodologies like Scrum or Kanban.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are important aspects of Agile methodologies. However, it lacks explicit discussions on social technologies, self-organisation, or collective intelligence. While it touches on team dynamics and planning practices, it does not delve deeply into the underlying social frameworks or methodologies that promote collaboration and decision-making. Therefore, while there is some relevance, the primary focus remains on technical aspects of Agile rather than the broader category of Social Technologies.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:34:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:29:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile requirements management and does not discuss DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to DevOps principles. While there may be some overlap in terms of collaboration and efficiency, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not addressed. The discussion is centred around agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:29:47",
+    "ai_confidence": 52.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile requirements management and backlog planning, which are relevant to product-centric development, but the primary focus is on a workshop format rather than a comprehensive discussion of the Agile Product Operating Model.",
+    "final_score": 48.0,
+    "reasoning": "The content discusses agile requirements management and planning practices, which are relevant to the Agile Product Operating Model. However, it primarily focuses on project aspects and backlog management rather than the broader principles of APOM. While it touches on product-oriented practices, it lacks a comprehensive exploration of the core themes of the Agile Product Operating Model, such as continuous delivery and operational stability.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:37:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions backlog management, which is relevant to Scrum, but the primary focus is on agile requirements management rather than Scrum principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:29:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile practices and backlog management, which are relevant to Scrum, but it does not explicitly discuss Scrum roles, events, or principles. The focus is more on agile requirements management rather than the Scrum framework itself, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and does not discuss Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:29:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile requirements management and planning practices, with no explicit mention of Artificial Intelligence or its integration within Agile methodologies. While it discusses aspects of Agile project management, it does not align with the core themes of AI's role in enhancing decision-making or automating tasks. The depth of discussion is limited to Agile practices without any reference to AI applications, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:29:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to Internal Developer Platforms. There are no explicit mentions of IDPs, and the discussion does not align with the core themes of IDPs such as streamlining development processes or automation. The depth of discussion is also minimal, as it does not provide any insights into the architecture, benefits, or best practices of IDPs.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:29:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are not directly related to the Shift-Left Strategy. While there is a mention of breaking down backlogs, it does not discuss integrating testing, security, or compliance earlier in the development process, nor does it provide any depth on the principles or benefits of the Shift-Left approach.",
     "level": "Ignored"
   }
 }

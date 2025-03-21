@@ -1210,14 +1210,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:29:14",
+    "calculated_at": "2025-03-21T10:41:19",
     "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
     "final_score": 70.0,
-    "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is a relevant topic within the DevOps category. It addresses compatibility concerns, the importance of maintaining functionality during migration, and the implications of cloud integration with on-premises systems. While it does not explicitly mention DevOps principles like CI/CD, it aligns with the core themes of collaboration between development and operations, as well as the role of tools in facilitating software delivery. The depth of discussion is substantial, covering specific challenges and considerations during the migration process, which enhances its relevance to the DevOps category.",
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, which is a specific technical task rather than a broader discussion on DevOps principles. While it touches on aspects like customisations and the importance of code safety, it lacks a comprehensive exploration of DevOps philosophies such as collaboration, automation, and shared accountability. The discussion is more about practical migration strategies than the cultural and process-oriented aspects of DevOps.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1396,11 +1396,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:41:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration from TFS to Azure DevOps, focusing on compatibility issues rather than Agile principles or product-centric development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations rather than the Agile Product Operating Model. While it touches on the importance of planning and adapting to new environments, it does not engage with the core principles or themes of APOM, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
   "Leadership": {

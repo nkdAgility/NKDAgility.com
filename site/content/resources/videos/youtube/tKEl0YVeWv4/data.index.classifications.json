@@ -1246,15 +1246,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:24:13",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content extensively discusses the role of automation in software development, which is a core principle of DevOps. It highlights the importance of automated deployments, testing, and the impact of automation on deployment frequency and reliability. The examples provided, such as Azure DevOps and the Knight Capital Group incident, illustrate real-world implications of automation in a DevOps context. The discussion aligns well with the cultural shifts and practices necessary for successful DevOps implementation, demonstrating a deep understanding of the subject matter.",
-    "level": "Primary"
+    "calculated_at": "2025-03-21T10:37:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on automation within software development, which is a key aspect of the DevOps philosophy. It discusses the importance of automated deployments, consistency, and the necessity of building quality into processes, all of which align with DevOps principles. However, while it touches on these themes, it does not explicitly discuss broader DevOps concepts such as collaboration, shared accountability, or cultural shifts, which slightly limits its depth of discussion. Overall, the content is relevant to DevOps, but it is more focused on automation as a tool rather than the holistic DevOps philosophy.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1486,11 +1486,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:57:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:37:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automation in software development without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on automation in software development, discussing its benefits and real-world implications. While it touches on aspects of product delivery, it does not explicitly mention the Agile Product Operating Model or its principles. The discussion lacks depth in relation to the core themes of APOM, such as transitioning to a product ethos or integrating agile methodologies with product management.",
     "level": "Ignored"
   },
   "Leadership": {

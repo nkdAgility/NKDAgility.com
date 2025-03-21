@@ -32,10 +32,10 @@ tags:
 - Organisational Agility
 - Market Adaptability
 - Agile Strategy
-- Agile Product Operating Model
 - Enterprise Agility
 - Agile Product Management
 - Agile Values and Principles
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

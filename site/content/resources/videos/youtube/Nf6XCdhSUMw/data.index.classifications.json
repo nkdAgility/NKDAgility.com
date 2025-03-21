@@ -1264,11 +1264,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:17:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:16:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management practices and metrics, which are not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management and data-driven decision-making, which are relevant to DevOps principles like continuous improvement and collaboration. However, it does not explicitly mention DevOps or its core themes, focusing instead on general management practices. The depth of discussion on DevOps-related concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1453,15 +1456,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T18:27:17",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T11:16:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses evidence-based management, which is relevant to Agile principles, but it does not explicitly focus on the Agile Product Operating Model. While it touches on metrics and decision-making, it lacks a direct connection to product-centric development or the specific themes outlined in the category description.",
-    "level": "Ignored"
+    "final_score": 57.0,
+    "reasoning": "The content discusses evidence-based management, which is a component of the Agile Product Operating Model, but it does not explicitly focus on the broader principles or practices of APOM. While it touches on data-driven decision-making and continuous improvement, it lacks a comprehensive exploration of the product-oriented mindset and the transition from project to product ethos that are central to APOM.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",

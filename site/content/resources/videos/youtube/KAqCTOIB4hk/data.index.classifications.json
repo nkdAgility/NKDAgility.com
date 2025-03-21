@@ -1297,11 +1297,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:24:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:16:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and product management, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on immersive learning and product management, with no explicit discussion of DevOps principles or practices. While it touches on themes of continuous improvement and collaboration, these are not framed within the context of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1492,12 +1495,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:27:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:16:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning for product managers, focusing on understanding and measuring value, which aligns with the Agile Product Operating Model. However, it primarily centres on the learning process rather than the model itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses immersive learning and its application in product management, touching on concepts like evidence-based management and continuous improvement. However, it does not explicitly focus on the Agile Product Operating Model or its core principles. While there are relevant themes, the primary focus remains on learning methodologies rather than the APOM framework itself.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

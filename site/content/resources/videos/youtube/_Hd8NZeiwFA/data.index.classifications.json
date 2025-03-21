@@ -10,11 +10,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-25T12:12:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T10:34:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on misconceptions about the 'junior' title. While it touches on team dynamics and leadership, it does not engage with DevOps principles, practices, or cultural shifts. The discussion is centred on Scrum, which is a separate framework from DevOps, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -202,11 +205,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-25T12:12:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role and importance of Scrum Masters, focusing on Scrum practices rather than the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T10:34:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the misconception of a 'junior' title, which is more focused on Scrum practices rather than the broader Agile Product Operating Model. While it touches on aspects of Agile and team dynamics, it lacks a direct connection to product management principles and the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Technical Leadership": {

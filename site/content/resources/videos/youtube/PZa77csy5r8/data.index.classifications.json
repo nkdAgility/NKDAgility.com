@@ -1258,14 +1258,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:27:08",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T10:39:39",
+    "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
-    "reasoning": "The content discusses technical debt and its implications on software delivery, referencing the Azure DevOps team's transition to continuous delivery. While it touches on aspects of DevOps, such as the importance of managing technical debt and improving delivery processes, the primary focus is on technical debt itself rather than a comprehensive exploration of DevOps principles or practices. The mention of continuous delivery and feedback loops indicates some alignment with DevOps concepts, but the depth of discussion is limited to technical debt management rather than a broader DevOps context.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses technical debt, which is relevant to DevOps, particularly in the context of continuous delivery and agile practices. However, it primarily focuses on the concept of technical debt rather than the broader principles of DevOps. While it mentions the Azure DevOps team and touches on feedback loops and quality, the overall emphasis is on managing technical debt rather than on the collaborative and cultural aspects of DevOps. Therefore, while there is some alignment, it does not fully meet the criteria for a primary focus on DevOps.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1507,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of technical debt on product delivery and value, which aligns with the Agile Product Operating Model's focus on maximising value delivery in product teams. However, the primary focus is on technical debt rather than the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T10:39:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses technical debt and its management, which is relevant to agile practices but does not explicitly focus on the Agile Product Operating Model. While it mentions a transition to a more agile model, the primary focus is on technical debt rather than the principles and practices of APOM.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

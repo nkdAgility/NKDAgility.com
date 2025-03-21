@@ -1273,14 +1273,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:24:26",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
+    "calculated_at": "2025-03-21T10:37:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content extensively discusses the benefits of frequent deployments, which aligns closely with DevOps principles such as Continuous Delivery (CD) and the importance of maintaining code quality. It highlights the role of automation and telemetry in improving deployment practices and reducing technical debt, which are key aspects of DevOps. The depth of discussion on how smaller batch sizes and frequent deployments can enhance collaboration and efficiency further supports its strong alignment with the DevOps category.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the benefits of frequent deployments, which aligns closely with DevOps principles such as continuous delivery, feedback loops, and shared accountability. It discusses the importance of smaller, manageable changes and the role of user feedback in improving code quality, which are key aspects of the DevOps philosophy. The depth of discussion on practical steps for improvement and the emphasis on iterative development further reinforce its alignment with DevOps. However, while it touches on relevant themes, it does not explicitly mention DevOps as a philosophy, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1513,12 +1513,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:57:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:37:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and smaller batch sizes, which align with Agile principles of iterative development and continuous feedback. However, it primarily focuses on technical practices rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which are aligned with agile principles. However, it lacks a direct focus on the Agile Product Operating Model and does not address key topics such as transitioning from project to product ethos or governance in product delivery.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

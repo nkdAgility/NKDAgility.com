@@ -28,30 +28,39 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T14:36:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:18:22",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile roles and training, which are not central to DevOps principles and practices.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Agile training for specific roles within Scrum, which is not directly related to DevOps principles. While there is a mention of team empowerment, it lacks explicit discussion of DevOps concepts such as collaboration, automation, or shared accountability. The content does not delve into the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T14:36:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:18:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on training programs for roles within Agile methodologies, specifically mentioning Scrum Masters and Product Owners, which aligns closely with the principles of the Social Technologies category.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile training, which relates to team dynamics and roles but lacks a direct focus on social technologies or their principles. While it touches on skills development, it does not delve into collaboration, decision-making, or value delivery in a meaningful way.",
+    "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T14:36:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:18:16",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum roles and training for Scrum Masters and Product Owners, indicating a significant but secondary theme related to Scrum within a broader Agile context.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content mentions Scrum roles such as Scrum Masters and Product Owners, indicating a direct reference to Scrum. However, it lacks detailed discussion on Scrum principles, practices, or frameworks, which limits its depth and overall alignment with the category. The focus is primarily on training rather than the Scrum framework itself.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1144,12 +1153,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T16:01:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:18:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses training programs related to Agile roles, which is relevant but does not primarily focus on the Agile Product Operating Model or its key principles. It is a major theme but not the central topic.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Agile training for roles like Scrum Masters and Product Owners, which aligns with the Agile framework. However, it lacks a direct focus on the Agile Product Operating Model and does not delve into the core principles or operational aspects of APOM, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1375,5 +1387,41 @@
     "final_score": 45.0,
     "reasoning": "The content discusses training programs for roles within Agile, which is related to operational practices, but it does not specifically focus on strategies or techniques for enhancing operational efficiency.",
     "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:18:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training programs and does not explicitly mention Artificial Intelligence or its application within Agile methodologies. While there is a general emphasis on enhancing team skills, it lacks any discussion on how AI could improve Agile practices or decision-making processes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:18:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training for Scrum roles and does not mention Internal Developer Platforms or their related concepts. It lacks any discussion on the efficiency of software development processes, automation, or the architecture of IDPs, which are essential for alignment with the category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:18:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile training for Scrum roles and does not explicitly mention the Shift-Left Strategy or its principles. While Agile practices may indirectly relate to early integration of processes, the content lacks direct discussion or depth on the Shift-Left approach, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

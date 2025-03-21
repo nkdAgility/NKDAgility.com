@@ -1309,11 +1309,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:18:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:11:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within Scrum, which is a specific Agile methodology rather than a discussion on DevOps principles. While there are elements of collaboration and feedback loops mentioned, the content does not explicitly address the broader DevOps philosophy or its key topics such as automation, shared accountability, or continuous improvement. The depth of discussion is moderate, but it lacks a direct connection to the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1498,12 +1501,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:11:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Sprint Review process, which is a key component of the Agile Product Operating Model, focusing on value delivery, stakeholder engagement, and continuous feedback.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within the Scrum framework, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on aspects of product management, such as maintaining the Product Backlog and integrating insights into future Sprints, it lacks a comprehensive exploration of the APOM principles and does not address the transition from project to product ethos or the integration of professional Scrum with product management practices. Therefore, while there are relevant elements, they are not the primary focus of the content.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",

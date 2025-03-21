@@ -19,12 +19,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-20T18:15:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:35:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses local optimisation and governance, which are not central to DevOps principles or practices.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of cross-functional collaboration and integration of governance into daily operations, which aligns with DevOps principles. However, it primarily focuses on the concept of local optimisation and governance rather than explicitly addressing DevOps practices or philosophies. The discussion lacks depth in terms of specific DevOps methodologies or cultural shifts, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -400,11 +403,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-20T19:47:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a metaphor about system optimization without a clear connection to Agile Product Operating Model principles or practices.",
+    "calculated_at": "2025-03-21T10:35:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses governance and organisational efficiency, which are relevant to the Agile Product Operating Model, but it does not explicitly mention agile methodologies or product management principles. The focus is more on avoiding local optimisation rather than on the core themes of APOM, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Organisational Culture": {

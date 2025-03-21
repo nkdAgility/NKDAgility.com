@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:26:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:28:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the Scaled Professional Scrum (SPS) course, which is centred around the Scrum framework and its application in scaling Scrum practices within organisations.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Scaled Professional Scrum (SPS) course, which focuses on scaling Scrum and addresses challenges related to self-management, transparency, and collaboration among teams. It explicitly mentions the importance of overcoming cross-team dependencies and enhancing collaboration, which aligns well with the core themes of Social Technologies. The depth of discussion is significant, as it details the course structure, techniques for scaling, and the interactive nature of the training, providing a comprehensive view of how these social frameworks can be applied in practice. However, the primary focus remains on the course and its certification rather than a broader discussion of social technologies, which slightly limits the overall confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:26:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:28:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scaled Professional Scrum and the Nexus framework, which are related to Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on scaling Scrum through the Scaled Professional Scrum with Nexus course, which is more aligned with Agile methodologies than DevOps principles. While it touches on collaboration and accountability, which are relevant to DevOps, the main emphasis is on Scrum practices and frameworks. The discussion lacks depth in core DevOps themes such as automation, continuous improvement, and shared accountability across development and operations teams.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:28:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:29:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on a specific Scrum training course and the Nexus framework, rather than discussing the Agile Product Operating Model as a holistic approach to product development.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on scaling Scrum through the Scaled Professional Scrum (SPS) course and the Nexus framework. While it discusses some aspects of agile methodologies, it does not explicitly address the Agile Product Operating Model or its core principles. The mention of scaling and cross-team collaboration aligns somewhat with the product-oriented mindset, but the depth of discussion is more centred on Scrum practices rather than the broader APOM framework. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:30:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:28:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily focuses on Scaled Professional Scrum and the Nexus Framework, which are directly related to Scrum principles and practices.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum (SPS) course, which is directly related to Scrum principles and practices. It discusses the challenges of scaling Scrum, the Nexus framework, and how it builds upon the foundational elements of Scrum. The content provides a detailed overview of the course structure, sessions, and the skills developed, indicating a strong alignment with Scrum's core themes. The depth of discussion is significant, covering practical applications and techniques for overcoming challenges in a scaled Scrum environment.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scaled Professional Scrum and the Nexus framework, which are not directly related to Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:28:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum methodologies and does not explicitly mention or discuss Artificial Intelligence. While it touches on Agile practices, it lacks any reference to AI's role in enhancing these processes or any related applications. The discussion is centred around Scrum frameworks and training, which are not aligned with the specified category of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:28:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on scaling Scrum methodologies and the Scaled Professional Scrum course, with no direct mention or discussion of Internal Developer Platforms. It does not align with the core themes of IDPs, such as streamlining development processes or automation, and lacks depth in discussing any relevant components or practices related to IDPs.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:29:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Nexus framework, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on challenges in scaling and collaboration, it does not align with the core themes of the Shift-Left Strategy, which is about proactive measures in the software development lifecycle.",
     "level": "Ignored"
   }
 }

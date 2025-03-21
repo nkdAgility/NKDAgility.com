@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Azure Repos and Git version control, with no clear discussion of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-03-21T11:23:42",
+    "ai_confidence": 52.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 47.0,
+    "reasoning": "The content mentions collaboration and teamwork, which are relevant to social technologies, but it primarily focuses on technical tools and processes within Azure DevOps. While it touches on aspects of collaboration, it lacks a deeper exploration of the underlying social frameworks and methodologies that promote self-organisation and collective intelligence. Therefore, while there is some alignment, it does not fully meet the criteria for a strong focus on social technologies.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:03:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:23:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on Azure Repos, which is a tool within Azure DevOps, and discusses its role in enhancing collaboration and code quality in software development. It covers various aspects of version control and integration with development tools, aligning well with DevOps principles.",
+    "final_score": 61.0,
+    "reasoning": "The content mentions Azure DevOps Services and Azure Repos, which are tools that facilitate collaboration and code quality, aligning with the DevOps philosophy. However, the discussion is primarily focused on the tools themselves rather than the broader principles and cultural shifts of DevOps. The content lacks depth in exploring key DevOps concepts such as shared accountability, automation, or continuous improvement, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:24:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Azure Repos and Git version control, with no direct discussions about the Agile Product Operating Model or its principles.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions tools for planning and delivering software, which aligns with agile principles, but it lacks a direct focus on the Agile Product Operating Model. The discussion is primarily centred around Azure DevOps and collaboration tools rather than the core themes of APOM, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily focuses on Azure Repos and Git version control within Azure DevOps, without discussing Scrum principles, roles, events, or related topics.",
+    "calculated_at": "2025-03-21T11:23:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions team collaboration and delivering software, which are relevant to Scrum principles, but it does not explicitly discuss Scrum roles, events, or artifacts. The focus is primarily on Azure DevOps tools rather than Scrum practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure DevOps and version control with Azure Repos, with no mention or discussion of Lean Startup principles, MVP, or iterative learning processes.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:23:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Services and collaboration tools, with no explicit mention of Artificial Intelligence. While it discusses software development processes, it does not explore how AI integrates into Agile methodologies or DevOps practices. The alignment with the category is minimal, as it lacks core themes related to AI's role in enhancing decision-making or automating tasks. The depth of discussion is moderate, but it does not delve into AI applications, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:23:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Azure DevOps Services and Azure Repos, which are tools that could be part of an Internal Developer Platform. However, it does not explicitly discuss the concept of an IDP, its purpose, benefits, or best practices. The focus is more on collaboration and code quality rather than the broader framework of streamlining development processes, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:23:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions tools for development and collaboration but does not explicitly discuss the Shift-Left Strategy or its principles. While it touches on aspects of software development, it lacks a focused discussion on integrating testing, security, or compliance early in the lifecycle, which are core to the Shift-Left concept.",
     "level": "Ignored"
   }
 }
