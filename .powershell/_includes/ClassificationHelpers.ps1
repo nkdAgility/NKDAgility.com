@@ -206,9 +206,25 @@ function Get-ClassificationsForType {
     # Find items from the catalogue that we don't have.
     $CatalogItemsToRefreshOrGet = @($catalog.Keys | Where-Object { $_ -notin $cachedData.Keys })
     # Find items from the CatalogFromCache that are out of date.
-    $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object {
-        (-not $_.calculated_at) -or ([DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date)
-        } | Select-Object -ExpandProperty category)
+    $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
+        $CatalogFromCache.Values | Where-Object {
+            if (-not $_.calculated_at) {
+                $true
+            }
+            elseif (
+                $catalog_full.ContainsKey($_.category) -and
+                $_.calculated_at -and
+                $catalog_full[$_.category].date
+            ) {
+                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date
+            }
+            else {
+                $false
+            }
+        } | Select-Object -ExpandProperty category
+    )
+
+    $watermarkCount = $CatalogItemsToRefreshOrGet.Count
     $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
     if ($waterMarkRefresh -le 0) {
         $waterMarkRefresh = [math]::Abs($waterMarkRefresh)

@@ -11,9 +11,10 @@ $levelSwitch.MinimumLevel = 'Debug'
 
 # Get list of directories and select the first 10
 $classes = @();
-$classes = Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
-$classes += Get-ChildItem -Path ".\site\content\categories\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
-#$classes += Get-ChildItem -Path ".\site\content\concepts\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+$classes += Get-ChildItem -Path ".\site\content\concepts\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+#$classes += Get-ChildItem -Path ".\site\content\tags\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+#$classes += Get-ChildItem -Path ".\site\content\categories\" -Recurse -Filter "_index.md" | Sort-Object { $_ } -Descending | Select-Object -First 300 
+
 
 
 # Total count for progress tracking
@@ -224,7 +225,7 @@ When generating the description, consider the following contexts and include rel
             # Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'BodyContentGenDate' -fieldValue $updateDate -Overwrite
         }
 
-        if ($hugoMarkdown.BodyContent ) {
+        if ($hugoMarkdown.BodyContent -and -not ($hugoMarkdown.FolderPath -notlike "concepts")) {
             $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
             $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -byLevel -classifications $typesClassification | Select-Object -First 1
             $types = $typesClassificationOrdered | ForEach-Object { $_.category }

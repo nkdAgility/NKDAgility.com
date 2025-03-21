@@ -1,29 +1,41 @@
 ---
 title: Continuous Delivery
+date: 2025-03-21T13:37:32Z
 trustpilot: false
-date: 2025-02-11T10:17:24Z
-description: Deliver changes safely and quickly with Continuous Delivery (CD). Ensure every change is production-ready with minimal manual intervention.
+description: Continuous Delivery is the practice of frequently delivering small increments of valuable product directly to real users, enabling rapid feedback, validation, and continuous improvement from the very first iteration.
 Instructions: |-
   **Use this category only for discussions on Continuous Delivery.**  
-  The scope of this category encompasses the principles, practices, and methodologies that enable teams to deliver software changes to production in a safe, efficient, and automated manner. Continuous Delivery (CD) aims to ensure that every change made to the codebase is production-ready, allowing for rapid deployment with minimal manual intervention.
+  Continuous Delivery is a disciplined software delivery practice that focuses on producing software in short, reliable cycles, ensuring that it can be released at any moment. The purpose of this category is to explore the principles, practices, and benefits of Continuous Delivery, emphasising its role in enhancing software quality and responsiveness to user needs.
 
-  **Key topics to be discussed under this category include:**
-  - The principles and practices of Continuous Delivery as outlined by Jez Humble and Dave Farley.
-  - The role of automation in testing, integration, and deployment processes.
-  - Strategies for maintaining a production-ready state of the codebase.
-  - The importance of version control and branching strategies in CD.
-  - Techniques for managing and mitigating deployment risks.
-  - The relationship between Continuous Delivery and DevOps practices.
-  - Metrics and feedback loops that support Continuous Delivery initiatives.
-  - Case studies and real-world applications of Continuous Delivery in organisations.
+  **Key topics to be discussed under this category:**
+  - Definition and principles of Continuous Delivery
+  - The role of automation in testing, integration, and deployment
+  - Techniques for delivering small, incremental improvements
+  - The importance of rapid feedback and validation from users
+  - Strategies for reducing errors and improving software quality
+  - Cultural aspects of Continuous Delivery, including continuous learning and innovation
+  - Case studies and examples of successful Continuous Delivery implementations
+  - Tools and frameworks that support Continuous Delivery practices
 
-  **Strictly exclude** any discussions that deviate from the core principles of Continuous Delivery, such as unrelated software development methodologies, project management practices not tied to CD, or misinterpretations of the Continuous Delivery framework.
+  **Strictly exclude** unrelated content such as general software development practices that do not specifically address Continuous Delivery, discussions on unrelated methodologies (e.g., Agile without a focus on delivery), or misinterpretations of Continuous Delivery principles.
 headline:
   cards: []
   title: Continuous Delivery
-  subtitle: Streamline your release process to ensure rapid, reliable delivery of changes with minimal manual effort and maximum readiness for production.
-  content: Achieve rapid and reliable software delivery by ensuring every change is production-ready through automated testing, integration, and deployment. Posts should explore practices for minimising manual effort, enhancing collaboration, and maintaining quality, while addressing the complexities of change management and team dynamics in software development.
-  updated: 2025-02-13T12:05:30Z
+  subtitle: Streamlined software delivery for rapid user feedback and continuous improvement through reliable, incremental releases.
+  content: A disciplined approach to software delivery that emphasises frequent, incremental releases directly to users, enabling swift validation of ideas and continuous enhancement. Posts should explore automation in testing and deployment, user feedback mechanisms, risk management, and strategies for fostering a culture of innovation and responsiveness.
+  updated: 2025-03-21T13:37:35Z
+aliases:
+- /learn/agile-delivery-kit/first-principals/continuous-delivery/
+concepts:
+- Practice
 
 ---
+Continuous Delivery is a disciplined software delivery practice aimed at producing software in short, reliable cycles, ensuring that it can be released at any moment. It involves consistently delivering small, incremental improvements directly into the hands of real users, from the very first iteration.
 
+According to Jez Humble, Continuous Delivery is:
+
+> "The ability to get changes—features, configuration changes, bug fixes, experiments—into production or into the hands of users safely, quickly, and in a sustainable way."
+
+This practice allows teams to rapidly validate assumptions, gather user feedback, and iterate towards the most valuable outcomes. By automating key elements like testing, integration, and deployment, Continuous Delivery reduces the risk of errors, improves software quality, and accelerates time-to-value.
+
+Teams embracing Continuous Delivery can swiftly adapt to market demands and stakeholder feedback, fostering a culture of continuous learning, innovation, and responsiveness.
