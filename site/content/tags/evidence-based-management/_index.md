@@ -1,28 +1,25 @@
 ---
 title: Evidence Based Management
 trustpilot: false
-date: 2025-02-11T10:17:24Z
-description: Applying empirical evidence to optimise organisational agility and decision-making.
-Instructions: |-
-  **Use this category only for discussions on Evidence-Based Management.**  
-  The scope of Evidence-Based Management (EBM) encompasses the application of empirical evidence to enhance organisational agility and improve decision-making processes. This category aims to provide insights into how data-driven approaches can inform management practices and foster a culture of continuous improvement.
-
-  **Key topics that should be discussed under this category include:**
-  - The principles and practices of Evidence-Based Management as outlined by Ken Schwaber and Jeff Sutherland.
-  - Techniques for measuring and evaluating organisational performance using empirical data.
-  - The role of metrics and key performance indicators (KPIs) in guiding decision-making.
-  - Case studies demonstrating the successful application of EBM in various organisational contexts.
-  - The integration of EBM with Agile methodologies to enhance responsiveness and adaptability.
-  - Strategies for fostering a culture of evidence-based decision-making within teams and organisations.
-  - The impact of EBM on stakeholder engagement and collaboration.
-
-  **Strictly exclude** any discussions that deviate from the core principles of Evidence-Based Management, such as anecdotal evidence, unverified claims, or practices that do not rely on empirical data. Misinterpretations of EBM that suggest a purely subjective or opinion-based approach to management should also be avoided.
-headline:
-  cards: []
-  title: Evidence Based Management
-  subtitle: Harnessing data-driven insights to enhance organisational effectiveness and informed decision-making across diverse frameworks.
-  content: Utilising empirical data to enhance organisational performance and strategic decision-making, this classification encompasses practices that promote continuous improvement, adaptability, and responsiveness. Topics include metrics for assessing effectiveness, frameworks for managing complexity, and techniques for fostering a culture of evidence-driven insights.
-  updated: 2025-02-13T12:04:31Z
-
+ResourceId: dN0v6E1KsNd
+description: Evidence-Based Management (EBM) is a strategy for improving an organisation’s ability to deliver value by making decisions based on evidence, not opinion. It enables data-informed investment in agility, innovation, and outcomes rather than output.
+aliases:
+  - /methods/ebm/
+  - /learn/agile-delivery-kit/strategies/evidence-based-management/
+  - /resources/dN0v6E1KsNd
 ---
 
+Too many organisations talk about being agile, but they’re still flying blind. Evidence-Based Management (EBM) is a strategy to fix that. It’s not a framework, a methodology, or a tool. It’s a way to stop pretending we’re improving and start proving it.
+
+EBM gives us a structure for inspecting how well we're delivering value and where to invest next. It’s built around four key areas:
+
+1. **Current Value** – Are we delivering value now, or are we just burning cash? Customer satisfaction, revenue per employee, and product usage give us the truth.
+2. **Time to Market** – How fast can we learn, deliver, and respond to change? Cycle time, release frequency, and time spent stabilising releases tell us whether we’re built for speed or for bureaucracy.
+3. **Ability to Innovate** – Can we create new value, or are we buried under technical debt and bloated backlogs? Look at innovation rate, feature usage, and how much of the product is actually used.
+4. **Unrealised Value** – What’s the opportunity cost of staying the same? If we had fewer constraints, where could we win?
+
+These aren’t vanity metrics. They’re signals that help leaders make real decisions about where to focus, where to invest, and what to stop doing. You don’t need a prescription. You need clarity, direction, and feedback.
+
+EBM enables an empirical approach to strategic improvement. It’s not about tracking everything. It’s about measuring the right things, at the right time, to drive better outcomes. If you're not using data to improve how you deliver value, then you're not doing agility. You're doing theatre.
+
+If you want to move beyond output metrics and start managing for outcomes, EBM gives you the scaffolding to do that—without pretending there’s a silver bullet. It’s messy. It’s iterative. But it works.

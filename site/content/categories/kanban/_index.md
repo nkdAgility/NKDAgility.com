@@ -2,6 +2,7 @@
 title: Kanban
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+ResourceId: _O7H5eH902L
 description: A strategy for making work observable, managing flow, and continuously improving value delivery. Specifically Kanban as outlined in the Kanban Guide.
 Instructions: |-
   **Use this category only for discussions on Kanban.**  
@@ -23,9 +24,11 @@ Instructions: |-
 headline:
   cards: []
   title: Kanban
-  subtitle: A framework for visualising work, optimising flow, and enhancing value delivery through continuous improvement and collaboration.
+  subtitle: A strategy for visualising work, optimising flow, and enhancing value delivery through continuous improvement and collaboration.
   content: A method for visualising work processes, enhancing flow management, and fostering continuous improvement. Posts should explore topics such as work item visualisation, cycle time reduction, throughput optimisation, and the application of metrics for informed decision-making, drawing on insights from industry thought leaders and established frameworks.
   updated: 2025-02-13T11:59:20Z
-
+aliases:
+  - /methods/kanban-strategy/
+  - /learn/agile-delivery-kit/strategies/kanban-strategy/
+  - /resources/_O7H5eH902L
 ---
-
