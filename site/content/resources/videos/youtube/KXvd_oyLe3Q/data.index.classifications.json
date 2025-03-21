@@ -1300,14 +1300,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:37:49",
-    "ai_confidence": 92.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 95.0,
+    "calculated_at": "2025-03-21T11:15:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
-    "reasoning": "The content extensively discusses the implementation of DevOps practices within a large organisation, detailing the challenges faced and the solutions developed to achieve continuous delivery. It highlights the importance of automation, collaboration, and cultural shifts necessary for successful DevOps transformation. The narrative includes specific examples of metrics and outcomes related to DevOps, such as build execution rates and feature delivery improvements, demonstrating a deep understanding of the principles and practices of DevOps. Overall, the content is highly relevant and focused on the core themes of the DevOps category.",
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the implementation of DevOps practices, focusing on the challenges and transformations within an organisation. It highlights key aspects such as technical debt, collaboration across teams, and the importance of refactoring, which are central to the DevOps philosophy. The depth of the discussion is significant, providing detailed examples and outcomes of a DevOps transformation, thus aligning well with the core themes of the category.",
     "level": "Primary"
   },
   "Azure DevOps": {
@@ -1498,12 +1498,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:15:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of organisational effectiveness and product development, particularly in the context of DevOps, which aligns with the Agile Product Operating Model. However, the primary focus is on DevOps practices rather than a direct exploration of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and technical debt rather than the Agile Product Operating Model. While it touches on themes of efficiency and team dynamics, it lacks direct references to the principles of APOM, such as product-oriented mindsets or continuous delivery in a product context.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

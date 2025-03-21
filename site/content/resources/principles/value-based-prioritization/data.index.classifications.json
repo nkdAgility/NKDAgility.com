@@ -1270,11 +1270,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T20:52:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:12:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the concept of delivering value, which is a core principle of DevOps. However, it primarily focuses on value-based prioritization within a Scrum context, lacking a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The depth of discussion is minimal, as it does not explore how these concepts integrate into a DevOps framework.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1468,15 +1471,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T17:55:51",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "calculated_at": "2025-03-21T11:12:18",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses value-based prioritization, which aligns with the Agile Product Operating Model's focus on value delivery. However, it primarily centres on backlog prioritization within a Scrum context, lacking broader discussions on product-centric development principles, cross-functional teams, or continuous feedback mechanisms. The depth of discussion is limited, focusing mainly on prioritization without exploring the wider implications for product development.",
-    "level": "Secondary"
+    "final_score": 50.0,
+    "reasoning": "The content discusses value-based prioritization, which aligns with the core principles of the Agile Product Operating Model, particularly in delivering customer-centric value. However, it lacks a comprehensive exploration of the APOM framework and its broader implications, focusing instead on specific practices within Scrum. This results in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

@@ -1291,14 +1291,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:28:50",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-03-21T10:41:01",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 28.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which indirectly relates to DevOps principles such as Continuous Integration and Continuous Delivery. It highlights the importance of engineering practices and the need for a cultural shift towards quality, which aligns with DevOps goals. However, the primary focus is on the consequences of poor coding practices rather than a direct exploration of DevOps methodologies or tools, leading to a moderate confidence score.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of code quality and its impact on productivity, which aligns with DevOps principles of continuous improvement and shared accountability. However, it primarily focuses on the costs associated with poor-quality code rather than explicitly addressing DevOps practices or cultural shifts. The mention of Azure DevOps provides a connection to the category, but the overall discussion lacks depth in DevOps-specific strategies or methodologies.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1495,11 +1495,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:03:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:41:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the costs associated with poor quality code and its impact on productivity and brand reputation, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 24.0,
+    "reasoning": "The content discusses the importance of code quality and its impact on productivity and brand reputation, but it does not explicitly mention the Agile Product Operating Model or its principles. While there are elements of continuous improvement and team efficiency that align with agile methodologies, the primary focus is on technical debt and code quality rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Leadership": {

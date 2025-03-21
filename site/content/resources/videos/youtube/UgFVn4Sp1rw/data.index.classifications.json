@@ -1273,14 +1273,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T16:48:45",
+    "calculated_at": "2025-03-21T10:37:53",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on product development costs and financial management within teams, with a significant emphasis on Scrum practices. While it touches on aspects of team dynamics and decision-making that could relate to DevOps, it lacks a direct discussion of DevOps principles, practices, or tools. The mention of metrics and time to market aligns somewhat with DevOps themes, but the overall focus remains on cost management rather than the integration of development and operations or continuous delivery.",
+    "reasoning": "The content primarily focuses on financial aspects of product development rather than DevOps principles. While it touches on concepts like team empowerment and continuous improvement, it lacks direct references to DevOps practices, automation, or collaboration between development and operations. The discussion is more aligned with product management and financial awareness than with the core themes of DevOps.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -1510,12 +1510,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:58:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T10:37:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the financial aspects of product development within an Agile framework, focusing on cost management, value delivery, and the importance of understanding market dynamics, which aligns closely with the principles of the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which aligns with some principles of the Agile Product Operating Model, such as continuous improvement and value delivery. However, it lacks direct mentions of agile methodologies or a product-oriented mindset, focusing more on financial metrics than on the core themes of APOM.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

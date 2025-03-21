@@ -73,11 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:07:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:42:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on cloud migration and specific tool usage, without discussing DevOps principles, practices, or related topics.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on cloud migration using a specific Microsoft tool, which is more aligned with cloud computing practices than DevOps principles. While it touches on preparation and proactive measures, it lacks a direct discussion of DevOps concepts such as collaboration, automation, or shared accountability. The mention of tools and processes does not sufficiently align with the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -112,11 +115,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:07:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:42:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration tools and customizations, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration using a specific Microsoft tool, with no direct mention of Agile methodologies or the Agile Product Operating Model. While it briefly touches on planning and task management, these concepts are not explored in the context of product management or agile principles, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Decision Theory": {

@@ -1234,11 +1234,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T16:23:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:39:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses estimation and forecasting in software projects, which is not central to DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses software estimation and project management techniques, specifically focusing on probabilistic forecasting. While it touches on themes relevant to Agile methodologies, it does not explicitly mention DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, collaboration, or automation, which are core to the category. Therefore, while there is some conceptual alignment with the need for adaptability and efficiency, the primary focus remains outside the DevOps domain.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -1465,15 +1468,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T17:02:34",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-03-21T10:39:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses estimation in software projects, focusing on probabilistic forecasting, which is relevant to Agile principles. However, it primarily centres on estimation techniques rather than the broader Agile Product Operating Model. While it touches on concepts like reducing batch size and building confidence, it lacks a comprehensive exploration of product-centric development, cross-functional teams, or continuous feedback mechanisms, which are core to the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses estimation in software projects and introduces probabilistic forecasting, which aligns with agile principles. However, it primarily focuses on estimation techniques rather than the broader Agile Product Operating Model. The mention of agile practices is limited, and while there is some conceptual alignment with agile methodologies, the depth of discussion on the Agile Product Operating Model itself is minimal.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

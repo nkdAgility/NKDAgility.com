@@ -1312,11 +1312,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T10:59:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:42:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring practices and the roles of Scrum Masters, focusing on Agile methodologies rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the roles of Scrum Masters and Product Owners, which are not central to the DevOps philosophy. While there are mentions of continuous improvement and collaboration, the focus is more on hiring practices and leadership within Agile frameworks rather than the core principles of DevOps such as automation, shared accountability, and cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1504,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:04:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:42:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of capability and competence in roles such as product owners and scrum masters, which aligns with the Agile Product Operating Model's focus on value delivery and effective product teams. However, it primarily critiques current practices rather than providing a clear, structured discussion on the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile roles and the importance of competence in leadership, but it primarily focuses on hiring practices and organisational capability rather than the Agile Product Operating Model itself. While it touches on themes relevant to Agile, such as continuous improvement and leadership, it lacks a direct focus on the principles and practices specific to the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

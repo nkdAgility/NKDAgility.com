@@ -1309,15 +1309,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:49:24",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T10:41:55",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their need to understand DevOps principles and practices, which aligns with the DevOps category. However, the primary focus is on the competence crisis within Scrum roles rather than a comprehensive exploration of DevOps itself. While there are mentions of DevOps and its relevance to software engineering practices, the depth of discussion primarily revolves around Scrum and Agile methodologies, which are not strictly within the DevOps category. Therefore, the confidence score reflects a moderate alignment with the DevOps category.",
-    "level": "Secondary"
+    "final_score": 34.0,
+    "reasoning": "While the content discusses the role of Scrum Masters and touches on the importance of understanding DevOps principles, it primarily focuses on the competence crisis within Scrum roles rather than the broader DevOps philosophy. The mention of DevOps is limited and does not delve into its core themes, such as collaboration, automation, or shared accountability, which are central to the DevOps category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1507,11 +1507,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:41:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the competence crisis in Scrum Master roles and the skills required for effective Scrum Masters, rather than focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the competence crisis in Scrum Master roles, which is related to agile practices but does not focus on the Agile Product Operating Model itself. While it touches on aspects of agile methodologies and the role of Scrum Masters in supporting product owners, it lacks a direct discussion on the principles and frameworks of the Agile Product Operating Model. The content is more about the challenges and skills required for Scrum Masters rather than the broader product-oriented mindset and continuous delivery principles central to APOM.",
     "level": "Ignored"
   },
   "Leadership": {

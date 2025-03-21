@@ -1282,15 +1282,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:28:01",
-    "ai_confidence": 92.0,
-    "ai_mentions": 18,
-    "ai_alignment": 38,
-    "ai_depth": 36,
+    "calculated_at": "2025-03-21T10:40:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "The content extensively discusses Continuous Integration (CI) and Continuous Delivery (CD), which are core principles of DevOps. It provides detailed insights into the importance of mainline branching, the distinction between CI/CD and automated builds, and the cultural shifts necessary for effective implementation. The author also references real-world examples, such as Google's mono repo approach and Microsoft's deployment strategies, which align with the DevOps focus on collaboration and efficiency. Overall, the content is highly relevant to the DevOps category, with a strong emphasis on its principles and practices.",
-    "level": "Primary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of building a culture of quality and technical excellence, which aligns with DevOps principles of collaboration and shared accountability. However, it primarily focuses on cultural aspects and Agile frameworks rather than the core DevOps practices like automation, feedback loops, or continuous delivery. While CI/CD is mentioned, the discussion lacks depth in DevOps-specific methodologies and practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1489,14 +1489,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T17:13:17",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-21T10:40:22",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with the Agile Product Operating Model's focus on value delivery. However, it primarily centres on cultural aspects and technical leadership rather than explicitly addressing the Agile Product Operating Model or its principles. The mention of Agile frameworks is brief and does not delve into product-centric development or strategies for maximising value delivery, leading to a moderate confidence score.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of a culture of quality and touches on Agile frameworks, but it primarily focuses on engineering excellence and organisational culture rather than the specific principles and practices of the Agile Product Operating Model. While Agile is mentioned, it is not the primary focus, and the discussion lacks depth in relation to APOM's core themes.",
     "level": "Ignored"
   },
   "Leadership": {

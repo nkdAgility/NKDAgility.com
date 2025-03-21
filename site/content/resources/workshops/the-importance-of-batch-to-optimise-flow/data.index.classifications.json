@@ -1306,11 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:13:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:11:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum practices and batch processing rather than DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop about optimising flow through batch processing, which is more aligned with Agile methodologies than DevOps principles. While it touches on concepts like flow and efficiency, it lacks direct discussions on DevOps practices, shared accountability, or cultural shifts. The depth of discussion is moderate, but the primary focus is not on DevOps as a philosophy, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1504,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:10:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:11:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces of value, which aligns with principles of product-centric development and maximising value delivery. However, it primarily focuses on a workshop format and specific facilitation steps rather than a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop about optimising flow through batch processing, which is relevant to agile practices but does not explicitly discuss the Agile Product Operating Model or its core principles. While it touches on concepts like breaking down backlog items and improving delivery, it lacks a direct connection to the broader themes of APOM, such as product management integration or continuous improvement frameworks. The depth of discussion is moderate, primarily centred on practical exercises rather than strategic insights into the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

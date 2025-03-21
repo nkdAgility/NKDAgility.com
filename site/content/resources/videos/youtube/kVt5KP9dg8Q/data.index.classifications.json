@@ -1294,15 +1294,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T18:35:39",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-03-21T11:17:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses aspects of continuous delivery and the importance of quality in software delivery, which aligns with DevOps principles. However, it primarily focuses on Agile methodologies and the challenges of achieving true agility, rather than on DevOps practices or tools. The mention of continuous delivery is brief and secondary to the overall discussion about Agile, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of continuous delivery and the integration of quality practices, which are key aspects of DevOps. It highlights the need for collaboration across teams and the elimination of bureaucratic barriers, aligning well with DevOps principles. However, the primary focus is on Agile methodologies rather than DevOps as a philosophy, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1498,12 +1498,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:30:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:17:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Agile practices and the importance of quality in product delivery, but it primarily focuses on the challenges and reflections on Agile implementation rather than a comprehensive exploration of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of a fully Agile ecosystem and continuous delivery, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on the challenges of Agile implementation rather than the core aspects of the APOM itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

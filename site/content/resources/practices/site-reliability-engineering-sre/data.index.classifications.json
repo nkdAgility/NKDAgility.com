@@ -1183,14 +1183,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:31:50",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-03-21T10:44:16",
+    "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
-    "reasoning": "The content discusses practices related to running production sites and the responsibilities of engineering teams, which aligns with DevOps principles. It mentions transparency and telemetry, which are relevant to monitoring and collaboration in DevOps. However, the focus is more on Site Reliability Engineering (SRE) rather than a comprehensive exploration of DevOps practices, leading to a moderate confidence score.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Site Reliability Engineering (SRE) and its connection to the shift-left movement, which aligns with DevOps principles. However, while it touches on relevant topics such as transparency and telemetry, it lacks a comprehensive exploration of DevOps as a philosophy. The focus is more on SRE practices rather than a broader DevOps discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1408,11 +1408,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:11:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:44:19",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the responsibilities of engineering teams, which are not central to the Agile Product Operating Model.",
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on Site Reliability Engineering (SRE) and the shift-left movement, which are not directly related to the Agile Product Operating Model. While there are mentions of practices that could be tangentially related to agile methodologies, the core principles and discussions around product management and the Agile Product Operating Model are absent. The content does not provide any substantial detail or direct references to the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Leadership": {

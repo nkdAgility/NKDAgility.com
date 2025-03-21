@@ -1270,15 +1270,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T16:56:16",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T10:38:32",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
-    "reasoning": "The content discusses hypothesis-driven engineering practices and touches on the allocation of resources in product development, which aligns with some DevOps principles. However, it primarily focuses on product management and decision-making rather than the core themes of DevOps such as CI/CD, automation, or collaboration between development and operations teams. The mention of Azure DevOps is relevant but not central to the discussion, leading to a lower confidence score.",
-    "level": "Ignored"
+    "final_score": 61.0,
+    "reasoning": "The content discusses hypothesis-driven engineering and product investment strategies, which are not strictly aligned with DevOps principles. While it mentions Azure DevOps, the primary focus is on product management and experimentation rather than the core themes of DevOps such as collaboration, automation, and shared accountability. The discussion lacks depth in DevOps-specific practices and does not explore the cultural shifts or principles necessary for effective DevOps implementation.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1507,11 +1507,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:59:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses hypothesis-driven engineering practices and their role in maximising product value, which aligns closely with the principles of product-centric development and continuous feedback in the Agile Product Operating Model.",
+    "calculated_at": "2025-03-21T10:38:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses hypothesis-driven engineering, which aligns with agile principles and the focus on customer-centric value. However, it does not explicitly mention the Agile Product Operating Model or its key topics, leading to a moderate confidence score. The depth of discussion on agile practices is significant, but it lacks a direct connection to the APOM framework.",
     "level": "Secondary"
   },
   "Leadership": {

@@ -1309,11 +1309,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:16:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile principles and their impact on business predictability, without a clear focus on DevOps practices or principles.",
+    "calculated_at": "2025-03-21T10:42:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles and their role in achieving business predictability, which is not directly aligned with the core principles of DevOps. While it touches on themes like collaboration and continuous improvement, it lacks a strong emphasis on the integration of development and operations, automation, and shared accountability that are central to DevOps. The discussion of Agile methodologies, while relevant to software development, does not sufficiently address the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1501,12 +1504,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:05:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and their role in achieving business predictability, which aligns with the Agile Product Operating Model. However, it primarily focuses on predictability rather than the broader aspects of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T10:42:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles and their role in achieving predictability, which aligns with the Agile Product Operating Model. However, it primarily focuses on general Agile methodologies rather than specifically addressing the APOM framework or its core principles. While there are mentions of Agile's adaptability and empowerment, the depth of discussion on product management practices and the transition from project to product ethos is limited.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

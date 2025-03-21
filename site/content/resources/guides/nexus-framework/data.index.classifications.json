@@ -1312,11 +1312,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T13:42:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:44:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Nexus framework and its relationship to Scrum, focusing on scaling Scrum practices rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Nexus framework for scaling Scrum, which is a methodology rather than a discussion on DevOps principles. While it touches on collaboration and integration, it does not delve into the core themes of DevOps such as automation, shared accountability, or continuous improvement in the context of software delivery. The emphasis is on Scrum roles and events, which are not aligned with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1495,11 +1498,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:44:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the Nexus framework, which is an extension of Scrum aimed at scaling product delivery. While it touches on aspects of product-centric development and value delivery, the focus is more on the framework and its implementation rather than a holistic discussion of the Agile Product Operating Model.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the Nexus framework, which is a method for scaling Scrum rather than directly addressing the Agile Product Operating Model (APOM). While it discusses principles of collaboration and integration among teams, it does not explicitly mention the transition from project to product ethos or the broader principles of APOM. However, it does provide a detailed exploration of how multiple teams can work together to deliver a single product, which aligns with the product-oriented mindset of APOM. The depth of discussion is significant, covering various aspects of the Nexus framework, but it lacks a direct connection to the key topics outlined in the APOM definition.",
     "level": "Tertiary"
   },
   "Leadership": {

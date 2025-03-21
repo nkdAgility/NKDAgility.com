@@ -1219,15 +1219,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:40:35",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
+    "calculated_at": "2025-03-21T11:17:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on the intricacies of migrating data within Azure DevOps, which is a core aspect of DevOps practices. It discusses the challenges and considerations involved in the migration process, including identity management, version control, and the importance of following proper procedures to ensure a successful transition. The detailed exploration of potential pitfalls and the emphasis on the role of operations and development teams in this context aligns well with the principles of DevOps, particularly in terms of collaboration and the integration of processes and tools. The depth of discussion regarding specific issues and solutions further supports a high confidence score in the DevOps category.",
-    "level": "Primary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the migration process within Azure DevOps, discussing critical aspects such as identity alignment, order of operations, and backup procedures. While it does not explicitly delve into the broader philosophy of DevOps, it aligns well with key principles such as collaboration, automation, and shared accountability in the context of migration. The depth of discussion on migration best practices and common pitfalls indicates a strong understanding of DevOps principles, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

@@ -1159,12 +1159,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T17:21:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:39:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of bad code and technical debt, which are not central to DevOps practices or principles.",
-    "level": "Ignored"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of accountability, code quality, and technical debt, which are relevant to DevOps principles. However, it primarily focuses on software development practices rather than the broader DevOps philosophy, which includes collaboration and automation across teams. While it touches on aspects like code reviews and automated testing, it lacks a comprehensive exploration of DevOps culture and practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1372,11 +1375,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:39:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and coding practices, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality rather than the Agile Product Operating Model. While it touches on accountability and team dynamics, it does not explicitly discuss the principles or practices of APOM, nor does it address the transition from project to product ethos or the integration of agile methodologies with product management. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Leadership": {

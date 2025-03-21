@@ -1306,14 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T16:46:03",
+    "calculated_at": "2025-03-21T10:37:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, which is more aligned with Agile methodologies than DevOps. While it touches on automation and quality measures, it lacks a direct focus on DevOps principles, practices, or tools. The discussion is more about Scrum roles and processes rather than the integration of development and operations teams, which is central to DevOps.",
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within the Scrum framework, which is a specific methodology rather than a discussion on DevOps principles. While it touches on aspects of quality assurance and automation, which are relevant to DevOps, the overall emphasis is on Scrum roles and processes, leading to a lower confidence score for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1501,12 +1501,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:37:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done in Scrum, which is relevant to Agile practices and product quality, but it primarily focuses on Scrum roles and events rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within the Scrum framework, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model (APOM). While it touches on aspects of quality and product delivery, it does not explicitly address the key themes of APOM such as transitioning to a product ethos or integrating product management principles. The discussion is detailed regarding the DoD but lacks a comprehensive exploration of the APOM framework, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

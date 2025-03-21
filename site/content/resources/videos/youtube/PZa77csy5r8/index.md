@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 Technical debt is a term that often gets thrown around in the tech community, but what does it really mean? As someone who has navigated the complexities of software development for years, I can tell you that technical debt is a significant challenge for organisations. In simple terms, technical debt refers to the future costs incurred when you or your team opt for quick, short-term solutions instead of more robust, long-term approaches. 

@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

@@ -1309,11 +1309,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T13:37:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:43:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, which is a specific methodology for agile project management, rather than discussing DevOps principles or practices. While there are some overlapping themes, such as collaboration and iterative processes, the content does not explicitly address the core tenets of DevOps, such as automation, shared accountability, or continuous value delivery.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1492,15 +1495,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T17:37:42",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-21T10:43:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily focuses on the Scrum framework, which is a specific implementation of Agile principles. While it discusses roles, events, and artefacts that are relevant to Agile product development, it does not explicitly address the broader Agile Product Operating Model or its key topics such as value delivery strategies or cross-functional team dynamics. The discussion is more about Scrum practices than the holistic approach to product-centric development, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, detailing its roles, events, and artefacts. While Scrum is an agile methodology, the discussion does not explicitly address the Agile Product Operating Model or its principles. The content lacks a product-oriented mindset and does not explore the integration of product management practices, which are central to the Agile Product Operating Model. Therefore, it only marginally aligns with the category.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

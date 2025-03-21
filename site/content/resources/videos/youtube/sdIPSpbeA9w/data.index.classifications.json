@@ -1243,15 +1243,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:25:07",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 32.0,
+    "calculated_at": "2025-03-21T10:38:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content discusses the importance of automation in software development, which is a key principle of DevOps. It highlights the role of automation in reducing human error, improving efficiency, and closing feedback loops, all of which align with DevOps practices. The mention of Azure DevOps tools and the transformation of testing processes further supports its relevance to the category. However, while it touches on DevOps principles, the focus is more on automation and human error rather than a comprehensive discussion of DevOps as a whole, which slightly limits its depth and alignment.",
-    "level": "Primary"
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of automation in software development, which is a key principle of DevOps. It highlights the need for reducing human error and improving efficiency, aligning well with the DevOps philosophy of continuous value delivery and shared accountability. The examples provided illustrate the impact of automation on workflow and feedback loops, which are central to DevOps practices. However, while the content is relevant, it does not explicitly mention DevOps as a philosophy or its broader cultural implications, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1483,11 +1483,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:58:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:38:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of automation in software development and its impact on reducing human error, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses automation in software development and its impact on reducing human error, without any direct reference to the Agile Product Operating Model or its principles. While it touches on efficiency and workflow improvements, it does not align with the core themes of APOM, such as product management practices or continuous delivery. The discussion lacks depth regarding the Agile framework, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Leadership": {

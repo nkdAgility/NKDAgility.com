@@ -1342,11 +1342,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T19:44:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:40:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical debt and product delivery rather than DevOps principles or practices.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses technical debt and its impact on product quality and delivery, which aligns with some DevOps principles, particularly around continuous value delivery and the importance of quality. However, it lacks explicit references to DevOps practices, cultural shifts, or collaboration between teams, which are central to the DevOps philosophy. The focus is more on product management and quality rather than the broader DevOps framework.",
     "level": "Ignored"
   },
   "People and Process": {
@@ -1444,15 +1447,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T17:13:51",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-03-21T10:40:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality product and managing technical debt, which aligns with the Agile Product Operating Model's focus on value delivery and continuous improvement. However, it does not explicitly mention Agile principles or frameworks, and the primary focus is on technical debt rather than the broader Agile operating model. The depth of discussion on product quality and value delivery is significant, but it lacks direct references to Agile methodologies or the product-centric approach, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of delivering a high-quality product and managing technical debt, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on technical debt rather than explicitly addressing the broader aspects of the APOM framework, such as the transition from project to product ethos or the integration of agile practices with product management. While there are mentions of agility and value delivery, the depth of discussion on APOM-specific topics is limited.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

@@ -1249,11 +1249,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T21:10:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:12:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which is a concept related to team dynamics but does not explicitly address DevOps principles or practices. While there is a focus on collaboration, the discussion lacks depth in exploring how this aligns with the broader DevOps philosophy, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1450,14 +1453,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-14T17:56:50",
+    "calculated_at": "2025-03-21T11:12:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content briefly mentions self-organization within Scrum teams, which is a component of Agile methodologies. However, it lacks a broader discussion on the Agile Product Operating Model, such as value delivery, product-centric development, or cross-functional team dynamics. The focus is primarily on Scrum practices rather than the holistic approach required for the Agile Product Operating Model.",
+    "reasoning": "The content briefly mentions self-organization within Scrum teams, which is a component of agile practices. However, it lacks a direct focus on the Agile Product Operating Model as a whole. The discussion does not cover key topics such as transitioning to a product ethos, integration with product management, or operational stability, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Platform Engineering": {

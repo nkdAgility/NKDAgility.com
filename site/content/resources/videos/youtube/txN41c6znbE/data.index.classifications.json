@@ -1306,11 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:09:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the competence crisis within Scrum roles, without a clear focus on DevOps principles, practices, or tools.",
+    "calculated_at": "2025-03-21T10:42:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the competence crisis within Agile roles, particularly focusing on Scrum Masters. While there are some themes of continuous learning and improvement that could tangentially relate to DevOps principles, the core focus is on Agile practices rather than the integration of people, processes, and technology that defines DevOps. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1504,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:04:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and the importance of competence within Agile roles, particularly Scrum Masters, but it primarily focuses on the competence crisis rather than the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T10:42:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile principles and the importance of competence within Agile roles, particularly Scrum Masters. However, it primarily focuses on the competence crisis and hiring practices rather than the Agile Product Operating Model itself. While there are mentions of Agile practices and the need for continuous learning, the content does not delve deeply into the core themes of the Agile Product Operating Model, such as product-oriented mindsets or operational stability in product delivery.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

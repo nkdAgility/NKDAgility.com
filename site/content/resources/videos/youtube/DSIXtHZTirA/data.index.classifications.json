@@ -1303,15 +1303,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:27:45",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 50,
-    "final_score": 83.0,
-    "reasoning": "The content extensively discusses principles of DevOps, particularly focusing on performance engineering, continuous delivery, and audience-based deployment models. It highlights the importance of automation in testing and deployment, which aligns well with DevOps practices. The mention of Azure DevOps as a case study further strengthens its relevance to the category. The depth of discussion on real-world applications and the cultural shifts necessary for successful implementation also contribute to a high confidence score.",
-    "level": "Primary"
+    "calculated_at": "2025-03-21T10:40:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses concepts related to DevOps, such as shifting left and continuous integration/delivery, which align with DevOps principles. However, the primary focus is on performance engineering and technical leadership rather than a comprehensive exploration of DevOps as a philosophy. The mention of 'shifting left' indicates some alignment with DevOps practices, but the overall depth and direct mentions are not sufficient to classify it as a primary focus on DevOps.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1507,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses performance engineering and testing in production, which are relevant to Agile principles, but the primary focus is on technical practices rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T10:40:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses performance engineering and the importance of quality in product development, which aligns with some principles of the Agile Product Operating Model, such as value creation and continuous improvement. However, it primarily focuses on engineering practices rather than the broader framework of APOM, making it a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

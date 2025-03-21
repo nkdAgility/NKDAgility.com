@@ -1333,12 +1333,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T19:53:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:40:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature delivery and experimentation in software development without a clear focus on DevOps principles or practices.",
-    "level": "Ignored"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transformation of feature delivery through smaller experiments and a culture of continuous improvement, which aligns with DevOps principles. It highlights the importance of feedback loops, reduced risk, and customer-centric development, all of which are key themes in DevOps. However, it does not explicitly mention DevOps or its practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1504,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:40:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transformation of feature delivery through experimentation, which aligns with principles of continuous feedback and iteration in product development, but it does not fully encompass the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transformation of feature delivery through smaller experiments and a customer-centric approach, which aligns with the principles of the Agile Product Operating Model. However, it lacks explicit references to the APOM framework and does not delve deeply into its specific components, such as governance or organisational structure.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

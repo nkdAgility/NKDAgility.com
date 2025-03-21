@@ -42,8 +42,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

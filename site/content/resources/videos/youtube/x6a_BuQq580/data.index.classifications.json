@@ -1213,15 +1213,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-14T17:18:55",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-21T10:41:14",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses cloud migration and mentions Azure DevOps, which is related to DevOps practices. However, the primary focus is on the migration process itself rather than the principles, practices, or cultural aspects of DevOps. While there are elements of planning and tooling that align with DevOps, the discussion lacks depth in terms of DevOps principles like CI/CD, automation, or collaboration between teams.",
-    "level": "Ignored"
+    "final_score": 59.0,
+    "reasoning": "The content discusses cloud migration and the use of Azure DevOps, which is relevant to DevOps practices. However, it primarily focuses on the technical aspects of migration rather than the broader DevOps philosophy, principles, or cultural shifts. While it touches on planning and communication, it lacks depth in discussing collaboration, automation, or shared accountability, which are core to DevOps. Therefore, while there is some alignment, it is not the primary focus.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1396,11 +1396,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:41:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud migration processes and challenges, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and does not discuss the Agile Product Operating Model or its principles. While it mentions planning and communication, these are not specific to agile methodologies or product management, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {

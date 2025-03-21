@@ -1180,11 +1180,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T09:20:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:44:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Increment, which is more aligned with Agile methodologies rather than DevOps principles and practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Increment, which is more aligned with Agile methodologies rather than DevOps principles. While it touches on the idea of delivering value through iterations, it lacks explicit discussions on key DevOps themes such as collaboration, automation, or shared accountability. The mention of 'enhancing the product's value' is too vague to establish a strong connection to DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1351,11 +1354,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:12:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T10:44:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content only briefly mentions the concept of a product increment without discussing the Agile Product Operating Model or its principles in depth.",
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the concept of a Product Increment, which is relevant to agile methodologies, but it does not explicitly discuss the Agile Product Operating Model or its core principles. The focus is more on the outcome of development rather than the broader framework of APOM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {

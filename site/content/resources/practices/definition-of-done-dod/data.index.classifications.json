@@ -1333,14 +1333,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:52:22",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-03-21T10:44:27",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which is related to software delivery practices. While it touches on aspects of quality assurance and the importance of a shared understanding of what constitutes 'done', it primarily focuses on Scrum methodology rather than the broader principles of DevOps. There are mentions of automation and quality checks that align with DevOps practices, but the overall emphasis is on Scrum processes, which limits its direct relevance to the DevOps category.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, which is a framework that can be part of a DevOps approach. However, it does not explicitly focus on the broader principles of DevOps such as collaboration, automation, or shared accountability. While it touches on quality and the importance of a shared understanding, it lacks a comprehensive exploration of DevOps practices and cultural shifts. The mention of DevOps is limited and more of a peripheral reference rather than a central theme.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1501,12 +1501,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T10:44:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) within the context of Scrum, which is a key aspect of Agile methodologies. However, it primarily focuses on technical practices and quality assurance rather than a holistic view of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within the Scrum framework, which is a specific agile practice rather than a discussion on the Agile Product Operating Model (APOM). While it touches on aspects of quality and team collaboration, it does not delve into the broader principles of APOM, such as transitioning to a product ethos or integrating product management practices. The discussion is more aligned with Scrum processes than with the overarching themes of APOM.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

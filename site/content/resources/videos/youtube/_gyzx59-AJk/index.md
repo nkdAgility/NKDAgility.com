@@ -34,10 +34,10 @@ tags:
 - Deployment Frequency
 - Product Delivery
 - Value Delivery
-- Agile Product Operating Model
 - Business Agility
 - Digital Transformation
 - Metrics and Learning
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

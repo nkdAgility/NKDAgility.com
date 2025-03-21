@@ -1213,14 +1213,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:43:34",
+    "calculated_at": "2025-03-21T10:38:00",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
     "final_score": 61.0,
-    "reasoning": "The content discusses technical debt and its implications on software quality and delivery, which are relevant to DevOps principles. It touches on continuous delivery and the need for quality in the context of deployment, but it lacks a direct focus on DevOps practices, tools, or cultural shifts. While it provides some depth regarding the consequences of technical debt and examples of architectural decisions, it does not explicitly address the broader DevOps framework or metrics for success.",
+    "reasoning": "The content discusses technical debt and its implications on product quality and development processes, which are relevant to DevOps principles such as continuous improvement and the importance of quality in software delivery. However, it does not explicitly mention DevOps or its core themes, focusing instead on technical debt management and quality assurance. The discussion lacks depth in terms of DevOps practices and cultural shifts, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1447,11 +1447,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical debt and quality issues in product development, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T10:38:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt and quality management in product development, which are relevant to agile practices. However, it does not explicitly mention the Agile Product Operating Model or its core principles. While there are elements of continuous improvement and a focus on product quality, the primary focus is on technical debt rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Leadership": {

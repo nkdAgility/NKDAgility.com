@@ -1330,11 +1330,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T15:57:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:14:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a workshop for product discovery and validation, with an emphasis on Agile methodologies rather than DevOps principles or practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a product validation workshop and agile methodologies, with no direct discussion of DevOps principles or practices. While there are mentions of collaboration and customer-centric development, these concepts are not explicitly tied to the DevOps philosophy, which emphasises continuous value delivery and shared accountability across development and operations. The overall emphasis is on product discovery rather than the integration of people, processes, and technology typical of DevOps discussions.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1495,12 +1498,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:14:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses product validation and discovery skills, which are relevant to the Agile Product Operating Model, but it primarily focuses on a workshop rather than a comprehensive discussion of the model itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily promotes a workshop on product validation and discovery, which touches on customer-centric development and agile principles. However, it lacks a direct focus on the Agile Product Operating Model as a framework, and does not delve into its core themes such as operational stability, governance, or Evidence-Based Management. The discussion is more about skills and techniques rather than the overarching model itself.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

@@ -1306,14 +1306,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:28:36",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 50,
-    "final_score": 75.0,
-    "reasoning": "The content discusses concepts related to quality assurance and engineering practices, such as 'shift left' and test-driven development, which are relevant to DevOps principles. However, it primarily focuses on software engineering practices rather than the broader integration of development and operations teams. While it touches on automation and team dynamics, it lacks a comprehensive exploration of DevOps tools, cultural shifts, and metrics, which are crucial for a higher confidence score in the DevOps category.",
+    "calculated_at": "2025-03-21T10:40:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of integrating quality early in the development process, which aligns with the DevOps principle of shifting left. It also emphasises automation in the code review process to reduce blockers, reflecting the DevOps focus on continuous value delivery and minimising delays. However, while it touches on relevant themes, the primary focus is on code reviews rather than a broader discussion of DevOps principles, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1507,12 +1507,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile practices and the importance of quality assurance in product development, but it primarily focuses on technical practices and engineering excellence rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T10:40:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses code reviews and quality assurance in software development, which are relevant to agile practices but do not specifically address the Agile Product Operating Model. While it mentions agile and product management, the primary focus is on code quality rather than the broader principles and frameworks of APOM. The depth of discussion on agile practices is present, but it lacks a direct connection to the core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

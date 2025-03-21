@@ -31,7 +31,6 @@ tags:
 - Value Delivery
 - Pragmatic Thinking
 - Ability to Innovate
-- Agile Product Operating Model
 - Agile Product Management
 - Products and Books
 - Decision Making

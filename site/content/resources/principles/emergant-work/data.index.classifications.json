@@ -1219,11 +1219,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T21:03:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:13:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback, which does not align with DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which aligns with the DevOps principle of feedback loops. However, it lacks explicit mentions of DevOps as a philosophy or detailed discussion on its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1408,11 +1411,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T17:28:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:13:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content briefly mentions user feedback but does not discuss the Agile Product Operating Model or its principles in depth.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the concept of emerging work and user feedback, which aligns with agile principles of responsiveness and iterative delivery. However, it lacks explicit discussion of the Agile Product Operating Model, its core principles, or detailed exploration of product management practices. The focus is too vague and does not provide sufficient depth or direct mentions to warrant a higher confidence score.",
     "level": "Ignored"
   },
   "Platform Engineering": {
