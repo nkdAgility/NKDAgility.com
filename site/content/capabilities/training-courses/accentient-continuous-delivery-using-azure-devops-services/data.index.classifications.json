@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:05:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:26:47",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps principles and practices that relate to teamwork and continuous improvement, which are relevant to Agile methodologies, but the primary focus is on Azure DevOps rather than the specific frameworks of Scrum, Kanban, Lean, or Agile.",
-    "level": "Tertiary"
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention social technologies or related concepts. It lacks any discussion on collaboration, decision-making, or value delivery, which are core themes of the category. The absence of detail and context further diminishes its relevance to the category, resulting in a very low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,12 +22,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:05:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:26:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on DevOps principles and practices, specifically in the context of Continuous Delivery using Azure DevOps Services, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 18.0,
+    "reasoning": "The content title suggests a focus on Azure DevOps Services, which is a tool related to DevOps practices. However, the description lacks any specific details or discussions about DevOps principles, methodologies, or cultural shifts. As a result, while there is a mention of DevOps in the title, the overall content does not provide substantial information or alignment with the core themes of the DevOps philosophy.",
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -505,12 +511,12 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-03-21T11:26:42",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content primarily focuses on technical training related to DevOps principles and practices rather than directly addressing resilience and change management concepts.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous delivery and DevOps, which are related to Agile principles and value delivery in a product context, but it primarily focuses on technical training rather than a holistic discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:26:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention the Agile Product Operating Model or its key topics. It lacks any discussion on transitioning to a product ethos, agile principles, or product management practices, which are central to the category. The absence of relevant details results in a very low confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum in the context of a course on DevOps, indicating it is a relevant theme but not the primary focus of the content.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:26:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It lacks any discussion on Agile principles or team dynamics, which are core to the Scrum framework. The title suggests a focus on Continuous Delivery and Azure DevOps, which are not aligned with Scrum discussions. Therefore, the confidence score is very low, reflecting minimal relevance to the Scrum category.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on Continuous Delivery and DevOps principles, which are not specifically aligned with Lean Startup methodology.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:26:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not mention Artificial Intelligence directly and lacks any discussion related to its application in Agile methodologies, DevOps practices, or software development processes. The title suggests a focus on Azure DevOps Services, which is not aligned with the specified category. Overall, the content does not provide any relevant information to support a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:26:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Internal Developer Platforms or their key components. It lacks any discussion on the benefits, architecture, or best practices related to IDPs. The title suggests a focus on Continuous Delivery and Azure DevOps, which are not directly aligned with the IDP concept. Overall, the content does not meet the criteria for a meaningful discussion on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:26:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It lacks any discussion on integrating testing, security, or compliance early in the development process, and there are no details provided that align with the core themes of the category. The content is too vague and does not provide any depth on the topic.",
     "level": "Ignored"
   }
 }

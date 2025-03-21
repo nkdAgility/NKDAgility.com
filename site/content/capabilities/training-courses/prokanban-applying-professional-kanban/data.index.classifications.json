@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:03:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the Kanban framework, detailing its principles, practices, and application in team environments, which aligns closely with the category of Social Technologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T11:22:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions collaborative growth and real-time application, which aligns with the principles of social technologies. However, it primarily focuses on the Kanban course structure and learning methodology without delving deeply into the core themes of self-organisation, decision-making, or value delivery. The discussion lacks explicit references to social technologies or their impact on organisational culture, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:03:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:22:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban training and methodologies, which are not central to DevOps principles and practices.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is a project management methodology rather than a discussion on DevOps principles. While there are elements of collaboration and continuous learning mentioned, they do not explicitly align with the core themes of DevOps, such as automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on a Kanban course and does not primarily discuss Agile Product Operating Model concepts or frameworks.",
+    "calculated_at": "2025-03-21T11:22:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is not directly related to the Agile Product Operating Model. While it mentions agile principles, it does not discuss product management or the core themes of APOM, such as transitioning to a product ethos or operational stability in product delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily focuses on Kanban training and practices, which are unrelated to Scrum principles and framework.",
+    "calculated_at": "2025-03-21T11:22:41",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on a Kanban course, with no direct mentions of Scrum principles, roles, or events. It does not align with the core themes of Scrum, such as iterative progress or team dynamics, and lacks depth in discussing any Scrum-related topics.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily focuses on Kanban training and principles, which is not directly related to Lean Startup methodology or concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:22:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a Kanban course and does not mention AI or its applications in Agile or DevOps. While it discusses learning methodologies, it lacks any direct connection to AI, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:22:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is unrelated to Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes of IDPs, such as streamlining development processes or automation. The depth of discussion is also minimal, as it revolves around training methodologies rather than the IDP framework.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:22:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course and does not explicitly mention the Shift-Left Strategy or its principles. While it discusses continuous learning and practical application, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

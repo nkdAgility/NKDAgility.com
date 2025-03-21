@@ -4,7 +4,9 @@ description: Empower leaders with the skills to drive agile transformation in yo
 ResourceId: CujSf0EnB7d
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 date: 2017-05-07
+weight: 635
 creator: Martin Hinshelwood
 type: course
 slug: professional-agile-leadership-essentials-pal-e-with-certification
@@ -16,7 +18,7 @@ aliases:
 - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
 - /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
 - /resources/CujSf0EnB7d
-aliasesFor404:
+aliasesArchive:
 - /training-courses/professional-agile-leadership
 - /training-courses/professional-agile-leadership-essentials-training
 - /training-courses/professional-agile-leadership-essentials-training-with-certification
@@ -39,10 +41,10 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Agile Frameworks
-- Events and Presentations
 - Agile Strategy
-- Value Delivery
-- Technical Leadership
+- Business Agility
+- Events and Presentations
+- Organisational Agility
 - Organisational Change
 - People and Process
 categories:

@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:01:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:18:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a course on product discovery and validation, which includes Scrum training and focuses on enhancing collaboration and value creation in product development, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention social technologies or related concepts. It lacks any discussion on collaboration, decision-making, or value delivery, which are core themes of the category. The absence of detail and context further diminishes its relevance to the category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:01:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:18:04",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product discovery and validation skills, with an emphasis on Scrum training, which does not align with the core principles of DevOps.",
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention DevOps or its principles. It lacks any discussion on the core themes of DevOps, such as collaboration, automation, or shared accountability. The absence of relevant details further diminishes its alignment with the category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:18:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enhancing value creation in product development, which aligns with the Agile Product Operating Model's focus on value-driven product development. However, the primary emphasis seems to be on specific skills for product discovery and validation, making Agile principles a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention the Agile Product Operating Model or its key topics. It lacks any substantial discussion on agile methodologies or product management principles, making it difficult to align with the category. The absence of relevant details further diminishes its relevance.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:20:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses a course titled 'Professional Product Discovery and Validation Skills (PPDV)' which includes Scrum training courses and mentions roles such as Product Owners. However, the main focus seems to be on product discovery and validation methods rather than on Scrum principles and practices themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:17:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It lacks any discussion on Agile principles or team dynamics, which are core to the Scrum framework. The absence of relevant details means that the content does not align with the category, resulting in a very low confidence score.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1375,5 +1387,41 @@
     "final_score": 45.0,
     "reasoning": "The content discusses product discovery and validation through techniques that involve experimentation and evidence collection, which are key themes in Lean Startup methodology. However, it mainly focuses on a training course and does not explicitly frame these techniques within the Lean Startup context, making it a secondary theme.",
     "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:18:06",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not mention Artificial Intelligence at all and lacks any discussion related to Agile methodologies, DevOps practices, or software development processes. It appears to be a request for information rather than a substantive discussion on the topic.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:18:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Internal Developer Platforms at all and lacks any relevant discussion on the key topics associated with IDPs. It appears to focus on product discovery and validation skills, which are unrelated to the IDP concept.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:18:11",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not mention the Shift-Left Strategy or its principles, nor does it discuss any related topics such as testing, security, or compliance in the software development lifecycle. The lack of relevant information and focus on product discovery and validation skills indicates a minimal connection to the category.",
+    "level": "Ignored"
   }
 }

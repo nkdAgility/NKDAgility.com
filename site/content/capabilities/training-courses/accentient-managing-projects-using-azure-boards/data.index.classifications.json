@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:03:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:23:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on Agile practices, specifically Scrum roles and events, as well as the use of Azure Boards to facilitate project management within an agile team.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content mentions collaboration and teamwork in the context of using Azure Boards, which aligns with the principles of social technologies. However, it primarily focuses on the technical aspects of Azure DevOps and does not delve deeply into the underlying social frameworks or methodologies that promote collaboration and decision-making. The discussion lacks depth regarding the impact of social technologies on organisational culture or specific techniques for fostering collective intelligence.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:03:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:23:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Azure Boards, which is a tool within the Azure DevOps suite, and focuses on agile project management practices. While it touches on DevOps concepts, the primary focus is on project management and Scrum methodologies rather than core DevOps principles.",
+    "final_score": 43.0,
+    "reasoning": "The content mentions Azure DevOps Services and discusses tools for planning and tracking software development, which aligns with some DevOps principles. However, it primarily focuses on the use of Azure Boards and agile methodologies rather than the broader DevOps philosophy, making it a secondary mention rather than a primary focus.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content focuses on managing projects using Azure Boards and includes Agile principles like planning and managing a sprint, and working with a product backlog, but it is primarily about the use of a specific tool rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:23:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on using Azure Boards for project management within an agile context. While it mentions agile teams and collaboration, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more aligned with project management tools rather than the broader framework of APOM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum concepts such as the Product Backlog and planning and managing a sprint, but it primarily focuses on using Azure Boards for agile project management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:23:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile principles and teamwork, which are relevant to Scrum, but it primarily focuses on Azure Boards as a tool rather than the Scrum framework itself. While there is an emphasis on collaboration and planning, the specific Scrum roles, events, and artifacts are not discussed in detail, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on managing projects using Azure Boards within an agile framework and does not discuss Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:23:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure Boards and Agile project management without any explicit mention of Artificial Intelligence. While it discusses tools for planning and tracking in software development, it does not explore how AI integrates into these processes or enhances them, which is essential for alignment with the category. The discussion lacks depth regarding AI applications, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:23:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure Boards and agile methodologies, which are not directly related to the concept of Internal Developer Platforms. While it mentions tools for planning and tracking work, it lacks a clear discussion on the IDP's purpose, benefits, or architecture. The content does not delve into how these tools streamline development processes or fit within the broader context of an IDP.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:23:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using Azure Boards for project management within an agile framework. While it mentions planning and tracking work, it does not explicitly discuss the Shift-Left Strategy or its principles. The alignment with the category is weak, as it lacks detailed exploration of integrating testing, security, or compliance early in the development process. Overall, the content is more about project management tools than the proactive approach of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

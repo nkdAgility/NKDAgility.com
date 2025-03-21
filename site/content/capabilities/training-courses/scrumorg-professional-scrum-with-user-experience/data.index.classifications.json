@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:04:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:25:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the integration of UX practices within the Scrum framework, focusing on roles, collaboration, and continuous improvement, which aligns closely with the principles of Social Technologies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of UX within Scrum, highlighting collaboration and cross-functional teamwork, which aligns with the principles of social technologies. However, it primarily focuses on UX techniques and certification rather than a broader discussion on social technologies or their impact on organisational culture and behaviour. The mention of community support and collaborative learning adds to the relevance, but the depth of discussion on social technologies is limited.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:05:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:25:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and UX integration, which does not align with the core principles of DevOps.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and UX, which are not central to DevOps principles. While there are mentions of collaboration and cross-functional teams, the discussion lacks depth in DevOps concepts such as automation, shared accountability, and continuous improvement. The emphasis is on Scrum methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:26:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of UX into Scrum and touches on aspects of product teams, user-centric approaches, and continuous value delivery within an Agile framework, but it primarily focuses on Scrum and UX rather than a broader discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the role of UX within the Scrum framework, which is a specific agile practice rather than a comprehensive discussion on the Agile Product Operating Model. While it mentions collaboration and value delivery, it lacks a detailed exploration of the core principles and themes of APOM, such as transitioning to a product ethos or operational governance.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:25:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content focuses on integrating User Experience (UX) practices within the Scrum framework, highlighting Scrum roles, team dynamics, and specific outcomes related to Scrum principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of UX within the Scrum framework, highlighting the importance of cross-functional teams and collaborative practices. While it mentions Scrum and its principles, the focus on Lean UX and dual-track agile processes indicates a broader scope that slightly dilutes the primary focus on Scrum itself. The depth of discussion on Scrum roles and events is moderate, primarily contextualised within the UX perspective.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -1306,12 +1318,12 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-03-21T11:25:40",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content focuses primarily on a Scrum training course with an emphasis on the integration of UX practices in Scrum, which is more about agile training rather than organisational change strategies. It does touch on collaboration within Scrum teams, but does not primarily address organisational change processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily focuses on Scrum and UX integration, which are not central to Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:25:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and UX, with no direct mention of Artificial Intelligence or its application within Agile methodologies or DevOps practices. While it discusses collaboration and product development, it does not explore how AI can enhance these processes, thus lacking alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:25:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and UX practices, with no direct mention of Internal Developer Platforms. It discusses the role of UX in Scrum and does not align with the core themes of IDPs, such as streamlining development processes or automation. The depth of discussion is limited to Scrum methodologies, which are unrelated to the IDP concept.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:25:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss the Shift-Left Strategy. While it touches on collaborative practices and Lean UX, it lacks a direct connection to integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

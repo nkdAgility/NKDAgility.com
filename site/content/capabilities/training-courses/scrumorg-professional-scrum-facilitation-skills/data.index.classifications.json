@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:02:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:21:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on enhancing facilitation skills within Scrum Teams, which aligns closely with the principles and practices of the Scrum framework.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses facilitation skills within Scrum Teams, which aligns with the principles of self-organisation and collaboration. It mentions fostering transparency and building consensus, key aspects of social technologies. However, while it touches on these themes, the primary focus is on facilitation techniques rather than a broader discussion of social technologies as a framework. The depth of discussion is moderate, providing practical applications but lacking extensive exploration of the underlying social frameworks.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:02:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:21:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills, which is a specific agile methodology rather than the broader DevOps philosophy. While it mentions team dynamics and collaboration, it does not address key DevOps principles such as automation, shared accountability, or continuous improvement. The discussion is centred around Scrum roles and practices, which are not aligned with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Scrum facilitation skills rather than the Agile Product Operating Model as a whole.",
+    "calculated_at": "2025-03-21T11:21:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on facilitation skills within Scrum teams, which is a specific agile practice rather than a discussion on the Agile Product Operating Model. While it mentions Scrum and team dynamics, it does not address the broader principles or frameworks of APOM, such as transitioning to a product ethos or operational governance. The discussion is more about enhancing team interactions and facilitation techniques, which are relevant to agile but do not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:21:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content focuses on enhancing facilitation skills specifically for Scrum Teams, highlighting the importance of Scrum roles, events, and values in team collaboration, which aligns well with Scrum practices.",
+    "final_score": 79.0,
+    "reasoning": "The content focuses on enhancing facilitation skills specifically for Scrum Teams, which directly relates to Scrum principles and practices. It discusses the importance of self-managing and cross-functional teams, which aligns with Scrum's emphasis on team dynamics. The course aims to improve interactions within Scrum Teams and addresses common Scrum-related scenarios, indicating a strong conceptual alignment with Scrum's core themes. The depth of discussion is significant, as it outlines specific skills and techniques that participants will learn, contributing to a high confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum facilitation and does not focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:21:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills and does not mention AI or its applications in Agile or DevOps. While it discusses team dynamics and facilitation techniques, it lacks any direct reference to AI, its integration, or its impact on Agile methodologies. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:21:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills and does not discuss Internal Developer Platforms. It briefly touches on team dynamics and problem-solving within Scrum teams, which is unrelated to the IDP concept. There are no direct mentions of IDPs, and the discussion lacks depth regarding the framework, benefits, or implementation of an Internal Developer Platform.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:21:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum facilitation skills and does not discuss the Shift-Left Strategy or its principles. While it touches on team dynamics and problem-solving, it lacks any mention of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

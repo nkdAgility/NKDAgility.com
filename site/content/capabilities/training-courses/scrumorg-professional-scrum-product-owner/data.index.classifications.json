@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:04:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:25:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum Product Owner course, detailing Scrum principles, roles, and practices, which are central to the category of Social Technologies.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile principles and the role of the Product Owner, which relates to team dynamics and decision-making. However, it lacks a comprehensive discussion on social technologies, collaboration, or value delivery frameworks, focusing instead on the technical aspects of the Scrum methodology.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:04:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:25:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum Product Owner role and Agile principles, with no significant discussion on DevOps practices, tools, or principles.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and the role of the Product Owner, which are not aligned with the core principles of DevOps. While Agile principles are mentioned, they do not directly address the collaborative and automated nature of DevOps practices. The discussion lacks depth in terms of DevOps concepts such as shared accountability, continuous improvement, or automation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -586,12 +592,12 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:48:46",
+    "calculated_at": "2025-03-21T11:25:18",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "While the content discusses the Product Owner role within the Scrum framework and mentions agile principles, it is primarily focused on team-level agile practices, certifications, and individual roles rather than strategies for scaling agility across the organization.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:48:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, emphasizing the transition from a traditional project-based mindset to a product-centric approach. It covers key concepts such as value-driven development, aligning product vision with business strategy, and continuous improvement, which are central to the Agile Product Operating Model.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-21T11:25:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, which is a component of agile methodologies. While it mentions Agile principles, it does not explicitly discuss the Agile Product Operating Model or its core themes such as transitioning to a product ethos or operational stability in product delivery. The depth of discussion is limited to the Product Owner role, lacking broader insights into the APOM framework.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:48:47",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-21T11:25:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily focuses on the Product Owner role within the Scrum framework, detailing the principles, responsibilities, and practices associated with Scrum. The course description, objectives, and content highlight key aspects of Scrum and its application in product management.",
-    "level": "Primary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly mentions the Product Owner role, which is a key aspect of the Scrum framework. It aligns with Agile principles and highlights practical exercises, indicating a focus on Scrum practices. However, it lacks detailed discussion on other Scrum roles, events, or artifacts, which limits the depth of the content.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "The content primarily discusses Scrum and Product Owner roles, which are related to Agile principles but do not focus explicitly on Lean Startup methodologies like MVPs, Build-Measure-Learn feedback loops, or validated learning.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:25:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the Scrum framework and the role of a Product Owner within Agile methodologies, with no explicit mention of Artificial Intelligence or its applications in Agile or DevOps. The discussion lacks any alignment with the core themes of AI integration, automation, or decision-making enhancement, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:25:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within the Scrum framework, which is unrelated to Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes or provide any depth on the topic of IDPs.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:25:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within the Scrum framework, with no explicit mention of the Shift-Left Strategy or its principles. While Agile principles are referenced, they do not specifically address the integration of testing, security, or compliance earlier in the development process, which is central to the Shift-Left concept. Therefore, the content does not align with the category's key topics or provide any depth on the subject.",
     "level": "Ignored"
   }
 }

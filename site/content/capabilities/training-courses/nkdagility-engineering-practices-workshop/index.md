@@ -4,7 +4,9 @@ description: Join our workshop for an engaging demo and discussion on agile soft
 ResourceId: 0HKCf4ALF5Y
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 date: 2013-09-06
+weight: 770
 creator: Martin Hinshelwood
 type: course
 slug: engineering-practices-workshop
@@ -12,7 +14,7 @@ url:
 aliases:
 - /training-courses/engineering-practices-workshop/
 - /resources/0HKCf4ALF5Y
-aliasesFor404:
+aliasesArchive:
 - /training-courses/engineering-practices-workshop/
 course-topics:
 - Engineering Training Courses
@@ -26,9 +28,7 @@ delivery-audiences:
 tags:
 - Events and Presentations
 - Software Development
-categories:
-- Engineering Excellence
-- Social Technologies
+categories: []
 preview: 
 previewIcon: NKD-Eng.png
 brandColour: 

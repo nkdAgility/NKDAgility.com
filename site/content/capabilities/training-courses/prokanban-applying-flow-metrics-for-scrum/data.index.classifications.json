@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:01:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:18:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 2,
+    "ai_depth": 3,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on applying flow metrics within the Scrum framework, discussing roles, events, and practical strategies for enhancing Agile practices.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Scrum and flow metrics, which are technical aspects of Agile practices. While it mentions collaboration and continuous improvement, these concepts are secondary to the technical discussion of metrics. The course does not explicitly address broader social technologies or frameworks that promote collaboration and decision-making within organisations, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:18:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum practices and flow metrics, which are not central to DevOps discussions.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile practices, with a specific emphasis on flow metrics within that framework. While there are elements of continuous improvement and efficiency, which are relevant to DevOps, the core discussion revolves around Scrum methodologies rather than the broader DevOps philosophy. The lack of direct mentions of DevOps principles and the absence of a detailed exploration of shared accountability, automation, or cross-functional collaboration further diminish its alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,11 +709,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on flow metrics within the Scrum framework, without discussing the Agile Product Operating Model or product-centric development.",
+    "calculated_at": "2025-03-21T11:18:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum practices and flow metrics, which are specific to agile methodologies but do not directly address the Agile Product Operating Model. While it mentions improving team efficiency and project outcomes, it lacks a clear connection to product management principles or the broader themes of the APOM. The discussion is more about Scrum than the integration of agile with product management, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,12 +856,12 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-03-21T11:18:34",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on specific Scrum practices, flow metrics, and their application, rather than the broader Agile Philosophy or its underlying principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1252,12 +1261,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:18:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on applying flow metrics within the context of Scrum processes and events, making it a significant theme of discussion in the course.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly focuses on integrating flow metrics into Scrum practices, which directly aligns with the Scrum framework. It discusses specific metrics relevant to Scrum, indicating a strong conceptual alignment with Scrum principles. The depth of discussion is significant, as it details how these metrics can be applied in real-world Scrum projects and emphasizes continuous improvement, a core aspect of Scrum. Overall, the content is highly relevant and provides a comprehensive exploration of Scrum in the context of flow metrics.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on flow metrics rather than Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:18:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum practices and flow metrics without any explicit mention or discussion of Artificial Intelligence. While it discusses Agile methodologies, it does not explore how AI can enhance these practices or integrate with them, which is essential for alignment with the category. The depth of discussion is also minimal regarding AI, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:18:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses exclusively on Scrum practices and flow metrics, which are unrelated to Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes or provide any depth on the topic of IDPs.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:18:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which does not directly address the Shift-Left Strategy. While there is a mention of improving team efficiency and project outcomes, it lacks explicit discussions on integrating testing, security, or compliance earlier in the development process. The core themes of the Shift-Left Strategy are not aligned with the content's focus on Scrum practices and metrics.",
     "level": "Ignored"
   }
 }

@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:04:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:25:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the Scrum framework, including roles, events, and the benefits of Scrum for stakeholders, which aligns closely with the category of Social Technologies.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions collaboration and team activities, which aligns with the principles of social technologies. However, it primarily focuses on Scrum as a framework without delving deeply into the underlying social frameworks or methodologies that promote collaboration and decision-making. The discussion lacks depth regarding the impact of social technologies on organisational culture or value delivery, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:04:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T11:25:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a framework for agile project management, rather than discussing DevOps principles or practices. While there may be some indirect relevance to collaboration and team activities, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not addressed.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -703,12 +709,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:47:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on Scrum, which is an Agile framework, including aspects like roles, events, and the Product Backlog, making it relevant to Agile methodologies. However, it does not explicitly center around the Agile Product Operating Model itself, thus making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T11:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a specific agile framework, rather than the broader Agile Product Operating Model. While it mentions the benefits of Scrum and how it transforms work, it does not delve into the principles or practices of the Agile Product Operating Model, such as product management integration or continuous delivery. The discussion is more about Scrum's application for stakeholders rather than the product-oriented mindset central to APOM.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1252,11 +1261,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:47:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-21T11:25:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content is primarily focused on educating stakeholders about Scrum, discussing its framework, roles, events, and how Scrum transforms work processes.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly mentions Scrum and its benefits, indicating a direct focus on the topic. It aligns well with core themes of the Scrum framework, particularly in terms of collaboration and team dynamics. However, while it provides a good overview, it lacks in-depth discussion of specific Scrum roles, events, or artifacts, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -1374,6 +1386,42 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum methodology, which is unrelated to Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-03-21T11:25:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum methodology and stakeholder engagement, with no explicit mention of Artificial Intelligence or its application within Agile or DevOps practices. The discussion is centred around Scrum principles rather than AI integration, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-03-21T11:25:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and stakeholder engagement, with no direct mention or discussion of Internal Developer Platforms. It does not align with the core themes of IDPs, such as streamlining development processes or automation in software delivery. The depth of discussion is also minimal, as it revolves around Scrum training rather than the IDP framework.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:25:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Scrum and its benefits for stakeholders, with no explicit mention of the Shift-Left Strategy or its principles. The discussion is centred around Scrum roles and activities, lacking any depth or alignment with the core themes of integrating testing, security, or compliance early in the development process.",
     "level": "Ignored"
   }
 }
