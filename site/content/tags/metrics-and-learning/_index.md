@@ -24,6 +24,9 @@ headline:
   subtitle: Harnessing data and insights to foster ongoing enhancement in team dynamics and operational workflows.
   content: Utilising quantitative and qualitative insights to enhance team performance and streamline workflows. Posts should explore data-driven decision-making, feedback loops, process optimisation, and the interplay between team dynamics and operational efficiency, drawing on principles from systems thinking and complexity theory.
   updated: 2025-02-13T11:59:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

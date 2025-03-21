@@ -28,6 +28,9 @@ headline:
   content: Cultivating a culture of quality in software development, this classification emphasises practices that enhance collaboration, efficiency, and adaptability. Topics include process optimisation, team dynamics, continuous feedback, and the integration of metrics to inform decision-making, fostering an environment of ongoing learning and improvement.
   updated: 2025-02-13T12:04:48Z
 concepts: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 ## Engineering Excellence: Driving High-Quality, Sustainable Software Development

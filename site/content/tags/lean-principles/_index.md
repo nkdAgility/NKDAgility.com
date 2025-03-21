@@ -24,6 +24,9 @@ headline:
   subtitle: Optimising processes to enhance value delivery through iterative learning and systematic improvement.
   content: A systematic approach to enhancing value delivery by identifying and eliminating inefficiencies. Posts should explore iterative learning, process optimisation, flow management, and the integration of feedback loops, drawing on insights from systems thinking, complexity theory, and continuous improvement methodologies.
   updated: 2025-02-13T12:04:10Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

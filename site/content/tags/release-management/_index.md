@@ -27,6 +27,9 @@ headline:
   subtitle: Strategies for orchestrating timely and efficient software releases through iterative planning and continuous improvement.
   content: Strategies for coordinating software releases that emphasise iterative planning, stakeholder collaboration, and continuous feedback. Posts should explore techniques for managing workflows, minimising bottlenecks, and enhancing delivery quality, while considering the complexities of team dynamics and organisational culture.
   updated: 2025-02-13T12:03:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

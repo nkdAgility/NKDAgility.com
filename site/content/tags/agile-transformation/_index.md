@@ -25,6 +25,9 @@ headline:
   subtitle: Empower your organisation to embrace change, enhance collaboration, and foster a culture of continuous improvement for lasting success.
   content: Cultivate a culture of adaptability and responsiveness within your organisation. Explore strategies for mindset shifts, process evolution, and enhanced collaboration. Posts should delve into frameworks, metrics for success, and techniques for navigating complexity, ultimately driving sustainable improvement and value delivery.
   updated: 2025-02-13T12:06:13Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

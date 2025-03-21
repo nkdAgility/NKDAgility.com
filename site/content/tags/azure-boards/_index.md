@@ -23,6 +23,9 @@ headline:
   subtitle: Streamline project management with Azure Boards to enhance workflow visibility, team collaboration, and effective planning strategies.
   content: Facilitate project management through Azure Boards by enhancing visibility into workflows, fostering team collaboration, and enabling strategic planning. Posts should explore work tracking, optimisation techniques, and methodologies for effective team dynamics, drawing insights from established frameworks and thought leaders in project management and complexity theory.
   updated: 2025-02-13T12:05:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

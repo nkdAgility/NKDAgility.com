@@ -23,6 +23,9 @@ headline:
   subtitle: Streamline project execution with effective planning tools that enhance collaboration, backlog management, and forecasting for successful outcomes.
   content: Facilitate effective project execution through strategic planning tools that improve collaboration, enhance backlog prioritisation, and enable accurate forecasting. Posts should explore methodologies for optimising workflow, managing team dynamics, and leveraging data-driven insights to drive successful project outcomes in complex environments.
   updated: 2025-02-13T12:06:21Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

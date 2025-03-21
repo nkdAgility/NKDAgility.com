@@ -25,6 +25,9 @@ headline:
   subtitle: Navigating choices in uncertain landscapes through insights from heuristics, probability, and human behaviour.
   content: Exploring the intricacies of decision-making under uncertainty, this classification delves into the application of heuristics, probabilistic reasoning, and insights from behavioural economics. Posts should examine strategies for effective choices, risk assessment, and the influence of cognitive biases in various organisational contexts.
   updated: 2025-02-13T11:59:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

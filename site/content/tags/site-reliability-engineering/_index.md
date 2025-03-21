@@ -24,6 +24,9 @@ headline:
   subtitle: Ensuring robust and scalable systems through engineering practices and continuous improvement methodologies.
   content: Integrating software engineering principles with operational practices to enhance system reliability and scalability. Posts should explore incident management, performance monitoring, automation strategies, and the cultural aspects of collaboration between development and operations teams, fostering a proactive approach to system resilience and user satisfaction.
   updated: 2025-02-13T12:02:19Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

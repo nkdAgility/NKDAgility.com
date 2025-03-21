@@ -23,6 +23,9 @@ headline:
   subtitle: Foster decentralised, adaptive structures that prioritise human potential and responsiveness over traditional hierarchies and rigid processes.
   content: Cultivate a dynamic organisational framework that prioritises collaboration, adaptability, and continuous improvement. Explore practices that enhance team autonomy, optimise workflow, and leverage empirical data to navigate complexity, fostering environments where innovation thrives and human potential is maximised.
   updated: 2025-02-13T12:05:41Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

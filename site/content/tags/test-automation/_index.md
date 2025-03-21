@@ -26,6 +26,9 @@ headline:
   subtitle: Streamlining software testing processes to enhance quality and speed up feedback for continuous improvement and delivery.
   content: Automating software testing enhances product quality and accelerates feedback loops, enabling teams to respond swiftly to changes. Posts should explore tools, frameworks, integration strategies, and the impact of automation on team dynamics and delivery cycles, fostering a culture of continuous improvement and efficiency.
   updated: 2025-02-13T12:01:44Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

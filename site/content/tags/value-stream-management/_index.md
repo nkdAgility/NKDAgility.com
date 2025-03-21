@@ -25,6 +25,9 @@ headline:
   subtitle: Optimising organisational flow to enhance value delivery, minimise waste, and align efforts with customer needs and outcomes.
   content: A systematic approach to enhancing organisational performance by mapping and analysing workflows, identifying bottlenecks, and fostering collaboration. Posts should explore techniques for visualising processes, measuring efficiency, and aligning team efforts with customer value, drawing insights from complexity theory and evidence-based management principles.
   updated: 2025-02-13T11:58:30Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

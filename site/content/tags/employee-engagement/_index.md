@@ -24,6 +24,9 @@ headline:
   subtitle: Cultivating a motivated workforce to enhance collaboration, productivity, and team success through effective practices and insights.
   content: Cultivating a motivated workforce enhances collaboration and drives productivity. Posts should explore strategies for fostering commitment, building trust, and creating a supportive environment. Topics may include team dynamics, feedback mechanisms, recognition practices, and the impact of leadership on employee morale and performance.
   updated: 2025-02-13T12:04:50Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -23,6 +23,9 @@ headline:
   subtitle: Empowering seamless communication and coordination for high-performing teams across various methodologies and frameworks.
   content: Tools that enhance communication and streamline coordination, enabling teams to adapt and respond effectively to changing demands. Posts should explore integration techniques, visual management, workflow optimisation, and the impact of these tools on team dynamics and performance in various project environments.
   updated: 2025-02-13T12:05:33Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

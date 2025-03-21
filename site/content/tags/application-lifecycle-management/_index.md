@@ -23,6 +23,9 @@ headline:
   subtitle: Streamlining software development, maintenance, and governance for optimal performance and continuous improvement throughout the application lifecycle.
   content: A comprehensive approach to overseeing software applications from inception to retirement, emphasising iterative development, stakeholder collaboration, and adaptive governance. Posts should explore methodologies for enhancing workflow efficiency, managing technical debt, ensuring quality assurance, and fostering a culture of continuous learning and improvement.
   updated: 2025-02-13T11:59:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

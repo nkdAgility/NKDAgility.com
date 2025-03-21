@@ -25,6 +25,9 @@ headline:
   subtitle: Empowering teams through knowledge sharing and a growth mindset for ongoing improvement and adaptability in complex environments.
   content: Encouraging a culture of ongoing learning and adaptation, this classification highlights practices that enhance team collaboration, knowledge sharing, and reflective improvement. Posts should explore topics such as feedback loops, experimentation, metrics for learning, and strategies for navigating complex challenges in dynamic environments.
   updated: 2025-02-13T12:05:24Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

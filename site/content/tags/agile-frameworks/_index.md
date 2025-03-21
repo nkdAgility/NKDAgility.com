@@ -26,6 +26,9 @@ headline:
   subtitle: Discover and evaluate frameworks for iterative development, enhancing team collaboration, and optimising value delivery in dynamic environments.
   content: Examine various frameworks that facilitate iterative development, fostering collaboration and enhancing value delivery. Posts should delve into principles, methodologies, and real-world applications, drawing insights from experts and exploring the interplay between complexity, team dynamics, and continuous improvement in organisational contexts.
   updated: 2025-02-13T12:06:31Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

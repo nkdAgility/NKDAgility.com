@@ -25,6 +25,9 @@ headline:
   subtitle: Reflections on personal journeys, insights, and experiences in navigating complex systems and continuous improvement.
   content: Explorations of individual experiences and insights in navigating complex systems, fostering continuous improvement, and enhancing team dynamics. Posts may delve into personal reflections on practices, challenges faced, and lessons learned in optimising workflows, collaboration, and adaptability within organisational contexts.
   updated: 2025-02-13T11:58:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

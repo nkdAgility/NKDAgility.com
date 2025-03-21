@@ -26,6 +26,9 @@ headline:
   subtitle: Fostering ownership and trust within teams to enhance performance and commitment in dynamic environments.
   content: Encouraging a culture of ownership and transparency enhances team dynamics and commitment. Posts should explore practices that promote responsibility for outcomes, the importance of trust in collaboration, and strategies for fostering a supportive environment that drives performance in complex, evolving contexts.
   updated: 2025-02-13T12:06:34Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

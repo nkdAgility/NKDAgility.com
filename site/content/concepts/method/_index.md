@@ -26,6 +26,9 @@ headline:
   subtitle: A systematic approach to achieving desired results through proven techniques and frameworks for effective project execution.
   content: A structured approach to achieving specific outcomes through iterative processes and empirical techniques. Posts should explore frameworks for workflow optimisation, continuous improvement, and performance measurement, emphasising collaboration, adaptability, and the integration of feedback to enhance project delivery and organisational effectiveness.
   updated: 2025-03-19T12:18:10Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

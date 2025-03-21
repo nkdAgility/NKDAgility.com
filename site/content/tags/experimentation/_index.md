@@ -26,6 +26,9 @@ headline:
   subtitle: Driving innovation through hypothesis testing and validation to enhance workflows and decision-making.
   content: Utilising hypothesis-driven methodologies to rigorously test concepts and validate assumptions enhances decision-making and workflow efficiency. Posts should explore techniques for experimentation, metrics for success, iterative learning, and the integration of feedback loops within complex systems to foster continuous improvement and innovation.
   updated: 2025-02-13T12:04:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

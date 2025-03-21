@@ -24,6 +24,9 @@ headline:
   subtitle: Explore insightful reviews and discussions on tools, literature, and software that enhance team performance and foster effective workflows.
   content: In-depth analyses and critiques of literature, tools, and software that enhance team dynamics and optimise workflows. Posts delve into methodologies, frameworks, and principles that support continuous improvement, effective collaboration, and evidence-based decision-making, drawing insights from renowned thought leaders and established practices in the field.
   updated: 2025-02-13T11:58:50Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

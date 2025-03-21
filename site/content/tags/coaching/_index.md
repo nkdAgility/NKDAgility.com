@@ -26,6 +26,9 @@ headline:
   subtitle: Empowering teams and leaders through insightful guidance, fostering growth and adaptability in complex environments.
   content: Unlocking the potential of individuals and teams through tailored guidance, fostering a culture of continuous improvement and adaptability. Posts explore facilitation techniques, performance enhancement, collaborative decision-making, and the dynamics of team interactions, drawing insights from complexity theory and evidence-based management principles.
   updated: 2025-02-13T12:05:35Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

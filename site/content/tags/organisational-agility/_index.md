@@ -24,6 +24,9 @@ headline:
   subtitle: Empowering organisations to swiftly respond to change, enhance customer satisfaction, and seize new opportunities through effective strategies.
   content: A dynamic approach enabling organisations to swiftly navigate shifting market landscapes and evolving customer expectations. Posts should explore frameworks for continuous improvement, effective prioritisation, team collaboration, and decision-making under uncertainty, drawing insights from systems thinking, flow management, and empirical evidence to enhance organisational responsiveness.
   updated: 2025-02-13T11:59:06Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

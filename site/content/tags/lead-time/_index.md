@@ -24,6 +24,9 @@ headline:
   subtitle: Optimising the duration from task start to customer satisfaction, enhancing workflow efficiency and delivery effectiveness.
   content: A comprehensive examination of the duration from task initiation to customer delivery, emphasising the importance of minimising delays and enhancing throughput. Posts should explore workflow optimisation, bottleneck identification, cycle time reduction, and the impact of process improvements on customer satisfaction and overall delivery effectiveness.
   updated: 2025-02-13T12:04:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

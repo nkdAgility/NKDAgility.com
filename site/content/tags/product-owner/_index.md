@@ -26,6 +26,9 @@ headline:
   subtitle: Driving product success through strategic prioritisation and collaboration with stakeholders for optimal value delivery.
   content: Maximising product value through strategic backlog prioritisation and fostering collaboration with stakeholders. Posts should explore effective techniques for aligning product vision with user needs, utilising metrics for informed decision-making, and enhancing team dynamics to ensure continuous delivery of high-quality outcomes.
   updated: 2025-02-13T12:03:18Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

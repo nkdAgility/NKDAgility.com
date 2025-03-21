@@ -24,6 +24,9 @@ headline:
   subtitle: Enhancing collaboration and effectiveness in teams through proven practices and frameworks for optimal performance.
   content: Fostering high-performing teams through collaborative practices and frameworks that enhance communication, adaptability, and accountability. Posts should explore topics such as workflow optimisation, iterative progress, team dynamics, performance metrics, and the impact of complexity on team interactions and decision-making.
   updated: 2025-02-13T12:01:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

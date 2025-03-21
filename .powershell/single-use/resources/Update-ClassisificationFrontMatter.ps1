@@ -226,7 +226,7 @@ When generating the description, consider the following contexts and include rel
         }
 
         if ($hugoMarkdown.BodyContent) {
-            $priority = 0.6
+            $priority = 0.7
         }
         else {
             $priority = 0.5

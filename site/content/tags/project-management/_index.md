@@ -25,6 +25,9 @@ headline:
   subtitle: Navigating project delivery with adaptive strategies for enhanced responsiveness and continuous improvement.
   content: Utilising iterative methodologies to enhance project delivery, this classification emphasises adaptability, team collaboration, and customer feedback. Posts should explore workflow visualisation, incremental progress, stakeholder engagement, and the integration of empirical data to inform decision-making and optimise outcomes in complex environments.
   updated: 2025-02-13T12:03:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -28,6 +28,9 @@ headline:
   subtitle: Enhance your forecasting skills and manage uncertainty through collaborative techniques and empirical data analysis.
   content: Enhance your ability to predict project outcomes and navigate uncertainty through collaborative approaches and data-driven insights. Explore techniques for aligning team expectations, refining prioritisation, and utilising historical performance metrics to inform decision-making in complex environments.
   updated: 2025-02-13T12:04:37Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

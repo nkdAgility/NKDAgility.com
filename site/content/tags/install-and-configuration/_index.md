@@ -22,6 +22,9 @@ headline:
   subtitle: Comprehensive resources for setting up and optimising tools, software, and platforms to enhance workflow and productivity.
   content: Comprehensive guides and discussions on the setup, installation, and configuration of tools, software, and platforms. Posts should delve into system requirements, integration techniques, troubleshooting methods, and optimisation strategies to enhance operational efficiency and support effective workflow management.
   updated: 2025-02-13T11:59:23Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

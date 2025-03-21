@@ -23,6 +23,9 @@ headline:
   subtitle: Empowering professionals through tailored guidance and coaching for effective leadership and continuous improvement.
   content: Support for professionals seeking to enhance their leadership capabilities and foster a culture of continuous improvement. Posts should explore effective coaching techniques, the role of mentorship in team dynamics, and strategies for navigating complex organisational challenges, drawing insights from established frameworks and thought leaders.
   updated: 2025-02-13T12:03:50Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

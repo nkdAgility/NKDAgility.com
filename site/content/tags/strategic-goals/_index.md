@@ -26,6 +26,9 @@ headline:
   subtitle: Aligning long-term objectives with organisational adaptability and market positioning for sustained success and growth.
   content: Establishing long-term objectives that enhance organisational flexibility and market responsiveness. Posts should explore frameworks for prioritising initiatives, measuring progress, and adapting strategies based on empirical evidence, while considering the complexities of team dynamics and external environments.
   updated: 2025-02-13T12:02:09Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -25,6 +25,9 @@ headline:
   subtitle: Streamline strategic alignment and investment prioritisation to enhance value delivery and foster organisational responsiveness.
   content: Facilitate strategic coherence and investment optimisation to maximise value delivery and enhance organisational adaptability. Posts should explore prioritisation frameworks, value stream mapping, performance metrics, and the interplay between strategy and execution, drawing insights from complexity theory and evidence-based management principles.
   updated: 2025-02-13T12:03:31Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

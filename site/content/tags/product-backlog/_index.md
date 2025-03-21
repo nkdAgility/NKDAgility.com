@@ -24,6 +24,9 @@ headline:
   subtitle: Optimising backlog management for prioritisation, refinement, and delivery in complex environments.
   content: Effective backlog management encompasses techniques for prioritising, refining, and delivering work items in dynamic environments. It involves understanding stakeholder needs, utilising flow metrics, and adapting to changing requirements, while fostering collaboration and transparency to enhance team performance and value delivery.
   updated: 2025-02-13T12:03:26Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

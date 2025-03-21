@@ -22,6 +22,9 @@ headline:
   subtitle: Uncovering patterns and shifts to guide informed strategic choices and enhance organisational effectiveness.
   content: Identifying and analysing shifts in organisational performance and market dynamics to enhance strategic decision-making. Posts should explore metrics, visualisation techniques, and frameworks that support continuous improvement, stakeholder engagement, and adaptive planning, drawing on insights from systems thinking and complexity theory.
   updated: 2025-02-13T12:01:25Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -23,6 +23,9 @@ headline:
   subtitle: Navigating organisational shifts to foster genuine transformation and sustainable practices without falling into superficial change.
   content: Facilitating authentic organisational transformation by reshaping mindsets and processes, this classification emphasises sustainable practices over superficial changes. It encompasses topics such as continuous improvement, stakeholder engagement, adaptive leadership, and the integration of evidence-based decision-making to navigate complexity and foster resilience in dynamic environments.
   updated: 2025-02-13T12:05:38Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

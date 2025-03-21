@@ -24,6 +24,9 @@ headline:
   subtitle: Facilitating stakeholder engagement and iterative improvement through transparent evaluation of progress and outcomes.
   content: A collaborative session for evaluating the increment, fostering stakeholder engagement, and gathering feedback to inform future work. Posts should explore techniques for effective communication, methods for assessing progress, and strategies for incorporating insights into subsequent iterations, enhancing overall project transparency and alignment with stakeholder needs.
   updated: 2025-02-13T12:02:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

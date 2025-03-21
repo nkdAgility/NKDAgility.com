@@ -22,6 +22,9 @@ headline:
   subtitle: Fostering collaborative principles and team norms to enhance productivity and communication in dynamic work environments.
   content: Establishing collaborative norms and principles enhances team dynamics and productivity. Posts should explore techniques for fostering trust, communication, and accountability, as well as methods for adapting to changing environments and addressing conflicts, drawing insights from complexity theory and evidence-based management.
   updated: 2025-02-13T12:01:11Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

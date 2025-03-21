@@ -26,6 +26,9 @@ headline:
   subtitle: Measuring the duration from initiation to completion of tasks to enhance workflow efficiency and optimise performance.
   content: Measuring the time taken to complete a work item from initiation to delivery, this classification aids in identifying bottlenecks and enhancing workflow. Relevant topics include task prioritisation, throughput analysis, process optimisation, and the impact of variability on performance, drawing insights from various methodologies and frameworks.
   updated: 2025-02-13T12:05:12Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

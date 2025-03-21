@@ -26,6 +26,9 @@ headline:
   subtitle: Stay updated with the latest industry insights, tool reviews, and emerging trends in technology and management practices.
   content: Explore the latest developments and evaluations in technology and management methodologies. Posts delve into tools, literature, and trends, emphasising practical applications and insights from thought leaders. Topics include workflow optimisation, team dynamics, performance metrics, and the impact of emerging technologies on organisational effectiveness.
   updated: 2025-02-13T11:59:08Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -29,6 +29,9 @@ headline:
   updated: 2025-02-13T21:02:24Z
 concepts:
 - Framework
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 Scrum is a **Framework** and a **social technology** for delivering **adaptive solutions** in complex environments. It is built on **empiricism**—transparency, inspection, and adaptation—and is designed to help teams deliver value iteratively and incrementally. Scrum is a **framework** that helps teams work together to solve complex problems and deliver high-value products. Its about planning.

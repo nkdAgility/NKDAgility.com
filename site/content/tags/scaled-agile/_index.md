@@ -27,6 +27,9 @@ headline:
   subtitle: Integrating collaborative practices across teams to enhance delivery and responsiveness in complex environments.
   content: Facilitating the alignment of collaborative methodologies across diverse teams and large-scale projects, this classification addresses the integration of iterative development, continuous improvement, and value delivery. Posts should explore frameworks, metrics, and practices that enhance responsiveness, adaptability, and stakeholder engagement in complex environments.
   updated: 2025-02-13T12:02:56Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

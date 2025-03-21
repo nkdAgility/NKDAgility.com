@@ -22,6 +22,9 @@ headline:
   subtitle: Tangible outputs that enhance transparency and support informed decision-making in collaborative product development.
   content: An artefact represents a concrete output of collaborative efforts, providing critical insights into progress, quality, and value. It encompasses tools such as prioritised work lists, visual task boards, delivery increments, and performance metrics, facilitating informed decision-making and fostering a culture of continuous improvement and responsiveness to change.
   updated: 2025-03-21T13:59:49Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 An **artefact** is a tangible outcome or visible representation of work that supports transparency, inspection, and adaptation within agile or lean environments. Artefacts capture essential information about progress, quality, or value delivered, enabling teams and stakeholders to make informed decisions and effectively respond to change. Common artefacts across agile and lean practices may include prioritised lists of work, visual task boards, delivery increments, operational metrics, and process improvement records. By providing clarity and actionable insight, artefacts serve as foundational tools for continuous improvement and evidence-based decision-making.

@@ -27,6 +27,9 @@ headline:
   updated: 2025-03-17T14:46:14Z
 concepts:
 - Method
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 ### **Shift-Left Strategy: Enhancing Quality from the Start**

@@ -24,6 +24,9 @@ headline:
   subtitle: Optimising workflow and enhancing efficiency through scalable Kanban practices in large organisations.
   content: Implementing Kanban principles across large organisations to enhance workflow and optimise resource allocation. Posts should explore visual management, work-in-progress limits, cycle time reduction, and continuous improvement, while addressing challenges in complex environments and fostering a culture of collaboration and accountability.
   updated: 2025-02-13T12:02:51Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

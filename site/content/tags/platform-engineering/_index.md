@@ -29,6 +29,9 @@ headline:
   updated: 2025-02-13T21:02:31Z
 concepts:
 - Practice
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 Platform Engineering is the practice of designing, building, and maintaining internal platforms that enable developers to deliver value independently, reliably, and at pace.

@@ -23,6 +23,9 @@ headline:
   subtitle: Fostering team autonomy to enhance value delivery through collaborative decision-making and adaptive practices.
   content: Encouraging teams to assume responsibility for their work fosters a culture of collaboration and adaptability. Posts should explore practices that enhance decision-making, promote transparency, and leverage collective intelligence, drawing insights from complexity theory and evidence-based management to navigate challenges and optimise outcomes.
   updated: 2025-02-13T12:02:31Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

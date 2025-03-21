@@ -25,6 +25,9 @@ headline:
   subtitle: Transforming organisations through collaborative frameworks and innovative practices for sustainable growth and adaptability.
   content: Facilitating enterprise-wide transformation through collaborative frameworks that enhance responsiveness and innovation. Posts should explore systemic practices, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
   updated: 2025-02-13T12:04:15Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

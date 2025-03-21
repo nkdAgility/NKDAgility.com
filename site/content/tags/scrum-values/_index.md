@@ -21,6 +21,9 @@ headline:
   subtitle: Core principles fostering teamwork and trust, essential for effective collaboration and continuous improvement in project delivery.
   content: Core values that underpin effective teamwork and collaboration, fostering an environment of trust and transparency. Posts should explore the significance of commitment, courage, focus, openness, and respect in enhancing team dynamics, driving continuous improvement, and navigating complex project landscapes.
   updated: 2025-02-13T12:02:38Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

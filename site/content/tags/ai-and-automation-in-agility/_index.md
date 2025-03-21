@@ -24,6 +24,9 @@ headline:
   subtitle: Harnessing intelligent automation to optimise workflows, enhance decision-making, and streamline software delivery processes.
   content: Harnessing intelligent automation to improve workflow efficiency, facilitate informed decision-making, and accelerate software delivery. Posts should explore the integration of AI technologies, the impact on team dynamics, and the enhancement of process visibility, drawing insights from established methodologies and frameworks in the field.
   updated: 2025-02-13T12:00:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -23,6 +23,9 @@ headline:
   subtitle: Strategies for fostering collaboration and productivity in distributed teams across various methodologies and frameworks.
   content: Strategies for enhancing collaboration and productivity in distributed teams, emphasising communication, trust-building, and adaptive workflows. Posts should explore tools, techniques, and frameworks that facilitate seamless interaction, accountability, and continuous improvement, while addressing challenges unique to remote environments and fostering a culture of engagement and innovation.
   updated: 2025-02-13T12:03:01Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

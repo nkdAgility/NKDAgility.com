@@ -26,6 +26,9 @@ headline:
   subtitle: Harnessing insights through observation and transparency to drive informed decision-making and continuous improvement.
   content: Utilising data-driven insights to enhance processes and outcomes, this classification emphasises the importance of regular evaluation and transparency. Posts should explore topics such as iterative improvement, performance metrics, feedback loops, and the role of collaboration in fostering a culture of continuous learning and adaptation.
   updated: 2025-02-13T12:04:52Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

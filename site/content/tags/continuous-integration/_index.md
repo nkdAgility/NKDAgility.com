@@ -24,6 +24,9 @@ headline:
   subtitle: Streamline development processes by merging code frequently, identifying issues early, and ensuring a robust and reliable codebase.
   content: Facilitate rapid and reliable software development by integrating code changes frequently. Emphasise early error detection, automated testing, and seamless collaboration to enhance code quality and team efficiency. Explore topics such as version control, build automation, testing frameworks, and deployment strategies to ensure a resilient software delivery pipeline.
   updated: 2025-02-13T12:05:27Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

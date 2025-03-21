@@ -24,6 +24,9 @@ headline:
   subtitle: Implementing Scrum principles across large organisations to enhance responsiveness and collaboration in complex environments.
   content: Implementing Scrum principles across extensive organisations to foster adaptability and teamwork in intricate settings. Posts should explore frameworks for synchronising multiple teams, integrating Kanban methodologies, addressing complexity, and utilising evidence-based management to enhance decision-making and performance.
   updated: 2025-02-13T12:02:48Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

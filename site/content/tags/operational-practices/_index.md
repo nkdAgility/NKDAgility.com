@@ -24,6 +24,9 @@ headline:
   subtitle: Strategies and techniques for enhancing efficiency and optimising delivery in operational workflows.
   content: A collection of practices aimed at enhancing workflow efficiency and delivery effectiveness. Posts explore visual management, work-in-progress limits, continuous improvement, and performance metrics, drawing insights from systems thinking, complexity theory, and empirical evidence to foster adaptive and responsive operational environments.
   updated: 2025-02-13T12:03:42Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -26,6 +26,9 @@ headline:
   subtitle: A guiding framework for shaping thought and approaches across methodologies, enhancing understanding and adaptability in complex environments.
   content: A comprehensive framework for understanding and navigating complex systems, emphasising adaptability and continuous improvement. It encompasses practices related to flow management, iterative development, team dynamics, and empirical decision-making, drawing insights from various thought leaders and methodologies to enhance organisational effectiveness and responsiveness.
   updated: 2025-03-19T12:17:57Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 The **Philosophy** category defines the **guiding principles** behind Agile, DevOps, and Lean. It shapes **thought and strategy**, rather than focusing on execution.

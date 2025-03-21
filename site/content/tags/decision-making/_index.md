@@ -23,6 +23,9 @@ headline:
   subtitle: Empowering informed choices through structured analysis and evidence-driven insights for effective organisational outcomes.
   content: Utilising structured methodologies and empirical data to enhance organisational decision-making, this classification encompasses topics such as risk assessment, performance metrics, stakeholder engagement, and adaptive strategies. It emphasises the importance of informed choices in navigating complexity and fostering sustainable growth within dynamic environments.
   updated: 2025-02-13T12:05:07Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

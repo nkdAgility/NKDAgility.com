@@ -25,6 +25,9 @@ headline:
   subtitle: Empowering teams through expert guidance and best practices for effective software development and delivery.
   content: Empowering development teams through strategic guidance and technical expertise, fostering collaboration and innovation. Posts should explore effective methodologies, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from industry thought leaders and frameworks to enhance delivery and adaptability in complex environments.
   updated: 2025-02-13T12:01:49Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -26,6 +26,9 @@ headline:
   subtitle: Deeply held beliefs that define ethical decision-making, culture, and behaviours.
   content: Value represents the fundamental beliefs that guide behaviour and culture in Agile, Scrum, DevOps, and Lean.** It is not a metric or an outcome but an intrinsic philosophy that influences decision-making, leadership, and collaboration. Posts should explore themes of ethical responsibility, human-centric work, learning, and the principles that create strong, adaptive organisations.
   updated: 2025-03-19T12:16:32Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 Values are the **deeply held beliefs** that define how individuals and organisations think, act, and collaborate. They serve as the foundation for ethical decision-making, shaping culture and behaviour across Agile, Scrum, DevOps, and Lean. Unlike strategies, methodologies, or frameworks, values are not about immediate outcomes—they represent enduring principles that guide how work is approached and how people interact.

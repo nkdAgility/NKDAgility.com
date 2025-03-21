@@ -24,6 +24,9 @@ headline:
   subtitle: Comprehensive insights on the Windows operating system, covering setup, management, troubleshooting, and system enhancements.
   content: The Windows operating system encompasses essential aspects such as installation, configuration, system management, troubleshooting, and security updates. Posts should delve into user experience enhancements, performance optimisation, and integration with various applications, providing practical insights for both novice and experienced users.
   updated: 2025-02-13T12:01:14Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

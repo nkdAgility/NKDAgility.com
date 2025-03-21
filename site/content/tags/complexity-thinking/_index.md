@@ -27,6 +27,9 @@ headline:
   subtitle: Navigating uncertainty and organisational dynamics through complexity science and emergent strategies for effective decision-making.
   content: An exploration of organisational dynamics and decision-making through the lens of complexity science. This classification encompasses emergent strategies, nonlinear interactions, and frameworks such as Cynefin and Stacey, providing insights into navigating uncertainty and fostering adaptive practices in complex environments.
   updated: 2025-02-13T11:59:47Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

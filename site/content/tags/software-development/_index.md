@@ -26,6 +26,9 @@ headline:
   subtitle: Innovative practices and frameworks for delivering high-quality software solutions efficiently and effectively.
   content: A comprehensive exploration of methodologies and frameworks that enhance the delivery of software solutions. Posts should delve into workflow optimisation, team collaboration, iterative development, and continuous improvement, drawing insights from industry thought leaders and established theories to foster effective engineering practices.
   updated: 2025-02-13T12:02:14Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

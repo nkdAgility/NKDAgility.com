@@ -25,6 +25,9 @@ headline:
   subtitle: Guiding principles that shape practices and decision-making, enhancing effectiveness and adaptability in complex environments.
   content: A guiding principle that informs decision-making and practices, emphasising the importance of flow, collaboration, and adaptability in complex systems. Posts should explore themes such as efficiency, decentralised authority, continuous improvement, and the interplay between team dynamics and organisational structure.
   updated: 2025-03-19T12:17:26Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

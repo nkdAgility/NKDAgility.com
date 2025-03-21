@@ -28,6 +28,9 @@ headline:
   subtitle: Empowering teams to enhance engagement, ownership, and performance through effective collaboration and continuous improvement.
   content: Cultivating a culture of engagement and accountability, this classification explores strategies to enhance team dynamics and performance. Posts should delve into collaboration techniques, motivation theories, feedback mechanisms, and the impact of organisational structures on team effectiveness, drawing insights from various management and complexity frameworks.
   updated: 2025-02-13T12:02:00Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

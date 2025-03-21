@@ -27,6 +27,9 @@ headline:
   subtitle: Align vision and execution to foster adaptability and deliver ongoing value through strategic insights and evidence-based practices.
   content: Cultivate a resilient organisational framework that enhances strategic alignment and responsiveness to change. Posts should explore practices for continuous improvement, value delivery, and decision-making informed by data, while addressing complexity and fostering a culture of collaboration and learning.
   updated: 2025-02-13T12:06:15Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

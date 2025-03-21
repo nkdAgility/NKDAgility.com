@@ -27,6 +27,9 @@ headline:
   subtitle: Explore foundational values and principles to foster adaptability, enhance collaboration, and drive continuous improvement in your processes.
   content: Explore foundational values and principles that promote adaptability, enhance collaboration, and facilitate continuous improvement. Posts should delve into frameworks for effective teamwork, decision-making under uncertainty, and methods for delivering consistent value, drawing insights from various thought leaders and methodologies in the field.
   updated: 2025-02-13T12:06:10Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

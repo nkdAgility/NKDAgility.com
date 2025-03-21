@@ -23,6 +23,9 @@ headline:
   subtitle: Driving innovation and strategic decision-making through risk management and value creation in business ventures.
   content: Encouraging innovation and strategic risk-taking, this classification delves into the dynamics of creating and sustaining value in business. It encompasses topics such as opportunity identification, market analysis, resource allocation, and the impact of uncertainty on decision-making, fostering a culture of continuous improvement and adaptability.
   updated: 2025-02-13T12:04:41Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

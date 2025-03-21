@@ -22,6 +22,9 @@ headline:
   subtitle: Essential instruments and techniques for effective implementation of methodologies and practices in project management and workflow optimisation.
   content: A mechanism or software that facilitates the application of methodologies and practices for enhancing project management and workflow efficiency. Posts should explore tools that support visual management, iterative development, continuous improvement, and evidence-based decision-making, drawing on insights from industry thought leaders and established frameworks.
   updated: 2025-03-19T12:16:39Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -24,6 +24,9 @@ headline:
   subtitle: Empowering organisations to enhance responsiveness and adaptability through effective practices and collaborative frameworks at all levels.
   content: Cultivating organisational responsiveness and adaptability through collaborative frameworks and iterative practices. Posts explore team dynamics, workflow optimisation, continuous improvement, and evidence-based decision-making, drawing insights from complexity theory and management principles to enhance performance across all levels of the organisation.
   updated: 2025-02-13T12:02:53Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

@@ -23,6 +23,9 @@ headline:
   subtitle: Streamlining product creation by reducing inefficiencies and enhancing insights through iterative learning and adaptive processes.
   content: Fostering efficient product development through iterative cycles that prioritise learning and adaptability. Emphasising the reduction of waste, teams should explore practices that enhance collaboration, visualise workflows, and leverage data-driven insights to inform decision-making, ultimately delivering value more effectively and responsively.
   updated: 2025-02-13T12:04:07Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

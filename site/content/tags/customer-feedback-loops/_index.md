@@ -23,6 +23,9 @@ headline:
   subtitle: Enhancing product relevance through iterative learning and responsive delivery based on user insights.
   content: Facilitating a dynamic exchange of insights between users and teams to refine product offerings. Posts should explore techniques for gathering and analysing feedback, methods for integrating user input into development cycles, and strategies for fostering a culture of continuous improvement and responsiveness to changing needs.
   updated: 2025-02-13T12:05:19Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

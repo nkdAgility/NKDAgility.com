@@ -26,6 +26,9 @@ headline:
   subtitle: Optimising workforce output by evaluating the financial impact of each employee's contribution to revenue generation.
   content: Evaluating the financial contribution of each employee to overall organisational success, this classification encompasses productivity metrics, workforce efficiency, and revenue generation strategies. Posts should explore methods for enhancing individual performance, aligning team goals with financial outcomes, and utilising data-driven insights to inform workforce management decisions.
   updated: 2025-02-13T12:02:58Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

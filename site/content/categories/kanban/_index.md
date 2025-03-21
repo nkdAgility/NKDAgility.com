@@ -31,6 +31,9 @@ aliases:
 - /methods/kanban-strategy/
 - /learn/agile-delivery-kit/strategies/kanban-strategy/
 - /resources/_O7H5eH902L
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

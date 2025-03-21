@@ -23,6 +23,9 @@ headline:
   subtitle: A flexible structure offering guidelines for effective team collaboration and project delivery across various methodologies and practices.
   content: A structured approach that balances defined guidelines with adaptability, enabling teams to enhance collaboration and optimise project outcomes. Posts should explore methodologies, roles, metrics, and tools that facilitate continuous improvement, stakeholder engagement, and effective decision-making in complex environments.
   updated: 2025-03-19T12:18:16Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

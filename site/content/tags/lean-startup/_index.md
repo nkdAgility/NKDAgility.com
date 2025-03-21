@@ -23,6 +23,9 @@ headline:
   subtitle: Rapidly test and validate business concepts to minimise risk and enhance decision-making through iterative learning and evidence-based insights.
   content: A methodology for swiftly evaluating and refining business concepts through iterative experimentation and data-driven insights. Posts should explore hypothesis testing, customer feedback loops, minimum viable products, and metrics for success, emphasising the importance of learning and adaptation in uncertain environments.
   updated: 2025-02-13T12:03:59Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

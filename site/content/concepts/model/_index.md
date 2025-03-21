@@ -23,6 +23,9 @@ headline:
   subtitle: Frameworks for conceptualising systems and challenges, drawing insights from various methodologies and thought leaders in the field.
   content: A conceptual framework for analysing and improving organisational systems and processes, drawing insights from various methodologies and thought leaders. Posts should explore system dynamics, flow optimisation, continuous improvement, complexity management, and evidence-based decision-making to enhance performance and adaptability in complex environments.
   updated: 2025-03-19T12:18:03Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

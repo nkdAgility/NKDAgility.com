@@ -26,6 +26,9 @@ headline:
   subtitle: Exploring the interplay between technology and organisational dynamics to enhance software delivery and team performance.
   content: Exploring the intricate relationships between technology and organisational frameworks, this classification delves into practices that enhance software delivery and team dynamics. Topics include workflow optimisation, team collaboration, performance metrics, and the impact of organisational culture on technology adoption and innovation.
   updated: 2025-02-13T11:58:42Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

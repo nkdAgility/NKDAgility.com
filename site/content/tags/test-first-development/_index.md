@@ -23,6 +23,9 @@ headline:
   subtitle: Prioritising quality by establishing clear criteria before development, fostering efficiency and clarity in the delivery process.
   content: Prioritising quality through the establishment of testing criteria prior to development enhances clarity and efficiency in the delivery process. Posts should explore practices related to test design, validation techniques, integration strategies, and the impact of early testing on project outcomes and team dynamics.
   updated: 2025-02-13T12:01:34Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

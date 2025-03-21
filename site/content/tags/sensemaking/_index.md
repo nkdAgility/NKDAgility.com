@@ -23,6 +23,9 @@ headline:
   subtitle: Navigating complexity to empower informed decision-making and enhance organisational understanding.
   content: Facilitating organisational clarity amidst uncertainty, this classification encompasses practices for interpreting complex environments, enhancing decision-making, and fostering adaptive strategies. Topics include systems thinking, stakeholder engagement, feedback loops, and the application of frameworks that support continuous learning and improvement in dynamic contexts.
   updated: 2025-02-13T12:02:28Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

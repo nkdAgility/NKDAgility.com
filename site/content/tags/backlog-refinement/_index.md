@@ -26,6 +26,9 @@ headline:
   subtitle: Enhance project clarity and execution readiness through effective prioritisation and definition of tasks in your workflow.
   content: Enhance project execution by ensuring tasks are clearly defined, prioritised, and ready for implementation. Posts should explore techniques for effective task management, prioritisation frameworks, stakeholder engagement, and the impact of well-structured workflows on team performance and delivery outcomes.
   updated: 2025-02-13T12:05:45Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.5
 
 ---
 

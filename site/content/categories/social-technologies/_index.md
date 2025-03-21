@@ -28,6 +28,9 @@ headline:
   updated: 2025-03-19T12:41:59Z
 concepts:
 - Philosophy
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 
 ---
 In complex environments where variance is high, methodologies fall short. In order to guide our ways of working we need foundational philosophies that foster adaptability, emergent coordination, and collective intelligence. Social technologies provide this foundation, shaping interactions, decision-making, and value creation.
