@@ -69,9 +69,12 @@ $classes | ForEach-Object {
              - Complexity Theory Context: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
 
 
-            Category: $($hugoMarkdown.FrontMatter.title)
-            Current Description: $($hugoMarkdown.FrontMatter.description)
-            Current Content: $($hugoMarkdown.BodyContent)
+            **Classification Title:** $($hugoMarkdown.FrontMatter.title)  
+            **Classification Description:** $($hugoMarkdown.FrontMatter.description)
+            **Classification Content:** 
+            ~~~
+            $($hugoMarkdown.BodyContent)
+            ~~~
 
             Your generated classification must be **precise, consistent, and structured** to be **used as part of a prompt** that determines if a given piece of content **matches this classification**.
 "@
@@ -93,8 +96,12 @@ The subtitle should:
 - **Help users quickly understand** what topics fall under this classification.
 - Avoid using the words Agile, Lean, and DevOps and instead focus on the intent of the classification.
 
-Classification Title: $($hugoMarkdown.FrontMatter.title)
-Current Description: $($hugoMarkdown.FrontMatter.description)
+**Classification Title:** $($hugoMarkdown.FrontMatter.title)  
+**Classification Description:** $($hugoMarkdown.FrontMatter.description)
+**Classification Content:** 
+~~~
+$($hugoMarkdown.BodyContent)
+~~~
 
 Generate the classification headline subtitle only with no additional text. 
 - Do not enclose in quotes
@@ -126,8 +133,12 @@ The description should:
 - Do not start with "$($hugoMarkdown.FrontMatter.title): "
 - 
 
-Classification Title: $($hugoMarkdown.FrontMatter.title)
-Current Description: $($hugoMarkdown.FrontMatter.description)
+**Classification Title:** $($hugoMarkdown.FrontMatter.title)  
+**Classification Description:** $($hugoMarkdown.FrontMatter.description)
+**Classification Content:** 
+~~~
+$($hugoMarkdown.BodyContent)
+~~~
 
 Generate the classification description only with no additional text.
 - Do not enclose in quotes
@@ -176,8 +187,12 @@ When generating the description, consider the following contexts and include rel
         
         Keep the writing **clear, to the point, and free of fluff**. Do not introduce the topic as a “classification” or “category.” Instead, simply **discuss the concept as if explaining it to an informed reader**.
         
-        **Topic Title:** $($hugoMarkdown.FrontMatter.title)  
-        **Current Description:** $($hugoMarkdown.FrontMatter.description)  
+        **Classification Title:** $($hugoMarkdown.FrontMatter.title)  
+        **Classification Description:** $($hugoMarkdown.FrontMatter.description)
+        **Classification Content:** 
+        ~~~
+        $($hugoMarkdown.BodyContent)
+        ~~~
         
         ### **Guidance for Generating the Content:**
         - Assume the reader **already understands Agile, Scrum, and DevOps**—get straight to the point.
